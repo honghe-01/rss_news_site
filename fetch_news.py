@@ -1,660 +1,443 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
-fetch_news.py
-========================================
-生成 Michael News 网站数据（docs/news.json + docs/site_meta.json）
+RSS News -> Static site data builder (GitHub Pages)
 
-功能：
-- 抓取 BBC World + NHK cat0 RSS
-- 对每条新闻打开网页，提取“第一段”作为摘要
-- 翻译成中文：
-  - 英文：en -> zh
-  - 日文：ja -> en -> zh（因为很多环境下找不到 ja->zh 模型）
-- 结果写入 docs/news.json（供 GitHub Pages 静态网页读取）
+目标：
+- 抓取 RSS（BBC World + NHK cat0）
+- 为每条新闻抓取“第一段原文”
+- 标题 & 第一段都翻译成中文
+  - BBC: en -> zh 直接
+  - NHK: ja -> en -> zh（因为通常没有 ja->zh 模型）
+- 生成 docs/data.json 给 GitHub Pages 站点使用
 
-用法（GitHub Actions 推荐）：
-- 安装翻译模型（可失败，不影响后续生成）：
-    python fetch_news.py --install-models
-- 生成网站数据（全量）：
-    python fetch_news.py --all
-
-本地调试：
-- 只看新增：
-    python fetch_news.py --new --limit 5
+用法（本地/Actions）：
+- 安装模型（Actions 用）：python fetch_news.py --install-models
+- 构建站点数据：python fetch_news.py --build-site --limit 50
+- 终端查看：python fetch_news.py --all --limit 3
 """
 
 import argparse
-import hashlib
 import json
 import os
 import re
 import sys
 import time
-from datetime import datetime
-from typing import Dict, List, Optional, Set, Tuple
-from urllib.parse import urlparse
+from dataclasses import dataclass
+from datetime import datetime, timezone
+from typing import Any, Dict, List, Optional, Tuple
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-from dateutil import parser as date_parser
+from dateutil import parser as dateparser
 
-# =========================
-# 1) 可配置项
-# =========================
-
-RSS_FEEDS = [
+# -------------------------
+# 配置：RSS 源
+# -------------------------
+SOURCES = [
     {
         "name": "BBC News",
-        "url": "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml",
+        "lang": "en",
+        "rss": "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml",
     },
     {
         "name": "NHKニュース",
-        "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+        "lang": "ja",
+        "rss": "https://www3.nhk.or.jp/rss/news/cat0.xml",
     },
 ]
 
-REQUEST_TIMEOUT_SECONDS = 12
-REQUEST_RETRY_TIMES = 2
-REQUEST_RETRY_SLEEP_SECONDS = 1
+UA = {
+    "User-Agent": "Mozilla/5.0 (compatible; MichaelNewsBot/1.0; +https://github.com/)"
+}
 
-ARTICLE_FETCH_SLEEP_SECONDS = 0.25
+DEFAULT_TIMEOUT = 15
+RETRY = 3
+SLEEP_BETWEEN = 1
 
-DEFAULT_PRINT_LIMIT = 20
+DATA_OUT_PATH = os.path.join("docs", "data.json")
 
-SEEN_FILE = "seen.json"
-TRANSLATION_CACHE_FILE = "translation_cache.json"
 
-DOCS_DIR = "docs"
-NEWS_JSON_PATH = os.path.join(DOCS_DIR, "news.json")
-SITE_META_PATH = os.path.join(DOCS_DIR, "site_meta.json")
+# -------------------------
+# 工具：输出
+# -------------------------
+def log(msg: str) -> None:
+    print(msg, flush=True)
 
-# =========================
-# 2) 小工具
-# =========================
 
-def print_cn(msg: str) -> None:
-    print(msg)
-
-def ensure_dir(path: str) -> None:
+def safe_mkdir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
 
-def safe_get_str(value, default: str = "") -> str:
-    if value is None:
-        return default
-    try:
-        s = str(value).strip()
-        return s if s else default
-    except Exception:
-        return default
 
-def load_json(path: str, default):
-    if not os.path.exists(path):
-        return default
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return default
+def normalize_ws(s: str) -> str:
+    return re.sub(r"\s+", " ", (s or "").strip())
 
-def save_json(path: str, data) -> None:
-    ensure_dir(os.path.dirname(path) or ".")
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
 
-def sha1_text(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8", errors="ignore")).hexdigest()
+def truncate(s: str, n: int) -> str:
+    s = s or ""
+    return s if len(s) <= n else s[:n].rstrip() + "..."
 
-def normalize_text(s: str) -> str:
-    if not s:
-        return ""
-    s = re.sub(r"\s+", " ", s)
-    return s.strip()
 
-def looks_japanese(text: str) -> bool:
-    # 粗略判断：出现假名/常用日文字符就当日文
-    return bool(re.search(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]", text or ""))
-
-def parse_datetime_from_entry(entry: dict) -> Optional[datetime]:
-    for key in ("published_parsed", "updated_parsed"):
-        parsed = entry.get(key)
-        if parsed:
+def parse_dt(entry: Any) -> Optional[datetime]:
+    # feedparser 可能给 published / updated / created
+    for k in ("published", "updated", "created"):
+        if k in entry and entry[k]:
             try:
-                ts = time.mktime(parsed)
-                return datetime.fromtimestamp(ts).astimezone()
+                dt = dateparser.parse(entry[k])
+                if not dt.tzinfo:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt
             except Exception:
                 pass
-
-    for key in ("published", "updated"):
-        text = entry.get(key)
-        if text:
-            try:
-                dt = date_parser.parse(str(text))
-                if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=datetime.now().astimezone().tzinfo)
-                return dt.astimezone()
-            except Exception:
-                pass
-
     return None
 
-def requests_get_with_retry(url: str) -> Optional[requests.Response]:
-    headers = {"User-Agent": "michael-news-bot/1.0"}
-    attempt_total = REQUEST_RETRY_TIMES + 1
 
-    for attempt in range(1, attempt_total + 1):
-        try:
-            resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT_SECONDS)
-            resp.raise_for_status()
-            return resp
-        except requests.exceptions.RequestException as e:
-            if attempt < attempt_total:
-                print_cn(f"⚠️ 抓取失败（第 {attempt}/{attempt_total} 次）：{e}")
-                print_cn(f"   {REQUEST_RETRY_SLEEP_SECONDS} 秒后重试...")
-                time.sleep(REQUEST_RETRY_SLEEP_SECONDS)
-            else:
-                print_cn(f"❌ 抓取失败（已重试 {REQUEST_RETRY_TIMES} 次仍失败）：{e}")
-                return None
-    return None
-
-def build_item_key(title: str, link: str) -> str:
-    return link if link else title
-
-# =========================
-# 3) 抓文章“第一段”
-# =========================
-
-def extract_first_paragraph(url: str, html: str) -> str:
-    """
-    从文章页 HTML 提取“第一段”正文。
-    优先站点规则，其次通用规则。
-    """
-    soup = BeautifulSoup(html, "html.parser")
-
-    # 去掉无用内容
-    for tag in soup(["script", "style", "noscript"]):
-        tag.decompose()
-
-    host = urlparse(url).netloc.lower()
-
-    def first_good_paragraph(container) -> str:
-        if not container:
-            return ""
-        ps = container.find_all("p")
-        for p in ps:
-            t = normalize_text(p.get_text(" ", strip=True))
-            # 过滤太短/导航类
-            if len(t) >= 30:
-                return t
-        # 兜底：取第一个非空
-        for p in ps:
-            t = normalize_text(p.get_text(" ", strip=True))
-            if t:
-                return t
+def fmt_dt(dt: Optional[datetime]) -> str:
+    if not dt:
         return ""
+    # 输出 ISO + 时区
+    return dt.astimezone().isoformat(timespec="seconds")
 
-    # ---- NHK ----
-    if "nhk.or.jp" in host:
-        candidates = [
-            soup.select_one("#js-article-body"),
-            soup.select_one(".content--detail-body"),
-            soup.select_one("article"),
-            soup.select_one("main"),
-        ]
-        for c in candidates:
-            t = first_good_paragraph(c)
-            if t:
-                return t
 
-    # ---- BBC ----
-    if "bbc." in host:
-        container = soup.select_one("main") or soup.select_one("article")
-        t = first_good_paragraph(container)
-        if t:
-            return t
-
-    # ---- 通用 ----
-    container = soup.select_one("article") or soup.select_one("main")
-    t = first_good_paragraph(container)
-    if t:
-        return t
-
-    # ---- 最后兜底：全站 p ----
-    for p in soup.find_all("p"):
-        t = normalize_text(p.get_text(" ", strip=True))
-        if len(t) >= 30:
-            return t
-    for p in soup.find_all("p"):
-        t = normalize_text(p.get_text(" ", strip=True))
-        if t:
-            return t
-    return ""
-
-def fetch_first_paragraph(url: str) -> str:
-    if not url:
-        return ""
-    resp = requests_get_with_retry(url)
-    if resp is None:
-        return ""
-    html = resp.text
-    return extract_first_paragraph(url, html)
-
-# =========================
-# 4) 离线翻译（Argos）
-# =========================
-
-def _try_import_argos():
+# -------------------------
+# 翻译：Argos（离线）
+# -------------------------
+def _import_argos():
     try:
-        import argostranslate.package  # type: ignore
-        import argostranslate.translate  # type: ignore
+        import argostranslate.package  # noqa
+        import argostranslate.translate  # noqa
         return True
     except Exception:
         return False
 
-ARGOS_AVAILABLE = _try_import_argos()
 
-def load_translation_cache() -> Dict[str, str]:
-    data = load_json(TRANSLATION_CACHE_FILE, default={})
-    return data if isinstance(data, dict) else {}
+ARGOS_AVAILABLE = _import_argos()
 
-def save_translation_cache(cache: Dict[str, str]) -> None:
-    save_json(TRANSLATION_CACHE_FILE, cache)
 
-def argos_installed_languages() -> Set[Tuple[str, str]]:
+def translate_argos(text: str, from_code: str, to_code: str) -> Optional[str]:
     """
-    返回已安装语言对 (from_code, to_code)
+    使用 Argos Translate 翻译。
+    注意：Argos 没有时会返回 None；模型缺失也会异常 -> None
     """
-    if not ARGOS_AVAILABLE:
-        return set()
-    import argostranslate.translate  # type: ignore
-    langs = argostranslate.translate.get_installed_languages()
-    pairs = set()
-    for l in langs:
-        for t in l.translations:
-            pairs.add((l.code, t.to_lang.code))
-    return pairs
-
-def argos_translate(text: str, from_code: str, to_code: str) -> Optional[str]:
+    if not text:
+        return ""
     if not ARGOS_AVAILABLE:
         return None
-    import argostranslate.translate  # type: ignore
-
-    installed = argos_installed_languages()
-    if (from_code, to_code) not in installed:
-        return None
-
     try:
-        return argostranslate.translate.translate(text, from_code, to_code)
+        import argostranslate.translate as atranslate
+
+        return normalize_ws(atranslate.translate(text, from_code, to_code))
     except Exception:
         return None
 
-def translate_to_zh(text: str, prefer_lang: str) -> str:
+
+def translate_to_zh(text: str, src_lang: str) -> Optional[str]:
     """
-    prefer_lang: 'en' or 'ja' (来源语言的偏好)
-    翻译逻辑：
-    - 如果来源是英文：en->zh
-    - 如果来源是日文：
-        1) 尝试 ja->zh（如果有）
-        2) 否则 ja->en 再 en->zh（推荐路径）
+    统一翻译到中文（zh）
+    - en -> zh：直接
+    - ja -> zh：优先直接；若失败则 ja->en 再 en->zh
     """
-    text = safe_get_str(text, "")
     if not text:
         return ""
+    text = normalize_ws(text)
 
-    if not ARGOS_AVAILABLE:
-        return ""
+    if src_lang == "en":
+        return translate_argos(text, "en", "zh")
 
-    cache = translate_to_zh._cache  # type: ignore
-    key = sha1_text(f"{prefer_lang}||{text}")
-    if key in cache:
-        return cache[key]
-
-    result = ""
-
-    if prefer_lang == "en":
-        r = argos_translate(text, "en", "zh")
-        result = r or ""
-    else:
-        # ja source
-        direct = argos_translate(text, "ja", "zh")
+    if src_lang == "ja":
+        direct = translate_argos(text, "ja", "zh")
         if direct:
-            result = direct
-        else:
-            mid = argos_translate(text, "ja", "en")
-            if mid:
-                final = argos_translate(mid, "en", "zh")
-                result = final or ""
+            return direct
+        # 中转：ja -> en -> zh
+        mid = translate_argos(text, "ja", "en")
+        if not mid:
+            return None
+        return translate_argos(mid, "en", "zh")
 
-    cache[key] = result
-    return result
+    # 其他语言：先不处理
+    return None
 
-translate_to_zh._cache = load_translation_cache()  # type: ignore
 
-def install_argos_models() -> int:
+def install_argos_models() -> None:
     """
-    安装需要的 Argos 模型：
+    Actions 中安装模型：
     - en -> zh
-    - ja -> en
-    - (可选) ja -> zh（多数时候索引里没有，不强求）
-
-    返回：
-    - 0：执行完成（即使缺 ja->zh 也算成功）
-    - 1：更新索引/下载严重失败
+    - ja -> en  （用于 NHK 中转）
     """
     if not ARGOS_AVAILABLE:
-        print_cn("❌ 未安装 argostranslate，跳过模型安装。")
-        print_cn("   解决：python -m pip install argostranslate")
-        return 1
+        log("❌ 未安装 argostranslate，无法安装模型。请先 pip install argostranslate")
+        sys.exit(1)
 
-    import argostranslate.package  # type: ignore
+    import argostranslate.package as ap
 
-    def retry(fn, times=3, sleep_s=2):
-        last_err = None
-        for i in range(times):
-            try:
-                return fn()
-            except Exception as e:
-                last_err = e
-                print_cn(f"⚠️ 模型索引/下载失败（第 {i+1}/{times} 次）：{e}")
-                time.sleep(sleep_s)
-        raise last_err  # type: ignore
+    log("🌏 正在更新 Argos 模型索引（需要联网下载模型）...")
+    ap.update_package_index()
+    pkgs = ap.get_available_packages()
 
-    print_cn("🌏 正在更新 Argos 模型索引（需要联网下载模型）...")
+    wanted = {("en", "zh"), ("ja", "en")}
+    installed = []
 
-    try:
-        retry(argostranslate.package.update_package_index, times=3, sleep_s=2)
-        available_packages = argostranslate.package.get_available_packages()
-    except Exception as e:
-        print_cn(f"❌ 更新模型索引失败：{e}")
-        return 1
-
-    def find_pkg(frm: str, to: str):
-        for p in available_packages:
-            if p.from_code == frm and p.to_code == to:
-                return p
-        return None
-
-    wanted = [("en", "zh"), ("ja", "en"), ("ja", "zh")]
-
-    for frm, to in wanted:
-        pkg = find_pkg(frm, to)
+    for f, t in wanted:
+        pkg = next((p for p in pkgs if p.from_code == f and p.to_code == t), None)
         if not pkg:
-            print_cn(f"⚠️ 未在索引中找到：{frm}->{to}")
+            log(f"⚠️ 未在索引中找到：{f}->{t}")
             continue
+        log(f"⬇️ 发现模型 {f}->{t}，开始下载并安装...")
+        ap.install_from_path(pkg.download())
+        installed.append(f"{f}->{t}")
+        log(f"✅ 已安装：{f}->{t}")
+
+    if installed:
+        log("✅ 模型安装完成：" + ", ".join(installed))
+    else:
+        log("⚠️ 本次没有安装任何模型（可能索引缺失或网络问题）")
+
+
+# -------------------------
+# 抓取第一段摘要
+# -------------------------
+def http_get(url: str) -> Optional[str]:
+    for i in range(RETRY):
         try:
-            print_cn(f"⬇️ 发现模型 {frm}->{to}，开始下载并安装...")
-            download_path = pkg.download()
-            argostranslate.package.install_from_path(download_path)
-            print_cn(f"✅ 已安装：{frm}->{to}")
+            r = requests.get(url, headers=UA, timeout=DEFAULT_TIMEOUT)
+            r.raise_for_status()
+            r.encoding = r.apparent_encoding or r.encoding
+            return r.text
         except Exception as e:
-            print_cn(f"⚠️ 安装失败 {frm}->{to}：{e}")
+            if i < RETRY - 1:
+                log(f"⚠️ 抓取失败（第 {i+1}/{RETRY} 次）：{e}")
+                time.sleep(SLEEP_BETWEEN)
+            else:
+                log(f"❌ 抓取失败：{e}")
+                return None
+    return None
 
-    print_cn("✅ 模型安装流程结束（即使缺 ja->zh 也没关系，日文会走 ja->en->zh）。")
-    return 0
 
-# =========================
-# 5) RSS 抓取/合并/增量
-# =========================
+def extract_first_paragraph_bbc(html: str) -> str:
+    soup = BeautifulSoup(html, "lxml")
 
-def load_seen(file_path: str) -> Set[str]:
-    data = load_json(file_path, default={"seen": []})
-    seen_list = data.get("seen", []) if isinstance(data, dict) else []
-    if not isinstance(seen_list, list):
-        return set()
-    return set(str(x) for x in seen_list)
+    # BBC 新版常见结构：data-component="text-block" 里有 p
+    candidates = []
+    for p in soup.select('[data-component="text-block"] p'):
+        t = normalize_ws(p.get_text(" ", strip=True))
+        if len(t) >= 20:
+            candidates.append(t)
 
-def save_seen(file_path: str, seen_set: Set[str]) -> None:
-    save_json(file_path, {"seen": sorted(seen_set)})
+    if not candidates:
+        # fallback：全站第一个够长的 p
+        for p in soup.find_all("p"):
+            t = normalize_ws(p.get_text(" ", strip=True))
+            if len(t) >= 20:
+                candidates.append(t)
 
-def fetch_and_parse_one_feed(feed_name: str, feed_url: str) -> List[Dict]:
-    print_cn(f"📰 正在抓取 {feed_name}：{feed_url}")
+    return candidates[0] if candidates else ""
 
-    resp = requests_get_with_retry(feed_url)
-    if resp is None:
-        print_cn(f"❌ 跳过 {feed_name}（抓取失败）")
-        return []
 
-    parsed = feedparser.parse(resp.content)
+def extract_first_paragraph_nhk(html: str) -> str:
+    soup = BeautifulSoup(html, "lxml")
 
-    feed_title = safe_get_str(parsed.get("feed", {}).get("title"), default=feed_name)
-    source_name = feed_title if feed_title else feed_name
+    # NHK 常见正文容器：id/news_textbody 或 class 包含 body
+    candidates = []
 
-    entries = parsed.get("entries", [])
-    print_cn(f"✅ {feed_name} 抓取成功，解析到 {len(entries)} 条条目")
+    body = soup.find(id="news_textbody")
+    if body:
+        for p in body.find_all("p"):
+            t = normalize_ws(p.get_text(" ", strip=True))
+            if len(t) >= 15:
+                candidates.append(t)
 
-    now_dt = datetime.now().astimezone()
-    items: List[Dict] = []
+    if not candidates:
+        # fallback：找 main/article 下的 p
+        for p in soup.select("article p, main p"):
+            t = normalize_ws(p.get_text(" ", strip=True))
+            if len(t) >= 15:
+                candidates.append(t)
 
-    for entry in entries:
-        title = safe_get_str(entry.get("title"), default="(无标题)")
-        link = safe_get_str(entry.get("link"), default="")
+    return candidates[0] if candidates else ""
 
-        dt = parse_datetime_from_entry(entry) or now_dt
-        published_str = dt.strftime("%Y-%m-%d %H:%M:%S%z")
-        if len(published_str) >= 5:
-            published_str = published_str[:-5] + published_str[-5:-2] + ":" + published_str[-2:]
 
-        item_key = build_item_key(title=title, link=link)
+def fetch_first_paragraph(url: str, source_name: str) -> str:
+    html = http_get(url)
+    if not html:
+        return ""
+    if "bbc" in (url or "").lower() or source_name == "BBC News":
+        return extract_first_paragraph_bbc(html)
+    if "nhk" in (url or "").lower() or source_name == "NHKニュース":
+        return extract_first_paragraph_nhk(html)
+    # fallback
+    soup = BeautifulSoup(html, "lxml")
+    for p in soup.find_all("p"):
+        t = normalize_ws(p.get_text(" ", strip=True))
+        if len(t) >= 20:
+            return t
+    return ""
 
-        items.append({
-            "source": source_name,
-            "published": published_str,
-            "_published_ts": dt.timestamp(),
-            "title": title,
-            "link": link,
-            "_key": item_key,
-        })
 
-    return items
+# -------------------------
+# 数据结构
+# -------------------------
+@dataclass
+class NewsItem:
+    source: str
+    source_lang: str
+    title: str
+    link: str
+    published_at: str
+    summary: str
+    title_zh: str
+    summary_zh: str
 
-def merge_sort_dedupe(items: List[Dict]) -> List[Dict]:
-    items_sorted = sorted(items, key=lambda x: x.get("_published_ts", 0), reverse=True)
-    seen_in_run: Set[str] = set()
-    unique_items: List[Dict] = []
 
-    for it in items_sorted:
-        key = safe_get_str(it.get("_key"), default="")
-        if not key:
-            key = f"__empty__{it.get('_published_ts', 0)}"
-        if key in seen_in_run:
-            continue
-        seen_in_run.add(key)
-        unique_items.append(it)
+def item_to_dict(x: NewsItem) -> Dict[str, Any]:
+    return {
+        "source": x.source,
+        "source_lang": x.source_lang,
+        "title": x.title,
+        "title_zh": x.title_zh,
+        "link": x.link,
+        "published_at": x.published_at,
+        "summary": x.summary,
+        "summary_zh": x.summary_zh,
+    }
 
-    return unique_items
 
-def filter_new_items(items: List[Dict], seen_before: Set[str], mode_new: bool) -> Tuple[List[Dict], Set[str]]:
-    updated_seen = set(seen_before)
-
-    if not mode_new:
-        for it in items:
-            k = safe_get_str(it.get("_key"), default="")
-            if k:
-                updated_seen.add(k)
-        return items, updated_seen
-
-    new_items: List[Dict] = []
-    for it in items:
-        k = safe_get_str(it.get("_key"), default="")
-        if not k:
-            continue
-        if k not in seen_before:
-            new_items.append(it)
-        updated_seen.add(k)
-
-    return new_items, updated_seen
-
-# =========================
-# 6) 构建网站数据
-# =========================
-
-def build_output_items(selected_items: List[Dict]) -> List[Dict]:
+# -------------------------
+# 主流程
+# -------------------------
+def fetch_all_entries() -> List[Tuple[Dict[str, Any], Dict[str, Any]]]:
     """
-    生成最终写入 docs/news.json 的结构：
-    - title_orig / title_zh
-    - summary_orig / summary_zh（第一段）
+    返回 [(source_config, entry_dict), ...]
     """
-    out: List[Dict] = []
+    all_entries = []
+    for src in SOURCES:
+        log(f"📰 正在抓取 {src['name']}：{src['rss']}")
+        feed = feedparser.parse(src["rss"])
+        if feed.bozo:
+            log(f"⚠️ RSS 解析警告：{getattr(feed, 'bozo_exception', '')}")
+        entries = feed.entries or []
+        log(f"✅ {src['name']} 抓取成功，解析到 {len(entries)} 条条目")
+        for e in entries:
+            all_entries.append((src, e))
+    return all_entries
 
-    need_translate = ARGOS_AVAILABLE and len(argos_installed_languages()) > 0
 
-    if selected_items:
-        print_cn(f"🧾 正在为本次输出的 {len(selected_items)} 条新闻抓取“第一段摘要”...")
-    for i, it in enumerate(selected_items, start=1):
-        link = safe_get_str(it.get("link"), "")
-        title = safe_get_str(it.get("title"), "")
-        source = safe_get_str(it.get("source"), "")
-        published = safe_get_str(it.get("published"), "")
-
-        summary = ""
-        if link:
-            print_cn(f"   [{i}/{len(selected_items)}] 抓摘要：{link}")
-            summary = fetch_first_paragraph(link)
-            time.sleep(ARTICLE_FETCH_SLEEP_SECONDS)
-
-        # 语言判定（优先用来源，其次看文本）
-        is_nhk = "nhk" in source.lower()
-        prefer_lang = "ja" if (is_nhk or looks_japanese(title + " " + summary)) else "en"
-
-        title_zh = ""
-        summary_zh = ""
-        if need_translate:
-            title_zh = translate_to_zh(title, prefer_lang=prefer_lang)
-            summary_zh = translate_to_zh(summary, prefer_lang=prefer_lang)
-
-        out.append({
-            "source": source,
-            "published": published,
-            "link": link,
-            "title_orig": title,
-            "title_zh": title_zh,
-            "summary_orig": summary,
-            "summary_zh": summary_zh,
-        })
-
-    # 保存翻译缓存（很重要：加速 + 减少重复翻译）
-    save_translation_cache(translate_to_zh._cache)  # type: ignore
+def dedup_entries(entries: List[Tuple[Dict[str, Any], Any]]) -> List[Tuple[Dict[str, Any], Any]]:
+    seen = set()
+    out = []
+    for src, e in entries:
+        link = (getattr(e, "link", None) or e.get("link") or "").strip()
+        if not link:
+            continue
+        if link in seen:
+            continue
+        seen.add(link)
+        out.append((src, e))
     return out
 
-def write_site(news_items: List[Dict]) -> None:
-    ensure_dir(DOCS_DIR)
-    save_json(NEWS_JSON_PATH, news_items)
 
-    meta = {
+def sort_entries(entries: List[Tuple[Dict[str, Any], Any]]) -> List[Tuple[Dict[str, Any], Any]]:
+    def key_fn(pair):
+        src, e = pair
+        dt = parse_dt(e)
+        return dt.timestamp() if dt else 0.0
+
+    return sorted(entries, key=key_fn, reverse=True)
+
+
+def build_items(entries: List[Tuple[Dict[str, Any], Any]], limit: int) -> List[NewsItem]:
+    entries = sort_entries(entries)[:limit]
+
+    log(f"🧾 正在为本次输出的 {len(entries)} 条新闻抓取“第一段摘要”...")
+    items: List[NewsItem] = []
+    for i, (src, e) in enumerate(entries, 1):
+        title = normalize_ws((getattr(e, "title", None) or e.get("title") or "").strip())
+        link = (getattr(e, "link", None) or e.get("link") or "").strip()
+        dt = parse_dt(e)
+        published_at = fmt_dt(dt)
+
+        log(f"   [{i}/{len(entries)}] 抓摘要：{link}")
+        first_para = fetch_first_paragraph(link, src["name"])
+        first_para = normalize_ws(first_para)
+
+        # 翻译（标题 + 摘要）
+        title_zh = translate_to_zh(title, src["lang"]) or "（未翻译/翻译失败）"
+        summary_zh = translate_to_zh(first_para, src["lang"]) or "（未翻译/翻译失败）"
+
+        items.append(
+            NewsItem(
+                source=src["name"],
+                source_lang=src["lang"],
+                title=title,
+                link=link,
+                published_at=published_at,
+                summary=first_para,
+                title_zh=title_zh,
+                summary_zh=summary_zh,
+            )
+        )
+    return items
+
+
+def render_terminal(items: List[NewsItem], n: int) -> None:
+    show = items[:n]
+    log("")
+    log(f"📌 终端展示最新 {len(show)} 条：")
+    log("-" * 60)
+    for idx, it in enumerate(show, 1):
+        log(f"{idx}. [{it.published_at}] ({it.source})")
+        log(f"   标题：{it.title}")
+        log(f"   标题（中文）：{it.title_zh}")
+        log(f"   链接：{it.link}")
+        log(f"   摘要（第一段）：{it.summary}")
+        log(f"   摘要（中文）：{it.summary_zh}")
+        log("")
+    log("-" * 60)
+
+
+def write_site_data(items: List[NewsItem]) -> None:
+    safe_mkdir("docs")
+
+    now = datetime.now(timezone.utc).astimezone()
+    payload = {
         "site_title": "Michael News",
-        "last_updated": datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S %z"),
-        "count": len(news_items),
+        "generated_at": now.isoformat(timespec="seconds"),
+        "count": len(items),
+        "items": [item_to_dict(x) for x in items],
     }
-    save_json(SITE_META_PATH, meta)
+    with open(DATA_OUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    log(f"💾 已生成站点数据：{DATA_OUT_PATH}")
 
-def print_items(items: List[Dict], limit: int) -> None:
-    if not items:
-        print_cn("（本次没有需要输出的新闻）")
-        return
 
-    print_cn("")
-    print_cn(f"📌 终端展示最新 {min(limit, len(items))} 条：")
-    print_cn("------------------------------------------------------------")
-    for idx, it in enumerate(items[:limit], start=1):
-        print_cn(f"{idx}. [{it.get('published', '')}] ({it.get('source', '')})")
-        t0 = safe_get_str(it.get("title_orig"), "")
-        tz = safe_get_str(it.get("title_zh"), "")
-        s0 = safe_get_str(it.get("summary_orig"), "")
-        sz = safe_get_str(it.get("summary_zh"), "")
-
-        if tz:
-            print_cn(f"   标题：{t0}（{tz}）")
-        else:
-            print_cn(f"   标题：{t0}（未翻译）")
-
-        print_cn(f"   链接：{it.get('link', '')}")
-
-        if sz:
-            print_cn(f"   摘要：{s0}（{sz}）")
-        else:
-            # 允许摘要为空
-            if s0:
-                print_cn(f"   摘要：{s0}（未翻译）")
-            else:
-                print_cn("   摘要：（未提取到第一段，可能是网站结构变化/反爬/网络问题）")
-        print_cn("")
-    print_cn("------------------------------------------------------------")
-
-# =========================
-# 7) CLI
-# =========================
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="抓取 RSS 新闻，生成 Michael News 站点数据（带中文翻译）")
-
-    group = parser.add_mutually_exclusive_group()
-    group.add_argument("--new", action="store_true", help="只输出新增（默认行为）")
-    group.add_argument("--all", action="store_true", help="输出全部（不做增量过滤）")
-
-    parser.add_argument("--limit", type=int, default=DEFAULT_PRINT_LIMIT, help="终端打印条数（默认 20）")
-    parser.add_argument("--install-models", action="store_true", help="安装/更新 Argos 翻译模型（需要联网）")
-    return parser.parse_args()
-
-def main() -> None:
-    args = parse_args()
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--install-models", action="store_true", help="安装 Argos 翻译模型（Actions 用）")
+    ap.add_argument("--all", action="store_true", help="输出全部（不做增量）")
+    ap.add_argument("--new", action="store_true", help="（保留参数，但此精简版本不做增量）")
+    ap.add_argument("--limit", type=int, default=50, help="最多处理多少条（默认 50）")
+    ap.add_argument("--build-site", action="store_true", help="生成 docs/data.json（用于 GitHub Pages）")
+    ap.add_argument("--print", action="store_true", help="终端打印最新 3 条（默认不开）")
+    args = ap.parse_args()
 
     if args.install_models:
-        code = install_argos_models()
-        # 不强制失败：让 Actions 更稳定（即使网络抽风也不影响后续生成）
-        sys.exit(0 if code == 0 else 0)
-
-    mode_new = True
-    if args.all:
-        mode_new = False
-
-    seen_before = load_seen(SEEN_FILE)
-
-    all_items: List[Dict] = []
-    for feed in RSS_FEEDS:
-        name = safe_get_str(feed.get("name"), default="(未命名RSS)")
-        url = safe_get_str(feed.get("url"), default="")
-        items = fetch_and_parse_one_feed(feed_name=name, feed_url=url)
-        all_items.extend(items)
-
-    if not all_items:
-        print_cn("⚠️ 没有抓到任何条目。请检查网络或 RSS 链接是否可用。")
-        # 仍然写一个空站点，避免网页崩
-        write_site([])
+        install_argos_models()
         return
 
-    merged_unique = merge_sort_dedupe(all_items)
-    print_cn(f"🔁 合并后去重：{len(merged_unique)} 条（来自 {len(RSS_FEEDS)} 个源）")
+    entries = fetch_all_entries()
+    entries = dedup_entries(entries)
 
-    selected_items, updated_seen = filter_new_items(
-        items=merged_unique,
-        seen_before=seen_before,
-        mode_new=mode_new,
-    )
+    # 这个精简版默认不做增量，--new 只是兼容你原来的命令
+    entries = sort_entries(entries)
+    items = build_items(entries, limit=args.limit)
 
-    if mode_new:
-        print_cn(f"🆕 新增新闻：{len(selected_items)} 条（默认只输出新增）")
-    else:
-        print_cn(f"📦 输出全部：{len(selected_items)} 条（不做增量）")
+    if args.build_site:
+        write_site_data(items)
 
-    # 构建最终输出
-    output_items = build_output_items(selected_items if mode_new else merged_unique)
+    if args.print:
+        render_terminal(items, n=min(3, len(items)))
 
-    # 写站点数据（网页读取 docs/news.json）
-    write_site(output_items)
-
-    # 更新 seen
-    save_seen(SEEN_FILE, updated_seen)
-
-    # 终端展示
-    limit = max(1, int(args.limit))
-    print_items(output_items, limit=limit)
 
 if __name__ == "__main__":
-    try:
-        main()
-    except KeyboardInterrupt:
-        print_cn("\n🛑 你手动中断了程序（Ctrl+C）")
-        sys.exit(0)
-    except Exception as e:
-        print_cn(f"\n❌ 程序发生未捕获异常：{e}")
-        sys.exit(1)
+    main()
