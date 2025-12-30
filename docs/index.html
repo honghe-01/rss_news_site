@@ -3,280 +3,428 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>RSS News Site</title>
+  <title>Michael News</title>
   <style>
-    :root{
-      --bg:#ffffff; --fg:#111; --muted:#666; --border:#eee; --card:#fafafa;
-      --primary:#0b57d0; --chip:#f1f5ff;
-    }
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial; background:var(--bg); color:var(--fg);
-         max-width:1100px;margin:20px auto;padding:0 14px;line-height:1.6}
-    h1{margin:0 0 6px 0;font-size:22px}
-    .sub{color:var(--muted);font-size:14px;margin-bottom:14px}
-    a{color:var(--primary);text-decoration:none}
-    a:hover{text-decoration:underline}
-    .toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:var(--card);border:1px solid var(--border);
-             padding:12px;border-radius:12px;margin:14px 0}
-    .group{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-    .label{color:var(--muted);font-size:13px}
-    input[type="text"]{width:min(520px, 100%);padding:10px 12px;border:1px solid var(--border);border-radius:10px;font-size:14px}
-    select{padding:10px 12px;border:1px solid var(--border);border-radius:10px;font-size:14px;background:#fff}
-    .check{display:flex;gap:6px;align-items:center;font-size:14px}
-    .chips{display:flex;gap:8px;flex-wrap:wrap}
-    .chip{background:var(--chip);border:1px solid var(--border);padding:6px 10px;border-radius:999px;font-size:13px;cursor:pointer;user-select:none}
-    .chip.active{border-color:var(--primary)}
-    .stats{margin:10px 0;color:var(--muted);font-size:14px}
-    .list{display:grid;grid-template-columns:1fr;gap:10px}
-    .item{border:1px solid var(--border);border-radius:12px;padding:12px;background:#fff}
-    .meta{display:flex;gap:10px;align-items:center;flex-wrap:wrap;color:var(--muted);font-size:13px;margin-bottom:6px}
-    .badge{background:#f6f6f6;border:1px solid var(--border);padding:2px 8px;border-radius:999px;color:#333}
-    .title{font-size:16px;font-weight:650;margin:2px 0 6px 0}
-    .title-zh{font-size:14px;color:#222;margin:0 0 8px 0}
-    .placeholder{color:#999}
-    .summary{font-size:14px;margin:0 0 6px 0}
-    .summary-zh{font-size:14px;margin:0}
-    .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
-    button{border:1px solid var(--border);background:#fff;padding:8px 10px;border-radius:10px;cursor:pointer}
-    button:hover{border-color:#cfcfcf}
-    details{margin-top:10px}
-    details summary{cursor:pointer;color:var(--primary)}
-    footer{margin:18px 0 10px 0;color:var(--muted);font-size:13px}
-    .warn{background:#fff7e6;border:1px solid #ffe1a6;padding:10px;border-radius:12px}
-    code{background:#f6f6f6;padding:2px 6px;border-radius:6px}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;
+         margin:0;background:#fafafa;color:#111;}
+    .wrap{max-width:980px;margin:24px auto;padding:0 16px;}
+    h1{margin:0 0 8px 0;font-size:28px;}
+    .sub{color:#555;margin-bottom:18px;}
+    .card{background:#fff;border:1px solid #e7e7e7;border-radius:12px;
+          padding:16px;margin:12px 0;box-shadow:0 1px 2px rgba(0,0,0,.03);}
+    .meta{color:#666;font-size:13px;margin-bottom:10px;}
+    .title{font-size:18px;font-weight:700;line-height:1.35;margin-bottom:10px;}
+    .para{font-size:15px;line-height:1.7;color:#222;}
+    .link{margin-top:10px;font-size:14px;}
+    a{color:#0b57d0;text-decoration:none;}
+    a:hover{text-decoration:underline;}
+    .empty{padding:24px;background:#fff;border:1px dashed #ccc;border-radius:12px;color:#666;}
   </style>
 </head>
-
 <body>
-  <h1>📰 RSS News Site</h1>
-  <div class="sub" id="status">加载中…</div>
+  <div class="wrap">
+    <h1>📰 Michael News</h1>
+    <div class="sub">最后更新：2025-12-30 22:27:39 +0900 ｜ 共 50 条</div>
+    
+        <div class="card">
+          <div class="meta">NHKニュース · 2025-12-30 21:29:07+0900</div>
+          <div class="title">住宅ローン 大手銀行 1月から適用する固定金利引き上げを発表（主要银行公告 固定利率增加）</div>
+          <div class="para">（未翻译）</div>
+          <div class="link"><a href="http://www3.nhk.or.jp/news/html/20251230/k10015016961000.html" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
 
-  <div class="toolbar">
-    <div class="group" style="flex:1">
-      <div class="label">搜索</div>
-      <input id="q" type="text" placeholder="搜标题/摘要/中文（例如：台湾 / ceasefire / トランプ）" />
-    </div>
+        <div class="card">
+          <div class="meta">NHKニュース · 2025-12-30 21:24:38+0900</div>
+          <div class="title">関越道 多重事故 複数ドライバー「カーブで見通し悪かった」（Kan-etsu高速公路 多事故多司机 "这是前所未有的"）</div>
+          <div class="para">（未翻译）</div>
+          <div class="link"><a href="http://www3.nhk.or.jp/news/html/20251230/k10015016921000.html" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
 
-    <div class="group">
-      <div class="label">排序</div>
-      <select id="sort">
-        <option value="new">最新在前</option>
-        <option value="old">最旧在前</option>
-      </select>
-    </div>
+        <div class="card">
+          <div class="meta">NHKニュース · 2025-12-30 21:19:31+0900</div>
+          <div class="title">アメリカ “ベネズエラ港湾施設をCIAが無人機で攻撃” CNN（美国 " 委内瑞拉港口设施CIA用变质物袭击 " CNN）</div>
+          <div class="para">（未翻译）</div>
+          <div class="link"><a href="http://www3.nhk.or.jp/news/html/20251230/k10015016891000.html" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
 
-    <div class="group">
-      <label class="check">
-        <input id="onlyZh" type="checkbox" />
-        只看有中文翻译
-      </label>
-    </div>
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 20:43:26+0900</div>
+          <div class="title">Ukraine denies drone attack on Putin's residence（乌克兰否认无人机袭击普京住宅）</div>
+          <div class="para">President Volodymyr Zelensky has denied allegations by Russia that Ukraine launched a drone attack on one of President Vladimir Putin's residences, and accused Moscow of trying to derail peace talks.（沃洛迪米尔·泽连斯基总统否认俄罗斯指控乌克兰对弗拉基米尔·普京总统官邸之一发动无人机袭击,并指责莫斯科试图破坏和谈.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">NHKニュース · 2025-12-30 20:33:09+0900</div>
+          <div class="title">東京 多摩動物公園 オオカミは植栽を伝い 壁飛び越えたか（东京玉马动物学公园 冈美过墙）</div>
+          <div class="para">（未翻译）</div>
+          <div class="link"><a href="http://www3.nhk.or.jp/news/html/20251230/k10015016971000.html" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 20:20:27+0900</div>
+          <div class="title">French right pushes for national tribute to film star Brigitte Bardot（法国右派推动国家向电影明星Brigitte Bardot致敬）</div>
+          <div class="para">French right-wing figure Éric Ciotti has called for a national tribute to honour film legend Brigitte Bardot, prompting objections from political opponents on the left.（法国右翼人物埃里克·乔蒂(Éric Ciotti)呼吁举行全国性的致敬活动,以纪念电影传奇布丽吉特·巴多特,引起左翼政治反对派的反对.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">NHKニュース · 2025-12-30 19:41:35+0900</div>
+          <div class="title">秀吉がふるまった “金粉塗られたあんずの種” 発見 山口 岩国（Hideyoshi的"金漆安祖种子"发现山口岩库尼）</div>
+          <div class="para">（未翻译）</div>
+          <div class="link"><a href="http://www3.nhk.or.jp/news/html/20251230/k10015016631000.html" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 19:38:53+0900</div>
+          <div class="title">Turkey detains 357 suspected IS members in nationwide raids（土耳其在全国袭击中拘留了357名可疑IS成员）</div>
+          <div class="para">More than 350 suspected Islamic State group (IS) members have been detained as part of nationwide police operations in Turkey.（作为土耳其全国警察行动的一部分,350多名伊斯兰国家集团嫌疑成员被拘留。）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">NHKニュース · 2025-12-30 19:19:53+0900</div>
+          <div class="title">東証 終値は5万円台 年末として最高水準 記録的な株高の年に（TSE:年底收5万日元.）</div>
+          <div class="para">（未翻译）</div>
+          <div class="link"><a href="http://www3.nhk.or.jp/news/html/20251230/k10015016651000.html" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 18:40:58+0900</div>
+          <div class="title">K-pop band NewJeans breaks up after bitter feud with record label（K- pop乐队 NewJeans 苦恼后以唱片标签分手）</div>
+          <div class="para">Chart-topping K-pop band NewJeans is losing one of its members in what is yet another twist in the group's bitter year-long feud with its record label.（新杰恩斯正在失去其中一位成员,）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 18:13:26+0900</div>
+          <div class="title">Why Israel's recognition of Somaliland as an independent state is controversial（以色列为何承认索马里兰为独立国家有争议.）</div>
+          <div class="para">Israel has taken the controversial decision to recognise the breakaway state of Somaliland as an independent nation, sparking condemnation from many other countries.（以色列作出了一项有争议的决定,承认索马里兰分裂为独立国家,引起许多其他国家的谴责。）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c14v4kmg275o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 18:13:01+0900</div>
+          <div class="title">Trump says US hit 'big facility' linked to alleged Venezuelan drug boats（特朗普说,美国打击"大设施" 与委内瑞拉的贩毒船有关）</div>
+          <div class="para">Donald Trump has said that the US carried out a strike on a "dock area" linked to alleged Venezuelan drug boats.（唐纳德·特朗普(Donald Trump)表示,美国对一个与据称委内瑞拉毒船有关的"码头地区"进行了打击.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">NHKニュース · 2025-12-30 17:51:10+0900</div>
+          <div class="title">北海道 スキー場死亡事故 5歳男児の死因は窒息死（北海道滑雪胜地死亡事故 5岁男子的死亡窒息）</div>
+          <div class="para">（未翻译）</div>
+          <div class="link"><a href="http://www3.nhk.or.jp/news/html/20251230/k10015016851000.html" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 16:45:55+0900</div>
+          <div class="title">Anthony Joshua injured in Nigeria car crash that killed two team members（Anthony Joshua在尼日利亚车祸中受伤,）</div>
+          <div class="para">British heavyweight boxer Anthony Joshua has been injured in a car crash in Nigeria, which killed two members of his team.（英国重量级拳击手安东尼·约书亚在尼日利亚的一场车祸中受伤,导致其队伍中的两名队员丧生.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 15:12:02+0900</div>
+          <div class="title">Khaleda Zia: Slain leader's widow who went on to lead Bangladesh（卡莉达·齐亚(Khaleda Zia):继续领导孟加拉国的被害领袖遗孀.）</div>
+          <div class="para">Khaleda Zia, who has died at the age of 80, was Bangladesh's first female prime minister.（卡莉达·齐亚逝世,享年80岁,是孟加拉国首位女性总理.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 14:14:28+0900</div>
+          <div class="title">Bangladesh's first female prime minister Khaleda Zia dies aged 80（孟加拉国首位女总理卡莉达·齐亚逝世 享年80岁.）</div>
+          <div class="para">Khaleda Zia, Bangladesh's first female prime minister and an arch-rival of ousted leader Sheikh Hasina, has died from a prolonged illness. She was 80 years old.（孟加拉国第一位女总理兼被罢免的领导人谢赫·哈西娜(Sheikh Hasina)的顶级竞争者Khaleda Zia, 她当时80岁.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 14:04:40+0900</div>
+          <div class="title">Trump hopes to reach phase two of Gaza ceasefire 'very quickly'（特朗普希望尽快实现加沙停火第二阶段。）</div>
+          <div class="para">Donald Trump said he hoped to reach phase two of the Gaza peace plan "very quickly", as he warned Hamas would have "hell to pay" if it did not disarm soon.（唐纳德·特朗普说,他希望"很快"达到加沙和平计划的第二阶段,因为他警告哈马斯如果它不很快解除武装,就会"付出代价".）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 12:26:06+0900</div>
+          <div class="title">Spanish woman who found fame for botching fresco restoration dies（西班牙女人因为修复壁画而得名）</div>
+          <div class="para">The Spanish parishioner who made headlines around the world for her botched restoration of a prized Jesus Christ fresco has died aged 94.（西班牙教区主因她修复一幅获奖的耶稣基督壁画而在世界各地做头条新闻的人已经去世,享年94岁.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 12:25:02+0900</div>
+          <div class="title">What growing up in war does to a child's brain - and how it really affects them years later（在战争中成长对孩子的大脑有何影响 以及它如何真正影响他们多年）</div>
+          <div class="para">Content warning: this article includes details about the impact of conflict on children in war zones and descriptions of injuries that some readers may find distressing.（内容警告:这篇文章详细介绍了冲突对战区儿童的影响,并描述了一些读者可能感到痛苦的伤害.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 12:22:12+0900</div>
+          <div class="title">'No worries': Trump downplays Chinese military drills around Taiwan（[永久失效連結] "不用担心":特朗普淡化中国在台湾周边的军事演习）</div>
+          <div class="para">US President Donald Trump has said he is not worried about China's military drills around the self-governed island of Taiwan, which it claims as its own.（美国总统唐纳德·特朗普表示,他并不担心中国在自管的台湾岛周围的军事演习,它声称台湾是自己的.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 11:17:56+0900</div>
+          <div class="title">Alleged Bondi gunmen acted alone and did not train in the Philippines, police say（据称邦迪枪手独自行动,没有在菲律宾受训,警方说）</div>
+          <div class="para">The two alleged gunmen who killed 15 people at a Jewish event on Bondi Beach were not part of a wider terror cell and acted alone, Australian police have said.（澳大利亚警方说,两名据称在邦迪海滩的一次犹太事件中杀害15人的枪手不是更广泛的恐怖小组的成员,他们独自行动。）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 10:15:19+0900</div>
+          <div class="title">Great white sharks face extinction in Mediterranean, say researchers（研究者说,大白鲨在地中海面临灭绝）</div>
+          <div class="para">Great white sharks in the Mediterranean Sea are in danger of disappearing, with illegal fishing contributing to their decline.（地中海的大白鲨面临消失的危险,非法捕鱼助长了鲨鱼的衰落.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 10:08:49+0900</div>
+          <div class="title">The fight over Christian nationalism in a small Tennessee town（田纳西州小镇的基督教民族主义斗争）</div>
+          <div class="para">As Josh Abbotoy gazes out at lush green woods and pastureland nestled among Tennessee's Appalachian hills, he describes what he intends to build here: a neighbourhood with dozens of residential lots, centred around a working farm and, crucially, a church.（Josh Abbotoy在田纳西州的阿巴拉契亚山丘间, 凝视着茂密的绿树林和牧场, 他描述了他打算在这里建造的: 一个拥有数十块住宅区的街区, 以工作农场为中心,）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 09:53:34+0900</div>
+          <div class="title">Brazil's Bolsonaro undergoes second medical procedure for hiccups（巴西的Bolsonaro接受打嗝的第二次医疗手术）</div>
+          <div class="para">Brazil's imprisoned former president, Jair Bolsonaro, has undergone a second medical procedure in just three days to treat his persistent hiccups.（巴西被囚禁的前总统贾伊尔·博尔索纳罗在短短三天内接受了第二次医疗手术,治疗他长期打嗝.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c4g4g0y4m1do?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 09:47:06+0900</div>
+          <div class="title">Naan: How the 'world's best bread' travelled from Islamic courts to our plates（纳安:"世界最好的面包"是如何从伊斯兰法院来到我们的板块的）</div>
+          <div class="para">A pillowy-soft naan - a leavened flatbread popular in South Asia - paired with rich, creamy butter chicken gravy is one of the most popular comfort foods in the region, and it's also one of the most popular Indian dishes abroad.（枕状软 na菜(学名:Opiny-soft naan) - 一种在南亚流行的落叶扁面包,与富含奶油的黄油鸡肉汁成对,是该地区最受欢迎的舒适食品之一,也是国外最受欢迎的印度菜肴之一.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 09:39:04+0900</div>
+          <div class="title">Coups, elections and protests - a difficult year for democracy in Africa（政变、选举和抗议 -- -- 非洲民主困难的一年）</div>
+          <div class="para">October's shocking events in Tanzania offer a snapshot of some of the tensions which have shaped a difficult year for African politics.（十月坦桑尼亚令人震惊的事件,）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 09:12:41+0900</div>
+          <div class="title">Russia's losses in Ukraine rise faster than ever as US pushes for peace deal（俄罗斯在乌克兰的损失增加得比以往快,因为美国推动和平协议）</div>
+          <div class="para">Over the past 10 months, Russian losses in the war with Ukraine have been growing faster than any time since the start of the full-scale invasion in 2022, BBC analysis suggests.（在过去的10个月里,俄国在与乌克兰的战争中的损失比2022年全面入侵开始以来的任何时候都增长得更快,BBC的分析认为.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 04:46:24+0900</div>
+          <div class="title">Nepal to scrap 'failed' Mount Everest waste deposit scheme（尼泊尔拆除珠穆朗玛峰垃圾存放计划）</div>
+          <div class="para">A scheme to encourage climbers to bring their waste down from Mount Everest is being scrapped - with Nepalese authorities telling the BBC it has been a failure.（尼泊尔当局告诉英国广播公司,）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 02:51:21+0900</div>
+          <div class="title">US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'（美国承诺提供2bn的人道主义援助,）</div>
+          <div class="para">The United States has pledged $2 billion (£1.5bn) to fund United Nations (UN) humanitarian programmes, but has warned the UN it must "adapt or die".（美国已承诺提供20亿美元(1.5bn英镑)来资助联合国人道主义方案,但警告联合国它必须"适应或死亡".）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-30 01:13:30+0900</div>
+          <div class="title">Egyptian dissident sorry for tweets after calls for deportation from UK（埃及持不同政见者在呼吁英国驱逐出境后,）</div>
+          <div class="para">British-Egyptian democracy activist Alaa Abd El Fattah has apologised for several of his old tweets that have resurfaced, as calls grow for him to be deported from the UK days after he arrived following his release from an Egyptian jail.（英国-埃及民主活动家Alaa Abd El Fattah为他的一些旧微博道歉,）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 20:46:34+0900</div>
+          <div class="title">China holds military drills around Taiwan as warning to 'separatist forces'（中国在台湾周围举行军事演习,）</div>
+          <div class="para">China is holding military drills around Taiwan simulating the seizure and blockade of the island's key areas, as a warning against "separatist forces".（中国在台湾周围举行军事演习,模拟夺取和封锁该岛重要地区,以此警告"分裂势力".）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 19:38:29+0900</div>
+          <div class="title">Thailand accuses Cambodia of breaking newly signed ceasefire deal（泰国指责柬埔寨违反新签署的停火协议）</div>
+          <div class="para">Thailand's army has accused Cambodia of breaching a newly signed ceasefire deal reached after weeks of deadly clashes that forced nearly one million people from their homes.（泰国军队指控柬埔寨在数周的致命冲突之后违反新签署的停火协议,迫使近100万人离家出走。）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 19:27:30+0900</div>
+          <div class="title">John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'（约翰·辛普森(John Simpson):"我报道了40场战争,但我从未见过像2025这样的一年".）</div>
+          <div class="para">Sensitive content: This article contains a graphic description of death that some readers may find upsetting（敏感内容:这篇文章包含了对死亡的图形描述,一些读者可能会发现这种描述令人不快.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 15:05:53+0900</div>
+          <div class="title">'There are many challenges': Syrians in Turkey consider return after fall of Assad（“有许多挑战”: 土耳其的叙利亚人考虑在阿萨德倒台后返回）</div>
+          <div class="para">The pull of home can be strong – even when it is a place you can't remember.（家的拉力可能很强,即使这是一个你不记得的地方。）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 14:13:17+0900</div>
+          <div class="title">Five-year-old boy dies after getting caught in Japan ski travelator（五岁男孩在日本滑雪旅行中被抓后就死了）</div>
+          <div class="para">A five-year-old boy in Japan has died while on a ski holiday with his family after his arm caught on a travelator.（日本一名5岁男孩在与家人一起滑雪度假时因手臂被旅行者抓住而死亡.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c4g6gw30epvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 12:22:26+0900</div>
+          <div class="title">An orphan's brutal murder shines a spotlight on child abuse in Somalia（杀害孤儿的残酷行径使人们关注索马里的虐待儿童行为。）</div>
+          <div class="para">A woman is currently awaiting execution in Somalia after being convicted of killing a 14-year-old girl in her care.（一名妇女目前在索马里等待处决,因为她被判定杀害了一名在她照料下的14岁女孩。）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 11:15:36+0900</div>
+          <div class="title">Mexico train crash kills 13 and injures almost 100（墨西哥火车失事造成13人死亡,100人受伤）</div>
+          <div class="para">At least 13 people died and almost 100 were injured in a train derailment in Mexico's south-eastern Oaxaca region, the Mexican navy said.（墨西哥海军表示,在墨西哥东南部瓦哈卡州的火车脱轨事故中,至少有13人死亡,近100人受伤.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cx2328e70y7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 10:30:56+0900</div>
+          <div class="title">Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes（生活在对Lakurawa的恐惧中,）</div>
+          <div class="para">Deep fear has long pervaded the arid savannah plains and highlands of north-western Nigeria - even before the US air strikes on the Islamist militants who have made this area their base on Christmas night.（尼日利亚西北部干旱的草原和高原早已充满了深层恐惧,）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 10:05:38+0900</div>
+          <div class="title">Trump and Zelensky appear more upbeat - but show little evidence that peace is near for Ukraine（特朗普和泽连斯基看起来比较乐观,）</div>
+          <div class="para">The much-anticipated talks lasted two-and-a-half hours, and that's an achievement in itself. Presidents Trump and Zelensky had never before spent this long in one room, negotiating.（期待已久的会谈持续了两个半小时,这本身就是一项成就。 特朗普总统和泽连斯基总统从未在一个会议室里花这么长时间谈判.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/c17x7lnd1r7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 09:27:02+0900</div>
+          <div class="title">Kosovo's ruling party wins election after months of political deadlock（科索沃执政党在几个月的政治僵局后赢得选举）</div>
+          <div class="para">The Albanian nationalist Vetevendosje party has won a landslide victory in Kosovo's parliamentary elections, according to preliminary results.（根据初步结果,阿尔巴尼亚民族主义者Vetevendosje党在科索沃议会选举中取得了滑坡胜利。）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 09:02:29+0900</div>
+          <div class="title">Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable（有毒的空气,破碎的公路和未经挑选的垃圾——为什么印度的大城市变得无法生存）</div>
+          <div class="para">"Want the royal charm of Jaipur? Don't come here, just buy a postcard," a local taxi driver quipped during my recent visit to the north-western Indian city.（"想要斋浦尔的皇家魅力吗? 别过来,只要买张明信片, 当地出租车司机在我最近访问印度西北部城市时,）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-29 08:00:27+0900</div>
+          <div class="title">Catching the hunters trapping rare songbirds in China（捕捉中国珍稀歌鸟的猎人）</div>
+          <div class="para">Silva Gu's eyes dart back and forth across miles of tall grassland, scouring it for signs of life in the darkness.（席尔瓦 顾的双眼飞来飞去 穿越数英里高的草原 寻找黑暗中的生命迹象）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cdxw7593x9zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-28 22:34:26+0900</div>
+          <div class="title">French cinema actress Brigitte Bardot dies aged 91（法国电影女演员Brigitte Bardot91岁去世）</div>
+          <div class="para">French actress Brigitte Bardot, who revolutionised 1950s French cinema and became a symbol of sexual liberation, has died aged 91.（法国女演员布里吉特·巴多特(Brigitte Bardot)在1950年代法国电影院进行革命,并成为性解放的象征,已经去世,享年91岁.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-28 22:22:06+0900</div>
+          <div class="title">Three killed in Sweden as major storm sweeps across Nordic countries（瑞典有3人因风暴横扫北欧国家而丧生）</div>
+          <div class="para">A third person has died in Sweden after a powerful winter storm swept across Nordic countries, causing travel disruption and power outages.（瑞典有第三人因强烈的冬季风暴席卷北欧国家而死亡,造成旅行中断和停电.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cdj817m37rgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-28 19:23:59+0900</div>
+          <div class="title">Brigitte Bardot: From French cinema to international fame（Brigitte Bardot:从法国电影院到国际名流）</div>
+          <div class="para">Brigitte Bardot, the French model and actress, has died at the age of 91.（Brigitte Bardot,法国模特和女演员,享年91岁.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-28 16:37:08+0900</div>
+          <div class="title">Polls close on first day of Myanmar's widely criticised 'sham' election（缅甸大选当天,）</div>
+          <div class="para">The first of three phases of voting has finished in Myanmar, in an election widely dismissed as a "sham", with major political parties dissolved, leaders jailed and as much as half the country not expected to vote due to an ongoing civil war.（缅甸三个阶段投票的第一阶段已经完成,在一次被广泛认为是"耻辱"的选举中,主要政党被解散,领导人被监禁,由于内战持续,多达一半的国家没有预期投票.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-28 10:40:21+0900</div>
+          <div class="title">Snow-capped Mount Etna erupts as skiers glide down slopes（雪盖的埃特纳山在滑雪者滑坡时爆发）</div>
+          <div class="para">Huge plumes of ash and smoke were filmed erupting from Mount Etna, Sicily on 27 December as skiers used the slopes below.（12月27日,在滑雪者使用下面的斜坡时,从西西里岛埃特纳山喷发出大量的灰和烟雾。）</div>
+          <div class="link"><a href="https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-27 19:01:44+0900</div>
+          <div class="title">Watch: Meteor lights up sky over Japan's Mount Fuji（观察:日本富士山上空的气象灯光）</div>
+          <div class="para">CCTV footage from Japan's Hiratsuka City Museum captured the moment a meteor soared through the night sky over Japan's Mount Fuji on Friday.（日本平津市博物馆的CCTV录像记录了星期五日本富士山上空的夜空上流星的瞬间.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-26 01:44:28+0900</div>
+          <div class="title">Watch: Pope Leo's plea for peace in Christmas message（观看:教宗李奥在圣诞贺词中呼吁和平）</div>
+          <div class="para">Pope Leo has called for an end to conflicts around the world during his first Christmas remarks to crowds in St Peter's Square.（教宗利奥在向圣彼得广场的人群发表第一次圣诞节演讲时呼吁结束世界各地的冲突.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/videos/clyx049x0z7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
+
+        <div class="card">
+          <div class="meta">BBC News · 2025-12-25 09:41:15+0900</div>
+          <div class="title">Where is Santa now? Trump answers kids' Christmas calls to Norad tracker（圣诞老人现在在哪里? 特朗普给诺拉德的圣诞电话）</div>
+          <div class="para">Norad, the North American Aerospace Defense Command, has kicked off its 70-year tradition of tracking Santa Claus on Christmas Eve, with US President Donald Trump joining.（北美航空航天防卫司令部的诺拉德在圣诞前夕取消了追踪圣诞老人的70年传统,美国总统唐纳德·特朗普也加入了.）</div>
+          <div class="link"><a href="https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">打开原文</a></div>
+        </div>
+        
   </div>
-
-  <div class="chips" id="sourceChips"></div>
-  <div class="stats" id="stats"></div>
-
-  <div class="list" id="list"></div>
-
-  <footer>
-    <div class="warn">
-      <div><b>说明</b>：页面数据来自仓库里的 <code>docs/news.json</code>，由 GitHub Actions 每天自动更新。</div>
-      <div>当前“中文翻译”可能对英文有效（离线 en→zh 模型），日文（ja→zh）可能暂无离线模型，因此会显示占位。</div>
-    </div>
-  </footer>
-
-<script>
-/** 小工具：安全处理字符串 */
-function s(x){ return (x ?? "").toString(); }
-
-/** 是否算“有中文翻译” */
-function hasZh(it){
-  const t = s(it.title_zh).trim();
-  const a = s(it.summary_zh).trim();
-  return (t && !t.includes("未翻译") && !t.includes("占位")) || (a && !a.includes("未翻译") && !a.includes("占位"));
-}
-
-/** 生成来源 chips */
-function renderSourceChips(sources, activeSet){
-  const wrap = document.getElementById("sourceChips");
-  wrap.innerHTML = "";
-  sources.forEach(src=>{
-    const div = document.createElement("div");
-    div.className = "chip" + (activeSet.has(src) ? " active" : "");
-    div.textContent = src;
-    div.onclick = ()=>{
-      if(activeSet.has(src)) activeSet.delete(src);
-      else activeSet.add(src);
-      saveUiState(activeSet);
-      applyAndRender();
-    };
-    wrap.appendChild(div);
-  });
-
-  // 全选 / 清空
-  const all = document.createElement("div");
-  all.className = "chip";
-  all.textContent = "全选";
-  all.onclick = ()=>{
-    activeSet.clear();
-    sources.forEach(x=>activeSet.add(x));
-    saveUiState(activeSet);
-    applyAndRender();
-  };
-  wrap.appendChild(all);
-
-  const none = document.createElement("div");
-  none.className = "chip";
-  none.textContent = "清空";
-  none.onclick = ()=>{
-    activeSet.clear();
-    saveUiState(activeSet);
-    applyAndRender();
-  };
-  wrap.appendChild(none);
-}
-
-/** 复制到剪贴板 */
-async function copyText(text){
-  try{
-    await navigator.clipboard.writeText(text);
-    alert("已复制 ✅");
-  }catch(e){
-    alert("复制失败（可能浏览器权限限制）");
-  }
-}
-
-let RAW = [];
-let ACTIVE_SOURCES = new Set();
-let ALL_SOURCES = [];
-
-/** 保存 UI 状态到 localStorage（下次打开还能记住你的筛选） */
-function saveUiState(activeSet){
-  localStorage.setItem("active_sources", JSON.stringify(Array.from(activeSet)));
-}
-function loadUiState(){
-  try{
-    const x = JSON.parse(localStorage.getItem("active_sources") || "[]");
-    return new Set(x);
-  }catch(e){
-    return new Set();
-  }
-}
-
-/** 核心：过滤 + 渲染 */
-function applyAndRender(){
-  const q = s(document.getElementById("q").value).trim().toLowerCase();
-  const sort = document.getElementById("sort").value;
-  const onlyZh = document.getElementById("onlyZh").checked;
-
-  let arr = RAW.slice();
-
-  // 来源筛选
-  if(ACTIVE_SOURCES.size > 0){
-    arr = arr.filter(it => ACTIVE_SOURCES.has(s(it.source)));
-  }
-
-  // 只看有中文
-  if(onlyZh){
-    arr = arr.filter(it => hasZh(it));
-  }
-
-  // 搜索（title/title_zh/summary/summary_zh/link/source 都搜）
-  if(q){
-    arr = arr.filter(it=>{
-      const bag = [
-        it.source, it.title, it.title_zh, it.summary, it.summary_zh, it.link
-      ].map(s).join(" ").toLowerCase();
-      return bag.includes(q);
-    });
-  }
-
-  // 排序（按 published_ts 数字排；没有就放末尾）
-  arr.sort((a,b)=>{
-    const ta = Number(a.published_ts || 0);
-    const tb = Number(b.published_ts || 0);
-    return sort === "new" ? (tb - ta) : (ta - tb);
-  });
-
-  document.getElementById("stats").textContent =
-    `当前显示 ${arr.length} 条（总数据 ${RAW.length} 条）｜来源筛选：${ACTIVE_SOURCES.size ? Array.from(ACTIVE_SOURCES).join(" / ") : "无（显示全部）"}`;
-
-  const list = document.getElementById("list");
-  list.innerHTML = "";
-
-  arr.forEach(it=>{
-    const title = s(it.title);
-    const titleZh = s(it.title_zh);
-    const summary = s(it.summary);
-    const summaryZh = s(it.summary_zh);
-
-    const div = document.createElement("div");
-    div.className = "item";
-    div.innerHTML = `
-      <div class="meta">
-        <span class="badge">${s(it.source) || "未知来源"}</span>
-        <span>${s(it.published) || ""}</span>
-      </div>
-
-      <div class="title"><a href="${s(it.link)}" target="_blank" rel="noopener">${title || "(无标题)"}</a></div>
-      <div class="title-zh ${titleZh ? "" : "placeholder"}">${titleZh || "（中文翻译占位：暂无/未翻译）"}</div>
-
-      <div class="summary">${summary ? summary : "<span class='placeholder'>（无摘要）</span>"}</div>
-      <div class="summary-zh ${summaryZh ? "" : "placeholder"}">${summaryZh || "（中文摘要占位：暂无/未翻译）"}</div>
-
-      <div class="actions">
-        <button data-act="copy">复制标题（原文+中文）</button>
-        <button data-act="open">打开原文</button>
-      </div>
-
-      <details>
-        <summary>查看原始字段（调试用）</summary>
-        <pre style="white-space:pre-wrap;margin:8px 0 0 0;background:#f6f6f6;padding:10px;border-radius:10px;border:1px solid #eee">${s(JSON.stringify(it, null, 2))}</pre>
-      </details>
-    `;
-
-    div.querySelector('button[data-act="copy"]').onclick = ()=>{
-      const txt = `${title}\n${titleZh || "（中文占位）"}\n\n摘要：${summary}\n中文摘要：${summaryZh || "（中文占位）"}\n${s(it.link)}`;
-      copyText(txt);
-    };
-    div.querySelector('button[data-act="open"]').onclick = ()=>{
-      window.open(s(it.link), "_blank", "noopener");
-    };
-
-    list.appendChild(div);
-  });
-}
-
-/** 页面入口：加载 news.json */
-async function boot(){
-  const status = document.getElementById("status");
-  try{
-    const res = await fetch("./news.json?ts=" + Date.now());
-    if(!res.ok) throw new Error("HTTP " + res.status);
-    const data = await res.json();
-
-    RAW = (data.items || []);
-    // sources
-    ALL_SOURCES = Array.from(new Set(RAW.map(it=>s(it.source)).filter(Boolean))).sort();
-    const saved = loadUiState();
-    // 如果 saved 为空，默认全选
-    ACTIVE_SOURCES = saved.size ? saved : new Set(ALL_SOURCES);
-    renderSourceChips(ALL_SOURCES, ACTIVE_SOURCES);
-
-    status.textContent = `最后更新：${s(data.updated_at) || "unknown"} ｜ 共 ${RAW.length} 条`;
-    applyAndRender();
-
-    // 绑定控件事件
-    document.getElementById("q").addEventListener("input", ()=>applyAndRender());
-    document.getElementById("sort").addEventListener("change", ()=>applyAndRender());
-    document.getElementById("onlyZh").addEventListener("change", ()=>applyAndRender());
-
-  }catch(e){
-    status.textContent = "加载失败：" + e;
-  }
-}
-
-boot();
-</script>
 </body>
 </html>
-
