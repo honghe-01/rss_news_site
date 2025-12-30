@@ -1,70 +1,103 @@
 <!doctype html>
-<html lang="zh">
+<html lang="zh-CN">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Michael News</title>
   <style>
-    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans CJK SC", "Noto Sans JP", Arial; margin: 24px; background:#fff; color:#111; }
-    h1 { margin: 0 0 8px 0; font-size: 40px; }
-    .meta { color:#555; margin-bottom: 18px; }
-    .card { border:1px solid #e8e8e8; border-radius: 14px; padding: 18px; margin: 14px 0; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
-    .topline { color:#666; font-size: 14px; margin-bottom: 10px; }
-    .title { font-size: 22px; font-weight: 750; line-height: 1.25; margin: 0 0 10px 0; }
-    .para { line-height: 1.7; margin: 0 0 10px 0; }
-    .link a { color:#1a73e8; text-decoration:none; }
-    .link a:hover { text-decoration:underline; }
-    .muted { color:#999; }
+    :root { --fg:#111; --muted:#666; --card:#fff; --bg:#f6f7fb; --border:#e7e8ee; }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, "PingFang SC","Hiragino Sans GB","Microsoft YaHei", Arial, sans-serif;
+           background:var(--bg); color:var(--fg); }
+    .wrap { max-width: 980px; margin: 28px auto; padding: 0 18px; }
+    h1 { margin: 0 0 8px; font-size: 34px; letter-spacing: .2px; }
+    .meta { color: var(--muted); margin-bottom: 18px; }
+    .card { background: var(--card); border:1px solid var(--border); border-radius: 14px; padding: 18px; margin: 14px 0; }
+    .topline { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
+    .title { font-size: 20px; font-weight: 750; line-height: 1.35; margin: 0 0 10px; }
+    .title a { color: inherit; text-decoration: none; }
+    .title a:hover { text-decoration: underline; }
+    .p { margin: 0; line-height: 1.75; font-size: 15px; }
+    .zh { color: var(--muted); }
+    .btn { display:inline-block; margin-top: 12px; font-size: 13px; color: #0b57d0; text-decoration:none; }
+    .btn:hover { text-decoration: underline; }
+    .empty { color: var(--muted); padding: 28px 0; }
   </style>
 </head>
 <body>
-  <h1>📰 Michael News</h1>
-  <div class="meta" id="meta">加载中...</div>
-  <div id="list"></div>
+  <div class="wrap">
+    <h1>📰 Michael News</h1>
+    <div class="meta" id="siteMeta">加载中...</div>
 
-  <script>
-    function esc(s){return (s??"").toString()
+    <div id="list"></div>
+    <div class="empty" id="empty" style="display:none;">暂无数据（可能 Actions 还没跑完）。</div>
+  </div>
+
+<script>
+  async function loadJSON(path) {
+    const r = await fetch(path, { cache: "no-store" });
+    if (!r.ok) throw new Error("Fetch failed: " + path);
+    return await r.json();
+  }
+
+  function esc(s) {
+    return (s ?? "").toString()
       .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
-      .replaceAll('"',"&quot;").replaceAll("'","&#39;");}
+      .replaceAll('"',"&quot;").replaceAll("'","&#39;");
+  }
 
-    async function main(){
-      const res = await fetch("./news.json", { cache: "no-store" });
-      const items = await res.json();
+  function withZh(orig, zh) {
+    const o = esc(orig || "");
+    const z = esc(zh || "");
+    if (z) return `${o} <span class="zh">（${z}）</span>`;
+    return `${o} <span class="zh">（未翻译）</span>`;
+  }
+
+  (async () => {
+    try {
+      const [meta, news] = await Promise.all([
+        loadJSON("./site_meta.json"),
+        loadJSON("./news.json")
+      ]);
+
+      document.getElementById("siteMeta").innerText =
+        `最后更新：${meta.last_updated} ｜ 共 ${meta.count} 条`;
+
       const list = document.getElementById("list");
+      if (!Array.isArray(news) || news.length === 0) {
+        document.getElementById("empty").style.display = "block";
+        return;
+      }
 
-      const last = items.length ? items[0].published : "(无数据)";
-      document.getElementById("meta").innerHTML =
-        `最后更新：<b>${esc(last)}</b> ｜ 共 <b>${items.length}</b> 条`;
+      list.innerHTML = news.map(item => {
+        const source = esc(item.source || "");
+        const published = esc(item.published || "");
+        const link = esc(item.link || "#");
 
-      list.innerHTML = items.map(it => {
-        const src = esc(it.source || "");
-        const pub = esc(it.published || "");
-        const title = esc(it.title || "");
-        const titleZh = esc(it.title_zh || "未翻译");
-        const snip = esc(it.snippet || "");
-        const snipZh = esc(it.snippet_zh || "未翻译");
-        const link = esc(it.link || "#");
+        const titleHTML = withZh(item.title_orig, item.title_zh);
+        const summaryOrig = item.summary_orig || "";
+        const summaryZh = item.summary_zh || "";
+
+        const summaryHTML = summaryOrig
+          ? `<p class="p">${withZh(summaryOrig, summaryZh)}</p>`
+          : `<p class="p"><span class="zh">（未提取到第一段）</span></p>`;
 
         return `
           <div class="card">
-            <div class="topline">${src} · ${pub}</div>
-
-            <div class="title">${title}（${titleZh}）</div>
-
-            <p class="para">
-              ${snip ? snip : '<span class="muted">（未抓到第一段）</span>'}
-              ${snip ? `（${snipZh}）` : ""}
-            </p>
-
-            <div class="link"><a href="${link}" target="_blank" rel="noreferrer">打开原文</a></div>
+            <div class="topline">${source} · ${published}</div>
+            <div class="title">
+              <a href="${link}" target="_blank" rel="noreferrer">${titleHTML}</a>
+            </div>
+            ${summaryHTML}
+            <a class="btn" href="${link}" target="_blank" rel="noreferrer">打开原文 →</a>
           </div>
         `;
       }).join("");
+    } catch (e) {
+      document.getElementById("siteMeta").innerText = "加载失败：请稍后刷新（可能文件还没生成）";
+      document.getElementById("empty").style.display = "block";
+      console.error(e);
     }
-
-    main().catch(err=>{
-      document.getElementById("meta").textContent = "加载失败：" + err;
-    });
-  </script>
+  })();
+</script>
 </body>
 </html>
