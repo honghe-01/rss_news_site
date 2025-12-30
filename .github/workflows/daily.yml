@@ -3,7 +3,7 @@ name: Daily Update
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "10 0 * * *"   # 每天 UTC 00:10（日本时间 09:10）
+    - cron: "10 0 * * *"   # UTC 00:10 => 日本时间 09:10
 
 permissions:
   contents: write
@@ -18,15 +18,17 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install feedparser requests beautifulsoup4 lxml
+          python -m pip install feedparser requests beautifulsoup4 lxml python-dateutil
+          # 可选：离线翻译（英文 en->zh）
+          python -m pip install argostranslate || true
 
-      - name: Run fetch
+      - name: Run fetch script
         run: python fetch_news.py
 
-      - name: Commit changes
+      - name: Commit and push if changed
         run: |
           if [ -n "$(git status --porcelain docs/news.json)" ]; then
             git config user.name "github-actions[bot]"
@@ -37,3 +39,4 @@ jobs:
           else
             echo "No changes."
           fi
+
