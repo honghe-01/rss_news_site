@@ -3,8 +3,8 @@ name: Daily Update
 on:
   workflow_dispatch:
   schedule:
-    # 每天 07:15 日本时间（= 22:15 UTC）
-    - cron: "15 22 * * *"
+    # 日本时间每天早上 7:10（UTC=22:10）
+    - cron: "10 22 * * *"
 
 permissions:
   contents: write
@@ -20,38 +20,25 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-          cache: "pip"
-
-      - name: Cache Argos models
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.local/share/argos-translate
-            ~/.local/cache/argos-translate
-          key: argos-${{ runner.os }}-v1
+          python-version: "3.11"
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python -m pip install feedparser requests python-dateutil beautifulsoup4 lxml argostranslate
 
-      - name: Install/Update Argos models (non-fatal)
-        continue-on-error: true
+      - name: Install/Update Argos models
         run: |
           python fetch_news.py --install-models
 
       - name: Build site data
         run: |
-          python fetch_news.py --all
+          python fetch_news.py --build-site --limit 50
 
-      - name: Commit & push changes
+      - name: Commit & push (if changed)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add docs/news.json docs/site_meta.json seen.json translation_cache.json || true
-
-          git diff --cached --quiet && echo "No changes to commit." && exit 0
-          git commit -m "Daily update"
+          git add docs/data.json
+          git commit -m "chore: daily update data" || echo "No changes to commit"
           git push
