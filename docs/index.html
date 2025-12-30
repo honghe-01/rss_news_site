@@ -3,45 +3,280 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>RSS News</title>
+  <title>RSS News Site</title>
   <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;max-width:900px;margin:24px auto;padding:0 16px;line-height:1.6}
-    .item{padding:12px 0;border-bottom:1px solid #eee}
-    .meta{color:#666;font-size:14px}
-    a{color:#0b57d0;text-decoration:none}
+    :root{
+      --bg:#ffffff; --fg:#111; --muted:#666; --border:#eee; --card:#fafafa;
+      --primary:#0b57d0; --chip:#f1f5ff;
+    }
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial; background:var(--bg); color:var(--fg);
+         max-width:1100px;margin:20px auto;padding:0 14px;line-height:1.6}
+    h1{margin:0 0 6px 0;font-size:22px}
+    .sub{color:var(--muted);font-size:14px;margin-bottom:14px}
+    a{color:var(--primary);text-decoration:none}
     a:hover{text-decoration:underline}
+    .toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:var(--card);border:1px solid var(--border);
+             padding:12px;border-radius:12px;margin:14px 0}
+    .group{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    .label{color:var(--muted);font-size:13px}
+    input[type="text"]{width:min(520px, 100%);padding:10px 12px;border:1px solid var(--border);border-radius:10px;font-size:14px}
+    select{padding:10px 12px;border:1px solid var(--border);border-radius:10px;font-size:14px;background:#fff}
+    .check{display:flex;gap:6px;align-items:center;font-size:14px}
+    .chips{display:flex;gap:8px;flex-wrap:wrap}
+    .chip{background:var(--chip);border:1px solid var(--border);padding:6px 10px;border-radius:999px;font-size:13px;cursor:pointer;user-select:none}
+    .chip.active{border-color:var(--primary)}
+    .stats{margin:10px 0;color:var(--muted);font-size:14px}
+    .list{display:grid;grid-template-columns:1fr;gap:10px}
+    .item{border:1px solid var(--border);border-radius:12px;padding:12px;background:#fff}
+    .meta{display:flex;gap:10px;align-items:center;flex-wrap:wrap;color:var(--muted);font-size:13px;margin-bottom:6px}
+    .badge{background:#f6f6f6;border:1px solid var(--border);padding:2px 8px;border-radius:999px;color:#333}
+    .title{font-size:16px;font-weight:650;margin:2px 0 6px 0}
+    .title-zh{font-size:14px;color:#222;margin:0 0 8px 0}
+    .placeholder{color:#999}
+    .summary{font-size:14px;margin:0 0 6px 0}
+    .summary-zh{font-size:14px;margin:0}
+    .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
+    button{border:1px solid var(--border);background:#fff;padding:8px 10px;border-radius:10px;cursor:pointer}
+    button:hover{border-color:#cfcfcf}
+    details{margin-top:10px}
+    details summary{cursor:pointer;color:var(--primary)}
+    footer{margin:18px 0 10px 0;color:var(--muted);font-size:13px}
+    .warn{background:#fff7e6;border:1px solid #ffe1a6;padding:10px;border-radius:12px}
+    code{background:#f6f6f6;padding:2px 6px;border-radius:6px}
   </style>
 </head>
+
 <body>
-  <h1>📰 RSS News</h1>
-  <p class="meta" id="status">加载中…</p>
-  <div id="list"></div>
+  <h1>📰 RSS News Site</h1>
+  <div class="sub" id="status">加载中…</div>
+
+  <div class="toolbar">
+    <div class="group" style="flex:1">
+      <div class="label">搜索</div>
+      <input id="q" type="text" placeholder="搜标题/摘要/中文（例如：台湾 / ceasefire / トランプ）" />
+    </div>
+
+    <div class="group">
+      <div class="label">排序</div>
+      <select id="sort">
+        <option value="new">最新在前</option>
+        <option value="old">最旧在前</option>
+      </select>
+    </div>
+
+    <div class="group">
+      <label class="check">
+        <input id="onlyZh" type="checkbox" />
+        只看有中文翻译
+      </label>
+    </div>
+  </div>
+
+  <div class="chips" id="sourceChips"></div>
+  <div class="stats" id="stats"></div>
+
+  <div class="list" id="list"></div>
+
+  <footer>
+    <div class="warn">
+      <div><b>说明</b>：页面数据来自仓库里的 <code>docs/news.json</code>，由 GitHub Actions 每天自动更新。</div>
+      <div>当前“中文翻译”可能对英文有效（离线 en→zh 模型），日文（ja→zh）可能暂无离线模型，因此会显示占位。</div>
+    </div>
+  </footer>
 
 <script>
-async function main(){
-  const status = document.getElementById("status");
+/** 小工具：安全处理字符串 */
+function s(x){ return (x ?? "").toString(); }
+
+/** 是否算“有中文翻译” */
+function hasZh(it){
+  const t = s(it.title_zh).trim();
+  const a = s(it.summary_zh).trim();
+  return (t && !t.includes("未翻译") && !t.includes("占位")) || (a && !a.includes("未翻译") && !a.includes("占位"));
+}
+
+/** 生成来源 chips */
+function renderSourceChips(sources, activeSet){
+  const wrap = document.getElementById("sourceChips");
+  wrap.innerHTML = "";
+  sources.forEach(src=>{
+    const div = document.createElement("div");
+    div.className = "chip" + (activeSet.has(src) ? " active" : "");
+    div.textContent = src;
+    div.onclick = ()=>{
+      if(activeSet.has(src)) activeSet.delete(src);
+      else activeSet.add(src);
+      saveUiState(activeSet);
+      applyAndRender();
+    };
+    wrap.appendChild(div);
+  });
+
+  // 全选 / 清空
+  const all = document.createElement("div");
+  all.className = "chip";
+  all.textContent = "全选";
+  all.onclick = ()=>{
+    activeSet.clear();
+    sources.forEach(x=>activeSet.add(x));
+    saveUiState(activeSet);
+    applyAndRender();
+  };
+  wrap.appendChild(all);
+
+  const none = document.createElement("div");
+  none.className = "chip";
+  none.textContent = "清空";
+  none.onclick = ()=>{
+    activeSet.clear();
+    saveUiState(activeSet);
+    applyAndRender();
+  };
+  wrap.appendChild(none);
+}
+
+/** 复制到剪贴板 */
+async function copyText(text){
+  try{
+    await navigator.clipboard.writeText(text);
+    alert("已复制 ✅");
+  }catch(e){
+    alert("复制失败（可能浏览器权限限制）");
+  }
+}
+
+let RAW = [];
+let ACTIVE_SOURCES = new Set();
+let ALL_SOURCES = [];
+
+/** 保存 UI 状态到 localStorage（下次打开还能记住你的筛选） */
+function saveUiState(activeSet){
+  localStorage.setItem("active_sources", JSON.stringify(Array.from(activeSet)));
+}
+function loadUiState(){
+  try{
+    const x = JSON.parse(localStorage.getItem("active_sources") || "[]");
+    return new Set(x);
+  }catch(e){
+    return new Set();
+  }
+}
+
+/** 核心：过滤 + 渲染 */
+function applyAndRender(){
+  const q = s(document.getElementById("q").value).trim().toLowerCase();
+  const sort = document.getElementById("sort").value;
+  const onlyZh = document.getElementById("onlyZh").checked;
+
+  let arr = RAW.slice();
+
+  // 来源筛选
+  if(ACTIVE_SOURCES.size > 0){
+    arr = arr.filter(it => ACTIVE_SOURCES.has(s(it.source)));
+  }
+
+  // 只看有中文
+  if(onlyZh){
+    arr = arr.filter(it => hasZh(it));
+  }
+
+  // 搜索（title/title_zh/summary/summary_zh/link/source 都搜）
+  if(q){
+    arr = arr.filter(it=>{
+      const bag = [
+        it.source, it.title, it.title_zh, it.summary, it.summary_zh, it.link
+      ].map(s).join(" ").toLowerCase();
+      return bag.includes(q);
+    });
+  }
+
+  // 排序（按 published_ts 数字排；没有就放末尾）
+  arr.sort((a,b)=>{
+    const ta = Number(a.published_ts || 0);
+    const tb = Number(b.published_ts || 0);
+    return sort === "new" ? (tb - ta) : (ta - tb);
+  });
+
+  document.getElementById("stats").textContent =
+    `当前显示 ${arr.length} 条（总数据 ${RAW.length} 条）｜来源筛选：${ACTIVE_SOURCES.size ? Array.from(ACTIVE_SOURCES).join(" / ") : "无（显示全部）"}`;
+
   const list = document.getElementById("list");
+  list.innerHTML = "";
+
+  arr.forEach(it=>{
+    const title = s(it.title);
+    const titleZh = s(it.title_zh);
+    const summary = s(it.summary);
+    const summaryZh = s(it.summary_zh);
+
+    const div = document.createElement("div");
+    div.className = "item";
+    div.innerHTML = `
+      <div class="meta">
+        <span class="badge">${s(it.source) || "未知来源"}</span>
+        <span>${s(it.published) || ""}</span>
+      </div>
+
+      <div class="title"><a href="${s(it.link)}" target="_blank" rel="noopener">${title || "(无标题)"}</a></div>
+      <div class="title-zh ${titleZh ? "" : "placeholder"}">${titleZh || "（中文翻译占位：暂无/未翻译）"}</div>
+
+      <div class="summary">${summary ? summary : "<span class='placeholder'>（无摘要）</span>"}</div>
+      <div class="summary-zh ${summaryZh ? "" : "placeholder"}">${summaryZh || "（中文摘要占位：暂无/未翻译）"}</div>
+
+      <div class="actions">
+        <button data-act="copy">复制标题（原文+中文）</button>
+        <button data-act="open">打开原文</button>
+      </div>
+
+      <details>
+        <summary>查看原始字段（调试用）</summary>
+        <pre style="white-space:pre-wrap;margin:8px 0 0 0;background:#f6f6f6;padding:10px;border-radius:10px;border:1px solid #eee">${s(JSON.stringify(it, null, 2))}</pre>
+      </details>
+    `;
+
+    div.querySelector('button[data-act="copy"]').onclick = ()=>{
+      const txt = `${title}\n${titleZh || "（中文占位）"}\n\n摘要：${summary}\n中文摘要：${summaryZh || "（中文占位）"}\n${s(it.link)}`;
+      copyText(txt);
+    };
+    div.querySelector('button[data-act="open"]').onclick = ()=>{
+      window.open(s(it.link), "_blank", "noopener");
+    };
+
+    list.appendChild(div);
+  });
+}
+
+/** 页面入口：加载 news.json */
+async function boot(){
+  const status = document.getElementById("status");
   try{
     const res = await fetch("./news.json?ts=" + Date.now());
     if(!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
-    status.textContent = "最后更新：" + (data.updated_at || "unknown") + "｜共 " + (data.items?.length || 0) + " 条";
-    list.innerHTML = "";
-    (data.items || []).forEach(it=>{
-      const div = document.createElement("div");
-      div.className = "item";
-      div.innerHTML = `
-        <div class="meta">${it.published || ""} ｜ ${it.source || ""}</div>
-        <div><a href="${it.link}" target="_blank" rel="noopener">${it.title || ""}</a></div>
-        <div>${it.summary || ""}</div>
-      `;
-      list.appendChild(div);
-    });
+
+    RAW = (data.items || []);
+    // sources
+    ALL_SOURCES = Array.from(new Set(RAW.map(it=>s(it.source)).filter(Boolean))).sort();
+    const saved = loadUiState();
+    // 如果 saved 为空，默认全选
+    ACTIVE_SOURCES = saved.size ? saved : new Set(ALL_SOURCES);
+    renderSourceChips(ALL_SOURCES, ACTIVE_SOURCES);
+
+    status.textContent = `最后更新：${s(data.updated_at) || "unknown"} ｜ 共 ${RAW.length} 条`;
+    applyAndRender();
+
+    // 绑定控件事件
+    document.getElementById("q").addEventListener("input", ()=>applyAndRender());
+    document.getElementById("sort").addEventListener("change", ()=>applyAndRender());
+    document.getElementById("onlyZh").addEventListener("change", ()=>applyAndRender());
+
   }catch(e){
     status.textContent = "加载失败：" + e;
   }
 }
-main();
+
+boot();
 </script>
 </body>
 </html>
+
