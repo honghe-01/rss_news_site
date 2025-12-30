@@ -1,8 +1,138 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2025-12-30T14:30:32+00:00",
+  "generated_at": "2025-12-30T22:38:32+00:00",
   "count": 50,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel to bar 37 aid groups from Gaza",
+      "title_zh": "以色列禁止37个援助团体进入加沙",
+      "link": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-30T22:36:43+00:00",
+      "summary": "Israel is to revoke the licenses of 37 aid groups working in Gaza and the occupied West Bank, saying they failed to meet requirements under new registration rules.",
+      "summary_zh": "以色列将吊销在加沙和被占领西岸工作的37个援助团体的执照,说这些团体不符合新的登记规则的要求。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eurostar warns of ongoing delays after services resume",
+      "title_zh": "Eurostar警告在恢复服务后持续拖延",
+      "link": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-30T21:08:07+00:00",
+      "summary": "Some Eurostar services have resumed after all trains from London to Paris, Amsterdam and Brussels were cancelled due to a power outage in the Channel Tunnel.",
+      "summary_zh": "在从伦敦到巴黎,阿姆斯特丹和布鲁塞尔的所有列车因海峡隧道停电而取消后,一些欧洲之星服务已经恢复."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "給付付き税額控除導入検討 国民会議設置へ 年明け調整本格化へ",
+      "title_zh": "减税福利 设立全国会议",
+      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015016981000.html",
+      "published_at": "2025-12-30T21:01:47+00:00",
+      "summary": "立民 安住幹事長“国民会議 政府と対等に議論できるなら参加”",
+      "summary_zh": "扬中先生 “如果可以与政府讨论,请参与”"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ロシア “ウクライナとの和平案めぐる交渉姿勢は強硬になる”",
+      "title_zh": "俄罗斯 “与乌克兰的谈判态势变得强劲”",
+      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017041000.html",
+      "published_at": "2025-12-30T21:00:16+00:00",
+      "summary": "中国軍 2日目の軍事演習“火力実弾射撃実施”台湾へ圧力強める",
+      "summary_zh": "中国陆军对台湾施加高压 军事演习第二天\"火力公告\"."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "パナマ運河 中国人労働者の記念碑を地元当局が撤去で中国反発",
+      "title_zh": "巴拿马运河的中国工人纪念碑被地方当局重修",
+      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015016991000.html",
+      "published_at": "2025-12-30T20:30:13+00:00",
+      "summary": "米国務省 台湾への武器売却めぐる中国の制裁 “強く反対”",
+      "summary_zh": "中国在美国国务院\"上\"柜台向台湾出售武器的制裁."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "正月 餅の窒息事故 消費者庁が注意を呼びかけ",
+      "title_zh": "新年莫奇窒息事故 消费者机构呼吁注意",
+      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015016911000.html",
+      "published_at": "2025-12-30T20:01:00+00:00",
+      "summary": "食べ慣れた食品でも…相次ぐ子どもの窒息事故 なぜ？対策は",
+      "summary_zh": "即使是用来吃的食物... 为什么孩子的窒息事故?"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "およそ50年続いてきた ガソリン税の暫定税率 きょう廃止",
+      "title_zh": "大约50年的暂定税率",
+      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015016951000.html",
+      "published_at": "2025-12-30T19:52:02+00:00",
+      "summary": "ガソリン小売価格 全国平均1リットル158円 7週連続で値下がり",
+      "summary_zh": "汽油零售价格 平均1升158日元 连续7周"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中国軍 台湾周辺で2日連続で軍事演習 台湾 頼清徳総統が反発",
+      "title_zh": "连续两天围绕中国军队举行军事演习 台湾宗教神权相反",
+      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017001000.html",
+      "published_at": "2025-12-30T19:45:40+00:00",
+      "summary": "中国軍 2日目の軍事演習“火力実弾射撃実施”台湾へ圧力強める",
+      "summary_zh": "中国陆军对台湾施加高压 军事演习第二天\"火力公告\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+      "title_zh": "阿联酋说,在沙特袭击分裂主义控制的港口后,它将撤出也门。",
+      "link": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-30T18:22:57+00:00",
+      "summary": "The United Arab Emirates has said it will withdraw its remaining forces from Yemen, after Saudi Arabia backed a demand from the Yemeni presidential council for them to leave within 24 hours.",
+      "summary_zh": "阿拉伯联合酋长国说,在沙特阿拉伯支持也门总统委员会要求他们在24小时内撤离之后,它将从也门撤出剩余的部队。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
+      "title_zh": "可能破坏俄乌克兰和约的\"大问题\"",
+      "link": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-30T17:33:40+00:00",
+      "summary": "Russia, the US and Ukraine agree that a deal on ending almost four years of full-scale war is edging closer but, in the words of President Donald Trump, \"one or two very thorny, very tough issues\" remain.",
+      "summary_zh": "俄国、美国和乌克兰都同意, 结束近四年全面战争的协议正在逐渐逼近,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thieves use drill to steal €30m in German bank heist",
+      "title_zh": "小偷用钻头在德国银行抢劫三千万欧元",
+      "link": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-30T16:54:32+00:00",
+      "summary": "Thieves used a large drill to break into a safe at a high street bank branch in western Germany and steal an estimated €30m (£26m; $35m) in cash and valuables, police have said.",
+      "summary_zh": "据警方说,盗贼利用大型钻头在德国西部的一家高架街道银行分行闯入保险柜,并盗取了约3000万欧元(2600万英镑;3500万美元)的现金和贵重物品."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Protests spread across Iran for third day after currency hits record low",
+      "title_zh": "伊朗各地的抗议活动在创纪录以来,",
+      "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-30T16:31:18+00:00",
+      "summary": "Protests and strikes in Iran over inflation and currency devaluation have spread from the capital, Tehran, to several other cities on a third day of unrest.",
+      "summary_zh": "伊朗因通货膨胀和货币贬值而发生的抗议和罢工在动乱的第三天从首都德黑兰蔓延到其他几个城市。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Guinea junta chief takes lead in controversial election as social media restricted",
+      "title_zh": "由于社交媒体的限制,",
+      "link": "https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-30T14:52:31+00:00",
+      "summary": "Guinea's junta leader Gen Mamady Doumbouya has taken a huge lead in a presidential election his main challengers were barred from contesting, initial results show.",
+      "summary_zh": "几内亚军政府领导人Gen Mamady Doumbouya在总统选举中领先,"
+    },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
@@ -20,58 +150,8 @@
       "title_zh": "K-pop乐队成员在苦痛唱片被封杀后起诉了30万美元",
       "link": "https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&at_campaign=rss",
       "published_at": "2025-12-30T14:14:18+00:00",
-      "summary": "Chart-topping K-pop band NewJeans' record label is suing one of the band's members in what is yet another twist in the group's bitter year-long feud with its record label.",
-      "summary_zh": "Chart-topping K-pop乐队NewJeans的唱片标签正在起诉乐队成员之一,这在乐队长达一年之久的与唱片标签的怨恨中又是一个曲折。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port",
-      "title_zh": "沙特阿拉伯背地里呼吁阿联酋在分裂主义控制的港口被袭击后离开也门。",
-      "link": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T14:08:40+00:00",
-      "summary": "Saudi Arabia has backed a demand from Yemen's presidential council for the United Arab Emirates to withdraw within 24 hours, after a Saudi-led coalition bombed what it said was a weapons shipment for UAE-backed separatists at the port of Mukalla.",
-      "summary_zh": "沙特阿拉伯支持也门总统委员会要求阿拉伯联合酋长国在24小时内撤出的要求,此前一个由沙特领导的联盟轰炸了它所说的在穆卡拉港为阿联酋支持的分离主义分子运送的武器。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eurostar cancels all trains out of London as power outage hits Channel Tunnel",
-      "title_zh": "Eurostar 取消所有出伦敦的列车,因为停电了",
-      "link": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T13:49:57+00:00",
-      "summary": "Eurostar has cancelled all trains out of London towards Paris, Amsterdam and Brussels until further notice after a power outage in the Channel Tunnel caused a Le Shuttle train to fail.",
-      "summary_zh": "Eurostar已经取消了所有从伦敦开出前往巴黎,阿姆斯特丹和布鲁塞尔的列车,直到在海峡隧道停电导致列跑列车故障后进一步通知."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "住宅ローン 大手銀行 1月から適用する固定金利引き上げを発表",
-      "title_zh": "主要银行公告 固定利率增加",
-      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016961000.html",
-      "published_at": "2025-12-30T12:29:07+00:00",
-      "summary": "日銀 12月の金融政策決定会合 円安での物価押し上げ懸念相次ぐ",
-      "summary_zh": "尼辛12月金融政策决定会"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "関越道 多重事故 複数ドライバー「カーブで見通し悪かった」",
-      "title_zh": "干-江通高速公路多位司机\"被导弹所空前\".",
-      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016921000.html",
-      "published_at": "2025-12-30T12:24:38+00:00",
-      "summary": "群馬 関越道 多重事故 複数ドライバー「ブレーキも止まれず」",
-      "summary_zh": "Gunma Kanetsu高速公路多起事故 多起螺丝起子\"刹车停不下来\""
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "アメリカ “ベネズエラ港湾施設をCIAが無人機で攻撃” CNN",
-      "title_zh": "美国“委内瑞拉港口设施 CIA 攻击用\" CNN",
-      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016891000.html",
-      "published_at": "2025-12-30T12:19:31+00:00",
-      "summary": "“麻薬積み込みの地区を攻撃” 米 ベネズエラに初の地上攻撃か",
-      "summary_zh": "委内瑞拉第一次地面袭击"
+      "summary": "Chart-topping K-pop band NewJeans' record label, Ador, is suing one of the band's members in what is yet another twist in their bitter year-long feud.",
+      "summary_zh": "Chart-toping K-pop乐队NewJeans的唱片标签Ador正在起诉乐队成员之一,这是他们在长达一年之久的怨恨中的另一个曲折。"
     },
     {
       "source": "BBC News",
@@ -84,16 +164,6 @@
       "summary_zh": "沃洛德米尔·泽连斯基总统否认俄罗斯指控乌克兰对弗拉基米尔·普京总统官邸之一发动无人机袭击,并指责莫斯科试图破坏和谈."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東京 多摩動物公園 オオカミは植栽を伝い 壁飛び越えたか",
-      "title_zh": "东京玉马动物公园",
-      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016971000.html",
-      "published_at": "2025-12-30T11:33:09+00:00",
-      "summary": "中国軍 2日目の軍事演習“火力実弾射撃実施”台湾へ圧力強める",
-      "summary_zh": "中国陆军对台湾施加高压 军事演习第二天\"火力公告\"."
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "French right pushes for national tribute to film star Brigitte Bardot",
@@ -104,16 +174,6 @@
       "summary_zh": "法国右翼人物埃里克·克奥蒂(Éric Ciotti)呼吁举行全国致敬来纪念电影传奇\"布里吉特·巴多\",引发了左翼政治对手的反对."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "秀吉がふるまった “金粉塗られたあんずの種” 発見 山口 岩国",
-      "title_zh": "山口岩库尼发现",
-      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016631000.html",
-      "published_at": "2025-12-30T10:41:35+00:00",
-      "summary": "名古屋 出張中の愛媛県警の警察官など 豊臣秀吉像の首折ったか",
-      "summary_zh": "是丰臣藏藏的雕像头像吗? 比如在出差期间的警察?"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Turkey detains 357 suspected IS members in nationwide raids",
@@ -122,16 +182,6 @@
       "published_at": "2025-12-30T10:38:53+00:00",
       "summary": "More than 350 suspected Islamic State group (IS) members have been detained as part of nationwide police operations in Turkey.",
       "summary_zh": "作为土耳其全国警察行动的一部分,350多名伊斯兰国家集团嫌疑成员被拘押。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東証 終値は5万円台 年末として最高水準 記録的な株高の年に",
-      "title_zh": "年终五万日元",
-      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016651000.html",
-      "published_at": "2025-12-30T10:19:53+00:00",
-      "summary": "共産党 不破哲三氏死去“党の理論的支柱” 委員長や議長務める",
-      "summary_zh": "Tetsuzo Irreto“党的理论”主席"
     },
     {
       "source": "BBC News",
@@ -316,16 +366,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Egyptian dissident sorry for tweets after calls for deportation from UK",
-      "title_zh": "埃及持不同政见者在呼吁从英国驱逐出境后,",
-      "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-29T16:13:30+00:00",
-      "summary": "British-Egyptian democracy activist Alaa Abd El Fattah has apologised for several of his old tweets that have resurfaced, as calls grow for him to be deported from the UK days after he arrived following his release from an Egyptian jail.",
-      "summary_zh": "英国-埃及民主活动家Alaa Abd El Fattah为他的多条旧微博道歉,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "China holds military drills around Taiwan as warning to 'separatist forces'",
       "title_zh": "中国在台湾周围举行军事演习,",
       "link": "https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss",
@@ -366,32 +406,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Five-year-old boy dies after getting caught in Japan ski travelator",
-      "title_zh": "五岁男孩被日本滑雪旅行者抓到后就死了",
-      "link": "https://www.bbc.com/news/articles/c4g6gw30epvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-29T05:13:17+00:00",
-      "summary": "A five-year-old boy in Japan has died while on a ski holiday with his family after his arm caught on a travelator.",
-      "summary_zh": "日本一5岁男孩被出行者抓起手臂后与家人一起在滑雪假期中相继去世."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "An orphan's brutal murder shines a spotlight on child abuse in Somalia",
       "title_zh": "杀害孤儿的残酷行径使人们关注索马里的虐待儿童行为。",
       "link": "https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2025-12-29T03:22:26+00:00",
       "summary": "A woman is currently awaiting execution in Somalia after being convicted of killing a 14-year-old girl in her care.",
       "summary_zh": "一名妇女目前在索马里等待处决,因为她被判定杀害了在她照料下的一名14岁女孩。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mexico train crash kills 13 and injures almost 100",
-      "title_zh": "墨西哥火车相撞造成13人死亡和近100人受伤",
-      "link": "https://www.bbc.com/news/articles/cx2328e70y7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-29T02:15:36+00:00",
-      "summary": "At least 13 people died and almost 100 were injured in a train derailment in Mexico's south-eastern Oaxaca region, the Mexican navy said.",
-      "summary_zh": "墨西哥海军表示,在墨西哥的瓦哈卡州东南部地区,至少有13人死亡,近100人受伤."
     },
     {
       "source": "BBC News",
@@ -416,16 +436,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Kosovo's ruling party wins election after months of political deadlock",
-      "title_zh": "科索沃执政党在几个月的政治僵局后赢得了选举",
-      "link": "https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-29T00:27:02+00:00",
-      "summary": "The Albanian nationalist Vetevendosje party has won a landslide victory in Kosovo's parliamentary elections, according to preliminary results.",
-      "summary_zh": "根据初步结果,阿尔巴尼亚民族主义的Vetevendosje党在科索沃议会选举中取得了滑坡胜利。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable",
       "title_zh": "有毒的空气,破碎的公路和未经挑选的垃圾——为什么印度的大城市变得无法生存.",
       "link": "https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&at_campaign=rss",
@@ -442,16 +452,6 @@
       "published_at": "2025-12-28T23:00:27+00:00",
       "summary": "Silva Gu's eyes dart back and forth across miles of tall grassland, scouring it for signs of life in the darkness.",
       "summary_zh": "席尔瓦 古斯的眼睛飞来飞去 穿越了几英里高的草地 寻找黑暗中的生命迹象"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French cinema actress Brigitte Bardot dies aged 91",
-      "title_zh": "法国电影女演员Brigitte Bardot去世91岁",
-      "link": "https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-28T13:34:26+00:00",
-      "summary": "French actress Brigitte Bardot, who revolutionised 1950s French cinema and became a symbol of sexual liberation, has died aged 91.",
-      "summary_zh": "法国女演员布里吉特·巴多特(Brigitte Bardot)在1950年代法国电影院进行革命并成为性解放的象征,已经去世了91岁."
     },
     {
       "source": "BBC News",
