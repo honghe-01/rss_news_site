@@ -1,9 +1,10 @@
 name: Daily Update
 
 on:
-  schedule:
-    - cron: "10 22 * * *"   # 日本时间 07:10（UTC+9）= UTC 22:10
   workflow_dispatch:
+  schedule:
+    # 每天 07:15 日本时间（= 22:15 UTC）
+    - cron: "15 22 * * *"
 
 permissions:
   contents: write
@@ -11,6 +12,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -18,26 +20,38 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Cache Argos models
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.local/share/argos-translate
+            ~/.local/cache/argos-translate
+          key: argos-${{ runner.os }}-v1
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          python -m pip install feedparser requests python-dateutil beautifulsoup4 lxml argostranslate
+          pip install -r requirements.txt
 
-      - name: Install Argos models
+      - name: Install/Update Argos models (non-fatal)
+        continue-on-error: true
         run: |
           python fetch_news.py --install-models
 
-      - name: Build site data (docs/news.json)
+      - name: Build site data
         run: |
-          python fetch_news.py --all --site
+          python fetch_news.py --all
 
-      - name: Commit & Push
+      - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/news.json translation_cache.json seen.json docs/index.html || true
-          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git add docs/news.json docs/site_meta.json seen.json translation_cache.json || true
+
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
           git commit -m "Daily update"
           git push
