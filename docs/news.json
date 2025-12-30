@@ -1,12 +1,264 @@
 {
-  "updated_at": "init",
+  "updated_at": "2025-12-30 12:55:59+0000",
   "items": [
     {
-      "source": "init",
-      "published": "init",
-      "title": "Hello RSS News",
-      "link": "https://example.com",
-      "summary": "这是一条示例新闻，等自动更新跑起来后会被替换。"
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 00:12:41 GMT",
+      "title": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
+      "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 11:20:27 GMT",
+      "title": "French right pushes for national tribute to film star Brigitte Bardot",
+      "link": "https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A petition for a national homage to Brigitte Bardot - who died on Sunday - attracts more than 23,000 signatures."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 05:04:40 GMT",
+      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
+      "link": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm, after talks with Netanyahu."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 05:14:28 GMT",
+      "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+      "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
+      "summary": "For decades, Zia and ousted PM Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 10:38:53 GMT",
+      "title": "Turkey detains 357 suspected IS members in nationwide raids",
+      "link": "https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The arrests come just a day after three police officers were killed during a siege in the town of Yalova."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 09:40:58 GMT",
+      "title": "K-pop band NewJeans breaks up after bitter feud with record label",
+      "link": "https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 07:45:55 GMT",
+      "title": "Anthony Joshua injured in Nigeria car crash that killed two team members",
+      "link": "https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The British heavyweight boxer suffered minor injuries in the crash, which killed two team members and close friends."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 11:43:26 GMT",
+      "title": "Ukraine denies drone attack on Putin's residence",
+      "link": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\"."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 01:15:19 GMT",
+      "title": "Great white sharks face extinction in Mediterranean, say researchers",
+      "link": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
+      "summary": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 03:26:06 GMT",
+      "title": "Spanish woman who found fame for botching fresco restoration dies",
+      "link": "https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cecilia Giménez's effort to restore the painting Ecce Homo earned the artwork the nickname \"Monkey Christ\"."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 03:22:12 GMT",
+      "title": "'No worries': Trump downplays Chinese military drills around Taiwan",
+      "link": "https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US President has downplayed the drills which follow a US announcement of an $11bn arms sale to Taiwan."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 02:17:56 GMT",
+      "title": "Alleged Bondi gunmen acted alone and did not train in the Philippines, police say",
+      "link": "https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The father-and-son duo spent a month in the Philippines before the attack that killed 15 people in Bondi."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 09:13:01 GMT",
+      "title": "Trump says US hit 'big facility' linked to alleged Venezuelan drug boats",
+      "link": "https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president would not confirm US media reports that the explosion was caused by a CIA drone strike."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 00:53:34 GMT",
+      "title": "Brazil's Bolsonaro undergoes second medical procedure for hiccups",
+      "link": "https://www.bbc.com/news/articles/c4g4g0y4m1do?at_medium=RSS&at_campaign=rss",
+      "summary": "The former far-right leader receives second treatment in three days for chronic hiccups."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 19:46:24 GMT",
+      "title": "Nepal to scrap 'failed' Mount Everest waste deposit scheme",
+      "link": "https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the scheme, climbers paid a $4,000 deposit that was returned if they brought 8kg of waste down the mountain."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 10:38:29 GMT",
+      "title": "Thailand accuses Cambodia of breaking newly signed ceasefire deal",
+      "link": "https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS&at_campaign=rss",
+      "summary": "The ceasefire took effect at noon local time (05:00 GMT) on Saturday."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 17:51:21 GMT",
+      "title": "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'",
+      "link": "https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pledge was welcomed by the UN, but comes after previous major cuts to US funding for humanitarian operations."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 09:13:26 GMT",
+      "title": "Why Israel's recognition of Somaliland as an independent state is controversial",
+      "link": "https://www.bbc.com/news/articles/c14v4kmg275o?at_medium=RSS&at_campaign=rss",
+      "summary": "Somaliland wants international recognition - here's why, and what could have driven Israel to recognise it now."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 06:05:53 GMT",
+      "title": "'There are many challenges': Syrians in Turkey consider return after fall of Assad",
+      "link": "https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss",
+      "summary": "Syrians in Turkey are weighing up whether it is the right time to return to their homeland."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 11:46:34 GMT",
+      "title": "China holds military drills around Taiwan as warning to 'separatist forces'",
+      "link": "https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss",
+      "summary": "The drills come days after the US announced the sale of one of its largest weapons packages to Taiwan."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 16:13:30 GMT",
+      "title": "Egyptian dissident sorry for tweets after calls for deportation from UK",
+      "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Shabana Mahmood is facing growing calls to revoke the citizenship of Alaa Abdel Fattah after the emergence of social media posts."
+    },
+    {
+      "source": "BBC World",
+      "published": "Sun, 28 Dec 2025 13:34:26 GMT",
+      "title": "French cinema actress Brigitte Bardot dies aged 91",
+      "link": "https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss",
+      "summary": "The actress was a symbol of sexual liberation in the 1950s but became increasingly controversial after making homophobic and racist slurs."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 00:27:02 GMT",
+      "title": "Kosovo's ruling party wins election after months of political deadlock",
+      "link": "https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&at_campaign=rss",
+      "summary": "The decisive victory for the Albanian nationalist Vetevendosje party means a third term for leader Albin Kurti."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 05:13:17 GMT",
+      "title": "Five-year-old boy dies after getting caught in Japan ski travelator",
+      "link": "https://www.bbc.com/news/articles/c4g6gw30epvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials spent 40 minutes dismantling the travelator to free him, but he was later pronounced dead."
+    },
+    {
+      "source": "BBC World",
+      "published": "Mon, 29 Dec 2025 02:15:36 GMT",
+      "title": "Mexico train crash kills 13 and injures almost 100",
+      "link": "https://www.bbc.com/news/articles/cx2328e70y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation is under way after the train derailed as it rounded a bend near the town of Nizanda."
+    },
+    {
+      "source": "BBC World",
+      "published": "Sun, 28 Dec 2025 13:22:06 GMT",
+      "title": "Three killed in Sweden as major storm sweeps across Nordic countries",
+      "link": "https://www.bbc.com/news/articles/cdj817m37rgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of homes in parts of Finland, Sweden and Norway have been left without power."
+    },
+    {
+      "source": "BBC World",
+      "published": "Sun, 28 Dec 2025 07:37:08 GMT",
+      "title": "Polls close on first day of Myanmar's widely criticised 'sham' election",
+      "link": "https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss",
+      "summary": "Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 03:25:02 GMT",
+      "title": "What growing up in war does to a child's brain - and how it really affects them years later",
+      "link": "https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fergal Keane has met thousands of traumatised children while reporting on conflicts. Here, he researches the long-term effect on them - and what, if anything, can help."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 01:08:49 GMT",
+      "title": "The fight over Christian nationalism in a small Tennessee town",
+      "link": "https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss",
+      "summary": "A controversy kicked off after two religious podcasters moved into an Appalachian hill town deep in the Bible Belt."
+    },
+    {
+      "source": "BBC World",
+      "published": "Tue, 30 Dec 2025 06:12:02 GMT",
+      "title": "Khaleda Zia: Slain leader's widow who went on to lead Bangladesh",
+      "link": "https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's first female prime minister governed in periods of violent unrest and economic hardship."
+    },
+    {
+      "source": "NHK",
+      "published": "Tue, 30 Dec 2025 21:24:38 +0900",
+      "title": "関越道 多重事故 複数ドライバー「カーブで見通し悪かった」",
+      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016921000.html",
+      "summary": "【NHK】群馬県の関越自動車道で、2人が死亡するなどした多重事故で、複数のドライバーが現場にさしかかる直前の状況について、「カーブで見通しが悪かった」などと説明していることが、警察への取材で分かりました。警察は"
+    },
+    {
+      "source": "NHK",
+      "published": "Tue, 30 Dec 2025 21:19:31 +0900",
+      "title": "アメリカ “ベネズエラ港湾施設をCIAが無人機で攻撃” CNN",
+      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016891000.html",
+      "summary": "【NHK】アメリカのトランプ大統領が南米・ベネズエラで麻薬の積み込みが行われていた地区を攻撃したと述べたことについて、アメリカのCNNテレビはCIA＝中央情報局が無人機を使って攻撃を行ったと伝えました。ベネズエ"
+    },
+    {
+      "source": "NHK",
+      "published": "Tue, 30 Dec 2025 21:29:07 +0900",
+      "title": "住宅ローン 大手銀行 1月から適用する固定金利引き上げを発表",
+      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016961000.html",
+      "summary": "【NHK】長期金利の上昇を受けて、大手銀行は2026年1月から適用する住宅ローンの固定金利を引き上げると発表しました。利用者の多い変動型の金利は据え置くものの、今後、引き上げられる可能性があります。 住宅ロ"
+    },
+    {
+      "source": "NHK",
+      "published": "Tue, 30 Dec 2025 20:33:09 +0900",
+      "title": "東京 多摩動物公園 オオカミは植栽を伝い 壁飛び越えたか",
+      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016971000.html",
+      "summary": "【NHK】東京 日野市の多摩動物公園で28日、オオカミが飼育エリアから脱走し、その後捕獲されましたが、園は30日、オオカミが植栽を伝うなどして壁を飛び越え、脱走したとみられると発表しました。 28日、東京"
+    },
+    {
+      "source": "NHK",
+      "published": "Tue, 30 Dec 2025 19:19:53 +0900",
+      "title": "東証 終値は5万円台 年末として最高水準 記録的な株高の年に",
+      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016651000.html",
+      "summary": "【NHK】東京証券取引所では1年の取り引きを締めくくる「大納会」が開かれました。ことしは日経平均株価が初めて5万円の大台を突破するなど記録的な株高の年となり、高市総理大臣や証券関係者らが来年も株価の上昇が続くこ"
+    },
+    {
+      "source": "NHK",
+      "published": "Tue, 30 Dec 2025 19:41:35 +0900",
+      "title": "秀吉がふるまった “金粉塗られたあんずの種” 発見 山口 岩国",
+      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016631000.html",
+      "summary": "【NHK】戦国時代、豊臣秀吉が大坂城を訪れた武将たちに宴会の場で酒のさかなとしてふるまった、金粉が塗られた種が山口県岩国市で見つかりました。分析の結果、種はあんずの可能性が高いとわかり、専門家は「秀吉がふるまっ"
+    },
+    {
+      "source": "NHK",
+      "published": "Tue, 30 Dec 2025 17:51:10 +0900",
+      "title": "北海道 スキー場死亡事故 5歳男児の死因は窒息死",
+      "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016851000.html",
+      "summary": "【NHK】28日、北海道小樽市にあるスキー場で、5歳の男の子がエスカレーターの隙間に挟まれて死亡した事故で、男の子の死因は衣服が巻き込まれたことなどによる窒息死だったと分かりました。警察は業務上過失致死の疑いも"
     }
   ]
 }
