@@ -1,0 +1,12 @@
+{
+  "updated_at": "init",
+  "items": [
+    {
+      "source": "init",
+      "published": "init",
+      "title": "Hello RSS News",
+      "link": "https://example.com",
+      "summary": "这是一条示例新闻，等自动更新跑起来后会被替换。"
+    }
+  ]
+}
