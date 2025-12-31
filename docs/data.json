@@ -1,27 +1,257 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2025-12-31T07:36:32+00:00",
-  "count": 49,
+  "generated_at": "2025-12-31T22:36:22+00:00",
+  "count": 33,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "タイとカンボジア停戦合意でタイ拘束のカンボジア兵士18人解放",
-      "title_zh": "18名柬埔寨士兵在泰国和柬埔寨受训",
-      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017171000.html",
-      "published_at": "2025-12-31T07:07:48+00:00",
-      "summary": "タイとカンボジアの軍事衝突 即時停戦で合意",
-      "summary_zh": "泰国和柬埔寨之间的军事相撞"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites",
+      "title_zh": "欧盟最高外交官拒绝俄罗斯关于乌克兰袭击政府驻地的说法.",
+      "link": "https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T22:14:05+00:00",
+      "summary": "The EU's top diplomat has called Moscow's claims that Ukraine targeted Russian government sites a \"deliberate distraction\" and an attempt to derail the peace process.",
+      "summary_zh": "欧盟最高外交官称莫斯科声称乌克兰以俄罗斯政府驻地为目标是\"蓄意分心\"并企图使和平进程出轨."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bulgaria joins the euro after rocky path to new currency",
+      "title_zh": "保加利亚在进入新货币后加入欧元",
+      "link": "https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T22:05:03+00:00",
+      "summary": "Bulgaria - the poorest country in the European Union - has become the 21st member of the eurozone - leapfrogging more obvious and prosperous candidates like Poland, the Czech Republic and Hungary.",
+      "summary_zh": "保加利亚是欧洲联盟中最贫穷的国家,已成为欧元区第21个成员国,它跃升了波兰、捷克共和国和匈牙利等更为明显和繁荣的候选国。"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "日中経済協会 1月の訪問団派遣を延期 十分な交流困難な状況",
-      "title_zh": "日本-中国经济协会推迟1月访问小组",
-      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017141000.html",
-      "published_at": "2025-12-31T06:43:20+00:00",
-      "summary": "中国軍 台湾周辺で2日連続で軍事演習 台湾 頼清徳総統が反発",
-      "summary_zh": "连续两天围绕中国军队举行军事演习 台湾宗教神权相反"
+      "title": "北日本は2日にかけて 東日本と西日本は2日～3日 大雪のおそれ",
+      "title_zh": "北日本:2至3天",
+      "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017461000.html",
+      "published_at": "2025-12-31T21:34:22+00:00",
+      "summary": "年明け 強い寒気と冬型気圧配置で大雪のおそれ 交通影響に注意",
+      "summary_zh": "在严寒和冬季气压布置中年终大雪"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "400年余りの時を経て 旧薩摩藩主の島津家と西本願寺が交流へ",
+      "title_zh": "四百多年后 岛津家族的前佐佐佐马领主 和西弘安将交换",
+      "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017341000.html",
+      "published_at": "2025-12-31T21:19:59+00:00",
+      "summary": "両陛下 東日本大震災15年 熊本地震10年のことし 被災地へ",
+      "summary_zh": "第十五回东日本大地震"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "In pictures: New Year welcomed around the world",
+      "title_zh": "图片:世界各地新年欢迎",
+      "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T20:44:14+00:00",
+      "summary": "Nations around the world are welcoming the New Year as midnight strikes across different time zones.",
+      "summary_zh": "世界各国正在欢迎新年,这是跨越不同时区的午夜罢工。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "高市首相 首脳外交精力的に 中国との対立長期化避けられないか",
+      "title_zh": "高一总理在精神上必然与中国的长期对抗",
+      "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017371000.html",
+      "published_at": "2025-12-31T20:11:03+00:00",
+      "summary": "両陛下 東日本大震災15年 熊本地震10年のことし 被災地へ",
+      "summary_zh": "第十五回东日本大地震"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fireworks, drums and light shows: How the world is welcoming 2026",
+      "title_zh": "烟花,鼓和光线显示: 世界是怎样欢迎2026",
+      "link": "https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T18:41:15+00:00",
+      "summary": "Crowds around the world have gathered to welcome the new year.",
+      "summary_zh": "世界各地群众聚集一堂来迎接新年."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東京 豊島区 トレカ販売店で強盗事件 男3人押し入りカード奪う",
+      "title_zh": "东京都岛库托雷卡销售商店 192 伯案 男性三人推入卡",
+      "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017421000.html",
+      "published_at": "2025-12-31T18:32:36+00:00",
+      "summary": "両陛下 東日本大震災15年 熊本地震10年のことし 被災地へ",
+      "summary_zh": "第十五回东日本大地震"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel to bar 37 aid groups as UK and EU warn of severe impact in Gaza",
+      "title_zh": "以色列禁止37个援助团体参加联合王国和欧盟关于加沙受严重影响的警告",
+      "link": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T17:10:29+00:00",
+      "summary": "Israel is to revoke the licences of 37 international non-governmental organisations (INGOs) working in Gaza and the occupied West Bank, saying they failed to meet requirements under new registration rules.",
+      "summary_zh": "以色列将吊销在加沙和被占领西岸工作的37个国际非政府组织的执照,说它们不符合新的登记规则的要求。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Finnish police seize ship suspected of sabotaging undersea cable",
+      "title_zh": "芬兰警方扣押了涉嫌破坏海底电缆的船只",
+      "link": "https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T16:48:43+00:00",
+      "summary": "Finnish police have detained a vessel sailing from Russia, which is suspected of damaging an undersea telecoms cable running from Helsinki to Estonia across the Gulf of Finland.",
+      "summary_zh": "芬兰警方扣押了一艘从俄罗斯起航的船只,该船涉嫌损坏从赫尔辛基到爱沙尼亚跨越芬兰湾的海底电信电缆。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Passenger describes 'chaos' after head-on Machu Picchu train collision",
+      "title_zh": "乘客描述在马丘比丘火车相撞之后的\"Chaos\"",
+      "link": "https://www.bbc.com/news/articles/c4gweww8rjro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T16:42:33+00:00",
+      "summary": "A passenger has described \"chaos\" after two trains collided head-on near Peru's most popular tourist attraction, Machu Picchu.",
+      "summary_zh": "一名乘客描述了在秘鲁最受欢迎的旅游景点马楚比丘附近两列列火车相撞后相撞后\"chaos\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Stunning celestial events that lit up the skies in 2025",
+      "title_zh": "观察:2025年天空被照亮的 惊天动地事件",
+      "link": "https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T15:33:33+00:00",
+      "summary": "From meteor showers to supermoons, many stunning celestial events have been captured on camera over the past year.",
+      "summary_zh": "从流星雨到超级月亮,过去一年中许多令人惊叹的天体事件被摄像头所捕获."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sydney sends message of peace for New Year's after Bondi attack",
+      "title_zh": "悉尼在邦迪被袭击后 发来和平信息",
+      "link": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T15:24:36+00:00",
+      "summary": "Sydney has welcomed the New Year with a message of peace following the Bondi Beach mass shooting, as huge crowds gathered to watch the city's annual fireworks display.",
+      "summary_zh": "悉尼以邦迪海滩大规模枪击后的和平信息欢迎了新年,因为大批人群聚集在一起观看了该市的年度烟花展."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "能登半島地震から2年 被災地の復興はまだ道半ば",
+      "title_zh": "野藤半岛地震发生后两年",
+      "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017331000.html",
+      "published_at": "2025-12-31T15:15:32+00:00",
+      "summary": "両陛下 東日本大震災15年 熊本地震10年のことし 被災地へ",
+      "summary_zh": "第十五回东日本大地震"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "両陛下 東日本大震災15年 熊本地震10年のことし 被災地へ",
+      "title_zh": "第十五回东日本大地震",
+      "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017261000.html",
+      "published_at": "2025-12-31T15:00:19+00:00",
+      "summary": "悠仁さま 新年一般参賀に初参加へ",
+      "summary_zh": "尤尼参加新年总集会"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NHK紅白歌合戦2025 出場歌手が熱唱 ステージ写真で振り返る",
+      "title_zh": "2025年NHK红白相声大赛",
+      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015014861000.html",
+      "published_at": "2025-12-31T14:51:38+00:00",
+      "summary": "NHK紅白歌合戦 ゲスト審査員7人決まる",
+      "summary_zh": "NHK红白相声大赛7名嘉宾评委决定"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Machu Picchu train crash leaves one dead and dozens injured",
+      "title_zh": "马丘比丘火车坠毁 造成一死一伤",
+      "link": "https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T12:27:22+00:00",
+      "summary": "A train driver has died and at least 40 people have been injured in a head-on rail collision near Peru's most popular tourist attraction, Machu Picchu.",
+      "summary_zh": "在秘鲁最受欢迎的旅游景点马楚比丘附近,火车司机被撞倒,至少40人受伤."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Guinea junta chief wins presidential election by landslide",
+      "title_zh": "几内亚军政府首领通过滑坡赢得总统选举",
+      "link": "https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T10:47:59+00:00",
+      "summary": "Guinea's junta chief Gen Mamady Doumbouya has won the presidential election by a landslide, getting 86.7% of the vote, according to provisional results published by the election commission.",
+      "summary_zh": "根据选举委员会公布的临时结果,几内亚军政府领导人Gen Mamady Doumbouya以滑坡赢得了总统选举,获得86.7%的选票。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Huge crowds mourn Bangladesh's first female PM at state funeral",
+      "title_zh": "大批民众在国葬上哀悼孟加拉首位女性首相,",
+      "link": "https://www.bbc.com/news/articles/c5yvdjxeqv6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T10:17:40+00:00",
+      "summary": "Hundreds of thousands of people travelled from across Bangladesh to the capital Dhaka on Wednesday to pay their final respects to former Prime Minister Khaleda Zia.",
+      "summary_zh": "数十万人星期三从孟加拉国各地前往首都达卡,向前总理卡莉达·齐亚表示最后的敬意."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eurostar services return to normal after major Channel Tunnel disruption",
+      "title_zh": "欧洲之星服务在频道隧道中断后恢复正常",
+      "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T09:55:07+00:00",
+      "summary": "Eurostar and Le Shuttle services between the UK and France have resumed through the Channel Tunnel after major travel disruption on Tuesday.",
+      "summary_zh": "联合王国和法国之间的Eurostar和Le Shuttle服务在星期二主要出行中断后恢复了通过海峡隧道的服务。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Heated Rivalry author says TV success led to help with her Parkinson's",
+      "title_zh": "加热的Rivalry作者说,电视的成功 帮助她的帕金森",
+      "link": "https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T09:45:20+00:00",
+      "summary": "The author of Heated Rivalry has revealed the success of the TV adaptation has resulted in her receiving specialist help with her Parkinson's disease.",
+      "summary_zh": "\"Heated Rivalry\"的作者透露了电视改编的成功导致她因帕金森病接受了专家帮助."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move",
+      "title_zh": "马里和布基那法索对美国公民实施禁行措施",
+      "link": "https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T09:45:12+00:00",
+      "summary": "Mali and Burkina Faso say they will bar US citizens from entering their countries in response to a similar move by the Trump administration.",
+      "summary_zh": "马里和布基纳法索表示将禁止美国公民入境,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35",
+      "title_zh": "Tatiana Schlossberg,约翰·肯尼迪的孙女,35岁去世",
+      "link": "https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T08:55:49+00:00",
+      "summary": "Tatiana Schlossberg, the granddaughter of former US President John F Kennedy, has died aged 35.",
+      "summary_zh": "美国前总统约翰·肯尼迪的孙女塔蒂安娜·施洛斯贝格已经去世,享年35岁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC",
+      "title_zh": "被关进香港大亨的\"牙齿腐烂和指甲掉下来\",女儿告诉BBC",
+      "link": "https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T08:12:48+00:00",
+      "summary": "The daughter of Jimmy Lai, the pro-democracy tycoon jailed in Hong Kong, has expressed concerns about her father's deteriorating health in prison, saying that his fingernails \"sometimes fall off\" and his teeth are rotting.",
+      "summary_zh": "香港被囚禁的亲民主大亨吉米·莱的女儿对父亲在狱中健康状况恶化表示担忧,称指甲\"有时会掉下\",牙齿会腐烂."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Diane Keaton, Pope Francis and Ozzy Osbourne... famous faces who left us in 2025",
+      "title_zh": "Diane Keaton 教宗方济各和Ozzy Osbourne... 2025年离开我们的著名面孔",
+      "link": "https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2025-12-31T07:55:44+00:00",
+      "summary": "The first non-European Pope in more than 1,000 years, the Oscar-winning star of Annie Hall and The Godfather, a soul legend and one of the world's most famous designers - here are some of the well-known faces no longer with us.",
+      "summary_zh": "1000多年以来第一位非欧洲教宗,安妮·霍尔和\"教父\"的奥斯卡得奖之星,灵魂传说和世界上最出名的设计师之一-这里已经有一些出名的面孔不再和我们在一起了."
     },
     {
       "source": "BBC News",
@@ -34,26 +264,6 @@
       "summary_zh": "泰国释放了7月份在致命边界冲突中被俘的18名柬埔寨士兵,这是星期六两国商定的停火的一部分。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "2025年の大みそか 年越しを前に各地では",
-      "title_zh": "2025年前,我们开始",
-      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017131000.html",
-      "published_at": "2025-12-31T05:04:02+00:00",
-      "summary": "【ライブ配信中】年末年始 高速道路の状況は",
-      "summary_zh": "[活来流]新年假日快道地位是:"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eurostar delays persist as passengers stuck onboard overnight",
-      "title_zh": "欧洲之星的延迟持续 乘客在船上停留过夜",
-      "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T04:56:15+00:00",
-      "summary": "Eurostar passengers are braced for more possible disruption, after a power outage in the Channel Tunnel caused travel chaos for thousands of people on Tuesday.",
-      "summary_zh": "欧洲之星的乘客在周二因海峡隧道停电而造成数千人出行混乱,"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Ex-Australia batter Martyn in coma with meningitis",
@@ -62,16 +272,6 @@
       "published_at": "2025-12-31T03:53:31+00:00",
       "summary": "Former Australia batter Damien Martyn has been placed into an induced coma after being diagnosed with meningitis.",
       "summary_zh": "前澳大利亚击球手达米安·马蒂恩被诊断出患有脑膜炎后被置于被诱发的昏迷状态."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中国 12月製造業の景況感示す指数 9か月ぶりに節目上回る",
-      "title_zh": "中国\"十二月制造商\"出品地指数",
-      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017101000.html",
-      "published_at": "2025-12-31T03:41:11+00:00",
-      "summary": "中国軍 台湾周辺で2日連続で軍事演習 台湾 頼清徳総統が反発",
-      "summary_zh": "连续两天围绕中国军队举行军事演习 台湾宗教神权相反"
     },
     {
       "source": "BBC News",
@@ -84,46 +284,6 @@
       "summary_zh": "唐纳德·特朗普(Donald Trump)表示,美国对一个与据称委内瑞拉毒船相联的\"码头地区\"进行了打击."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "マチュピチュにつながる鉄道 衝突事故で1人死亡 日本人2人けが",
-      "title_zh": "通往马楚的火车 一起相撞事故造成一人死亡 日本人两人受伤",
-      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017051000.html",
-      "published_at": "2025-12-31T03:08:37+00:00",
-      "summary": "中国軍 台湾周辺で2日連続で軍事演習 台湾 頼清徳総統が反発",
-      "summary_zh": "连续两天围绕中国军队举行军事演习 台湾宗教神权相反"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NHK紅白歌合戦 リハーサル進む タイムテーブルも公開",
-      "title_zh": "NHK红白相声相配排练进度表也发布.",
-      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015014861000.html",
-      "published_at": "2025-12-31T03:02:19+00:00",
-      "summary": "NHK紅白歌合戦 ゲスト審査員7人決まる",
-      "summary_zh": "NHK红白相声大赛7名嘉宾评委决定"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Isiah Whitlock Jr: The Wire and Veep actor dies at 71",
-      "title_zh": "小以西亚·惠特洛克:电线和维普演员死亡71分",
-      "link": "https://www.bbc.com/news/articles/cwyw56687z3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T02:07:51+00:00",
-      "summary": "Isiah Whitlock Jr, who was known for his memorable acting roles on The Wire and Veep, has died at the age of 71, according to his manager.",
-      "summary_zh": "小以西亚·惠特洛克(Isiah Whitlock Jr)以\"The Wire\"和\"Veep\"上令人难忘的演艺角色而出名,据其经理称已去世,享年71岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Guinea junta chief wins presidency in controversial election",
-      "title_zh": "几内亚军政府首领在有争议的选举中赢得总统席位",
-      "link": "https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T01:27:58+00:00",
-      "summary": "Gen Mamady Doumbouya has been elected president of Guinea after securing the majority of the vote, according to initial polling results published by the country's election commission.",
-      "summary_zh": "根据几内亚选举委员会公布的初步投票结果,马马迪·杜姆布亚将军在获得多数票后当选为几内亚总统。"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Underwater chess champions compete for world title",
@@ -132,16 +292,6 @@
       "published_at": "2025-12-31T01:17:48+00:00",
       "summary": "The Diving Chess World Championships has taken place in Groningen, Netherlands, with players using weighted pieces and magnetic boards.",
       "summary_zh": "跳水国际象棋世界锦标赛在荷兰格罗宁根举行,玩家使用加权棋和磁板."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Machu Picchu train crash leaves one dead and dozens injured",
-      "title_zh": "马丘比丘火车坠毁 造成一死一伤",
-      "link": "https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T01:15:57+00:00",
-      "summary": "A train driver has died and at least 40 people have been injured in a head-on rail collision near Peru's most popular tourist attraction, Machu Picchu.",
-      "summary_zh": "在秘鲁最受欢迎的旅游景点马楚比丘附近,火车司机被撞倒,至少40人受伤."
     },
     {
       "source": "BBC News",
@@ -160,58 +310,8 @@
       "title_zh": "从致命的钓鱼线上拯救南非受到威胁的信天翁",
       "link": "https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2025-12-31T00:23:10+00:00",
-      "summary": "On a small boat in the Atlantic, about 27 nautical miles (50km) away from South Africa's Cape Point, a group of bird watchers are calling out seabird names: \"Atlantic Yellow-nosed! Black-browed Albatross!\"",
-      "summary_zh": "在大西洋的一艘小船上,距离南非的\"角\"(Cape Point)约27海里(50公里),一群观鸟者呼唤出海鸟的名字:\"大西洋黄鼻! 黑发信天翁!\""
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ドイツ 何者かが銀行に侵入 貸金庫から55億円相当盗まれる",
-      "title_zh": "德国 一些银行被偷了 相当于50亿日元的安全存款箱",
-      "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017061000.html",
-      "published_at": "2025-12-31T00:19:44+00:00",
-      "summary": "中国軍 台湾周辺で2日連続で軍事演習 台湾 頼清徳総統が反発",
-      "summary_zh": "连续两天围绕中国军队举行军事演习 台湾宗教神权相反"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The viral moments that grabbed India's attention this year",
-      "title_zh": "今年吸引印度注意的病毒时刻",
-      "link": "https://www.bbc.com/news/articles/c93n6dykenko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T00:03:41+00:00",
-      "summary": "With millions of posts uploaded every day, India's social media churns out a viral moment almost on cue.",
-      "summary_zh": "印度的社交媒体每天上传上百万篇文章,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel to bar 37 aid groups from Gaza",
-      "title_zh": "以色列禁止37个援助团体进入加沙",
-      "link": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T22:36:43+00:00",
-      "summary": "Israel is to revoke the licenses of 37 aid groups working in Gaza and the occupied West Bank, saying they failed to meet requirements under new registration rules.",
-      "summary_zh": "以色列将吊销在加沙和被占领西岸工作的37个援助团体的执照,说这些团体不符合新的登记规则的要求。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35",
-      "title_zh": "Tatiana Schlossberg,约翰·肯尼迪的孙女,35岁去世",
-      "link": "https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T21:06:24+00:00",
-      "summary": "Tatiana Schlossberg, the granddaughter of former US President John F Kennedy, has died aged 35.",
-      "summary_zh": "美国前总统约翰·肯尼迪的孙女塔蒂安娜·施洛斯贝格已经去世,享年35岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
-      "title_zh": "阿联酋说,在沙特袭击分裂主义控制的港口后,它将撤出也门。",
-      "link": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T18:22:57+00:00",
-      "summary": "The United Arab Emirates has said it will withdraw its remaining forces from Yemen, after Saudi Arabia backed a demand from the Yemeni presidential council for them to leave within 24 hours.",
-      "summary_zh": "阿拉伯联合酋长国说,在沙特阿拉伯支持也门总统委员会要求他们在24小时内撤离之后,它将从也门撤出剩余的部队。"
+      "summary": "On a small boat in the Atlantic, about 27 nautical miles (50km) away from South Africa's Cape Point, a group of bird watchers are calling out seabird names: \"Atlantic yellow-nosed! Black-browed albatross!\"",
+      "summary_zh": "在大西洋的一艘小船上,距离南非\"角点\"约27海里(50公里)外,一群鸟类观察者呼唤出海鸟的名字:\"大西洋黄鼻! 黑发信天翁!\""
     },
     {
       "source": "BBC News",
@@ -226,272 +326,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Thieves use drill to steal €30m in German bank heist",
-      "title_zh": "小偷用钻头在德国银行抢劫三千万欧元",
-      "link": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T16:54:32+00:00",
-      "summary": "Thieves used a large drill to break into a safe at a high street bank branch in western Germany and steal an estimated €30m (£26m; $35m) in cash and valuables, police have said.",
-      "summary_zh": "据警方说,盗贼利用大型钻头在德国西部的一家高架街道银行分行闯入保险柜,并盗取了约3000万欧元(2600万英镑;3500万美元)的现金和贵重物品."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Protests spread across Iran for third day after currency hits record low",
-      "title_zh": "伊朗各地的抗议活动在创纪录以来,",
-      "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T16:31:18+00:00",
-      "summary": "Protests and strikes in Iran over inflation and currency devaluation have spread from the capital, Tehran, to several other cities on a third day of unrest.",
-      "summary_zh": "伊朗因通货膨胀和货币贬值而发生的抗议和罢工在动乱的第三天从首都德黑兰蔓延到其他几个城市。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "K-pop band member sued for $30m after bitter record label feud",
-      "title_zh": "K-pop乐队成员在苦痛唱片被封杀后起诉了30万美元",
-      "link": "https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T14:14:18+00:00",
-      "summary": "Chart-topping K-pop band NewJeans' record label, Ador, is suing one of the band's members in what is yet another twist in their bitter year-long feud.",
-      "summary_zh": "Chart-toping K-pop乐队NewJeans的唱片标签Ador正在起诉乐队成员之一,这是他们在长达一年之久的怨恨中的另一个曲折。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine denies drone attack on Putin's residence",
-      "title_zh": "乌克兰否认无人机袭击普京住宅",
-      "link": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T11:43:26+00:00",
-      "summary": "President Volodymyr Zelensky has denied allegations by Russia that Ukraine launched a drone attack on one of President Vladimir Putin's residences, and accused Moscow of trying to derail peace talks.",
-      "summary_zh": "沃洛德米尔·泽连斯基总统否认俄罗斯指控乌克兰对弗拉基米尔·普京总统官邸之一发动无人机袭击,并指责莫斯科试图破坏和谈."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French right pushes for national tribute to film star Brigitte Bardot",
-      "title_zh": "法国右派向电影明星Brigitte Bardot致敬",
-      "link": "https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T11:20:27+00:00",
-      "summary": "French right-wing figure Éric Ciotti has called for a national tribute to honour film legend Brigitte Bardot, prompting objections from political opponents on the left.",
-      "summary_zh": "法国右翼人物埃里克·克奥蒂(Éric Ciotti)呼吁举行全国致敬来纪念电影传奇\"布里吉特·巴多\",引发了左翼政治对手的反对."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Turkey detains 357 suspected IS members in nationwide raids",
-      "title_zh": "土耳其在全国搜捕中拘留了357名可疑IS成员。",
-      "link": "https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T10:38:53+00:00",
-      "summary": "More than 350 suspected Islamic State group (IS) members have been detained as part of nationwide police operations in Turkey.",
-      "summary_zh": "作为土耳其全国警察行动的一部分,350多名伊斯兰国家集团嫌疑成员被拘押。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Anthony Joshua injured in Nigeria car crash that killed two team members",
-      "title_zh": "Anthony Joshua在尼日利亚车祸中受伤,",
-      "link": "https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T07:45:55+00:00",
-      "summary": "British heavyweight boxer Anthony Joshua has been injured in a car crash in Nigeria, which killed two members of his team.",
-      "summary_zh": "英国重量级拳击手安东尼·约书亚在尼日利亚的一出车祸中被击伤,导致他队有两名队员丧生."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Khaleda Zia: Slain leader's widow who went on to lead Bangladesh",
-      "title_zh": "卡莉达·齐亚:前去领导孟加拉国的被害领袖遗孀",
-      "link": "https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T06:12:02+00:00",
-      "summary": "Khaleda Zia, who has died at the age of 80, was Bangladesh's first female prime minister.",
-      "summary_zh": "卡莉达·齐亚已逝世,享年80岁,是孟加拉国首位女性总理."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
-      "title_zh": "孟加拉国首位女总理卡莉达·齐亚逝世 享年80岁.",
-      "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T05:14:28+00:00",
-      "summary": "Khaleda Zia, Bangladesh's first female prime minister and an arch-rival of ousted leader Sheikh Hasina, has died from a prolonged illness. She was 80 years old.",
-      "summary_zh": "孟加拉国第一位女性总理和被罢免的领导人谢赫·哈西娜(Sheikh Hasina)的顶级竞争者Khaleda Zia已因长期患病而死亡。 当时她已经80了."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
-      "title_zh": "特朗普希望尽快实现加沙停火第二阶段。",
-      "link": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T05:04:40+00:00",
-      "summary": "Donald Trump said he hoped to reach phase two of the Gaza peace plan \"very quickly\", as he warned Hamas would have \"hell to pay\" if it did not disarm soon.",
-      "summary_zh": "唐纳德·特朗普表示他希望能\"很快地\"达到加沙和平计划的第二阶段,因为他警告说,如果哈马斯不尽快解除武装,那么哈马斯会\"付出代价\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spanish woman who found fame for botching fresco restoration dies",
-      "title_zh": "西班牙女人因为修复壁画而出名",
-      "link": "https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T03:26:06+00:00",
-      "summary": "The Spanish parishioner who made headlines around the world for her botched restoration of a prized Jesus Christ fresco has died aged 94.",
-      "summary_zh": "西班牙教区教友曾在世界各地做头条新闻,为她修复一幅被赞誉为\"耶稣基督\"的壁画,她已经去世了94岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What growing up in war does to a child's brain - and how it really affects them years later",
-      "title_zh": "在战争中成长对孩子的大脑有何影响 以及它如何真正影响他们多年",
-      "link": "https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T03:25:02+00:00",
-      "summary": "Content warning: this article includes details about the impact of conflict on children in war zones and descriptions of injuries that some readers may find distressing.",
-      "summary_zh": "内容警告:这篇文章详细介绍了冲突对战区儿童的影响,并描述了一些读者可能感到痛苦的伤害."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'No worries': Trump downplays Chinese military drills around Taiwan",
-      "title_zh": "[永久失效連結] \"不用担心\":特朗普淡化中国在台湾搞军事演习",
-      "link": "https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T03:22:12+00:00",
-      "summary": "US President Donald Trump has said he is not worried about China's military drills around the self-governed island of Taiwan, which it claims as its own.",
-      "summary_zh": "美国总统唐纳德·特朗普表示,他并不担心中国在自管的台湾岛周围的军事演习,它声称台湾是自己的."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Alleged Bondi gunmen acted alone and did not train in the Philippines, police say",
-      "title_zh": "据称邦迪枪手独自行动,没有在菲律宾受训,警方说",
-      "link": "https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T02:17:56+00:00",
-      "summary": "The two alleged gunmen who killed 15 people at a Jewish event on Bondi Beach were not part of a wider terror cell and acted alone, Australian police have said.",
-      "summary_zh": "澳大利亚警方说,两名据称在邦迪海滩的一次犹太人事件中杀害了15人的枪手不是更广泛的恐怖小组的成员,而是单独行动的。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Great white sharks face extinction in Mediterranean, say researchers",
-      "title_zh": "大白鲨在地中海面临灭绝 研究人员说",
-      "link": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T01:15:19+00:00",
-      "summary": "Great white sharks in the Mediterranean Sea are in danger of disappearing, with illegal fishing contributing to their decline.",
-      "summary_zh": "地中海的大白鲨有消失的危险,非法捕鱼助长了鲨鱼的衰落."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The fight over Christian nationalism in a small Tennessee town",
-      "title_zh": "田纳西州小镇的基督教民族主义斗争",
-      "link": "https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T01:08:49+00:00",
-      "summary": "As Josh Abbotoy gazes out at lush green woods and pastureland nestled among Tennessee's Appalachian hills, he describes what he intends to build here: a neighbourhood with dozens of residential lots, centred around a working farm and, crucially, a church.",
-      "summary_zh": "Josh Abbotoy在田纳西州的阿巴拉契山丘上 凝视着茂盛的绿树林和牧场 他描述了他打算在这里建造的建筑: 一个拥有数十个住宅区的街区, 以一个工作农场为中心, 最重要的是,一个教堂。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Naan: How the 'world's best bread' travelled from Islamic courts to our plates",
-      "title_zh": "纳安:\"世界最好的面包\"如何从伊斯兰法院来到我们的盘子",
-      "link": "https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T00:47:06+00:00",
-      "summary": "A pillowy-soft naan - a leavened flatbread popular in South Asia - paired with rich, creamy butter chicken gravy is one of the most popular comfort foods in the region, and it's also one of the most popular Indian dishes abroad.",
-      "summary_zh": "枕花软 na菜(学名:A subbyy-soft naan)-是南亚流行的一种落叶扁面包,与丰富而奶油黄油花鸡肉汁相配,是该地区最受欢迎的舒适食品之一,也是海外最受欢迎的印度菜肴之一."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Coups, elections and protests - a difficult year for democracy in Africa",
-      "title_zh": "政变、选举和抗议 -- -- 非洲民主困难的一年",
-      "link": "https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T00:39:04+00:00",
-      "summary": "October's shocking events in Tanzania offer a snapshot of some of the tensions which have shaped a difficult year for African politics.",
-      "summary_zh": "10月在坦桑尼亚发生的令人震惊的事件,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
-      "title_zh": "俄国在乌克兰的损失比以往任何时期都快,",
-      "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-30T00:12:41+00:00",
-      "summary": "Over the past 10 months, Russian losses in the war with Ukraine have been growing faster than any time since the start of the full-scale invasion in 2022, BBC analysis suggests.",
-      "summary_zh": "在过去的10个月中,俄罗斯在与乌克兰的战争中的损失比2022年全面入侵开始以来的任何时间都快了,BBC分析认为."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
-      "title_zh": "约翰·辛普森(John Simpson):\"我报道了40场战争,但我从未见过像2025这样的一年\".",
-      "link": "https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-29T10:27:30+00:00",
-      "summary": "Sensitive content: This article contains a graphic description of death that some readers may find upsetting",
-      "summary_zh": "敏感内容:这篇文章包含了一些读者可能发现令人不快的死亡图形描述."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes",
-      "title_zh": "生活在对拉库拉瓦的恐惧之中,",
-      "link": "https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-29T01:30:56+00:00",
-      "summary": "Deep fear has long pervaded the arid savannah plains and highlands of north-western Nigeria - even before the US air strikes on the Islamist militants who have made this area their base on Christmas night.",
-      "summary_zh": "尼日利亚西北部干旱的草原平原和高地早已充满了深层恐惧,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump and Zelensky appear more upbeat - but show little evidence that peace is near for Ukraine",
-      "title_zh": "特朗普和泽连斯基看起来比较乐观,",
-      "link": "https://www.bbc.com/news/articles/c17x7lnd1r7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-29T01:05:38+00:00",
-      "summary": "The much-anticipated talks lasted two-and-a-half hours, and that's an achievement in itself. Presidents Trump and Zelensky had never before spent this long in one room, negotiating.",
-      "summary_zh": "人们期待已久的会谈持续了两个半小时,这本身就是一项成就。 特朗普总统和泽连斯基总统以前从未在同一个房间里花过这么长的时间进行谈判."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable",
-      "title_zh": "有毒的空气,破碎的公路和未经挑选的垃圾——为什么印度的大城市变得无法生存.",
-      "link": "https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-29T00:02:29+00:00",
-      "summary": "\"Want the royal charm of Jaipur? Don't come here, just buy a postcard,\" a local taxi driver quipped during my recent visit to the north-western Indian city.",
-      "summary_zh": "\"想要斋浦尔的皇家魅力吗? 不要来这里,只要买张明信片,\"一名当地出租车司机在我最近访问印度西北部城市时被抽打."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Brigitte Bardot: From French cinema to international fame",
       "title_zh": "Brigitte Bardot:从法国电影院到国际名人",
       "link": "https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss",
       "published_at": "2025-12-28T10:23:59+00:00",
       "summary": "Brigitte Bardot, the French model and actress, has died at the age of 91.",
       "summary_zh": "法国模特和女演员布里吉特·巴多特逝世 享年91岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Snow-capped Mount Etna erupts as skiers glide down slopes",
-      "title_zh": "雪盖的埃特纳山在滑雪者滑下山坡时爆发",
-      "link": "https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-28T01:40:21+00:00",
-      "summary": "Huge plumes of ash and smoke were filmed erupting from Mount Etna, Sicily on 27 December as skiers used the slopes below.",
-      "summary_zh": "12月27日,在滑雪者使用下方的斜坡时,从西西里岛埃特纳山喷出出大量的火山灰和烟雾。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Meteor lights up sky over Japan's Mount Fuji",
-      "title_zh": "观察:日本富士山上空的气象灯光",
-      "link": "https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-27T10:01:44+00:00",
-      "summary": "CCTV footage from Japan's Hiratsuka City Museum captured the moment a meteor soared through the night sky over Japan's Mount Fuji on Friday.",
-      "summary_zh": "日本平津市博物馆的CCTV镜头拍摄了星期五日本富士山上空一发流星从夜空飞过一瞬间."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Pope Leo's plea for peace in Christmas message",
-      "title_zh": "观看:教宗李敖在圣诞贺词中呼吁和平",
-      "link": "https://www.bbc.com/news/videos/clyx049x0z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-25T16:44:28+00:00",
-      "summary": "Pope Leo has called for an end to conflicts around the world during his first Christmas remarks to crowds in St Peter's Square.",
-      "summary_zh": "教宗利奥在对圣彼得广场上人群的首次圣诞节演讲中呼吁结束世界各地的冲突."
     }
   ]
 }
