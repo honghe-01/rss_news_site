@@ -1,87 +1,287 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-01T22:38:03+00:00",
-  "count": 33,
+  "generated_at": "2026-01-02T22:37:05+00:00",
+  "count": 38,
   "items": [
     {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Around 40 dead in Swiss ski resort bar fire, police say",
-      "title_zh": "警方说,瑞士滑雪胜地约有40人死亡",
-      "link": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T22:27:32+00:00",
-      "summary": "Around 40 people have died after a fire ripped through a bar in a ski resort in southern Switzerland, police have said. A further 115 people are injured, many of them \"severely\".",
-      "summary_zh": "警方说,在瑞士南部滑雪胜地的一家酒吧被大火打穿后,约40人死亡。 另有115人受伤,其中许多人\"严重\"."
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "山陽道 雪の影響で広島県～山口県にかけて渋滞",
+      "title_zh": "三柳公路交通因雪而堵塞",
+      "link": "http://www3.nhk.or.jp/news/html/20260103/k10015018291000.html",
+      "published_at": "2026-01-02T21:54:30+00:00",
+      "summary": "中国地方や北陸など大雪 厳しい冷え込みも 交通影響に十分注意",
+      "summary_zh": "中国和浩久等重雪"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中国地方や北陸など大雪 厳しい冷え込みも 交通影響に十分注意",
+      "title_zh": "中国和浩久等重雪",
+      "link": "http://www3.nhk.or.jp/news/html/20260103/k10015018191000.html",
+      "published_at": "2026-01-02T21:44:34+00:00",
+      "summary": "山陽道 雪の影響で広島県～山口県にかけて渋滞",
+      "summary_zh": "三柳公路交通因雪而堵塞"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "箱根駅伝 復路【速報予定】青山学院大を早大・中央大など追う",
+      "title_zh": "回到Hakone Ekiden 快速报告表 上山冈仁大学",
+      "link": "http://www3.nhk.or.jp/news/html/20260103/k10015013741000.html",
+      "published_at": "2026-01-02T21:31:01+00:00",
+      "summary": "箱根駅伝 往路 青山学院大が3年連続優勝 5区で逆転【全結果】",
+      "summary_zh": "Hakone Ekiden Yotsuji Aoyama Gakuin Dai连续3年取胜 [所有结果]"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What we know about the Switzerland ski resort fire",
-      "title_zh": "关于瑞士滑雪胜地的火灾我们所知",
+      "title": "Zelensky names spy chief to head presidential office after corruption row",
+      "title_zh": "Zelensky在腐败排行后给总统办公室的 间谍负责人起名",
+      "link": "https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T21:18:58+00:00",
+      "summary": "Ukrainian President Volodymyr Zelensky has named spy chief Kyrylo Budanov as his new chief of staff, just over a month after his previous top aide resigned amid a corruption row.",
+      "summary_zh": "乌克兰总统沃洛德米尔·泽连斯基(Volodymyr Zelensky)任命间谍队长克列洛·布达诺夫为新任参谋长,就在他前一名高级助手因腐败而辞职一个月后。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What images and videos tell us about why Swiss bar fire spread so quickly",
+      "title_zh": "图片和视频告诉我们为什么瑞士酒吧大火如此迅速蔓延",
+      "link": "https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T20:28:25+00:00",
+      "summary": "Investigators are racing to establish how and why the deadly New Year's Eve fire at a bar in a Swiss ski resort spread so rapidly.",
+      "summary_zh": "瑞士滑雪胜地的一家酒吧遭到致命的除夕会起火,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Swiss bar fire likely started by sparklers on champagne bottles",
+      "title_zh": "瑞士酒吧起火 可能是香槟瓶上起火",
+      "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T20:22:13+00:00",
+      "summary": "A fire at a bar in a Swiss ski resort appears to have been caused by sparklers placed on bottles of champagne that came \"too close to the ceiling\", authorities said.",
+      "summary_zh": "瑞士滑雪胜地的一家酒吧起火, 似乎是被放入\"离天花板太近\"的香槟瓶上放出火花而起,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "Uターンラッシュ 3日朝から鉄道や空の便 高速道路で混雑見通し",
+      "title_zh": "从凌晨3天到高速铁路和天空航班",
+      "link": "http://www3.nhk.or.jp/news/html/20260103/k10015018171000.html",
+      "published_at": "2026-01-02T20:05:04+00:00",
+      "summary": "中国地方や北陸など大雪 厳しい冷え込みも 交通影響に十分注意",
+      "summary_zh": "中国和浩久等重雪"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "水戸 アパート女性殺人事件 玄関で襲いそのまま逃走か",
+      "title_zh": "Mito公寓女性谋杀案",
+      "link": "http://www3.nhk.or.jp/news/html/20260103/k10015018241000.html",
+      "published_at": "2026-01-02T20:02:20+00:00",
+      "summary": "水戸 アパート女性殺人事件 2時間余の間に玄関で襲われたか",
+      "summary_zh": "Mito公寓女性谋杀案"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "スイス 約40人死亡の飲食店火災 花火が燃え移ったか 捜査当局",
+      "title_zh": "瑞士约40人死亡 餐厅火花被烧? 调查员",
+      "link": "http://www3.nhk.or.jp/news/html/20260103/k10015018261000.html",
+      "published_at": "2026-01-02T19:42:27+00:00",
+      "summary": "スイス 飲食店火災 約40人死亡100人以上けが 花火使用の証言も",
+      "summary_zh": "瑞士餐馆火灾 大约40人死亡 100人以上"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
+      "title_zh": "\"生活在噩梦\": 在滑雪胜地火灾后失踪的十几岁家庭迫不及待的消息",
+      "link": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T18:20:47+00:00",
+      "summary": "The families of teenagers missing after a fire at a bar in a Swiss ski resort are facing an agonising wait for news and appealing for information about their loved ones online.",
+      "summary_zh": "在瑞士滑雪胜地的一家酒吧起火后失踪的青少年家庭,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Earthquake interrupts Mexico's president during press conference",
+      "title_zh": "看:地震在新闻发布会上打断了墨西哥总统",
+      "link": "https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T17:37:25+00:00",
+      "summary": "President Claudia Sheinbaum calmly stopped her press conference when the 6.5 magnitude trembler shook the room and set off the country's earthquake alert system.",
+      "summary_zh": "总统克劳迪娅·谢因鲍姆(Claudia Sheinbaum)平静地停止了她的记者招待会,当时6.5级震颤器震动了房间并启动了该国的地震警报系统."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump warns US will intervene if Iran kills protesters",
+      "title_zh": "特朗普警告如果伊朗杀害抗议者,美国会介入",
+      "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T17:22:17+00:00",
+      "summary": "US President Donald Trump has warned Iran's authorities against killing peaceful protesters, saying Washington \"will come to their rescue\".",
+      "summary_zh": "美国总统唐纳德·特朗普已警告伊朗当局不要杀害和平抗议者,称华盛顿\"将前来救援\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Woman killed in suspected mountain lion attack in US",
+      "title_zh": "在美国疑似山狮袭击中被害的女人",
+      "link": "https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T17:18:36+00:00",
+      "summary": "A hiker is believed to have been killed by at least one mountain lion in the US state of Colorado on Wednesday, according to wildlife officials.",
+      "summary_zh": "据野生动物官员说,一名徒步者据信星期三在美国科罗拉多州被至少一头山狮所杀."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anthony Joshua's driver charged over Nigeria crash that killed two",
+      "title_zh": "Anthony Joshua的司机在尼日利亚坠机 造成两人丧生时 受到指控",
+      "link": "https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T17:01:00+00:00",
+      "summary": "Anthony Joshua's driver has been charged after a crash in Nigeria injured the boxer and killed two of his team members, police have said.",
+      "summary_zh": "Anthony Joshua的司机在尼日利亚坠机后被控告,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Young Italian golfer feared dead: What we know about Swiss resort fire",
+      "title_zh": "意大利青年高尔夫球员担心会死:瑞士度假胜地起火的我们所知",
       "link": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T21:54:54+00:00",
-      "summary": "Around 40 people have died and 115 people are injured following a fire in a ski resort in south-west Switzerland, police say.",
-      "summary_zh": "警方称,瑞士西南部的滑雪胜地发生火灾,造成约40人死亡,115人受伤."
+      "published_at": "2026-01-02T16:36:29+00:00",
+      "summary": "A fire at a bar in a Swiss ski resort has killed 40 people and injured another 119, officials say.",
+      "summary_zh": "瑞士滑雪胜地一酒吧起火 造成40人死亡再出119人受伤 官员称."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "スイス 飲食店の火災で死者約40人けが人100人以上 地元警察",
-      "title_zh": "一百多人死于餐厅的火灾",
-      "link": "http://www3.nhk.or.jp/news/html/20260102/k10015017831000.html",
-      "published_at": "2026-01-01T21:45:35+00:00",
-      "summary": "スイス リゾート地の飲食店で爆発 「数十人死亡か」 地元警察",
-      "summary_zh": "在瑞士度假区的一家餐馆里说 \"你死了几十个吗?\" 当地警察"
+      "title": "日米首脳電話会談 協力深化と高市首相の米訪問へ調整で一致",
+      "title_zh": "日本-美国大脑电话会议协调及对高一首相的访问",
+      "link": "http://www3.nhk.or.jp/news/html/20260102/k10015018151000.html",
+      "published_at": "2026-01-02T15:30:31+00:00",
+      "summary": "東京都心で積雪 東～西日本 3日にかけ山沿い中心に大雪おそれ",
+      "summary_zh": "東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東起東"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "箱根駅伝 往路【速報予定】青山学院大 駒沢大を軸に優勝争いか",
-      "title_zh": "Hakone Ekiden 出局 快速报告表 让我们赢得青山冈津 O Komazawa O的轴心",
-      "link": "http://www3.nhk.or.jp/news/html/20260102/k10015013731000.html",
-      "published_at": "2026-01-01T21:32:13+00:00",
-      "summary": "「箱根駅伝」 4年に1回の記念大会は全国の大学が出場可能に",
-      "summary_zh": "\"哈克内·伊克登\" 锦标赛四周年纪念日有资格进入日本大学"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China's BYD overtakes Tesla as world's top EV seller",
+      "title_zh": "中国BYD超越特斯拉成为全球EV最卖家.",
+      "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T15:03:38+00:00",
+      "summary": "China's BYD has overtaken Elon Musk's Tesla as the world's biggest seller of electric vehicles (EVs), marking the first time it has outpaced its American rival in annual sales.",
+      "summary_zh": "中国BYD已经超越了埃隆·穆斯克的特斯拉成为全球最大的电动车辆销售商(EVs),标志着中国在年度销售中首次超越了美国对手."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "柏崎刈羽原発6号機 20日に再稼働 原発再稼働に向けた動き注目",
-      "title_zh": "第6号 川崎川原 20日复通运营. 初级操作的改变",
-      "link": "http://www3.nhk.or.jp/news/html/20260102/k10015017761000.html",
-      "published_at": "2026-01-01T21:30:19+00:00",
-      "summary": "原子力規制庁 審査支援AIの開発調査費 来年度予算案に盛り込む",
-      "summary_zh": "大赦国际向核管制机构提供检查支助的调查费"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Yemen clashes bring Saudi- and UAE-backed forces into confrontation",
+      "title_zh": "也门冲突使沙特和阿联酋支持的部队陷入对抗",
+      "link": "https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T14:59:53+00:00",
+      "summary": "Yemen's future hangs in the balance after a dramatic turn of events in the south which have brought Saudi Arabia and the United Arab Emirates into unprecedented direct confrontation and threaten the country with partition.",
+      "summary_zh": "在南部发生戏剧性事件,使沙特阿拉伯和阿拉伯联合酋长国陷入前所未有的直接对抗,并以分治威胁该国之后,也门的未来悬殊。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "日本海側で雪強まる 太平洋側の平地などでも積雪おそれ 警戒を",
-      "title_zh": "日本海上下雪",
-      "link": "http://www3.nhk.or.jp/news/html/20260102/k10015017841000.html",
-      "published_at": "2026-01-01T21:28:17+00:00",
-      "summary": "大雪「外出する前」車内の備蓄と情報確認の方法は",
-      "summary_zh": "大雪\"出门前\" 如何检查车上的储存和信息"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US slashes proposed tariffs on Italian pasta imports",
+      "title_zh": "美国对意大利面条进口品征收的关税",
+      "link": "https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T14:20:35+00:00",
+      "summary": "Italian pasta is set to be spared from high-level US tariffs that the Trump administration had threatened against 13 producers.",
+      "summary_zh": "意大利面条被设定免受特朗普政府威胁对13个生产商的高水平美国关税."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "今井達也 アストロズと契約合意 “3年99億円” 米複数メディア",
-      "title_zh": "“990亿日元3年”",
-      "link": "http://www3.nhk.or.jp/news/html/20260102/k10015017861000.html",
-      "published_at": "2026-01-01T20:36:10+00:00",
-      "summary": "WBC 日本代表に大谷翔平ら 8人を選出【一覧とコメント】",
-      "summary_zh": "选取了8名奥塔尼·肖平到WBC日本代表[列表和评论]."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson region",
+      "title_zh": "俄罗斯指责乌克兰在占领的赫尔森地区新年袭击中杀害了27人.",
+      "link": "https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T13:05:26+00:00",
+      "summary": "Russia has accused Ukraine of killing at least 27 people in a drone strike on a New Year's party in a hotel and cafe in the Russian-occupied southern Kherson region.",
+      "summary_zh": "俄罗斯指责乌克兰在俄罗斯占领的克森南部地区一家旅馆和咖啡馆对新年派对的一次无人机袭击中至少杀死了27人."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "立民 安保関連法に対する党の考え方 見直し含め議論へ",
-      "title_zh": "修订并讨论了《担保法》当事人的政策",
-      "link": "http://www3.nhk.or.jp/news/html/20260102/k10015017801000.html",
-      "published_at": "2026-01-01T20:24:29+00:00",
-      "summary": "尖閣諸島周辺「接続水域」 中国当局の船の航行日数 過去最多に",
-      "summary_zh": "中国当局出海航行天数."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dozens missing after boat carrying 200 migrants sinks off Gambia",
+      "title_zh": "载有200名移民的船在冈比亚出海后失踪数十人",
+      "link": "https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T11:46:34+00:00",
+      "summary": "At least seven people have died and many others are missing after a boat carrying about 200 migrants attempting to reach Europe capsized off the coast of The Gambia, authorities say.",
+      "summary_zh": "当局说,在冈比亚沿海,一艘载有约200名移民的船试图驶入欧洲后,至少有7人死亡,还有许多人失踪。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says he takes higher daily dose of aspirin than doctors recommend",
+      "title_zh": "特朗普说他每天服用的阿司匹林比医生推荐的要多",
+      "link": "https://www.bbc.com/news/articles/c701z7g0ppro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T09:57:49+00:00",
+      "summary": "US President Donald Trump says he is in \"perfect\" health, takes more aspirin than doctors recommend, uses makeup to cover bruising on his hands, and does not get regular exercise because he finds it \"boring\".",
+      "summary_zh": "美国总统唐纳德·特朗普称他身体状况\"完美\",服用的阿司匹林比医生推荐的要多,用化妆来遮住手上的瘀伤,没有定期锻炼,因为他觉得\"无聊\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Indian families grieve deaths caused by contaminated tap water",
+      "title_zh": "印度家庭对被污染自来水造成的死亡感到悲痛",
+      "link": "https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T09:28:52+00:00",
+      "summary": "Sunil Sahu bitterly regrets the day his five-month-old son was given some cow milk diluted with tap water.",
+      "summary_zh": "苏尼尔 Sahu对5个月大的儿子被给一些被自来水稀释的牛奶感到非常遗憾。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sailors saved from going over edge of huge dam",
+      "title_zh": "水手们从大坝上逃出",
+      "link": "https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T09:20:10+00:00",
+      "summary": "Footage shows captured the moment four men were pulled to safety, after spending hours dangling off the edge of a 40m (130ft) dam in South Africa.",
+      "summary_zh": "4名男子被拖到安全的地方,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Maduro says Venezuela open to US talks on drug trafficking",
+      "title_zh": "马杜罗说委内瑞拉对美国关于贩毒的会谈持开放态度",
+      "link": "https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T07:42:34+00:00",
+      "summary": "Venezuelan President Nicolás Maduro said on Thursday he was open to talks with the US on drug trafficking and oil, after weeks of an escalating pressure campaign against his government.",
+      "summary_zh": "委内瑞拉总统尼古拉斯·马杜罗(Nicolás Maduro)星期四表示, 在对委内瑞拉政府不断升级的压力运动之后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Moment 400-pound runaway prop injures Disney employee",
+      "title_zh": "看着:400磅跑道具 伤害了迪士尼员工",
+      "link": "https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T07:10:11+00:00",
+      "summary": "Footage shows the moment a worker at Walt Disney World was injured after being hit by a 400-lb (180kg) runaway fake boulder prop.",
+      "summary_zh": "Footage显示一名在华特迪士尼世界(Walt Disney World)的工人被一辆400磅(180克)跑去的假巨石道具撞倒后受伤."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japan PM joins fight for more female toilets in parliament",
+      "title_zh": "日本首相加入国会争取更多女性厕所",
+      "link": "https://www.bbc.com/news/articles/c8e5lxd2gwgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T03:10:12+00:00",
+      "summary": "Japan's Prime Minister Sanae Takaichi is among some 60 female lawmakers petitioning for more women's toilets in the parliament building to match their growing representation in the legislature.",
+      "summary_zh": "日本首相高一之子(Sanae Taka一)是约60名女性立法者之一,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'You're invisible, you don't exist' - life without a birth certificate",
+      "title_zh": "\"你看不见,你不存在\" - 没有出生证的生活",
+      "link": "https://www.bbc.com/news/articles/cx2drqwp2eyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-02T02:15:28+00:00",
+      "summary": "Many people may take their birth certificate, or similar official papers, for granted - hidden in a drawer and rarely seeing the light of day - but for those without one, it can lead to a shadow life or an uncertain existence.",
+      "summary_zh": "许多人可以理所当然地领取出生证或类似的官方证件 -- -- 藏在抽屉里,很少看到白昼 -- -- 但对那些没有出生证的人来说,这会导致阴影的生活或不确定的存在。"
     },
     {
       "source": "BBC News",
@@ -96,12 +296,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Two killed in clashes between protesters and security forces in Iran",
-      "title_zh": "在伊朗抗议者与安全部队的冲突中有两人被炸死",
-      "link": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T18:18:42+00:00",
-      "summary": "Two people are reported to have been killed during growing unrest in Iran on the fifth day of protests over the soaring cost of living.",
-      "summary_zh": "据报道,在伊朗抗议生活费用高涨的第五天,两人在日益严重的动乱中被害."
+      "title": "Americans brace to start New Year without healthcare",
+      "title_zh": "美国人准备开始新年 没有医疗",
+      "link": "https://www.bbc.com/news/articles/c98n8lrj7y6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-01T14:22:57+00:00",
+      "summary": "Adrienne Martin and her family are starting the New Year off without healthcare.",
+      "summary_zh": "Adrienne Martin和她的家人 开始新年没有医疗。"
     },
     {
       "source": "BBC News",
@@ -116,72 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Netherlands police face 'unprecedented' New Year's violence",
-      "title_zh": "荷兰警方面临\"前所未有的\"新年暴力",
-      "link": "https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T13:30:09+00:00",
-      "summary": "Police in the Netherlands were pelted with fireworks and faced an \"unprecedented amount of violence\" on New Year's Eve, officers have said.",
-      "summary_zh": "荷兰警方被放出烟花并面临\"前所未有的暴力\",官员表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Historic Amsterdam church engulfed by fire on New Year's Eve",
-      "title_zh": "守望:历史阿姆斯特丹教堂被元宵夜大火吞没",
-      "link": "https://www.bbc.com/news/videos/ckgkn1xexnno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T11:08:19+00:00",
-      "summary": "Residents in Amsterdam were evacuated from their homes after a huge fire ripped through the historic Vondelkerk church in the city on Thursday morning.",
-      "summary_zh": "阿姆斯特丹的居民在周四早上在城市历史悠久的冯德尔克克教堂被大火所刮倒后被从家中疏散出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US military says five killed in latest strike on alleged drug boats",
-      "title_zh": "美军说有5人死于最近对毒品船的袭击",
-      "link": "https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T10:19:32+00:00",
-      "summary": "The US military says it struck two boats it alleges were carrying drugs on Wednesday, killing five people on board.",
-      "summary_zh": "美国军方说,它击中了两艘据称星期三携带毒品的船只,造成船上5人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Stranger Things draws to an epic and emotional close",
       "title_zh": "陌生人 事物吸引了史诗和情感的接近",
       "link": "https://www.bbc.com/news/articles/ckgl2je05j0o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-01T10:13:42+00:00",
       "summary": "Stranger Things has drawn to an epic and emotional close, with a dramatic two-hour finale that briefly jammed Netflix's servers.",
       "summary_zh": "陌生人 一场戏剧性的两小时决赛 短暂地卡住了Netflix的服务器"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Brazil legend Roberto Carlos recovering in hospital",
-      "title_zh": "巴西传奇 Roberto Carlos在医院康复",
-      "link": "https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T08:12:00+00:00",
-      "summary": "Brazil and Real Madrid legend Roberto Carlos is \"recovering well\" after undergoing what he described as \"a preventative medical procedure\".",
-      "summary_zh": "巴西和\"真实的马德里\"传奇罗伯托·卡洛斯(Roberto Carlos)在经历了他所描述的\"预防性医疗程序\"后\"恢复得很好\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「お父さんは頑張って生きているよ」遺族のいま【動画】",
-      "title_zh": "\"爸爸还活着\" 现在的家 [视频]",
-      "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017521000.html",
-      "published_at": "2026-01-01T07:23:43+00:00",
-      "summary": "【能登半島地震】発生から2年 被災地はいま",
-      "summary_zh": "[诺托半岛地震]发生后2年"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
-      "title_zh": "Zohran Mamdani宣誓就任首任穆斯林纽约市市长",
-      "link": "https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T06:37:27+00:00",
-      "summary": "Democratic politician Zohran Mamdani has been sworn in as the first Muslim Mayor of New York City.",
-      "summary_zh": "民主政治家佐赫兰·马姆达尼宣誓就任纽约市首位穆斯林市长."
     },
     {
       "source": "BBC News",
@@ -206,36 +346,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Disney worker hurt stopping 180-kg fake boulder from hitting audience",
-      "title_zh": "迪士尼的工人伤害了180公斤的假巨石 阻止他们袭击观众",
-      "link": "https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T01:49:26+00:00",
-      "summary": "A worker at Walt Disney World is \"recovering\" after being injured by a 400-lb (180kg) runaway fake boulder prop in an incident that was caught on video, the Florida theme park confirmed.",
-      "summary_zh": "华特迪士尼世界的一名工人被400磅(180kg)跑去的假石道具所伤后\"正在恢复\",这起事件被视频所捕获,佛罗里达主题公园确认."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Teen who died after falling 150 metres from California's Mt Baldy identified",
-      "title_zh": "在距加利福尼亚州巴尔迪山150米处摔倒后死去的少年",
-      "link": "https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T00:40:36+00:00",
-      "summary": "Three hikers, including a 19-year-old who fell approximately 500 feet (150m), have been found dead on Mt Baldy, a looming snow-capped mountain known to be one of the most dangerous to climb in Southern California.",
-      "summary_zh": "有三名徒步者,包括一名19岁摔倒了约500英尺(150米)高地上被发现已死亡的巴尔迪山(Mt Baldy)是一座被指为南加州最危险攀登的雪盖山."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Anthony Joshua discharged from hospital after Nigeria car crash",
-      "title_zh": "尼日利亚车祸后,安东尼·约书亚出院",
-      "link": "https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T00:32:22+00:00",
-      "summary": "British heavyweight boxer Anthony Joshua has been discharged from hospital in Nigeria days after a fatal car accident that killed two of his close friends.",
-      "summary_zh": "英国重量级拳击手安东尼·约书亚(Anthony Joshua)在尼日利亚因一起致命的车祸身亡数天后出院."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "What are Russians hoping for in 2026, asks Steve Rosenberg",
       "title_zh": "2026年俄国人希望什么,问史蒂夫·罗森伯格",
       "link": "https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss",
@@ -246,72 +356,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Condom tax and cheaper childcare: China's plan to boost birth rates",
-      "title_zh": "避孕套税与更便宜的育儿:中国提高出生率计划.",
-      "link": "https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T23:07:11+00:00",
-      "summary": "People in China will pay a 13% sales tax on contraceptives from 1 January, while childcare services will be exempt, as the world's second-largest economy tries to boost birth rates.",
-      "summary_zh": "中国人民将从1月1日起缴纳13%的避孕药具销售税,而儿童保育服务则免征,因为世界第二大经济体试图提高出生率。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bulgaria joins the euro after rocky path to new currency",
-      "title_zh": "保加利亚在进入新货币后加入欧元",
-      "link": "https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T22:05:03+00:00",
-      "summary": "Bulgaria - the poorest country in the European Union - has become the 21st member of the eurozone - leapfrogging more obvious and prosperous candidates like Poland, the Czech Republic and Hungary.",
-      "summary_zh": "保加利亚是欧洲联盟中最贫穷的国家,已成为欧元区第21个成员国,它跃升了波兰、捷克共和国和匈牙利等更为明显和繁荣的候选国。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fireworks, drums and light shows: How the world is welcoming 2026",
-      "title_zh": "烟花,鼓和光线显示: 世界是怎样欢迎2026",
-      "link": "https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T18:41:15+00:00",
-      "summary": "Crowds around the world have gathered to welcome the new year.",
-      "summary_zh": "世界各地群众聚集一堂来迎接新年."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Passenger describes 'chaos' after head-on Machu Picchu train collision",
       "title_zh": "乘客描述在马丘比丘火车相撞之后的\"Chaos\"",
       "link": "https://www.bbc.com/news/articles/c4gweww8rjro?at_medium=RSS&at_campaign=rss",
       "published_at": "2025-12-31T16:42:33+00:00",
       "summary": "A passenger has described \"chaos\" after two trains collided head-on near Peru's most popular tourist attraction, Machu Picchu.",
       "summary_zh": "一名乘客描述了在秘鲁最受欢迎的旅游景点马楚比丘附近两列列火车相撞后相撞后\"chaos\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Stunning celestial events that lit up the skies in 2025",
-      "title_zh": "观察:2025年天空被照亮的 惊天动地事件",
-      "link": "https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T15:33:33+00:00",
-      "summary": "From meteor showers to supermoons, many stunning celestial events have been captured on camera over the past year.",
-      "summary_zh": "从流星雨到超级月亮,过去一年中许多令人惊叹的天体事件被摄像头所捕获."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sydney sends message of peace for New Year's after Bondi attack",
-      "title_zh": "悉尼在邦迪被袭击后 发来和平信息",
-      "link": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T15:24:36+00:00",
-      "summary": "Sydney has welcomed the New Year with a message of peace following the Bondi Beach mass shooting, as huge crowds gathered to watch the city's annual fireworks display.",
-      "summary_zh": "悉尼以邦迪海滩大规模枪击后的和平信息欢迎了新年,因为大批人群聚集在一起观看了该市的年度烟花展."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Diane Keaton, Pope Francis and Ozzy Osbourne... famous faces who left us in 2025",
-      "title_zh": "Diane Keaton 教宗方济各和Ozzy Osbourne... 2025年离开我们的著名面孔",
-      "link": "https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2025-12-31T07:55:44+00:00",
-      "summary": "The first non-European Pope in more than 1,000 years, the Oscar-winning star of Annie Hall and The Godfather, a soul legend and one of the world's most famous designers - here are some of the well-known faces no longer with us.",
-      "summary_zh": "1000多年以来第一位非欧洲教宗,安妮·霍尔和\"教父\"的奥斯卡得奖之星,灵魂传说和世界上最出名的设计师之一-这里已经有一些出名的面孔不再和我们在一起了."
     },
     {
       "source": "BBC News",
