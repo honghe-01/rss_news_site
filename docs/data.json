@@ -1,17 +1,217 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-04T22:35:55+00:00",
-  "count": 31,
+  "generated_at": "2026-01-05T22:38:13+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
+      "title_zh": "委内瑞拉在叛逆的马杜罗在美国法院认罪后,",
+      "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T22:33:18+00:00",
+      "summary": "Delcy Rodriguez has been sworn in as Venezuela's interim president in a parliamentary session that began with demands for the release from US custody of ousted leader Nicolas Maduro.",
+      "summary_zh": "Delcy Rodriguez已宣誓就任委内瑞拉临时总统,"
+    },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "東京 豊洲市場で初競り クロマグロが過去最高値の5億1030万円",
-      "title_zh": "丰顺市的首场比赛 黑金枪鱼是过去5.3亿日元最高的",
-      "link": "http://www3.nhk.or.jp/news/html/20260105/k10015018931000.html",
-      "published_at": "2026-01-04T22:19:05+00:00",
-      "summary": "能登半島地震から2年 和倉温泉 全館休業続く老舗旅館のいま",
-      "summary_zh": "距野都半岛地震有两年时间,"
+      "title": "国連安保理が緊急会合 大統領拘束で国際法違反などの声相次ぐ",
+      "title_zh": "联合国阿部紧急会议",
+      "link": "http://www3.nhk.or.jp/news/html/20260106/k10015019591000.html",
+      "published_at": "2026-01-05T22:15:39+00:00",
+      "summary": "ベネズエラ マドゥーロ大統領 米連邦地裁で起訴内容すべて否認",
+      "summary_zh": "委内瑞拉总统马杜罗驳回了美国地区法院的所有上诉"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cuba defiant as it braces for post-Maduro era",
+      "title_zh": "古巴在马杜罗后时代的坚守中不屈",
+      "link": "https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T21:41:36+00:00",
+      "summary": "After Venezuela, there is no nation in the Americas more affected by the events in Caracas than Cuba.",
+      "summary_zh": "委内瑞拉之后,在美洲,受加拉加斯事件影响最大的国家莫过于古巴."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ベネズエラ マドゥーロ大統領 米連邦地裁で起訴内容すべて否認",
+      "title_zh": "委内瑞拉总统马杜罗驳回了美国地区法院的所有上诉",
+      "link": "http://www3.nhk.or.jp/news/html/20260105/k10015019621000.html",
+      "published_at": "2026-01-05T21:32:33+00:00",
+      "summary": "アメリカ なぜベネズエラを攻撃？対立の経緯は",
+      "summary_zh": "为什么攻击委内瑞拉?"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "損保大手が合併へ 持ち株会社社長“商品やサービス開発強化”",
+      "title_zh": "索特少校与控股公司的总裁“加强产品和服务开发”合并。",
+      "link": "http://www3.nhk.or.jp/news/html/20260106/k10015019501000.html",
+      "published_at": "2026-01-05T21:03:30+00:00",
+      "summary": "ベネズエラ マドゥーロ大統領 米連邦地裁で起訴内容すべて否認",
+      "summary_zh": "委内瑞拉总统马杜罗驳回了美国地区法院的所有上诉"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "高市首相 新年度予算案 野党に協力呼びかけ成立目指す方針",
+      "title_zh": "高一首相的新年预算计划",
+      "link": "http://www3.nhk.or.jp/news/html/20260106/k10015019551000.html",
+      "published_at": "2026-01-05T20:29:56+00:00",
+      "summary": "2026年度の予算案 社会保障 教育 AI 主な事業は",
+      "summary_zh": "2026年预算计划 社会保障教育"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "政府 トランプ政権のベネズエラ軍事作戦 関係国の動向など注視",
+      "title_zh": "委内瑞拉特朗普政府军事战略",
+      "link": "http://www3.nhk.or.jp/news/html/20260106/k10015019561000.html",
+      "published_at": "2026-01-05T20:23:55+00:00",
+      "summary": "ベネズエラ マドゥーロ大統領 米連邦地裁で起訴内容すべて否認",
+      "summary_zh": "委内瑞拉总统马杜罗驳回了美国地区法院的所有上诉"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中部電力浜岡原発の不適切事案 規制委は審査を中断 対応協議へ",
+      "title_zh": "Chubu电力公司不适当的提案",
+      "link": "http://www3.nhk.or.jp/news/html/20260106/k10015019571000.html",
+      "published_at": "2026-01-05T20:18:15+00:00",
+      "summary": "NY原油先物 一時約2％上昇 ベネズエラ政情不安で悪影響を懸念",
+      "summary_zh": "纽约原油期货 T. 2%对委内瑞拉政治焦虑的负面影响表示担忧"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NY原油先物 一時約2％上昇 ベネズエラ政情不安で悪影響を懸念",
+      "title_zh": "纽约原油期货 T. 2%对委内瑞拉政治焦虑的负面影响表示担忧",
+      "link": "http://www3.nhk.or.jp/news/html/20260106/k10015019691000.html",
+      "published_at": "2026-01-05T20:09:55+00:00",
+      "summary": "ベネズエラ マドゥーロ大統領 米連邦地裁で起訴内容すべて否認",
+      "summary_zh": "委内瑞拉总统马杜罗驳回了美国地区法院的所有上诉"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: What it was like in the courtroom at Maduro's hearing",
+      "title_zh": "监视 : 马杜罗的听证会上法庭上的情况",
+      "link": "https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T19:58:53+00:00",
+      "summary": "Nicolas Maduro, former president of Venezuela, made his first court appearance in New York City after his capture by US forces in Caracas on 3 January.",
+      "summary_zh": "委内瑞拉前总统尼古拉斯·马杜罗于1月3日在加拉加斯被美军攻克后,首次出道于纽约市."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US sharply criticised by foes and friends over Maduro seizure",
+      "title_zh": "美国对马杜罗抓获的敌人和朋友尖锐批评",
+      "link": "https://www.bbc.com/news/articles/cwy1812n13eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T19:37:39+00:00",
+      "summary": "The US seizing of Venezuela's leader has faced strong criticism from both America's friends and foes at an emergency meeting of the United Nations Security Council.",
+      "summary_zh": "美国抓住委内瑞拉领导人在联合国安全理事会紧急会议上遭到美国朋友和敌人的强烈批评。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I'm a prisoner of war' - In the room for Maduro's dramatic court hearing",
+      "title_zh": "我是战俘 在马杜罗戏剧性的庭审室里",
+      "link": "https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T19:35:52+00:00",
+      "summary": "The sound of clanking leg shackles could be heard moments before Venezuelan leader Nicolás Maduro walked into the door of a New York City courtroom for the first time.",
+      "summary_zh": "委内瑞拉领导人Nicolás Maduro第一次走入纽约市法庭门前,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's seizure of Maduro raises thorny legal questions, in US and abroad",
+      "title_zh": "特朗普夺取马杜罗在美国和国外引起了棘手的法律问题",
+      "link": "https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T18:02:12+00:00",
+      "summary": "On Monday morning, a handcuffed, jumpsuit-clad Nicholas Maduro stepped off a military helicopter in New York City, flanked by armed federal agents.",
+      "summary_zh": "星期一上午,一名戴着手铐的穿高衣的尼古拉斯·马杜罗(Nicholas Maduro)从纽约市的一架军用直升机上下车,由联邦武装特工从侧翼."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thirty-two Cubans killed during US attack on Venezuela",
+      "title_zh": "三十二名古巴人在美军进攻委内瑞拉时丧生",
+      "link": "https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T14:59:21+00:00",
+      "summary": "The Cuban government says 32 of its nationals were killed during the US operation to seize Venezuelan leader Nicolás Maduro.",
+      "summary_zh": "古巴政府称其32名国民在美国抓捕委内瑞拉领导人尼古拉斯·马杜罗的行动中被击毙."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "All 116 injured in Swiss ski resort fire identified",
+      "title_zh": "瑞士滑雪胜地火灾中所有116人受伤",
+      "link": "https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T14:12:19+00:00",
+      "summary": "All 116 people injured in a bar fire at a Swiss ski resort have now been identified, officials have said.",
+      "summary_zh": "所有116人在瑞士滑雪胜地的酒吧火灾中受伤,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We need Greenland': Trump repeats threat to annex Danish territory",
+      "title_zh": "'我们需要格陵兰':特朗普再三威胁吞并丹麦领土.",
+      "link": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T14:07:49+00:00",
+      "summary": "Donald Trump has again proposed annexing Greenland, after Denmark's leader urged him to \"stop the threats\" over the island.",
+      "summary_zh": "唐纳德·特朗普再次提议吞并格陵兰,此前丹麦领导人敦促他\"停止对该岛的威胁\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ten found guilty of cyber-bullying Brigitte Macron",
+      "title_zh": "10人被判网络欺负Brigitte Macron有罪",
+      "link": "https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T12:17:12+00:00",
+      "summary": "Ten people have been found guilty of cyber-bullying Brigitte Macron, the wife of French President Emmanuel Macron, by a Paris court.",
+      "summary_zh": "法国总统埃马纽埃尔·马克龙的妻子布里吉特·马克龙被巴黎法院判定网络欺凌罪十人."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Korea's Lee Jae Myung meets China's Xi as he seeks to reset ties",
+      "title_zh": "韩国的李载明在寻求重设联系时认识了中国的习近平",
+      "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T08:51:15+00:00",
+      "summary": "South Korea's President Lee Jae Myung is meeting Chinese leader Xi Jinping as he seeks to reset frayed ties with his country's biggest trading partner.",
+      "summary_zh": "韩国国家主席李载明会见中国领导人习近平 寻求与国内最大贸易伙伴重塑裂痕."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bluefin tuna fetches record $3.2m at Tokyo auction",
+      "title_zh": "蓝鳍金枪鱼在东京拍卖会上获得320万美元的记录",
+      "link": "https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T08:19:49+00:00",
+      "summary": "A bulky bluefin tuna made a splash at Tokyo's Toyosu fish market on Monday morning, fetching a record 510.3 million yen ($3.2m; £2.4m) at the market's first auction of the year.",
+      "summary_zh": "一艘大块的蓝鳍金枪鱼于星期一上午在东京丰顺鱼市场出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海入海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海入海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出海出"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump warns new Venezuelan leader as Maduro set to appear in court",
+      "title_zh": "川普警告新委内瑞拉领导人马杜罗即将出庭",
+      "link": "https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T05:23:06+00:00",
+      "summary": "Donald Trump has warned Venezuela's new leader Delcy Rodríguez she could \"pay a very big price, probably bigger than Maduro\" if she \"doesn't do what's right\".",
+      "summary_zh": "唐纳德·特朗普警告委内瑞拉新领导人德西·罗德里格斯,如果她\"不做正确的事\",她可以\"付出非常大的代价,可能比马杜罗还大\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The French university where spies go for training",
+      "title_zh": "间谍去法国大学训练",
+      "link": "https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-05T00:02:00+00:00",
+      "summary": "University professor Xavier Crettiez admits that he doesn't know the real names of many of the students on his course.",
+      "summary_zh": "大学教授Xavier Crettiez承认他不知道他课程上许多学生的真实姓名."
     },
     {
       "source": "BBC News",
@@ -22,86 +222,6 @@
       "published_at": "2026-01-04T21:54:42+00:00",
       "summary": "In the snow-dusted street outside St Christopher's Church, hundreds joined a special Sunday Mass for the victims of the fire that tore through Le Constellation bar on New Year's Eve.",
       "summary_zh": "在圣克里斯托弗教堂外的被雪弄的街道上,有上百人加入了特别的\"周日弥撒\",为元旦夜通过\"星座\"酒吧撕裂的火灾受害者."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ポータブル電源 リチウムイオン電池発火事故で安全基準策定へ",
-      "title_zh": "便携式电力供应,以制定锂离子电池火灾安全标准",
-      "link": "http://www3.nhk.or.jp/news/html/20260105/k10015018791000.html",
-      "published_at": "2026-01-04T21:46:10+00:00",
-      "summary": "“リチウムイオン電池火災”相次ぐ 東京消防庁が注意呼びかけ",
-      "summary_zh": "“锂电池火”"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spies, drones and blowtorches: How the US captured Maduro",
-      "title_zh": "间谍、无人机和吹哨机: 美军如何俘虏马杜罗",
-      "link": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-04T21:32:43+00:00",
-      "summary": "For months, US spies had been monitoring Venezuelan President Nicolas Maduro's every move.",
-      "summary_zh": "几个月来,美国间谍一直在监视委内瑞拉总统尼古拉斯·马杜罗的一举一动。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ベネズエラ大統領拘束 側近ら現体制維持の姿勢も先行き不透明",
-      "title_zh": "委内瑞拉总统的克制 维持现有系统的态度也是不透明的",
-      "link": "http://www3.nhk.or.jp/news/html/20260105/k10015018871000.html",
-      "published_at": "2026-01-04T21:25:06+00:00",
-      "summary": "【詳細】トランプ政権 ベネズエラの大統領を拘束 NYに移送",
-      "summary_zh": "[详情]特朗普 委内瑞拉总统转会至纽约"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "宮城 住宅全焼2人死亡 住人の80代夫婦か 娘を放火容疑で逮捕",
-      "title_zh": "宮城",
-      "link": "http://www3.nhk.or.jp/news/html/20260105/k10015018911000.html",
-      "published_at": "2026-01-04T21:08:44+00:00",
-      "summary": "能登半島地震から2年 和倉温泉 全館休業続く老舗旅館のいま",
-      "summary_zh": "距野都半岛地震有两年时间,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Danish PM tells Trump to stop 'threats' against Greenland",
-      "title_zh": "丹麦首相让特朗普停止对格陵兰的\"威胁\"",
-      "link": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-04T20:18:52+00:00",
-      "summary": "Denmark's prime minister has told Donald Trump to \"stop the threats\" about taking over Greenland.",
-      "summary_zh": "丹麦首相告诉唐纳德·特朗普\"停止\"关于接管格陵兰的威胁\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "犯罪被害者や遺族を弁護士が継続支援する新制度 13日から開始",
-      "title_zh": "共同支助刑事受害者和文物的新系统",
-      "link": "http://www3.nhk.or.jp/news/html/20260105/k10015018811000.html",
-      "published_at": "2026-01-04T20:15:55+00:00",
-      "summary": "能登半島地震から2年 和倉温泉 全館休業続く老舗旅館のいま",
-      "summary_zh": "距野都半岛地震有两年时间,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "きょう中韓首脳会談 中国側は歩調合わせるよう促したい思惑も",
-      "title_zh": "中韩脑相会 中方希望鼓励踩踏",
-      "link": "http://www3.nhk.or.jp/news/html/20260105/k10015018841000.html",
-      "published_at": "2026-01-04T20:10:55+00:00",
-      "summary": "日本と中国の対立 両国が関係改善への糸口見いだすかが焦点に",
-      "summary_zh": "日本和中国对峙 聚焦两国是否找到改善关系的线索"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Police identify all 40 victims of Swiss bar fire",
-      "title_zh": "警方查明所有40名瑞士酒吧火灾受害者的身份",
-      "link": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-04T20:01:40+00:00",
-      "summary": "The bodies of the 40 victims of a bar fire in the Swiss ski resort of Crans-Montana on New Year's Eve have been identified by police.",
-      "summary_zh": "新年前夕瑞士克兰斯-蒙塔纳滑雪胜地发生酒吧起火的40名被害者的尸体被警方辨认出."
     },
     {
       "source": "BBC News",
@@ -116,22 +236,22 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Can Maduro's trusted lieutenant now work for Trump?",
-      "title_zh": "马杜罗信任的中尉现在能为特朗普工作了吗?",
-      "link": "https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-04T19:13:45+00:00",
-      "summary": "Many of those who tuned in to US President Donald Trump's news conference on Saturday were probably hoping to hear dramatic details of how US forces seized Venezuela's leader, Nicolás Maduro, in a pre-dawn raid.",
-      "summary_zh": "许多人在周六的美国总统特朗普的记者招待会中,"
+      "title": "Who is Cilia Flores, Venezuela's first lady seized by the US?",
+      "title_zh": "Cilia Flores是谁 委内瑞拉第一夫人被美国抓走?",
+      "link": "https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-04T19:01:02+00:00",
+      "summary": "When US forces conducted a night raid on the Venezuelan capital Caracas, they didn't just drag President Nicolás Maduro from his compound and put him on a flight to New York - they took his wife too.",
+      "summary_zh": "当美军对委内瑞拉首都加拉加斯进行夜间突袭时,他们不仅将尼科拉斯·马杜罗总统从他的院子拖出,并把他送上飞往纽约的航班——他们还带走了他的妻子."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Who is Cilia Flores, Venezuela's first lady captured by the US?",
-      "title_zh": "谁是Cilia Flores 委内瑞拉被美国抓走的第一夫人?",
-      "link": "https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-04T19:01:02+00:00",
-      "summary": "When US forces conducted a night raid on the Venezuelan capital Caracas, they didn't just drag President Nicolás Maduro from his compound and put him on a boat to New York - they took his wife too.",
-      "summary_zh": "当美军对委内瑞拉首都加拉加斯进行夜间突袭时,他们并不只是把尼古拉斯·马杜罗总统从他的大院中拖出,把他放上去纽约的一艘船——他们也带走了他的妻子."
+      "title": "Activist group says it was behind Berlin fire that cut power to thousands",
+      "title_zh": "积极分子组织说,正是柏林大火的后方 切断了成千上万的电力",
+      "link": "https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-04T18:44:05+00:00",
+      "summary": "A far-left activist group in Germany has claimed responsibility for a suspected arson attack that left tens of thousands of homes, as well as hospitals and businesses, without power in around-freezing temperatures.",
+      "summary_zh": "德国一极左翼的活动团体声称对一起被怀疑为纵火袭击负责,这次袭击使数以万计的房屋以及医院和企业在周围被冻结的温度中失去动力."
     },
     {
       "source": "BBC News",
@@ -152,16 +272,6 @@
       "published_at": "2026-01-04T15:14:35+00:00",
       "summary": "With the seizure of Venezuelan leader Nicolás Maduro, Donald Trump has demonstrated more powerfully than ever his belief in the power of his will, backed by raw US military force. On his orders the US has Maduro behind bars and now will \"run\" Venezuela.",
       "summary_zh": "随着委内瑞拉领导人尼科拉斯·马杜罗被夺取,唐纳德·特朗普在生前的美国军事力量支持下,比以往更有力地展示了他对意志力量的信念. 根据他的命令,美国将马杜罗关入监狱,现在将\"跑\"委内瑞拉."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "能登半島地震から2年 和倉温泉 全館休業続く老舗旅館のいま",
-      "title_zh": "距野都半岛地震有两年时间,",
-      "link": "http://www3.nhk.or.jp/news/html/20260105/k10015016321000.html",
-      "published_at": "2026-01-04T15:13:13+00:00",
-      "summary": "【定点映像】変わりゆく被災地の記録",
-      "summary_zh": "受影响地区的记录"
     },
     {
       "source": "BBC News",
@@ -186,26 +296,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Brigitte Bardot Foundation issues warning about scam memorabilia",
-      "title_zh": "Brigitte Bardot基金会发布警告,",
-      "link": "https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-04T09:39:42+00:00",
-      "summary": "The charity Brigitte Bardot established has issued a warning about \"scam\" merchandise purporting to fund its work following the French actress's death.",
-      "summary_zh": "成立的慈善机构\"布里吉特·巴多\"(Brigitte Bardot)曾发出警告,称\"scam\"商品旨在为法国女演员死后的工作提供资金."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK and France bomb underground IS arms bunker in Syria",
-      "title_zh": "英国和法国轰炸叙利亚的地下IS武器掩体",
-      "link": "https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-04T07:22:04+00:00",
-      "summary": "Royal Air Force Typhoon jets have joined French aircraft in a joint strike on an underground arms cache in Syria used by the Islamic State group (IS), the UK Ministry of Defence says.",
-      "summary_zh": "英国国防部称,皇家空军的台风喷气机与法国飞机联合打击了伊斯兰国集团(IS)在叙利亚使用的地下武器储藏所."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "'Deeply shocked': World leaders react to US attack on Venezuela",
       "title_zh": "\"深感震惊\": 世界领导人对美国袭击委内瑞拉的反应",
       "link": "https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss",
@@ -226,32 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "How UK plush toy Jellycat conquered China",
-      "title_zh": "英国的花糖玩具 Jellycat如何征服中国",
-      "link": "https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-03T23:02:08+00:00",
-      "summary": "Stella Huang bought her first Jellycat plush toy when she lost her job during the pandemic.",
-      "summary_zh": "丝黛拉 黄 Huang在大流行期间失去工作时买下她的第一个\"Jellycat pluh\"玩具."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture",
       "title_zh": "委内瑞拉民众对马杜罗被捕的反应:",
       "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-03T22:20:19+00:00",
       "summary": "US President Donald Trump says the US launched strikes on Venezuela and captured its President Nicolás Maduro.",
       "summary_zh": "美国总统唐纳德·特朗普说,美国对委内瑞拉发动了打击并俘虏了委内瑞拉总统尼古拉斯·马杜罗."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why has Trump attacked Venezuela and taken Maduro?",
-      "title_zh": "为什么特朗普攻击委内瑞拉并夺取了马杜罗?",
-      "link": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-03T18:06:23+00:00",
-      "summary": "US President Donald Trump says the US is going to \"run\" Venezuela \"until such time as we can do a safe, proper and judicious transition\".",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)表示,美国将\"运行\"委内瑞拉\",\"直到我们能够进行安全,适当和明智的过渡\"."
     },
     {
       "source": "BBC News",
