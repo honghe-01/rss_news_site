@@ -1,137 +1,307 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-06T22:37:53+00:00",
-  "count": 42,
+  "generated_at": "2026-01-07T22:37:21+00:00",
+  "count": 35,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "UK and France to send troops to Ukraine if peace deal agreed",
-      "title_zh": "如果和平协议同意,联合王国和法国将派部队前往乌克兰",
-      "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T22:30:55+00:00",
-      "summary": "The UK and France have signed a declaration of intent on deploying troops in Ukraine if a peace deal is made with Russia, UK Prime Minister Sir Keir Starmer has announced.",
-      "summary_zh": "如果与俄罗斯达成和平协议,联合王国和法国签署了关于在乌克兰部署部队的意向声明。"
+      "title": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
+      "title_zh": "美国扣押了两艘与委内瑞拉石油有关的\"影子\"油轮",
+      "link": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T22:28:24+00:00",
+      "summary": "The United States says it has seized two tankers linked to Venezuelan oil exports in \"back-to-back\" operations in the North Atlantic and the Caribbean.",
+      "summary_zh": "美国说,它在北大西洋和加勒比地区的\"接连\"行动中缴获了两艘与委内瑞拉石油出口相关的油轮."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "NY株式市場 ダウ終値として初 4万9000ドル台 AI関連への期待感",
-      "title_zh": "纽约股票市场49000美元 首次作为SHE端值",
-      "link": "http://www3.nhk.or.jp/news/html/20260107/k10015020591000.html",
-      "published_at": "2026-01-06T22:01:19+00:00",
-      "summary": "6日 島根と鳥取で震度5強の地震 同程度の規模の地震に注意を",
-      "summary_zh": "6起地震 岛内和托托里5起地震"
+      "title": "米軍 ベネズエラ石油取り引き関連でロシア船籍タンカーを拿捕",
+      "title_zh": "美国陆军委内瑞拉石油公司的俄罗斯油轮",
+      "link": "http://www3.nhk.or.jp/news/html/20260107/k10015021381000.html",
+      "published_at": "2026-01-07T22:06:05+00:00",
+      "summary": "中国 “ベネズエラの原油 米に引き渡しは国際法違反”と非難",
+      "summary_zh": "中国“向大米运送原油违反国际法”"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ブルージェイズ 岡本和真入団会見「すべて出し切りたい」",
-      "title_zh": "Blue Jay's Kazuma Jersmoto's Club \"我想切除一切\"的俱乐部",
-      "link": "http://www3.nhk.or.jp/news/html/20260107/k10015020481000.html",
-      "published_at": "2026-01-06T21:59:47+00:00",
-      "summary": "ドジャース大谷翔平 MLB通算ホームラン300本など記録に期待",
-      "summary_zh": "狗Shohei Otani 预计将记录300支全垒打"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "グリーンランドめぐり 米報道官 “軍も選択肢” 欧州はけん制",
-      "title_zh": "格陵兰 Meguri 美国出版社“军事选择”欧洲肯尼迪",
-      "link": "http://www3.nhk.or.jp/news/html/20260107/k10015020561000.html",
-      "published_at": "2026-01-06T21:56:42+00:00",
-      "summary": "なぜアメリカが買収？ グリーンランドってどんなところ？",
-      "summary_zh": "格陵兰是什么?"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ベネズエラ検察 マドゥーロ氏解放求める コロンビアは対話姿勢",
-      "title_zh": "委内瑞拉检察官马杜罗要求哥伦比亚谈谈",
-      "link": "http://www3.nhk.or.jp/news/html/20260107/k10015020451000.html",
-      "published_at": "2026-01-06T21:41:26+00:00",
-      "summary": "ベネズエラ 暫定大統領就任も混乱続く 野党側マチャド氏は批判",
-      "summary_zh": "委内瑞拉总统也批评马查德,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中国 軍民両用の品目 日本向け輸出規制強化レアアースも対象か",
-      "title_zh": "中国军事和民事部门项目 日本是否也有资格获得出口管制强化稀土?",
-      "link": "http://www3.nhk.or.jp/news/html/20260106/k10015020301000.html",
-      "published_at": "2026-01-06T21:25:18+00:00",
-      "summary": "マチャド氏 ベネズエラ暫定大統領を批判 “麻薬取り引き主導”",
-      "summary_zh": "Machad先生批评委内瑞拉总统“打击毒品”,"
+      "title": "米ミネソタ州 移民税関捜査局の職員が発砲 撃たれた女性死亡",
+      "title_zh": "明尼苏达州,美国海关移民局 调查人员枪杀女性",
+      "link": "http://www3.nhk.or.jp/news/html/20260108/k10015021441000.html",
+      "published_at": "2026-01-07T22:01:03+00:00",
+      "summary": "米軍 ベネズエラ石油取り引き関連でロシア船籍タンカーを拿捕",
+      "summary_zh": "美国陆军委内瑞拉石油公司的俄罗斯油轮"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "BBC looks into the relationship between Cuba and Venezuela",
-      "title_zh": "BBC调查古巴与委内瑞拉的关系.",
-      "link": "https://www.bbc.com/news/videos/cly5nn5w918o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T20:59:10+00:00",
-      "summary": "Cuba has held close relations with Nicolás Maduro's Venezuela. But with Maduro gone after a military operation in which Maduro was seized, Havana could be exposed if oil supply collapses.",
-      "summary_zh": "古巴与尼古拉斯·马杜罗的委内瑞拉保持了密切关系. 但随着马杜罗在一次被马杜罗夺取的军事行动后离去,如果石油供应崩溃,哈瓦那可能会被暴露."
+      "title": "Tracking the oil tankers seized by the US",
+      "title_zh": "追踪被美国扣押的油轮",
+      "link": "https://www.bbc.com/news/videos/cx2gm7109rwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T21:53:24+00:00",
+      "summary": "BBC Verify has been tracking the Marinera for weeks. Merlyn Thomas has more.",
+      "summary_zh": "BBC的核查 已经追踪Marinera数周了 梅林·托马斯还有更多"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "6日 島根と鳥取で震度5強の地震 同程度の規模の地震に注意を",
-      "title_zh": "6起地震 岛内和托托里5起地震",
-      "link": "http://www3.nhk.or.jp/news/html/20260107/k10015020571000.html",
-      "published_at": "2026-01-06T20:30:25+00:00",
-      "summary": "株価 5万2518円 終値として約2か月ぶり最高値更新",
-      "summary_zh": "股票价格 50,0002518日元 最大价值约2个月"
+      "title": "グリーンランドめぐり 米国務長官がデンマーク側と来週会談へ",
+      "title_zh": "格陵兰 美国访问丹麦国务秘书",
+      "link": "http://www3.nhk.or.jp/news/html/20260108/k10015021451000.html",
+      "published_at": "2026-01-07T21:05:32+00:00",
+      "summary": "グリーンランドめぐり 米報道官 “軍も選択肢” 欧州はけん制",
+      "summary_zh": "格陵兰 Meguri 美国出版社“军事选择”欧洲肯尼迪"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'It seems unjust to me' - views from Caracas on Maduro's seizure",
-      "title_zh": "\"这对我来说似乎是不公正的\" - 加拉加斯关于马杜罗被扣押的看法",
-      "link": "https://www.bbc.com/news/videos/cn42zz4ypgwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T20:19:09+00:00",
-      "summary": "BBC Mundo has spoken to Venezuelans in the country's capital about the latest US military operation and Nicolas Maduro's seizure.",
-      "summary_zh": "BBC Mundo向委内瑞拉首都的委内瑞拉人表示,"
+      "title": "Thousands flee clashes between Syrian government and Kurdish fighters in Aleppo",
+      "title_zh": "数千人逃离叙利亚政府与阿勒颇库尔德战士之间的冲突",
+      "link": "https://www.bbc.com/news/articles/cn0y1pnq00qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T20:33:22+00:00",
+      "summary": "At least 12 people have reportedly been killed during two days of intense clashes between Syrian government and Kurdish fighters in the northern city of Aleppo.",
+      "summary_zh": "据报道,在叙利亚政府与库尔德战士在阿勒颇北部城市发生的两天激烈冲突中,至少有12人被击毙."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "自民 国民の連立入りに期待 国民 前向き・慎重両論",
-      "title_zh": "巩固人民的自给自足期望",
-      "link": "http://www3.nhk.or.jp/news/html/20260107/k10015020411000.html",
-      "published_at": "2026-01-06T19:58:40+00:00",
-      "summary": "株価 5万2518円 終値として約2か月ぶり最高値更新",
-      "summary_zh": "股票价格 50,0002518日元 最大价值约2个月"
+      "title": "原子力規制委 浜岡原発の審査を当面停止 立ち入り検査の方針",
+      "title_zh": "哈马奥卡核电站检查暂停",
+      "link": "http://www3.nhk.or.jp/news/html/20260108/k10015021371000.html",
+      "published_at": "2026-01-07T20:28:43+00:00",
+      "summary": "「浜岡原発の審査すべて見直す必要」原子力規制委 山中委員長",
+      "summary_zh": "\"所有来自哈马冈原的考试 都需要查看\" 核管制委员会主席Yamanaka"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "偽造記念貨幣両替事件 容疑者ら偽名使い両替手続きか",
+      "title_zh": "伪造纪念币兑换案可疑和假名兑换程序?",
+      "link": "http://www3.nhk.or.jp/news/html/20260108/k10015021281000.html",
+      "published_at": "2026-01-07T20:15:05+00:00",
+      "summary": "偽造記念貨幣 両替した疑いで4人逮捕 組織的に繰り返したか",
+      "summary_zh": "伪造纪念币 4人被怀疑交换"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "主食用米の生産量 新潟県や秋田県など 去年より抑える方針",
+      "title_zh": "主要膳食的稻米产量,如新加塔县和秋田县",
+      "link": "http://www3.nhk.or.jp/news/html/20260108/k10015021311000.html",
+      "published_at": "2026-01-07T20:02:50+00:00",
+      "summary": "2026年のコメ価格はどうなる",
+      "summary_zh": "2026年的价格是多少"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US may intercept and seize oil tanker heading for Europe, reports say",
-      "title_zh": "美国可能拦截并扣押驶向欧洲的油轮,",
-      "link": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T19:47:29+00:00",
-      "summary": "The US may act to seize a Russian-flagged oil tanker heading across the Atlantic to Europe, CBS News, the BBC's media partner in the US, reported.",
-      "summary_zh": "美国可能采取行动扣押一艘悬挂俄罗斯国旗的油轮,"
+      "title": "Trump actively discussing potentially buying Greenland, White House says",
+      "title_zh": "特朗普积极讨论可能购买格陵兰,",
+      "link": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T19:39:42+00:00",
+      "summary": "US President Donald Trump and his officials are \"actively\" discussing a potential offer to buy the Danish territory of Greenland, the White House has confirmed.",
+      "summary_zh": "美国总统唐纳德·特朗普和他的官员们正在\"积极\"地讨论购买丹麦格陵兰领土的潜在提议,白宫已经确认."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
-      "title_zh": "六起死亡和数百起航班被取消 雪造成整个欧洲的混乱",
-      "link": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T18:14:02+00:00",
-      "summary": "Intense snowfall and icy weather conditions have caused widespread travel disruption across Europe, with six reported killed in weather-related incidents on the continent.",
-      "summary_zh": "强烈的降雪和冰冷的天气条件已使整个欧洲的出行受到广泛干扰,据报有6人在该大陆与天气有关的事件中丧生."
+      "title": "UN rights chief says Israeli policy in West Bank 'resembles apartheid system'",
+      "title_zh": "联合国权利主管说,以色列在西岸的政策“形成了种族隔离制度”。",
+      "link": "https://www.bbc.com/news/articles/cly9erv6p15o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T19:28:45+00:00",
+      "summary": "The UN human rights office has issued a report detailing what it calls Israel's \"systemic discrimination\" against Palestinians in the occupied West Bank, including East Jerusalem, and said the situation has \"drastically deteriorated\" over the past three years.",
+      "summary_zh": "联合国人权办公室发布了一份报告,详述了它所称的以色列对包括东耶路撒冷在内的巴勒斯坦被占领土上巴勒斯坦人的\"系统性歧视\",并说过去三年来局势\"急剧恶化\"."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "車が警察官に突っ込みボンネットに乗せ約700メートル走行 大阪",
+      "title_zh": "车子冲向警察,开到大阪约700米",
+      "link": "http://www3.nhk.or.jp/news/html/20260108/k10015021421000.html",
+      "published_at": "2026-01-07T19:08:57+00:00",
+      "summary": "米軍 ベネズエラ石油取り引き関連でロシア船籍タンカーを拿捕",
+      "summary_zh": "美国陆军委内瑞拉石油公司的俄罗斯油轮"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US Congressman Doug LaMalfa dies unexpectedly at 65",
-      "title_zh": "美国众议员道格·拉马尔法出人意料地死于65岁",
-      "link": "https://www.bbc.com/news/articles/cgl8y4gx9lyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T17:05:21+00:00",
-      "summary": "Doug LaMalfa, a Republican Congressman from California, has died unexpectedly at age 65, colleagues announced on Tuesday.",
-      "summary_zh": "来自加利福尼亚州的共和党众议员道格·拉马尔法(Doug LaMalfa)于周二宣布,65岁时意外去世."
+      "title": "Cambodia extradites alleged scam mastermind to China after arrest",
+      "title_zh": "柬埔寨逮捕后将涉嫌骗局主谋引渡到中国",
+      "link": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T18:28:49+00:00",
+      "summary": "Cambodia says it has extradited to China a billionaire businessman accused of masterminding a vast cryptocurrency scam in which trafficked workers were lured to forced labour camps to defraud victims globally.",
+      "summary_zh": "柬埔寨说,它向中国引渡了一个亿万富翁商人,被控策划了一场巨大的秘密货币骗局,其中被贩卖的工人被引诱到强迫劳动营去欺骗全球的受害者。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How could Donald Trump 'take' Greenland?",
+      "title_zh": "唐纳德·特朗普怎么会拿下格陵兰?",
+      "link": "https://www.bbc.com/news/articles/c0q4w1xnv35o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T17:33:42+00:00",
+      "summary": "Donald Trump wants to take Greenland - and the White House has confirmed that all options are on the table, including the use of force.",
+      "summary_zh": "唐纳德·特朗普想夺取格陵兰-白宫确认所有选项都摆在桌面上,包括使用武力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Berlin power outage highlights German vulnerability to sabotage",
+      "title_zh": "柏林停电突出德国易受破坏",
+      "link": "https://www.bbc.com/news/articles/cvgrpzn6gz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T17:17:34+00:00",
+      "summary": "Power is being restored to the last homes hit by a five-day blackout in Germany's snow-covered capital, Berlin.",
+      "summary_zh": "在德国被雪盖所覆盖的首都柏林,最后一天被停电的家园正在恢复电力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky says he does not have clear security pledge from allies",
+      "title_zh": "Zelensky说他没有从盟友那里得到明确的安全保证",
+      "link": "https://www.bbc.com/news/articles/cgm4yeexmg2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T16:06:28+00:00",
+      "summary": "Ukrainian President Volodymyr Zelensky says European allies have not given him sound guarantees that they will protect his country in the case of a new Russian aggression.",
+      "summary_zh": "乌克兰总统沃洛德米尔·泽连斯基说,欧洲盟国没有向他提供可靠的保证,保证他们在俄罗斯进行新的侵略时会保护他的国家."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: US seizes oil tanker in Caribbean sea",
+      "title_zh": "观察:美国在加勒比海扣押了油轮",
+      "link": "https://www.bbc.com/news/videos/c9wx5q2v8rwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T15:59:27+00:00",
+      "summary": "The US Coast Guard boarded two \"ghost fleet\" tanker ships in a \"meticulously coordinated\" operation, Homeland Security Secretary Kristi Noem said.",
+      "summary_zh": "美国海岸警卫队在\"默默地协调\"行动中登上了两艘\"鬼船队\"油轮,国土安全部长克丽丝蒂·诺埃姆说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuela's interim leader sacks general in charge of Maduro's guard",
+      "title_zh": "委内瑞拉临时领导人解雇了负责马杜罗后卫的将军",
+      "link": "https://www.bbc.com/news/articles/c8e5d9j66l0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T15:50:10+00:00",
+      "summary": "The general in command of Venezuela's presidential honour guard, Javier Marcano Tábata, has been sacked days after Venezuelan leader Nicolás Maduro was seized by US forces in a raid in Caracas and taken to New York to stand trial on narco-terrorism charges.",
+      "summary_zh": "委内瑞拉领导人尼科拉斯·马杜罗在加拉加斯被美军突袭后被解职, 并被带到纽约接受毒品恐怖主义指控的审判。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Big freeze causes travel chaos across western Europe",
+      "title_zh": "大冻结造成整个西欧的旅行混乱",
+      "link": "https://www.bbc.com/news/articles/cy59k13e7eqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T15:50:02+00:00",
+      "summary": "A spell of freezing weather bringing heavy snowfall and ice has caused transport disruption across western Europe.",
+      "summary_zh": "冰雪和冰雪带来的冰冻天气 导致整个西欧的运输中断"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rare mountain gorilla twins born in Africa's oldest national park",
+      "title_zh": "稀有山地大猩猩双胞胎出生在非洲最古老的国家公园",
+      "link": "https://www.bbc.com/news/articles/c86v3y45pyyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T14:53:32+00:00",
+      "summary": "A pair of twin mountain gorillas has been born in the eastern Democratic Republic of Congo - a rare occurrence for the endangered primates, conservationists at Virunga National Park say.",
+      "summary_zh": "刚果民主共和国东部出生了一对双山大猩猩——濒危灵长类的罕见现象,维龙加国家公园的保护学家说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria's ex-justice minister granted bail in $6m corruption case",
+      "title_zh": "尼日利亚前司法部长批准保释600万美元腐败案",
+      "link": "https://www.bbc.com/news/articles/c9vxmx4rgr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T13:46:57+00:00",
+      "summary": "A Nigerian court has granted bail to the country's former attorney general, Abubakar Malami, along with his wife and son, who are facing money laundering charges.",
+      "summary_zh": "尼日利亚一家法院已经批准保释该国前总检察长阿布巴卡尔·马拉米及其妻子和儿子,他们正面临洗钱指控。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Fear in the streets': Venezuelans uncertain about what might happen next",
+      "title_zh": "\"恐惧在街道上\": 委内瑞拉人不确定接下来会发生什么",
+      "link": "https://www.bbc.com/news/articles/c62077l3m7eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T13:26:35+00:00",
+      "summary": "In the days since the seizure of Nicolás Maduro, Venezuelans have been coming to terms with an uncertain future as a new reality begins to set in.",
+      "summary_zh": "在尼科拉斯·马杜罗被夺取之后的几天里,随着新现实的开始出现,委内瑞拉人已经对不确定的未来有了把握。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Yemen separatist leader accused of treason as Saudi Arabia strikes forces",
+      "title_zh": "也门分离主义领导人被控叛国 沙特阿拉伯打击部队",
+      "link": "https://www.bbc.com/news/articles/cew85yeqgewo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T12:47:26+00:00",
+      "summary": "The Saudi-backed presidential council in Yemen has expelled the leader of a separatist group and charged him with treason after he failed to fly to Riyadh for talks.",
+      "summary_zh": "由沙特支持的也门总统委员会驱逐了分裂主义集团的领导人,并在他未能飞往利雅得会谈后指控他叛国."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Plot to kill Burkina Faso leader foiled, says junta",
+      "title_zh": "军政府说,",
+      "link": "https://www.bbc.com/news/articles/clyz4dzyq7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T11:30:54+00:00",
+      "summary": "A plot to kill Burkina Faso's military leader, Capt Ibrahim Traoré, has been thwarted, the West African nation has announced.",
+      "summary_zh": "西非国家宣布,杀害布基纳法索军事领导人易卜拉欣·特拉奥雷上尉的阴谋已经失败。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
+      "title_zh": "瑞士滑雪酒吧在大火来袭前 数年都没被检查过",
+      "link": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T10:54:33+00:00",
+      "summary": "Families of the victims of a fire at a Swiss bar on New Year's Eve have expressed shock after officials admitted the venue had not undergone safety checks for five years.",
+      "summary_zh": "新年夜瑞士一家酒吧起火的遇难者家属表示震惊,因为官员在5年里没有接受安全检查。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says Venezuela will be 'turning over' up to 50 million barrels of oil to US",
+      "title_zh": "特朗普说,委内瑞拉将\"向美国\"翻转高达5000万桶石油\".",
+      "link": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T10:10:24+00:00",
+      "summary": "Donald Trump has said Venezuela \"will be turning over\" up to 50 million barrels of oil to the US, after a military operation to remove President Nicolás Maduro from power.",
+      "summary_zh": "唐纳德·特朗普表示,委内瑞拉\"将\"向美国\"交出高达5000万桶石油,此前曾采取军事行动将尼古拉斯·马杜罗总统赶下台."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Opposition leader Machado says her coalition should lead Venezuela",
+      "title_zh": "反对党领袖马查多说她的联盟应该领导委内瑞拉",
+      "link": "https://www.bbc.com/news/articles/c0er4qd3115o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T10:07:52+00:00",
+      "summary": "Venezuelan opposition leader María Corina Machado has said her coalition should \"absolutely\" be in charge of the country, following the US ousting of President Nicolás Maduro last week.",
+      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多(María Corina Machado)表示,在美国上周推翻尼科拉斯·马杜罗总统之后,她的联盟应该\"绝对\"掌管国家."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's Venezuela raid has created chaos - and that is a risk for China",
+      "title_zh": "特朗普的委内瑞拉突袭制造了混乱——这是中国面临的一个风险.",
+      "link": "https://www.bbc.com/news/articles/cly92dkxqvko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T09:24:00+00:00",
+      "summary": "It took just a few hours for Donald Trump to upend a relationship that China had been cultivating for decades.",
+      "summary_zh": "唐纳德·特朗普花了几个小时才恢复了中国几十年来所培育的关系。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japan nuclear agency worker loses phone with confidential data in China",
+      "title_zh": "日本核机构工人在中国失去保密数据的电话",
+      "link": "https://www.bbc.com/news/articles/c8j38rmm4z3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T08:06:47+00:00",
+      "summary": "An employee at Japan's nuclear safety agency lost his work phone containing sensitive information during a personal trip to China, Japanese media report.",
+      "summary_zh": "日本核安全机构的一名雇员在个人出访中国期间丢失了包含敏感信息的手机,日本媒体报道."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "An Indian state wants to tackle hate speech with a law - can it work?",
+      "title_zh": "一个印度州想用法律来对付仇恨言论,",
+      "link": "https://www.bbc.com/news/articles/c62vzpdmxxjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-07T01:18:29+00:00",
+      "summary": "Can a law help curb hate speech in India? That's what the southern state of Karnataka is betting on.",
+      "summary_zh": "法律能帮助遏制印度的仇恨言论吗? 这就是卡纳塔克州南部的赌注"
     },
     {
       "source": "BBC News",
@@ -139,289 +309,49 @@
       "title": "The painful questions for Nato and the EU as Trump threatens Greenland",
       "title_zh": "纳托和欧盟因特朗普威胁格陵兰而感到痛苦的问题",
       "link": "https://www.bbc.com/news/articles/cpwn2wjzwndo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T16:25:01+00:00",
-      "summary": "Earlier today, the so-called Coalition of the Willing, largely made up of European leaders, met in Paris with envoys of US President Donald Trump, to try to make further progress on a sustainable peace deal for Ukraine.",
-      "summary_zh": "今天早些时候,主要由欧洲领导人组成的所谓\"意志联盟\"在巴黎与美国总统唐纳德·特朗普的特使会面,试图在乌克兰的可持续和平协议上取得进一步进展."
+      "published_at": "2026-01-06T23:59:30+00:00",
+      "summary": "On Tuesday, the so-called Coalition of the Willing, largely made up of European leaders, met in Paris with envoys of US President Donald Trump, to try to make further progress on a sustainable peace deal for Ukraine.",
+      "summary_zh": "星期二,主要由欧洲领导人组成的所谓\"意志联盟\"在巴黎与美国总统唐纳德·特朗普的特使会面,试图在乌克兰的可持续和平协议上取得进一步进展."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Israel's foreign minister on historic visit to Somaliland",
-      "title_zh": "以色列外交部长对索马里兰的历史性访问",
-      "link": "https://www.bbc.com/news/articles/cwyrexdgzn9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T16:23:19+00:00",
-      "summary": "Israel's foreign minister has held talks with Somaliland's president on his first visit to the breakaway region since Israel controversially recognised it as an independent country.",
-      "summary_zh": "以色列外交部长在索马里兰总统首次访问分离地区时与他举行了会谈,因为以色列有争议地承认该地区是一个独立国家。"
+      "title": "Watch: Trump says Maduro copied his dancing. Did he?",
+      "title_zh": "央视:特朗普称马杜罗复制了自己的舞蹈. 是吗?",
+      "link": "https://www.bbc.com/news/videos/c1jegxw1rxwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-06T22:49:34+00:00",
+      "summary": "In a speech to Republican members of Congress at the Kennedy Center, Trump claimed that former Venezuelan president Nicolas Maduro imitated his dance moves.",
+      "summary_zh": "特朗普在肯尼迪中心对共和党国会议员的演讲中称,委内瑞拉前总统尼古拉斯·马杜罗模仿了自己的舞蹈动作."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
-      "title_zh": "镇长说,瑞士滑雪酒吧在起死回生前五年没有检查过",
-      "link": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T16:16:53+00:00",
-      "summary": "The Swiss bar that was the scene of a fire which killed 40 people and injured 116 had not undergone safety checks for five years, authorities have said.",
-      "summary_zh": "当局说,当场发生大火,造成40人死亡和116人受伤的瑞士酒吧五年来没有接受过安全检查。"
+      "title": "What's the relationship between Venezuela and Cuba?",
+      "title_zh": "委内瑞拉与古巴的关系如何?.",
+      "link": "https://www.bbc.com/news/videos/cly5nn5w918o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-06T20:59:10+00:00",
+      "summary": "Cuba has held close relations with Nicolás Maduro's Venezuela. But with Maduro gone after a military operation in which he was seized, Havana could be exposed if oil supply collapses.",
+      "summary_zh": "古巴与尼古拉斯·马杜罗的委内瑞拉保持了密切关系. 但随着马杜罗在一次被扣押的军事行动后离去,如果石油供应崩溃,哈瓦那可能会被暴露."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iran anti-government protests spread to majority of provinces, videos show",
-      "title_zh": "伊朗反政府抗议活动蔓延到大多数省份,",
-      "link": "https://www.bbc.com/news/articles/cre28d2j2zxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T15:35:23+00:00",
-      "summary": "Protests have broken out in at least 17 of Iran's 31 provinces, presenting the largest challenge to the country's clerical establishment since 2022, a BBC Verify and BBC Persian analysis has found.",
-      "summary_zh": "伊朗31个省份中至少有17个爆发了抗议活动,这是自2022年以来该国文秘机构面临的最大挑战,BBC核查和BBC波斯分析都发现了."
+      "title": "'It seems unjust to me' - views from Caracas on Maduro's seizure",
+      "title_zh": "\"这对我来说似乎是不公正的\" - 加拉加斯对马杜罗的抓获的看法",
+      "link": "https://www.bbc.com/news/videos/cn42zz4ypgwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-06T20:19:09+00:00",
+      "summary": "BBC Mundo has spoken to Venezuelans in the country's capital about the latest US military operation and Nicolas Maduro's seizure.",
+      "summary_zh": "BBC Mundo向委内瑞拉首都的委内瑞拉人讲述了美国最近的军事行动和尼古拉斯·马杜罗被夺取的消息."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "European allies back Denmark over Trump's threat to annex Greenland",
-      "title_zh": "由于特朗普威胁吞并格陵兰,欧洲盟国支持丹麦.",
-      "link": "https://www.bbc.com/news/articles/c07xkeee2k3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T14:56:50+00:00",
-      "summary": "Six European allies have rallied to support Denmark following renewed insistence by the US that it must have control over Greenland.",
-      "summary_zh": "在美国再次坚持丹麦必须控制格陵兰之后,六个欧洲盟国联合起来支持丹麦。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zelensky replaces Ukraine's powerful security service chief",
-      "title_zh": "Zelensky取代乌克兰强大的安全部门负责人",
-      "link": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T14:26:46+00:00",
-      "summary": "President Volodymyr Zelensky has reshuffled the leadership of Ukraine's Security Service (SBU), replacing influential Vasyl Malyuk and nominating Maj-Gen Yevhenii Khmara as acting head.",
-      "summary_zh": "沃洛德米尔·泽连斯基总统改组了乌克兰安全局的领导,取代了有影响力的瓦西尔·马柳克并提名叶韦尼·克马拉为代理局长。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why does Trump want Greenland and what could it mean for Nato?",
-      "title_zh": "为什么特朗普想要格陵兰 纳托会有什么意义?",
-      "link": "https://www.bbc.com/news/articles/c74x4m71pmjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T13:33:24+00:00",
-      "summary": "US President Donald Trump has repeatedly said the US should take over Greenland, arguing that it would benefit his nation's security.",
-      "summary_zh": "美国总统唐纳德·特朗普再三表示,美国应该接管格陵兰,认为这将有利于他的国家的安全."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Venezuelan security forces detain journalists from foreign news organisations",
-      "title_zh": "委内瑞拉安全部队拘留外国新闻组织的记者",
-      "link": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T13:24:44+00:00",
-      "summary": "At least 14 members of the press were detained in Venezuela on Monday as they were covering the aftermath of the seizure of Venezuelan leader Nicolás Maduro by US forces.",
-      "summary_zh": "至少有14名记者星期一在委内瑞拉被拘押,因为他们正在报道美军攻占委内瑞拉领导人尼古拉斯·马杜罗后的情况。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Children killed after drone hits home in Sudan, medics say",
-      "title_zh": "儿童在无人机击中苏丹家后被杀,",
-      "link": "https://www.bbc.com/news/articles/c74w54783zeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T12:42:34+00:00",
-      "summary": "At least 13 people have been killed - eight of them children - after a drone strike on a house in the Sudanese city of el-Obeid, says the Sudan Doctors' Network.",
-      "summary_zh": "苏丹医生网表示, 至少有13人在无人机袭击苏丹城市El-Obeid的一所房屋后被炸死, 其中8人是儿童。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Macron hosts Ukraine and allies to try to cement security guarantees",
-      "title_zh": "Macron是乌克兰和盟国 试图巩固安全保障",
-      "link": "https://www.bbc.com/news/articles/c74vx4n003xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T10:59:51+00:00",
-      "summary": "French President Emmanuel Macron is hosting Ukraine's leader Volodymyr Zelensky and other key allies of the country as efforts intensify to agree security guarantees for Kyiv in the event of a ceasefire with Russia.",
-      "summary_zh": "法国总统埃马纽埃尔·马克龙正在接待乌克兰领导人沃洛德米尔·泽连斯基和该国其他重要盟友,以加紧努力,在与俄罗斯停火的情况下商定基辅的安全保障。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dance music festival Tomorrowland to hold three-day event in Thailand",
-      "title_zh": "舞会音乐节 明天在泰国举办三天的活动",
-      "link": "https://www.bbc.com/news/articles/cql45lykx5eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T10:31:17+00:00",
-      "summary": "Tomorrowland, the hugely popular European electronic dance music or EDM festival, will stage its first-ever full-fledged Asia edition in Thailand this December.",
-      "summary_zh": "明天是欧洲电子舞蹈音乐或EDM节,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
-      "title_zh": "Nvidia推出自驾车技术,",
-      "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T10:30:23+00:00",
-      "summary": "Nvidia has unveiled a new tech platform for self-driving cars as the world's leading chip-maker seeks more physical products to embed AI into.",
-      "summary_zh": "随着世界领先的芯片制造者寻求更多的实物产品来将AI嵌入其中,Nvidia为自驾汽车开启了一个新的技术平台."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indian gang rape survivor back home after a week in hospital",
-      "title_zh": "印度轮奸幸存者在住院一周后回家",
-      "link": "https://www.bbc.com/news/articles/c87r891gv1ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T09:08:34+00:00",
-      "summary": "The survivor of a gang rape in the northern Indian state of Haryana has been discharged from hospital a week after her horrific assault, a police official told the BBC.",
-      "summary_zh": "印度北部哈里亚纳邦的轮奸幸存者在遭到可怕袭击一周后出院,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nestle issues global recall of some baby formula products over toxin fears",
-      "title_zh": "全球召回一些婴幼儿配方奶粉产品,而不是毒素恐惧",
-      "link": "https://www.bbc.com/news/articles/cx2yvx8gnnpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T08:43:47+00:00",
-      "summary": "Nestle has issued a global recall of some baby formula products over concerns they contain a toxin which can cause food poisoning.",
-      "summary_zh": "Nestle发布全球召回一些婴儿配方奶粉产品,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Netflix pulls Chinese drama after Vietnam's outcry over disputed map",
-      "title_zh": "Netflix在越南对争议地图的争吵后,",
-      "link": "https://www.bbc.com/news/articles/c301n41518do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T07:56:07+00:00",
-      "summary": "Netflix has pulled a Chinese drama series from its Vietnam platform after Hanoi objected to an episode featuring a map with contested territorial claims in the South China Sea.",
-      "summary_zh": "Netflix在其\"越南\"平台上拉出一出中国戏剧系列,此前河内反对一集以南海有争议地领土主张的地图为主角."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Which countries could be in Trump's sights after Venezuela?",
-      "title_zh": "委内瑞拉之后哪些国家可能出现在特朗普的视线下?.",
-      "link": "https://www.bbc.com/news/articles/cd0ye72r4vpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T07:33:15+00:00",
-      "summary": "US President Donald Trump's second term is being shaped by his foreign policy ambitions.",
-      "summary_zh": "美国总统唐纳德·特朗普的第二个任期正被他的外交政策野心所塑造."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Selfies and smiles: South Korea seeks 'new phase' in ties with China",
-      "title_zh": "自我与微笑:韩国寻求与中国联系的\"新阶段\"",
-      "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T02:44:22+00:00",
-      "summary": "South Korea's President Lee Jae Myung has called for a \"new phase\" in ties with China as he met its leader Xi Jinping in Beijing on Monday.",
-      "summary_zh": "韩国总统李载明星期一在北京会见中国领导人习近平时,呼吁与中国建立\"新阶段\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Long wait for justice leaves South African families in limbo",
-      "title_zh": "等待正义的漫长时间 让南非家庭陷入困境",
-      "link": "https://www.bbc.com/news/articles/cx2drqwg32do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T00:02:46+00:00",
-      "summary": "Jason Venter has been waiting for his mother's alleged killer to go on trial in South Africa for more than two years, living a life in limbo and hoping to get some closure after her death.",
-      "summary_zh": "贾森·文特尔一直等待他母亲被指控的凶手在南非受审两年多,在无缘无故地生活并希望能在她死后得到一些封口."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The 'magical' blue flower changing farmers' fortunes in India",
-      "title_zh": "印度的\"神奇\"蓝花 改变了农民的财富",
-      "link": "https://www.bbc.com/news/articles/clyxln49760o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T00:01:52+00:00",
-      "summary": "\"Until a few years ago, the butterfly pea flower was just another climbing plant in my village,\" says Nilam Brahma who lives in Anthaigwlao, a village in the northeastern Indian state of Assam.",
-      "summary_zh": "\"直到几年前,蝴蝶豌豆花只是我村的另一个攀登植物\",尼拉姆·布拉马(Nilam Brahma)说,他住在印度东北部阿萨姆邦的一个村庄Anthaigwlao."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cuba defiant as it braces for post-Maduro era",
-      "title_zh": "古巴在马杜罗后时代的坚守中不屈",
-      "link": "https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-05T21:41:36+00:00",
-      "summary": "After Venezuela, there is no nation in the Americas more affected by the events in Caracas than Cuba.",
-      "summary_zh": "委内瑞拉之后,在美洲,受加拉加斯事件影响最大的国家莫过于古巴."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What it was like in the courtroom at Maduro's hearing",
-      "title_zh": "监视 : 马杜罗的听证会上法庭上的情况",
-      "link": "https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-05T19:58:53+00:00",
-      "summary": "Nicolas Maduro, former president of Venezuela, made his first court appearance in New York City after his capture by US forces in Caracas on 3 January.",
-      "summary_zh": "委内瑞拉前总统尼古拉斯·马杜罗于1月3日在加拉加斯被美军攻克后,首次出道于纽约市."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Video shows Maduro's arrival in US and journey into custody",
-      "title_zh": "视频显示马杜罗抵达美国 并被拘押",
-      "link": "https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-04T10:57:05+00:00",
-      "summary": "Venezuelan President Nicolás Maduro and his wife Cilia Flores have been placed in custody at a New York detention centre after he was captured during US strikes on Caracas.",
-      "summary_zh": "委内瑞拉总统尼古拉斯·马杜罗和妻子Cilia Flores在美国袭击加拉加斯时被俘后被拘押在纽约拘留中心."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture",
-      "title_zh": "委内瑞拉民众对马杜罗被捕的反应:",
-      "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-03T22:20:19+00:00",
-      "summary": "US President Donald Trump says the US launched strikes on Venezuela and captured its President Nicolás Maduro.",
-      "summary_zh": "美国总统唐纳德·特朗普说,美国对委内瑞拉发动了打击并俘虏了委内瑞拉总统尼古拉斯·马杜罗."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump on Venezuela: 'We are going to run the country'",
-      "title_zh": "委内瑞拉的特朗普:\"我们要管理这个国家\".",
-      "link": "https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-03T17:20:46+00:00",
-      "summary": "President Donald Trump announced that the US will run Venezuela until a 'proper transition can take place.'",
-      "summary_zh": "美国总统唐纳德·特朗普宣布,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Explosions and smoke at La Guaira port",
-      "title_zh": "拉瓜伊拉港的爆炸和烟雾",
-      "link": "https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-03T14:59:21+00:00",
-      "summary": "Port La Guaira is Caracas' main conduit to the Caribbean Sea, located in Miranda state.",
-      "summary_zh": "拉瓜伊拉港是加拉加斯通向加勒比海的主要通道,位于米兰达州."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Over 100 firefighters on the scene of Denver blaze",
-      "title_zh": "看:丹佛大火现场有100多名消防员",
-      "link": "https://www.bbc.com/news/videos/c9vxnn419mro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-03T05:38:51+00:00",
-      "summary": "The Colorado city of Denver was lit up by enormous fire on Friday evening, with over 100 firefighters on the scene to battle the blaze.",
-      "summary_zh": "科罗拉多州城市丹佛在星期五晚间被巨大的火灾所点燃,现场有超过100名消防员来与大火进行战斗."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sailors saved from going over edge of huge dam",
-      "title_zh": "水手们从大坝上逃出",
-      "link": "https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-02T09:20:10+00:00",
-      "summary": "Footage shows the moment four men were pulled to safety after spending hours dangling off the edge of a 40m (130ft) dam in South Africa.",
-      "summary_zh": "4名男子在南非40米(130英尺)水坝边上被拖走,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Moment 400-pound runaway prop injures Disney employee",
-      "title_zh": "看着:400磅跑道具 伤害了迪士尼员工",
-      "link": "https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-02T07:10:11+00:00",
-      "summary": "Footage shows the moment a worker at Walt Disney World was injured after being hit by a 400-lb (180kg) runaway fake boulder prop.",
-      "summary_zh": "Footage显示一名在华特迪士尼世界(Walt Disney World)的工人被一辆400磅(180克)跑去的假巨石道具撞倒后受伤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What are Russians hoping for in 2026, asks Steve Rosenberg",
-      "title_zh": "2026年俄国人希望什么,问史蒂夫·罗森伯格",
-      "link": "https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-01T00:17:12+00:00",
-      "summary": "As the New Year holiday gets underway, the BBC's Russia editor Steve Rosenberg asks people on the streets of Moscow about their hopes for 2026 and how they see their future.",
-      "summary_zh": "随着新年假期的到来,BBC的俄罗斯编辑史蒂夫·罗森伯格(Steve Rosenberg)询问莫斯科街头的人们对2026年的希望,以及他们如何看待自己的未来."
+      "title": "Does the US have the right to take over Greenland?",
+      "title_zh": "美国是否有权接管格陵兰?",
+      "link": "https://www.bbc.com/news/videos/cq6vg2j6pndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-06T17:48:59+00:00",
+      "summary": "Copyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+      "summary_zh": "版权2026 BBC. 版权所有。 BBC不负责对外网站的内容. 读一下我们对外联系的方法"
     }
   ]
 }
