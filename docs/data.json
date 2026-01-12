@@ -1,57 +1,227 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-11T22:36:04+00:00",
-  "count": 34,
+  "generated_at": "2026-01-12T22:35:18+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 「イランと取り引き行う国には２５％の関税」",
+      "title_zh": "特朗普总统\"伊朗和25%的关税,",
+      "link": "http://www3.nhk.or.jp/news/html/20260113/k10015025001000.html",
+      "published_at": "2026-01-12T22:15:02+00:00",
+      "summary": "イラン抗議デモで570人以上死亡か 外相“デモは鎮圧された”",
+      "summary_zh": "伊朗570多人死亡"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "G7財務相など会議 中国念頭に重要鉱物の供給網の多角化議論か",
+      "title_zh": "G7 财务阶段等 铭记中国重要矿产供应网的正字化",
+      "link": "http://www3.nhk.or.jp/news/html/20260113/k10015024781000.html",
+      "published_at": "2026-01-12T21:59:34+00:00",
+      "summary": "高市首相 地元奈良での日韓首脳会談 両国関係発展させたい考え",
+      "summary_zh": "高一首相关于两国发展的想法"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "FRB議長の刑事告発示唆する文書 歴代議長らが司法省の対応非難",
+      "title_zh": "FRB的Cri Conflict QQ 历任司法部主席",
+      "link": "http://www3.nhk.or.jp/news/html/20260113/k10015024981000.html",
+      "published_at": "2026-01-12T21:29:37+00:00",
+      "summary": "G7財務相など会議 中国念頭に重要鉱物の供給網の多角化議論か",
+      "summary_zh": "G7 财务阶段等 铭记中国重要矿产供应网的正字化"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "前橋市長選 小川晶前市長が当選 ホテル問題で辞職も続投へ",
+      "title_zh": "Maebashi 选择了小川秋崎胜南在酒店问题的辞职",
+      "link": "http://www3.nhk.or.jp/news/html/20260112/k10015020111000.html",
+      "published_at": "2026-01-12T21:23:49+00:00",
+      "summary": "前橋市長選 市長の辞職に伴う選挙 5人立候補",
+      "summary_zh": "5名辞职候选人"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests",
-      "title_zh": "伊朗警告说,如果美国发动攻击,伊朗会报复,因为数百人在抗议中丧生。",
-      "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-11T22:18:49+00:00",
-      "summary": "Iran has warned it will retaliate if attacked by the US, as BBC sources and activists report hundreds of protesters have now been killed in an escalating government crackdown.",
-      "summary_zh": "伊朗警告说, 如果遭到美国攻击, 伊朗会报复, 英国广播公司消息人士和活动家报导,"
+      "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
+      "title_zh": "特朗普在白宫会见委内瑞拉反对派领袖马查多",
+      "link": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T20:51:10+00:00",
+      "summary": "Venezuelan opposition leader and Nobel Peace Prize winner María Corina Machado will meet President Donald Trump on Thursday, the White House has confirmed.",
+      "summary_zh": "委内瑞拉反对派领袖和诺贝尔和平奖得主玛丽亚·科琳娜·马查多将在星期四会见总统唐纳德·特朗普,白宫已经确认."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "イラン 抗議デモ続く “540人以上死亡” 緊張した状況続く",
-      "title_zh": "伊朗新教示威,随后是“540人以上死亡”",
-      "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024391000.html",
-      "published_at": "2026-01-11T22:18:47+00:00",
-      "summary": "トランプ大統領 ベネズエラ産石油の収益保全 大統領令に署名",
-      "summary_zh": "特朗普总统 委内瑞拉石油税收 – 签署总统令"
+      "title": "イラン抗議デモで570人以上死亡か 外相“デモは鎮圧された”",
+      "title_zh": "伊朗570多人死亡",
+      "link": "http://www3.nhk.or.jp/news/html/20260113/k10015024821000.html",
+      "published_at": "2026-01-12T20:30:43+00:00",
+      "summary": "トランプ大統領 “グリーンランドの防衛は犬ぞり2台 強化を”",
+      "summary_zh": "特朗普总统“绿地防御强化双狗雪橇”"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
+      "title_zh": "\"他们一直在杀人\": 目击者描述伊朗的致命镇压",
+      "link": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T19:54:32+00:00",
+      "summary": "\"I saw it with my own eyes - they fired directly into lines of protesters, and people fell where they stood.\"",
+      "summary_zh": "\"我亲眼目睹——他们直接射入抗议者一行,人们倒地而下\"."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "茂木外相 パレスチナ首相と会談 “改革の着実な実施を”",
-      "title_zh": "与总理会晤“稳步实施改革”",
-      "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024411000.html",
-      "published_at": "2026-01-11T21:57:16+00:00",
-      "summary": "ガザ地区和平計画 ハマス幹部が武装解除拒否する考え示す",
-      "summary_zh": "加沙地区Wadaira计划"
+      "title": "山梨 山林火災 鎮火のめど立たず“住宅に燃え移る危険性低い”",
+      "title_zh": "Yamanashi Yamayashi大火“烧入房屋的风险较小”",
+      "link": "http://www3.nhk.or.jp/news/html/20260113/k10015024911000.html",
+      "published_at": "2026-01-12T18:31:33+00:00",
+      "summary": "衆院解散へ動きが活発に 高市首相 外交日程など踏まえ最終判断",
+      "summary_zh": "高一首相最后决定基于\"方略\"时间表等."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Miracle baby' born in a tree above Mozambique floodwaters dies aged 25",
+      "title_zh": "在莫桑比克洪水上方一棵树上出生的“奇迹宝宝”25岁死亡",
+      "link": "https://www.bbc.com/news/articles/c79re5415n2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T17:39:20+00:00",
+      "summary": "She was seen as a \"miracle baby\" after being born in a tree which her mother had climbed to escape flooding, but nearly 26 years on Mozambican Rosita Salvador Mabuiango has died after a long illness, her sister told the BBC.",
+      "summary_zh": "她在母亲为躲避洪水而爬上一棵树后被看做是\"奇迹宝宝\",但在莫桑比克的罗西塔·萨尔瓦多·马比安戈(英语:Rosita Salvador Mabuiango)上,近26年在长病后去世,她妹妹告诉了英国广播公司."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
+      "title_zh": "前联邦主席谴责对杰罗姆·鲍威尔的刑事调查",
+      "link": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T17:27:16+00:00",
+      "summary": "Three former heads of the US central bank on Monday strongly criticised a criminal investigation into chair Jerome Powell, describing it as a bid to undermine the Federal Reserve's independence.",
+      "summary_zh": "美国央行三位前行长星期一强烈批评了对杰罗姆·鲍威尔主席的刑事调查,形容这是企图破坏美联储的独立性."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mortuary videos show how deadly Iran crackdown has become",
+      "title_zh": "迫击炮视频显示伊朗的镇压已变得多么致命。",
+      "link": "https://www.bbc.com/news/videos/c2e134xz2rjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T16:45:29+00:00",
+      "summary": "Anti-government protests have swept through major cities and towns across Iran, and the authorities are responding with a harsh crackdown.",
+      "summary_zh": "反政府抗议席卷了伊朗各地的大城市,当局正以严厉的镇压来回应."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know about Iran's protests and the crackdown",
+      "title_zh": "关于伊朗的抗议和镇压,",
+      "link": "https://www.bbc.com/news/videos/c1wz35n7r0po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T16:29:42+00:00",
+      "summary": "Anti-government protests have been rocking Iran for the past two weeks, with hundreds though to have been killed as the regime cracks down on its opponents.",
+      "summary_zh": "反政府抗议活动在过去两周中不断震撼伊朗,"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "日本海側中心に大荒れ 東北～北陸 積雪急増 交通影響に警戒を",
-      "title_zh": "日本东北-上海中部的地势大为崎岖 雪上加霜",
-      "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024401000.html",
-      "published_at": "2026-01-11T21:55:05+00:00",
-      "summary": "【交通影響】鉄道・航空・高速道路など 大雪警戒",
-      "summary_zh": "[运输撞击] 航道、空中等重雪预警"
+      "title": "衆院解散へ動きが活発に 高市首相 外交日程など踏まえ最終判断",
+      "title_zh": "高一首相最后决定基于\"方略\"时间表等.",
+      "link": "http://www3.nhk.or.jp/news/html/20260113/k10015024801000.html",
+      "published_at": "2026-01-12T15:23:16+00:00",
+      "summary": "国民 玉木代表 予算案の年度内成立困難なら「経済後回し解散」",
+      "summary_zh": "国家玉木代表 如果难以在预算计划\"经济解体后\"的QQ年内确定."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "G7サミット日程変更 “米トランプ大統領に配慮” 複数メディア",
-      "title_zh": "G7峰会日程变化“川普总统考虑”多媒体",
-      "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024331000.html",
-      "published_at": "2026-01-11T21:36:08+00:00",
-      "summary": "高市首相 春に予定の訪米へ準備加速させる考え",
-      "summary_zh": "高一总理在春天加快赴美准备的计划"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hungary grants asylum to Polish ex-justice minister",
+      "title_zh": "匈牙利向波兰前司法部长提供庇护",
+      "link": "https://www.bbc.com/news/articles/cly9n3r2p7zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T13:57:56+00:00",
+      "summary": "Hungary has granted political asylum to Poland's former Justice Minister Zbigniew Ziobro who is facing charges of embezzlement.",
+      "summary_zh": "匈牙利向波兰前司法部长兹比格涅夫·齐奥布罗提供了政治庇护,他正面临贪污的指控。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Jailed Venezuelan politician's son says Trump shouldn't be 'fooled' by pledge of prisoner releases",
+      "title_zh": "被囚禁的委内瑞拉政治家的儿子说特朗普不应该因为保证释放囚犯而被\"愚弄\".",
+      "link": "https://www.bbc.com/news/articles/c801kypkl3ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T13:12:40+00:00",
+      "summary": "The son of a jailed Venezuelan opposition leader has warned Donald Trump to \"not be fooled\" by the country's government, amid accusations it has not kept its promise to release a significant number of political prisoners.",
+      "summary_zh": "一名被监禁的委内瑞拉反对派领袖之子曾警告唐纳德·特朗普\"不被政府所愚弄\",在指责下,政府没有兑现释放大量政治犯的承诺."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Custody extended for owner of Swiss ski bar after deadly fire",
+      "title_zh": "致命火灾后,瑞士滑雪酒吧老板的监护权延长",
+      "link": "https://www.bbc.com/news/articles/c1klvp4v8vjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T12:56:13+00:00",
+      "summary": "A judge in Switzerland has ordered that one of the two co-owners of the ski resort bar where 40 people died in a fire on New Year's Eve be kept in detention for 90 days.",
+      "summary_zh": "瑞士一名法官下令将滑雪胜地酒吧的两名共有者之一拘留90天,那里有40人在除夕夜的火灾中死亡."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five severed heads displayed on Ecuador beach",
+      "title_zh": "在厄瓜多尔海滩展出5个被砍头的头",
+      "link": "https://www.bbc.com/news/articles/c2e13mlr17go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T12:30:04+00:00",
+      "summary": "Bathers found five severed heads displayed on a beach in Ecuador in what appears to be a warning to gang members who have been threatening local fishermen.",
+      "summary_zh": "巴瑟斯在厄瓜多尔海滩上发现了五个被砍断的头颅,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Referee and student among hundreds killed in Iran protests",
+      "title_zh": "在伊朗抗议活动中被杀害的数百人中的被告和学生",
+      "link": "https://www.bbc.com/news/articles/cd0yldn0n7eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T12:20:13+00:00",
+      "summary": "A referee and a student are among hundreds of people reportedly killed during massive anti-government protests in Iran.",
+      "summary_zh": "据报道,在伊朗大规模反政府抗议活动中,数百人中有一名裁判和一名学生被杀害。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigerian stars dominate All Africa Music Awards",
+      "title_zh": "尼日利亚明星主宰全非音乐奖",
+      "link": "https://www.bbc.com/news/articles/c5y2gkydpp5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T11:25:27+00:00",
+      "summary": "Nigerian artists secured a string of victories at the 9th All Africa Music Awards (Afrima), which concluded in Lagos on Sunday night.",
+      "summary_zh": "尼日利亚艺术家在第9届全非音乐奖(Afrima)上获得一连串胜利,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Monkeys on the loose in St Louis after four-day search",
+      "title_zh": "在圣路易斯搜了四天后 猴子们在逃",
+      "link": "https://www.bbc.com/news/articles/cp3zq7evw21o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T10:52:37+00:00",
+      "summary": "Multiple monkeys are on the loose in St Louis, Missouri, sparking confusion and concern from the city's animal control officials, who said they do not know where the primates came from.",
+      "summary_zh": "密苏里州圣路易斯有多只猴子在逃,引发了城市动物管制官员的混乱和担忧,他们表示不知道灵长类动物来自何处."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Moment skier and dog swept along by avalanche",
+      "title_zh": "看:滑雪运动员和狗被雪崩卷走",
+      "link": "https://www.bbc.com/news/videos/czx3yn0467ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T10:47:51+00:00",
+      "summary": "Footage recorded by Spanish skier Ares Masip showed the moment she was swept by an avalanche in Pic de l'Hortell, a mountain in the Pyrenees in Andorra.",
+      "summary_zh": "西班牙滑雪运动员阿雷斯·马西普所记录的足迹显示了她在安道尔比利牛斯山地Pic de l'Hortell被雪崩所席卷的一瞬间."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "He once criticised African leaders who cling to power. Now he wants a seventh term",
+      "title_zh": "他曾经批评坚持执政的非洲领导人。 现在他想要一个第七学期",
+      "link": "https://www.bbc.com/news/articles/cr7jep39eg4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T10:43:00+00:00",
+      "summary": "Ugandans under the age of 40 - and that is more than three-quarters of the population - have only known one president.",
+      "summary_zh": "40岁以下的乌干达人——占人口的四分之三以上——只认识一名总统。"
     },
     {
       "source": "BBC News",
@@ -59,39 +229,69 @@
       "title": "Thousands of tourists stranded in Lapland as cold grounds flights",
       "title_zh": "数以千计的游客被滞留在拉普兰作为冷地飞行",
       "link": "https://www.bbc.com/news/articles/c74vnxlvl40o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-11T21:35:05+00:00",
+      "published_at": "2026-01-12T10:42:12+00:00",
       "summary": "Thousands of tourists have been stranded in Finland's Lapland as a severe cold spell has grounded flights out of one of its airports.",
       "summary_zh": "数以千计的游客被困在芬兰的拉普兰,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ氏 キューバに圧力「手遅れになる前に取り引きを」",
-      "title_zh": "特朗普向古巴施压“趁早做个交易 ” 。",
-      "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024381000.html",
-      "published_at": "2026-01-11T20:51:18+00:00",
-      "summary": "トランプ大統領 ベネズエラ産石油の収益保全 大統領令に署名",
-      "summary_zh": "特朗普总统 委内瑞拉石油税收 – 签署总统令"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Are You Dead?: The viral Chinese app for young people living alone",
+      "title_zh": "你死了吗? 病毒中国应用程序 年轻人独居",
+      "link": "https://www.bbc.com/news/articles/c3381r5nnn6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T09:55:04+00:00",
+      "summary": "A new bleak-sounding app has taken China by storm.",
+      "summary_zh": "新发\"忧郁\"的应用 被暴风雨吞噬了中国."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "与野党 衆院選準備急ぐ方針 自民党内 予算案の優先求める声も",
-      "title_zh": "阳党通商政策 商党通商问题",
-      "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024351000.html",
-      "published_at": "2026-01-11T20:23:19+00:00",
-      "summary": "“解散・総選挙の見方 広がる” 与野党から発言相次ぐ【11日】",
-      "summary_zh": "“如何解散和观察大选”"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ai, Japanese chimpanzee who counted and painted, dies at 49",
+      "title_zh": "爱 有日本黑猩猩 数到四十九就死了",
+      "link": "https://www.bbc.com/news/articles/cj9r3zl2ywyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T08:54:54+00:00",
+      "summary": "Ai, a female chimpanzee famous for her cognitive skills has died at 49, according to the Japanese institute where she lived.",
+      "summary_zh": "爱 根据她所住的日本研究所,一位以认知能力出名的女性黑猩猩已死亡49岁."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "山梨 上野原 山林火災発生5日目 延焼範囲広がり警戒続く",
-      "title_zh": "山林山原活生生 第5天火烧场继续蔓延",
-      "link": "http://www3.nhk.or.jp/news/html/20260112/k10015024311000.html",
-      "published_at": "2026-01-11T20:02:28+00:00",
-      "summary": "群馬 桐生で山林火災 延焼続く 自衛隊に災害派遣要請も",
-      "summary_zh": "刚马桐生的森林大火继续被烧给自卫队"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Timothée Chalamet, Teyana Taylor, Adolescence and other highlights from the Golden Globes",
+      "title_zh": "观察:蒂莫泰·查拉梅特,泰亚娜·泰勒,青少年等出自\"金球会\"的要闻.",
+      "link": "https://www.bbc.com/news/videos/ckgnr12902no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T06:06:24+00:00",
+      "summary": "The biggest names in film and TV gathered to officially kick off Hollywood's awards season at the 83rd Golden Globe Awards, hosted by comedian Nikki Glaser in California.",
+      "summary_zh": "第83届金球奖颁奖典礼上,由喜剧演员尼基·格拉泽(Nikki Glaser)在加利福尼亚州主持,电影和电视上最大的名字聚集一堂,正式踢出好莱坞的颁奖季."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Chalamet beats DiCaprio to Golden Globes glory",
+      "title_zh": "查拉梅特击败迪卡普里奥夺得金球奖",
+      "link": "https://www.bbc.com/news/articles/c78e07m02jzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T04:13:40+00:00",
+      "summary": "Timothée Chalamet was among the main winners as Hollywood's finest gathered for this year's Golden Globe Awards.",
+      "summary_zh": "Timothée Chalamet是好莱坞年度金球奖最佳获奖者之一。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Meta blocks 550,000 accounts under Australia's social media ban",
+      "title_zh": "Meta块55万个账户,",
+      "link": "https://www.bbc.com/news/articles/cpqye2yygl4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-12T00:45:34+00:00",
+      "summary": "About 550,000 accounts were blocked by Meta during the first days of Australia's landmark social media ban for kids.",
+      "summary_zh": "大约55万个账户在澳洲标志性社交媒体禁止孩子的第一天被Meta封锁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More federal agents to be sent to Minnesota, Trump administration says",
+      "title_zh": "特朗普政府表示,",
+      "link": "https://www.bbc.com/news/articles/cpv7knz8e8mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-11T22:21:02+00:00",
+      "summary": "The Trump administration has said it will send \"hundreds more\" federal officers to Minneapolis, days after the death of a woman who was shot by a US Immigration and Customs Enforcement (ICE) agent in the city.",
+      "summary_zh": "特朗普政府表示将派出\"再上百\"的联邦官员去明尼阿波利斯,几天后,一名被美国移民与海关执法局(ICE)在市内特工所枪杀的妇女被枪杀."
     },
     {
       "source": "BBC News",
@@ -102,16 +302,6 @@
       "published_at": "2026-01-11T17:50:02+00:00",
       "summary": "Sudan's military-led government has returned to the country's capital after nearly three years of operating from its wartime base in the eastern city of Port Sudan.",
       "summary_zh": "苏丹由军方领导的政府从苏丹港东城的战时基地运作了近三年后已返回了苏丹首都."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thousands march and dozens arrested in Minneapolis protests against ICE",
-      "title_zh": "明尼阿波利斯抗议ICE的数千人游行和数十人被捕",
-      "link": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-11T17:21:26+00:00",
-      "summary": "Thousands of people joined another night of protests in Minneapolis on Saturday, following the death of a woman who was shot by a US Immigration and Customs Enforcement (ICE) agent in the city.",
-      "summary_zh": "数以千计的人加入了另一晚的抗议活动,"
     },
     {
       "source": "BBC News",
@@ -142,16 +332,6 @@
       "published_at": "2026-01-11T13:17:19+00:00",
       "summary": "A newly married couple were killed when a gas cylinder exploded at a house in Islamabad where they were sleeping after their wedding party, police have said.",
       "summary_zh": "警察说,在伊斯兰堡的一所房子里,一对新婚夫妇在婚礼后睡觉时被一个气瓶所爆炸而身亡。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Winners and Sinners: What to expect from the Golden Globes",
-      "title_zh": "赢家和罪人:金球队的期待是什么",
-      "link": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-11T07:53:49+00:00",
-      "summary": "Sinners, Marty Supreme and One Battle After Another are among the films set to compete at the Golden Globe Awards on Sunday night.",
-      "summary_zh": "\"罪人\",\"Marty Supreme\"和\"One Battle After After\"等影片被设定在周日晚上参加\"金球奖\"的角逐."
     },
     {
       "source": "BBC News",
@@ -192,16 +372,6 @@
       "published_at": "2026-01-11T01:50:00+00:00",
       "summary": "The US and its partner forces have carried out large-scale strikes against Islamic State (IS) group targets in Syria, the US Central Command (Centcom) has announced.",
       "summary_zh": "美国及其伙伴部队对叙利亚境内的\"伊斯兰国\"(IS)团体目标进行了大规模打击,美国中央司令部(Centcom)宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Hounded and harassed': The former pop star taking on Uganda's long-time president",
-      "title_zh": "\"被骚扰和骚扰\": 前流行歌手接任乌干达长期总统",
-      "link": "https://www.bbc.com/news/articles/cz0pr807yz7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-11T00:42:19+00:00",
-      "summary": "With his charisma, tenacity and everyman appeal, music star Bobi Wine has shaken up Ugandan politics.",
-      "summary_zh": "凭借他的魅力,顽强和每个人的吸引力,音乐明星博比·酒动摇了乌干达的政治."
     },
     {
       "source": "BBC News",
@@ -256,32 +426,22 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US film stars Meagan Good and Jonathan Majors become Guinea citizens after DNA tests",
-      "title_zh": "美国电影明星Meagan Good和Jonathan Majers在DNA测试后成为几内亚公民",
-      "link": "https://www.bbc.com/news/articles/c8d04zp8m26o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-10T13:28:08+00:00",
-      "summary": "Husband and wife movie stars Meagan Good and Jonathan Majors have travelled to Guinea, where they have been granted citizenship after tracing their ancestry to the West African nation through DNA testing.",
-      "summary_zh": "丈夫和妻子电影明星Meagan Good和Jonathan Majors前往几内亚,通过DNA检测,追踪其祖先到西非国家后,他们获得了公民身份。"
+      "title": "Watch: Backlash against Musk's Grok AI explained",
+      "title_zh": "观察:反对穆斯克的Grok AI解释",
+      "link": "https://www.bbc.com/news/videos/c8x94zr8yxvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-09T17:19:37+00:00",
+      "summary": "The UK government says X limiting Grok AI image edits to users who pay a monthly fee is \"insulting\" to victims of misogyny and sexual violence.",
+      "summary_zh": "英国政府表示,X将Grok AI的图像编辑限制在每月付费的用户是\"侮辱\"厌恶女性和性暴力的受害者."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Musk says X outcry is 'excuse for censorship'",
-      "title_zh": "穆斯克说,\"X大喊大叫是\"为了审查\"。",
-      "link": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-10T11:41:06+00:00",
-      "summary": "Elon Musk has said critics of his social media site X are looking for \"any excuse for censorship\", after its artificial intelligence (AI) chatbot Grok drew criticism over its use to create sexualised images of people without their knowledge or consent.",
-      "summary_zh": "Elon Musk表示他的社交媒体网站X的批评者正在寻找\"任何审查的借口\",此前其人工智能(AI)聊天机器人Grok曾就使用它来制作未经知情或同意的人的性化图像而引起批评."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rescuers race to find dozens missing in deadly Philippines landfill collapse",
-      "title_zh": "救援人员争相寻找数十个菲律宾垃圾填埋场的残骸",
-      "link": "https://www.bbc.com/news/articles/cn42jqlqy4xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-10T11:32:44+00:00",
-      "summary": "Rescue workers are racing to find dozens of people still missing following a landslide at a landfill site in the central Philippines that occurred earlier this week, an official has said.",
-      "summary_zh": "一名官员表示, 救援人员正在奔跑寻找数十人仍然失踪,"
+      "title": "Why are there huge protests going on in Iran?",
+      "title_zh": "伊朗为何举行大规模抗议?",
+      "link": "https://www.bbc.com/news/videos/cje1v852evlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-09T16:47:37+00:00",
+      "summary": "Anti-government protests have continued in Iran for the 13th day in a row.",
+      "summary_zh": "伊朗连续13天持续进行反政府抗议."
     },
     {
       "source": "BBC News",
@@ -292,56 +452,6 @@
       "published_at": "2026-01-09T09:17:44+00:00",
       "summary": "This week, Donald Trump repeated his desire to take over Greenland and make it part of the United States, potentially by using military force.",
       "summary_zh": "本周,唐纳德·特朗普(Donald Trump)再次表示希望占领格陵兰并使之成为美国的一部分,可能通过使用军事力量."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Buildings in Tehran set on fire as demonstrations spread across Iran",
-      "title_zh": "观察:德黑兰的建筑物在伊朗各地示威时被放火焚烧",
-      "link": "https://www.bbc.com/news/videos/c78e9vmn7dgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-09T03:41:15+00:00",
-      "summary": "Footage verified by BBC Persian shows buildings on fire in the Iranian capital, Tehran, as anti-government protests spread across the country .",
-      "summary_zh": "伊朗首都德黑兰的建筑物着火了,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Eyewitnesses recount deadly ICE shooting",
-      "title_zh": "观察:目击证人讲述了致命的ICE枪击事件",
-      "link": "https://www.bbc.com/news/videos/c394vjengdgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-08T16:12:49+00:00",
-      "summary": "Eyewitnesses recount the moments a deadly ICE shooting unfolded in Minneapolis, Minnesota, describing what led up to the incident and what happened after. Renee Nicole Good, 37, was shot and pronounced dead after being transported to the hospital.",
-      "summary_zh": "目击者讲述了在明尼苏达州明尼阿波利斯发生的一起致命的ICE枪击事件,描述了导致事件的原因和之后发生的事情. 蕾妮·妮可·古德 37岁被送往医院后被枪决并宣告死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Video shows moment US immigration agent fatally shoots woman",
-      "title_zh": "视频显示,片刻 美国移民特工 致命地射杀女性",
-      "link": "https://www.bbc.com/news/videos/cx2ypz4zjvxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-07T22:53:45+00:00",
-      "summary": "A woman in a car was shot and killed by a US immigration officer on a residential street in Minnesota.",
-      "summary_zh": "在明尼苏达的一条住宅街上,一辆汽车上的一名妇女被一名美国移民官员开枪打死."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tracking the oil tankers seized by the US",
-      "title_zh": "追踪被美国扣押的油轮",
-      "link": "https://www.bbc.com/news/videos/cx2gm7109rwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-07T21:53:24+00:00",
-      "summary": "BBC Verify has been tracking the Marinera for weeks. Merlyn Thomas has more.",
-      "summary_zh": "BBC的核查 已经追踪Marinera数周了 梅林·托马斯还有更多"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Trump says Maduro copied his dancing. Did he?",
-      "title_zh": "央视:特朗普称马杜罗复制了自己的舞蹈. 是吗?",
-      "link": "https://www.bbc.com/news/videos/c1jegxw1rxwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-06T22:49:34+00:00",
-      "summary": "In a speech to Republican members of Congress at the Kennedy Center, Trump claimed that former Venezuelan president Nicolas Maduro imitated his dance moves.",
-      "summary_zh": "特朗普在肯尼迪中心对共和党国会议员的演讲中称,委内瑞拉前总统尼古拉斯·马杜罗模仿了自己的舞蹈动作."
     }
   ]
 }
