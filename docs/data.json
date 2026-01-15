@@ -1,217 +1,307 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-14T22:39:02+00:00",
-  "count": 35,
+  "generated_at": "2026-01-15T22:37:52+00:00",
+  "count": 32,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "【地震情報】北海道 根室市などで震度3 津波の心配なし",
-      "title_zh": "[地震资讯]. 北海道,内慕罗等地 三起海啸",
-      "link": "http://www3.nhk.or.jp/news/html/20260115/k10015025851000.html",
-      "published_at": "2026-01-14T22:30:51+00:00",
-      "summary": "【最新の地震情報】各地の震度・震源を詳しく",
-      "summary_zh": "[最近的地震信息] 地震烈度和震源详情."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "グリーンランドめぐり デンマーク外相ら 米副大統領らと会談",
-      "title_zh": "与美国副总统举行的格陵兰旅游会议",
-      "link": "http://www3.nhk.or.jp/news/html/20260115/k10015026711000.html",
-      "published_at": "2026-01-14T22:26:06+00:00",
-      "summary": "トランプ大統領「イランでの殺害は止まりつつある」",
-      "summary_zh": "特朗普总统“伊朗的杀戮在增加”"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+      "title_zh": "委内瑞拉诺贝尔和平奖得主向特朗普颁奖",
+      "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T22:30:43+00:00",
+      "summary": "Venezuelan opposition leader María Corina Machado has told reporters that she presented the medal for her Nobel Peace Prize to President Donald Trump at a private White House meeting on Thursday, but did not say if he accepted it.",
+      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多告诉记者,她在星期四举行的白宫非公开会议上向总统唐纳德·特朗普颁发了诺贝尔和平奖奖章,但没有说是否接受."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "岩手 八幡平市 国道282号 雪のため数十台の車が立往生",
-      "title_zh": "岩手芒泰市国道282",
-      "link": "http://www3.nhk.or.jp/news/html/20260114/k10015026671000.html",
-      "published_at": "2026-01-14T21:56:12+00:00",
-      "summary": "高市首相 通常国会の早期に衆院解散の意向 与党幹部に伝える",
-      "summary_zh": "高一总理打算解散参议院,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Denmark warns of 'fundamental disagreement' after White House talks on Greenland",
-      "title_zh": "丹麦警告在白宫讨论格陵兰后,",
-      "link": "https://www.bbc.com/news/articles/cx20vzz0g8vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T21:52:49+00:00",
-      "summary": "Denmark's foreign minister has said there is a \"fundamental disagreement\" with the US over Greenland after talks at the White House.",
-      "summary_zh": "丹麦外交部长表示,在白宫会谈后,在格陵兰问题上与美国存在\"基本分歧\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US and UK pulling some personnel from Qatar military base",
-      "title_zh": "美国和英国从卡塔尔军事基地撤出一些人员",
-      "link": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T21:45:19+00:00",
-      "summary": "The US and UK are reducing the number of personnel at the Al-Udeid air base in Qatar, as US President Donald Trump considers whether to take action against Iran over its crackdown on anti-government protests.",
-      "summary_zh": "美国和英国正在减少卡塔尔Al-Udeid空军基地的人员,正如美国总统唐纳德·特朗普考虑是否对伊朗镇压反政府抗议采取行动."
+      "title": "イランで反政府デモ拡大 国連の安全保障理事会が緊急会合",
+      "title_zh": "联合国安全理事会扩大伊朗反政府民主",
+      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027511000.html",
+      "published_at": "2026-01-15T21:55:18+00:00",
+      "summary": "フランス ルーブル美術館 入館料に「二重価格」導入",
+      "summary_zh": "法国卢浮宫博物馆入口费 \"双价\"推出"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "オンラインカジノ利用者に 無登録で暗号資産交換か 容疑者逮捕",
-      "title_zh": "向网上赌场用户提供秘密资产交换或可疑逮捕",
-      "link": "http://www3.nhk.or.jp/news/html/20260115/k10015026441000.html",
-      "published_at": "2026-01-14T21:30:37+00:00",
-      "summary": "自民・維新 2月8日投開票想定し準備 立民・公明は新党も視野に",
-      "summary_zh": "2月8日 自我定义和可再生"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US launches phase two of Gaza peace plan with new technocratic government",
-      "title_zh": "美国与新的技术官僚政府共同发起加沙和平计划的第二阶段",
-      "link": "https://www.bbc.com/news/articles/cjw1nxe5pvlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T20:50:09+00:00",
-      "summary": "US envoy Steve Witkoff has announced the start of phase two of President Donald Trump's plan to end the war in Gaza, with a technocratic Palestinian government established in the territory.",
-      "summary_zh": "美国特使史蒂夫·维特克夫已宣布开始唐纳德·特朗普总统结束加沙战争计划的第二阶段,在该领土成立了技术官僚的巴勒斯坦政府."
+      "title": "大阪 吉村知事と横山市長 ダブル選挙に立候補表明",
+      "title_zh": "大阪总督吉村和横山市长",
+      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027671000.html",
+      "published_at": "2026-01-15T21:24:48+00:00",
+      "summary": "維新 地方議員6人を除名処分 国保支払い逃れる 吉村代表謝罪",
+      "summary_zh": "6名地区成员重新领取国家健康保险金"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "フランス ルーブル美術館 入館料に「二重価格」導入",
-      "title_zh": "法国卢浮宫博物馆入口费 \"双价\"推出",
-      "link": "http://www3.nhk.or.jp/news/html/20260115/k10015026501000.html",
-      "published_at": "2026-01-14T20:38:51+00:00",
-      "summary": "“米軍 カタール基地から一部退避”報道 イランの報復に備えか",
-      "summary_zh": "“美国陆军卡塔尔基地的部分重建”"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why two Canadian provinces are in a spat over Crown Royal whisky",
-      "title_zh": "为什么加拿大两省 都在喝皇家威士忌",
-      "link": "https://www.bbc.com/news/articles/c8x9v241z2qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T20:35:01+00:00",
-      "summary": "A British owned, Canadian-made whisky is at the centre of a spat between two provinces that is testing a unified \"Team Canada\" approach in the face of US tariffs.",
-      "summary_zh": "英国拥有、加拿大制造的威士忌是两省之间的热点,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Appropriate and unambiguous': White House defends Trump over middle-finger gesture at heckler",
-      "title_zh": "\"恰当而毫不含糊\": 白宫保卫特朗普 在赫克勒的中指手势",
-      "link": "https://www.bbc.com/news/articles/c62w8exgw1zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T20:14:41+00:00",
-      "summary": "The White House has defended US President Donald Trump after he aimed an offensive gesture at a heckler during his appearance at the Ford factory in Detroit on Tuesday.",
-      "summary_zh": "白宫为美国总统唐纳德·特朗普辩护,此前他星期二在底特律福特工厂出场时,对一名赫克勒人进行了攻击姿态."
+      "title": "タイ国籍少女の事件 新たに逮捕のタイ国籍容疑者 ブローカーか",
+      "title_zh": "新逮捕的泰国国家嫌疑人经纪人",
+      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027401000.html",
+      "published_at": "2026-01-15T21:23:11+00:00",
+      "summary": "タイ国籍少女に性的サービスさせた事件 新たに容疑者逮捕",
+      "summary_zh": "为泰国女孩提供性服务"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "「がん」診断された人の5年後の生存率を初公表 がんの種類で差",
-      "title_zh": "\"癌症\"诊断后5年的存活率被首次公布.",
-      "link": "http://www3.nhk.or.jp/news/html/20260115/k10015026421000.html",
-      "published_at": "2026-01-14T20:00:57+00:00",
-      "summary": "小児がん経験者の経済状況把握 初の全国調査実施へ 厚労省など",
-      "summary_zh": "了解儿童癌症的经济情况"
+      "title": "米財務省 デモ弾圧でイラン高官などに新たな経済制裁を発表",
+      "title_zh": "财政部宣布对伊朗高级委员会实行新的经济制裁",
+      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027691000.html",
+      "published_at": "2026-01-15T21:22:47+00:00",
+      "summary": "フランス ルーブル美術館 入館料に「二重価格」導入",
+      "summary_zh": "法国卢浮宫博物馆入口费 \"双价\"推出"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "自民・維新 2月8日投開票想定し準備 立民・公明は新党も視野に",
-      "title_zh": "2月8日 自我定义和可再生",
-      "link": "http://www3.nhk.or.jp/news/html/20260115/k10015026451000.html",
-      "published_at": "2026-01-14T19:35:40+00:00",
-      "summary": "高市首相 通常国会の早期に衆院解散の意向 与党幹部に伝える",
-      "summary_zh": "高一总理打算解散参议院,"
+      "title": "JR京浜東北線は運転再開 山手線は運転再開見込み立たず",
+      "title_zh": "JR Keihin- Tohoku 线路恢复驱动山口线",
+      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027701000.html",
+      "published_at": "2026-01-15T21:06:42+00:00",
+      "summary": "維新 地方議員6人を除名処分 国保支払い逃れる 吉村代表謝罪",
+      "summary_zh": "6名地区成员重新领取国家健康保险金"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump administration pauses immigrant visa processing for 75 countries",
-      "title_zh": "特朗普政府暂停75个国家的移民签证处理.",
-      "link": "https://www.bbc.com/news/articles/cy7mnzgkp7go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T18:29:39+00:00",
-      "summary": "The Trump administration is placing an indefinite pause on immigrant visa processing from 75 countries, further restricting the legal routes for entering the US.",
-      "summary_zh": "特朗普政府无限期地暂停来自75个国家的移民签证手续,进一步限制了进入美国的合法路线."
+      "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
+      "title_zh": "伊朗当局要求归还抗议者尸体,",
+      "link": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T20:19:13+00:00",
+      "summary": "Families of people killed in the protests in Iran have told the BBC that the authorities are demanding large sums of money to return their bodies for burial.",
+      "summary_zh": "伊朗抗议中遇难者的家属告诉英国广播公司,当局要求归还他们的尸体以安葬。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Uganda election chief says he has had threats over results declaration",
-      "title_zh": "乌干达选举主任表示,",
-      "link": "https://www.bbc.com/news/articles/c62vd7542rno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T18:18:46+00:00",
-      "summary": "The head of Uganda's electoral body says he has received threats warning him against declaring certain presidential candidates the winners of Thursday's election.",
-      "summary_zh": "乌干达选举机构负责人表示,他受到威胁,警告他不要宣布某些总统候选人是星期四选举的获胜者。"
+      "title": "US forces seize a sixth Venezuela-linked oil tanker in Caribbean Sea",
+      "title_zh": "美军在加勒比海夺取了第六艘委内瑞拉联通的油轮",
+      "link": "https://www.bbc.com/news/articles/cy4qdnj5vl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T20:09:34+00:00",
+      "summary": "The US has seized a sixth tanker in the Caribbean Sea in its ongoing efforts to control exports of Venezuelan oil, officials say.",
+      "summary_zh": "美国在加勒比海扣押了第六艘油轮,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東京 杉並 2人殺傷の容疑者 “自分も死んでもかまわない”供述",
+      "title_zh": "东京杉奈 两个嫌疑人“我不能死”。",
+      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027411000.html",
+      "published_at": "2026-01-15T20:06:16+00:00",
+      "summary": "東京 杉並区 2人殺傷 逮捕の容疑者 “自暴自棄になった”供述",
+      "summary_zh": "东京的Suginami-ku 2人杀害逮捕嫌疑“我变得自私”"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Starlink reportedly made free in Iran - but protesters are taking huge risks by using it",
-      "title_zh": "Starlink在伊朗自由了,",
-      "link": "https://www.bbc.com/news/articles/c0r4veg0rrzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T18:15:52+00:00",
-      "summary": "Starlink has reportedly waived monthly subscription payments for users inside Iran after its government shut down the internet last Thursday - cutting off millions of people from their families, livelihoods and access to information, during a deadly crackdown on protests.",
-      "summary_zh": "Starlink在伊朗政府上个星期四关闭互联网后, 便免除了伊朗国内用户的每月订阅费,"
+      "title": "European military personnel arrive in Greenland as Trump says US needs island",
+      "title_zh": "欧洲军人抵达格陵兰 川普说美国需要岛屿",
+      "link": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T20:04:04+00:00",
+      "summary": "A small French military contingent has arrived in Greenland's capital Nuuk, officials say, as several European states deploy small numbers in a so-called reconnaissance mission.",
+      "summary_zh": "官员们说,随着几个欧洲国家部署少量人员执行所谓的侦察任务,一支小规模的法国军事特遣队已抵达格陵兰首都努克."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "立民 公明 衆院選に向け新党結成で合意 きょうにも党名発表",
+      "title_zh": "公民同意组成新政党参加公共选举",
+      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027431000.html",
+      "published_at": "2026-01-15T20:03:49+00:00",
+      "summary": "立民 公明 衆院選に向け新党結成で合意",
+      "summary_zh": "缔结新政党,进行公开选举"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "FBI searches home of Washington Post reporter in classified documents probe",
-      "title_zh": "FBI在华盛顿邮报记者家 搜索机密文件",
-      "link": "https://www.bbc.com/news/articles/cvgp19zx3vjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T17:44:49+00:00",
-      "summary": "Agents with the US Federal Bureau of Investigation (FBI) raided the home of a Washington Post reporter this week as part of an investigation into a government contractor accused of leaking classified information, officials said.",
-      "summary_zh": "美国联邦调查局的特工本周突袭了一位华盛顿邮报记者的家,"
+      "title": "Iran judiciary denies plan to execute detained protester Erfan Soltani",
+      "title_zh": "伊朗司法机构否认处决被拘留抗议者Erfan Soltani的计划。",
+      "link": "https://www.bbc.com/news/articles/cp80zjx091yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T19:15:48+00:00",
+      "summary": "Iran's judiciary has denied it scheduled the execution of a man arrested in connection with the country's recent protests.",
+      "summary_zh": "伊朗司法部门否认计划处决因该国最近抗议而被捕的男子。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Italian influencer Chiara Ferragni cleared of cake fraud",
-      "title_zh": "意大利影响者Chiara Ferragni 清除了蛋糕欺诈",
-      "link": "https://www.bbc.com/news/articles/c5yvgz7geyvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T17:12:24+00:00",
-      "summary": "An Italian fashion influencer has been acquitted of aggravated fraud, bringing a long-running scandal involving a charity Christmas cake to an end.",
-      "summary_zh": "一名意大利时尚影响者因严重欺诈被宣告无罪,结束了一场长期涉及慈善会圣诞蛋糕的丑闻."
+      "title": "Ethiopia says seized ammunition sent by Eritrea to rebels as tensions rise",
+      "title_zh": "埃塞俄比亚说,随着紧张局势的加剧,厄立特里亚缴获了给叛军的弹药。",
+      "link": "https://www.bbc.com/news/articles/czr46ypzl4yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T17:57:34+00:00",
+      "summary": "Ethiopian police say they have seized thousands of rounds of ammunition sent by Eritrea to a violent armed rebel group, stoking fears of renewed armed conflict.",
+      "summary_zh": "埃塞俄比亚警察说,他们缴获了厄立特里亚送交一个暴力武装叛乱团体的数千发弹药,令人担心武装冲突会再起。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Tehran morgue videos show the brutality of Iran's crackdown on protesters",
-      "title_zh": "德黑兰停尸房录像显示伊朗镇压抗议者的残暴行为。",
-      "link": "https://www.bbc.com/news/articles/cly3xpyvxzyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T16:58:31+00:00",
-      "summary": "Warning: this story contains content which some readers might find distressing",
-      "summary_zh": "警告:这个故事包含一些读者可能感到痛苦的内容"
+      "title": "Votes being counted in Uganda election as opposition alleges rigging",
+      "title_zh": "在乌干达选举中,",
+      "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T17:48:42+00:00",
+      "summary": "Votes are being counted in parts of Uganda amid an internet shutdown and opposition accusations of rigging in presidential and parliamentary elections.",
+      "summary_zh": "在乌干达部分地区,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Swiss regions ban pyrotechnics after ski bar fire",
-      "title_zh": "瑞士地区禁止滑雪棒起火后的烟花",
-      "link": "https://www.bbc.com/news/articles/cgezqvwr54no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T16:32:15+00:00",
-      "summary": "The Swiss canton of Valais has banned pyrotechnic devices in all indoor public venues following the devastating fire at a bar on New Year's Eve where 40 people were killed and 116 were injured.",
-      "summary_zh": "瑞士瓦莱州在除夕夜酒吧发生毁灭性火灾后,禁止在所有室内公共场所安装烟花装置,该酒吧有40人死亡,116人受伤."
+      "title": "Large fire breaks out in Dutch city of Utrecht following explosion",
+      "title_zh": "荷兰城市乌得勒支发生大火",
+      "link": "https://www.bbc.com/news/articles/cm2xv0w07dgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T17:35:39+00:00",
+      "summary": "A large fire has broken out following an explosion at a building in the Dutch city of Utrecht.",
+      "summary_zh": "荷兰城市乌得勒支的一栋建筑发生爆炸后,大火已起."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "LA opens ticket draw for 2028 Olympics - with seats starting at $28",
-      "title_zh": "洛杉矶2028年奥运会开票抽签 - 座位起价为28美元",
-      "link": "https://www.bbc.com/news/articles/c5y47pyp906o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T15:30:09+00:00",
-      "summary": "Sport fans can now sign up for a chance to attend the Los Angeles 2028 Olympic Games - with tickets starting at $28 (£21).",
-      "summary_zh": "体育爱好者现在可以报名参加2028年洛杉矶奥运会-票价为28美元(21英镑)."
+      "title": "Federal agent shoots man in leg after Minneapolis shovel attack, officials say",
+      "title_zh": "联邦特工在明尼阿波利斯铲子袭击后射伤了人的腿 官员说",
+      "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T17:22:40+00:00",
+      "summary": "A federal officer has shot a man in the leg in the US city of Minneapolis after being attacked with a shovel as he tried to make an arrest, the Department of Homeland Security (DHS) says.",
+      "summary_zh": "一名联邦官员在美国明尼阿波利斯市用铲子袭击了一名男子,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "At least 32 killed after crane collapses on train in Thailand",
-      "title_zh": "泰国火车起重机倒塌后至少32人被炸死",
-      "link": "https://www.bbc.com/news/articles/ceqz7v1507ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T13:30:31+00:00",
-      "summary": "At least 32 people have been killed and 66 others injured after a construction crane fell onto a moving train in north-east Thailand.",
-      "summary_zh": "在泰国东北部,一辆起重机被一辆动车撞倒后,至少32人被炸死,66人受伤。"
+      "title": "Boeing knew of flaw in part linked to UPS plane crash, US safety board report says",
+      "title_zh": "波音知道部分与UPS空难有关的缺陷 美国安全局的报告称",
+      "link": "https://www.bbc.com/news/articles/cly56w0p9e1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T12:49:56+00:00",
+      "summary": "An aircraft that crashed in flames in Kentucky in November had a structural flaw that had been identified by Boeing on similar planes 15 years ago, according to investigators.",
+      "summary_zh": "一架于11月在肯塔基州失火中坠毁的飞机有一个结构缺陷,据调查人员称,15年前在类似飞机上被波音识别出."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "She's offered to share her Nobel with Trump. But what might Machado ask for in return?",
+      "title_zh": "她被提议与特朗普分享诺贝尔. 但马查多会要求什么回报?",
+      "link": "https://www.bbc.com/news/articles/c801p8jppv5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T12:32:12+00:00",
+      "summary": "Venezuelan opposition leader María Corina Machado may hold the Nobel Peace Prize, but she knows there is only one foreign endorsement that really matters: Donald Trump's.",
+      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科里娜·马查多(María Corina Machado)可能举办诺贝尔和平奖,但她知道只有一个外国认可才是真正重要的:唐纳德·特朗普的."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pitfalls loom as Trump's Gaza peace plan enters second phase",
+      "title_zh": "随着特朗普的\"加沙和平计划\"进入第二阶段,陷阱即将来临",
+      "link": "https://www.bbc.com/news/articles/cp3z7441nz7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T12:31:13+00:00",
+      "summary": "On the face of it, the announcement of phase two of President Donald Trump's peace plan for Gaza would seem like progress.",
+      "summary_zh": "表面上看,宣布唐纳德·特朗普总统的加沙和平计划第二阶段似乎有进步."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Astronauts splash down to Earth after medical evacuation from space station",
+      "title_zh": "宇航员从空间站医疗后送后向地上飞去",
+      "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T12:06:47+00:00",
+      "summary": "Four astronauts evacuated from the International Space Station (ISS) have landed back on Earth after their stay in space was cut short by a month due to a \"serious\" medical issue.",
+      "summary_zh": "国际空间站(ISS)撤离的4名宇航员由于\"严重\"医疗问题被缩短了在太空停留一个月后已返回地球."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky declares energy emergency as biting cold persists",
+      "title_zh": "Zelensky宣布能源紧急,",
+      "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T10:41:04+00:00",
+      "summary": "Ukraine has declared a state of emergency in the country's energy sector, with a particular focus on Kyiv, as ongoing Russian strikes continue to leave thousands of residents without power.",
+      "summary_zh": "乌克兰已宣布该国能源部门进入紧急状态,重点特别放在基辅,因为持续进行的俄罗斯罢工继续使数千名居民失去电力。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Astronauts return to Earth after medical evacuation",
+      "title_zh": "观察:宇航员在医疗后送后返回地球",
+      "link": "https://www.bbc.com/news/videos/c89q0y5xd79o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T10:38:41+00:00",
+      "summary": "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday.",
+      "summary_zh": "由于一名乘员生病而提前一个月离开国际空间站(ISS)的4名宇航员已经于星期四返回地球."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Aerial footage shows cars swept away by flash floods in Australia",
+      "title_zh": "观察:空中镜头显示澳大利亚被山洪冲走的汽车",
+      "link": "https://www.bbc.com/news/videos/c1wz807vpglo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T09:30:56+00:00",
+      "summary": "Australia's Great Ocean Road, famous for its scenic coastal views, was forced to close on Thursday after flash floods triggered by a storm hit the state of Victoria.",
+      "summary_zh": "澳大利亚的\"大海洋道\"以风景优美的海岸风景而出名,在一场风暴袭击维多利亚州后爆发了山洪后于星期四被迫关闭."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Singapore's opposition leader stripped of title after conviction for lying",
+      "title_zh": "新加坡反对派领袖因撒谎被判有罪后,",
+      "link": "https://www.bbc.com/news/articles/cp80217r1kpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T08:59:23+00:00",
+      "summary": "Singapore's Leader of the Opposition in parliament, Pritam Singh, has been stripped of his title by the prime minister following a vote by lawmakers.",
+      "summary_zh": "新加坡议会反对党领袖普里塔姆·辛格在立法者投票后被总理剥夺头衔."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'It was terrifying': Residents describe carnage after Thai train crash kills 32",
+      "title_zh": "\"这是可怕的\": 泰国火车相撞造成32人死亡,",
+      "link": "https://www.bbc.com/news/articles/cm2yvnen1qyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T06:46:02+00:00",
+      "summary": "Residents in Thailand's Ban Thanon Khot are accustomed to the rumbling of trains – rail is a key mode of transportation connecting the remote town with major cities.",
+      "summary_zh": "泰国Ban Thanon Khot的居民习惯于火车倒塌,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rift at top of the Taliban: BBC reveals clash of wills behind internet shutdown",
+      "title_zh": "塔利班高层的裂痕:BBC披露网络关闭背后的意志冲突.",
+      "link": "https://www.bbc.com/news/articles/cg7vdpy1l2vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T06:05:57+00:00",
+      "summary": "It was a piece of audio obtained by the BBC that revealed what worries the Taliban's leader most.",
+      "summary_zh": "这是BBC获得的一段录音,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why the UAE has incurred the wrath of Somalia",
+      "title_zh": "阿联酋为何遭受索马里的愤怒",
+      "link": "https://www.bbc.com/news/articles/c99k4jxz0ndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T00:27:47+00:00",
+      "summary": "For weeks, Somalia has been engaged in intense diplomatic efforts to rally international support after Israel recognised its breakaway region of Somaliland as an independent state.",
+      "summary_zh": "数周来,在以色列承认其分离的索马里兰地区为独立国家后,索马里一直在大力进行外交努力,以争取国际支持。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "From behind bars, Aung San Suu Kyi casts a long shadow over Myanmar",
+      "title_zh": "昂山素季在监狱里对缅甸投下长长的阴影",
+      "link": "https://www.bbc.com/news/articles/c3r197we875o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-14T23:01:28+00:00",
+      "summary": "As of Wednesday the Burmese democracy campaigner Aung San Suu Kyi will have spent a total of 20 years in detention in Myanmar, five of them since her government was overthrown by a military coup in February 2021.",
+      "summary_zh": "缅甸民主运动者昂山素季将在缅甸被关押了总共20年,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I carried my wife's body for an hour and a half' - BBC hears stories of protesters killed in Iran",
+      "title_zh": "我带着我太太的尸体一个半小时,",
+      "link": "https://www.bbc.com/news/articles/c8e54zp5j6no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-14T20:35:49+00:00",
+      "summary": "Warning: This article contains graphic descriptions of death and injury",
+      "summary_zh": "警告: 这篇文章载有死亡和伤害的图形描述。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Paraglider survives 500ft drop into ocean",
+      "title_zh": "观察: 滑翔机在500英尺远的海域生存",
+      "link": "https://www.bbc.com/news/videos/c3wz4v8xl8wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-14T19:30:31+00:00",
+      "summary": "Dramatic video shows a paraglider fall nearly 500ft (152m) into the into ocean at Riviera Beach in Palm Beach County, Florida on 9 January.",
+      "summary_zh": "1月9日在佛罗里达州棕榈滩县的里维埃拉海滩,"
     },
     {
       "source": "BBC News",
@@ -226,132 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Amateur stuns world's best to win A$1m in Melbourne",
-      "title_zh": "业余震撼世界第一 在墨尔本赢得一分钱",
-      "link": "https://www.bbc.com/sport/tennis/articles/ckgyl1ndw57o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T13:12:45+00:00",
-      "summary": "Amateur player Jordan Smith would have been \"happy winning just one point\" - but walked away with A$1m (£496,835) and bragging rights over world number two Jannik Sinner as he triumphed at the Australian Open's Million Dollar One Point Slam.",
-      "summary_zh": "业余选手乔丹·史密斯原本会\"快乐地只赢得一分\"-但带着一分一分(496,835英镑)走开,并吹嘘在世界第二名扬尼克·辛纳(Jannik Sinner)在澳大利亚公开赛上赢得了\"百万一分一分\"的胜利."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian doctors arrested after 9 babies die in maternity hospital",
-      "title_zh": "在9名婴儿死后被捕的俄罗斯医生",
-      "link": "https://www.bbc.com/news/articles/cx2wle7028ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T12:20:47+00:00",
-      "summary": "Two senior doctors have been arrested in Russia following the deaths of nine babies in a maternity hospital in Siberia this month.",
-      "summary_zh": "两名资深医生在本月在西伯利亚一家妇产医院死亡后,在俄罗斯被捕。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Trump vows 'very strong action' if Iran executes protesters",
       "title_zh": "如果伊朗处决抗议者,",
       "link": "https://www.bbc.com/news/videos/c4g0d892p7go?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-14T09:00:19+00:00",
       "summary": "US President Donald Trump says he'll take \"very strong action\" if Iran executes protesters.",
       "summary_zh": "美国总统唐纳德·特朗普表示,如果伊朗处决抗议者,他将采取\"非常有力的行动\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "No power or water and -19C: Kyiv seeks relief from Russian strikes and cold",
-      "title_zh": "没有电力和水,19C:基辅寻求免于俄罗斯的打击和冷冻",
-      "link": "https://www.bbc.com/news/articles/cgm4w1g3dggo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T07:43:06+00:00",
-      "summary": "At a suburban Kyiv railway station, two carriages painted in the blue and white livery of Ukrainian Railways sit on the main platform, their diesel engines running as snow steadily falls. The train is not going anywhere but it is providing a vital service for dozens of people who have been left without power and basics like running water or heating.",
-      "summary_zh": "在基辅郊区的一个火车站,两辆涂有乌克兰铁路公司蓝白活字的马车坐落在主站台上,它们的柴油机随着下雪平稳地运行. 火车不会去任何地方,而是为数十人提供重要的服务,他们没有电,也没有自来水或取暖等基本设施。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "K-pop drum duet between Japan and South Korea's leaders caps off summit talks",
-      "title_zh": "日本和韩国领导人之间的K-pop鼓二重奏 结束了首脑会谈",
-      "link": "https://www.bbc.com/news/articles/c0lx49z8ly6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T06:57:06+00:00",
-      "summary": "A surreal drum duet between two East Asian world leaders has set the internet abuzz - and put a spotlight on Japan and South Korea's diplomatic relationship.",
-      "summary_zh": "在东亚世界两位领袖之间,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dubai chocolate-inspired dessert takes S Korea by storm",
-      "title_zh": "迪拜巧克力激起的甜点 以风暴夺去韩国",
-      "link": "https://www.bbc.com/news/articles/c07xdv0mggzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T06:41:03+00:00",
-      "summary": "You must have heard of Dubai chocolate : the sticky, indulgent confectionary filled with pistachio cream, tahini and shreds of knafeh pastry, which has become a global sensation.",
-      "summary_zh": "你们一定听说过迪拜巧克力: 粘稠而放纵的口味,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Welcome to 2976' - North Africa's Amazigh people ring in the new year",
-      "title_zh": "\"欢迎来到2976\"——北非阿马齐格人新年出道.",
-      "link": "https://www.bbc.com/news/articles/cj0nm44g361o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T00:37:02+00:00",
-      "summary": "Across North Africa, the Amazigh people have been coming together to usher in the year 2976.",
-      "summary_zh": "在整个北非,阿马齐格人民在2976年聚集一堂。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Canada's Mark Carney faces delicate balancing act in China visit",
-      "title_zh": "加拿大的Mark Carney在中国的访问中面临微妙的平衡行为",
-      "link": "https://www.bbc.com/news/articles/c98pj370mjjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T00:00:15+00:00",
-      "summary": "Canada's Prime Minister Mark Carney is en route to China for a pivotal visit aimed at resetting ties with Beijing and finding new economic opportunities for his country outside the US.",
-      "summary_zh": "加拿大总理马克·卡尼正在前往中国进行关键访问,目的是与北京重新建立联系,并为他的国家在美国境外寻找新的经济机会。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What message do Greenlanders have for Trump?",
-      "title_zh": "格陵兰人对特朗普有什么看法?.",
-      "link": "https://www.bbc.com/news/videos/cr57v8y9r77o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-13T22:09:42+00:00",
-      "summary": "The US Vice President JD Vance is hosting the Danish and Greenlandic foreign ministers, as well as their US counterpart, Marco Rubio in the White House on Wednesday.",
-      "summary_zh": "美国副总统旺斯(JD Vance)星期三在白宫接待丹麦和格陵兰两国的外交部长,以及他们的美国同事马可·鲁比奥."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Now there's the threat of executions' in Iran",
-      "title_zh": "现在伊朗有处决的威胁",
-      "link": "https://www.bbc.com/news/videos/c87r3122v02o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-13T21:11:02+00:00",
-      "summary": "Anti-government protests have continued in Iran with thousands feared dead after the government crackdown on demonstrators.",
-      "summary_zh": "伊朗国内持续有反政府抗议活动,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bowen: Authoritarian regimes die gradually then suddenly, but Iran is not there yet",
-      "title_zh": "博文:独裁政权逐渐消亡,但伊朗尚未到来",
-      "link": "https://www.bbc.com/news/articles/cedwgn4pqv4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-13T16:47:26+00:00",
-      "summary": "How does an authoritarian regime die? As Ernest Hemingway famously said about going broke – gradually then suddenly.",
-      "summary_zh": "专制政权如何消亡? 正如欧内斯特·海明威(Ernest Hemingway)所出名地说的那样,要破产了 — — 然后逐渐地突然。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mortuary videos show how deadly Iran crackdown has become",
-      "title_zh": "迫击炮视频显示伊朗的镇压已变得多么致命。",
-      "link": "https://www.bbc.com/news/videos/c2e134xz2rjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-12T16:45:29+00:00",
-      "summary": "Anti-government protests have swept through major cities and towns across Iran, and the authorities are responding with a harsh crackdown.",
-      "summary_zh": "反政府抗议席卷了伊朗各地的大城市,当局正以严厉的镇压来回应."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Moment skier and dog swept along by avalanche",
-      "title_zh": "看:滑雪运动员和狗被雪崩卷走",
-      "link": "https://www.bbc.com/news/videos/czx3yn0467ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-12T10:47:51+00:00",
-      "summary": "Footage recorded by Spanish skier Ares Masip shows the moment she was swept by an avalanche on Pic de l'Hortell, a mountain in Andorra.",
-      "summary_zh": "西班牙滑雪运动员阿雷斯·马西普(Ares Masip)所记录的足迹显示,她在安道尔的一座山上被雪崩所席卷。"
     }
   ]
 }
