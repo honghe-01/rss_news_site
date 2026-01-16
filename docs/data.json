@@ -1,217 +1,357 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-15T22:37:52+00:00",
-  "count": 32,
+  "generated_at": "2026-01-16T22:37:47+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "岐阜・愛知で火事相次ぐ 子ども2人と連絡とれず 2人死亡",
+      "title_zh": "吉福和爱知两个孩子死了",
+      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028881000.html",
+      "published_at": "2026-01-16T22:09:10+00:00",
+      "summary": "【随時更新】阪神・淡路大震災から31年 地震発生時刻に黙とう",
+      "summary_zh": "[不时更新] 大汉申-阿瓦地地震31年."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ氏 “グリーンランド領有 同調しない国々に関税”示唆",
+      "title_zh": "特朗普建议“对无害国家征收关税”。",
+      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028761000.html",
+      "published_at": "2026-01-16T21:54:17+00:00",
+      "summary": "なぜアメリカが買収？ グリーンランドってどんなところ？",
+      "summary_zh": "什么是格陵兰?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump threatens new tariffs on countries opposed to Greenland takeover",
+      "title_zh": "特朗普威胁对反对格陵兰接管的国家实行新关税.",
+      "link": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T21:27:56+00:00",
+      "summary": "US President Donald Trump has threatened to place tariffs on nations that do not go along with his ambitions to annex Greenland.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)曾威胁要对不符合他吞并格陵兰野心的国家征收关税."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【随時更新】阪神・淡路大震災から31年 地震発生時刻に黙とう",
+      "title_zh": "[不时更新] 大汉申-阿瓦地地震31年.",
+      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027871000.html",
+      "published_at": "2026-01-16T21:04:42+00:00",
+      "summary": "阪神・淡路大震災から31年 教訓の継承が課題に",
+      "summary_zh": "大汉信-阿瓦地地震31年"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Uganda's president heads for victory as his main rival cries foul",
+      "title_zh": "乌干达总统为胜利而奋起奔走,",
+      "link": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T21:04:06+00:00",
+      "summary": "Uganda's President Yoweri Museveni has taken a commanding lead in Thursday's presidential election - well ahead of his main challenger Bobi Wine, whose party has already questioned the credibility of the results.",
+      "summary_zh": "乌干达总统约韦里·穆塞韦尼在星期四的总统选举中发挥了指挥作用——远远领先于他的主要挑战者博比·温德,他的政党已经对选举结果的可信度提出了质疑."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イラン反政府デモ 現地メディア“3000人拘束” 規制強化か",
+      "title_zh": "伊朗反政府示威 地方媒体\"3000人克制\"强化",
+      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028751000.html",
+      "published_at": "2026-01-16T20:27:36+00:00",
+      "summary": "イラン外相 “米がデモを支援” 対応の正当性訴え米をけん制か",
+      "summary_zh": "伊朗外交部长“美国帮助德莫”"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中道改革連合 基本政策の策定など急ぐ 自民 批判やつなぎ止め",
+      "title_zh": "基本政策等",
+      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028781000.html",
+      "published_at": "2026-01-16T20:20:16+00:00",
+      "summary": "立民・公明の新党 名称は「中道改革連合」に",
+      "summary_zh": "文革和文明新党名取自\"内地改革联盟\"."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "プルデンシャル生命31億円不適切受領 金融庁は厳しく対処へ",
+      "title_zh": "审慎生活 310亿日元 不当收受",
+      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028791000.html",
+      "published_at": "2026-01-16T20:15:11+00:00",
+      "summary": "プルデンシャル生命 社員ら100人余が顧客から31億円不適切受領",
+      "summary_zh": "100多名员工从顾客那里得到30亿日元的不当待遇"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大学入学共通テスト きょうから始まる 49万6000人余が受験予定",
+      "title_zh": "大学招生 普通考试 46 000名学生",
+      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028631000.html",
+      "published_at": "2026-01-16T20:03:33+00:00",
+      "summary": "JR山手線の停電トラブル 67万人余に影響 感電防止装置に不具合",
+      "summary_zh": "JR山诺特线路断电 超过6万人"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Exiled crown prince urges world to help protesters topple Iran's government",
+      "title_zh": "流亡的王储敦促世界帮助抗议者推翻伊朗政府。",
+      "link": "https://www.bbc.com/news/articles/c70lx085z85o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T19:07:26+00:00",
+      "summary": "The exiled son of the last Iranian shah (king) has called on the world to help protesters topple Iran's government, saying he is confident \"the Islamic Republic will fall - not if, but when\".",
+      "summary_zh": "伊朗上个沙赫被放逐的儿子(国王)呼吁世界帮助抗议者推翻伊朗政府,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Machado vows to lead Venezuela 'when right time comes'",
+      "title_zh": "Machado发誓,\"当时机成熟时,",
+      "link": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T19:01:45+00:00",
+      "summary": "Venezuelan opposition leader María Corina Machado has vowed she will lead the country \"when the right time comes\".",
+      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多(María Corina Machado)曾发誓,\"在适当时机到来后\"将领导国家."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man accused of murdering woman and toddler in Munich car attack goes on trial",
+      "title_zh": "被控在慕尼黑谋杀女人和小孩的人正在受审",
+      "link": "https://www.bbc.com/news/articles/cx2xpz559neo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T17:51:20+00:00",
+      "summary": "A man has gone on trial in Germany charged with driving his car into a crowd of people in the city of Munich last year, killing two people.",
+      "summary_zh": "一名男子在德国受审,被控去年开车撞上慕尼黑市的人群,造成两人死亡."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Myanmar begins defence in landmark genocide case at UN court",
+      "title_zh": "缅甸开始在联合国法庭进行具有里程碑意义的种族灭绝案件的辩护",
+      "link": "https://www.bbc.com/news/articles/c1wz8vyq54xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T16:25:50+00:00",
+      "summary": "Myanmar has denied committing genocide against the Ronhingya people, saying The Gambia has failed to provide enough proof, as it begun its defence at the UN's top court.",
+      "summary_zh": "缅甸否认对朗兴亚人民犯下种族灭绝罪行, 表示冈比亚未能提供足够的证据,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Who is Reza Pahlavi, the son of Iran's last shah?",
+      "title_zh": "谁是雷扎·帕哈拉维,伊朗上个沙赫之子?",
+      "link": "https://www.bbc.com/news/videos/cd6wndx24ldo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T14:21:29+00:00",
+      "summary": "65-year-old Reza Pahlavi, the exiled son of Iran's last shah has been a prominent voice calling for protests to continue in the country.",
+      "summary_zh": "伊朗上个沙赫被放逐之子、65岁的雷扎·帕哈拉维,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
+      "title_zh": "CIA局长在加拉加斯 和委内瑞拉新领导人会面了两个小时",
+      "link": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T13:28:40+00:00",
+      "summary": "CIA director John Ratcliffe met Venezuela's Interim President Delcy Rodríguez in Caracas on Thursday \"at President Trump's direction,\" a US official has said.",
+      "summary_zh": "美国中央情报局主任约翰·拉特克利夫星期四在加拉加斯会见了委内瑞拉临时总统德尔西·罗德里格斯\"在特朗普总统的指示下\",一位美国官员说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
+      "title_zh": "中国和加拿大在卡尼和习近平举行高层会谈后宣布减免关税",
+      "link": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T13:11:24+00:00",
+      "summary": "Chinese leader Xi Jinping and Canadian PM Mark Carney have announced lower tariffs, signalling a reset in their countries' relationship after a key meeting in Beijing.",
+      "summary_zh": "中国领导人习近平和加拿大总理马克·卡尼宣布降低关税,表示在北京举行重要会议后两国关系重起."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I was hit in the face by pellets': Iranians on border describe violence and more protests",
+      "title_zh": "\"我被子弹击中了脸\": 伊朗边境人士描述暴力和更多抗议活动。",
+      "link": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T12:02:09+00:00",
+      "summary": "At the border crossing from Iran into Iraqi Kurdistan, the stern face of Iran's former supreme leader, Ayatollah Khomeini, peers down at the trickle of Iranians leaving the territory.",
+      "summary_zh": "在从伊朗进入伊拉克库尔德斯坦的边境口岸,伊朗前最高领导人阿亚图拉·霍梅尼的严酷面孔,在伊朗人离开伊拉克领土的花花边倒下。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US accuses South Africa military of 'cosying up to Iran'",
+      "title_zh": "美国指责南非军方「与伊朗为敌」。",
+      "link": "https://www.bbc.com/news/articles/c8x95nk72k2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T11:42:07+00:00",
+      "summary": "The US has accused South Africa's defence ministry of refusing to obey orders from its own government to send home Iranian warships that have been conducting naval exercises in the African country's waters.",
+      "summary_zh": "美国指责南非国防部拒绝服从本国政府的命令,将一直在非洲国家水域进行海军演习的伊朗军舰送回家去."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tragic death of Adichie's young son pushes Nigeria to act on health sector failings",
+      "title_zh": "Adichie年轻儿子不幸去世,",
+      "link": "https://www.bbc.com/news/articles/c2d70kx6nn3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T10:37:05+00:00",
+      "summary": "A series of harrowing cases of allegations of medical negligence, including the death of novelist Chimamanda Ngozi Adichie's 21-month-old son, has ignited a fierce debate about patient safety within Nigeria's healthcare system.",
+      "summary_zh": "包括小说家奇马曼达·恩戈齐·阿迪奇(Chimamanda Ngozi Adichie)21个月长的儿子之死,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Julio Iglesias denies sexual assault allegations",
+      "title_zh": "Julio Iglesias否认性侵犯指控",
+      "link": "https://www.bbc.com/news/articles/cdx40dxdlrqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T09:37:13+00:00",
+      "summary": "Singer Julio Iglesias has denied allegations of sexual assault made by two female former employees.",
+      "summary_zh": "Singer Julio Iglesias否认两名前女性雇员提出的性侵犯指控。"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
       "title_zh": "委内瑞拉诺贝尔和平奖得主向特朗普颁奖",
       "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T22:30:43+00:00",
-      "summary": "Venezuelan opposition leader María Corina Machado has told reporters that she presented the medal for her Nobel Peace Prize to President Donald Trump at a private White House meeting on Thursday, but did not say if he accepted it.",
-      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多告诉记者,她在星期四举行的白宫非公开会议上向总统唐纳德·特朗普颁发了诺贝尔和平奖奖章,但没有说是否接受."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イランで反政府デモ拡大 国連の安全保障理事会が緊急会合",
-      "title_zh": "联合国安全理事会扩大伊朗反政府民主",
-      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027511000.html",
-      "published_at": "2026-01-15T21:55:18+00:00",
-      "summary": "フランス ルーブル美術館 入館料に「二重価格」導入",
-      "summary_zh": "法国卢浮宫博物馆入口费 \"双价\"推出"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大阪 吉村知事と横山市長 ダブル選挙に立候補表明",
-      "title_zh": "大阪总督吉村和横山市长",
-      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027671000.html",
-      "published_at": "2026-01-15T21:24:48+00:00",
-      "summary": "維新 地方議員6人を除名処分 国保支払い逃れる 吉村代表謝罪",
-      "summary_zh": "6名地区成员重新领取国家健康保险金"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "タイ国籍少女の事件 新たに逮捕のタイ国籍容疑者 ブローカーか",
-      "title_zh": "新逮捕的泰国国家嫌疑人经纪人",
-      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027401000.html",
-      "published_at": "2026-01-15T21:23:11+00:00",
-      "summary": "タイ国籍少女に性的サービスさせた事件 新たに容疑者逮捕",
-      "summary_zh": "为泰国女孩提供性服务"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米財務省 デモ弾圧でイラン高官などに新たな経済制裁を発表",
-      "title_zh": "财政部宣布对伊朗高级委员会实行新的经济制裁",
-      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027691000.html",
-      "published_at": "2026-01-15T21:22:47+00:00",
-      "summary": "フランス ルーブル美術館 入館料に「二重価格」導入",
-      "summary_zh": "法国卢浮宫博物馆入口费 \"双价\"推出"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "JR京浜東北線は運転再開 山手線は運転再開見込み立たず",
-      "title_zh": "JR Keihin- Tohoku 线路恢复驱动山口线",
-      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027701000.html",
-      "published_at": "2026-01-15T21:06:42+00:00",
-      "summary": "維新 地方議員6人を除名処分 国保支払い逃れる 吉村代表謝罪",
-      "summary_zh": "6名地区成员重新领取国家健康保险金"
+      "published_at": "2026-01-16T08:14:18+00:00",
+      "summary": "Venezuelan opposition leader María Corina Machado has given her Nobel Peace Prize medal to President Donald Trump during a meeting at the White House, saying it was a recognition of his commitment to her country's freedom.",
+      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多在白宫的一次会议上向总统唐纳德·特朗普颁发了她的诺贝尔和平奖奖章,称这是对他致力于国家自由的承认."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
-      "title_zh": "伊朗当局要求归还抗议者尸体,",
-      "link": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T20:19:13+00:00",
-      "summary": "Families of people killed in the protests in Iran have told the BBC that the authorities are demanding large sums of money to return their bodies for burial.",
-      "summary_zh": "伊朗抗议中遇难者的家属告诉英国广播公司,当局要求归还他们的尸体以安葬。"
+      "title": "S Korea's ex-president Yoon to be jailed for five years over martial law bid",
+      "title_zh": "韩国前总统尹相正因戒严竞价入狱五年",
+      "link": "https://www.bbc.com/news/articles/cy4qdpxp78po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T06:14:25+00:00",
+      "summary": "South Korea's impeached president Yoon Suk Yeol will be jailed for five years over abuse of power, obstructing justice and falsifying documents in relation to his failed martial law bid in 2024.",
+      "summary_zh": "韩国被弹劾会长尹硕烈将因滥用职权被处以5年有期徒刑,妨碍司法公正,并伪造与他2024年未通过戒严招标有关的文件."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US forces seize a sixth Venezuela-linked oil tanker in Caribbean Sea",
-      "title_zh": "美军在加勒比海夺取了第六艘委内瑞拉联通的油轮",
-      "link": "https://www.bbc.com/news/articles/cy4qdnj5vl9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T20:09:34+00:00",
-      "summary": "The US has seized a sixth tanker in the Caribbean Sea in its ongoing efforts to control exports of Venezuelan oil, officials say.",
-      "summary_zh": "美国在加勒比海扣押了第六艘油轮,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東京 杉並 2人殺傷の容疑者 “自分も死んでもかまわない”供述",
-      "title_zh": "东京杉奈 两个嫌疑人“我不能死”。",
-      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027411000.html",
-      "published_at": "2026-01-15T20:06:16+00:00",
-      "summary": "東京 杉並区 2人殺傷 逮捕の容疑者 “自暴自棄になった”供述",
-      "summary_zh": "东京的Suginami-ku 2人杀害逮捕嫌疑“我变得自私”"
+      "title": "South Korea's impeached president found guilty in first of four trials: What you need to know",
+      "title_zh": "韩国被弹劾会长在四起审判中首发被判有罪: 你该知道的事",
+      "link": "https://www.bbc.com/news/articles/cy9y039ygdro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T06:03:47+00:00",
+      "summary": "South Korea's beleaguered ex-president Yoon Suk Yeol has been found guilty of abuse of power, falsifying documents and obstructing justice when he tried and failed to impose martial law in the country in 2024. He has also been sentenced to five years in jail.",
+      "summary_zh": "韩国被纠缠的前总统尹淑烈被判定滥用职权,伪造证件并妨碍司法公正,2024年他在国内审判并未能实施戒严. 他还被判处五年监禁。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "European military personnel arrive in Greenland as Trump says US needs island",
-      "title_zh": "欧洲军人抵达格陵兰 川普说美国需要岛屿",
-      "link": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T20:04:04+00:00",
-      "summary": "A small French military contingent has arrived in Greenland's capital Nuuk, officials say, as several European states deploy small numbers in a so-called reconnaissance mission.",
-      "summary_zh": "官员们说,随着几个欧洲国家部署少量人员执行所谓的侦察任务,一支小规模的法国军事特遣队已抵达格陵兰首都努克."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "立民 公明 衆院選に向け新党結成で合意 きょうにも党名発表",
-      "title_zh": "公民同意组成新政党参加公共选举",
-      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027431000.html",
-      "published_at": "2026-01-15T20:03:49+00:00",
-      "summary": "立民 公明 衆院選に向け新党結成で合意",
-      "summary_zh": "缔结新政党,进行公开选举"
+      "title": "Trump's Fed fight looks like something from another country",
+      "title_zh": "特朗普的美联储争斗 看起来像来自别国的东西",
+      "link": "https://www.bbc.com/news/articles/cy9yxlz70dvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T06:02:36+00:00",
+      "summary": "A political leader demanding questionable policy from the central bank and testing the legal limits to get it - to Martin Redrado, sitting in Argentina, Donald Trump's stand-off with the Federal Reserve feels surprisingly familiar.",
+      "summary_zh": "一位政治领袖要求央行采取有问题的政策, 并测试获得政策的法律限制,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iran judiciary denies plan to execute detained protester Erfan Soltani",
-      "title_zh": "伊朗司法机构否认处决被拘留抗议者Erfan Soltani的计划。",
-      "link": "https://www.bbc.com/news/articles/cp80zjx091yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T19:15:48+00:00",
-      "summary": "Iran's judiciary has denied it scheduled the execution of a man arrested in connection with the country's recent protests.",
-      "summary_zh": "伊朗司法部门否认计划处决因该国最近抗议而被捕的男子。"
+      "title": "Cuba counts cost of alliance after 32 troops killed in Venezuela",
+      "title_zh": "在委内瑞拉有32名军人被击毙后,",
+      "link": "https://www.bbc.com/news/articles/c0q4l3g183jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T02:49:01+00:00",
+      "summary": "From sunrise, throngs of military personnel, government officials and civilians lined the route between Havana's airport and the Armed Forces Ministry to applaud home the remains of 32 Cuban troops killed in Venezuela as they passed by in a funeral cortege.",
+      "summary_zh": "从日出起,大批军事人员、政府官员和平民排出哈瓦那机场和武装部队部之间的路线,为32名在委内瑞拉死于丧葬地的古巴士兵的遗体鼓掌。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ethiopia says seized ammunition sent by Eritrea to rebels as tensions rise",
-      "title_zh": "埃塞俄比亚说,随着紧张局势的加剧,厄立特里亚缴获了给叛军的弹药。",
-      "link": "https://www.bbc.com/news/articles/czr46ypzl4yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T17:57:34+00:00",
-      "summary": "Ethiopian police say they have seized thousands of rounds of ammunition sent by Eritrea to a violent armed rebel group, stoking fears of renewed armed conflict.",
-      "summary_zh": "埃塞俄比亚警察说,他们缴获了厄立特里亚送交一个暴力武装叛乱团体的数千发弹药,令人担心武装冲突会再起。"
+      "title": "'Baby, don't move': Australian woman wakes to find massive python on her chest",
+      "title_zh": "\"宝贝,别动\": 澳大利亚女人醒来发现胸口有大蟒蛇",
+      "link": "https://www.bbc.com/news/articles/cdex34930r4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T02:32:14+00:00",
+      "summary": "In the middle of the night on Monday, Rachel Bloor stirred in her bed to find a heavy weight curled up on her chest.",
+      "summary_zh": "周一半夜,Rachel Bloor在床上出事 发现胸口卷起一身重物"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Votes being counted in Uganda election as opposition alleges rigging",
-      "title_zh": "在乌干达选举中,",
-      "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T17:48:42+00:00",
-      "summary": "Votes are being counted in parts of Uganda amid an internet shutdown and opposition accusations of rigging in presidential and parliamentary elections.",
-      "summary_zh": "在乌干达部分地区,"
+      "title": "Trump threatens to invoke Insurrection Act to quell anti-ICE protests in Minnesota",
+      "title_zh": "特朗普威胁要援引\"叛乱法案\"来平息明尼苏达州反ICE的抗议活动.",
+      "link": "https://www.bbc.com/news/articles/cwy15596p98o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T01:32:41+00:00",
+      "summary": "US President Donald Trump has threatened to invoke the rarely used Insurrection Act to quell unrest over federal immigration enforcement operations in Minneapolis.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)威胁要援引很少使用的\"叛乱法\"来平息明尼阿波利斯联邦移民执法行动的骚乱."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Large fire breaks out in Dutch city of Utrecht following explosion",
-      "title_zh": "荷兰城市乌得勒支发生大火",
-      "link": "https://www.bbc.com/news/articles/cm2xv0w07dgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T17:35:39+00:00",
-      "summary": "A large fire has broken out following an explosion at a building in the Dutch city of Utrecht.",
-      "summary_zh": "荷兰城市乌得勒支的一栋建筑发生爆炸后,大火已起."
+      "title": "How realistic is India's quest for magnets made of rare earths",
+      "title_zh": "印度对由稀土制成的磁铁的追求是多么现实",
+      "link": "https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T01:08:55+00:00",
+      "summary": "In November 2025, India approved a 73bn-rupee ($800m; £600m) plan that could help it to cut its dependence on China in one of the most strategic corners of the global supply chain: rare earth magnets.",
+      "summary_zh": "2025年11月,印度批准了73bn-rupee(800m;600m英镑)计划,可以帮助其在全球供应链最具战略意义的一角:稀土磁铁中减少对中国的依赖."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Federal agent shoots man in leg after Minneapolis shovel attack, officials say",
-      "title_zh": "联邦特工在明尼阿波利斯铲子袭击后射伤了人的腿 官员说",
-      "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T17:22:40+00:00",
-      "summary": "A federal officer has shot a man in the leg in the US city of Minneapolis after being attacked with a shovel as he tried to make an arrest, the Department of Homeland Security (DHS) says.",
-      "summary_zh": "一名联邦官员在美国明尼阿波利斯市用铲子袭击了一名男子,"
+      "title": "Actor Timothy Busfield charged with sexually abusing boys on set of TV series",
+      "title_zh": "演员Timothy Busfield被控在电视连续剧中性虐待男孩",
+      "link": "https://www.bbc.com/news/articles/cj9rvkde0xxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T00:24:22+00:00",
+      "summary": "Actor Timothy Busfield has made his first court appearance after turning himself in on criminal charges that he allegedly sexually abused two boys on the set of a TV series filmed in New Mexico, prosecutors say.",
+      "summary_zh": "检察官说,演员蒂莫西·布斯菲尔德(Timothy Busfield)在自首后首次出庭,他被指控在新墨西哥州拍摄的电视连续剧中性虐待了两个男孩。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Boeing knew of flaw in part linked to UPS plane crash, US safety board report says",
-      "title_zh": "波音知道部分与UPS空难有关的缺陷 美国安全局的报告称",
-      "link": "https://www.bbc.com/news/articles/cly56w0p9e1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T12:49:56+00:00",
-      "summary": "An aircraft that crashed in flames in Kentucky in November had a structural flaw that had been identified by Boeing on similar planes 15 years ago, according to investigators.",
-      "summary_zh": "一架于11月在肯塔基州失火中坠毁的飞机有一个结构缺陷,据调查人员称,15年前在类似飞机上被波音识别出."
+      "title": "Israel moves Yellow Line deeper into Gaza, satellite images show",
+      "title_zh": "以色列将黄线深入加沙,卫星图像显示",
+      "link": "https://www.bbc.com/news/articles/ckgxl6zkenqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T00:02:44+00:00",
+      "summary": "Israel has moved the blocks which are supposed to mark its post-ceasefire line of control deeper into Gaza in several places, sowing confusion among Palestinians.",
+      "summary_zh": "以色列已把本应标有停火后控制线的路障移入加沙若干地方,在巴勒斯坦人中间制造混乱。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "She's offered to share her Nobel with Trump. But what might Machado ask for in return?",
-      "title_zh": "她被提议与特朗普分享诺贝尔. 但马查多会要求什么回报?",
-      "link": "https://www.bbc.com/news/articles/c801p8jppv5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T12:32:12+00:00",
-      "summary": "Venezuelan opposition leader María Corina Machado may hold the Nobel Peace Prize, but she knows there is only one foreign endorsement that really matters: Donald Trump's.",
-      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科里娜·马查多(María Corina Machado)可能举办诺贝尔和平奖,但她知道只有一个外国认可才是真正重要的:唐纳德·特朗普的."
+      "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
+      "title_zh": "南极洲冰冷地表下的地貌 展现出前所未有的细节",
+      "link": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T00:00:21+00:00",
+      "summary": "A new map has unmasked the landscape beneath Antarctica's ice in unprecedented detail, something scientists say could greatly enhance our understanding of the frozen white continent.",
+      "summary_zh": "一张新地图将南极洲冰下地貌解开, 其细节是史无前例的, 科学家们说这可以大大增进我们对冰冻的白色大陆的理解。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Pitfalls loom as Trump's Gaza peace plan enters second phase",
-      "title_zh": "随着特朗普的\"加沙和平计划\"进入第二阶段,陷阱即将来临",
-      "link": "https://www.bbc.com/news/articles/cp3z7441nz7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T12:31:13+00:00",
-      "summary": "On the face of it, the announcement of phase two of President Donald Trump's peace plan for Gaza would seem like progress.",
-      "summary_zh": "表面上看,宣布唐纳德·特朗普总统的加沙和平计划第二阶段似乎有进步."
+      "title": "Chinese woman's plea for help killing pigs draws thousands to her village",
+      "title_zh": "中国女人要杀猪的恳求 吸引了上千人来到她村子",
+      "link": "https://www.bbc.com/news/articles/cx2y9805g8go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T23:47:47+00:00",
+      "summary": "When Daidai realised her father was too old to slaughter two pigs for a traditional community feast in the run-up to Chinese New Year, she turned to social media.",
+      "summary_zh": "Daidai意识到她的父亲太老了,不能在中新年前为传统社区宴会宰了两头猪,她转向了社交媒体."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Astronauts splash down to Earth after medical evacuation from space station",
-      "title_zh": "宇航员从空间站医疗后送后向地上飞去",
-      "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T12:06:47+00:00",
-      "summary": "Four astronauts evacuated from the International Space Station (ISS) have landed back on Earth after their stay in space was cut short by a month due to a \"serious\" medical issue.",
-      "summary_zh": "国际空间站(ISS)撤离的4名宇航员由于\"严重\"医疗问题被缩短了在太空停留一个月后已返回地球."
+      "title": "Troops and vessels from European Nato allies arrive in Greenland",
+      "title_zh": "欧洲纳托同盟的部队和船只抵达格陵兰",
+      "link": "https://www.bbc.com/news/videos/c0q4lplxzzlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T21:41:48+00:00",
+      "summary": "BBC Europe editor Katya Adler is in Greenland where troops and ships from several European states are gathering.",
+      "summary_zh": "BBC欧洲编辑Katya Adler在格陵兰,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Zelensky declares energy emergency as biting cold persists",
-      "title_zh": "Zelensky宣布能源紧急,",
-      "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T10:41:04+00:00",
-      "summary": "Ukraine has declared a state of emergency in the country's energy sector, with a particular focus on Kyiv, as ongoing Russian strikes continue to leave thousands of residents without power.",
-      "summary_zh": "乌克兰已宣布该国能源部门进入紧急状态,重点特别放在基辅,因为持续进行的俄罗斯罢工继续使数千名居民失去电力。"
+      "title": "Morocco celebrates Afcon win: 'Today is about couscous not jollof'",
+      "title_zh": "摩洛哥庆祝Afcon胜出:今天的比赛是\"Couscous Not jollof\".",
+      "link": "https://www.bbc.com/news/videos/c74vd0yj80do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T20:22:10+00:00",
+      "summary": "Morocco defeated Nigeria in a penalty shootout to advance to the Afcon final.",
+      "summary_zh": "摩洛哥击败尼日利亚进行罚枪决 晋级阿夫孔决赛."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What happens in space during a medical emergency?",
+      "title_zh": "医疗紧急情况下在太空会怎样?",
+      "link": "https://www.bbc.com/news/videos/c99kmgzp1jro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-15T20:10:58+00:00",
+      "summary": "Four astronauts evacuated from the International Space Station (ISS) have landed back on Earth, after their stay in space was cut short by a month due to a \"serious\" medical issue.",
+      "summary_zh": "国际空间站(ISS)撤离的4名宇航员由于\"严重\"医疗问题被缩短了在太空停留1个月后已返回地球."
     },
     {
       "source": "BBC News",
@@ -232,96 +372,6 @@
       "published_at": "2026-01-15T09:30:56+00:00",
       "summary": "Australia's Great Ocean Road, famous for its scenic coastal views, was forced to close on Thursday after flash floods triggered by a storm hit the state of Victoria.",
       "summary_zh": "澳大利亚的\"大海洋道\"以风景优美的海岸风景而出名,在一场风暴袭击维多利亚州后爆发了山洪后于星期四被迫关闭."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Singapore's opposition leader stripped of title after conviction for lying",
-      "title_zh": "新加坡反对派领袖因撒谎被判有罪后,",
-      "link": "https://www.bbc.com/news/articles/cp80217r1kpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T08:59:23+00:00",
-      "summary": "Singapore's Leader of the Opposition in parliament, Pritam Singh, has been stripped of his title by the prime minister following a vote by lawmakers.",
-      "summary_zh": "新加坡议会反对党领袖普里塔姆·辛格在立法者投票后被总理剥夺头衔."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'It was terrifying': Residents describe carnage after Thai train crash kills 32",
-      "title_zh": "\"这是可怕的\": 泰国火车相撞造成32人死亡,",
-      "link": "https://www.bbc.com/news/articles/cm2yvnen1qyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T06:46:02+00:00",
-      "summary": "Residents in Thailand's Ban Thanon Khot are accustomed to the rumbling of trains – rail is a key mode of transportation connecting the remote town with major cities.",
-      "summary_zh": "泰国Ban Thanon Khot的居民习惯于火车倒塌,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rift at top of the Taliban: BBC reveals clash of wills behind internet shutdown",
-      "title_zh": "塔利班高层的裂痕:BBC披露网络关闭背后的意志冲突.",
-      "link": "https://www.bbc.com/news/articles/cg7vdpy1l2vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T06:05:57+00:00",
-      "summary": "It was a piece of audio obtained by the BBC that revealed what worries the Taliban's leader most.",
-      "summary_zh": "这是BBC获得的一段录音,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why the UAE has incurred the wrath of Somalia",
-      "title_zh": "阿联酋为何遭受索马里的愤怒",
-      "link": "https://www.bbc.com/news/articles/c99k4jxz0ndo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T00:27:47+00:00",
-      "summary": "For weeks, Somalia has been engaged in intense diplomatic efforts to rally international support after Israel recognised its breakaway region of Somaliland as an independent state.",
-      "summary_zh": "数周来,在以色列承认其分离的索马里兰地区为独立国家后,索马里一直在大力进行外交努力,以争取国际支持。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "From behind bars, Aung San Suu Kyi casts a long shadow over Myanmar",
-      "title_zh": "昂山素季在监狱里对缅甸投下长长的阴影",
-      "link": "https://www.bbc.com/news/articles/c3r197we875o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T23:01:28+00:00",
-      "summary": "As of Wednesday the Burmese democracy campaigner Aung San Suu Kyi will have spent a total of 20 years in detention in Myanmar, five of them since her government was overthrown by a military coup in February 2021.",
-      "summary_zh": "缅甸民主运动者昂山素季将在缅甸被关押了总共20年,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I carried my wife's body for an hour and a half' - BBC hears stories of protesters killed in Iran",
-      "title_zh": "我带着我太太的尸体一个半小时,",
-      "link": "https://www.bbc.com/news/articles/c8e54zp5j6no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T20:35:49+00:00",
-      "summary": "Warning: This article contains graphic descriptions of death and injury",
-      "summary_zh": "警告: 这篇文章载有死亡和伤害的图形描述。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Paraglider survives 500ft drop into ocean",
-      "title_zh": "观察: 滑翔机在500英尺远的海域生存",
-      "link": "https://www.bbc.com/news/videos/c3wz4v8xl8wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T19:30:31+00:00",
-      "summary": "Dramatic video shows a paraglider fall nearly 500ft (152m) into the into ocean at Riviera Beach in Palm Beach County, Florida on 9 January.",
-      "summary_zh": "1月9日在佛罗里达州棕榈滩县的里维埃拉海滩,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Grim scene': BBC on site after crane collapses on train in Thailand",
-      "title_zh": "'格里姆场景':BBC在泰国火车起重机倒塌后现场",
-      "link": "https://www.bbc.com/news/videos/cd7z8p0nq8jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T13:24:59+00:00",
-      "summary": "A construction crane fell onto a moving train in north-eastern Thailand, killing at least 32 people and injuring 66 others.",
-      "summary_zh": "一辆建筑起重机倒入泰国东北部的一列动车,造成至少32人死亡,66人受伤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump vows 'very strong action' if Iran executes protesters",
-      "title_zh": "如果伊朗处决抗议者,",
-      "link": "https://www.bbc.com/news/videos/c4g0d892p7go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-14T09:00:19+00:00",
-      "summary": "US President Donald Trump says he'll take \"very strong action\" if Iran executes protesters.",
-      "summary_zh": "美国总统唐纳德·特朗普表示,如果伊朗处决抗议者,他将采取\"非常有力的行动\"."
     }
   ]
 }
