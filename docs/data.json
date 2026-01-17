@@ -1,157 +1,347 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-16T22:37:47+00:00",
-  "count": 37,
+  "generated_at": "2026-01-17T22:35:35+00:00",
+  "count": 38,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "岐阜・愛知で火事相次ぐ 子ども2人と連絡とれず 2人死亡",
-      "title_zh": "吉福和爱知两个孩子死了",
-      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028881000.html",
-      "published_at": "2026-01-16T22:09:10+00:00",
-      "summary": "【随時更新】阪神・淡路大震災から31年 地震発生時刻に黙とう",
-      "summary_zh": "[不时更新] 大汉申-阿瓦地地震31年."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ氏 “グリーンランド領有 同調しない国々に関税”示唆",
-      "title_zh": "特朗普建议“对无害国家征收关税”。",
-      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028761000.html",
-      "published_at": "2026-01-16T21:54:17+00:00",
-      "summary": "なぜアメリカが買収？ グリーンランドってどんなところ？",
-      "summary_zh": "什么是格陵兰?"
+      "title": "トランプ大統領 グリーンランドめぐり欧州8か国に関税措置",
+      "title_zh": "特朗普总统格陵兰·梅古里向8个欧洲国家运送海关",
+      "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029341000.html",
+      "published_at": "2026-01-17T22:21:35+00:00",
+      "summary": "米司法省 ミネソタ州知事らを捜査か 移民取り締まり妨害疑い",
+      "summary_zh": "对美国司法部明尼苏达州州长或移民调查 ***"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump threatens new tariffs on countries opposed to Greenland takeover",
-      "title_zh": "特朗普威胁对反对格陵兰接管的国家实行新关税.",
-      "link": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T21:27:56+00:00",
-      "summary": "US President Donald Trump has threatened to place tariffs on nations that do not go along with his ambitions to annex Greenland.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)曾威胁要对不符合他吞并格陵兰野心的国家征收关税."
+      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
+      "title_zh": "欧洲领导人表示,",
+      "link": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T22:05:55+00:00",
+      "summary": "A threat by President Donald Trump to impose fresh tariffs on eight allies opposed to his proposed takeover of Greenland has drawn condemnation from European leaders.",
+      "summary_zh": "总统唐纳德·特朗普(Donald Trump)威胁对反对他提议接管格陵兰的八个盟国征收新关税,这引起了欧洲领导人的谴责."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "【随時更新】阪神・淡路大震災から31年 地震発生時刻に黙とう",
-      "title_zh": "[不时更新] 大汉申-阿瓦地地震31年.",
-      "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027871000.html",
-      "published_at": "2026-01-16T21:04:42+00:00",
-      "summary": "阪神・淡路大震災から31年 教訓の継承が課題に",
-      "summary_zh": "大汉信-阿瓦地地震31年"
+      "title": "ウクライナから若者流出 “国の将来に深刻な影響” 専門家",
+      "title_zh": "“对国家未来的严重影响” 专家",
+      "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029251000.html",
+      "published_at": "2026-01-17T21:57:28+00:00",
+      "summary": "【随時更新】ロシア ウクライナに軍事侵攻（1月17日の動き）",
+      "summary_zh": "[不时更新]俄罗斯军事入侵乌克兰(1月17日)"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "台湾“中国無人機が領空侵犯”「挑発的で無責任な行為」と非難",
+      "title_zh": "台湾\"中国\" 機 機 blame blame blame blame",
+      "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029301000.html",
+      "published_at": "2026-01-17T21:32:27+00:00",
+      "summary": "米司法省 ミネソタ州知事らを捜査か 移民取り締まり妨害疑い",
+      "summary_zh": "对美国司法部明尼苏达州州长或移民调查 ***"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イラン最高指導者 デモの死者数千人と初めて明らかに 米を非難",
+      "title_zh": "伊朗最佳领袖示威数千人首次露面",
+      "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029281000.html",
+      "published_at": "2026-01-17T21:23:27+00:00",
+      "summary": "トランプ氏 “グリーンランド領有 同調しない国々に関税”示唆",
+      "summary_zh": "特朗普建议“对无害国家征收关税”"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "高市首相 19日に衆議院の解散表明へ 各党は選挙準備本格化",
+      "title_zh": "高一总理为庆祝众议院19日解散,各党派成为全面选举准备.",
+      "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029191000.html",
+      "published_at": "2026-01-17T20:46:44+00:00",
+      "summary": "首相“通常国会の早期に衆院解散” 与野党幹部が政策など発言",
+      "summary_zh": "总理“解散参议院在正常会议初期”"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Uganda's president heads for victory as his main rival cries foul",
-      "title_zh": "乌干达总统为胜利而奋起奔走,",
-      "link": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T21:04:06+00:00",
-      "summary": "Uganda's President Yoweri Museveni has taken a commanding lead in Thursday's presidential election - well ahead of his main challenger Bobi Wine, whose party has already questioned the credibility of the results.",
-      "summary_zh": "乌干达总统约韦里·穆塞韦尼在星期四的总统选举中发挥了指挥作用——远远领先于他的主要挑战者博比·温德,他的政党已经对选举结果的可信度提出了质疑."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン反政府デモ 現地メディア“3000人拘束” 規制強化か",
-      "title_zh": "伊朗反政府示威 地方媒体\"3000人克制\"强化",
-      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028751000.html",
-      "published_at": "2026-01-16T20:27:36+00:00",
-      "summary": "イラン外相 “米がデモを支援” 対応の正当性訴え米をけん制か",
-      "summary_zh": "伊朗外交部长“美国帮助德莫”"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中道改革連合 基本政策の策定など急ぐ 自民 批判やつなぎ止め",
-      "title_zh": "基本政策等",
-      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028781000.html",
-      "published_at": "2026-01-16T20:20:16+00:00",
-      "summary": "立民・公明の新党 名称は「中道改革連合」に",
-      "summary_zh": "文革和文明新党名取自\"内地改革联盟\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "プルデンシャル生命31億円不適切受領 金融庁は厳しく対処へ",
-      "title_zh": "审慎生活 310亿日元 不当收受",
-      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028791000.html",
-      "published_at": "2026-01-16T20:15:11+00:00",
-      "summary": "プルデンシャル生命 社員ら100人余が顧客から31億円不適切受領",
-      "summary_zh": "100多名员工从顾客那里得到30亿日元的不当待遇"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大学入学共通テスト きょうから始まる 49万6000人余が受験予定",
-      "title_zh": "大学招生 普通考试 46 000名学生",
-      "link": "http://www3.nhk.or.jp/news/html/20260117/k10015028631000.html",
-      "published_at": "2026-01-16T20:03:33+00:00",
-      "summary": "JR山手線の停電トラブル 67万人余に影響 感電防止装置に不具合",
-      "summary_zh": "JR山诺特线路断电 超过6万人"
+      "title": "US judge restricts ICE response to Minneapolis protesters",
+      "title_zh": "美国法官限制ICE对明尼阿波利斯抗议者的回应",
+      "link": "https://www.bbc.com/news/articles/cvgprwlplqwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T20:27:19+00:00",
+      "summary": "A US federal judge has issued an order limiting the crowd control tactics that can be used by Immigration and Customs Enforcement agents (ICE) towards \"peaceful and unobstructive\" protesters in Minneapolis.",
+      "summary_zh": "一名美国联邦法官发布命令,限制移民和海关执法人员(ICE)对明尼阿波利斯“和平无阻”抗议者采用的人群控制策略。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Exiled crown prince urges world to help protesters topple Iran's government",
-      "title_zh": "流亡的王储敦促世界帮助抗议者推翻伊朗政府。",
-      "link": "https://www.bbc.com/news/articles/c70lx085z85o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T19:07:26+00:00",
-      "summary": "The exiled son of the last Iranian shah (king) has called on the world to help protesters topple Iran's government, saying he is confident \"the Islamic Republic will fall - not if, but when\".",
-      "summary_zh": "伊朗上个沙赫被放逐的儿子(国王)呼吁世界帮助抗议者推翻伊朗政府,"
+      "title": "Iran supreme leader acknowledges thousands killed during recent protests",
+      "title_zh": "伊朗最高领导人承认数千人在最近的抗议中丧生。",
+      "link": "https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T20:14:57+00:00",
+      "summary": "Iran's supreme leader has for the first time publicly acknowledged that thousands of people were killed during recent protests.",
+      "summary_zh": "伊朗最高领导人首次公开承认,在最近的抗议中,数千人被杀害。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "月探査 アルテミス計画のロケットが発射台へ 宇宙飛行士が会見",
+      "title_zh": "月光阿尔泰米斯计划火箭发射装置",
+      "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029221000.html",
+      "published_at": "2026-01-17T20:06:20+00:00",
+      "summary": "米司法省 ミネソタ州知事らを捜査か 移民取り締まり妨害疑い",
+      "summary_zh": "对美国司法部明尼苏达州州长或移民调查 ***"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What a seventh term for 81-year-old leader means for Uganda",
+      "title_zh": "81岁领导人的第七次任期对乌干达意味着什么?",
+      "link": "https://www.bbc.com/news/articles/cx20qj1pwrwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T19:55:16+00:00",
+      "summary": "For supporters of Uganda's President Yoweri Museveni, his resounding victory in the just-concluded election is a vindication of his 40-year-long rule.",
+      "summary_zh": "对于乌干达总统约韦里·穆塞韦尼的支持者来说,他在刚刚结束的选举中的彻底胜利证明了他长达40年的统治。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "愛知 豊田の集合住宅火災 死亡女性は殺害されたか 警察が捜査",
+      "title_zh": "住火的丰田爱知被害妇女或警方调查",
+      "link": "http://www3.nhk.or.jp/news/html/20260118/k10015029321000.html",
+      "published_at": "2026-01-17T19:44:54+00:00",
+      "summary": "首相“通常国会の早期に衆院解散” 与野党幹部が政策など発言",
+      "summary_zh": "总理“解散参议院在正常会议初期”"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Avalanches kill five off-piste skiers in Austrian Alps",
+      "title_zh": "奥地利阿尔卑斯山有5名滑雪运动员被雪崩",
+      "link": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T18:37:45+00:00",
+      "summary": "Five off-piste skiers have died in two avalanches in the Austria's Alps following heavy snowfall in the region.",
+      "summary_zh": "该地区降下大雪后,5名脱落滑雪运动员在奥地利阿尔卑斯山脉的两次雪崩中丧生."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Who is on Trump's 'Board of Peace' overseeing Gaza's reconstruction?",
+      "title_zh": "谁在特朗普的\"和平理事会\"监督加沙的重建?",
+      "link": "https://www.bbc.com/news/articles/c9vx7kn33elo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T17:49:03+00:00",
+      "summary": "The White House has released the names of the members who will be part of the senior executive working with his new \"Board of Peace\" for Gaza.",
+      "summary_zh": "白宫公布将加入高级行政人员的人选,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ugandan leader extends 40-year rule after winning contested poll",
+      "title_zh": "在赢得有争议的民意测验后,乌干达领导人延长了40年的统治期",
+      "link": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T17:43:37+00:00",
+      "summary": "Ugandan President Yoweri Museveni has been declared the winner of Thursday's election extending his four decades in power by another five years.",
+      "summary_zh": "乌干达总统约韦里·穆塞韦尼被宣布为星期四选举的获胜者,他的任期又延长了五年。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "From camouflage to tracksuits - Guinea's junta leader becomes civilian president",
+      "title_zh": "从伪装到履履历 - 几内亚军政府领导人成为文职总统.",
+      "link": "https://www.bbc.com/news/articles/cpv70mek448o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T14:41:20+00:00",
+      "summary": "From the moment he seized power in September 2021 Guinea's Mamadi Doumbouya struck an imposing figure.",
+      "summary_zh": "从他于2021年9月夺权起,几内亚的马马迪·杜姆布亚就大打出人意料。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Big names on Trump's peace panel face huge challenges in Gaza",
+      "title_zh": "特朗普和平小组的大人物在加沙面临巨大挑战",
+      "link": "https://www.bbc.com/news/articles/c07xvv9r422o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T14:31:00+00:00",
+      "summary": "The White House has announced the first members of its Gaza \"Board of Peace\", and the list of names will do little to dispel the criticism from some quarters that the US president's plan resembles, at its heart, a colonial solution imposed over the heads of the Palestinians.",
+      "summary_zh": "白宫已宣布其加沙首批成员为\"和平理事会\", 名单对消除某些人士的批评作用不大,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Syrian army moves east of Aleppo after Kurdish forces withdraw",
+      "title_zh": "叙利亚军队在库尔德军队撤出后向阿勒颇以东移动",
+      "link": "https://www.bbc.com/news/articles/ce3k279e53eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T12:06:47+00:00",
+      "summary": "The Syrian army is moving into areas east of Aleppo city, after Kurdish forces started a withdrawal.",
+      "summary_zh": "在库尔德部队开始撤退后,叙利亚军队正向阿勒颇市以东地区移动."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japanese mayor apologises after calling staff 'human scum'",
+      "title_zh": "日本市长在称工作人员为“人渣”后道歉",
+      "link": "https://www.bbc.com/news/articles/czejwl2z80lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T08:08:26+00:00",
+      "summary": "The mayor of Yokohama has apologised for insulting colleagues after an official publicly accused him of making offensive remarks.",
+      "summary_zh": "横滨市长在一名官员公开指责他发表冒犯性言论后,对侮辱同事的行为表示歉意."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Armed group robs Pokémon store in New York City",
+      "title_zh": "观察:武装组织抢劫纽约市的Pokémon商店",
+      "link": "https://www.bbc.com/news/videos/cy09vjjx8glo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T06:48:57+00:00",
+      "summary": "New York City police are searching for multiple suspects after a masked group stole Pokémon merchandise at a Manhattan store on Wednesday, 14 January.",
+      "summary_zh": "1月14日星期三,一个蒙面团伙在曼哈顿一家商店盗窃了Pokémon商品,纽约市警方正在搜寻多名嫌疑人。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Google appeals landmark antitrust verdict over search monopoly",
+      "title_zh": "Google 对具有里程碑意义的反托拉斯判决的上诉 相对于搜索垄断",
+      "link": "https://www.bbc.com/news/articles/clyn0ek5rdpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T02:44:48+00:00",
+      "summary": "Google has appealed a US district judge's landmark antitrust ruling that found the company illegally held a monopoly in online search.",
+      "summary_zh": "Google已就美国地区法官的标志性反托拉斯裁决提出上诉,该裁决认定该公司在网络搜索中非法垄断."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A faceless hacker stole my therapy notes – now my deepest secrets are online forever",
+      "title_zh": "一个没脸的黑客偷了我的治疗笔记,",
+      "link": "https://www.bbc.com/news/articles/c62nzxqw45eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T02:15:51+00:00",
+      "summary": "As soon as Meri-Tuuli Auer saw the subject line in her junk folder, she knew it was no ordinary spam email. It contained her full name and her social security number - the unique code Finnish people use to access public services and banking.",
+      "summary_zh": "当Meri-Tuuli Auer在她的垃圾文件夹中看到主题线时,她就知道这不是普通的垃圾邮件. 里面有她的全名和她的社会保障号码——芬兰人使用的独特代码来获取公共服务和银行业务."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The mysterious singer with millions of streams - but who (or what) is she?",
+      "title_zh": "神秘的歌手,",
+      "link": "https://www.bbc.com/news/articles/cq6v83gq66eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T00:43:18+00:00",
+      "summary": "Sienna Rose is having a good month.",
+      "summary_zh": "西耶纳 罗斯有一个好月。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's proposed credit card cap spotlights Americans' debt. Would it help?",
+      "title_zh": "特朗普提出的信用卡封顶将美国债务聚焦. 有用吗?",
+      "link": "https://www.bbc.com/news/articles/cp37eerlql1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T00:39:26+00:00",
+      "summary": "Credit card debt is an increasingly heavy burden for millions of Americans.",
+      "summary_zh": "信用卡债务是数百万美国人日益沉重的负担."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
+      "title_zh": "在大海的火力下,奥德萨的家属试图逃离俄国的炮火",
+      "link": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T00:14:00+00:00",
+      "summary": "From Mariia's 16th-floor flat, the calm waters of the Black Sea stretch out into the horizon beneath the fading twilight.",
+      "summary_zh": "从马里亚的16层平面上, 黑海的平静的海水伸展到渐渐衰落的暮光下"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
+      "title_zh": "Paracetamol在怀孕时很安全,",
+      "link": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-17T00:13:47+00:00",
+      "summary": "Taking paracetamol while pregnant is safe and there's no evidence it raises the risk of autism, ADHD and developmental issues in children, say experts behind a major new review.",
+      "summary_zh": "在怀孕安全的情况下服用镇静剂 没有任何证据 会引起自闭症、ADHD 以及儿童发育问题"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A hotline to report vapers and caning if you're caught: Singapore's e-cigarette crackdown",
+      "title_zh": "新加坡电子香烟镇压事件",
+      "link": "https://www.bbc.com/news/articles/c3387lrz5g4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T23:16:35+00:00",
+      "summary": "It's a busy day at Woodlands Checkpoint, Singapore's main land crossing on the border with Malaysia, and thousands of cars are slowly trundling past the watchful eyes of customs officer Belinda Liaw and her team.",
+      "summary_zh": "在新加坡与马来西亚交界的主要陆地口岸伍德兰检查站,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Anger and frustration': BBC reports from Iranian-Armenian border",
+      "title_zh": "“愤怒与沮丧”:BBC伊朗-亚美尼亚边境的报道",
+      "link": "https://www.bbc.com/news/videos/cq84exgwvw2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T22:03:04+00:00",
+      "summary": "For over two weeks, demonstrations rocked Iran and, according to a human rights group, more than 2,600 protesters have been killed.",
+      "summary_zh": "两周多来,示威活动震撼伊朗,据一个人权团体称,已有2 600多名抗议者丧生。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why is there so much international interest in Greenland?",
+      "title_zh": "为什么国际上对格陵兰如此感兴趣?",
+      "link": "https://www.bbc.com/news/videos/cd9ey81441jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T21:28:27+00:00",
+      "summary": "Greenland, a sparsely populated but resource-rich island, is at the heart of a growing diplomatic dispute between Denmark and the US - but why?",
+      "summary_zh": "格陵兰是一个人口稀少但资源丰富的岛屿,是丹麦和美国日益严重的外交争端的核心,但为什么?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Canada's deal with China signals it is serious about shift from US",
+      "title_zh": "加拿大对中国的处理表明,它很重视从美国转移出去",
+      "link": "https://www.bbc.com/news/articles/cm24k6kk1rko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T21:21:47+00:00",
+      "summary": "Prime Minister Mark Carney's new approach to Canada's foreign policy can perhaps be distilled in one line: \"We take the world as it is, not as we wish it to be.\"",
+      "summary_zh": "马克·卡尼总理对加拿大外交政策的新方针也许可以一行提炼:\"我们把世界看成现实,而不是我们希望的世界\"."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Machado vows to lead Venezuela 'when right time comes'",
-      "title_zh": "Machado发誓,\"当时机成熟时,",
+      "title_zh": "Machado发誓在适当时机来临时领导委内瑞拉。",
       "link": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-16T19:01:45+00:00",
       "summary": "Venezuelan opposition leader María Corina Machado has vowed she will lead the country \"when the right time comes\".",
-      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多(María Corina Machado)曾发誓,\"在适当时机到来后\"将领导国家."
+      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多(María Corina Machado)曾发誓,\"在适当时机来临时\"她将领导国家."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Man accused of murdering woman and toddler in Munich car attack goes on trial",
-      "title_zh": "被控在慕尼黑谋杀女人和小孩的人正在受审",
-      "link": "https://www.bbc.com/news/articles/cx2xpz559neo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T17:51:20+00:00",
-      "summary": "A man has gone on trial in Germany charged with driving his car into a crowd of people in the city of Munich last year, killing two people.",
-      "summary_zh": "一名男子在德国受审,被控去年开车撞上慕尼黑市的人群,造成两人死亡."
+      "title": "South African national park closed due to floods",
+      "title_zh": "南非国家公园因洪水而关闭",
+      "link": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-16T16:52:14+00:00",
+      "summary": "Ongoing floods in the north-eastern provinces of South Africa have led to the closure of the world-famous Kruger National Park. Hundreds of staff and visitors were evacuated on Thursday.",
+      "summary_zh": "南非东北部各省不断发生水灾,导致世界著名的克鲁格国家公园关闭。 星期四有数百名工作人员和游客撤离。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Myanmar begins defence in landmark genocide case at UN court",
-      "title_zh": "缅甸开始在联合国法庭进行具有里程碑意义的种族灭绝案件的辩护",
+      "title_zh": "缅甸开始在联合国法庭对具有里程碑意义的种族灭绝案件进行辩护",
       "link": "https://www.bbc.com/news/articles/c1wz8vyq54xo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-16T16:25:50+00:00",
       "summary": "Myanmar has denied committing genocide against the Ronhingya people, saying The Gambia has failed to provide enough proof, as it begun its defence at the UN's top court.",
-      "summary_zh": "缅甸否认对朗兴亚人民犯下种族灭绝罪行, 表示冈比亚未能提供足够的证据,"
+      "summary_zh": "缅甸否认对龙兴亚人犯下灭绝种族罪, 表示冈比亚未能提供足够的证据,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Who is Reza Pahlavi, the son of Iran's last shah?",
-      "title_zh": "谁是雷扎·帕哈拉维,伊朗上个沙赫之子?",
+      "title_zh": "伊朗最后一任沙赫之子雷扎·帕哈维是谁?",
       "link": "https://www.bbc.com/news/videos/cd6wndx24ldo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-16T14:21:29+00:00",
       "summary": "65-year-old Reza Pahlavi, the exiled son of Iran's last shah has been a prominent voice calling for protests to continue in the country.",
-      "summary_zh": "伊朗上个沙赫被放逐之子、65岁的雷扎·帕哈拉维,"
+      "summary_zh": "伊朗最后一任沙赫的流亡之子、65岁的雷扎·帕哈拉维,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
-      "title_zh": "CIA局长在加拉加斯 和委内瑞拉新领导人会面了两个小时",
+      "title_zh": "中央情报局主任在加拉加斯与委内瑞拉新领导人举行了两小时的会议",
       "link": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-16T13:28:40+00:00",
       "summary": "CIA director John Ratcliffe met Venezuela's Interim President Delcy Rodríguez in Caracas on Thursday \"at President Trump's direction,\" a US official has said.",
-      "summary_zh": "美国中央情报局主任约翰·拉特克利夫星期四在加拉加斯会见了委内瑞拉临时总统德尔西·罗德里格斯\"在特朗普总统的指示下\",一位美国官员说."
+      "summary_zh": "中央情报局主任约翰·拉特克利夫星期四在加拉加斯会见了委内瑞拉临时总统德尔西·罗德里格斯,\"在特朗普总统的指示下\",一位美国官员说."
     },
     {
       "source": "BBC News",
@@ -161,17 +351,17 @@
       "link": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-16T13:11:24+00:00",
       "summary": "Chinese leader Xi Jinping and Canadian PM Mark Carney have announced lower tariffs, signalling a reset in their countries' relationship after a key meeting in Beijing.",
-      "summary_zh": "中国领导人习近平和加拿大总理马克·卡尼宣布降低关税,表示在北京举行重要会议后两国关系重起."
+      "summary_zh": "中国领导人习近平和加拿大总理马克·卡尼宣布降低关税,表示在北京举行重要会议后两国关系重设."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "'I was hit in the face by pellets': Iranians on border describe violence and more protests",
-      "title_zh": "\"我被子弹击中了脸\": 伊朗边境人士描述暴力和更多抗议活动。",
+      "title_zh": "\"我被子弹击中脸部\": 伊朗边境人士描述暴力和更多抗议活动。",
       "link": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-16T12:02:09+00:00",
       "summary": "At the border crossing from Iran into Iraqi Kurdistan, the stern face of Iran's former supreme leader, Ayatollah Khomeini, peers down at the trickle of Iranians leaving the territory.",
-      "summary_zh": "在从伊朗进入伊拉克库尔德斯坦的边境口岸,伊朗前最高领导人阿亚图拉·霍梅尼的严酷面孔,在伊朗人离开伊拉克领土的花花边倒下。"
+      "summary_zh": "在从伊朗进入伊拉克库尔德斯坦的边境口岸,伊朗前最高领导人阿亚图拉·霍梅尼的严酷面孔,在伊朗人离开该领土的微风下游。"
     },
     {
       "source": "BBC News",
@@ -181,117 +371,7 @@
       "link": "https://www.bbc.com/news/articles/c8x95nk72k2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-16T11:42:07+00:00",
       "summary": "The US has accused South Africa's defence ministry of refusing to obey orders from its own government to send home Iranian warships that have been conducting naval exercises in the African country's waters.",
-      "summary_zh": "美国指责南非国防部拒绝服从本国政府的命令,将一直在非洲国家水域进行海军演习的伊朗军舰送回家去."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tragic death of Adichie's young son pushes Nigeria to act on health sector failings",
-      "title_zh": "Adichie年轻儿子不幸去世,",
-      "link": "https://www.bbc.com/news/articles/c2d70kx6nn3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T10:37:05+00:00",
-      "summary": "A series of harrowing cases of allegations of medical negligence, including the death of novelist Chimamanda Ngozi Adichie's 21-month-old son, has ignited a fierce debate about patient safety within Nigeria's healthcare system.",
-      "summary_zh": "包括小说家奇马曼达·恩戈齐·阿迪奇(Chimamanda Ngozi Adichie)21个月长的儿子之死,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Julio Iglesias denies sexual assault allegations",
-      "title_zh": "Julio Iglesias否认性侵犯指控",
-      "link": "https://www.bbc.com/news/articles/cdx40dxdlrqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T09:37:13+00:00",
-      "summary": "Singer Julio Iglesias has denied allegations of sexual assault made by two female former employees.",
-      "summary_zh": "Singer Julio Iglesias否认两名前女性雇员提出的性侵犯指控。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
-      "title_zh": "委内瑞拉诺贝尔和平奖得主向特朗普颁奖",
-      "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T08:14:18+00:00",
-      "summary": "Venezuelan opposition leader María Corina Machado has given her Nobel Peace Prize medal to President Donald Trump during a meeting at the White House, saying it was a recognition of his commitment to her country's freedom.",
-      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多在白宫的一次会议上向总统唐纳德·特朗普颁发了她的诺贝尔和平奖奖章,称这是对他致力于国家自由的承认."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "S Korea's ex-president Yoon to be jailed for five years over martial law bid",
-      "title_zh": "韩国前总统尹相正因戒严竞价入狱五年",
-      "link": "https://www.bbc.com/news/articles/cy4qdpxp78po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T06:14:25+00:00",
-      "summary": "South Korea's impeached president Yoon Suk Yeol will be jailed for five years over abuse of power, obstructing justice and falsifying documents in relation to his failed martial law bid in 2024.",
-      "summary_zh": "韩国被弹劾会长尹硕烈将因滥用职权被处以5年有期徒刑,妨碍司法公正,并伪造与他2024年未通过戒严招标有关的文件."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "South Korea's impeached president found guilty in first of four trials: What you need to know",
-      "title_zh": "韩国被弹劾会长在四起审判中首发被判有罪: 你该知道的事",
-      "link": "https://www.bbc.com/news/articles/cy9y039ygdro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T06:03:47+00:00",
-      "summary": "South Korea's beleaguered ex-president Yoon Suk Yeol has been found guilty of abuse of power, falsifying documents and obstructing justice when he tried and failed to impose martial law in the country in 2024. He has also been sentenced to five years in jail.",
-      "summary_zh": "韩国被纠缠的前总统尹淑烈被判定滥用职权,伪造证件并妨碍司法公正,2024年他在国内审判并未能实施戒严. 他还被判处五年监禁。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump's Fed fight looks like something from another country",
-      "title_zh": "特朗普的美联储争斗 看起来像来自别国的东西",
-      "link": "https://www.bbc.com/news/articles/cy9yxlz70dvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T06:02:36+00:00",
-      "summary": "A political leader demanding questionable policy from the central bank and testing the legal limits to get it - to Martin Redrado, sitting in Argentina, Donald Trump's stand-off with the Federal Reserve feels surprisingly familiar.",
-      "summary_zh": "一位政治领袖要求央行采取有问题的政策, 并测试获得政策的法律限制,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cuba counts cost of alliance after 32 troops killed in Venezuela",
-      "title_zh": "在委内瑞拉有32名军人被击毙后,",
-      "link": "https://www.bbc.com/news/articles/c0q4l3g183jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T02:49:01+00:00",
-      "summary": "From sunrise, throngs of military personnel, government officials and civilians lined the route between Havana's airport and the Armed Forces Ministry to applaud home the remains of 32 Cuban troops killed in Venezuela as they passed by in a funeral cortege.",
-      "summary_zh": "从日出起,大批军事人员、政府官员和平民排出哈瓦那机场和武装部队部之间的路线,为32名在委内瑞拉死于丧葬地的古巴士兵的遗体鼓掌。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Baby, don't move': Australian woman wakes to find massive python on her chest",
-      "title_zh": "\"宝贝,别动\": 澳大利亚女人醒来发现胸口有大蟒蛇",
-      "link": "https://www.bbc.com/news/articles/cdex34930r4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T02:32:14+00:00",
-      "summary": "In the middle of the night on Monday, Rachel Bloor stirred in her bed to find a heavy weight curled up on her chest.",
-      "summary_zh": "周一半夜,Rachel Bloor在床上出事 发现胸口卷起一身重物"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump threatens to invoke Insurrection Act to quell anti-ICE protests in Minnesota",
-      "title_zh": "特朗普威胁要援引\"叛乱法案\"来平息明尼苏达州反ICE的抗议活动.",
-      "link": "https://www.bbc.com/news/articles/cwy15596p98o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T01:32:41+00:00",
-      "summary": "US President Donald Trump has threatened to invoke the rarely used Insurrection Act to quell unrest over federal immigration enforcement operations in Minneapolis.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)威胁要援引很少使用的\"叛乱法\"来平息明尼阿波利斯联邦移民执法行动的骚乱."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How realistic is India's quest for magnets made of rare earths",
-      "title_zh": "印度对由稀土制成的磁铁的追求是多么现实",
-      "link": "https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T01:08:55+00:00",
-      "summary": "In November 2025, India approved a 73bn-rupee ($800m; £600m) plan that could help it to cut its dependence on China in one of the most strategic corners of the global supply chain: rare earth magnets.",
-      "summary_zh": "2025年11月,印度批准了73bn-rupee(800m;600m英镑)计划,可以帮助其在全球供应链最具战略意义的一角:稀土磁铁中减少对中国的依赖."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Actor Timothy Busfield charged with sexually abusing boys on set of TV series",
-      "title_zh": "演员Timothy Busfield被控在电视连续剧中性虐待男孩",
-      "link": "https://www.bbc.com/news/articles/cj9rvkde0xxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T00:24:22+00:00",
-      "summary": "Actor Timothy Busfield has made his first court appearance after turning himself in on criminal charges that he allegedly sexually abused two boys on the set of a TV series filmed in New Mexico, prosecutors say.",
-      "summary_zh": "检察官说,演员蒂莫西·布斯菲尔德(Timothy Busfield)在自首后首次出庭,他被指控在新墨西哥州拍摄的电视连续剧中性虐待了两个男孩。"
+      "summary_zh": "美国指责南非国防部拒绝服从本国政府的命令,将一直在非洲国家水域进行海军演习的伊朗军舰送回家."
     },
     {
       "source": "BBC News",
@@ -301,77 +381,7 @@
       "link": "https://www.bbc.com/news/articles/ckgxl6zkenqo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-16T00:02:44+00:00",
       "summary": "Israel has moved the blocks which are supposed to mark its post-ceasefire line of control deeper into Gaza in several places, sowing confusion among Palestinians.",
-      "summary_zh": "以色列已把本应标有停火后控制线的路障移入加沙若干地方,在巴勒斯坦人中间制造混乱。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
-      "title_zh": "南极洲冰冷地表下的地貌 展现出前所未有的细节",
-      "link": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T00:00:21+00:00",
-      "summary": "A new map has unmasked the landscape beneath Antarctica's ice in unprecedented detail, something scientists say could greatly enhance our understanding of the frozen white continent.",
-      "summary_zh": "一张新地图将南极洲冰下地貌解开, 其细节是史无前例的, 科学家们说这可以大大增进我们对冰冻的白色大陆的理解。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Chinese woman's plea for help killing pigs draws thousands to her village",
-      "title_zh": "中国女人要杀猪的恳求 吸引了上千人来到她村子",
-      "link": "https://www.bbc.com/news/articles/cx2y9805g8go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T23:47:47+00:00",
-      "summary": "When Daidai realised her father was too old to slaughter two pigs for a traditional community feast in the run-up to Chinese New Year, she turned to social media.",
-      "summary_zh": "Daidai意识到她的父亲太老了,不能在中新年前为传统社区宴会宰了两头猪,她转向了社交媒体."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Troops and vessels from European Nato allies arrive in Greenland",
-      "title_zh": "欧洲纳托同盟的部队和船只抵达格陵兰",
-      "link": "https://www.bbc.com/news/videos/c0q4lplxzzlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T21:41:48+00:00",
-      "summary": "BBC Europe editor Katya Adler is in Greenland where troops and ships from several European states are gathering.",
-      "summary_zh": "BBC欧洲编辑Katya Adler在格陵兰,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Morocco celebrates Afcon win: 'Today is about couscous not jollof'",
-      "title_zh": "摩洛哥庆祝Afcon胜出:今天的比赛是\"Couscous Not jollof\".",
-      "link": "https://www.bbc.com/news/videos/c74vd0yj80do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T20:22:10+00:00",
-      "summary": "Morocco defeated Nigeria in a penalty shootout to advance to the Afcon final.",
-      "summary_zh": "摩洛哥击败尼日利亚进行罚枪决 晋级阿夫孔决赛."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What happens in space during a medical emergency?",
-      "title_zh": "医疗紧急情况下在太空会怎样?",
-      "link": "https://www.bbc.com/news/videos/c99kmgzp1jro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T20:10:58+00:00",
-      "summary": "Four astronauts evacuated from the International Space Station (ISS) have landed back on Earth, after their stay in space was cut short by a month due to a \"serious\" medical issue.",
-      "summary_zh": "国际空间站(ISS)撤离的4名宇航员由于\"严重\"医疗问题被缩短了在太空停留1个月后已返回地球."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Astronauts return to Earth after medical evacuation",
-      "title_zh": "观察:宇航员在医疗后送后返回地球",
-      "link": "https://www.bbc.com/news/videos/c89q0y5xd79o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T10:38:41+00:00",
-      "summary": "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday.",
-      "summary_zh": "由于一名乘员生病而提前一个月离开国际空间站(ISS)的4名宇航员已经于星期四返回地球."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Aerial footage shows cars swept away by flash floods in Australia",
-      "title_zh": "观察:空中镜头显示澳大利亚被山洪冲走的汽车",
-      "link": "https://www.bbc.com/news/videos/c1wz807vpglo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-15T09:30:56+00:00",
-      "summary": "Australia's Great Ocean Road, famous for its scenic coastal views, was forced to close on Thursday after flash floods triggered by a storm hit the state of Victoria.",
-      "summary_zh": "澳大利亚的\"大海洋道\"以风景优美的海岸风景而出名,在一场风暴袭击维多利亚州后爆发了山洪后于星期四被迫关闭."
+      "summary_zh": "以色列已把本应标有停火后控制线的路障移到加沙若干地方,在巴勒斯坦人中间制造混乱。"
     }
   ]
 }
