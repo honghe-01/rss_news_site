@@ -1,77 +1,347 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-18T22:35:43+00:00",
-  "count": 38,
+  "generated_at": "2026-01-19T22:38:09+00:00",
+  "count": 37,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "欧州8か国が共同声明 グリーンランドめぐる米の関税措置を批判",
-      "title_zh": "欧洲8个国家共同承担格陵兰的关税要求",
-      "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029701000.html",
-      "published_at": "2026-01-18T22:28:59+00:00",
-      "summary": "トランプ大統領 グリーンランドめぐる関税措置 欧米亀裂深まる",
-      "summary_zh": "特朗普总统"
+      "title": "あすから北～西日本の日本海側中心に大雪おそれ 早めの備えを",
+      "title_zh": "ASU 从北到西日本海边大雪中心",
+      "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030341000.html",
+      "published_at": "2026-01-19T22:33:47+00:00",
+      "summary": "歌人・俵万智が語る“言葉の時代”とは？",
+      "summary_zh": "歌唱家和歌唱家的名声是什么?"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "スペイン南部 高速鉄道が脱線 少なくとも7人死亡 地元メディア",
-      "title_zh": "南西班牙高速列车出轨 至少7人死亡 当地媒体",
-      "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029781000.html",
-      "published_at": "2026-01-18T22:25:57+00:00",
-      "summary": "欧州8か国が共同声明 グリーンランドめぐる米の関税措置を批判",
-      "summary_zh": "欧洲8个国家共同承担格陵兰的关税要求"
+      "title": "高市首相が解散表明 政権信任 与党の政策など争点に選挙戦へ",
+      "title_zh": "高一总理解散了政府对选举的信任,反对党的政策",
+      "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030311000.html",
+      "published_at": "2026-01-19T22:26:13+00:00",
+      "summary": "歌人・俵万智が語る“言葉の時代”とは？",
+      "summary_zh": "歌唱家和歌唱家的名声是什么?"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "秋田新幹線 大雪で運転見合わせ 盛岡～秋田の上下線",
+      "title_zh": "秋田信堪森先生,请检查date=中的日期值 (帮助) Akita Shinkansen 与大雪相伴出行-秋田上下行",
+      "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030481000.html",
+      "published_at": "2026-01-19T21:57:31+00:00",
+      "summary": "歌人・俵万智が語る“言葉の時代”とは？",
+      "summary_zh": "歌唱家和歌唱家的名声是什么?"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 2期目就任から1年 中間選挙に向けた攻防へ",
+      "title_zh": "特朗普总统的第二次任期为一年",
+      "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030371000.html",
+      "published_at": "2026-01-19T21:46:48+00:00",
+      "summary": "歌人・俵万智が語る“言葉の時代”とは？",
+      "summary_zh": "歌唱家和歌唱家的名声是什么?"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
-      "title_zh": "叙利亚同意库尔德人领导的部队在两周后停火",
+      "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+      "title_zh": "特朗普表示,他会\"百分之百\"执行格陵兰关税威胁,因为欧盟发誓要保护其利益.",
+      "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T21:46:09+00:00",
+      "summary": "Donald Trump has vowed to \"100%\" follow through on his threat to impose tariffs on European countries who oppose his demand to take control of Greenland.",
+      "summary_zh": "唐纳德·特朗普发誓要\"100%\"地贯彻他的威胁,对反对他控制格陵兰要求的欧洲国家征收关税."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "奈良 三宅町で住宅全焼 2人が遺体で見つかる 親子と連絡取れず",
+      "title_zh": "所有房子都在纳拉宫城烤熟",
+      "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030471000.html",
+      "published_at": "2026-01-19T21:32:06+00:00",
+      "summary": "歌人・俵万智が語る“言葉の時代”とは？",
+      "summary_zh": "歌唱家和歌唱家的名声是什么?"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“ダボス会議”開幕 トランプ氏が出席へ ウクライナ情勢進展は",
+      "title_zh": "\"达沃斯会\"开通特朗普出席乌克兰会展.",
+      "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030381000.html",
+      "published_at": "2026-01-19T21:30:41+00:00",
+      "summary": "歌人・俵万智が語る“言葉の時代”とは？",
+      "summary_zh": "歌唱家和歌唱家的名声是什么?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Spanish PM vows to find cause of deadly high-speed train crash",
+      "title_zh": "西班牙首相发誓要寻找造成高速火车坠毁的原因",
+      "link": "https://www.bbc.com/news/articles/c2d7rk0865go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T21:30:06+00:00",
+      "summary": "Spanish Prime Minister Pedro Sanchez has promised to get to the bottom of why two high-speed trains collided in southern Spain killing at least 40 people, as rescuers continue to search the wreckage.",
+      "summary_zh": "西班牙总理佩德罗·桑切斯(Pedro Sanchez)已承诺要找出两列高速列车为何在西班牙南部相撞造成至少40人死亡的原因,因为救援人员继续搜索残骸."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know about Spain's worst rail disaster in over a decade",
+      "title_zh": "关于西班牙十年来最严重的铁路灾难,我们所知的",
+      "link": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T21:00:21+00:00",
+      "summary": "At least 40 people have died and dozens more have been injured after two high-speed trains collided in southern Spain, local authorities have said.",
+      "summary_zh": "西班牙南部发生两起高速列车相撞后,当地政府表示至少有40人死亡,另有数十人受伤."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Clashes reported after Syria and Kurdish-led forces agree ceasefire",
+      "title_zh": "在叙利亚和库尔德人领导的部队同意停火后,据报发生了冲突",
       "link": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T22:25:31+00:00",
-      "summary": "The Syrian government has announced an immediate nationwide ceasefire with the Kurdish-led Syrian Democratic Forces (SDF), taking almost full control of the country, Syrian state media says.",
-      "summary_zh": "叙利亚政府宣布立即在全国与库尔德人领导的叙利亚民主力量(SDF)停火,几乎完全控制了国家,叙利亚国家媒体说."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "日銀 今週の金融政策決定会合 円安傾向踏まえ利上げペース焦点",
-      "title_zh": "纳辛 本周的金融政策决定会",
-      "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029571000.html",
-      "published_at": "2026-01-18T22:24:17+00:00",
-      "summary": "高市首相 衆議院解散きょう表明見通し 理由や選挙日程も説明へ",
-      "summary_zh": "高一总理解散众议院的前景"
+      "published_at": "2026-01-19T20:59:10+00:00",
+      "summary": "Syria's army and the Kurdish-led Syrian Democratic Forces (SDF) militia alliance have reported fresh clashes in the country's north-east, a day after a ceasefire deal brought much of the autonomous region under government control.",
+      "summary_zh": "叙利亚军队和库尔德人领导的叙利亚民主力量(SDF)民兵联盟报告说,该国东北部地区发生了新的冲突,停火协议一天后,大部分自治区被政府控制."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Five dead after high-speed trains collide in Spain",
-      "title_zh": "西班牙高速列车相撞后有5人死亡",
+      "title": "At the scene of Spain's worst rail disaster in over a decade",
+      "title_zh": "在西班牙十年来最严重的铁路灾难的现场",
+      "link": "https://www.bbc.com/news/videos/cn82xejl4e2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T20:51:27+00:00",
+      "summary": "The small town of Adamuz in Spain has become the scene of a fatal rail disaster.",
+      "summary_zh": "西班牙小镇阿达穆斯已成致命铁路灾难地段."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "柏崎刈羽原発の再稼働を延期 “警報の設定ミス” 地元に説明へ",
+      "title_zh": "推迟Kashishazaki Karugara的“警报设定错误”行动,",
+      "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030321000.html",
+      "published_at": "2026-01-19T20:30:58+00:00",
+      "summary": "歌人・俵万智が語る“言葉の時代”とは？",
+      "summary_zh": "歌唱家和歌唱家的名声是什么?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Italian fashion designer Valentino dies aged 93",
+      "title_zh": "意大利时装设计师瓦伦蒂诺逝世93岁",
+      "link": "https://www.bbc.com/news/articles/cdx4rpxxvg7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T18:00:48+00:00",
+      "summary": "Italian fashion designer Valentino Garavani, known as Valentino, has died at the age of 93.",
+      "summary_zh": "意大利时装设计师瓦伦蒂诺·加拉瓦尼(Valentino Garavani)被称作\"瓦伦蒂诺\"(Valentino),享年93岁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Europe is at a total loss': Russia gloats over Greenland tensions",
+      "title_zh": "“欧洲正在彻底损失中”:俄罗斯在格陵兰紧张局势上感到骄傲。",
+      "link": "https://www.bbc.com/news/articles/c17zpvkddpzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T16:26:34+00:00",
+      "summary": "Listen to Donald Trump and you would think Moscow and Beijing were lying in wait off the coast of Greenland, ready to pounce to boost their power in the Arctic.",
+      "summary_zh": "听唐纳德·特朗普的话 你会认为莫斯科和北京 躺在格陵兰海岸外的等待中, 准备扑出他们的力量 在北极。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ghana arrests Nigerians accused of running cyber-crime networks",
+      "title_zh": "加纳逮捕被控经营网络犯罪的尼日利亚人",
+      "link": "https://www.bbc.com/news/articles/cr4k35q6yr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T15:15:00+00:00",
+      "summary": "Ghana's security forces have arrested nine Nigerians suspected of co-ordinating a host of cyber-crime activities from makeshift offices in and around the capital, Accra.",
+      "summary_zh": "加纳安全部队逮捕了9名尼日利亚人,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lawyers for Swiss bar owners condemn 'vindictiveness' after deadly fire",
+      "title_zh": "瑞士酒吧老板的律师谴责在起死回生后“胜诉”",
+      "link": "https://www.bbc.com/news/articles/c5yvl4x3nqeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T14:53:42+00:00",
+      "summary": "The lawyers of the owners of a Swiss bar where a deadly fire broke out on New Year's Eve killing 40 people and injuring 116 have broken their silence to criticise \"lies\" about their clients.",
+      "summary_zh": "一家瑞士酒吧的老板律师在除夕夜爆发了一场致命的火灾,造成40人死亡,116人受伤,他们打破了沉默来批评他们的客户."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South African team helps search for politician swept away by Mozambique floodwaters",
+      "title_zh": "南非队帮助寻找被莫桑比克洪水所淹没的政治家",
+      "link": "https://www.bbc.com/news/articles/c62nen4n971o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T14:22:15+00:00",
+      "summary": "South Africa has sent a team to help with rescue efforts after a local politician was swept away by floodwaters while visiting neighbouring Mozambique.",
+      "summary_zh": "南非在一名当地政治家访问邻国莫桑比克时被洪水冲走后,派出了一个小组协助救援工作。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thirteen schoolchildren killed after bus collides with lorry in South Africa",
+      "title_zh": "13名学童在南非与卡车相撞后被炸死",
+      "link": "https://www.bbc.com/news/articles/cvgdmkxl1mko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T13:13:36+00:00",
+      "summary": "Thirteen school pupils have died in South Africa after the minibus they were travelling in collided with a lorry south of the city of Johannesburg.",
+      "summary_zh": "南非有13名学生因乘坐小巴与约翰内斯堡市以南一卡车相撞而死亡。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What tariffs has Trump announced and why?",
+      "title_zh": "特朗普宣布了什么关税以及为什么?",
+      "link": "https://www.bbc.com/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T12:05:16+00:00",
+      "summary": "US President Donald Trump has threatened to impose fresh tariffs on eight allies that oppose his demands for control of Greenland.",
+      "summary_zh": "美国总统唐纳德·特朗普已威胁对反对他控制格陵兰要求的8个盟国征收新关税."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japan PM Takaichi calls snap election three months after taking office",
+      "title_zh": "日本 PM 高一在上任三个月后就宣布当选",
+      "link": "https://www.bbc.com/news/articles/c1dk0x0v6pdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T12:00:48+00:00",
+      "summary": "Japan's Prime Minister Sanae Takaichi will dissolve parliament on Friday, paving the way for an early election on 8 February that she hopes will translate her strong public polling into a big majority in the lower house.",
+      "summary_zh": "日本首相高一之子(Sanae Taka一)将在星期五解散议会, 为2月8日提前举行选举铺平了道路,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Spain train crash survivors describe 'absolutely terrifying' scene",
+      "title_zh": "观察:西班牙火车相撞幸存者描述出\"绝对恐怖\"的场景",
+      "link": "https://www.bbc.com/news/videos/c23r1rx5vp7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T11:59:23+00:00",
+      "summary": "Passengers caught up in a deadly train crash in Adamuz have described the moment a Madrid-bound train derailed and crossed over to neighbouring tracks, colliding with an oncoming train.",
+      "summary_zh": "乘客们在阿达穆兹遭遇致命的火车相撞事件,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Factory explosion in China kills four, injures 84",
+      "title_zh": "中国工厂爆炸造成4人死亡,84人受伤",
+      "link": "https://www.bbc.com/news/articles/c5y2pg28lgjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T11:45:20+00:00",
+      "summary": "A huge explosion at a factory in northern China has killed four people and injured 84 others, with six people still missing, state media reported.",
+      "summary_zh": "中国北部一工厂发生大爆炸已造成4人死亡,84人受伤,仍有6人失踪,国家媒体报道."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ecstasy and now a day off - Senegal fans around the world celebrate Afcon win",
+      "title_zh": "迷幻药,现在放假一天 塞内加尔球迷庆祝阿孔获胜",
+      "link": "https://www.bbc.com/news/articles/ce3ekz4yx21o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T11:41:57+00:00",
+      "summary": "Senegal's President Bassirou Diomaye Faye has declared Monday a public holiday after the national team won the Africa Cup of Nations after beating tournament hosts Morocco 1-0 in a dramatic final on Sunday.",
+      "summary_zh": "塞内加尔总统Bassirou Diomaye Faye宣布星期一为公共假日,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "IMF warns of trade tension risk to global growth",
+      "title_zh": "基金组织警告贸易紧张对全球增长的风险",
+      "link": "https://www.bbc.com/news/articles/c0r47ey0d1vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T11:04:56+00:00",
+      "summary": "Trade tensions and a reversal in the artificial intelligence (AI) boom are among the main risks to global economic growth, the International Monetary Fund (IMF) has warned.",
+      "summary_zh": "国际货币基金组织警告说,贸易紧张和人工智能繁荣的逆转是对全球经济增长的主要风险。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
+      "title_zh": "\"令人痛心\"和\"可怕的外表\"——破坏塞内加尔阿孔胜利的混乱",
+      "link": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T10:46:50+00:00",
+      "summary": "Senegal beat Morocco to win the Africa Cup of Nations for a second time - but only after the final was overshadowed when they temporarily refused to play after the hosts were awarded a stoppage-time penalty with the match goalless.",
+      "summary_zh": "塞内加尔再次击败摩洛哥夺得非洲国家杯冠军——但直到决赛被蒙上阴影后,在东道主被授予与无入门比赛的停赛罚后暂时拒绝出场."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'The finest in the world': Why the US is buying icebreakers from Finland",
+      "title_zh": "\"世界上最好的\": 为什么美国从芬兰买破冰机?",
+      "link": "https://www.bbc.com/news/articles/c0q48d71ke8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T10:26:30+00:00",
+      "summary": "As President Donald Trump continues to insist that the US needs to own Greenland, his wider focus on the Arctic region has seen Washington order new icebreakers.",
+      "summary_zh": "随着唐纳德·特朗普总统继续坚持美国需要拥有格陵兰,他更加广泛地关注北极地区,华盛顿下令新破冰."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man seriously injured in Sydney's third shark attack in two days",
+      "title_zh": "两天后悉尼第三次鲨鱼袭击 造成重伤",
+      "link": "https://www.bbc.com/news/articles/c8013p5v2yvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T09:38:09+00:00",
+      "summary": "Three shark attacks have been reported in Sydney in a little over 24 hours, leaving at least two people seriously injured, according to local authorities.",
+      "summary_zh": "据地方当局称,悉尼有三起鲨鱼袭击事件在24个多小时后发生,造成至少两人受重伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "High-speed train crash in Spain kills at least 39",
+      "title_zh": "西班牙高速列车相撞造成至少39人死亡",
       "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T22:03:41+00:00",
-      "summary": "At least five people have been killed and dozens more injured after two high-speed trains derailed following a collision in southern Spain on Sunday evening.",
-      "summary_zh": "周日晚间西班牙南部发生相撞后有两列高速列车出轨,造成至少5人死亡,多数十人受伤."
+      "published_at": "2026-01-19T08:20:42+00:00",
+      "summary": "At least 39 people have died in a train collision in southern Spain and dozens more have been injured in the country's worst rail crash in more than a decade, Spain's Civil Guard has said.",
+      "summary_zh": "西班牙南部火车相撞事故已造成至少39人死亡,西班牙\"国民警卫队\"说,该国十多年来最严重的铁路相撞事故又造成数十人受伤."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "【100社アンケート】ことしの景気見通し「緩やかに改善」約7割",
-      "title_zh": "[100个公司调查] =======",
-      "link": "http://www3.nhk.or.jp/news/html/20260119/k10015028241000.html",
-      "published_at": "2026-01-18T21:40:26+00:00",
-      "summary": "【100社アンケート】日中ビジネス見通し「厳しい」半数近く",
-      "summary_zh": "[100家公司调查] 日本和中国将近一半的商业预测"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
+      "title_zh": "丹麦首相在特朗普格陵兰威胁后,",
+      "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T07:15:40+00:00",
+      "summary": "Denmark's Prime Minister Mette Frederiksen has said \"Europe won't be blackmailed\" by Donald Trump's tariff threats over Greenland.",
+      "summary_zh": "丹麦总理梅特·弗雷德里克森曾表示\"欧洲不会被讹诈\"由唐纳德·特朗普对格陵兰的关税威胁."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "21日から強い冬型の気圧配置 北～西日本の日本海側 大雪見込み",
-      "title_zh": "北至西日本海滨大雪 严寒气压布局",
-      "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029771000.html",
-      "published_at": "2026-01-18T21:24:51+00:00",
-      "summary": "大雪対策「車に乗る時」タイヤ確認や給油の方法",
-      "summary_zh": "开车时如何检查轮胎和润滑剂"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China's birth rate hits record low as population continues to shrink",
+      "title_zh": "随着人口持续收缩,中国的出生率创下低纪录",
+      "link": "https://www.bbc.com/news/articles/c79r7v7qr53o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T07:12:01+00:00",
+      "summary": "China's birth rates sunk to a record low in 2025, despite the government rolling out a spate of incentives to boost it, as the country's population fell for the fourth straight year.",
+      "summary_zh": "中国的出生率在2025年下降到了创纪录的低点,尽管政府推出一连串的刺激措施来推动,随着全国人口连续四年下降."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US believes its power matters more than international law, UN chief tells BBC",
+      "title_zh": "美国认为它的权力比国际法更重要,",
+      "link": "https://www.bbc.com/news/articles/c4g0zx0llpzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T06:17:06+00:00",
+      "summary": "The US is acting with impunity and believes its power matters more than international law, the head of the UN has told the BBC.",
+      "summary_zh": "美国却逍遥法外,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Footage inside Spanish train as passengers evacuate from crash",
+      "title_zh": "当乘客从坠机中撤离时,",
+      "link": "https://www.bbc.com/news/videos/c8e5y604x5go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T04:53:53+00:00",
+      "summary": "A video filmed after a deadly crash involving high-speed trains in southern Spain, shows emergency workers at the scene and a passenger climbing out of a tilted carriage.",
+      "summary_zh": "在西班牙南部高速列车发生致命相撞后拍摄的一则视频显示现场有紧急救援人员并有乘客从倾斜的马车上爬出."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Chile declares 'state of catastrophe' as wildfires leave at least 18 dead",
+      "title_zh": "智利宣布「灾难状态」,",
+      "link": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T03:30:31+00:00",
+      "summary": "Chilean President Gabriel Boric has declared a state of catastrophe in two regions where deadly wildfires have left at least 18 people dead.",
+      "summary_zh": "智利总统加布里埃尔·博里奇宣布两个地区处于灾难状态,致命野火已造成至少18人死亡。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "My children were recruited in a trafficking scam. I joined a police hunt to find them",
+      "title_zh": "我的孩子是被贩卖骗来的 我参加警察追捕是为了找到他们",
+      "link": "https://www.bbc.com/news/articles/cx2w9q28xjxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-19T01:12:12+00:00",
+      "summary": "Foday Musa looked broken as he listened to the last voice message he received from his son.",
+      "summary_zh": "福迪·穆萨在听儿子最后发来的声音时看起来很破碎."
     },
     {
       "source": "BBC News",
@@ -82,86 +352,6 @@
       "published_at": "2026-01-18T21:05:32+00:00",
       "summary": "It's not yet a full year since European leaders buckled up for President Trump's second term, and now this rollercoaster ride feels it has reached its most dangerous turn yet.",
       "summary_zh": "欧洲领导人为特朗普总统的第二个任期扣下安全带还不到一整年,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大学入学共通テスト 7人がスマホ使用などの不正行為で無効に",
-      "title_zh": "7人因智能手机使用等欺诈而致残",
-      "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029621000.html",
-      "published_at": "2026-01-18T20:40:30+00:00",
-      "summary": "高市首相 衆議院解散きょう表明見通し 理由や選挙日程も説明へ",
-      "summary_zh": "高一总理解散众议院的前景"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
-      "title_zh": "大约1500名美国士兵待命 准备部署到明尼阿波利斯,官员们说",
-      "link": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T20:30:16+00:00",
-      "summary": "Soldiers are on standby for possible deployment to Minneapolis, a US defence official has told CBS News, the BBC's US partner.",
-      "summary_zh": "美国国防官员告诉了英国广播公司的美国合作伙伴CBS News。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-      "title_zh": "丹麦首相在特朗普格陵兰威胁后,",
-      "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T20:29:08+00:00",
-      "summary": "Denmark's Prime Minister Mette Frederiksen says \"Europe won't be blackmailed\", as she and other European leaders continue to weigh their response to US President Donald Trump's tariff threats over Greenland.",
-      "summary_zh": "丹麦总理梅特·弗雷德里克森表示\"欧洲不会被讹诈\",因为她和其他欧洲领导人继续权衡他们对美国总统唐纳德·特朗普对格陵兰的关税威胁的反应."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "高市首相 衆議院解散きょう表明見通し 理由や選挙日程も説明へ",
-      "title_zh": "高一总理解散众议院的前景",
-      "link": "http://www3.nhk.or.jp/news/html/20260119/k10015029631000.html",
-      "published_at": "2026-01-18T20:14:32+00:00",
-      "summary": "【100社アンケート】日中ビジネス見通し「厳しい」半数近く",
-      "summary_zh": "[100家公司调查] 日本和中国将近一半的商业预测"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
-      "title_zh": "以色列推回了特朗普对加沙\"和平之旅\"高管的选择.",
-      "link": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T17:30:24+00:00",
-      "summary": "Israel's leader Benjamin Netanyahu has convened a meeting with his top advisers to discuss US President Donald Trump's \"Board of Peace\" for Gaza, after Israel said it was not included in talks about the makeup of one of the board's lower bodies.",
-      "summary_zh": "以色列领导人本雅明·内塔尼亚胡(Benjamin Nativa)与他的最高顾问召开会议,讨论美国总统唐纳德·特朗普为加沙所写的\"和平之旅\",此前以色列表示此事没有包括在关于董事会下层机构之一的化妆的会谈中."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Chile declares 'state of catastrophe' as deadly wildfires menace cities",
-      "title_zh": "智利宣布“灾难状态”为致命野火,",
-      "link": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T16:39:49+00:00",
-      "summary": "Chilean President Gabriel Boric has declared a state of catastrophe in two regions where deadly wildfires are raging.",
-      "summary_zh": "智利总统加布里埃尔·博里奇宣布,致命野火肆虐的两个地区处于灾难状态。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Six killed in Pakistan shopping mall fire",
-      "title_zh": "巴基斯坦购物中心起火造成六人死亡",
-      "link": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T15:00:12+00:00",
-      "summary": "A fire at a shopping centre in the Pakistan city of Karachi has killed six people as firefighters continue to battle the blaze.",
-      "summary_zh": "巴基斯坦卡拉奇市一家购物中心起火,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Avalanches kill eight skiers in Austrian Alps",
-      "title_zh": "奥地利阿尔卑斯山有八名滑雪运动员被雪崩",
-      "link": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T14:31:57+00:00",
-      "summary": "Eight people were killed in a series of avalanches in the Austrian Alps on Saturday, following heavy snowfall and dangerous conditions in the region.",
-      "summary_zh": "周六在奥地利阿尔卑斯山一连串雪崩中有8人丧生,此前该地区降下大雪并面临危险条件."
     },
     {
       "source": "BBC News",
@@ -182,206 +372,6 @@
       "published_at": "2026-01-18T06:41:26+00:00",
       "summary": "An Australian man took a dive into a flooded golf course on Sydney's northern beaches as heavy rains and thunderstorms lashed coastal communities.",
       "summary_zh": "一名澳大利亚男子潜入悉尼北部海滩上被淹的高尔夫球场,因为暴雨和雷暴席卷了沿海社区."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Faisal Islam: Trump's Greenland threats to allies are without parallel",
-      "title_zh": "费萨尔·伊斯兰:特朗普对盟友的格陵兰威胁是没有平行性的",
-      "link": "https://www.bbc.com/news/articles/cx2gjdx241wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T06:38:17+00:00",
-      "summary": "US President Donald Trump's apparently coercive threat to force Western allies not to oppose his proposed annexation of Greenland, or face further damage to their trade with the US, is without both parallel and precedent.",
-      "summary_zh": "美国总统唐纳德·特朗普显然胁迫性地威胁要迫使西方盟国不要反对他提出的兼并格陵兰,或者面临他们与美国贸易的进一步损害,这是没有平行和先例的."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Timelapse shows Nasa rocket's 12-hour journey to launch pad",
-      "title_zh": "观察:时间拉平显示Nasa火箭12小时出行至发射台",
-      "link": "https://www.bbc.com/news/videos/cwy8l21312do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T02:14:53+00:00",
-      "summary": "The gigantic Space Launch System (SLS) Moon rocket and Orion Space Capsule was moved from Nasa's Kennedy Space Center in Florida to a launch pad around four miles (6.4km) away.",
-      "summary_zh": "巨型空间发射系统(SLS)月球火箭和猎户座空间卡普勒从佛罗里达州的纳萨肯尼迪航天中心搬到了4英里(6.4公里)外的发射台."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission",
-      "title_zh": "纳萨的巨型月球火箭抵达了阿耳忒弥斯二号任务的发射台",
-      "link": "https://www.bbc.com/news/articles/cly148lvyevo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T01:22:46+00:00",
-      "summary": "Nasa's mega rocket has been moved to the launch pad in Cape Canaveral, Florida, as the final preparations get underway for the first crewed mission to the Moon in more than 50 years.",
-      "summary_zh": "纳萨的巨型火箭被移到佛罗里达州卡纳维拉尔角的发射台上,因为50多年以来第一次前往月球的乘员任务的最后准备工作正在进行."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I want to show the world what Africa is': YouTube star brings joy and tears on tour",
-      "title_zh": "\"我想向世界展示非洲是什么\":YouTube明星在巡演中带来欢乐和泪水",
-      "link": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T00:21:02+00:00",
-      "summary": "One of the world's most popular content creators has been attracting huge crowds, mostly his young fans, as he undertakes a 20-nation tour of Africa, a continent he says is \"full of surprises\".",
-      "summary_zh": "世界上最受欢迎的内容创作者之一一直吸引了巨大的人群,大多是他的年轻粉丝,当他进行20国之旅非洲时,他说这个大陆\"充满了惊喜\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Gangland killing at a funeral shocks idyllic French island",
-      "title_zh": "甘地在丧事中杀人 法兰西岛",
-      "link": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T00:08:38+00:00",
-      "summary": "The mourners had gathered in the small village of Vero, a half-hour drive from Ajaccio, the capital of the picture-postcard Mediterranean island of Corsica.",
-      "summary_zh": "哀悼者聚集在小村庄维罗(Vero),一个半小时从阿贾克西奥开来的车程,这是科西嘉岛的图片邮报地中海岛的首府."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A deadly fire swept through a nightclub in just 90 seconds. I got out",
-      "title_zh": "一场致命的火灾在90秒内横扫了一家夜总会. 我出来了",
-      "link": "https://www.bbc.com/news/articles/czejykzg77po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T00:08:10+00:00",
-      "summary": "Warning: This article contains themes you may find upsetting",
-      "summary_zh": "警告: 此文章包含您可能发现令人不快的主题"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "From surge in patriotism to fewer US trips - Trump's impact on Canada",
-      "title_zh": "从爱国主义的激增到美国旅行的减少——特朗普对加拿大的影响",
-      "link": "https://www.bbc.com/news/articles/crmlvym2e3eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-18T00:07:52+00:00",
-      "summary": "In the year since US President Donald Trump was inaugurated for his second term, he has brought with him significant global shifts.",
-      "summary_zh": "在美国总统唐纳德·特朗普第二次就职后的一年里,他带来了重大的全球转变."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Young 40s': Gen Z has found a new way to mock millennials for their style in South Korea",
-      "title_zh": "\"青春40\":源子找到新方式去嘲弄韩国的\"千年\"作风.",
-      "link": "https://www.bbc.com/news/articles/c78vw30p1d2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T23:08:39+00:00",
-      "summary": "Ji Seung-ryeol, 41, prides himself on his sense of fashion.",
-      "summary_zh": "姬承烈,41岁,以时尚感为荣."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran supreme leader acknowledges thousands killed during recent protests",
-      "title_zh": "伊朗最高领导人承认,在最近的抗议中,数千人被杀害。",
-      "link": "https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T20:14:57+00:00",
-      "summary": "Iran's supreme leader has for the first time publicly acknowledged that thousands of people were killed during recent protests.",
-      "summary_zh": "伊朗最高领导人首次公开承认有上千人在最近的抗议中丧生."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What a seventh term for 81-year-old leader means for Uganda",
-      "title_zh": "81岁领导人的第七个任期对乌干达意味着什么?",
-      "link": "https://www.bbc.com/news/articles/cx20qj1pwrwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T19:55:16+00:00",
-      "summary": "For supporters of Uganda's President Yoweri Museveni, his resounding victory in the just-concluded election is a vindication of his 40-year-long rule.",
-      "summary_zh": "对于乌干达总统约韦里·穆塞韦尼的支持者来说,他在刚刚结束的选举中的彻底胜利证明了他长达40年的统治。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Who is on Trump's 'Board of Peace' overseeing Gaza's reconstruction?",
-      "title_zh": "谁在特朗普的\"和平指挥\"监督加沙的重建?",
-      "link": "https://www.bbc.com/news/articles/c9vx7kn33elo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T17:49:03+00:00",
-      "summary": "The White House has released the names of the members who will be part of the senior executive working with his new \"Board of Peace\" for Gaza.",
-      "summary_zh": "白宫公布将加入高级行政人员行列的成员名单,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ugandan leader extends 40-year rule after winning contested poll",
-      "title_zh": "乌干达领导人在赢得有争议的民意测验后延长了40年的统治期",
-      "link": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T17:43:37+00:00",
-      "summary": "Ugandan President Yoweri Museveni has been declared the winner of Thursday's election extending his four decades in power by another five years.",
-      "summary_zh": "乌干达总统约韦里·穆塞韦尼被宣布为星期四选举的获胜者,他的任期又延长了五年。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Big names on Trump's peace panel face huge challenges in Gaza",
-      "title_zh": "特朗普和平小组的大人物在加沙面临巨大挑战",
-      "link": "https://www.bbc.com/news/articles/c07xvv9r422o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T14:31:00+00:00",
-      "summary": "The White House has announced the first members of its Gaza \"Board of Peace\", and the list of names will do little to dispel the criticism from some quarters that the US president's plan resembles, at its heart, a colonial solution imposed over the heads of the Palestinians.",
-      "summary_zh": "白宫已宣布其加沙首批成员为\"和平理事会\", 名单对消除某些人士的批评作用不大,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Japanese mayor apologises after calling staff 'human scum'",
-      "title_zh": "日本市长在称工作人员为\"人渣\"后道歉",
-      "link": "https://www.bbc.com/news/articles/czejwl2z80lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T08:08:26+00:00",
-      "summary": "The mayor of Yokohama has apologised for insulting colleagues after an official publicly accused him of making offensive remarks.",
-      "summary_zh": "横滨市长在一名官员公开指责他发表冒犯性言论后,对侮辱同事的行为表示道歉."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A faceless hacker stole my therapy notes – now my deepest secrets are online forever",
-      "title_zh": "一个没脸的黑客偷走了我的治疗笔记,",
-      "link": "https://www.bbc.com/news/articles/c62nzxqw45eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T02:15:51+00:00",
-      "summary": "As soon as Meri-Tuuli Auer saw the subject line in her junk folder, she knew it was no ordinary spam email. It contained her full name and her social security number - the unique code Finnish people use to access public services and banking.",
-      "summary_zh": "当Meri-Tuuli Auer在她的垃圾文件夹中看到主题行时,她就知道这不是普通的垃圾邮件. 里面有她的全名和她的社会保障号码——芬兰人使用的独特代码来获取公共服务和银行业务."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
-      "title_zh": "研究驳斥特朗普自闭症的说法,",
-      "link": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-17T00:13:47+00:00",
-      "summary": "Taking paracetamol while pregnant is safe and there's no evidence it raises the risk of autism, ADHD and developmental issues in children, say experts behind a major new review.",
-      "summary_zh": "在怀孕安全的情况下服用镇静镇静剂,没有证据表明它会引起儿童患自闭症、ADHD和发育问题的风险。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Anger and frustration': BBC reports from Iranian-Armenian border",
-      "title_zh": "“愤怒与挫折”:BBC伊朗-亚美尼亚边境报导",
-      "link": "https://www.bbc.com/news/videos/cq84exgwvw2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T22:03:04+00:00",
-      "summary": "For over two weeks, demonstrations rocked Iran and, according to a human rights group, more than 2,600 protesters have been killed.",
-      "summary_zh": "两周多来,示威活动震撼了伊朗,据一个人权团体称,2600多名抗议者被炸死."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is there so much international interest in Greenland?",
-      "title_zh": "为什么国际上对格陵兰如此感兴趣?",
-      "link": "https://www.bbc.com/news/videos/cd9ey81441jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T21:28:27+00:00",
-      "summary": "Greenland, a sparsely populated but resource-rich island, is at the heart of a growing diplomatic dispute between Denmark and the US - but why?",
-      "summary_zh": "格陵兰是一个人口稀少但资源丰富的岛屿,是丹麦和美国之间日益严重的外交争端的核心,但为什么?"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Canada's deal with China signals it is serious about shift from US",
-      "title_zh": "加拿大对中国的处理 表明它很重视从美国转移",
-      "link": "https://www.bbc.com/news/articles/cm24k6kk1rko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T21:21:47+00:00",
-      "summary": "Prime Minister Mark Carney's new approach to Canada's foreign policy can perhaps be distilled in one line: \"We take the world as it is, not as we wish it to be.\"",
-      "summary_zh": "马克·卡尼总理对加拿大外交政策的新方针也许可以被提炼成一行:\"我们把世界看成现实,而不是我们希望的世界\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Who is Reza Pahlavi, the son of Iran's last shah?",
-      "title_zh": "谁是雷扎·帕哈拉维,伊朗上个沙赫之子?",
-      "link": "https://www.bbc.com/news/videos/cd6wndx24ldo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-16T14:21:29+00:00",
-      "summary": "65-year-old Reza Pahlavi, the exiled son of Iran's last shah has been a prominent voice calling for protests to continue in the country.",
-      "summary_zh": "伊朗上个沙赫被放逐之子、65岁的雷扎·帕哈拉维,"
     }
   ]
 }
