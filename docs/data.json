@@ -1,167 +1,267 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-23T22:36:06+00:00",
-  "count": 39,
+  "generated_at": "2026-01-24T22:35:41+00:00",
+  "count": 32,
   "items": [
     {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Alleged drug kingpin and ex-Olympian Ryan Wedding arrested after years on the run",
-      "title_zh": "据称毒品王和前奥林匹亚人Ryan Wedding在逃亡多年后被捕",
-      "link": "https://www.bbc.com/news/articles/cj0nd8z1z59o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T22:24:59+00:00",
-      "summary": "Former Canadian Olympic snowboarder and alleged drug kingpin Ryan Wedding has been arrested in Mexico and will be extradited to the US after years on the run, FBI Director Kash Patel has said.",
-      "summary_zh": "前加拿大奥运会滑雪选手和涉嫌毒品王牌Ryan Wedding在墨西哥被捕 多年逃亡后将被引渡到美国 联邦调查局局长Kash Patel表示."
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ氏“カナダが中国と貿易協議合意なら100％関税課す”",
+      "title_zh": "特朗普“如果加拿大同意与中国进行贸易协商,",
+      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035071000.html",
+      "published_at": "2026-01-24T22:28:04+00:00",
+      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
+      "summary_zh": "BAN NAMCO 娱乐"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "大雪 25日にかけ再びピークに 広い範囲で降り方強まる見込み",
-      "title_zh": "大顺 预计25日再次下山登顶.",
-      "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034491000.html",
-      "published_at": "2026-01-23T22:14:31+00:00",
+      "title": "【大雪交通影響】東海道新幹線に遅れ 高速道路 各地で通行止め",
+      "title_zh": "[大雪流量的影响] 拖住托凯多·欣坎森高速公路",
+      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015034441000.html",
+      "published_at": "2026-01-24T22:21:22+00:00",
       "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "潘南康娱乐"
+      "summary_zh": "BAN NAMCO 娱乐"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ウクライナ ロシア アメリカ 和平案めぐる3者協議 24日も継続",
-      "title_zh": "乌克兰 俄罗斯 美国",
-      "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034561000.html",
-      "published_at": "2026-01-23T21:59:30+00:00",
+      "title": "【動画】気象予報士解説 今後の見通しは(25日7時)",
+      "title_zh": "[视频]气象预报员评论",
+      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035081000.html",
+      "published_at": "2026-01-24T22:16:09+00:00",
       "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "潘南康娱乐"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NY市場 急激に円高進む 一時1ドル＝155円台半ばまで値上がり",
-      "title_zh": "纽约市场快速收益通告1美元=155日元",
-      "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034601000.html",
-      "published_at": "2026-01-23T21:53:08+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "潘南康娱乐"
+      "summary_zh": "BAN NAMCO 娱乐"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Harry says sacrifices by Nato troops in Afghanistan deserve 'respect'",
-      "title_zh": "哈里说纳托在阿富汗的牺牲值得尊敬",
-      "link": "https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T21:50:47+00:00",
-      "summary": "The Duke of Sussex has called for the sacrifices of Nato troops to be \"spoken about truthfully and with respect\", after the US president claimed allies stayed \"a little back\" from the front lines in Afghanistan.",
-      "summary_zh": "萨塞克斯公爵呼吁纳托部队的牺牲要\"诚实而尊重地说\",因为美国总统声称盟友从阿富汗前线\"稍退一步\"."
+      "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
+      "title_zh": "特朗普威胁加拿大 100%的关税 如果它\"与中国达成协议\"",
+      "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T22:10:33+00:00",
+      "summary": "US President Donald Trump has threatened to slap a 100% tariff on Canadian goods if the country strikes a trade deal with China.",
+      "summary_zh": "美国总统唐纳德·特朗普威胁说,如果该国与中国达成贸易协议,就要对加拿大货物征收100%的关税."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "石川県と鳥取県に顕著な大雪に関する情報 交通影響に厳重警戒",
+      "title_zh": "石川和丰通县突出重雪资料",
+      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035001000.html",
+      "published_at": "2026-01-24T22:09:37+00:00",
+      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
+      "summary_zh": "BAN NAMCO 娱乐"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中国軍 制服組トップら高官2人調査 重大な規律違反などの疑い",
+      "title_zh": "中国军服上等兵服.",
+      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035031000.html",
+      "published_at": "2026-01-24T21:15:22+00:00",
+      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
+      "summary_zh": "BAN NAMCO 娱乐"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東大大学院教授収賄疑い 法人側 接待の場で教授に研究の要望か",
+      "title_zh": "师曰. 托代大学经济研究生院",
+      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015034981000.html",
+      "published_at": "2026-01-24T21:01:48+00:00",
+      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
+      "summary_zh": "BAN NAMCO 娱乐"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "High stakes but low expectations for Ukraine talks with Russia and US",
-      "title_zh": "乌克兰与俄罗斯和美国谈判的利害攸关但期望低",
-      "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T21:33:55+00:00",
-      "summary": "Negotiators from Russia, Ukraine and the US have been meeting in Abu Dhabi for their first trilateral talks since Russia's full-scale invasion of Ukraine in 2022.",
-      "summary_zh": "来自俄罗斯,乌克兰和美国的谈判者在阿布扎比会晤,进行自2022年俄罗斯全面入侵乌克兰以来的第一次三边会谈."
+      "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
+      "title_zh": "特朗普说在阿富汗的英国士兵 是所有勇士中最伟大的",
+      "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T20:48:34+00:00",
+      "summary": "Donald Trump has praised UK soldiers who fought in Afghanistan after his claim that allied forces avoided the front lines prompted criticism from veterans and politicians.",
+      "summary_zh": "唐纳德·特朗普(英语:Donald Trump)称赞了英国士兵在阿富汗作战,因为他声称盟军避开了前线,引起了退伍军人和政治家的批评."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "プルデンシャル生命31億円不適切受領 報酬制度背景か 新制度へ",
-      "title_zh": "审慎生活 310亿日元 不当收款薪酬系统 背景或新系统",
-      "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034481000.html",
-      "published_at": "2026-01-23T21:31:53+00:00",
+      "title": "新潟 田上町 軽乗用車が線路内を走行 電車が追突 雪の影響か",
+      "title_zh": "在铁路上运行的轻快车",
+      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035041000.html",
+      "published_at": "2026-01-24T20:43:29+00:00",
       "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "潘南康娱乐"
+      "summary_zh": "BAN NAMCO 娱乐"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "衆議院解散 事実上の選挙戦に 27日公示 激しい論戦展開へ",
-      "title_zh": "解散众议院 事实上,选举战争 27天的激烈战争发展",
-      "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034461000.html",
-      "published_at": "2026-01-23T21:14:35+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "潘南康娱乐"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Germany arrests suspected Hamas member over alleged attack plot",
+      "title_zh": "德国因涉嫌攻击阴谋逮捕哈马斯成员",
+      "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T18:57:09+00:00",
+      "summary": "German police have arrested a Lebanese national on suspicion of being a member of Hamas and planning attacks in Europe.",
+      "summary_zh": "德国警方以涉嫌为哈马斯成员并计划在欧洲进行袭击而逮捕了一名黎巴嫩国民."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Snow ploughs battle blizzards on roads and runways in Oklahoma",
+      "title_zh": "俄克拉何马州道路和跑道上暴风雪",
+      "link": "https://www.bbc.com/news/videos/cvgj13e5ddlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T17:52:07+00:00",
+      "summary": "A severe winter storm that could affect more than 200 million Americans has brought heavy snow, and freezing temperatures.",
+      "summary_zh": "一场可能影响到2亿多美国人的严冬风暴带来了大雪和冰冻的温度."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
+      "title_zh": "随着俄罗斯继续进攻乌克兰,两天的和谈结束",
+      "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T16:56:55+00:00",
+      "summary": "The first three-way talks between Russia, Ukraine and the US have ended with no apparent breakthrough, following renewed Russian bombardment of Ukrainian targets.",
+      "summary_zh": "在俄罗斯再次轰炸乌克兰目标后,俄罗斯、乌克兰和美国之间的第一次三方会谈没有取得明显突破。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Climber delays rope-free skyscraper challenge over rain",
+      "title_zh": "攀登者在雨后拖延无绳摩天大楼的挑战",
+      "link": "https://www.bbc.com/news/articles/c8rm135lnneo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T15:39:05+00:00",
+      "summary": "An American climber has postponed scaling the Taipei 101, one of the world's tallest buildings, rope-free for another 24 hours due to wet weather.",
+      "summary_zh": "一名美国登山者将\"台北101\"号的缩放推迟了24小时,而\"台北101\"号是世界上最高的建筑之一,由于湿润的天气,又无绳可接."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China places highest-ranking general under investigation",
+      "title_zh": "中国将最高将军置于调查之下",
+      "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T14:14:44+00:00",
+      "summary": "China's defence ministry says it has opened an investigation into the country's highest-ranking general over \"grave violations of discipline and the law\".",
+      "summary_zh": "中国国防部称已就\"严重违纪违法\"对国家最高将领展开调查."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Soviet urban planning is helping Russia freeze Ukraine",
+      "title_zh": "苏联城市规划如何帮助俄罗斯冻结乌克兰",
+      "link": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T13:56:13+00:00",
+      "summary": "Ukraine is now living through its most difficult winter in recent memory.",
+      "summary_zh": "乌克兰目前正在经历最近记忆中最困难的冬季。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
+      "title_zh": "五角大楼在国防战略转变中 向美国盟友提供\"更有限的\"支持",
+      "link": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T07:57:00+00:00",
+      "summary": "The US will offer \"more limited\" support to allies, according to the Pentagon's new National Defense Strategy.",
+      "summary_zh": "根据五角大楼新的国防战略,美国将向盟国提供\"更有限的\"支持."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New Zealand calls off rescue efforts for six missing after landslide",
+      "title_zh": "新西兰呼吁停止救援六起山体滑坡后失踪事件",
+      "link": "https://www.bbc.com/news/articles/c050vnl7p10o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T06:34:24+00:00",
+      "summary": "Rescue efforts for six missing people buried by a landslide in New Zealand on Thursday have been called off, with efforts now moving to recovering bodies, police have said.",
+      "summary_zh": "警方表示,已经取消了对星期四在新西兰被山体滑坡所掩埋的6名失踪人员的救援工作,现在正在努力寻找尸体。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Indonesia landslide kills seven, dozens missing",
+      "title_zh": "印度尼西亚山体滑坡造成7人丧生,数十人失踪",
+      "link": "https://www.bbc.com/news/articles/c87r53y4dx0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T06:02:41+00:00",
+      "summary": "At least seven people have died and more than 80 others are missing after a landslide hit Indonesia's West Java province, officials said.",
+      "summary_zh": "印尼西爪哇省发生山体滑坡后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four attacks in 48 hours: How east Australia's beaches became a 'perfect storm' for sharks",
+      "title_zh": "东澳大利亚海滩如何成为鲨鱼的“完美风暴”,",
+      "link": "https://www.bbc.com/news/articles/c0err023g5lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T05:11:18+00:00",
+      "summary": "It's \"extraordinary\", says shark researcher Chris Pepin-Neff: four shark bites within 48 hours , and three of them within a 15km (9-mile) stretch of Australia's east coast.",
+      "summary_zh": "鲨鱼研究者克丽斯·佩平-内夫(Chris Pepin-Neff)说,这是\"超常\":48小时内有4个鲨鱼被咬,其中3个在澳大利亚东海岸15公里(9英里)长的地段以内."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Boy, 12, dies from injuries after Sydney shark attack",
+      "title_zh": "12岁男孩在悉尼鲨鱼袭击后被伤致死",
+      "link": "https://www.bbc.com/news/articles/c2k98ql703no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T05:10:24+00:00",
+      "summary": "A young boy who was bitten by a shark in Sydney Harbour last week has died in hospital.",
+      "summary_zh": "上星期在悉尼港被鲨鱼咬的男孩 死于医院"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Danish PM in Greenland for 'show of support' after Trump threats",
-      "title_zh": "在特朗普威胁后,丹麦首相在格陵兰「支持」",
+      "title_zh": "丹麦首相在特朗普威胁后,",
       "link": "https://www.bbc.com/news/articles/c78ejd0xmp0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T19:25:27+00:00",
+      "published_at": "2026-01-24T03:52:40+00:00",
       "summary": "Danish PM Mette Frederiksen is visiting Greenland's capital Nuuk for talks with the territory's leader, Jens-Frederik Nielsen, after a rollercoaster week that saw US President Donald Trump roll back his threats to forcibly take over the Arctic island and agree to further negotiations.",
-      "summary_zh": "丹麦首相梅特·弗雷德里克森(Mette Frederiksen)访问格陵兰首都努克, 与领土领导人延斯-弗雷德里克·尼尔森会谈,"
+      "summary_zh": "丹麦首相梅特·弗雷德里克森(Mette Frederiksen)访问格陵兰首都努克, 与领土领导人延斯-弗雷德里克·尼尔森(Jens-Frederik Nielsen)会谈,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Frank Gardner: Not only Americans risked life and limb to serve in Afghanistan",
-      "title_zh": "弗兰克·加德纳:不仅美国人冒着生命和肢体的风险在阿富汗服役",
-      "link": "https://www.bbc.com/news/articles/cj3v2mlvzdvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T19:02:50+00:00",
-      "summary": "Blast walls, rocket attacks, Forward Operating Bases (FOBs), Improvised Explosive Devices (IEDs)... and long queues in the canteen. Anyone who deployed to Afghanistan, in whatever role, between 2001-2021 will have their own vivid memories of that time.",
-      "summary_zh": "爆破墙,火箭攻击,前进作战基地(FOBs),简易爆炸装置(IEDs)... 2001-2021年期间部署在阿富汗的任何人,无论担任何种角色,都将对那个时代有生动的记忆。"
+      "title": "'A natural partner': US treasury secretary weighs in on Alberta separatism",
+      "title_zh": "“一个天然的伙伴”:美国财政部长对艾伯塔分离主义的看法",
+      "link": "https://www.bbc.com/news/articles/cy8ylqx0zw4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T03:20:10+00:00",
+      "summary": "US Treasury Secretary Scott Bessent has weighed in on a separatist movement in Alberta, saying the western Canadian province is a \"natural partner for the US\".",
+      "summary_zh": "美国财政部长斯科特·贝森特(Scott Bessent)在艾伯塔省(Alberta)的一次分裂运动中表示,加拿大西部省是\"美国的天然伙伴\"."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Julio Iglesias sex assault investigation dropped by Spanish prosecutors",
-      "title_zh": "西班牙检察官放弃了Julio Iglesias性侵犯调查",
-      "link": "https://www.bbc.com/news/articles/c9vx0p3gl71o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T17:53:53+00:00",
-      "summary": "Spanish prosecutors have dropped an investigation into complaints of sexual abuse against the singer Julio Iglesias.",
-      "summary_zh": "西班牙检察官放弃了对歌手Julio Iglesias性虐待投诉的调查."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "政府 官邸の偽サイト確認 注意を呼びかけ 投資を勧誘する内容",
-      "title_zh": "政府虚假网站呼吁关注内容以吸引投资",
-      "link": "http://www3.nhk.or.jp/news/html/20260124/k10015034551000.html",
-      "published_at": "2026-01-23T17:50:57+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "潘南康娱乐"
+      "title": "TikTok US venture to collect precise user location data",
+      "title_zh": "TikTok 美国收集准确用户位置数据的风险",
+      "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T03:06:29+00:00",
+      "summary": "TikTok's new US joint venture has made changes to its privacy policy that include expanding the type of location data the company can collect from its 200 million American users.",
+      "summary_zh": "TikTok的新美国合资企业对其隐私政策进行了修改,包括扩大该公司可以从其2亿美国用户收集的地点数据类型。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Somaliland president pitches business opportunities to Trump's son",
-      "title_zh": "索马里兰总统向特朗普的儿子提供商机",
-      "link": "https://www.bbc.com/news/articles/cje11eg7lp5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T16:59:41+00:00",
-      "summary": "The president of Somaliland has held separate talks with his Israeli counterpart and the second son of the US leader, as the breakaway region continues to seek international recognition and foreign investment.",
-      "summary_zh": "索马里兰总统与以色列总统和美国领导人的次子分别举行了会谈,因为分离地区继续寻求国际承认和外国投资。"
+      "title": "Stuck between the US and Russia, Canada must prove it can defend its Arctic territory",
+      "title_zh": "加拿大必须证明它能够保卫北极领土",
+      "link": "https://www.bbc.com/news/articles/c9vx0p77pn8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T00:05:27+00:00",
+      "summary": "Canada's Arctic is a massive, treacherous, and largely inhospitable place, stretched out over nearly 4 million square kilometres of territory - but with a small population roughly equal to Blackburn in England or Syracuse, New York.",
+      "summary_zh": "加拿大的北极是一个庞大的,狡猾的, 基本上不友好的地方, 绵延了近400万平方公里的领土, 但人口很少, 大致相当于英国或纽约锡拉丘兹州的布莱克本。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Spanish track was fractured before high-speed train disaster, report finds",
-      "title_zh": "西班牙轨道在高速列车灾难前断裂 报告发现",
-      "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T16:43:31+00:00",
-      "summary": "A fracture in a straight section of track \"occurred prior to the passage\" of a high-speed train that derailed, causing last Sunday's rail disaster in which 45 people died, an initial report has found.",
-      "summary_zh": "高速列车\"通过前发生故障\"直线部分断裂,造成上星期天铁路灾害,45人死亡,初步报告已发现."
+      "title": "Tragic chapter on the trains sends rail superpower Spain into crisis",
+      "title_zh": "火车上的悲惨篇章 让西班牙陷入了危机",
+      "link": "https://www.bbc.com/news/articles/c0keelnyrvro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T00:03:57+00:00",
+      "summary": "\"Since the high-speed line was built, 30-something years ago, we never had any problems, it worked perfectly and was fantastic,\" says Alberto Montavez Montes, a shop-owner opposite Córdoba city hall, where the Spanish and Andalusian flags have been hanging at half-mast.",
+      "summary_zh": "“自从30多年前建造高速线以来, 我们从未遇到任何问题, 它运作得完美而奇妙。” Alberto Montavez Montes说,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Canadian woman found dead on Australian beach likely died of drowning, autopsy finds",
-      "title_zh": "加拿大女人被发现死在澳大利亚海滩 很可能死于溺水 尸体解剖发现",
-      "link": "https://www.bbc.com/news/articles/c8rmmzr87x0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T16:03:07+00:00",
-      "summary": "A Canadian backpacker, who was found dead on an Australian beach and surrounded by a pack of dingoes earlier this week, likely died of drowning, an autopsy has found.",
-      "summary_zh": "一名加拿大背包客被发现死在澳大利亚海滩上, 本周早些时候被一群丁戈人包围, 很可能死于溺水, 尸体解剖发现。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I saw people getting shot': Eyewitness tells of Iran protest crackdown",
-      "title_zh": "目击者讲述伊朗的抗议镇压。",
-      "link": "https://www.bbc.com/news/articles/c9dvvzzpwylo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T15:33:01+00:00",
-      "summary": "Warning: This story contains details which some readers might find distressing.",
-      "summary_zh": "警告: 这篇报道包含了一些读者可能感到痛苦的细节."
+      "title": "'Half of my friends were killed' - the girls returning to a school caught up in war",
+      "title_zh": "\"半个朋友被杀死\" 那些回到学校的女孩们陷入了战争之中\"",
+      "link": "https://www.bbc.com/news/articles/cd9eeyz933jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-24T00:03:52+00:00",
+      "summary": "It had been a normal day for 18-year-old twins Makarem and Ikram when their school came under fire.",
+      "summary_zh": "当18岁的双胞胎Makarem和Ikram的学校遭到炮火袭击时,这是他们正常的一天。"
     },
     {
       "source": "BBC News",
@@ -171,7 +271,7 @@
       "link": "https://www.bbc.com/news/videos/c20dlr9kn37o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-23T14:54:36+00:00",
       "summary": "Russian, Ukrainian and US negotiators are meeting in Abu Dhabi today for the first trilateral talks since Russia's full-scale invasion in February 2022.",
-      "summary_zh": "俄罗斯,乌克兰和美国的谈判人员今天在阿布扎比开会,参加自2022年2月俄罗斯全面入侵以来的第一次三边会谈."
+      "summary_zh": "俄罗斯、乌克兰和美国的谈判人员今天正在阿布扎比开会,参加自2022年2月俄罗斯全面入侵以来的第一次三边会谈。"
     },
     {
       "source": "BBC News",
@@ -181,67 +281,17 @@
       "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-23T14:43:48+00:00",
       "summary": "The BBC has been given access to detention facilities on former United Arab Emirates military bases in Yemen, confirming long-standing allegations of a network of secret prisons run by the UAE and forces allied to it in Yemen's decade-long civil war.",
-      "summary_zh": "英国广播公司获准进入也门前阿拉伯联合酋长国军事基地的拘留设施,证实了长期以来关于阿联酋及其盟军在也门长达十年的内战中运作的秘密监狱网络的指控。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Luxury watchmaker designs $1.5m model with Indian billionaire's statue",
-      "title_zh": "奢侈的表匠 设计了1.5m的模型 与印度亿万富翁的雕像",
-      "link": "https://www.bbc.com/news/articles/c7011pllqe7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T14:28:05+00:00",
-      "summary": "A new luxury watch themed on a private zoo run by the family of Asia's richest man Mukesh Ambani has been unveiled in India - complete with a hand-painted figurine of the tycoon's youngest son, Anant, in the centre.",
-      "summary_zh": "由亚洲最富有的Mukesh Ambani家族经营的私人动物园上的新奢侈品表在印度揭幕,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東電 来週にも提携先募集へ 大がかりな事業再編の可能性も",
-      "title_zh": "Toden 下周也是大企业重组的可能性",
-      "link": "http://www3.nhk.or.jp/news/html/20260123/k10015034471000.html",
-      "published_at": "2026-01-23T13:33:46+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "潘南康娱乐"
+      "summary_zh": "英国广播公司获准进入也门前阿拉伯联合酋长国军事基地的拘留设施,证实了长期以来关于阿联酋及其盟军在也门长达十年的内战中管理的秘密监狱网络的指控。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump covets mineral-rich Greenland, but what natural resources does it actually have?",
-      "title_zh": "特朗普渴望富含矿物的格陵兰,但实际上它拥有什么自然资源?",
+      "title_zh": "特朗普渴望富含矿物的格陵兰,但实际上它有什么自然资源?",
       "link": "https://www.bbc.com/news/articles/cly9230yw15o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-23T12:39:51+00:00",
       "summary": "Donald Trump has made clear he covets Greenland.",
       "summary_zh": "唐纳德·特朗普明确表示他渴望格陵兰."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Taliban release female athlete, 22, after 13 days in jail",
-      "title_zh": "塔利班释放女运动员,22岁,入狱13天后",
-      "link": "https://www.bbc.com/news/articles/c1evv6dz3e9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T12:37:35+00:00",
-      "summary": "A 22-year-old Afghan woman who was reportedly running a taekwondo gym for girls has been released after spending 13 days in jail, a spokesman for the Taliban's supreme court confirmed.",
-      "summary_zh": "一名22岁的阿富汗妇女据说在监狱里呆了13天之后,在为女孩办一个跆拳道健身房之后被释放,塔利班最高法院的一名发言人证实。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle",
-      "title_zh": "曼德拉的监狱钥匙,墨镜和衬衫在女儿胜诉后可以出售",
-      "link": "https://www.bbc.com/news/articles/cp822g353y6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T12:16:21+00:00",
-      "summary": "A South African court has dismissed an appeal by the country's heritage body to stop the sale and export of various artefacts connected to anti-apartheid hero Nelson Mandela.",
-      "summary_zh": "南非一家法院驳回了该国遗产机构关于停止出售和出口与反种族隔离英雄纳尔逊·曼德拉有关的各种艺术品的上诉。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US braces for 'extremely dangerous' winter storm",
-      "title_zh": "美国的\"极端危险的\"冬季风暴",
-      "link": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T12:08:30+00:00",
-      "summary": "More than 160 million Americans are expected to face an unusually brutal winter storm from Friday, with heavy snows and freezing rains forecast.",
-      "summary_zh": "超过1.6亿美国人预计将从星期五开始面临异常残酷的冬季风暴,并有大雪和冻雨预报."
     },
     {
       "source": "BBC News",
@@ -251,27 +301,7 @@
       "link": "https://www.bbc.com/news/videos/cew88vjjrlxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-23T11:31:50+00:00",
       "summary": "Crowds gathered in Rome on Friday for the funeral of Italian fashion designer Valentino Garavani, known as Valentino, who has died at the age of 93.",
-      "summary_zh": "人群星期五聚集在罗马,为意大利时装设计师瓦伦蒂诺·加拉瓦尼(Valentino Garavani)举行葬礼,他被称为瓦伦蒂诺,享年93岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pakistan mall fire death toll jumps to 67",
-      "title_zh": "巴基斯坦商场火灾死亡人数跃升至67人",
-      "link": "https://www.bbc.com/news/articles/cwy11485jeno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T10:40:06+00:00",
-      "summary": "The death toll in a fire which engulfed a shopping centre in Pakistan has climbed to 67, police have confirmed.",
-      "summary_zh": "巴基斯坦一家购物中心的火灾死亡人数已攀升至67人,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Is the US-TikTok deal a new reality for China's tech champions?",
-      "title_zh": "美TikTok交易是中国科技冠军的新现实吗?.",
-      "link": "https://www.bbc.com/news/articles/c6200mz054yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T08:08:54+00:00",
-      "summary": "One in seven people in the world use TikTok. Yet for the company behind such a cultural phenomenon, the last few years have been a rollercoaster.",
-      "summary_zh": "世界七分之一的人使用TikTok. 然而,对于这种文化现象背后的公司来说,过去几年来一直是一辆滚车。"
+      "summary_zh": "人群于星期五聚集于罗马,为意大利时装设计师瓦伦蒂诺·加拉瓦尼(Valentino Garavani)举行葬礼,他被称为瓦伦蒂诺,享年93岁."
     },
     {
       "source": "BBC News",
@@ -286,112 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Vietnam's leader returns to power with bold promises. Can he deliver?",
-      "title_zh": "越南领导人带着大胆的诺言重新掌权. 他能送货吗?",
-      "link": "https://www.bbc.com/news/articles/c20zzq8we8wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T06:59:50+00:00",
-      "summary": "Welcome to the new era of \"national rise\"!",
-      "summary_zh": "欢迎来到\"民族崛起\"新时代!."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eight surprise takeaways from the Oscar nominations",
-      "title_zh": "奥斯卡提名的八次惊喜外卖",
-      "link": "https://www.bbc.com/news/articles/cp3zzv40422o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T06:07:32+00:00",
-      "summary": "Awards pundits were taken by surprise from the first two words spoken at the Oscar nominations on Thursday.",
-      "summary_zh": "颁奖礼的领奖者们从周四奥斯卡提名会上发言的前两句话中惊奇地获得."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump withdraws Canada's invitation to Board of Peace",
-      "title_zh": "川普撤回加拿大对和平委员会的邀请",
-      "link": "https://www.bbc.com/news/articles/cn7jjp8gl0jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T05:16:46+00:00",
-      "summary": "US President Donald Trump has withdrawn an invitation for Canada to join his newly constituted Board of Peace, in the latest spat between the North American neighbours.",
-      "summary_zh": "美国总统唐纳德·特朗普已撤回邀请加拿大加入他新成立的和平委员会,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Blood was all over' - victim of Nigeria church abduction describes escape",
-      "title_zh": "\"血迹遍地\",尼日利亚教会绑架的受害者描述逃跑",
-      "link": "https://www.bbc.com/news/articles/cn422q1py95o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T00:20:27+00:00",
-      "summary": "There was a huge plaster on Sarah Peter's head to staunch the bleeding caused by the blow of a gunman's weapon.",
-      "summary_zh": "莎拉·彼得的头部有一块巨大的石膏 用来堵住枪手武器击伤造成的流血"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A national tragedy 30 years ago united Australia. Why hasn't the Bondi shooting?",
-      "title_zh": "三十年前的一场民族悲剧使澳大利亚团结起来。 为什么邦迪没有开枪?",
-      "link": "https://www.bbc.com/news/articles/cx2yy4n1vlgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-22T23:23:32+00:00",
-      "summary": "Thursday had been earmarked for Australians to mourn the victims of last month's Bondi shootings.",
-      "summary_zh": "星期四被指定给澳大利亚人 悼念上个月邦迪枪击案的受害者"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Could Trump's new Board of Peace sideline the struggling UN?",
-      "title_zh": "特朗普的新和平委员会 能否将挣扎中的联合国置于一边?",
-      "link": "https://www.bbc.com/news/articles/cn8jj228g2vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-22T21:40:18+00:00",
-      "summary": "\"Together we are in a position to… end decades of suffering, stop generations of hatred and bloodshed, and forge a beautiful, everlasting and glorious peace for that region and for the whole region of the world.\"",
-      "summary_zh": "共同结束数十年的苦难,停止数代人的仇恨和流血,为该地区和整个世界建立美丽、永久和光荣的和平。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Board of Peace, Zelensky and Musk - What happened before Trump left Davos?",
-      "title_zh": "和平委员会 泽连斯基和穆斯克——特朗普离开达沃斯之前发生了什么?.",
+      "title_zh": "和平委员会,泽连斯基和穆斯克——特朗普离开达沃斯之前发生了什么?.",
       "link": "https://www.bbc.com/news/videos/c78vvvn4qnlo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-22T21:19:43+00:00",
       "summary": "Before President Donald Trump left the World Economic Forum in Davos on Thursday, he announced the creation of the Board of Peace and called it a \"new international oversight body\", though several key US allies were not present at a charter-signing ceremony. Trump also met with Ukrainian President Volodymyr Zelensky.",
-      "summary_zh": "在唐纳德·特朗普总统星期四离开达沃斯的世界经济论坛之前,他宣布成立和平委员会,并称它为\"新的国际监督机构\",尽管几个关键的美国盟友没有出席宪章签署仪式. 特朗普还会见了乌克兰总统沃洛德米尔·泽连斯基."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What we know about Trump's 'framework of future deal' over Greenland",
-      "title_zh": "我们对特朗普关于格陵兰的“未来交易框架”的了解",
-      "link": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-22T18:15:32+00:00",
-      "summary": "US President Donald Trump has announced there is a \"framework of a future deal with respect to Greenland\".",
-      "summary_zh": "美国总统唐纳德·特朗普宣布有\"关于格陵兰的未来交易框架\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rapid rollback of Kurdish-led forces reshapes Sharaa's Syria",
-      "title_zh": "库尔德人领导的势力迅速退缩 重塑了Sharaa的叙利亚",
-      "link": "https://www.bbc.com/news/articles/c9311l0d40qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-22T12:08:12+00:00",
-      "summary": "President Ahmed al-Sharaa has made significant advances in his efforts to unify a deeply fractured Syria, reclaiming large swathes of territory in the north-east that had been under the control of a Kurdish-led militia alliance for more than a decade. What happens next will be a test for a government that has tried to assert its authority over the whole country.",
-      "summary_zh": "艾哈迈德·沙雷阿总统在统一一个严重分裂的叙利亚的努力中取得了重大进展,夺回了十多年来一直由库尔德人领导的民兵联盟控制的东北部大片领土。 接下来将是一个考验 一个政府 试图维护它的权威 在全国。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Footage captures moment NZ landslide starts in Mount Maunganui",
-      "title_zh": "脚印捕捉到一瞬间新西兰山体滑坡 开始在蒙加努伊山",
-      "link": "https://www.bbc.com/news/videos/cwy113pz41do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-22T02:56:41+00:00",
-      "summary": "Two people have died in a landslide at Welcome Bay on New Zealand's east coast, officials say.",
-      "summary_zh": "官员说,新西兰东海岸的欢迎湾有两人在山体滑坡中丧生."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Russian cosmonaut captures stunning aurora from space",
-      "title_zh": "观察:俄罗斯宇航员从太空捕捉惊人的极光",
-      "link": "https://www.bbc.com/news/videos/cn40027nej0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-22T01:02:05+00:00",
-      "summary": "Cosmonaut Sergey Kud-Sverchkov captured breathtaking views of aurora lights over Earth, seen from the International Space Station. The lights were captured during one of the most powerful solar storms in over 20 years, according to the National Weather Service's Space Weather Prediction Center.",
-      "summary_zh": "Cosmonaut Sergey Kud-Sverchkov从国际空间站看到了极光在地球上的令人惊叹的景象。 根据美国国家气象局的空间气象预报中心,灯光是在20多年来最强大的太阳风暴之一期间捕获的。"
+      "summary_zh": "在唐纳德·特朗普总统星期四离开达沃斯世界经济论坛之前,他宣布成立和平委员会并称它为\"新的国际监督机构\",尽管几个关键的美国盟友没有出席特许签字仪式. 特朗普还会见了乌克兰总统沃洛德米尔·泽连斯基."
     }
   ]
 }
