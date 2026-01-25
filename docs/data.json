@@ -1,37 +1,247 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-24T22:35:41+00:00",
-  "count": 32,
+  "generated_at": "2026-01-25T22:37:04+00:00",
+  "count": 33,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ氏“カナダが中国と貿易協議合意なら100％関税課す”",
-      "title_zh": "特朗普“如果加拿大同意与中国进行贸易协商,",
-      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035071000.html",
-      "published_at": "2026-01-24T22:28:04+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "BAN NAMCO 娱乐"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Analysing the Minneapolis shooting frame by frame",
+      "title_zh": "按帧分析明尼阿波利斯枪击框架",
+      "link": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T22:04:22+00:00",
+      "summary": "Bystander video footage has captured the moments before the killing of 37-year-old Minneapolis man Alex Pretti by federal immigration officers.",
+      "summary_zh": "旁观者录像记录了联邦移民官员杀害37岁的明尼阿波利斯人亚历克·普雷蒂之前的瞬间."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "【大雪交通影響】東海道新幹線に遅れ 高速道路 各地で通行止め",
-      "title_zh": "[大雪流量的影响] 拖住托凯多·欣坎森高速公路",
-      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015034441000.html",
-      "published_at": "2026-01-24T22:21:22+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "BAN NAMCO 娱乐"
+      "title": "高知 JR特急の車内で乗客が車掌の手を切りつける 男を逮捕",
+      "title_zh": "Kochi在JR有限快车中逮捕了一名乘客,乘客将指挥者的手砍了下来。",
+      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035601000.html",
+      "published_at": "2026-01-25T21:53:39+00:00",
+      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
+      "summary_zh": "你怎么消费年轻人? 数据是什么?"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "【動画】気象予報士解説 今後の見通しは(25日7時)",
-      "title_zh": "[视频]气象预报员评论",
-      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035081000.html",
-      "published_at": "2026-01-24T22:16:09+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "BAN NAMCO 娱乐"
+      "title": "秋田新幹線 秋田ー盛岡間の上下線で運転見合わせ 倒木の影響",
+      "title_zh": "秋田真坎森操作视图",
+      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035631000.html",
+      "published_at": "2026-01-25T21:50:53+00:00",
+      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
+      "summary_zh": "你怎么消费年轻人? 数据是什么?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+      "title_zh": "肯尼亚前总统指控有人企图暗杀教会",
+      "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T21:29:31+00:00",
+      "summary": "Prominent Kenyan opposition figure Rigathi Gachagua has alleged there was an attempt on his life during a Sunday church service.",
+      "summary_zh": "肯尼亚著名反对派人物Rigathi Gachagua指称在星期天的教堂礼拜中有人企图杀害他。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "青森 スノーモービル乗るため入山の約10人と連絡取れず 遭難か",
+      "title_zh": "大约10名伊里亚马人骑着奥莫里雪花车",
+      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035571000.html",
+      "published_at": "2026-01-25T21:13:56+00:00",
+      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
+      "summary_zh": "你怎么消费年轻人? 数据是什么?"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日本海側で平年を大幅に上回る積雪 交通影響などに十分注意を",
+      "title_zh": "日本海上降雪量高得多",
+      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035521000.html",
+      "published_at": "2026-01-25T21:11:30+00:00",
+      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
+      "summary_zh": "你怎么消费年轻人? 数据是什么?"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "円相場 一時1ドル154円台に 日米協調による市場介入へ警戒感",
+      "title_zh": "日本和美国合作进行的市场干预",
+      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035611000.html",
+      "published_at": "2026-01-25T20:51:11+00:00",
+      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
+      "summary_zh": "你怎么消费年轻人? 数据是什么?"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "衆議院選挙あす公示 高市政権の政策の是非など争点に選挙戦へ",
+      "title_zh": "众议院的公开选举",
+      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035491000.html",
+      "published_at": "2026-01-25T19:44:11+00:00",
+      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
+      "summary_zh": "你怎么消费年轻人? 数据是什么?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+      "title_zh": "人们坚持树顶,",
+      "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T18:48:27+00:00",
+      "summary": "Tens of thousands of people in Mozambique are being rescued as rising waters continue to devastate the southern African nation - the worst flooding in a generation.",
+      "summary_zh": "莫桑比克数以万计的人正在被拯救,因为不断上升的水继续摧毁了南部非洲民族,这是一代人中最严重的洪水。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuela frees dozens of political prisoners, human rights group says",
+      "title_zh": "委内瑞拉释放了数十名政治犯,",
+      "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T18:29:57+00:00",
+      "summary": "A leading Venezuelan human rights group says at least 80 political prisoners have been released under pressure from the US.",
+      "summary_zh": "一个主要的委内瑞拉人权团体说,至少有80名政治犯在美国的压力下被释放."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Winter storm grips US as millions face power outages and disruption",
+      "title_zh": "冬季暴风雨席卷美国 数百万人面临停电和破坏",
+      "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T16:22:56+00:00",
+      "summary": "A severe winter storm has brought heavy snow, and freezing temperatures to Americans across the United States.",
+      "summary_zh": "严寒的冬季风暴给美国各地的美国人带来了大雪和冰冻的温度."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Video shows moments around fatal shooting of Alex Pretti in Minneapolis",
+      "title_zh": "影片显示,",
+      "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T15:31:54+00:00",
+      "summary": "Bystander video footage has captured the moments before the killing of 37-year-old Minneapolis man Alex Pretti by federal immigration officers.",
+      "summary_zh": "旁观者录像记录了联邦移民官员杀害37岁的明尼阿波利斯人亚历克·普雷蒂之前的瞬间."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Captain of suspected Russian shadow tanker in French custody",
+      "title_zh": "疑似被法国扣押的俄罗斯影子油轮船长",
+      "link": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T15:25:52+00:00",
+      "summary": "French officials have taken the Indian captain of a suspected Russian shadow fleet tanker into custody days after the oil tanker was seized.",
+      "summary_zh": "法国官员在被扣押油轮数日后将被怀疑为俄罗斯影子分舰队油轮的印度船长扣押."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+      "title_zh": "攀登者 Alex Honnold 有101层的摩天大楼 没有安全装置",
+      "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T14:56:24+00:00",
+      "summary": "American climber Alex Honnold has successfully scaled a Taiwan skyscraper without a rope, harness or safety equipment.",
+      "summary_zh": "美国登山选手亚历克斯·霍诺德(Alex Honnold)在没有绳索,绳索或安全设备的情况下成功缩放了一台台湾摩天大楼."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "福井県知事選挙 新人の石田嵩人氏当選 全国で最も若い知事に",
+      "title_zh": "被选为日本最年轻的执政官",
+      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015032001000.html",
+      "published_at": "2026-01-25T14:55:30+00:00",
+      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
+      "summary_zh": "你怎么消费年轻人? 数据是什么?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cyclist wins Australia race despite being knocked off by Kangaroo",
+      "title_zh": "尽管被袋鼠击倒 赛会赢得澳大利亚比赛",
+      "link": "https://www.bbc.com/sport/cycling/articles/cgez09jl05wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T14:16:37+00:00",
+      "summary": "Australian Jay Vine won the Tour Down Under - despite being knocked off his bike in a crash caused by a kangaroo.",
+      "summary_zh": "澳大利亚Jay Vine赢得了Tour Down Under——尽管在一袋鼠造成的坠机事故中被撞倒了."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
+      "title_zh": "由于缅甸大选结束,",
+      "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T13:05:23+00:00",
+      "summary": "Polls in Myanmar have closed after a third and final stage of voting in what are widely viewed as sham elections.",
+      "summary_zh": "缅甸的选票在被广泛视为虚假选举的第三和最后阶段投票后已经关闭。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+      "title_zh": "在明尼阿波利斯被枪杀的重症监护护士 Alex Pretti是谁?",
+      "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T12:24:31+00:00",
+      "summary": "A man who was shot dead by federal agents in Minneapolis has been identified by his family as 37-year-old intensive care nurse Alex Pretti.",
+      "summary_zh": "在明尼阿波利斯被联邦特工枪杀的男子被家人认定为37岁的重症监护护士Alex Pretti."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90",
+      "title_zh": "BBC的\"印度之声\" 马克·图利爵士去世 享年90岁",
+      "link": "https://www.bbc.com/news/articles/c4nnp4d064do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T12:12:08+00:00",
+      "summary": "The broadcaster and journalist Sir Mark Tully - for many years known as the BBC's \"voice of India\" - has died at the age of 90.",
+      "summary_zh": "播音员兼记者马克·图利爵士(Sir Mark Tully)被誉为英国广播公司多年的\"印度之声\",享年90岁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
+      "title_zh": "美容医生 抱歉把歌手Troye Sivan的相貌 和TikTok分开",
+      "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T11:48:19+00:00",
+      "summary": "A cosmetic doctor who faced a backlash over a video picking apart pop star Troye Sivan's appearance says he \"feels terrible\" for upsetting the singer - but will continue to post.",
+      "summary_zh": "一名化妆品医生因一个视频挑出流行明星特洛伊·西文的外表而面临反弹,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: BBC at protests near scene where Alex Pretti was shot dead",
+      "title_zh": "BBC在Alex Pretti被枪杀现场的抗议活动",
+      "link": "https://www.bbc.com/news/videos/c6206p2zyyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T05:45:44+00:00",
+      "summary": "Crowds gathered in freezing temperatures in Minneapolis, near the scene where a man was shot dead during an altercation with federal agents on Saturday.",
+      "summary_zh": "人群聚集在明尼阿波利斯的寒冷温度下,靠近一个男子在星期六与联邦特工的争吵中被枪杀的场景."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
+      "title_zh": "关于艾力克·普雷蒂在明尼阿波利斯 被联邦特工枪杀的消息",
+      "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T04:19:46+00:00",
+      "summary": "Federal agents shot and killed a man in Minneapolis on Saturday, the second person to be fatally shot in the city during the Trump administration's immigration enforcement crackdown this month.",
+      "summary_zh": "联邦特工星期六在明尼阿波利斯枪杀了一名男子,这是本月特朗普政府移民执法镇压期间在城市被致命枪杀的第二人."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What India's Republic Day red carpet means for its foreign policy",
+      "title_zh": "印度的\"共和日\"红毯对外交政策的意义是什么?",
+      "link": "https://www.bbc.com/news/articles/c9wxx29yknpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T02:03:04+00:00",
+      "summary": "India will mark its 77th Republic Day on 26 January - the day when the country adopted its constitution and formally became a republic, breaking from its colonial past.",
+      "summary_zh": "印度将在1月26日庆祝其第77个共和国日,即该国通过宪法并正式成为一个共和国之日,打破其殖民历史."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "As the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge",
+      "title_zh": "当世界回到二战前的秩序时, “中权”面临着严峻的新挑战",
+      "link": "https://www.bbc.com/news/articles/c99kkerr93ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T00:25:51+00:00",
+      "summary": "I had been asked to give a keynote speech at a conference at Columbia University's Journalism School. It was January 2002. Two planes had been flown into the twin towers of the World Trade Center months earlier and you could still feel how wounded the city felt. You could read it in the faces of New Yorkers you spoke to.",
+      "summary_zh": "我被要求在哥伦比亚大学新闻学院的一次会议上作主旨发言。 这是2002年1月。 两架飞机几个月前就飞入了世贸中心的双塔 你仍然能感觉到这座城市的伤痕 你可以在和纽约人交谈时看"
     },
     {
       "source": "BBC News",
@@ -44,36 +254,6 @@
       "summary_zh": "美国总统唐纳德·特朗普威胁说,如果该国与中国达成贸易协议,就要对加拿大货物征收100%的关税."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "石川県と鳥取県に顕著な大雪に関する情報 交通影響に厳重警戒",
-      "title_zh": "石川和丰通县突出重雪资料",
-      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035001000.html",
-      "published_at": "2026-01-24T22:09:37+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "BAN NAMCO 娱乐"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中国軍 制服組トップら高官2人調査 重大な規律違反などの疑い",
-      "title_zh": "中国军服上等兵服.",
-      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035031000.html",
-      "published_at": "2026-01-24T21:15:22+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "BAN NAMCO 娱乐"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東大大学院教授収賄疑い 法人側 接待の場で教授に研究の要望か",
-      "title_zh": "师曰. 托代大学经济研究生院",
-      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015034981000.html",
-      "published_at": "2026-01-24T21:01:48+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "BAN NAMCO 娱乐"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
@@ -82,16 +262,6 @@
       "published_at": "2026-01-24T20:48:34+00:00",
       "summary": "Donald Trump has praised UK soldiers who fought in Afghanistan after his claim that allied forces avoided the front lines prompted criticism from veterans and politicians.",
       "summary_zh": "唐纳德·特朗普(英语:Donald Trump)称赞了英国士兵在阿富汗作战,因为他声称盟军避开了前线,引起了退伍军人和政治家的批评."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "新潟 田上町 軽乗用車が線路内を走行 電車が追突 雪の影響か",
-      "title_zh": "在铁路上运行的轻快车",
-      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015035041000.html",
-      "published_at": "2026-01-24T20:43:29+00:00",
-      "summary": "バンダイナムコエンターテインメント 宇田川南欧社長",
-      "summary_zh": "BAN NAMCO 娱乐"
     },
     {
       "source": "BBC News",
@@ -106,46 +276,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Snow ploughs battle blizzards on roads and runways in Oklahoma",
-      "title_zh": "俄克拉何马州道路和跑道上暴风雪",
-      "link": "https://www.bbc.com/news/videos/cvgj13e5ddlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T17:52:07+00:00",
-      "summary": "A severe winter storm that could affect more than 200 million Americans has brought heavy snow, and freezing temperatures.",
-      "summary_zh": "一场可能影响到2亿多美国人的严冬风暴带来了大雪和冰冻的温度."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
-      "title_zh": "随着俄罗斯继续进攻乌克兰,两天的和谈结束",
-      "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T16:56:55+00:00",
-      "summary": "The first three-way talks between Russia, Ukraine and the US have ended with no apparent breakthrough, following renewed Russian bombardment of Ukrainian targets.",
-      "summary_zh": "在俄罗斯再次轰炸乌克兰目标后,俄罗斯、乌克兰和美国之间的第一次三方会谈没有取得明显突破。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Climber delays rope-free skyscraper challenge over rain",
-      "title_zh": "攀登者在雨后拖延无绳摩天大楼的挑战",
-      "link": "https://www.bbc.com/news/articles/c8rm135lnneo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T15:39:05+00:00",
-      "summary": "An American climber has postponed scaling the Taipei 101, one of the world's tallest buildings, rope-free for another 24 hours due to wet weather.",
-      "summary_zh": "一名美国登山者将\"台北101\"号的缩放推迟了24小时,而\"台北101\"号是世界上最高的建筑之一,由于湿润的天气,又无绳可接."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China places highest-ranking general under investigation",
-      "title_zh": "中国将最高将军置于调查之下",
-      "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T14:14:44+00:00",
-      "summary": "China's defence ministry says it has opened an investigation into the country's highest-ranking general over \"grave violations of discipline and the law\".",
-      "summary_zh": "中国国防部称已就\"严重违纪违法\"对国家最高将领展开调查."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "How Soviet urban planning is helping Russia freeze Ukraine",
       "title_zh": "苏联城市规划如何帮助俄罗斯冻结乌克兰",
       "link": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
@@ -156,82 +286,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
-      "title_zh": "五角大楼在国防战略转变中 向美国盟友提供\"更有限的\"支持",
-      "link": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T07:57:00+00:00",
-      "summary": "The US will offer \"more limited\" support to allies, according to the Pentagon's new National Defense Strategy.",
-      "summary_zh": "根据五角大楼新的国防战略,美国将向盟国提供\"更有限的\"支持."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New Zealand calls off rescue efforts for six missing after landslide",
-      "title_zh": "新西兰呼吁停止救援六起山体滑坡后失踪事件",
-      "link": "https://www.bbc.com/news/articles/c050vnl7p10o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T06:34:24+00:00",
-      "summary": "Rescue efforts for six missing people buried by a landslide in New Zealand on Thursday have been called off, with efforts now moving to recovering bodies, police have said.",
-      "summary_zh": "警方表示,已经取消了对星期四在新西兰被山体滑坡所掩埋的6名失踪人员的救援工作,现在正在努力寻找尸体。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indonesia landslide kills seven, dozens missing",
-      "title_zh": "印度尼西亚山体滑坡造成7人丧生,数十人失踪",
-      "link": "https://www.bbc.com/news/articles/c87r53y4dx0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T06:02:41+00:00",
-      "summary": "At least seven people have died and more than 80 others are missing after a landslide hit Indonesia's West Java province, officials said.",
-      "summary_zh": "印尼西爪哇省发生山体滑坡后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Four attacks in 48 hours: How east Australia's beaches became a 'perfect storm' for sharks",
       "title_zh": "东澳大利亚海滩如何成为鲨鱼的“完美风暴”,",
       "link": "https://www.bbc.com/news/articles/c0err023g5lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-24T05:11:18+00:00",
       "summary": "It's \"extraordinary\", says shark researcher Chris Pepin-Neff: four shark bites within 48 hours , and three of them within a 15km (9-mile) stretch of Australia's east coast.",
       "summary_zh": "鲨鱼研究者克丽斯·佩平-内夫(Chris Pepin-Neff)说,这是\"超常\":48小时内有4个鲨鱼被咬,其中3个在澳大利亚东海岸15公里(9英里)长的地段以内."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Boy, 12, dies from injuries after Sydney shark attack",
-      "title_zh": "12岁男孩在悉尼鲨鱼袭击后被伤致死",
-      "link": "https://www.bbc.com/news/articles/c2k98ql703no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T05:10:24+00:00",
-      "summary": "A young boy who was bitten by a shark in Sydney Harbour last week has died in hospital.",
-      "summary_zh": "上星期在悉尼港被鲨鱼咬的男孩 死于医院"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Danish PM in Greenland for 'show of support' after Trump threats",
-      "title_zh": "丹麦首相在特朗普威胁后,",
-      "link": "https://www.bbc.com/news/articles/c78ejd0xmp0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T03:52:40+00:00",
-      "summary": "Danish PM Mette Frederiksen is visiting Greenland's capital Nuuk for talks with the territory's leader, Jens-Frederik Nielsen, after a rollercoaster week that saw US President Donald Trump roll back his threats to forcibly take over the Arctic island and agree to further negotiations.",
-      "summary_zh": "丹麦首相梅特·弗雷德里克森(Mette Frederiksen)访问格陵兰首都努克, 与领土领导人延斯-弗雷德里克·尼尔森(Jens-Frederik Nielsen)会谈,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'A natural partner': US treasury secretary weighs in on Alberta separatism",
-      "title_zh": "“一个天然的伙伴”:美国财政部长对艾伯塔分离主义的看法",
-      "link": "https://www.bbc.com/news/articles/cy8ylqx0zw4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T03:20:10+00:00",
-      "summary": "US Treasury Secretary Scott Bessent has weighed in on a separatist movement in Alberta, saying the western Canadian province is a \"natural partner for the US\".",
-      "summary_zh": "美国财政部长斯科特·贝森特(Scott Bessent)在艾伯塔省(Alberta)的一次分裂运动中表示,加拿大西部省是\"美国的天然伙伴\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "TikTok US venture to collect precise user location data",
-      "title_zh": "TikTok 美国收集准确用户位置数据的风险",
-      "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T03:06:29+00:00",
-      "summary": "TikTok's new US joint venture has made changes to its privacy policy that include expanding the type of location data the company can collect from its 200 million American users.",
-      "summary_zh": "TikTok的新美国合资企业对其隐私政策进行了修改,包括扩大该公司可以从其2亿美国用户收集的地点数据类型。"
     },
     {
       "source": "BBC News",
@@ -272,56 +332,6 @@
       "published_at": "2026-01-23T14:54:36+00:00",
       "summary": "Russian, Ukrainian and US negotiators are meeting in Abu Dhabi today for the first trilateral talks since Russia's full-scale invasion in February 2022.",
       "summary_zh": "俄罗斯、乌克兰和美国的谈判人员今天正在阿布扎比开会,参加自2022年2月俄罗斯全面入侵以来的第一次三边会谈。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
-      "title_zh": "'我的儿子七个月没来电': 也门阿联酋的秘密监狱",
-      "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T14:43:48+00:00",
-      "summary": "The BBC has been given access to detention facilities on former United Arab Emirates military bases in Yemen, confirming long-standing allegations of a network of secret prisons run by the UAE and forces allied to it in Yemen's decade-long civil war.",
-      "summary_zh": "英国广播公司获准进入也门前阿拉伯联合酋长国军事基地的拘留设施,证实了长期以来关于阿联酋及其盟军在也门长达十年的内战中管理的秘密监狱网络的指控。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump covets mineral-rich Greenland, but what natural resources does it actually have?",
-      "title_zh": "特朗普渴望富含矿物的格陵兰,但实际上它有什么自然资源?",
-      "link": "https://www.bbc.com/news/articles/cly9230yw15o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T12:39:51+00:00",
-      "summary": "Donald Trump has made clear he covets Greenland.",
-      "summary_zh": "唐纳德·特朗普明确表示他渴望格陵兰."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Liz Hurley and Anna Wintour among mourners at Valentino's funeral in Rome",
-      "title_zh": "Liz Hurley和Anna Wintour是罗马瓦伦蒂诺葬礼的哀悼者之一",
-      "link": "https://www.bbc.com/news/videos/cew88vjjrlxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T11:31:50+00:00",
-      "summary": "Crowds gathered in Rome on Friday for the funeral of Italian fashion designer Valentino Garavani, known as Valentino, who has died at the age of 93.",
-      "summary_zh": "人群于星期五聚集于罗马,为意大利时装设计师瓦伦蒂诺·加拉瓦尼(Valentino Garavani)举行葬礼,他被称为瓦伦蒂诺,享年93岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Does TikTok's US deal threaten the company's global ambitions?",
-      "title_zh": "TikTok的美国交易是否威胁到公司的全球野心?",
-      "link": "https://www.bbc.com/news/videos/c5y33mll93do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-23T07:28:55+00:00",
-      "summary": "TikTok has finalised a deal to allow its American business to continue, by creating a new US entity separate from its global operations.",
-      "summary_zh": "TikTok完成了一项交易,允许其美国业务继续下去,办法是建立一个独立于其全球业务的新的美国实体。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Board of Peace, Zelensky and Musk - What happened before Trump left Davos?",
-      "title_zh": "和平委员会,泽连斯基和穆斯克——特朗普离开达沃斯之前发生了什么?.",
-      "link": "https://www.bbc.com/news/videos/c78vvvn4qnlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-22T21:19:43+00:00",
-      "summary": "Before President Donald Trump left the World Economic Forum in Davos on Thursday, he announced the creation of the Board of Peace and called it a \"new international oversight body\", though several key US allies were not present at a charter-signing ceremony. Trump also met with Ukrainian President Volodymyr Zelensky.",
-      "summary_zh": "在唐纳德·特朗普总统星期四离开达沃斯世界经济论坛之前,他宣布成立和平委员会并称它为\"新的国际监督机构\",尽管几个关键的美国盟友没有出席特许签字仪式. 特朗普还会见了乌克兰总统沃洛德米尔·泽连斯基."
     }
   ]
 }
