@@ -1,8 +1,318 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-25T22:37:04+00:00",
-  "count": 33,
+  "generated_at": "2026-01-26T22:39:44+00:00",
+  "count": 39,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大雪影響 新千歳空港で足止め 約2000人が空港内で一夜明かす",
+      "title_zh": "大雪效应 新奇多斯机场 机场约2000人",
+      "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036351000.html",
+      "published_at": "2026-01-26T22:08:11+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "国連事務総長 世界各地の国際法違反横行に強い危機感",
+      "title_zh": "世界各地违反国际法的强烈危机",
+      "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036341000.html",
+      "published_at": "2026-01-26T21:47:53+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French MPs take first step to ban social media for under-15s",
+      "title_zh": "法国国会议员率先禁止15岁以下人士使用社交媒体。",
+      "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T21:46:41+00:00",
+      "summary": "France's National Assembly has taken a first step towards banning social media access for under-15s, a proposal backed by President Emmanuel Macron.",
+      "summary_zh": "法国国会为禁止15岁以下者使用社交媒体迈出了第一步。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日本海側中心に平年大幅に上回る積雪 除雪中の事故に注意",
+      "title_zh": "重雪会落在日本海面上方.",
+      "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036191000.html",
+      "published_at": "2026-01-26T21:42:54+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "7ケタ英数字「デジタルアドレス」普及へ 新団体が発足",
+      "title_zh": "7 Keta 字母\"数字地址\"传播",
+      "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036171000.html",
+      "published_at": "2026-01-26T21:42:09+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ことしの春闘 きょう事実上スタート 勢い継続できるか焦点",
+      "title_zh": "故事的春天之争几乎开始了",
+      "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036131000.html",
+      "published_at": "2026-01-26T21:36:44+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
+      "title_zh": "新伊朗视频显示医院堆放的尸体和屋顶上的狙击手",
+      "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T21:34:40+00:00",
+      "summary": "Verified videos emerging from Iran show bodies piled up in a hospital, snipers stationed on buildings and CCTV cameras being destroyed, following the unprecedented crackdown on protests earlier this month.",
+      "summary_zh": "伊朗的经核实的影片显示, 尸体被堆积在医院,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
+      "title_zh": "随着明尼阿波利斯射击的反弹增加,特朗普放弃了攻击模式.",
+      "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T21:18:39+00:00",
+      "summary": "The Trump administration has quickly abandoned its familiar \"deny and attack\" playbook after initially using it when federal agents shot dead Alex Pretti in Minneapolis on Saturday morning.",
+      "summary_zh": "特朗普政府在最初使用后,迅速放弃了所熟悉的\"拒绝和攻击\"剧本,当时联邦特工星期六早上在明尼阿波利斯枪杀了亚历克斯·普雷蒂."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "衆議院選挙 きょう公示 12日間の選挙戦へ",
+      "title_zh": "公开选举 12天选举",
+      "link": "http://www3.nhk.or.jp/news/html/20260127/k10015036141000.html",
+      "published_at": "2026-01-26T20:22:55+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "違法スカウトグループ「ナチュラル」のトップ逮捕 実態解明へ",
+      "title_zh": "非法童子军集团\"自然\"顶级逮捕",
+      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015036261000.html",
+      "published_at": "2026-01-26T20:15:30+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigerian officers to face trial over coup-plot allegations",
+      "title_zh": "面对政变指控的尼日利亚官员",
+      "link": "https://www.bbc.com/news/articles/c9dv4wlw3yzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T19:07:08+00:00",
+      "summary": "A group of officers in Nigeria are set to face a military court after being accused of \"plotting to overthrow the government\" of President Bola Tinubu last year, an armed forces' statement has said.",
+      "summary_zh": "尼日利亚一群军官在去年被控\"策划推翻政府\"后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel says it has retrieved remains of final Gaza hostage",
+      "title_zh": "以色列说,它已取回最后的加沙人质遗骸",
+      "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T18:37:05+00:00",
+      "summary": "The Israeli military says it has retrieved the body of the last hostage in Gaza, paving the way for the next phase of US President Donald Trump's peace plan to get under way.",
+      "summary_zh": "以色列军方称已经收回了加沙最后一名人质的尸体,为美国总统唐纳德·特朗普下一阶段的和平计划展开铺平了道路."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Private jet carrying eight people crashes in Maine",
+      "title_zh": "缅因州载有8人的私人飞机坠毁",
+      "link": "https://www.bbc.com/news/articles/cddgqqd0peno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T16:51:52+00:00",
+      "summary": "Seven people were killed and one was seriously injured after a private jet crashed while taking off from Bangor International Airport in the US state of Maine.",
+      "summary_zh": "一架私人喷气机在美国缅因州班戈尔国际机场起飞时坠毁,造成7人死亡,1人重伤."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Spain slashes speed limit on popular train route after fault found",
+      "title_zh": "西班牙在发现故障后在受欢迎的火车路线上鞭打速度限制",
+      "link": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T15:17:32+00:00",
+      "summary": "Spanish rail authorities have temporarily reduced the speed limit on part of the high-speed line between Madrid and Barcelona after a fault was detected on the track.",
+      "summary_zh": "西班牙铁路当局在轨道上检测出断层后,暂时降低了马德里至巴塞罗那高速线部分线路的限速."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+      "title_zh": "欧盟调查了埃隆·穆斯克的X 超越了Grok AI的性深假",
+      "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T13:34:31+00:00",
+      "summary": "The European Commission has launched an investigation into Elon Musk's X over concerns its AI tool Grok was used to create sexualised images of real people.",
+      "summary_zh": "欧盟委员会已着手调查Elon Musk的X, 因为它的AI工具Grok被用来制造真实人的性化图像."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+      "title_zh": "肯尼亚前总统指控有人企图暗杀教会",
+      "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T12:58:29+00:00",
+      "summary": "Prominent Kenyan opposition figure Rigathi Gachagua has alleged there was an attempt on his life during a Sunday church service.",
+      "summary_zh": "肯尼亚著名反对派人物Rigathi Gachagua指称在星期天的教堂礼拜中有人企图杀害他。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Greece biscuit factory fire leaves at least four dead",
+      "title_zh": "希腊饼干厂的火灾至少造成4人死亡",
+      "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T12:48:17+00:00",
+      "summary": "At least four people have been killed after a fire broke out at a food factory near the central Greek city of Trikala, the country's fire service says.",
+      "summary_zh": "在希腊中部城市特里卡拉附近的一家食品厂发生火灾后,该国消防部门表示至少有4人被炸死."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tributes pour in across India for revered BBC broadcaster Sir Mark Tully",
+      "title_zh": "感谢印度各地的著名英国广播公司播音员 Mark Tully爵士",
+      "link": "https://www.bbc.com/news/articles/cgjw0w0qq4wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T11:58:00+00:00",
+      "summary": "Tributes have been pouring in for veteran BBC journalist Sir Mark Tully who has been cremated in the Indian capital, Delhi, a day after he died at the age of 90.",
+      "summary_zh": "英国广播公司资深记者Mark Tully爵士在印度首都德里被火化,他90岁就去世了。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Gunmen storm Mexico football pitch and kill at least 11 people",
+      "title_zh": "枪手冲出墨西哥足球场 造成至少11人死亡",
+      "link": "https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T11:29:26+00:00",
+      "summary": "At least 11 people were killed and another dozen injured when gunmen opened fire on locals who had gathered at a football pitch in the city of Salamanca in central Mexico on Sunday.",
+      "summary_zh": "星期日,有枪手向聚集在墨西哥中部萨拉曼卡市一足球场的当地人开火,造成至少11人死亡,另有一打人受伤."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Gold tops $5,000 for first time ever, adding to historic rally",
+      "title_zh": "黄金头5000美元 有史以来第一次, 增加了历史性的集会",
+      "link": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T11:05:51+00:00",
+      "summary": "The price of gold has risen above $5,000 (£3,659) an ounce for the first time ever, extending a historic rally that saw the precious metal jump by more than 60% last year.",
+      "summary_zh": "黄金价格首次超过5000美元(3,659英镑),"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Uganda's military chief denies army assaulted Bobi Wine's wife",
+      "title_zh": "乌干达军方否认军队袭击了博比·温德的妻子",
+      "link": "https://www.bbc.com/news/articles/c20zdj8n7vgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T10:31:33+00:00",
+      "summary": "Uganda's military chief Muhoozi Kainerugaba has denied claims that soldiers assaulted Barbara Kyagulanyi, the wife of opposition leader Bobi Wine, during a raid at their home.",
+      "summary_zh": "乌干达军事长官Muhoozi Kainerugaba否认士兵在袭击反对派领袖Bobi Wine的妻子Barbara Kyagulanyi家时殴打他们的说法。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Deadly winter storm grips large parts of the US",
+      "title_zh": "致命的冬季风暴席卷了美国大部分地区",
+      "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T10:17:05+00:00",
+      "summary": "A powerful winter storm has swept across the United States, with heavy snow, ice and dangerously low temperatures affecting millions.",
+      "summary_zh": "一场强大的冬季风暴席卷了全美国,大雪,冰雪和危险的低温影响了数百万人."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eighteen dead after Philippines ferry with 300 passengers sinks",
+      "title_zh": "在菲律宾渡轮后有18人死亡,300名乘客下沉",
+      "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T08:17:35+00:00",
+      "summary": "At least 18 people have died after a ferry carrying more than 350 passengers and crew members onboard sank in the waters off Philippines' southern coast.",
+      "summary_zh": "船上载有350多名乘客和船员的渡轮在菲律宾南海岸外海域沉没后,至少有18人死亡."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Heatwave warnings across Australia as millions celebrate national day",
+      "title_zh": "澳大利亚各地的热浪警告,",
+      "link": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T07:15:24+00:00",
+      "summary": "Australian authorities have issued heatwave warnings for most of the country as millions mark the national holiday, Australia Day.",
+      "summary_zh": "澳大利亚当局为全国大部分地区发布热浪警告,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japanese ex-soldier reaches settlements in landmark sex abuse case",
+      "title_zh": "日本前士兵在具有里程碑意义的性虐待案件中到达定居点",
+      "link": "https://www.bbc.com/news/articles/cr4k2kw500zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T06:39:07+00:00",
+      "summary": "Rina Gonoi, the former soldier who was sexually assaulted while serving in Japan's Self-Defense Forces (SDF), has reached a settlement with two remaining defendants - the state and an ex-colleague.",
+      "summary_zh": "在日本自卫队服役时遭到性侵犯的前士兵Rina Gonoi已经与另外两名被告达成和解——国家和一位前同事。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
+      "title_zh": "明尼阿波利斯居民在第二次致命枪击中",
+      "link": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T03:50:14+00:00",
+      "summary": "At the Calvary Baptist Church in Minneapolis, the doors swung open and shut as locals sought refuge from the biting cold on Sunday.",
+      "summary_zh": "在明尼阿波利斯的卡尔瓦里浸信会教堂,当当地人星期天躲避被咬伤的寒冷时,大门被打开并关闭."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties",
+      "title_zh": "随着日本熊猫回到中国,",
+      "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T03:08:21+00:00",
+      "summary": "Thousands of people flocked to a zoo in Japan on Sunday to say farewell to the country's last two giant pandas, who are set to return to China on Tuesday.",
+      "summary_zh": "数以千计的人星期天聚集到日本的动物园,向国内最后两只巨型熊猫告别,他们定于星期二回中国."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox",
+      "title_zh": "\"我花了两千英镑在一个活动中\": 为什么Gen Z迷上Hyrox",
+      "link": "https://www.bbc.com/news/articles/cj0nmj72v8ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T00:45:40+00:00",
+      "summary": "Hyrox is a fitness craze that shows no signs of dying out - with 1.3m people expected to compete in an event somewhere in the world this year.",
+      "summary_zh": "Hyrox是一个健身狂想症,没有死亡的迹象,预计今年有130万人在世界某地参加比赛。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Murder and MI5: How an extraordinary battle erupted over what the state keeps secret",
+      "title_zh": "谋杀和军情五处:如何爆发一场非同寻常的战役 国家的秘密",
+      "link": "https://www.bbc.com/news/articles/c1w94v205y2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T00:25:19+00:00",
+      "summary": "Listen to Daniel read this story",
+      "summary_zh": "听丹尼尔讲这个故事"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
+      "title_zh": "俄罗斯利用国际刑警组织的通缉名单 锁定国外的批评者",
+      "link": "https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-26T00:15:03+00:00",
+      "summary": "Thousands of files provided by a whistleblower at Interpol expose for the first time the extent of Russia's apparent abuse of the international policing agency to target its critics abroad.",
+      "summary_zh": "国际刑警组织的吹哨人提供的上千份档案首次揭露了俄罗斯明显滥用国际警察机构针对国外批评者的程度."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
+      "title_zh": "NRA和其他美国持枪活动分子在明尼阿波利斯枪击案上向特朗普官员推后.",
+      "link": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-25T22:29:48+00:00",
+      "summary": "The National Rifle Association (NRA) has joined other US gun lobby groups in calling for a \"full investigation\" by the Trump administration into the killing of Alex Pretti in Minnesota.",
+      "summary_zh": "全国步枪协会(NRA)与美国其他枪支游说团体一起呼吁特朗普政府\"全面调查\"明尼苏达州亚历克斯·普雷蒂被害事件."
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
@@ -14,166 +324,6 @@
       "summary_zh": "旁观者录像记录了联邦移民官员杀害37岁的明尼阿波利斯人亚历克·普雷蒂之前的瞬间."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "高知 JR特急の車内で乗客が車掌の手を切りつける 男を逮捕",
-      "title_zh": "Kochi在JR有限快车中逮捕了一名乘客,乘客将指挥者的手砍了下来。",
-      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035601000.html",
-      "published_at": "2026-01-25T21:53:39+00:00",
-      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
-      "summary_zh": "你怎么消费年轻人? 数据是什么?"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "秋田新幹線 秋田ー盛岡間の上下線で運転見合わせ 倒木の影響",
-      "title_zh": "秋田真坎森操作视图",
-      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035631000.html",
-      "published_at": "2026-01-25T21:50:53+00:00",
-      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
-      "summary_zh": "你怎么消费年轻人? 数据是什么?"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
-      "title_zh": "肯尼亚前总统指控有人企图暗杀教会",
-      "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T21:29:31+00:00",
-      "summary": "Prominent Kenyan opposition figure Rigathi Gachagua has alleged there was an attempt on his life during a Sunday church service.",
-      "summary_zh": "肯尼亚著名反对派人物Rigathi Gachagua指称在星期天的教堂礼拜中有人企图杀害他。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "青森 スノーモービル乗るため入山の約10人と連絡取れず 遭難か",
-      "title_zh": "大约10名伊里亚马人骑着奥莫里雪花车",
-      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035571000.html",
-      "published_at": "2026-01-25T21:13:56+00:00",
-      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
-      "summary_zh": "你怎么消费年轻人? 数据是什么?"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "日本海側で平年を大幅に上回る積雪 交通影響などに十分注意を",
-      "title_zh": "日本海上降雪量高得多",
-      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035521000.html",
-      "published_at": "2026-01-25T21:11:30+00:00",
-      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
-      "summary_zh": "你怎么消费年轻人? 数据是什么?"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "円相場 一時1ドル154円台に 日米協調による市場介入へ警戒感",
-      "title_zh": "日本和美国合作进行的市场干预",
-      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035611000.html",
-      "published_at": "2026-01-25T20:51:11+00:00",
-      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
-      "summary_zh": "你怎么消费年轻人? 数据是什么?"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "衆議院選挙あす公示 高市政権の政策の是非など争点に選挙戦へ",
-      "title_zh": "众议院的公开选举",
-      "link": "http://www3.nhk.or.jp/news/html/20260126/k10015035491000.html",
-      "published_at": "2026-01-25T19:44:11+00:00",
-      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
-      "summary_zh": "你怎么消费年轻人? 数据是什么?"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
-      "title_zh": "人们坚持树顶,",
-      "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T18:48:27+00:00",
-      "summary": "Tens of thousands of people in Mozambique are being rescued as rising waters continue to devastate the southern African nation - the worst flooding in a generation.",
-      "summary_zh": "莫桑比克数以万计的人正在被拯救,因为不断上升的水继续摧毁了南部非洲民族,这是一代人中最严重的洪水。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Venezuela frees dozens of political prisoners, human rights group says",
-      "title_zh": "委内瑞拉释放了数十名政治犯,",
-      "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T18:29:57+00:00",
-      "summary": "A leading Venezuelan human rights group says at least 80 political prisoners have been released under pressure from the US.",
-      "summary_zh": "一个主要的委内瑞拉人权团体说,至少有80名政治犯在美国的压力下被释放."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Winter storm grips US as millions face power outages and disruption",
-      "title_zh": "冬季暴风雨席卷美国 数百万人面临停电和破坏",
-      "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T16:22:56+00:00",
-      "summary": "A severe winter storm has brought heavy snow, and freezing temperatures to Americans across the United States.",
-      "summary_zh": "严寒的冬季风暴给美国各地的美国人带来了大雪和冰冻的温度."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Video shows moments around fatal shooting of Alex Pretti in Minneapolis",
-      "title_zh": "影片显示,",
-      "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T15:31:54+00:00",
-      "summary": "Bystander video footage has captured the moments before the killing of 37-year-old Minneapolis man Alex Pretti by federal immigration officers.",
-      "summary_zh": "旁观者录像记录了联邦移民官员杀害37岁的明尼阿波利斯人亚历克·普雷蒂之前的瞬间."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Captain of suspected Russian shadow tanker in French custody",
-      "title_zh": "疑似被法国扣押的俄罗斯影子油轮船长",
-      "link": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T15:25:52+00:00",
-      "summary": "French officials have taken the Indian captain of a suspected Russian shadow fleet tanker into custody days after the oil tanker was seized.",
-      "summary_zh": "法国官员在被扣押油轮数日后将被怀疑为俄罗斯影子分舰队油轮的印度船长扣押."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
-      "title_zh": "攀登者 Alex Honnold 有101层的摩天大楼 没有安全装置",
-      "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T14:56:24+00:00",
-      "summary": "American climber Alex Honnold has successfully scaled a Taiwan skyscraper without a rope, harness or safety equipment.",
-      "summary_zh": "美国登山选手亚历克斯·霍诺德(Alex Honnold)在没有绳索,绳索或安全设备的情况下成功缩放了一台台湾摩天大楼."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "福井県知事選挙 新人の石田嵩人氏当選 全国で最も若い知事に",
-      "title_zh": "被选为日本最年轻的执政官",
-      "link": "http://www3.nhk.or.jp/news/html/20260125/k10015032001000.html",
-      "published_at": "2026-01-25T14:55:30+00:00",
-      "summary": "若者消費に勢い？その理由は？データが語る実態【経済コラム】",
-      "summary_zh": "你怎么消费年轻人? 数据是什么?"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cyclist wins Australia race despite being knocked off by Kangaroo",
-      "title_zh": "尽管被袋鼠击倒 赛会赢得澳大利亚比赛",
-      "link": "https://www.bbc.com/sport/cycling/articles/cgez09jl05wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T14:16:37+00:00",
-      "summary": "Australian Jay Vine won the Tour Down Under - despite being knocked off his bike in a crash caused by a kangaroo.",
-      "summary_zh": "澳大利亚Jay Vine赢得了Tour Down Under——尽管在一袋鼠造成的坠机事故中被撞倒了."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
-      "title_zh": "由于缅甸大选结束,",
-      "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T13:05:23+00:00",
-      "summary": "Polls in Myanmar have closed after a third and final stage of voting in what are widely viewed as sham elections.",
-      "summary_zh": "缅甸的选票在被广泛视为虚假选举的第三和最后阶段投票后已经关闭。"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
@@ -182,26 +332,6 @@
       "published_at": "2026-01-25T12:24:31+00:00",
       "summary": "A man who was shot dead by federal agents in Minneapolis has been identified by his family as 37-year-old intensive care nurse Alex Pretti.",
       "summary_zh": "在明尼阿波利斯被联邦特工枪杀的男子被家人认定为37岁的重症监护护士Alex Pretti."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90",
-      "title_zh": "BBC的\"印度之声\" 马克·图利爵士去世 享年90岁",
-      "link": "https://www.bbc.com/news/articles/c4nnp4d064do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T12:12:08+00:00",
-      "summary": "The broadcaster and journalist Sir Mark Tully - for many years known as the BBC's \"voice of India\" - has died at the age of 90.",
-      "summary_zh": "播音员兼记者马克·图利爵士(Sir Mark Tully)被誉为英国广播公司多年的\"印度之声\",享年90岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
-      "title_zh": "美容医生 抱歉把歌手Troye Sivan的相貌 和TikTok分开",
-      "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-25T11:48:19+00:00",
-      "summary": "A cosmetic doctor who faced a backlash over a video picking apart pop star Troye Sivan's appearance says he \"feels terrible\" for upsetting the singer - but will continue to post.",
-      "summary_zh": "一名化妆品医生因一个视频挑出流行明星特洛伊·西文的外表而面临反弹,"
     },
     {
       "source": "BBC News",
@@ -246,82 +376,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
-      "title_zh": "特朗普威胁加拿大 100%的关税 如果它\"与中国达成协议\"",
-      "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T22:10:33+00:00",
-      "summary": "US President Donald Trump has threatened to slap a 100% tariff on Canadian goods if the country strikes a trade deal with China.",
-      "summary_zh": "美国总统唐纳德·特朗普威胁说,如果该国与中国达成贸易协议,就要对加拿大货物征收100%的关税."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
-      "title_zh": "特朗普说在阿富汗的英国士兵 是所有勇士中最伟大的",
-      "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T20:48:34+00:00",
-      "summary": "Donald Trump has praised UK soldiers who fought in Afghanistan after his claim that allied forces avoided the front lines prompted criticism from veterans and politicians.",
-      "summary_zh": "唐纳德·特朗普(英语:Donald Trump)称赞了英国士兵在阿富汗作战,因为他声称盟军避开了前线,引起了退伍军人和政治家的批评."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Germany arrests suspected Hamas member over alleged attack plot",
-      "title_zh": "德国因涉嫌攻击阴谋逮捕哈马斯成员",
-      "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T18:57:09+00:00",
-      "summary": "German police have arrested a Lebanese national on suspicion of being a member of Hamas and planning attacks in Europe.",
-      "summary_zh": "德国警方以涉嫌为哈马斯成员并计划在欧洲进行袭击而逮捕了一名黎巴嫩国民."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "How Soviet urban planning is helping Russia freeze Ukraine",
       "title_zh": "苏联城市规划如何帮助俄罗斯冻结乌克兰",
       "link": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-24T13:56:13+00:00",
       "summary": "Ukraine is now living through its most difficult winter in recent memory.",
       "summary_zh": "乌克兰目前正在经历最近记忆中最困难的冬季。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four attacks in 48 hours: How east Australia's beaches became a 'perfect storm' for sharks",
-      "title_zh": "东澳大利亚海滩如何成为鲨鱼的“完美风暴”,",
-      "link": "https://www.bbc.com/news/articles/c0err023g5lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T05:11:18+00:00",
-      "summary": "It's \"extraordinary\", says shark researcher Chris Pepin-Neff: four shark bites within 48 hours , and three of them within a 15km (9-mile) stretch of Australia's east coast.",
-      "summary_zh": "鲨鱼研究者克丽斯·佩平-内夫(Chris Pepin-Neff)说,这是\"超常\":48小时内有4个鲨鱼被咬,其中3个在澳大利亚东海岸15公里(9英里)长的地段以内."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Stuck between the US and Russia, Canada must prove it can defend its Arctic territory",
-      "title_zh": "加拿大必须证明它能够保卫北极领土",
-      "link": "https://www.bbc.com/news/articles/c9vx0p77pn8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T00:05:27+00:00",
-      "summary": "Canada's Arctic is a massive, treacherous, and largely inhospitable place, stretched out over nearly 4 million square kilometres of territory - but with a small population roughly equal to Blackburn in England or Syracuse, New York.",
-      "summary_zh": "加拿大的北极是一个庞大的,狡猾的, 基本上不友好的地方, 绵延了近400万平方公里的领土, 但人口很少, 大致相当于英国或纽约锡拉丘兹州的布莱克本。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tragic chapter on the trains sends rail superpower Spain into crisis",
-      "title_zh": "火车上的悲惨篇章 让西班牙陷入了危机",
-      "link": "https://www.bbc.com/news/articles/c0keelnyrvro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T00:03:57+00:00",
-      "summary": "\"Since the high-speed line was built, 30-something years ago, we never had any problems, it worked perfectly and was fantastic,\" says Alberto Montavez Montes, a shop-owner opposite Córdoba city hall, where the Spanish and Andalusian flags have been hanging at half-mast.",
-      "summary_zh": "“自从30多年前建造高速线以来, 我们从未遇到任何问题, 它运作得完美而奇妙。” Alberto Montavez Montes说,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Half of my friends were killed' - the girls returning to a school caught up in war",
-      "title_zh": "\"半个朋友被杀死\" 那些回到学校的女孩们陷入了战争之中\"",
-      "link": "https://www.bbc.com/news/articles/cd9eeyz933jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-24T00:03:52+00:00",
-      "summary": "It had been a normal day for 18-year-old twins Makarem and Ikram when their school came under fire.",
-      "summary_zh": "当18岁的双胞胎Makarem和Ikram的学校遭到炮火袭击时,这是他们正常的一天。"
     },
     {
       "source": "BBC News",
