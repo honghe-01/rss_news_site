@@ -1,217 +1,317 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-29T22:48:01+00:00",
-  "count": 30,
+  "generated_at": "2026-01-30T22:46:36+00:00",
+  "count": 34,
   "items": [
     {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Will Trump's pick to lead US central bank get him the change he wants?",
+      "title_zh": "特朗普会选择领导美国中央银行给他想要的改变吗?",
+      "link": "https://www.bbc.com/news/articles/czx1qrx5jgzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T22:15:36+00:00",
+      "summary": "Donald Trump has been calling for change at the US central bank.",
+      "summary_zh": "唐纳德·特朗普一直呼吁美国央行进行改革."
+    },
+    {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "日本海側中心に雪強まる 各地で平年上回る積雪 空の便に影響も",
-      "title_zh": "日本海中降雪",
-      "link": "http://www3.nhk.or.jp/news/html/20260130/k10015038941000.html",
-      "published_at": "2026-01-29T22:38:20+00:00",
+      "title": "NYダウ 一時600ドル超値下がり 次のFRB議長 利下げに不透明感",
+      "title_zh": "NY Daw T 600 附加价值 下届财会主席鉴定",
+      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040211000.html",
+      "published_at": "2026-01-30T22:06:30+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "JR宇都宮線 高崎線 常磐線など停電影響で運転見合わせ",
-      "title_zh": "JR Utsunomiya线高崎线乔班线等.",
-      "link": "http://www3.nhk.or.jp/news/html/20260130/k10015039101000.html",
-      "published_at": "2026-01-29T22:35:27+00:00",
+      "title": "トランプ大統領 核開発めぐる交渉“イランは合意望んでいる”",
+      "title_zh": "特朗普总统谈判核开发“伊朗希望同意”",
+      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040231000.html",
+      "published_at": "2026-01-30T21:54:09+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
-      "title_zh": "以色列媒体引述官方接受哈马斯数字,",
-      "link": "https://www.bbc.com/news/articles/cvgpd1x00exo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T22:23:35+00:00",
-      "summary": "Israeli media report that a senior security source has said the military accepts that more than 70,000 Palestinians have been killed during the war in Gaza.",
-      "summary_zh": "以色列媒体报道,一名高级安全人士说,军方接受在加沙战争中有70 000多名巴勒斯坦人被杀死的说法。"
+      "title": "Iran wants to make deal rather than face military action, Trump says",
+      "title_zh": "特朗普说,",
+      "link": "https://www.bbc.com/news/articles/cd9ew2kwj0lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T21:43:51+00:00",
+      "summary": "President Donald Trump has said Iran wants to make a deal rather than face US military action, despite Tehran's insistence that its missile and defence systems will \"never\" be up for negotiation.",
+      "summary_zh": "总统唐纳德·特朗普表示,伊朗希望达成协议,而不是面对美国的军事行动,尽管德黑兰坚持其导弹和防御系统将\"永远不要\"谈判."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
-      "title_zh": "叙利亚反抗的库尔德人发誓,",
-      "link": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T22:04:34+00:00",
-      "summary": "As a veteran Syrian Kurdish fighter, Commander Azad – whose nom-de-guerre means freedom - walks with a limp and wears his battle scars with pride.",
-      "summary_zh": "作为一名老练的叙利亚库尔德人战士,指挥官阿扎德(Azad) — — 他的名词意味着自由 — — 带着骄傲地行走并佩戴他的战斗伤疤。"
+      "title": "Former CNN host Don Lemon faces charges after anti-ICE protest at Minnesota church",
+      "title_zh": "前CNN主持人唐·莱蒙在明尼苏达教堂抗议后面临指控",
+      "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T21:41:48+00:00",
+      "summary": "Former CNN host Don Lemon has been arrested and will face federal charges after he entered a Minnesota church and filmed anti-immigration enforcement protesters as they disrupted a service.",
+      "summary_zh": "前CNN主持人唐·莱蒙(Don Lemon)已经被捕,在他进入明尼苏达州教堂并拍摄反移民执法抗议者破坏某项服务后,他将面临联邦指控."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "スキージャンプW杯 混合団体 日本3位 五輪のメダル獲得へ弾み",
+      "title_zh": "Ski Jump W Cup 混合小组 日本 第 三 名",
+      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040181000.html",
+      "published_at": "2026-01-30T21:39:29+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says Putin will not attack Ukraine cities during cold week",
-      "title_zh": "特朗普说普京不会在寒冷的一周内攻击乌克兰城市",
+      "title": "Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71",
+      "title_zh": "希特克克和独家明星 Catherine O'Hara去世71岁",
+      "link": "https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T21:22:48+00:00",
+      "summary": "Catherine O'Hara, the comedic actress best known for her starring roles in the Home Alone and Beetlejuice films, as well as her Emmy-winning turn in Schitt's Creek, has died aged 71.",
+      "summary_zh": "凯瑟琳·奥哈拉(英語:Catherine O'Hara)是喜剧演员,以主演\"孤家寡人\"和\"贝特尔朱斯\"等电影出道而出名,她也因艾美获奖而出道于\"斯克特之溪\"而去世,享年71岁."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米FRB議長後任にウォーシュ氏 FRB元理事 トランプ大統領が指名",
+      "title_zh": "Warsch先生,FRB前局长,特朗普总统由FRB主席提名",
+      "link": "http://www3.nhk.or.jp/news/html/20260130/k10015040131000.html",
+      "published_at": "2026-01-30T20:55:36+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "4億円余強奪事件 被害のグループ“1日数万円で現金運ぶ約束”",
+      "title_zh": "40亿日元的情绪事件“承诺每天携带几百万日元的现金”",
+      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015039951000.html",
+      "published_at": "2026-01-30T20:53:44+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "衆議院選挙 SNS上の誤情報や偽情報などへの各党の対策は",
+      "title_zh": "版权 (C) SNSRAL Electronics CO., LTD. 所有权利保留.",
+      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015039931000.html",
+      "published_at": "2026-01-30T20:29:41+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "高市首相 きょう英首相と首脳会談 幅広い分野で協力強化確認へ",
+      "title_zh": "高一总理和京畿总理确认在广泛领域的合作",
+      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015039941000.html",
+      "published_at": "2026-01-30T19:52:31+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Civil rights investigation opened into Alex Pretti shooting",
+      "title_zh": "对Alex Pretti被枪击案的民权调查",
+      "link": "https://www.bbc.com/news/articles/c5yvw89p3p1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T19:23:45+00:00",
+      "summary": "The Department of Justice (DOJ) has opened a civil rights investigation into the fatal shooting of Alex Pretti by federal immigration agents, the US deputy attorney general has said.",
+      "summary_zh": "美国副检察长说,司法部(DOJ)已对联邦移民官员枪杀Alex Pretti一案展开民权调查。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three reasons for the record rise in gold prices, and one why they are falling",
+      "title_zh": "黄金价格创纪录地上涨的原因有三个,还有一个原因",
+      "link": "https://www.bbc.com/news/articles/c87r2700dq8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T19:11:23+00:00",
+      "summary": "Gold prices have reached record highs recently, with investors piling money into the safe haven asset amid rising global political uncertainty.",
+      "summary_zh": "黄金价格最近达到了创纪录的地步,在全球政治不确定性不断上升的情况下,投资者将资金投入安全港资产。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mali lawmaker jailed in Ivory Coast for insulting president",
+      "title_zh": "马里立法者因侮辱总统而入狱于象牙海岸",
+      "link": "https://www.bbc.com/news/articles/c74vgxp0zr4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T18:09:20+00:00",
+      "summary": "A Malian lawmaker has been jailed in neighbouring Ivory Coast for three years for insulting the 84-year-old Ivorian leader, who recently won a fourth term in office.",
+      "summary_zh": "一名马里立法者因侮辱84岁的科特迪瓦领导人而被监禁在相邻的象牙海岸,最近他赢得了第四次任期。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
+      "title_zh": "路易吉·曼吉奥内不会面临死刑 如果定罪 审判规则",
+      "link": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T17:02:16+00:00",
+      "summary": "Luigi Mangione will not face the death penalty if convicted of killing UnitedHealthcare chief executive Brian Thompson, a federal court has ruled.",
+      "summary_zh": "Luigi Mangione不会面临死刑, 如果一个联邦法院裁定,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UN risks 'imminent financial collapse', secretary general warns",
+      "title_zh": "总书记警告,",
+      "link": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T16:24:18+00:00",
+      "summary": "The United Nations is at risk of \"imminent financial collapse\" due to member states not paying their fees, the body's head has warned.",
+      "summary_zh": "由于会员国不支付费用,联合国面临\"迫在眉睫的财政崩溃\"的风险,该机构的负责人已经警告."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump picks Kevin Warsh to lead the US Federal Reserve",
+      "title_zh": "特朗普选择凯文·沃什领导美联储",
+      "link": "https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T16:22:59+00:00",
+      "summary": "US President Donald Trump has picked Kevin Warsh to lead the US Federal Reserve when current chairman Jerome Powell's four-year term ends in May.",
+      "summary_zh": "美国总统唐纳德·特朗普在现任主席杰罗姆·鲍威尔的四年任期于5月结束时,选择凯文·沃什领导美联储."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Africa and Israel expel each other's envoys in diplomatic row",
+      "title_zh": "南非和以色列将对方的使节逐一驱逐",
+      "link": "https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T16:10:24+00:00",
+      "summary": "South Africa has expelled Israel's top diplomat in the country for \"violating diplomatic norms\", a move that prompted Israel to kick out a South African envoy in retaliation.",
+      "summary_zh": "南非以\"违反外交规范\"为由驱逐了以色列在该国的最高外交官,这一举动促使以色列将一名南非使节赶出以进行报复."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine sees quieter night as Trump says Putin will not attack its cities",
+      "title_zh": "乌克兰认为今晚更安静,",
       "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T21:21:35+00:00",
-      "summary": "US President Donald Trump says Russia's Vladimir Putin has agreed not to attack Ukraine's capital, Kyiv, and other cities and towns for a week due to \"extraordinary cold\" weather.",
-      "summary_zh": "美国总统唐纳德·特朗普说,俄罗斯的弗拉基米尔·普京同意由于\"异常寒冷\"的天气,一周内不攻击乌克兰首都基辅等地城镇."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "羽田空港駐車場 約1億9000万円車に載せていた男性けが 3人逃走",
-      "title_zh": "羽田机场停放 约1900万日元 3人逃出",
-      "link": "http://www3.nhk.or.jp/news/html/20260130/k10015039081000.html",
-      "published_at": "2026-01-29T21:12:34+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "published_at": "2026-01-30T13:46:23+00:00",
+      "summary": "Ukraine has seen a relatively quiet night after Donald Trump said his Russian counterpart Vladimir Putin had agreed not to attack Kyiv and \"various towns\" during a cold snap.",
+      "summary_zh": "乌克兰在唐纳德·特朗普说俄罗斯对手弗拉基米尔·普京同意在寒冷的一瞬间不攻击基辅和\"各种城镇\"之后,目睹了相对平静的夜晚."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
-      "title_zh": "如果当地官员合作 明尼阿波利斯的特工可以撤退 边境沙皇说",
-      "link": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T21:06:54+00:00",
-      "summary": "The Trump administration has suggested it is planning to \"draw down\" federal forces in Minnesota if there is cooperation from officials, after the fatal shootings of two US citizens in the state.",
-      "summary_zh": "特朗普政府表示,在州内两名美国公民被致命枪击后,如果有官员合作,它正计划\"拖倒\"明尼苏达州的联邦部队."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "衆院選 各党党首の選挙戦前半の動きは？",
-      "title_zh": "每党领袖选举战争上半期的动向是什么?.",
-      "link": "http://www3.nhk.or.jp/news/html/20260130/k10015039031000.html",
-      "published_at": "2026-01-29T20:26:18+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "北海道せたな町 4人乗った漁船と連絡取れず 範囲を広げ捜索へ",
-      "title_zh": "北海道西塔纳镇:无法与有4个座位的渔船联系以扩大搜索范围",
-      "link": "http://www3.nhk.or.jp/news/html/20260130/k10015039021000.html",
-      "published_at": "2026-01-29T20:19:25+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東京 台東区 スーツケースの4億円余強盗か 付近でひき逃げも",
-      "title_zh": "东京泰都沃德 超过4亿日元的手提箱... .",
-      "link": "http://www3.nhk.or.jp/news/html/20260130/k10015039041000.html",
-      "published_at": "2026-01-29T19:40:24+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "title": "At least 170 killed in air strikes during Myanmar's widely criticised election, UN says",
+      "title_zh": "在缅甸受到广泛批评的大选中,",
+      "link": "https://www.bbc.com/news/articles/cg5gl8grv66o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T13:12:25+00:00",
+      "summary": "At least 170 people were killed in military air strikes during Myanmar's weeks' long election period, the United Nations has said.",
+      "summary_zh": "联合国表示,在缅甸长达几周的选举期间,至少有170人在军事空袭中丧生."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Chips, anyone? German farm gives away millions of potatoes after bumper harvest",
-      "title_zh": "芯片,有人吗? 德国农场在丰收后送出上百万个土豆",
-      "link": "https://www.bbc.com/news/articles/c5y2zqer8j2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T17:48:24+00:00",
-      "summary": "A vast stockpile of potatoes is being given away for free by a farm in the German state of Saxony, after a bumper harvest .",
-      "summary_zh": "德国萨克森州的一个农场在收获丰收后,"
+      "title": "Syrian government reaches deal with Kurdish-led forces",
+      "title_zh": "叙利亚政府处理库尔德人领导的部队",
+      "link": "https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T12:42:37+00:00",
+      "summary": "Syria's government has reached a deal with the Kurdish-led Syrian Democratic Forces (SDF) militia alliance that would see the gradual intergration of Kurdish forces and institutions into the state.",
+      "summary_zh": "叙利亚政府已与库尔德人领导的叙利亚民主力量(SDF)民兵联盟达成协议,该联盟将看到库尔德人势力和机构逐步交接进入国家."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "EU adds Iran's Revolutionary Guards to terrorist list",
-      "title_zh": "欧盟将伊朗革命卫队列入恐怖分子名单",
-      "link": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T16:49:20+00:00",
-      "summary": "The European Union has added Iran's Islamic Revolutionary Guard Corps (IRGC) to its terrorist list in response to Tehran's deadly crackdown on protesters in recent weeks.",
-      "summary_zh": "欧盟针对德黑兰近几周来对抗议者的致命镇压,将伊朗的\"伊斯兰革命卫队\"列入恐怖分子名单."
+      "title": "Inside Syrian camp holding wives and children of suspected IS fighters",
+      "title_zh": "叙利亚营地内关押可疑IS战士的妻子和子女",
+      "link": "https://www.bbc.com/news/videos/c3ve0xd451go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T11:38:08+00:00",
+      "summary": "Following the downfall of the so-called Islamic State in Syria, Kurdish-run prisons hold about 8,000 suspected IS fighters and around 34,000 of their family members in camps.",
+      "summary_zh": "所谓\"伊斯兰国\"在叙利亚倒台后,由库尔德人管理的监狱关押了大约8000名疑似IS战士和大约34000名家属入住营地."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Melania Trump documentary not showing in South African cinemas",
-      "title_zh": "梅拉尼亚·特朗普纪录片没有在南非电影院上映",
-      "link": "https://www.bbc.com/news/articles/c89q287qxelo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T16:29:28+00:00",
-      "summary": "Cinemas in South Africa will not be showing the documentary about US First Lady Melania Trump that is due to be released around the world on Friday.",
-      "summary_zh": "南非的电影院不会播放有关美国第一夫人梅拉尼亚·特朗普的纪录片,"
+      "title": "Why Iran's response to a US attack could be different this time",
+      "title_zh": "为何伊朗这次对美国攻击的反应可能不同?",
+      "link": "https://www.bbc.com/news/articles/cn9z497g4vvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T11:04:11+00:00",
+      "summary": "The arrival of the USS Abraham Lincoln carrier strike group into the US Central Command area of responsibility, close to Iranian waters, has sharpened the sense that a broader confrontation may be taking shape.",
+      "summary_zh": "USS Abraham Lincoln号航空母舰攻击小组抵达靠近伊朗水域的美国中央指挥区,加深了更广泛的对抗可能正在形成的感觉。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
-      "title_zh": "以色列人质在加沙被关押了近500天,",
-      "link": "https://www.bbc.com/news/articles/c8rm20gm364o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T16:25:40+00:00",
-      "summary": "A former Israeli hostage who was held for nearly 500 days in Gaza says the return of the body of the final hostage this week means all the released captives can \"now breathe and start our lives again\".",
-      "summary_zh": "一名在加沙被关押了近500天的前以色列人质说,本周最后一名人质的尸体被送回意味着所有被释放的被俘者都能\"呼吸并重新开始我们的生活\"."
+      "title": "'She's done a great job' - Donald Trump praises Melania's film",
+      "title_zh": "\"她做得很好\"-唐纳德·特朗普称赞梅拉尼亚的电影",
+      "link": "https://www.bbc.com/news/videos/cvgnqgl57p2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T10:35:16+00:00",
+      "summary": "Melania Trump and her husband US President Donald Trump have walked the black carpet at the premier of her new documentary.",
+      "summary_zh": "梅拉尼亚·特朗普和丈夫美国总统唐纳德·特朗普在她的新纪录片首映时走过黑地毯."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "France moves to abolish concept of marital duty to have sex",
-      "title_zh": "法国废除了性婚姻义务的概念",
-      "link": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T16:00:41+00:00",
-      "summary": "France is to enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
-      "summary_zh": "法国将在法律中规定所谓的“同居权”的终结,即婚姻意味着有性的义务。"
+      "title": "Healthcare, visas and whisky: What did UK and China get from Starmer's visit?",
+      "title_zh": "医疗,签证和威士忌:英国和中国从斯塔默的访问中得到了什么?.",
+      "link": "https://www.bbc.com/news/articles/cm2j04lk83zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T08:23:12+00:00",
+      "summary": "Sir Keir Starmer's visit to China this week is the clearest sign yet the two countries are seeking to end the diplomatic \"ice age\" that has defined their relationship.",
+      "summary_zh": "Keir Starmer爵士本周访华是最清楚的标志,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
-      "title_zh": "科学家们说,挪威岛屿上的极地熊越肥越健康,",
-      "link": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T16:00:09+00:00",
-      "summary": "Scientists expected the opposite, but polar bears in the Norwegian Arctic archipelago of Svalbard have become fatter and healthier since the early 1990s, all while sea ice has steadily declined due to climate change.",
-      "summary_zh": "科学家们预计相反,但自1990年代初以来,挪威北极斯瓦尔巴群岛的北极熊已变得更肥并更健康,与此同时,由于气候变化,海冰已稳步下降。"
+      "title": "Indonesian couple caned 140 times for sex and alcohol offences",
+      "title_zh": "印度尼西亚夫妇因性与酗酒罪被鞭打140下",
+      "link": "https://www.bbc.com/news/articles/c23ryxre907o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T06:53:22+00:00",
+      "summary": "A couple in Indonesia has been caned 140 times for having sex outside marriage and drinking alcohol because it violates Sharia, or Islamic religious law.",
+      "summary_zh": "印度尼西亚一对夫妇因婚外性行为和酗酒被鞭打140次,因为这违反了伊斯兰教法或伊斯兰宗教法。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Heavy gunfire and blasts heard near airport in Niger's capital",
-      "title_zh": "在尼日尔首都机场附近听到枪声和爆炸声",
-      "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T14:55:58+00:00",
-      "summary": "Sustained heavy gunfire and loud explosions have been heard in Niger near the international airport outside the capital, Niamey.",
-      "summary_zh": "在尼日尔首都尼亚美外的国际机场附近,听到持续有激烈的枪声和响亮的爆炸声."
+      "title": "Trump and his sons sue IRS and US Treasury over leaked tax information",
+      "title_zh": "特朗普和他的儿子们控告国税局和美国财政部泄露税收信息",
+      "link": "https://www.bbc.com/news/articles/c23ryyrx40yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T02:37:40+00:00",
+      "summary": "US President Donald Trump and his two sons have filed a billion-dollar lawsuit against the federal government over leaks of their business and personal tax returns.",
+      "summary_zh": "美国总统唐纳德·特朗普和他的两个儿子就他们的生意和个人纳税申报泄露向联邦政府提起了十亿美元的诉讼."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US Senator Amy Klobuchar announces bid for Minnesota governor",
-      "title_zh": "美国参议员艾米·克洛布查尔宣布竞选明尼苏达州州长",
-      "link": "https://www.bbc.com/news/articles/cq8413k1xvno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T14:55:35+00:00",
-      "summary": "Democratic US Senator Amy Klobuchar has said she is running for governor in her home state of Minnesota amid the tumult of an ongoing immigration crackdown.",
-      "summary_zh": "美国民主党参议员艾米·克洛布查尔(Amy Klobuchar)表示, 她正在家乡明尼苏达州竞选州长,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "田久保前伊東市長 警察の任意聴取に“犯罪の成立を否認する”",
-      "title_zh": "确定在警察任择审讯中确立犯罪",
-      "link": "http://www3.nhk.or.jp/news/html/20260129/k10015038721000.html",
-      "published_at": "2026-01-29T13:47:39+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "title": "Watch: Batman tells city council to not assist ICE at Super Bowl",
+      "title_zh": "观察:蝙蝠侠告诉市议会不要在超级杯上协助ICE",
+      "link": "https://www.bbc.com/news/videos/c0key218pm4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T01:33:44+00:00",
+      "summary": "During a meeting with the Santa Clara City Council, a man dressed as Batman confronted city officials over the presence of Immigration and Custom Enforcement (ICE) agents at the upcoming Super Bowl at Levi's Stadium.",
+      "summary_zh": "在与圣克拉拉市议会的一次会议上,一名穿蝙蝠侠服装的男子在即将到来的利维体育场超级碗上,因移民与海关执法(ICE)特工在场而与城市官员对峙."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ukraine receives 1,000 bodies in latest soldier swap with Russia",
-      "title_zh": "乌克兰接收了1000具尸体 最近与俄罗斯交换士兵",
-      "link": "https://www.bbc.com/news/articles/cp9jl8vxdy9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T13:31:24+00:00",
-      "summary": "The bodies of 1,000 Ukrainian soldiers have been returned by Russia, Kyiv has said, in the latest exchange between the warring countries.",
-      "summary_zh": "基辅说,俄罗斯归还了1000名乌克兰士兵的尸体,这是交战国之间最近一次交换。"
+      "title": "Music legend Fela Kuti becomes first African to get Grammys Lifetime Achievement Award",
+      "title_zh": "音乐传奇 Fela Kuti 成为第一个获得格莱美斯终身成就奖的非洲人",
+      "link": "https://www.bbc.com/news/articles/czx1207757xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T00:13:13+00:00",
+      "summary": "Long crowned by his legion of fans as the king of Afrobeat, the late Fela Kuti is finally being recognised by the global music industry.",
+      "summary_zh": "被他的球迷军团冠以\"Afrobeat之王\"之名,后期的Fela Kuti终于被全球音乐业所认可."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Nicki Minaj calls herself Trump's 'number one fan' and shows off gold card visa",
-      "title_zh": "Nicki Minaj自称特朗普的\"头号粉丝\",并炫耀出金卡签证.",
-      "link": "https://www.bbc.com/news/articles/cp87l604nx8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T12:20:47+00:00",
-      "summary": "Trinidad and Tobago-born rapper Nicki Minaj declared herself to be Donald Trump's \"number one fan\" on Wednesday, while also showing off her Trump \"gold card\" visa , which offers applicants residency and a path to US citizenship.",
-      "summary_zh": "特立尼达和多巴哥出生的说唱歌手Nicki Minaj在星期三宣布自己是唐纳德·特朗普的\"头号粉丝\",同时也展示了她的特朗普\"金牌\"签证,该签证为申请人提供了居留权和一条美国国籍之路."
+      "title": "BBC visits oil region at heart of Trump plan to 'Make Venezuela Great Again'",
+      "title_zh": "BBC访问石油地区,",
+      "link": "https://www.bbc.com/news/articles/ckgnp8n40reo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T00:03:18+00:00",
+      "summary": "With its neat rows of detached family homes, complete with grass lawns and porches, Miraflores could be mistaken for a typical American suburb.",
+      "summary_zh": "凭借其整齐的一行离散出的家庭住宅,并配有草地和出廊,米拉弗洛雷斯可能被误认为是典型的美国郊区."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why China moved so quickly to execute 11 members of a notorious mafia family",
+      "title_zh": "为什么中国这么快就把一个臭名昭著的黑手党家族的11名成员处决了?",
+      "link": "https://www.bbc.com/news/articles/cd6wegndnjlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-29T23:00:25+00:00",
+      "summary": "No-one should be surprised that China has swiftly executed the 11 members of an organised crime family from north-eastern Myanmar who were sentenced to death in September.",
+      "summary_zh": "中国迅速处决了9月被判处死刑的缅甸东北部有组织犯罪家庭的11名成员,对此,没有人会感到惊讶。"
     },
     {
       "source": "BBC News",
@@ -226,26 +326,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What could happen if the US strikes Iran? Here are seven scenarios",
-      "title_zh": "如果美国袭击伊朗会怎么样? 这里有七种情景",
-      "link": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T06:43:49+00:00",
-      "summary": "The US appears poised to strike Iran within days.",
-      "summary_zh": "美国似乎准备在几天内袭击伊朗。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-      "title_zh": "特朗普警告伊朗“时间快到了”,",
-      "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-29T05:47:03+00:00",
-      "summary": "Donald Trump has warned Iran that \"time is running out\" to negotiate a deal on its nuclear programme following the steady build-up of US military forces in the Gulf.",
-      "summary_zh": "唐纳德·特朗普已警告伊朗,美国军队在海湾平稳集结后,\"时间不多了\",要谈判一项有关其核计划的协议."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: How Alex Pretti shooting led Trump to shift course in Minneapolis",
       "title_zh": "观察:亚历克斯·普雷蒂枪击案如何导致特朗普在明尼阿波利斯转向航道.",
       "link": "https://www.bbc.com/news/videos/cj6wgelw62do?at_medium=RSS&at_campaign=rss",
@@ -256,52 +336,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike",
-      "title_zh": "乘客描述俄罗斯无人机袭击的时刻,",
-      "link": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-28T16:59:02+00:00",
-      "summary": "A Ukrainian soldier has described the moment a passenger train was targeted by Russian drones, killing five people.",
-      "summary_zh": "一名乌克兰士兵描述了一列旅客列车被俄罗斯无人机袭击的那一刻,造成5人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Moment BA plane to London loses wheel after take-off in Vegas",
       "title_zh": "在拉斯维加斯起飞后,飞往伦敦的BA号飞机失去轮子",
       "link": "https://www.bbc.com/news/videos/c04120yqdq5o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-28T16:00:39+00:00",
       "summary": "This is the moment a British Airways flight to London suddenly lost a wheel shortly after take-off from Las Vegas.",
       "summary_zh": "这是英国航空公司飞往伦敦的航班 在从拉斯维加斯起飞后不久突然失去一个轮子的时刻"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Why Trump is hitting the road to rally Americans",
-      "title_zh": "观察:为什么特朗普要上路,",
-      "link": "https://www.bbc.com/news/videos/cz0p2xy38d0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-27T23:22:22+00:00",
-      "summary": "After a year that began with action in Venezuela and a trip to Davos, President Donald Trump is turning his attention back to the domestic economy.",
-      "summary_zh": "在委内瑞拉行动开始一年之后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'It's 2C in our flat': Inside Kyiv apartment as Russia targets power and heating",
-      "title_zh": "\"这是2C 在我们的公寓\": 基辅公寓内部,俄罗斯瞄准电力和取暖",
-      "link": "https://www.bbc.com/news/videos/crlepd1pkwxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-27T12:32:22+00:00",
-      "summary": "Russia has been exploiting Ukraine's harshest winter in years to pummel energy infrastructure across the country.",
-      "summary_zh": "俄罗斯利用乌克兰多年来最严酷的冬季,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
-      "title_zh": "新伊朗视频显示医院堆放的尸体和屋顶上的狙击手",
-      "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-26T21:34:40+00:00",
-      "summary": "Verified videos emerging from Iran show bodies piled up in a hospital, snipers stationed on buildings and CCTV cameras being destroyed, following the unprecedented crackdown on protests earlier this month.",
-      "summary_zh": "伊朗的经核实的影片显示, 尸体被堆积在医院,"
     }
   ]
 }
