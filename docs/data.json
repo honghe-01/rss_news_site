@@ -1,8 +1,288 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-01-30T22:46:36+00:00",
-  "count": 34,
+  "generated_at": "2026-01-31T22:40:03+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five killed in gas explosions in Iran, officials say",
+      "title_zh": "伊朗有五人死于瓦斯爆炸,",
+      "link": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T22:03:12+00:00",
+      "summary": "Five people have been killed in two separate explosions in Iran which local officials and state media say were caused by gas leaks.",
+      "summary_zh": "当地官员和国家媒体都说,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "スイス 40人死亡の飲食店火災から1か月 安全対策強化の動きも",
+      "title_zh": "瑞士 一个月40人死亡餐厅火灾",
+      "link": "http://www3.nhk.or.jp/news/html/20260201/k10015040691000.html",
+      "published_at": "2026-01-31T21:59:19+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "スキージャンプ女子W杯 個人第23戦 丸山希が3位に",
+      "title_zh": "滑雪跳跃女子W杯个人 第23轮",
+      "link": "http://www3.nhk.or.jp/news/html/20260201/k10015040741000.html",
+      "published_at": "2026-01-31T21:56:14+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "羽田空港 強盗未遂事件 空港到着後すぐに襲ったか",
+      "title_zh": "花田机场盗窃事件 它到达机场后会立即被攻击吗?",
+      "link": "http://www3.nhk.or.jp/news/html/20260201/k10015040681000.html",
+      "published_at": "2026-01-31T21:54:42+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イランの集合住宅 爆発で死傷者 通信社は攻撃との見方を否定",
+      "title_zh": "伊朗被被被忽略的爆炸物摧毁的房屋",
+      "link": "http://www3.nhk.or.jp/news/html/20260201/k10015040781000.html",
+      "published_at": "2026-01-31T21:09:24+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "投票日まで1週間 各党幹部 外国人政策をめぐって論戦交わす",
+      "title_zh": "投票日期前一周,每个党的主管讨论外交政策",
+      "link": "http://www3.nhk.or.jp/news/html/20260201/k10015040661000.html",
+      "published_at": "2026-01-31T21:05:39+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Federal judge denies request to block ICE surge in Minnesota",
+      "title_zh": "联邦法官拒绝阻止 ICE 在明尼苏达州激增的要求",
+      "link": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T18:21:58+00:00",
+      "summary": "A federal judge on Saturday denied a state government request to block the Trump administration's deployment of thousands of federal immigration agents in Minneapolis, Minnesota.",
+      "summary_zh": "星期六一名联邦法官拒绝了州政府关于阻止特朗普政府向明尼苏达州明尼阿波利斯部署上千名联邦移民官员的请求."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+      "title_zh": "以色列空袭造成加沙至少32名巴勒斯坦人死亡,",
+      "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T18:06:01+00:00",
+      "summary": "At least 32 people have been killed in a wave of Israeli air strikes across the Gaza Strip on Saturday, according to local authorities.",
+      "summary_zh": "据地方当局称,星期六以色列空袭加沙地带,至少32人被炸死。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Takeaways from the millions of newly released Epstein files",
+      "title_zh": "从新发布的数百万 Epstein 文件中带走的",
+      "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T17:48:01+00:00",
+      "summary": "Millions of new files relating to the late sex offender Jeffrey Epstein have been released by the US Department of Justice (DOJ), the largest number of documents shared by the government since a law mandated their release last year.",
+      "summary_zh": "美国司法部(DOJ)已经发布了数百万份与晚期性罪犯Jeffrey Epstein有关的新档案, 这是自去年法律授权公布这些文件以来, 政府共享的文件数量最多。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
+      "title_zh": "佩德罗·帕斯卡尔和梅丽尔·斯特里普领衔向凯瑟琳·奥哈拉致敬",
+      "link": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T17:41:48+00:00",
+      "summary": "Meryl Streep, Pedro Pascal and Ben Stiller are among celebrities to have paid tribute to Emmy-winning actor Catherine O'Hara, who died on Friday aged 71.",
+      "summary_zh": "梅里尔·斯特里普,佩德罗·帕斯卡尔和本·斯蒂勒等名人向艾美获奖演员凯瑟琳·奥哈拉致敬,她于星期五逝世,享年71岁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Musk's SpaceX applies to launch 1m satellites into orbit",
+      "title_zh": "Musk's SpaceX适用于将1米卫星送入轨道",
+      "link": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T16:19:17+00:00",
+      "summary": "Elon Musk's SpaceX has applied to launch one million satellites into Earth's orbit to power artificial intelligence (AI).",
+      "summary_zh": "Elon Musk's SpaceX应用将一百万颗卫星发射入地轨道,为人工智能提供动力(AI)."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "秋田 大仙 屋根の雪下ろしの作業をしていたとみられる夫婦死亡",
+      "title_zh": "秋田・戴森 妻子死了,说他在屋顶雪地上工作",
+      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040631000.html",
+      "published_at": "2026-01-31T15:54:12+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former CNN host Don Lemon charged in anti-ICE protest at Minnesota church",
+      "title_zh": "前CNN主持人唐·莱蒙(Don Lemon)在明尼苏达教堂的反天主教抗议中被起诉",
+      "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T15:16:54+00:00",
+      "summary": "Former CNN host Don Lemon has been arrested and charged after entering a Minnesota church and filming anti-immigration enforcement protesters as they disrupted a service.",
+      "summary_zh": "前CNN主持人唐·莱蒙(Don Lemon)在进入明尼苏达州教堂并拍摄了反移民执法抗议者,当他们破坏一项服务时,他被逮捕并被指控."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Canada's Poilievre sweeps Conservative party leadership test with 87.4%",
+      "title_zh": "加拿大的\"波伊利耶夫\"以87.4%的成绩扫射保守党的领导才能测试.",
+      "link": "https://www.bbc.com/news/articles/c14r1023yy6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T14:45:42+00:00",
+      "summary": "Pierre Poilievre has cemented his position as Canada's Conservative Party leader, having received a strong endorsement from members despite presiding over recent electoral defeats.",
+      "summary_zh": "皮埃尔·波伊利耶夫(Pierre Poilievre)巩固了自己作为加拿大保守党领袖的地位,尽管最近主持选举失败,但获得了议员们的大力支持."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Frozen river hosts dance party in Kyiv",
+      "title_zh": "看:基辅冻河主持人舞蹈会",
+      "link": "https://www.bbc.com/news/videos/c5yvw9zq5q0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T14:45:15+00:00",
+      "summary": "Russia's relentless attacks have crippled Ukraine's energy system and even though Moscow has agreed to pause its attacks until 1 February, the country's electricity grid is still under greater pressure.",
+      "summary_zh": "俄罗斯无情的攻击使乌克兰的能源系统瘫痪了,尽管莫斯科同意暂停攻击直到2月1日,但该国的电网仍然面临更大的压力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More than 200 killed in mine collapse in DR Congo",
+      "title_zh": "刚果DR有200多人死亡",
+      "link": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T13:18:00+00:00",
+      "summary": "More than 200 people have been killed in a mine collapse in eastern Democratic Republic of Congo, rebel authorities have said.",
+      "summary_zh": "叛军当局说,刚果民主共和国东部有200多人死亡。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
+      "title_zh": "以色列政权在伊朗变换,",
+      "link": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T12:52:08+00:00",
+      "summary": "Amid the din of global speculation over US military build-up in the Middle East, Israel's leaders have remained unusually silent.",
+      "summary_zh": "在全球对美国在中东军事集结的猜测中,以色列领导人一直保持沉默。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pokémon cancels event at controversial Japan shrine following backlash",
+      "title_zh": "Pokémon在抗争后取消日本神社的活动",
+      "link": "https://www.bbc.com/news/articles/cdjn0nmnjmwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T12:08:05+00:00",
+      "summary": "A Pokémon card game event at a shrine honouring Japan's war dead has been cancelled following a backlash in China.",
+      "summary_zh": "纪念日本战死神的神社所举办的\"Pokémon牌\"游戏活动在中国遭到回击后被取消."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukrainians brace for -20C despite energy truce: 'It will be a catastrophe'",
+      "title_zh": "乌克兰人不顾能源休战,",
+      "link": "https://www.bbc.com/news/articles/c75xg17rr1xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T12:02:00+00:00",
+      "summary": "It's not the electricity cuts that Yulia Hailunas struggles with most after the Russian airstrikes. It's the fact that it's so bitterly cold inside her own home.",
+      "summary_zh": "尤利娅·海卢纳斯在俄国空袭后 与大部分人挣扎的不是断电 其自家所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所入所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所入所出所出所入所出所出所入所出所出所出所出所出所出所出所出所出所出所出所出所出"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大阪拘置所で41歳の死刑囚が死亡 大学生ら2人殺害",
+      "title_zh": "41岁死刑犯在大阪看守所逝世.",
+      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040591000.html",
+      "published_at": "2026-01-31T09:53:07+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel split over plans to bring back death penalty for deadly attacks",
+      "title_zh": "以色列分裂了恢复对致命袭击判处死刑的计划",
+      "link": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T06:09:39+00:00",
+      "summary": "Israel has only twice used the death penalty against a convicted prisoner. The last time was more than sixty years ago, to hang the notorious Nazi war criminal, Adolf Eichmann.",
+      "summary_zh": "以色列只两次对已定罪的囚犯使用死刑。 最后一次是60多年前,绞死臭名昭著的纳粹战争罪犯阿道夫·艾克曼."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US government partially shuts down despite last minute funding deal",
+      "title_zh": "美国政府不顾最后一刻的融资交易 部分关闭",
+      "link": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T05:10:27+00:00",
+      "summary": "The US federal government has partially shutdown despite a last-ditch funding deal approved by the Senate.",
+      "summary_zh": "尽管参议院批准了最后一笔资金交易,美国联邦政府仍部分停业."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we learned - and didn't - from the Melania documentary",
+      "title_zh": "我们从梅拉尼亚纪录片中学到的,没有",
+      "link": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T03:03:31+00:00",
+      "summary": "From televised cabinet meetings to late night Truth Social posts, US President Donald Trump has rarely stepped out of the spotlight since he resumed office in January.",
+      "summary_zh": "美国总统唐纳德·特朗普从电视内阁会议到深夜的\"真相社会\"帖子,自一月份复出后,很少走出焦点."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Stay or go - what's next for coyote that escaped to Alcatraz?",
+      "title_zh": "留下来还是走 逃到阿卡特拉斯的野狼接下来怎么办?",
+      "link": "https://www.bbc.com/news/articles/c0q4y95yv4jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T02:49:56+00:00",
+      "summary": "A lone coyote that swam more than a mile across San Francisco Bay to Alcatraz Island is being monitored by scientists and could be moved if its presence threatens birds on the infamous Californian island.",
+      "summary_zh": "一只游过旧金山湾到阿尔卡特斯岛一多英里的独狼正在被科学家监测,如果它的存在威胁到臭名昭著的加利福尼亚岛上的鸟类,它可能会被移动."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "One wrong move and it could all go wrong - the men clearing deadly undersea Russian mines",
+      "title_zh": "一个错误的举动,它可能都是错误的 - 人清除致命的海底俄罗斯地雷",
+      "link": "https://www.bbc.com/news/articles/c70lgwprw7ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T00:19:00+00:00",
+      "summary": "The Black Sea is littered with deadly weapons. But no-one knows how many – or where they are.",
+      "summary_zh": "黑海充斥着致命武器。 但没人知道他们有多少人,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "This army chief threatened to castrate opposition leader and claimed descent from Jesus",
+      "title_zh": "这个军长威胁要阉割反对派领袖 并声称是耶稣的后裔",
+      "link": "https://www.bbc.com/news/articles/cdjnp9m8wvgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T00:05:52+00:00",
+      "summary": "A fiery tweeter who is in charge of Uganda's military, Gen Muhoozi Kainerugaba is decried by his critics as being in the middle of an unholy trinity, or alliance, of three men who rule the East African nation with an iron fist.",
+      "summary_zh": "Gen Muhoozi Kainerugaba是位掌管乌干达军事的狂热推特作者,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "An ingredient for this curry is missing - and in eight minutes it's at the door",
+      "title_zh": "咖喱的原料不见了 八分钟就到门口了",
+      "link": "https://www.bbc.com/news/articles/cvgx7ykl12go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-31T00:01:04+00:00",
+      "summary": "Tanisha Singh is getting ready for work early one morning and cooking a simple curry for her lunchbox when she realises she's out of tomatoes.",
+      "summary_zh": "Tanisha Singh一早就准备好上班了 当她意识到自己没有西红柿的时候 给她的午餐盒煮了个简单的咖喱"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
+      "title_zh": "路易吉·曼吉奥内不会面临死刑 如果定罪 审判规则",
+      "link": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T23:30:03+00:00",
+      "summary": "Luigi Mangione, the man accused of gunning down UnitedHealthcare chief executive Brian Thompson, will not face the death penalty if convicted, a court has ruled.",
+      "summary_zh": "Luigi Mangione, 被控枪杀United Health Care首席执行官Brian Thompson的人, 如果被定罪,"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
@@ -14,104 +294,14 @@
       "summary_zh": "唐纳德·特朗普一直呼吁美国央行进行改革."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NYダウ 一時600ドル超値下がり 次のFRB議長 利下げに不透明感",
-      "title_zh": "NY Daw T 600 附加价值 下届财会主席鉴定",
-      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040211000.html",
-      "published_at": "2026-01-30T22:06:30+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 核開発めぐる交渉“イランは合意望んでいる”",
-      "title_zh": "特朗普总统谈判核开发“伊朗希望同意”",
-      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040231000.html",
-      "published_at": "2026-01-30T21:54:09+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Iran wants to make deal rather than face military action, Trump says",
       "title_zh": "特朗普说,",
       "link": "https://www.bbc.com/news/articles/cd9ew2kwj0lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-30T21:43:51+00:00",
-      "summary": "President Donald Trump has said Iran wants to make a deal rather than face US military action, despite Tehran's insistence that its missile and defence systems will \"never\" be up for negotiation.",
-      "summary_zh": "总统唐纳德·特朗普表示,伊朗希望达成协议,而不是面对美国的军事行动,尽管德黑兰坚持其导弹和防御系统将\"永远不要\"谈判."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Former CNN host Don Lemon faces charges after anti-ICE protest at Minnesota church",
-      "title_zh": "前CNN主持人唐·莱蒙在明尼苏达教堂抗议后面临指控",
-      "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-30T21:41:48+00:00",
-      "summary": "Former CNN host Don Lemon has been arrested and will face federal charges after he entered a Minnesota church and filmed anti-immigration enforcement protesters as they disrupted a service.",
-      "summary_zh": "前CNN主持人唐·莱蒙(Don Lemon)已经被捕,在他进入明尼苏达州教堂并拍摄反移民执法抗议者破坏某项服务后,他将面临联邦指控."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "スキージャンプW杯 混合団体 日本3位 五輪のメダル獲得へ弾み",
-      "title_zh": "Ski Jump W Cup 混合小组 日本 第 三 名",
-      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015040181000.html",
-      "published_at": "2026-01-30T21:39:29+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71",
-      "title_zh": "希特克克和独家明星 Catherine O'Hara去世71岁",
-      "link": "https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-30T21:22:48+00:00",
-      "summary": "Catherine O'Hara, the comedic actress best known for her starring roles in the Home Alone and Beetlejuice films, as well as her Emmy-winning turn in Schitt's Creek, has died aged 71.",
-      "summary_zh": "凯瑟琳·奥哈拉(英語:Catherine O'Hara)是喜剧演员,以主演\"孤家寡人\"和\"贝特尔朱斯\"等电影出道而出名,她也因艾美获奖而出道于\"斯克特之溪\"而去世,享年71岁."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米FRB議長後任にウォーシュ氏 FRB元理事 トランプ大統領が指名",
-      "title_zh": "Warsch先生,FRB前局长,特朗普总统由FRB主席提名",
-      "link": "http://www3.nhk.or.jp/news/html/20260130/k10015040131000.html",
-      "published_at": "2026-01-30T20:55:36+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "4億円余強奪事件 被害のグループ“1日数万円で現金運ぶ約束”",
-      "title_zh": "40亿日元的情绪事件“承诺每天携带几百万日元的现金”",
-      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015039951000.html",
-      "published_at": "2026-01-30T20:53:44+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "衆議院選挙 SNS上の誤情報や偽情報などへの各党の対策は",
-      "title_zh": "版权 (C) SNSRAL Electronics CO., LTD. 所有权利保留.",
-      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015039931000.html",
-      "published_at": "2026-01-30T20:29:41+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "高市首相 きょう英首相と首脳会談 幅広い分野で協力強化確認へ",
-      "title_zh": "高一总理和京畿总理确认在广泛领域的合作",
-      "link": "http://www3.nhk.or.jp/news/html/20260131/k10015039941000.html",
-      "published_at": "2026-01-30T19:52:31+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "summary": "Donald Trump has said Iran wants to make a deal rather than face US military action, despite Tehran's insistence that its missile and defence systems will \"never\" be up for negotiation.",
+      "summary_zh": "唐纳德·特朗普表示伊朗希望达成协议,而不是面对美国的军事行动,尽管德黑兰坚持其导弹和防御系统将\"永远不要\"谈判."
     },
     {
       "source": "BBC News",
@@ -136,22 +326,22 @@
     {
       "source": "BBC News",
       "source_lang": "en",
+      "title": "This tiny Australian town is up for sale - but the locals don't want to leave",
+      "title_zh": "这个澳洲小镇要卖了 但当地人不想离开",
+      "link": "https://www.bbc.com/news/articles/c3wz49z6gyyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-30T19:02:00+00:00",
+      "summary": "Tucked away in the rugged Victorian bushland lies the tiny outpost of Licola, population: five.",
+      "summary_zh": "被困在崎岖的维多利亚灌木地里 利可拉的小前哨 人口:五。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
       "title": "Mali lawmaker jailed in Ivory Coast for insulting president",
       "title_zh": "马里立法者因侮辱总统而入狱于象牙海岸",
       "link": "https://www.bbc.com/news/articles/c74vgxp0zr4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-01-30T18:09:20+00:00",
       "summary": "A Malian lawmaker has been jailed in neighbouring Ivory Coast for three years for insulting the 84-year-old Ivorian leader, who recently won a fourth term in office.",
       "summary_zh": "一名马里立法者因侮辱84岁的科特迪瓦领导人而被监禁在相邻的象牙海岸,最近他赢得了第四次任期。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
-      "title_zh": "路易吉·曼吉奥内不会面临死刑 如果定罪 审判规则",
-      "link": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-30T17:02:16+00:00",
-      "summary": "Luigi Mangione will not face the death penalty if convicted of killing UnitedHealthcare chief executive Brian Thompson, a federal court has ruled.",
-      "summary_zh": "Luigi Mangione不会面临死刑, 如果一个联邦法院裁定,"
     },
     {
       "source": "BBC News",
@@ -176,16 +366,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "South Africa and Israel expel each other's envoys in diplomatic row",
-      "title_zh": "南非和以色列将对方的使节逐一驱逐",
-      "link": "https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-30T16:10:24+00:00",
-      "summary": "South Africa has expelled Israel's top diplomat in the country for \"violating diplomatic norms\", a move that prompted Israel to kick out a South African envoy in retaliation.",
-      "summary_zh": "南非以\"违反外交规范\"为由驱逐了以色列在该国的最高外交官,这一举动促使以色列将一名南非使节赶出以进行报复."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Ukraine sees quieter night as Trump says Putin will not attack its cities",
       "title_zh": "乌克兰认为今晚更安静,",
       "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
@@ -202,16 +382,6 @@
       "published_at": "2026-01-30T13:12:25+00:00",
       "summary": "At least 170 people were killed in military air strikes during Myanmar's weeks' long election period, the United Nations has said.",
       "summary_zh": "联合国表示,在缅甸长达几周的选举期间,至少有170人在军事空袭中丧生."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Syrian government reaches deal with Kurdish-led forces",
-      "title_zh": "叙利亚政府处理库尔德人领导的部队",
-      "link": "https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-30T12:42:37+00:00",
-      "summary": "Syria's government has reached a deal with the Kurdish-led Syrian Democratic Forces (SDF) militia alliance that would see the gradual intergration of Kurdish forces and institutions into the state.",
-      "summary_zh": "叙利亚政府已与库尔德人领导的叙利亚民主力量(SDF)民兵联盟达成协议,该联盟将看到库尔德人势力和机构逐步交接进入国家."
     },
     {
       "source": "BBC News",
@@ -256,26 +426,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Indonesian couple caned 140 times for sex and alcohol offences",
-      "title_zh": "印度尼西亚夫妇因性与酗酒罪被鞭打140下",
-      "link": "https://www.bbc.com/news/articles/c23ryxre907o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-30T06:53:22+00:00",
-      "summary": "A couple in Indonesia has been caned 140 times for having sex outside marriage and drinking alcohol because it violates Sharia, or Islamic religious law.",
-      "summary_zh": "印度尼西亚一对夫妇因婚外性行为和酗酒被鞭打140次,因为这违反了伊斯兰教法或伊斯兰宗教法。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump and his sons sue IRS and US Treasury over leaked tax information",
-      "title_zh": "特朗普和他的儿子们控告国税局和美国财政部泄露税收信息",
-      "link": "https://www.bbc.com/news/articles/c23ryyrx40yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-30T02:37:40+00:00",
-      "summary": "US President Donald Trump and his two sons have filed a billion-dollar lawsuit against the federal government over leaks of their business and personal tax returns.",
-      "summary_zh": "美国总统唐纳德·特朗普和他的两个儿子就他们的生意和个人纳税申报泄露向联邦政府提起了十亿美元的诉讼."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: Batman tells city council to not assist ICE at Super Bowl",
       "title_zh": "观察:蝙蝠侠告诉市议会不要在超级杯上协助ICE",
       "link": "https://www.bbc.com/news/videos/c0key218pm4o?at_medium=RSS&at_campaign=rss",
@@ -292,16 +442,6 @@
       "published_at": "2026-01-30T00:13:13+00:00",
       "summary": "Long crowned by his legion of fans as the king of Afrobeat, the late Fela Kuti is finally being recognised by the global music industry.",
       "summary_zh": "被他的球迷军团冠以\"Afrobeat之王\"之名,后期的Fela Kuti终于被全球音乐业所认可."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC visits oil region at heart of Trump plan to 'Make Venezuela Great Again'",
-      "title_zh": "BBC访问石油地区,",
-      "link": "https://www.bbc.com/news/articles/ckgnp8n40reo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-30T00:03:18+00:00",
-      "summary": "With its neat rows of detached family homes, complete with grass lawns and porches, Miraflores could be mistaken for a typical American suburb.",
-      "summary_zh": "凭借其整齐的一行离散出的家庭住宅,并配有草地和出廊,米拉弗洛雷斯可能被误认为是典型的美国郊区."
     },
     {
       "source": "BBC News",
@@ -332,16 +472,6 @@
       "published_at": "2026-01-28T23:10:05+00:00",
       "summary": "The death of Alex Pretti in Minneapolis, the second fatal shooting by federal agents there in less than a month, reignited a public outcry at the tactics used in the city's sweeping immigration operation.",
       "summary_zh": "亚历克丝·普雷蒂在明尼阿波利斯被联邦特工在不到一个月的时间里射杀的第二起死亡事件,引发了公众对该市大规模移民行动中所采用的策略的强烈抗议."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment BA plane to London loses wheel after take-off in Vegas",
-      "title_zh": "在拉斯维加斯起飞后,飞往伦敦的BA号飞机失去轮子",
-      "link": "https://www.bbc.com/news/videos/c04120yqdq5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-01-28T16:00:39+00:00",
-      "summary": "This is the moment a British Airways flight to London suddenly lost a wheel shortly after take-off from Las Vegas.",
-      "summary_zh": "这是英国航空公司飞往伦敦的航班 在从拉斯维加斯起飞后不久突然失去一个轮子的时刻"
     }
   ]
 }
