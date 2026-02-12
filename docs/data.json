@@ -1,17 +1,147 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-02-11T22:50:41+00:00",
-  "count": 36,
+  "generated_at": "2026-02-12T22:52:00+00:00",
+  "count": 31,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米トランプ政権 自動車排ガス規制撤廃を発表",
+      "title_zh": "美国特朗普宣布对汽车排气条例的贬损",
+      "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050631000.html",
+      "published_at": "2026-02-12T22:11:36+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "スノーボード女子ハーフパイプ 小野光希が銅メダル【全結果】",
+      "title_zh": "雪花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花",
+      "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050501000.html",
+      "published_at": "2026-02-12T22:08:09+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "全国的に気温上昇 雪どけ進むおそれ 雪崩や落雪などに注意",
+      "title_zh": "气温在全国上升.",
+      "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050671000.html",
+      "published_at": "2026-02-12T21:53:24+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump tells Netanyahu Iran nuclear talks must continue",
-      "title_zh": "川普告诉内塔尼亚胡 伊朗核会谈必须继续下去",
-      "link": "https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T22:25:07+00:00",
-      "summary": "US President Donald Trump said \"nothing definitive\" was agreed but that he had \"insisted\" talks with Iran continue during a meeting with Israeli Prime Minister Benjamin Netanyahu on Wednesday.",
-      "summary_zh": "美国总统唐纳德·特朗普说,\"没有什么确定的\"是同意的,但他在星期三同以色列总理本雅明·内塔尼亚胡的会谈中,继续与伊朗\"坚持\"会谈."
+      "title": "Iran fortifies underground complex near nuclear site, satellite images show",
+      "title_zh": "伊朗在核场地附近加固了地下建筑群,卫星图像显示",
+      "link": "https://www.bbc.com/news/articles/cwygxz81330o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T21:27:28+00:00",
+      "summary": "Iran has been fortifying an underground complex near one of its nuclear facilities, according to analysis of new satellite images.",
+      "summary_zh": "根据对新卫星图像的分析,伊朗一直在为其核设施附近的地下建筑群进行强化。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中道 代表選挙 階氏と小川氏が立候補 きょう投票 新代表選出へ",
+      "title_zh": "中美一代表选举 F先生和小川先生将被选为新代表",
+      "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050371000.html",
+      "published_at": "2026-02-12T20:55:48+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日米合意に基づく80兆円規模の投資巡り閣僚間で協議",
+      "title_zh": "基于美国协议的80万亿日元投资",
+      "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050391000.html",
+      "published_at": "2026-02-12T20:54:46+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "IOC criticised for selling Nazi-era Olympics T-shirt",
+      "title_zh": "国际奥委会批评出售纳粹时代奥运会T恤",
+      "link": "https://www.bbc.com/news/articles/cpv8zwxwp2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T20:37:06+00:00",
+      "summary": "The official online fan shop of the Olympic Games has been selling T-shirts with designs from the Berlin Olympic Games in 1936, which were used by Adolf Hitler and the Nazis for propaganda.",
+      "summary_zh": "本届奥运会的官方在线粉丝店一直在销售由1936年柏林奥运会设计而成的T恤,被阿道夫·希特勒和纳粹用于宣传."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+      "title_zh": "特朗普撤销了温室气体危害公共卫生的里程碑式裁决.",
+      "link": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T20:35:15+00:00",
+      "summary": "US President Donald Trump has reversed a key Obama-era scientific ruling that underpins all federal actions on curbing planet-warming gases.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)推翻了奥巴马时代一项关键的科学裁决,该裁决支撑了所有联邦遏制地球升温气体的行动."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Judge blocks US military from demoting Mark Kelly over 'illegal orders' video",
+      "title_zh": "法官阻止美国军方对\"非法命令\"视频 进行降级",
+      "link": "https://www.bbc.com/news/articles/cvgk4vl30vko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T20:31:12+00:00",
+      "summary": "A federal judge has blocked Secretary of Defence Pete Hegseth from lowering Senator Mark Kelly's rank in the military over his urging service members to refuse illegal orders.",
+      "summary_zh": "一名联邦法官阻止国防部长皮特·赫格塞斯降低参议员马克·凯利的军衔,因为他敦促服役人员拒绝非法命令."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Minnesota immigration enforcement surge is ending, Trump border tsar says",
+      "title_zh": "明尼苏达州移民执法激增即将结束,",
+      "link": "https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T19:47:08+00:00",
+      "summary": "The US immigration enforcement surge in Minnesota will end, President Donald Trump's border tsar told reporters on Thursday.",
+      "summary_zh": "美国明尼苏达移民执法激增将结束 唐纳德·特朗普总统边境沙皇星期四告诉记者."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'My son is dead': Swiss bar owners confronted by fire victim families",
+      "title_zh": "\"我儿子死了\":瑞士酒吧老板面对火灾受害者家庭.",
+      "link": "https://www.bbc.com/news/videos/c99jr58m4z4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T18:40:50+00:00",
+      "summary": "The owners of a Swiss bar, where a deadly fire broke out on New Year's Eve, killing 41 people and injuring at least 115 others, were heckled by grieving families, as they appeared in court in Switzerland on Thursday.",
+      "summary_zh": "瑞士一家酒吧的店主在除夕夜爆发了一场致命的火灾,造成41人死亡,至少115人受伤,他们遭到悲痛家庭的鞭打,因为星期四他们出现在瑞士的法庭上."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Canada mass shooting suspect had police visits over mental health struggles",
+      "title_zh": "加拿大大规模枪击案嫌疑人因心理健康斗争被警方探视",
+      "link": "https://www.bbc.com/news/articles/clyz2x4yzqgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T18:34:43+00:00",
+      "summary": "The teenage suspect in a mass shooting in rural British Columbia had been the subject of a number of police visits in recent years because of mental health issues, authorities say.",
+      "summary_zh": "当局说,近些年来,由于精神健康问题,不列颠哥伦比亚省农村大规模枪击案的十几岁嫌疑人曾受到警方多次探访。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya's border with Somalia set to re-open after almost 15 years",
+      "title_zh": "肯尼亚同索马里接壤的边界在将近15年后将重新开放",
+      "link": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T18:34:31+00:00",
+      "summary": "Kenya's border with Somalia will re-open in April almost 15 years after it shut because of attacks by Islamist militant group al-Shabab, President William Ruto has announced.",
+      "summary_zh": "肯尼亚与索马里接壤的边界将在关闭近15年后的4月重新开放,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Norway's former PM charged with gross corruption over Epstein links",
+      "title_zh": "挪威前首相指控 Epstein 连结严重腐败",
+      "link": "https://www.bbc.com/news/articles/c5yqr8eggvwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T16:37:32+00:00",
+      "summary": "Former Norwegian Prime Minister Thorbjørn Jagland has been charged with \"gross corruption\" over his ties with the US sex offender Jeffrey Epstein, police have said.",
+      "summary_zh": "挪威前首相索尔比约恩·贾格兰因与美国性罪犯杰弗里·爱泼斯坦(Jeffrey Epstein)的关系而被指控\"严重腐败\","
     },
     {
       "source": "BBC News",
@@ -19,119 +149,119 @@
       "title": "Four takeaways from Pam Bondi's fiery Epstein testimony",
       "title_zh": "Pam Bondi的四起Epstein案的证词",
       "link": "https://www.bbc.com/news/articles/cq6ql2n917zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T22:00:57+00:00",
-      "summary": "US Attorney General Pam Bondi defended the justice department's handling of the Epstein files and faced a barrage of angry questions on other issues during a fiery congressional hearing on Wednesday.",
-      "summary_zh": "美国司法部长潘·邦迪(Pam Bondi)为司法部处理爱泼斯坦案案卷辩护,并在星期三的一场激烈的国会听证会上面临一连串关于其他问题的愤怒提问."
+      "published_at": "2026-02-12T16:30:24+00:00",
+      "summary": "US Attorney General Pam Bondi defended the justice department's handling of the files on the late sex offender Jeffrey Epstein and faced a barrage of angry questions on other issues during a fiery congressional hearing on Wednesday.",
+      "summary_zh": "美国司法部长帕姆·邦迪(Pam Bondi)为司法部门处理已故性罪犯杰弗里·爱泼斯坦(Jeffrey Epstein)的档案辩护,并在星期三的一次激烈的国会听证会上面临一连串关于其他问题的愤怒问题."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What do we know about Kim Jong Un's daughter - and expected successor?",
+      "title_zh": "关于金正恩的女儿和预期的接班人,我们知道些什么?",
+      "link": "https://www.bbc.com/news/articles/cvgvgj7ejqdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T16:00:09+00:00",
+      "summary": "Kim Jong Un's arrival in China for his first ever multilateral meeting was always going to make headlines.",
+      "summary_zh": "金正 乌恩第一次来中国参加多边会议 总是会成为头条新闻"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "バングラデシュ 政変後初の総選挙 汚職撲滅や雇用対策など争点",
-      "title_zh": "孟加拉国政府更迭后的第一次大选",
-      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049381000.html",
-      "published_at": "2026-02-11T21:54:56+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "スノボ男子HP予選 戸塚2位 平野歩夢7位 日本勢全員決勝へ",
-      "title_zh": "Snobo Men's HP 资格赛 Totsuka 第2名 平野 Ekimu 第7名 全日本",
-      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049631000.html",
-      "published_at": "2026-02-11T21:49:43+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "セブン-イレブン 北海道でおにぎりなどの製造 一日3回を2回に",
-      "title_zh": "北海道日产尼基里3次",
-      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049321000.html",
-      "published_at": "2026-02-11T21:46:22+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "キーウに暖取るテント200か所設置 エネルギー関連施設攻撃受け",
-      "title_zh": "在基尤安装了200多发热",
-      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049391000.html",
-      "published_at": "2026-02-11T21:32:43+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "政府 “ナミビアのレアアース 日本企業による権益確保検討へ”",
-      "title_zh": "政府 \" 纳米比亚的稀有地球考虑日本公司的利益保障 \"",
-      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049191000.html",
-      "published_at": "2026-02-11T21:29:14+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "日本人の妊婦 妊娠前の体重少ないと 赤ちゃん低体重リスク高く",
-      "title_zh": "低体重和婴儿",
-      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015048631000.html",
-      "published_at": "2026-02-11T21:02:01+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中道 あす代表選挙 小川淳也氏と階猛氏が立候補の意向を示す",
-      "title_zh": "中宫 大川纯也先生和Rage先生在会场上当选的阿苏人代表表明他们打算成为候选人。",
-      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049371000.html",
-      "published_at": "2026-02-11T20:40:20+00:00",
+      "title": "スキー男子モーグル 堀島行真が銅メダル 2大会連続 五輪",
+      "title_zh": "滑雪男子Mogul Koshin 贺里岛铜牌 连续2届奥运会",
+      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015050181000.html",
+      "published_at": "2026-02-12T14:33:58+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US reopens airspace over Texas border town after 'cartel drone incursion'",
-      "title_zh": "美国重新开放德克萨斯边境城镇的领空 在\"卡特尔无人机入侵\"之后",
-      "link": "https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T19:12:28+00:00",
-      "summary": "The US Department of Defense said it had disabled drones being used by Mexican cartels when it shut the airspace over El Paso, Texas, on Tuesday night.",
-      "summary_zh": "美国国防部说,星期二晚上,它关闭了德克萨斯州埃尔帕索上空的领空,从而使墨西哥卡特尔使用的无人机失效。"
+      "title": "Dawson's Creek: The 90s teen drama that 'wore its heart on its sleeve'",
+      "title_zh": "道森溪镇: 90多岁少女的剧情\"心在袖子上\"",
+      "link": "https://www.bbc.com/news/articles/c5y5x230ve4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T14:27:59+00:00",
+      "summary": "Full confession. Dawson's Creek was my guilty pleasure in the late 90s.",
+      "summary_zh": "满口忏悔. Dawson's Creek 是我在90年代后期的罪恶快乐"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Powerful cyclone kills at least 31 as it tears through Madagascar port",
-      "title_zh": "强大的气旋在马达加斯加港流出泪来 造成至少31人死亡",
+      "title": "Port city in ruins as storm rips through Madagascar and on towards Mozambique",
+      "title_zh": "港口城市因风暴掠过马达加斯加并走向莫桑比克而废墟",
       "link": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T18:48:49+00:00",
-      "summary": "At least 31 people have died after a powerful cyclone struck Madagascar, says the disaster authority in the Indian Ocean island.",
-      "summary_zh": "印度洋岛的灾难当局表示,"
+      "published_at": "2026-02-12T14:01:04+00:00",
+      "summary": "At least 35 people have died after a powerful cyclone struck Madagascar, says the disaster authority in the Indian Ocean island.",
+      "summary_zh": "据印度洋岛灾情当局称,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting",
-      "title_zh": "\"这太可怕了\":Tumbler Ridge在被枪击后被吓倒了",
-      "link": "https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T18:39:23+00:00",
-      "summary": "People in the small Canadian town of Tumbler Ridge have reacted with shock and disbelief after nine people were killed and at least 25 wounded in a shooting at a local secondary school and home.",
-      "summary_zh": "加拿大小镇通布勒岭的居民在当地一所中学和家中被枪杀9人,至少25人受伤,他们的反应令人震惊和难以置信。"
+      "title": "Two US Navy ships collide near South America",
+      "title_zh": "两艘美国海军舰艇在南美附近相撞",
+      "link": "https://www.bbc.com/news/articles/c62090j5qqjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T13:42:30+00:00",
+      "summary": "A US Navy warship collided into a Navy supply vessel during a refuel operation, the US military's Southern Command confirmed to the BBC.",
+      "summary_zh": "美国海军一艘军舰在加油行动中相撞入海军补给舰,美国军方南方司令部向英国广播公司确认."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Police release man detained in connection to Nancy Guthrie disappearance",
-      "title_zh": "警察释放因南希·古斯里失踪而被拘留的人",
-      "link": "https://www.bbc.com/news/articles/cr5l4yy3ezmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T18:23:20+00:00",
-      "summary": "Police have released a man hours after they detained him in connection to the disappearance of Nancy Guthrie, the mother of US news anchor Savannah Guthrie, CBS News, the BBC's US partner, has reported.",
-      "summary_zh": "警方在拘留一名因美国新闻主播Savannah Guthrie的母亲Nancy Guthrie失踪而释放一名男子,"
+      "title": "Polls close in first election since Gen Z protests ousted Bangladesh leader",
+      "title_zh": "自Gen Z抗议推翻孟加拉国领导人后,",
+      "link": "https://www.bbc.com/news/articles/cy7jdmvn3l0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T13:15:35+00:00",
+      "summary": "Votes are being counted in Bangladesh after its first election since student-led protests ousted prime minister Sheikh Hasina in 2024.",
+      "summary_zh": "孟加拉国自2024年学生领导的抗议活动推翻了总理谢赫·哈西娜之后,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "田久保前伊東市長側 卒業証書とされる書類の警察への提出拒否",
+      "title_zh": "塔马奇面前的伊藤难民拒绝向警方提交证件",
+      "link": "http://www3.nhk.or.jp/news/html/20260212/k10015050311000.html",
+      "published_at": "2026-02-12T11:51:01+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
+      "title_zh": "金钟 首尔说,没有选择十几岁的女儿继承人",
+      "link": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T11:10:55+00:00",
+      "summary": "North Korean leader Kim Jong Un has selected his daughter as his heir, South Korea's spy agency told lawmakers on Thursday.",
+      "summary_zh": "朝鲜领导人 金正 韩国间谍机构星期四告诉立法者,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'One in a billion': Dawson's Creek stars lead tributes to James Van Der Beek",
+      "title_zh": "\"十亿分之一\": Dawson's Creek之星引来对James Van Der Beek的致敬",
+      "link": "https://www.bbc.com/news/articles/cewz2yr47dvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T09:02:30+00:00",
+      "summary": "Dawson's Creek actors have led tributes to James Van Der Beek, who has died at the age of 48 after having bowel cancer.",
+      "summary_zh": "Dawson's Creek的演员引领了对詹姆斯·范德·比克(James Van Der Beek)的致敬,他患上肠癌后于48岁去世."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three issues that matter to voters in the Bangladesh election",
+      "title_zh": "孟加拉国选举选民面临的三个问题",
+      "link": "https://www.bbc.com/news/videos/c2047rm71npo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T01:04:51+00:00",
+      "summary": "Bangladesh is heading to the polls in the first election since the 2024 Gen Z uprising that toppled long-serving prime minister Sheikh Hasina.",
+      "summary_zh": "孟加拉国将参加自2024年Gen Z起义以来的首次选举,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The Dutch love four-day working weeks, but are they sustainable?",
+      "title_zh": "荷兰人爱4天的工作周,",
+      "link": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T00:00:05+00:00",
+      "summary": "The Dutch have quietly adopted working just a four-day week. But what has been its impact, and can it last?",
+      "summary_zh": "荷兰人悄悄地收养了只工作了四天的一周. 但是,它的影响是什么? 它能持续多久?"
     },
     {
       "source": "BBC News",
@@ -142,56 +272,6 @@
       "published_at": "2026-02-11T17:21:31+00:00",
       "summary": "When clocks struck nine across Tehran on Tuesday, the night skies filled with sound in celebration of the 47th year of the Iranian revolution.",
       "summary_zh": "当周二时钟横穿德黑兰9个,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ghanaians embrace 'Fugu Day' after online mockery of traditional outfits",
-      "title_zh": "加纳人在网络上嘲弄传统服装后,",
-      "link": "https://www.bbc.com/news/articles/cgqg8xegxqxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T17:15:17+00:00",
-      "summary": "Ghanaians across the country have turned out en masse to wear the country's colourful traditional outfit, the fugu, after the government designated Wednesdays \"Fugu Day\".",
-      "summary_zh": "加纳民众在政府指定星期三为\"Fugu Day\"之后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tumbler Ridge mass shooting: What we know so far",
-      "title_zh": "通宝岭大规模射击:我们迄今所知的情况",
-      "link": "https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T16:28:59+00:00",
-      "summary": "Canadian police say nine people have been killed in a mass shooting at a school and home in the remote rural community of Tumbler Ridge in the western province of British Columbia.",
-      "summary_zh": "加拿大警方称,在不列颠哥伦比亚省西部Tumbler Ridge偏远农村社区的一所学校和家中,有9人被大规模枪击致死."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian strike kills 3 Ukrainian toddlers and father, with pregnant mother injured",
-      "title_zh": "俄罗斯罢工造成3名乌克兰幼儿和父亲死亡,怀孕母亲受伤",
-      "link": "https://www.bbc.com/news/articles/crm820dp0yro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T16:08:10+00:00",
-      "summary": "An overnight Russian drone strike has killed three toddlers and their father and also injured their pregnant mother in Ukraine's north-eastern Kharkiv region, local officials say.",
-      "summary_zh": "当地官员说,在乌克兰东北哈尔科夫地区,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What are Canada's gun ownership laws?",
-      "title_zh": "加拿大的枪支所有权法是什么?",
-      "link": "https://www.bbc.com/news/articles/cwy8eyz4ee0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T15:39:19+00:00",
-      "summary": "A deadly mass shooting at a school in British Columbia is likely to increase scrutiny of whether Canada's gun laws should be toughened to prevent further attacks.",
-      "summary_zh": "不列颠哥伦比亚省一所学校发生致命的大规模枪击事件,有可能加强对加拿大枪支法是否应当被强化以防止再被攻击的严格审查."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mother of fire disaster victims speaks to Swiss bar owners at hearing",
-      "title_zh": "火灾受害者母亲在听证会上跟瑞士酒吧老板说话",
-      "link": "https://www.bbc.com/news/articles/c05vzjp7v3do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T14:20:33+00:00",
-      "summary": "The mother of two young women who were badly injured in the New Year's Day fire in the Swiss resort of Crans-Montana has had a private encounter with the couple who own the bar.",
-      "summary_zh": "在瑞士Crans-Montana度假地新年大火中受重伤的两名年轻女子的母亲曾与拥有酒吧的一对夫妇私下相遇."
     },
     {
       "source": "BBC News",
@@ -216,126 +296,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What we know about the abduction of Savannah Guthrie's mother",
-      "title_zh": "关于Savannah Guthrie母亲被绑架的事我们所知",
-      "link": "https://www.bbc.com/news/articles/cdex1nlrj07o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T11:10:14+00:00",
-      "summary": "The mystery surrounding the disappearance of the 84-year-old mother of NBC News anchor Savannah Guthrie has deepened.",
-      "summary_zh": "围绕NBC新闻主播萨凡纳·古斯里84岁母亲失踪的谜题加深."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Her sons were killed by Islamist militants. She's among thousands who had to flee",
-      "title_zh": "她的儿子被伊斯兰激进分子所杀. 她和千人一样 不得不逃离",
-      "link": "https://www.bbc.com/news/articles/c5yk3d56dgwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T08:27:13+00:00",
-      "summary": "Warning: Readers may find some of the content distressing",
-      "summary_zh": "警告:读者可能会发现一些内容令人困扰."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Britney Spears sells rights to entire music catalogue",
-      "title_zh": "布兰妮·斯皮尔斯出售整个音乐目录的权利",
-      "link": "https://www.bbc.com/news/articles/c0ljwyy7rrko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T03:26:37+00:00",
-      "summary": "Pop superstar Britney Spears has sold the rights to her entire music catalogue, the BBC has learned.",
-      "summary_zh": "流行超级明星布兰妮·斯皮尔斯(Britney Spears)已经将版权卖给了她的全部音乐目录,BBC已经知道了."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US lawmakers tell BBC Andrew should testify over Epstein files",
-      "title_zh": "美国立法者告诉BBC Andrew应该为Epstein的文件作证",
-      "link": "https://www.bbc.com/news/articles/cx2gmde0vjlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T02:41:38+00:00",
-      "summary": "Andrew Mountbatten-Windsor is facing growing pressure from US officials and the family of his prominent accuser Virginia Giuffre to testify in the US about his links to paedophile financier Jeffrey Epstein.",
-      "summary_zh": "Andrew Mountbatten-Windsor正面临来自美国官员以及他著名的指控者Virginia Giuffre的家人越来越大的压力,要求他们在美国作证他与恋童癖金融家Jeffrey Epstein的联系."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'We are treated as outcasts': Acid attack survivor fights for justice and dignity",
-      "title_zh": "\"我们被视为被排斥者\": 酸袭击 幸存者争取正义和尊严",
-      "link": "https://www.bbc.com/news/articles/c24dp6veylqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T00:56:11+00:00",
-      "summary": "Warning: This story contains distressing details",
-      "summary_zh": "警告: 这个故事包含了令人不安的细节"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The ghost ships in the English Channel and the question of what to do about them",
-      "title_zh": "英吉利海峡的鬼船 和如何对付他们的问题",
-      "link": "https://www.bbc.com/news/articles/c07jnmgy8jmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-11T00:17:37+00:00",
-      "summary": "Listen to Paul read this article",
-      "summary_zh": "听保罗读这篇文章"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Malinin, Minion and Milan's most emotional moment",
-      "title_zh": "马林、小米和米兰最激动的时刻",
-      "link": "https://www.bbc.com/sport/articles/c5yk9k1x715o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-10T22:27:51+00:00",
-      "summary": "Ilia Malinin will carry his lead into the second half of the men's competition on Friday",
-      "summary_zh": "伊莉娅·马利宁将在周五的男排比赛中负于他"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "As a fellow Puerto Rican, Bad Bunny's Super Bowl show was personal",
-      "title_zh": "作为波多黎各同胞,坏兔子的超级碗秀是针对个人的",
-      "link": "https://www.bbc.com/news/articles/cn71y2l51zno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-10T11:40:14+00:00",
-      "summary": "Like Bad Bunny, I have also heard people say that my Puerto Rican Spanish is unintelligible.",
-      "summary_zh": "我和坏兔子一样,也听到人们说,我的波多黎各西班牙语是无法理解的。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What is Olympic ice and how is it made?",
-      "title_zh": "奥运会的冰是怎样做的?",
-      "link": "https://www.bbc.com/sport/ice-hockey/articles/cx2p1empyn3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-10T08:51:01+00:00",
-      "summary": "Olympic ice describes the uniform ice surface specified for international competitions, including the Winter Olympics.",
-      "summary_zh": "奥运会冰面描述为包括冬奥会在内的国际比赛指定的统一冰面."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump's world order hangs over Europe on eve of key defence conference",
-      "title_zh": "川普的世界秩序在关键国防会议的前夕 悬于欧洲之上",
-      "link": "https://www.bbc.com/news/articles/cgrzjv1kykxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-10T00:31:21+00:00",
-      "summary": "It is one year since US Vice-President JD Vance delivered a bombshell speech at the Munich Security Conference, castigating Europe for its policies on migration and free speech, and claiming the greatest threat the continent faces comes from within.",
-      "summary_zh": "美国副总统万斯(JD Vance)在慕尼黑安全会议上发表炸弹演说, 斥责欧洲移民与言论自由政策,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thailand election: The result the polls never saw coming",
-      "title_zh": "泰国选举:投票结果从未预见到",
-      "link": "https://www.bbc.com/news/articles/c5y6534y3y5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-09T23:58:04+00:00",
-      "summary": "As the dust from what has been a hard-fought election campaign in Thailand settles, many Thais may be rubbing their eyes and asking, \"what just happened?\".",
-      "summary_zh": "在泰国这场艰难的竞选活动所留下的灰尘落下后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Was this the ultimate Super Bowl redemption story?",
-      "title_zh": "这是最后的超级碗救赎故事吗?",
-      "link": "https://www.bbc.com/sport/american-football/articles/ce8w172dnkwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-09T21:56:58+00:00",
-      "summary": "Sam Darnold is just the third quarterback to win the Super Bowl in his first year with a new team",
-      "summary_zh": "萨姆·达诺德是第三 四分卫 在他第一年赢得超级杯 和一支新球队"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "'Super exciting!' - Seahawks fans celebrate Super Bowl win",
       "title_zh": "海鹰队的球迷庆祝超级杯胜利",
       "link": "https://www.bbc.com/news/videos/c30934lqv68o?at_medium=RSS&at_campaign=rss",
@@ -352,16 +312,6 @@
       "published_at": "2026-02-09T06:59:31+00:00",
       "summary": "Pro-democracy media tycoon Jimmy Lai has been sentenced to 20 years in jail by the Hong Kong High Court, after he was found guilty of national security offences last December.",
       "summary_zh": "支持民主的媒体大亨吉米·赖去年12月被香港高等法院判定犯有国家安全罪后,被判入狱20年."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Aerial footage shows flooded cities as storms hit Spain",
-      "title_zh": "空中画面显示,当风暴袭击西班牙时,城市被淹没",
-      "link": "https://www.bbc.com/news/videos/c93wpxy1qk6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-08T20:35:05+00:00",
-      "summary": "Aerial footage showed the extend of floods in Spain after a series of storms hit the Iberian Peninsula.",
-      "summary_zh": "空中镜头显示,在一系列风暴袭击了伊比利亚半岛后,西班牙洪水的延伸."
     }
   ]
 }
