@@ -1,37 +1,287 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-02-15T22:44:21+00:00",
-  "count": 35,
+  "generated_at": "2026-02-16T22:50:08+00:00",
+  "count": 36,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "フィギュア ペアSP “りくりゅう”5位でフリーへ リフトでミス",
-      "title_zh": "图SP SP “Ryu”以升降机释放小姐的第5名",
-      "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052871000.html",
-      "published_at": "2026-02-15T22:33:24+00:00",
+      "title": "ジャンプ 男子スーパーチーム 日本は6位 雪強まり競技打ち切り",
+      "title_zh": "Jump Men's Super Team Japan 第6名出道于雪强赛",
+      "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053581000.html",
+      "published_at": "2026-02-16T22:45:34+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "柏崎刈羽原発6号機 試験的な発送電を開始 営業運転へ検査続く",
-      "title_zh": "第6号:川崎川原 测试式电力传输",
-      "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052641000.html",
-      "published_at": "2026-02-15T22:30:48+00:00",
+      "title": "ロシア報道官 和平協議“領土問題など より幅広い議論行う”",
+      "title_zh": "俄罗斯联邦记者“关于领事问题的更广泛讨论”",
+      "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053451000.html",
+      "published_at": "2026-02-16T22:42:46+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "国内 主な自動車メーカー 9か月間の決算で3社が最終赤字に",
-      "title_zh": "* 有3家公司最终出现9个月的赤字",
-      "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052611000.html",
-      "published_at": "2026-02-15T21:38:41+00:00",
+      "title": "フィギュア ペア “りくりゅう” 金メダル 日本勢で初 五輪",
+      "title_zh": "日本奥运会首个金质奖章",
+      "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053671000.html",
+      "published_at": "2026-02-16T22:27:15+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
+      "title_zh": "黑黑的网络特工发现了卧铺墙的线索 来拯救多年受伤害的女孩",
+      "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T22:02:33+00:00",
+      "summary": "Warning: This article contains details about sexual abuse",
+      "summary_zh": "警告: 本条载有性虐待的详情。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日本が獲得したメダル18個に 過去最多の前回・北京大会に並ぶ",
+      "title_zh": "日本夺得的18枚奖牌,将达到北京队上届和上届比赛的成绩.",
+      "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053681000.html",
+      "published_at": "2026-02-16T22:01:35+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "香港強盗事件 実行役の被告“犯行後に依頼の男から報酬”供述",
+      "title_zh": "香港盗贼案 被告“犯罪后请求人的报酬”",
+      "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053561000.html",
+      "published_at": "2026-02-16T20:20:03+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "政府・自民 国民会議早期開始で調整 食料品消費税2年間ゼロで",
+      "title_zh": "国民大会初期的政府/自我定义",
+      "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053401000.html",
+      "published_at": "2026-02-16T20:14:10+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東広島 男性死亡 窓ガラス割られ押し入った人物に襲われたか",
+      "title_zh": "平岛 男人的死 是否被一个玻璃玻璃被挡住的人攻击",
+      "link": "http://www3.nhk.or.jp/news/html/20260217/k10015053421000.html",
+      "published_at": "2026-02-16T20:11:37+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australian IS families in Syria camp turned back after leaving for home",
+      "title_zh": "叙利亚难民营的澳大利亚IS家庭离开家后返回",
+      "link": "https://www.bbc.com/news/articles/cvg5ed05pplo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T19:18:04+00:00",
+      "summary": "A group of 34 Australian women and children who have been held in a camp in northern Syria for nearly seven years due to their links to the Islamic State (IS) group were released on Monday to head home, but then returned to the camp for \"technical reasons\".",
+      "summary_zh": "由于与伊斯兰国(IS)集团有联系,一群34名澳大利亚妇女和儿童在叙利亚北部被关入营地近7年,星期一被释放回家,但后以\"技术原因\"返回营地."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Robert Duvall became a Hollywood great",
+      "title_zh": "罗伯特·杜瓦尔是如何成为好莱坞的",
+      "link": "https://www.bbc.com/news/articles/cv2grggdzweo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T18:19:09+00:00",
+      "summary": "Robert Duvall was a distinguished and prolific screen actor who lent a brooding intensity and grizzled authority to seven decades of American film-making.",
+      "summary_zh": "罗伯特·杜瓦尔(Robert Duvall)是一位杰出而多才多艺的银幕演员,他为美国70年的电影制作工作提供了浓郁的强度和灰熊权威."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US build-up of warships and fighter jets tracked near Iran",
+      "title_zh": "美国在伊朗附近集结军舰和战斗机",
+      "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T18:17:18+00:00",
+      "summary": "BBC Verify has confirmed the location of US aircraft carrier the USS Abraham Lincoln near Iran using satellite imagery, as Washington continues to put pressure on the country over its military program and recent deadly crackdown on protesters .",
+      "summary_zh": "BBC核查证实美国航空母舰亚伯拉罕·林肯号在伊朗附近使用卫星图像,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ancient bone may prove legendary war elephant crossing of Alps",
+      "title_zh": "古老的骨头可能证明传说中的战象穿越阿尔卑斯山",
+      "link": "https://www.bbc.com/news/articles/cdr2xl1e41eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T17:26:49+00:00",
+      "summary": "An elephant foot bone found by archaeologists digging in southern Spain may be evidence that a troop of war elephants stomped through ancient Europe.",
+      "summary_zh": "考古学家在西班牙南部挖掘时发现的一头大象脚骨,可能证明一队战象在古代欧洲被击穿."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Flying oranges: Italian town celebrates carnival with historic street battle",
+      "title_zh": "飞橙:意大利小镇以历史性的街战来庆祝嘉年华",
+      "link": "https://www.bbc.com/news/videos/cnv6zy10vz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T15:10:12+00:00",
+      "summary": "A town in northern Italy has started celebrating carnival with its annual Battle of the Oranges, where people hurl the fruit at each other for fun.",
+      "summary_zh": "意大利北部一个城镇开始庆祝狂欢节, 庆祝一年一度的橙子之战,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five injured as Swiss train derails in heavy snow",
+      "title_zh": "瑞士列车在大雪中脱轨,有5人受伤",
+      "link": "https://www.bbc.com/news/articles/cvg39g3xp1wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T14:17:20+00:00",
+      "summary": "Five people have been injured after a train derailed in southern Switzerland, in an incident that could have been caused by an avalanche, police say.",
+      "summary_zh": "警方称,瑞士南部一列火车出轨后有5人受伤,事故可能是雪崩造成的."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Navalny's mother says she always knew he was murdered after poison finding",
+      "title_zh": "Navalny的母亲说 她一直知道他是被毒杀的",
+      "link": "https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T13:01:28+00:00",
+      "summary": "The mother of the late Russian opposition figure Alexei Navalny says the assessment that her son died of poisoning has validated her belief that he was murdered.",
+      "summary_zh": "已故俄罗斯反对派人物阿列克谢·纳瓦尼的母亲说,她儿子死于中毒的评估证明她相信他是被谋杀的."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'It's never too late': Savannah Guthrie's new plea for mother's release as FBI analyses glove",
+      "title_zh": "'永不迟': Savannah Guthrie在FBI分析手套时 请求释放母亲",
+      "link": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T12:36:03+00:00",
+      "summary": "Savannah Guthrie has issued a plea for her 84-year-old mother's release two weeks after she disappeared in a suspected kidnapping, telling anyone involved that \"it is never too late to do the right thing\".",
+      "summary_zh": "Savannah Guthrie在她84岁的母亲在一个被怀疑的绑架中失踪两周后,为她被释放发出了一个求情书,告诉任何参与其中的人\"做正确的事情永远不会太晚\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pressure grows for release of remaining Venezuelan political prisoners",
+      "title_zh": "释放其余委内瑞拉政治犯的压力越来越大",
+      "link": "https://www.bbc.com/news/articles/c62d6pzpw6yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T12:28:53+00:00",
+      "summary": "Pressure is growing on the Venezuelan interim government to free the remaining political prisoners being held in the country.",
+      "summary_zh": "委内瑞拉临时政府的压力越来越大,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya strike delays flights at international hub airport",
+      "title_zh": "肯尼亚罢工延误国际枢纽机场的航班",
+      "link": "https://www.bbc.com/news/articles/c363096kd5po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T12:18:45+00:00",
+      "summary": "Flights in and out of Kenya's main airport are being delayed following a planned strike by aviation industry workers, the national airline and airports authority have said.",
+      "summary_zh": "国家航空公司和机场当局表示,肯尼亚主要机场的进出航班在航空业工人计划罢工后被推迟。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Giant robot tribute to Brazil's President Lula leads start of Rio Carnival",
+      "title_zh": "伟大的机器人向巴西总统卢拉致敬,",
+      "link": "https://www.bbc.com/news/videos/cgjz234pj3lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T11:09:42+00:00",
+      "summary": "A tribute to Brazil's president Luiz Inácio Lula da Silva has marked the first day of the iconic carnival parades in Rio de Janeiro.",
+      "summary_zh": "向巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦致敬,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "ByteDance to curb AI video app after Disney legal threat",
+      "title_zh": "迪士尼法律威胁后,",
+      "link": "https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T10:23:02+00:00",
+      "summary": "Chinese technology giant ByteDance has pledged to curb a controversial artificial intelligence (AI) video-making tool, following threats of legal action from Disney and complaints from other entertainment giants.",
+      "summary_zh": "中国科技巨头\"ByteDance\"在迪士尼威胁采取法律行动和其他娱乐巨头投诉后,承诺遏制一具有争议的人工智能(AI)视频制作工具."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria warns against enlisting abroad after reports of deaths in Ukraine",
+      "title_zh": "尼日利亚警告说,在乌克兰发生死亡事件后,不要在国外入伍。",
+      "link": "https://www.bbc.com/news/articles/cev7e3m04ngo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T10:06:12+00:00",
+      "summary": "Nigeria's foreign ministry has issued an urgent warning over what it describes as the increasing illegal recruitment of its citizens to fight in foreign conflicts.",
+      "summary_zh": "尼日利亚外交部已就它所描述的越来越多地非法招募其公民参加外国冲突发出紧急警告。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
+      "title_zh": "特朗普的眼睛委内瑞拉访问 — — 但他的石油计划仍存在障碍",
+      "link": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T09:50:58+00:00",
+      "summary": "After US President Donald Trump oversaw the seizure of his Venezuelan counterpart Nicolás Maduro last month, he vowed to tap the country's oil reserves – the world's largest.",
+      "summary_zh": "在美国总统唐纳德·特朗普(Donald Trump)上月监督其委内瑞拉对手尼科拉斯·马杜罗被扣押后,他发誓要挖掘该国石油储备 — — 世界最大的石油储备。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+      "title_zh": "被指称用来杀死Alexei Navalny的飞镖蛙毒素是什么?",
+      "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T08:05:27+00:00",
+      "summary": "Russian opposition leader Alexei Navalny was killed using a deadly toxin found in poison dart frogs in South America, the UK and some of its European allies have said.",
+      "summary_zh": "俄罗斯反对派领袖阿列克谢·纳瓦尼(Alexei Navalny)用在南美洲毒镖蛙中发现的致命毒素被杀死,英国及其一些欧洲盟国也说过."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bondi Beach shooting accused faces court for the first time",
+      "title_zh": "Bondi海滩枪击被告 第一次面对法庭",
+      "link": "https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T07:53:10+00:00",
+      "summary": "Accused Bondi Beach gunman Naveed Akram faced court for the first time on Monday, two months after he and his father allegedly carried out Australia's worst mass shooting in almost 30 years.",
+      "summary_zh": "被告Bondi Beach枪手Naveed Akram星期一第一次面对法庭,据称他和他的父亲进行了近30年来澳大利亚最糟糕的大规模枪击。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Female Israeli soldiers rescued after being chased by ultra-Orthodox men",
+      "title_zh": "以色列女兵被极端正统男子追赶后获救",
+      "link": "https://www.bbc.com/news/articles/clyzen2lgw9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T07:47:54+00:00",
+      "summary": "Two female Israeli soldiers had to be rescued by police after being chased by a crowd of ultra-Orthodox Jewish men.",
+      "summary_zh": "两名以色列女兵被一群极端正统的犹太男子追赶后被警察救出."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's new world order has become real and Europe is having to adjust fast",
+      "title_zh": "特朗普的新世界秩序已成现实 欧洲必须迅速调整",
+      "link": "https://www.bbc.com/news/articles/cddn002g6qzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T05:39:01+00:00",
+      "summary": "Downtown Munich is best-known for chic shops and flashy fast cars but right now its streets are bedecked with posters advertising next generation drones.",
+      "summary_zh": "慕尼黑市中心最出名的是 辣味的商店和闪闪发光的快车 但是现在它的街道上 到处都是宣传下一代无人机的海报"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sydney police plead for return of man, 85, kidnapped by mistake",
+      "title_zh": "悉尼警方恳求将85岁的男子送回 误绑架",
+      "link": "https://www.bbc.com/news/articles/c0ljzye1zgno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T05:34:34+00:00",
+      "summary": "Sydney police have appealed for the return of an 85-year-old whom they believe was kidnapped by mistake.",
+      "summary_zh": "悉尼警方呼吁送还一名85岁的孩子,他们相信他是被误绑架的."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Dragged out and set on fire' - the Bangladesh mob killing that shocked the world",
+      "title_zh": "孟加拉暴徒杀戮,",
+      "link": "https://www.bbc.com/news/articles/cj3vve6v17xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T00:09:58+00:00",
+      "summary": "The morning before he died, Dipu Chandra Das left home at first light, stepping out of his tin-sheet house in Bangladesh's Mymensingh city, overlooking a warren of lanes off the highway from Dhaka.",
+      "summary_zh": "Dipu Chandra Das死前一早便出家出走,"
     },
     {
       "source": "BBC News",
@@ -42,86 +292,6 @@
       "published_at": "2026-02-15T21:32:23+00:00",
       "summary": "The US Department of Justice (DoJ) has said it has released all of the files required by the Epstein Files Transparency Act, but lawmakers have argued the release is insufficient.",
       "summary_zh": "美国司法部(DoJ)表示已经发布了爱泼斯坦档案透明法要求的所有文档,但立法者认为发布内容不足."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "“ルフィ”広域強盗事件 グループ幹部 判決前に接見で後悔語る",
-      "title_zh": "“Luffy” 广域 . . .",
-      "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052501000.html",
-      "published_at": "2026-02-15T21:22:31+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "特別国会 自民は審議加速図りたい考え 野党側“丁寧な運営を”",
-      "title_zh": "特写:我想加快审议。",
-      "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052631000.html",
-      "published_at": "2026-02-15T21:18:15+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大阪 道頓堀 少年3人死傷事件 男女7～8人いる中で言い争いか",
-      "title_zh": "大阪多通博里:3个男孩死亡.",
-      "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052661000.html",
-      "published_at": "2026-02-15T21:13:06+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "FBI analysing recovered glove that appears to match those worn in Guthrie suspect video",
-      "title_zh": "FBI分析找到的手套 似乎和Guthrie疑似视频里穿的手套相符",
-      "link": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T20:39:35+00:00",
-      "summary": "Investigators have found DNA on a glove that appears to match one a suspect was wearing in doorbell camera footage taken the night Nancy Guthrie disappeared.",
-      "summary_zh": "调查人员在手套上发现了DNA 与一名嫌犯在门铃相机中 所带的镜头吻合"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-      "title_zh": "被指称用来杀死Alexei Navalny的飞镖蛙毒素是什么?",
-      "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T20:13:08+00:00",
-      "summary": "Russian opposition leader Alexei Navalny was killed using a deadly toxin found in poison dart frogs in South America, the UK and some of its European allies have said.",
-      "summary_zh": "俄罗斯反对派领袖阿列克谢·纳瓦尼(Alexei Navalny)用在南美洲毒镖蛙中发现的致命毒素被杀死,英国及其一些欧洲盟国也说过."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US boards second tanker in Indian Ocean after tracking it from Caribbean",
-      "title_zh": "美国在印度洋的第二艘油轮 在从加勒比追踪后",
-      "link": "https://www.bbc.com/news/articles/c4ge763d7j6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T19:34:13+00:00",
-      "summary": "The US military has boarded a second oil tanker in the Indian Ocean, after tracking it from the Caribbean Sea where it was suspected of helping Venezuela avoid US sanctions.",
-      "summary_zh": "美国军方在印度洋登上第二艘油轮,之后从加勒比海追踪到该船,怀疑该船帮助委内瑞拉避免美国制裁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eleven killed in Israeli strikes on Gaza, rescuers say",
-      "title_zh": "救援人员说,11人在以色列对加沙的袭击中丧生",
-      "link": "https://www.bbc.com/news/articles/c8r15eyvk2do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T18:42:42+00:00",
-      "summary": "Eleven people were killed in Israeli strikes in Gaza on Sunday morning, according to Palestinian civil defence and health officials.",
-      "summary_zh": "据巴勒斯坦民防和卫生官员说,星期天上午,以色列在加沙的袭击有11人被炸死。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "スピードスケート女子500m 高木美帆が銅 今大会2個目のメダル",
-      "title_zh": "速滑女子500米高木铜牌 第2枚",
-      "link": "http://www3.nhk.or.jp/news/html/20260216/k10015052781000.html",
-      "published_at": "2026-02-15T17:57:01+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
@@ -136,92 +306,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'Trump will be gone in three years': Top Democrats try to reassure Europe",
-      "title_zh": "\"特朗普三年后将走\":顶级民主党人想让欧洲放心.",
-      "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T15:32:07+00:00",
-      "summary": "US Secretary of State Marco Rubio was the centre of attention at the Munich Security Summit, as European leaders wondered apprehensively what tone he would strike in his remarks on Saturday.",
-      "summary_zh": "美国国务卿马可·鲁比奥是慕尼黑安全峰会的焦点,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Motorbike raids on villages kill dozens in Nigeria",
-      "title_zh": "在尼日利亚,摩托车袭击村庄造成数十人死亡",
-      "link": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T15:29:26+00:00",
-      "summary": "Gunmen on motorcycles have killed dozens of people in dawn raids across three villages in north-western Nigeria.",
-      "summary_zh": "骑摩托车的枪手在尼日利亚西北部三个村庄的黎明突袭中杀死了数十人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian 'pick-up artist' accused of secretly filming women in Ghana",
-      "title_zh": "俄罗斯\"选手\"被控在加纳秘密拍摄女性",
-      "link": "https://www.bbc.com/news/articles/c9wn5p299eko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T15:25:21+00:00",
-      "summary": "Ghana intends to request the extradition of a Russian man accused of illegally recording his sexual encounters with several women and sharing footage online without their consent.",
-      "summary_zh": "加纳打算要求引渡一名俄罗斯男子,指控他非法记录与几名妇女的性相遇,并在未经她们同意的情况下在网上分享录像。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
-      "title_zh": "伊朗准备讨论达成核协议的妥协,",
-      "link": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T15:07:40+00:00",
-      "summary": "Iran is ready to consider compromises to reach a nuclear deal with the US if the Americans are willing to discuss lifting sanctions, an Iranian minister has told the BBC.",
-      "summary_zh": "伊朗部长已告知英国广播公司, 如果美国人愿意讨论解除制裁, 伊朗愿意考虑与美国达成核协议。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hundreds of thousands join Iran protests around the world",
-      "title_zh": "数十万人加入伊朗在世界各地的抗议活动。",
-      "link": "https://www.bbc.com/news/articles/czr0lykl4g4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T13:35:26+00:00",
-      "summary": "Hundreds of thousands of people took part in demonstrations around the world against the Iranian government on Saturday, following calls from the exiled son of the late shah for a \"global day of action\".",
-      "summary_zh": "数十万人参加了周六世界各地反对伊朗政府的示威活动,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China confirms visa-free travel for UK and Canadian nationals",
-      "title_zh": "中国确认英国和加拿大国民免签证出行.",
-      "link": "https://www.bbc.com/news/articles/c875d3d3x34o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T12:08:00+00:00",
-      "summary": "UK and Canadian nationals will be able to travel to mainland China for up to 30 days without a visa from 17 February.",
-      "summary_zh": "从2月17日起,英国和加拿大国民可以在无签证的情况下前往中国大陆最长30天."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-      "title_zh": "俄罗斯用飞镖青蛙毒素杀害了反对派领袖Alexei Navalny,",
-      "link": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T02:04:02+00:00",
-      "summary": "Russian opposition leader Alexei Navalny was killed using a poison developed from a dart frog toxin, the UK and European allies have said.",
-      "summary_zh": "俄罗斯反对派领袖阿列克谢·纳瓦尼(Alexei Navalny)被用由飞镖蛙毒素所研制出的一种毒药杀死,英国和欧洲盟国都表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US",
       "title_zh": "绑架、比特币要求和电视图标- Nancy Guthrie的案子为何牵扯到美国?",
       "link": "https://www.bbc.com/news/articles/c5y48j0exlgo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-15T02:02:34+00:00",
       "summary": "Before the sun rose over a barren desert landscape, YouTuber Jimmy Williams watched as hundreds of subscribers took to his online chat room.",
       "summary_zh": "在阳光升起过荒凉的沙漠地貌之前,YouTuber Jimmy Williams看着数百名订户到他的网上聊天室."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "After the landslide: Can India reset ties with a BNP-led Bangladesh?",
-      "title_zh": "山体滑坡后:印度能否与孟加拉国民族主义党领导的孟加拉国重新建立联系?.",
-      "link": "https://www.bbc.com/news/articles/cd6z007wgg6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-15T01:23:34+00:00",
-      "summary": "When the Bangladesh Nationalist Party (BNP) swept to a landslide in the general elections on Friday, Delhi responded with studied warmth.",
-      "summary_zh": "当孟加拉国国民党(BNP)在星期五的大选中席卷倒塌后,德里以研究取暖回应."
     },
     {
       "source": "BBC News",
@@ -246,76 +336,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Police wear fancy dress in Rio Carnival phone theft sting",
-      "title_zh": "警察在里约狂欢节 穿着漂亮的裙子偷盗电话刺伤",
-      "link": "https://www.bbc.com/news/articles/cjrq8dv39zwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T23:14:44+00:00",
-      "summary": "Brazilian police have disguised themselves using fancy dress to blend in as Carnival-goers to target phone thieves in Rio de Janeiro.",
-      "summary_zh": "巴西警方伪装出穿着花花公子的衣服,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Obama addresses racist video shared by Trump depicting him as an ape",
-      "title_zh": "奥巴马在特朗普分享的描述他为猿的种族主义视频上发表演说.",
-      "link": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T22:24:14+00:00",
-      "summary": "Former US President Barack Obama has indirectly addressed a racist video posted on President Donald Trump's social media, telling a podcast host that the \"shame\" and \"decorum\" that once guided public officials is now lost.",
-      "summary_zh": "美国前总统奥巴马间接地在唐纳德·特朗普总统社交媒体上发表种族主义视频,告诉播客主持人,曾经指导政府官员的\"耻辱\"和\"德克鲁姆\"现在已经失传."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rubio says US and Europe 'belong together' despite tensions",
-      "title_zh": "Rubio说,尽管紧张,美国和欧洲仍“联合起来”。",
-      "link": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T21:45:46+00:00",
-      "summary": "Marco Rubio has assured European leaders the US does not plan to abandon the transatlantic alliance, saying its destiny \"will always be intertwined\" with the continent's.",
-      "summary_zh": "马可·鲁比奥(Marco Rubio)向欧洲领导人保证美国不会计划放弃跨大西洋联盟,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "No arrests made after police search residence near Nancy Guthrie's home",
-      "title_zh": "警察搜查了南希·古斯里家附近的住所后,没有逮捕任何人",
-      "link": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T20:48:00+00:00",
-      "summary": "Police searched a residence about two miles from the home of Nancy Guthrie, the missing mother of US news anchor Savannah Guthrie, on Friday night.",
-      "summary_zh": "警察在周五晚上搜查了离美国新闻主播萨凡纳·古斯里失踪母亲南希·古斯里家约两英里的住所."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cuban cigar festival called off as US blockade worsens energy crisis",
-      "title_zh": "古巴雪茄节因美国封锁加剧能源危机而取消",
-      "link": "https://www.bbc.com/news/articles/c0q30k2xzk2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T18:04:51+00:00",
-      "summary": "An annual cigar festival in Cuban capital Havana has become the latest casualty of a fuel shortage caused by a US oil blockade.",
-      "summary_zh": "古巴首都哈瓦那一年一度的雪茄节成为美国石油封锁造成燃料短缺的最新牺牲品。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Planned US-funded baby vaccine trial in Guinea-Bissau blasted by WHO",
-      "title_zh": "美国资助的几内亚比绍婴儿疫苗试验计划由卫生组织发起",
-      "link": "https://www.bbc.com/news/articles/c78j5k2gk02o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T16:20:33+00:00",
-      "summary": "A now-halted plan to run a hepatitis B vaccine trial involving thousands of newborns in Guinea-Bissau has been criticised by the World Health Organization as \"unethical\".",
-      "summary_zh": "一个现在被吸入的涉及几内亚比绍数千名新生儿的乙肝疫苗试验计划被世界卫生组织批评为\"不道德\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Casey Wasserman to sell talent agency after Epstein fallout",
-      "title_zh": "凯西·瓦瑟曼在爱泼斯坦事件后 卖掉人才代理",
-      "link": "https://www.bbc.com/news/articles/cy0dn4e1njjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T13:28:26+00:00",
-      "summary": "Prominent US agent Casey Wasserman is selling his talent company after documents linking him to Jeffrey Epstein and Ghislaine Maxwell were published in the US.",
-      "summary_zh": "知名的美国特工凯西·瓦瑟曼(Casey Wasserman)在美国出版与杰弗里·爱泼斯坦(Jeffrey Epstein)和吉斯莱恩·麦克斯韦(Ghislaine Maxwell)相关的文件后,正在出售他的才华公司."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Tribes grant the Colorado River legal personhood - can this help save it?",
       "title_zh": "部落授予科罗拉多河法人资格 - 这能帮助挽救它吗?",
       "link": "https://www.bbc.com/news/videos/crmlgpnnzyxo?at_medium=RSS&at_campaign=rss",
@@ -332,16 +352,6 @@
       "published_at": "2026-02-14T06:00:21+00:00",
       "summary": "Gisèle Pelicot has told BBC Newsnight's Victoria Derbyshire that her strength comes from her \"DNA\".",
       "summary_zh": "吉泽尔·佩利科特(英语:Gisèle Pelicot)已经告诉了BBC\"新闻之夜\"的\"维多利亚·德比郡\",她的力量来自于她的\"DNA\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
-      "title_zh": "Gisèle Pelicot告诉BBC:我感觉被恐怖压垮了,",
-      "link": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T06:00:11+00:00",
-      "summary": "Gisèle Pelicot, the woman at the centre of France's largest rape trial, has told BBC Newsnight she was \"crushed by horror\" on discovering that, for years, her husband had repeatedly drugged her unconscious and invited dozens of men to rape her.",
-      "summary_zh": "法国最大强奸案审判中心女性吉泽尔·佩利科特(Gisèle Pelicot)曾告诉BBC\"新闻晚报\",她在发现多年来她的丈夫多次给她下药,让她昏迷并邀请了数十名男子强奸她后\"被恐怖所打\"."
     },
     {
       "source": "BBC News",
