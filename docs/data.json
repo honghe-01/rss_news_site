@@ -1,47 +1,377 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-02-19T22:51:52+00:00",
-  "count": 38,
+  "generated_at": "2026-02-20T22:48:18+00:00",
+  "count": 48,
   "items": [
     {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says he is considering limited military strike on Iran",
+      "title_zh": "特朗普说,他正在考虑对伊朗进行有限的军事打击",
+      "link": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T22:38:45+00:00",
+      "summary": "US President Donald Trump has said he is considering a limited military strike on Iran in order to pressure its leaders to agree a deal to curb the nuclear programme.",
+      "summary_zh": "美国总统唐纳德·特朗普表示,他正在考虑对伊朗进行有限的军事打击,以向伊朗领导人施压,迫使他们同意一项遏制核计划的协议."
+    },
+    {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "フィギュア女子シングル 坂本花織が銀 中井が銅メダル【詳報】",
-      "title_zh": "妇女单人花生坂本银中井铜质奖章",
-      "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056611000.html",
-      "published_at": "2026-02-19T22:41:51+00:00",
+      "title": "スピードスケート女子1500m 高木美帆は6位 メダル獲得ならず",
+      "title_zh": "速度滑冰女子1500m 三穗高木获得第6名",
+      "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057761000.html",
+      "published_at": "2026-02-20T21:24:31+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ミラノ・コルティナ五輪【結果】2/19～20 タイムライン",
-      "title_zh": "米兰诺·科蒂纳奥运会[永久失效連結] 2/19-20 时间线",
-      "link": "http://www3.nhk.or.jp/news/html/20260219/k10015056581000.html",
-      "published_at": "2026-02-19T22:24:58+00:00",
+      "title": "米最高裁 相互関税など課す権限「大統領に与えられていない」",
+      "title_zh": "美国最高法院:准许互任等. \"没有交给总统\"",
+      "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057551000.html",
+      "published_at": "2026-02-20T21:11:56+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ロシア軍攻撃でウクライナ医療機関 計画停電 妊婦から不安の声",
-      "title_zh": "俄罗斯军队中的乌克兰医疗机构袭击计划 孕妇焦虑的声音",
-      "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056711000.html",
-      "published_at": "2026-02-19T22:14:03+00:00",
+      "title": "三重 鳥羽市沖転覆事故 貨物船は漁場で停泊中の遊漁船に衝突か",
+      "title_zh": "三叶市冈子岛事故 货船坠毁在渔场的渔船上",
+      "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057701000.html",
+      "published_at": "2026-02-20T20:33:43+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "英 アンドルー元王子釈放 政府の機密情報漏らした疑いで逮捕か",
-      "title_zh": "英国安德鲁原公主被涉嫌政府机密信息泄露",
-      "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056671000.html",
-      "published_at": "2026-02-19T22:01:47+00:00",
+      "title": "宇宙飛行士乗せ月周回する試験飛行 3月6日以降に実施へ NASA",
+      "title_zh": "3月6日之后在月球上试飞",
+      "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057601000.html",
+      "published_at": "2026-02-20T20:24:02+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "フィギュア エキシビションに向け日本勢が合同練習 五輪",
+      "title_zh": "日本图展联合实践奥运会",
+      "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057791000.html",
+      "published_at": "2026-02-20T19:50:03+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tariffs ruling is major blow to Trump's second-term agenda",
+      "title_zh": "关税裁决是特朗普第二次任期议程的重大打击",
+      "link": "https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T19:01:57+00:00",
+      "summary": "Donald Trump had been warning for months that a Supreme Court decision like this would be catastrophic.",
+      "summary_zh": "唐纳德·特朗普(Donald Trump)几个月来一直警告,这样的最高法院裁决将是灾难性的."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 3月31日から中国訪問へ 習主席と首脳会談予定",
+      "title_zh": "特朗普总统3月31日起访华.",
+      "link": "http://www3.nhk.or.jp/news/html/20260221/k10015057781000.html",
+      "published_at": "2026-02-20T18:37:15+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US build-up of warships and fighter jets tracked near Iran",
+      "title_zh": "美国在伊朗附近集结军舰和战斗机",
+      "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T17:38:45+00:00",
+      "summary": "The world's largest warship appears to be heading towards the Middle East as Washington continues to pressure Iran over its military program and recent deadly crackdown on protesters.",
+      "summary_zh": "世界最大的军舰似乎正驶向中东,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "衆院選で落選の国民元候補 選挙運動報酬で現金渡した疑い 逮捕",
+      "title_zh": "竞选活动现金嫌疑人",
+      "link": "http://www3.nhk.or.jp/news/html/20260220/k10015057721000.html",
+      "published_at": "2026-02-20T17:19:42+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nasa targets early March to send humans back around the Moon",
+      "title_zh": "纳萨的目标是 三月初送人类回月球",
+      "link": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T17:00:26+00:00",
+      "summary": "Nasa is targeting early March to launch a crew around the Moon for the first time in more than 50 years, in what would be humankind's furthest trip into space.",
+      "summary_zh": "Nasa的目标是在3月初发射一支在月球周围飞行的船员,这是50多年以来第一次,这将是人类最远的太空之行。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump tariffs ripped up global trade order. What now?",
+      "title_zh": "特朗普关税撕毁全球贸易秩序. 现在怎么办?",
+      "link": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T16:25:34+00:00",
+      "summary": "From tearing down the White House's East Wing to capturing foreign leaders, this is not a president who is used to being told \"No\".",
+      "summary_zh": "从拆掉白宫的\"东翼\"到抓捕外国领导人,这不是一个习惯于被告知\"不\"的总统."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dog trained to illegally dump rubbish, Italian authorities say",
+      "title_zh": "意大利当局说,",
+      "link": "https://www.bbc.com/news/articles/cy57erz57xyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T15:57:17+00:00",
+      "summary": "A dog owner in Italy has been accused of training their canine to dump bags of rubbish on the side of a road.",
+      "summary_zh": "意大利一名狗主被指控训练警犬将垃圾袋倒入路边."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Woman charged over abandoning dog at Las Vegas airport",
+      "title_zh": "在拉斯维加斯机场弃狗被控告的女人",
+      "link": "https://www.bbc.com/news/articles/c9dnqqdp75go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T15:57:00+00:00",
+      "summary": "A woman has been charged with animal abandonment after she allegedly left her two-year-old dog at a Las Vegas airport, police have said.",
+      "summary_zh": "一名妇女被指控遗弃了动物,据称她把两岁的狗丢在拉斯维加斯机场。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Eric Dane gave his final months to 'moving the needle' on ALS",
+      "title_zh": "Eric Dane如何把最后几个月的时间 用来在ALS上\"移去\"",
+      "link": "https://www.bbc.com/news/articles/c24d9vpjmnmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T15:46:25+00:00",
+      "summary": "Eric Dane, best known for starring in Grey's Anatomy, has died 10 months after confirming he had been diagnosed with amyotrophic lateral sclerosis (ALS).",
+      "summary_zh": "以主演\"格雷解剖学\"而出名的埃里克·丹(Eric Dane)在确认自己被确诊为阳性横向硬化症(ALS)后已经去世了10个月."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Asos co-founder dies after Thailand apartment block fall",
+      "title_zh": "阿索斯联合创始人死在泰国公寓区倒塌之后",
+      "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T14:35:49+00:00",
+      "summary": "A co-founder of online fashion giant Asos died after falling from a high-rise apartment block in Thailand, police have said.",
+      "summary_zh": "一名网络时尚巨头Asos的联合创始人从泰国高楼公寓区倒下后去世,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French soldier dies after being shot in head during 'game' with other soldiers",
+      "title_zh": "法国士兵在与其他士兵的比赛中被击中头部后死亡",
+      "link": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T14:19:27+00:00",
+      "summary": "A French soldier has died after he was shot in the head while taking part in a game with other soldiers during a party, according to local media.",
+      "summary_zh": "据当地媒体报道,一名法国士兵在参加派对期间与其他士兵的比赛时被击中头部后死亡."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rare prison sentences handed to Cameroon soldiers after killing of 21 civilians",
+      "title_zh": "喀麦隆士兵在21名平民被害后被判处很少徒刑",
+      "link": "https://www.bbc.com/news/articles/cev74dywd7eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T13:44:30+00:00",
+      "summary": "Three Cameroonian soldiers have been sentenced to prison for their role in the killing of at least 21 civilians in the country's troubled Anglophone region.",
+      "summary_zh": "三名喀麦隆士兵因在该国动荡的英语地区杀害至少21名平民而被判处监禁。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuelan opposition politician released after amnesty law passed",
+      "title_zh": "委内瑞拉反对派政治人物在大赦法通过后获释",
+      "link": "https://www.bbc.com/news/articles/cy57en3590no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T13:37:44+00:00",
+      "summary": "Venezuelan opposition politician Juan Pablo Guanipa has announced on social media that he has been freed after \"almost nine months of unjust imprisonment\".",
+      "summary_zh": "委内瑞拉反对派政治人物胡安·巴勃罗·瓜尼帕(Juan Pablo Guanipa)在社交媒体上宣布,他在\"近九个月的不公正监禁\"后获释."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tunisian MP jailed for eight months over posts mocking president",
+      "title_zh": "突尼斯议员因嘲弄总统而入狱8个月,",
+      "link": "https://www.bbc.com/news/articles/c3v75lvgy36o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T11:35:53+00:00",
+      "summary": "A Tunisian court has sentenced a lawmaker to eight months in prison over social media posts mocking President Kais Saied following recent deadly floods.",
+      "summary_zh": "突尼斯一家法院在最近发生致命洪灾后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
+      "title_zh": "奥地利登山者在女朋友被冻死后被判有罪",
+      "link": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T11:10:31+00:00",
+      "summary": "An Austrian climber has been found guilty of gross negligent manslaughter after his girlfriend froze to death on Austria's highest mountain last year.",
+      "summary_zh": "一名奥地利登山者去年在奥地利最高山上被冻死后 被判犯有严重过失过失杀人罪"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+      "title_zh": "Grey的解剖学明星Eric Dane在ALS诊断后于53分死亡",
+      "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T10:33:48+00:00",
+      "summary": "Eric Dane, the actor best known for his roles on Grey's Anatomy and Euphoria, has died less than a year after revealing he had amyotrophic lateral sclerosis (ALS). He was 53.",
+      "summary_zh": "Eric Dane),以出演\"灰\"解剖学和\"优波笈多\"中的角色而出名的演员,在透露出他患有阳性平面硬化症(ALS)后不到一年就去世了. 他当时53岁。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Urgent research needed to tackle AI threats, says Google AI boss",
+      "title_zh": "Google AI老板说,",
+      "link": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T10:32:40+00:00",
+      "summary": "More research on the threats of artificial intelligence (AI) \"needs to be done urgently\", the boss of Google DeepMind has told BBC News.",
+      "summary_zh": "Google DeepMind的老板告诉了BBC新闻,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mother and infant burnt to death in Indian state over witchcraft allegations",
+      "title_zh": "印度州因巫术指控被烧死的母亲和婴儿",
+      "link": "https://www.bbc.com/news/articles/c98q93gdy3do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T10:10:42+00:00",
+      "summary": "Four people have been arrested in the eastern Indian state of Jharkhand for allegedly burning to death a woman and her 10-month-old son on suspicion of practising witchcraft earlier this week.",
+      "summary_zh": "在印度东部的Jharkhand邦,有4人因涉嫌本周早些时候施行巫术被烧死一名妇女及其10个月大的儿子而被捕。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump directs US government to prepare release of files on aliens and UFOs",
+      "title_zh": "特朗普指示美国政府准备发布关于外星人和不明飞行物的文件",
+      "link": "https://www.bbc.com/news/articles/c4g57gqqln1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T08:07:16+00:00",
+      "summary": "US President Donald Trump says he will direct US agencies, including the defence department, to \"begin the process of identifying and releasing\" government files on aliens and extraterrestrial life.",
+      "summary_zh": "美国总统唐纳德·特朗普表示会指导包括国防部在内的美国机构\"开始识别和发布\"政府有关外国人和外星生活的档案."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK doctor stuck in India after police case over Facebook post",
+      "title_zh": "脸书贴出警方案件后,",
+      "link": "https://www.bbc.com/news/articles/c5ydjd6ep73o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T06:52:25+00:00",
+      "summary": "A British doctor has been unable to leave India for more than a month after police opened a case against him over a social media post about a top politician of the governing Bharatiya Janata Party (BJP).",
+      "summary_zh": "一名英国医生在一个多月内无法离开印度,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'",
+      "title_zh": "特朗普表示世界有十天时间来观察伊朗是否同意协议,",
+      "link": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T05:45:43+00:00",
+      "summary": "US President Donald Trump says the world will find out \"over the next, probably, 10 days\" whether the US will reach a deal with Iran or take military action.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)说,世界会发现\"在下个,大概10天的时间里\",美国是和伊朗达成协议还是采取军事行动."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Revealed: The billions given to charity by ordinary Indians every year",
+      "title_zh": "揭露:每年普通印第安人给慈善事业的数十亿",
+      "link": "https://www.bbc.com/news/articles/c2lrjlkpw2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T01:54:20+00:00",
+      "summary": "India's philanthropy story is usually told from the top down.",
+      "summary_zh": "印度的慈善故事一般从上而下地讲述."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's foreign policy dilemma laid bare by Iran tensions",
+      "title_zh": "特朗普的外交政策困境被伊朗紧张局势揭穿",
+      "link": "https://www.bbc.com/news/articles/c875p9q59vjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T01:45:43+00:00",
+      "summary": "US President Donald Trump delivered his latest ultimatum to Iran on Thursday during a meeting of the Board of Peace, the Middle East coalition Trump formed to stabilise a region he could soon plunge into a new war.",
+      "summary_zh": "美国总统唐纳德·特朗普星期四在和平委员会一次会议上向伊朗递交了最新最后通牒,中东联盟特朗普成立是为了稳定他很快会陷入新战争的地区."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Epstein eyed record label investment to access women, files suggest",
+      "title_zh": "爱泼斯坦眼线唱片投资 接触女性,档案显示",
+      "link": "https://www.bbc.com/news/articles/czx41k51595o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T01:07:40+00:00",
+      "summary": "Warning: this article contains offensive and derogatory language",
+      "summary_zh": "警告:本条含有攻击和贬损性措辞。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South African farmers fear devastation as foot-and-mouth takes hold",
+      "title_zh": "南非农民害怕脚跟被打倒",
+      "link": "https://www.bbc.com/news/articles/ceqvjwre8vqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T00:37:30+00:00",
+      "summary": "The peace of lush, rural landscape in South Africa's KwaZulu-Natal province disguises the anxiety that is stalking the land.",
+      "summary_zh": "南非克瓦祖鲁-纳塔尔省农村风景平和,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hamas holds vote to choose new interim leader, source tells BBC",
+      "title_zh": "哈马斯投票选出新临时领袖,",
+      "link": "https://www.bbc.com/news/articles/c23z0kdypm3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T00:37:14+00:00",
+      "summary": "Hamas is holding an election for a new interim leader, a senior Palestinian official familiar with the armed group's affairs has told the BBC.",
+      "summary_zh": "哈马斯正在选举一位新的临时领导人,一位熟悉该武装团体事务的巴勒斯坦高级官员告诉了英国广播公司。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The Grammy winner bringing traditional country to new audiences",
+      "title_zh": "格莱美奖得主把传统国家带给新观众",
+      "link": "https://www.bbc.com/news/articles/cy0dy1v14d1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T00:37:01+00:00",
+      "summary": "It's been a whirlwind few weeks for Zach Top. Three weeks ago, the rising star of country music won his first Grammy Award, in the newly created category of best traditional country album. He says it still feels like a dream.",
+      "summary_zh": "对于扎克·托普来说,这已经是几个星期的旋风了. 三个星期前,乡村音乐的崛起之星获得了他的第一个格莱美奖,属于新成立的最佳传统乡村专辑类. 他说这感觉还是像个梦"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The Russian village that lost its men to war",
+      "title_zh": "俄国人战败的村庄",
+      "link": "https://www.bbc.com/news/articles/ce8n4l8elpgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T00:29:39+00:00",
+      "summary": "In the fishing village of Sedanka, in Russia's Far East, life is hard.",
+      "summary_zh": "在俄罗斯远东的塞丹卡渔村,生活艰难."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lion DNA helps convict poachers for first time",
+      "title_zh": "狮子DNA第一次帮偷猎者定罪",
+      "link": "https://www.bbc.com/news/articles/c4grxvdyy00o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T00:23:10+00:00",
+      "summary": "Lion DNA has been used to successfully prosecute poachers for the first time in the world, it has emerged.",
+      "summary_zh": "狮子DNA被用来成功起诉偷猎者,这是世界上第一次出现."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The Chinese AI app sending Hollywood into a panic",
+      "title_zh": "中国的AI应用程序让好莱坞陷入恐慌",
+      "link": "https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T23:08:29+00:00",
+      "summary": "A new artificial intelligence (AI) model developed by the Chinese company behind TikTok rocked Hollywood this week - not just because of what it can do, but what it could mean for creative industries.",
+      "summary_zh": "TikTok背后的中国公司开发出一个新的人工智能模型,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: The day Andrew Mountbatten-Windsor was arrested",
+      "title_zh": "观察:安德鲁·蒙巴顿 -温德索被捕的那天",
+      "link": "https://www.bbc.com/news/videos/cvg192yp9geo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T22:20:22+00:00",
+      "summary": "On Thursday morning Andrew Mountbatten-Windsor was arrested at Sandringham Estate in Norfolk, on his 66th birthday.",
+      "summary_zh": "星期四上午,安德鲁·蒙巴滕-温德索尔在诺福克的桑德林汉姆庄园被捕,当时他正值66岁生日."
     },
     {
       "source": "BBC News",
@@ -56,62 +386,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
-      "title_zh": "川普和平委员会成员承诺加沙救济7bn",
-      "link": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T21:33:35+00:00",
-      "summary": "Several countries which have signed up to Donald Trump's Board of Peace have contributed more than $7bn (£5.2bn) towards a Gaza \"relief package\", the US president has said.",
-      "summary_zh": "已有几个国家向唐纳德·特朗普的和平委员会(Donald Trump's Peace Board)签约,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "逮捕の容疑者「面識ない」 図書館で男女3人刺されけが 福岡",
-      "title_zh": "涉嫌逮捕\"不法之徒\" 三男一女入库福州.",
-      "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056631000.html",
-      "published_at": "2026-02-19T20:50:32+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "iPS細胞の再生医療製品 製造販売を了承 世界初の実用化へ",
-      "title_zh": "iPS 细胞再生医学产品制造和销售",
-      "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056521000.html",
-      "published_at": "2026-02-19T20:27:45+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Veteran dissident who refused exile released",
-      "title_zh": "拒绝流放的老兵持不同政见者获释",
-      "link": "https://www.bbc.com/news/articles/cn0ewjdgrkzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T20:15:42+00:00",
-      "summary": "Belarus has released jailed veteran opposition politician Mikola Statkevich, who refused to go into exile last year in a US-brokered prisoner release.",
-      "summary_zh": "白俄罗斯释放了资深反对派政治家米科拉·斯塔特克耶维奇,去年他拒绝流亡在美国调停的囚犯释放中。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says world has 10 days to see if Iran deal reached",
-      "title_zh": "特朗普说,世界还有10天看伊朗的交易是否达成",
-      "link": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T19:23:55+00:00",
-      "summary": "President Donald Trump says the world will find out \"over the next, probably, 10 days\" whether the US will reach a deal with Iran or take military action.",
-      "summary_zh": "总统唐纳德·特朗普(Donald Trump)表示,世界会发现\"在下个,大概10天的时间里\",美国是否会与伊朗达成协议或采取军事行动."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US build-up of warships and fighter jets tracked near Iran",
-      "title_zh": "美国在伊朗附近集结军舰和战斗机",
-      "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T18:57:06+00:00",
-      "summary": "BBC Verify has confirmed a second US aircraft carrier appears to be heading towards the Middle East, as Washington continues to put pressure on Iran over its military program and recent deadly crackdown on protesters .",
-      "summary_zh": "BBC核查证实第二艘美国航空母舰似乎正驶向中东,"
+      "title": "Why haven't more Americans faced charges in the Epstein case?",
+      "title_zh": "为什么没有更多的美国人 在爱泼斯坦案中面临指控?",
+      "link": "https://www.bbc.com/news/videos/ce8w279kz6xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T21:38:06+00:00",
+      "summary": "The arrest of Andrew Mountbatten-Windsor on suspicion of misconduct in public office is dominating headlines in the US.",
+      "summary_zh": "Andrew Mountbatten-Windsor因涉嫌公职不当行为而被捕,成为美国头条新闻。"
     },
     {
       "source": "BBC News",
@@ -126,152 +406,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Sudan atrocities are 'hallmarks of genocide', UN says",
-      "title_zh": "苏丹暴行是种族灭绝的标志,",
-      "link": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T16:38:50+00:00",
-      "summary": "A UN fact-finding mission has determined that evidence of atrocities carried out during the siege and takeover of the Sudanese city of el-Fasher points to genocide.",
-      "summary_zh": "一个联合国实况调查团确定,包围和接管苏丹法希尔城期间所犯下的暴行的证据表明种族灭绝。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Son of Robert Mugabe arrested in South Africa on suspicion of attempted murder",
-      "title_zh": "罗伯特·穆加贝之子在南非因涉嫌谋杀未遂而被捕",
-      "link": "https://www.bbc.com/news/articles/c1jkx2pkyyro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T16:29:25+00:00",
-      "summary": "Police in South Africa have arrested the youngest son of Zimbabwe's late former President Robert Mugabe, who is facing a charge of attempted murder after a reported shooting at a property in an upmarket suburb of Johannesburg.",
-      "summary_zh": "南非警方逮捕了津巴布韦已故前总统罗伯特·穆加贝的幼子,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Over 1,000 Kenyans enlisted to fight in Russia-Ukraine war, report says",
-      "title_zh": "超过1000名肯尼亚人在俄克战争中参战,",
-      "link": "https://www.bbc.com/news/articles/ce8w266769go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T13:55:23+00:00",
-      "summary": "A total of 1,000 Kenyans have been recruited to fight for Russia, according to a Kenyan intelligence report that details a network of rogue officials allegedly colluding with human trafficking syndicates.",
-      "summary_zh": "根据一份肯尼亚情报报告,共招募了1,000名肯尼亚人为俄罗斯而战,该报告详细介绍了据称与人口贩运集团勾结的流氓官员网络。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eight skiers found dead after California avalanche",
-      "title_zh": "八名滑雪者在加利福尼亚雪崩后死亡",
-      "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T12:55:38+00:00",
-      "summary": "Rescue teams combing through the backcountry of California's Lake Tahoe region say they have found the bodies of eight skiers who went missing in an avalanche on Tuesday.",
-      "summary_zh": "搜救队在加州的塔霍湖地区后地进行梳理,表示已经发现了8名滑雪者的尸体,他们星期二在雪崩中失踪."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Desperate hunt for breakthrough in Nancy Guthrie case turns to Mexico",
-      "title_zh": "为了南希·古斯里案的突破而绝望地追逐的墨西哥",
-      "link": "https://www.bbc.com/news/articles/c4gq2k8220go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T12:09:31+00:00",
-      "summary": "US investigators have reportedly been in touch with Mexican authorities about the disappearance of American news anchor Savannah Guthrie's mother, as the search stretches into a third week.",
-      "summary_zh": "据报道,美国调查人员一直与墨西哥当局联系,涉及美国新闻主播萨凡纳·古斯里的母亲失踪事件,搜索工作持续到第三周."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Woman accused of using ChatGPT to plan drug murders",
-      "title_zh": "被控利用ChatGPT策划毒品谋杀的妇女",
-      "link": "https://www.bbc.com/news/articles/clyv80e5dljo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T11:56:23+00:00",
-      "summary": "A 21-year-old woman in South Korea has been charged with the murders of two men, after investigators discovered she had repeatedly asked ChatGPT about the dangers of mixing drugs with alcohol.",
-      "summary_zh": "韩国一名21岁女性被指控谋杀了两名男子,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「無料で海外旅行」SNSで誘われ 大学生カンボジアで連絡取れず",
-      "title_zh": "大学生所吸引的\"海外旅行自由\"SNS",
-      "link": "http://www3.nhk.or.jp/news/html/20260219/k10015056401000.html",
-      "published_at": "2026-02-19T11:43:28+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Suspected carbon-monoxide leak kills at least 30 miners in Nigeria, witnesses say",
-      "title_zh": "疑似一氧化碳泄漏 杀死尼日利亚至少30名矿工 目击者说",
-      "link": "https://www.bbc.com/news/articles/cwyk6nr80kxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T11:27:14+00:00",
-      "summary": "At least 33 miners have died in a suspected carbon-monoxide leak at a lead and zinc mine in central Nigeria's Plateau state, witnesses have told the BBC.",
-      "summary_zh": "至少有33名矿工在尼日利亚中部高原州铅锌矿被怀疑为一氧化碳泄漏而死亡,目击者告诉了英国广播公司."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Billionaire Les Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
-      "title_zh": "亿万富翁Les Wexner告诉美国立法者,他是爱泼斯坦的\"内行\"和\"内行\"",
-      "link": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T11:01:07+00:00",
-      "summary": "US billionaire Les Wexner, who is alleged to have played a key role in helping Jeffrey Epstein build his wealth, has described himself as \"naive, foolish and gullible\" for trusting the late sex offender.",
-      "summary_zh": "被指称在帮助杰弗里·爱泼斯坦(Jeffrey Epstein)建立财富中起关键作用的美国亿万富翁莱斯·韦克斯纳(Les Wexner)将自己描述为\"虚弱,愚蠢和狡猾\",因为信任后期的性犯罪者."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Samba school that praised Brazil's Lula at Rio Carnival relegated",
-      "title_zh": "在里约狂欢节上赞美巴西卢拉的Samba学校被降级",
-      "link": "https://www.bbc.com/news/articles/c3ewvz0j87zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T10:47:09+00:00",
-      "summary": "Rio de Janeiro's annual carnival parade competition continued its tradition of vibrant dance and colour, with samba school Viradouro taking the crown for its tribute to its legendary drum director.",
-      "summary_zh": "里约热内卢一年一度的嘉年华阅兵比赛延续了生动活泼的舞蹈和色彩传统,由桑巴学校Viradouro取下皇冠来纪念其传奇的鼓导演."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Giant robot tribute to Brazil's President Lula comes last in carnival competition",
       "title_zh": "巨大的机器人向巴西总统卢拉致敬 在嘉年华比赛中最后一位",
       "link": "https://www.bbc.com/news/videos/cgjz234pj3lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-19T10:00:40+00:00",
       "summary": "A tribute to Brazil's President Luiz Inácio Lula da Silva which marked the first day of the parade, came in last place at Rio de Janeiro's annual carnival competition.",
       "summary_zh": "对巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦(Luiz Inácio Lula da Silva)表示悼念,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "South Korea's ex-president jailed for life over martial law attempt",
-      "title_zh": "韩国前总统因戒严未遂入狱终身",
-      "link": "https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T09:46:55+00:00",
-      "summary": "South Korea's ex-president Yoon Suk Yeol has been jailed for life for masterminding an insurrection by trying to impose military rule .",
-      "summary_zh": "韩国前总统尹淑烈因企图实行军事统治, 策划了一场叛乱,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
-      "title_zh": "不要放弃迭戈加西亚,特朗普告诉英国 新的攻击查戈斯交易",
-      "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T09:03:42+00:00",
-      "summary": "Donald Trump has thrown the UK's Chagos deal into doubt as he launched a stinging criticism of the plan that would see the UK hand over the Chagos Islands to Mauritius and lease back a joint UK-US military base.",
-      "summary_zh": "唐纳德·特朗普(Donald Trump)对英国的查戈斯交易表示怀疑,因为他对计划提出了尖锐的批评,认为英国会把查戈斯群岛交给毛里求斯,并租回了英国和美国的联合军事基地."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "White House presses Iran to make deal, while ramping up military presence",
-      "title_zh": "白宫迫使伊朗进行交易,同时加强军事存在",
-      "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T06:08:07+00:00",
-      "summary": "The White House has warned Iran would be \"very wise\" to make a deal with the US, amid reports that President Donald Trump is weighing fresh military action against the Islamic Republic.",
-      "summary_zh": "白宫警告伊朗将\"非常明智\"与美国达成协议,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australian presenter apologises for drinking before slurred Olympics report",
-      "title_zh": "澳大利亚主讲人道歉 喝之前的花花公子奥运报告",
-      "link": "https://www.bbc.com/news/articles/cdxgnrr11rwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T04:11:15+00:00",
-      "summary": "An Australian sports presenter has apologised after a clip of her slurring her way through a live cross from the Winter Olympics in Italy went viral, with even Australia's prime minister weighing in.",
-      "summary_zh": "一位澳大利亚体育节目主持人在一段短片中表示歉意, 她通过意大利冬奥会的活十字架,"
     },
     {
       "source": "BBC News",
@@ -306,36 +446,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Hamas is reasserting control in Gaza despite its heavy losses fighting Israel",
-      "title_zh": "哈马斯不顾与以色列作战的巨大损失,正在重新控制加沙。",
-      "link": "https://www.bbc.com/news/articles/c98g1klxnpxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T00:04:44+00:00",
-      "summary": "When a US-imposed ceasefire halted the Gaza War last October, Hamas's war for survival against Israel switched into a battle for control at home.",
-      "summary_zh": "去年10月美国实施的停火停止了加沙战争,哈马斯对以色列的生存战争转变为国内控制战。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-      "title_zh": "俄乌和平会谈没有突破",
-      "link": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-18T22:33:48+00:00",
-      "summary": "Talks between Russia, Ukraine and the US aimed at ending Moscow's war in Ukraine have concluded without a breakthrough.",
-      "summary_zh": "俄罗斯、乌克兰和美国旨在结束莫斯科对乌克兰战争的会谈没有取得突破。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran security official appears to fire on crowd at cemetery",
-      "title_zh": "伊朗安全官员似乎朝墓地的人群开火",
-      "link": "https://www.bbc.com/news/articles/cly8q62qe71o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-18T18:14:39+00:00",
-      "summary": "Crowds of mourners appear to have been fired on by a security official at a cemetery in Iran.",
-      "summary_zh": "一群哀悼者似乎被伊朗一个公墓的保安开枪打死。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Flying oranges: Italian town celebrates carnival with historic street battle",
       "title_zh": "飞橙:意大利小镇以历史性的街战来庆祝嘉年华",
       "link": "https://www.bbc.com/news/videos/cnv6zy10vz4o?at_medium=RSS&at_campaign=rss",
@@ -362,16 +472,6 @@
       "published_at": "2026-02-14T13:13:13+00:00",
       "summary": "Indigenous tribes in the southwestern US, led by the Colorado River Indian Tribes (CRIT), have granted the Colorado River legal personhood to help protect it for future generations. In November 2025, the CRIT, made up of the Mojave, Hopi, Navajo and Chemehuevi tribes, passed the resolution recognising the river as a living, life-giving entity with rights like a person.",
       "summary_zh": "美国西南部由科罗拉多河印第安部落(CRIT)领导的土著部落授予了科罗拉多河法人身份,以帮助为后代保护. 2025年11月,由Mojave、Hopi、Navajo和Chemehuevi等部落组成的CRIT通过决议,承认河流是一个活生生的实体,拥有像个人一样的权利。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: 'I am a survivor' Gisèle Pelicot tells BBC Newsnight",
-      "title_zh": "\"我是幸存者\" Gisèle Pelicot告诉BBC新闻晚报",
-      "link": "https://www.bbc.com/news/videos/c80jvkem8lro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-14T06:00:21+00:00",
-      "summary": "Gisèle Pelicot has told BBC Newsnight's Victoria Derbyshire that her strength comes from her \"DNA\".",
-      "summary_zh": "吉泽尔·佩利科特(英语:Gisèle Pelicot)已经告诉了BBC\"新闻之夜\"的\"维多利亚·德比郡\",她的力量来自于她的\"DNA\"."
     },
     {
       "source": "BBC News",
