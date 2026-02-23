@@ -1,15 +1,125 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-02-22T22:43:43+00:00",
-  "count": 46,
+  "generated_at": "2026-02-23T23:01:15+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French minister moves to block US envoy Kushner from government access",
+      "title_zh": "法国部长阻止美国特使库什纳进入政府",
+      "link": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T22:55:06+00:00",
+      "summary": "The French foreign ministry says US envoy Charles Kushner should be blocked from access to the government, after he failed to explain comments about an alleged \"rise\" of violence in France.",
+      "summary_zh": "法国外交部表示,美国特使查尔斯·库什纳(Charles Kushner)在未能解释关于法国所谓\"崛起\"暴力的评论后,应该被阻止进入政府."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
+      "title_zh": "超过5000架航班因美国东海岸的雪而取消",
+      "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T22:15:51+00:00",
+      "summary": "A major snow storm hit the US east coast on Monday with record-breaking snow, causing disruptions for millions and thousands of flight cancellations.",
+      "summary_zh": "周一美国东海岸遭遇了创纪录的暴雪,造成数百万和上千航班取消的中断."
+    },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ミラノ・コルティナオリンピックが閉幕 【詳しく】",
-      "title_zh": "米兰诺·克蒂纳奥运会闭幕 [详情]",
-      "link": "http://www3.nhk.or.jp/news/html/20260223/k10015058821000.html",
-      "published_at": "2026-02-22T22:30:57+00:00",
+      "title": "消費税減税の企業影響 “プラス”4分の1 半数近く“影響なし”",
+      "title_zh": "减税公司的影响“Plus”",
+      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059061000.html",
+      "published_at": "2026-02-23T21:38:21+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "高市政権の「責任ある積極財政」海外投資家はどう見るか",
+      "title_zh": "海外投资者呢?",
+      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059121000.html",
+      "published_at": "2026-02-23T21:34:48+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米空母ギリシャに レバノン一部大使館員退避 イランと協議前に",
+      "title_zh": "在与伊朗讨论之前,黎巴嫩驻美国大使馆的一部分",
+      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059251000.html",
+      "published_at": "2026-02-23T21:25:09+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Burned and destroyed': Locals and tourists describe Mexico unrest",
+      "title_zh": "\"被焚毁\": 当地人和游客描述墨西哥动乱",
+      "link": "https://www.bbc.com/news/articles/c4gqkg87293o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T21:24:31+00:00",
+      "summary": "Locals and tourists in Mexico have described the \"heartbreaking\" unrest after one of the most powerful and feared cartels in the country unleashed a wave of violence across several states.",
+      "summary_zh": "墨西哥当地民众和游客描述该国最强大和最害怕的卡特尔之一在多个州掀起一波暴力后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+      "title_zh": "毒枭死后,墨西哥派了上千名士兵来制止暴力",
+      "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T21:12:47+00:00",
+      "summary": "Mexico has deployed thousands of soldiers to bolster security after a wave of violence erupted following the death of a powerful drug lord, the country's security minister has said.",
+      "summary_zh": "墨西哥安全部长说,在一位有权势的毒枭死后爆发了一波暴力后,墨西哥已部署上千名士兵加强安全。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump threatens countries that 'play games' with existing trade deals",
+      "title_zh": "特朗普威胁着那些与现有贸易交易\"玩游戏\"的国家.",
+      "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T21:12:43+00:00",
+      "summary": "US President Donald Trump has threatened to impose higher tariffs on countries that \"play games\" with recent trade deals, after the Supreme Court last week blocked many of the sweeping global levies.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)在上星期最高法院封锁许多全球税后,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ロシアのウクライナ侵攻から4年 アメリカが仲介も和平見通せず",
+      "title_zh": "4年之后,乌克兰入侵俄罗斯,美国不是中间人",
+      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059101000.html",
+      "published_at": "2026-02-23T20:38:16+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“エプスタイン氏に情報漏えい疑惑の英前駐米大使が逮捕”報道",
+      "title_zh": "\" Epstein的可疑驻美国大使被捕 \"",
+      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059231000.html",
+      "published_at": "2026-02-23T20:36:21+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ政権 10％の新関税措置発動へ 15％に引き上げの考えも",
+      "title_zh": "特朗普政府新海关价值的10%到15%",
+      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059091000.html",
+      "published_at": "2026-02-23T20:04:00+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "国会 きょうから代表質問 「責任ある積極財政」など論戦へ",
+      "title_zh": "从国会,到\"负责的负重金融\"等有争议的问题.",
+      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059051000.html",
+      "published_at": "2026-02-23T20:00:51+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
@@ -19,19 +129,179 @@
       "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
       "title_zh": "特勤局表示,",
       "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T22:08:03+00:00",
+      "published_at": "2026-02-23T19:26:32+00:00",
       "summary": "An armed man has been shot dead after entering the secure perimeter of US President Donald Trump's Mar-a-Lago residence in Florida, the Secret Service has said.",
       "summary_zh": "特勤局说,一名武装人员在进入美国总统唐纳德·特朗普在佛罗里达州Mar-a-Lago住所的安全地带后被枪杀。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
-      "title_zh": "墨西哥最被通缉的毒枭\"El Mencho\"在军事行动中被杀死",
-      "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T22:07:54+00:00",
-      "summary": "Mexico's most wanted man and the leader of the feared Jalisco New Generation (CJNG) drug cartel has been killed during a security operation to arrest him, the defence ministry has said.",
-      "summary_zh": "国防部表示,墨西哥最被通缉的人和被恐惧的哈利斯科新一代毒品集团的领导人在逮捕他的安全行动中被杀死。"
+      "title": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
+      "title_zh": "乌克兰谈判代表告诉BBC在俄罗斯对面坐着的感觉",
+      "link": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T19:17:11+00:00",
+      "summary": "What is it like negotiating with the Russians over the war in Ukraine?",
+      "summary_zh": "就乌克兰战争与俄国人谈判是什么样子?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+      "title_zh": "在伊朗紧张局势加剧的情况下,美国部分撤离贝鲁特大使馆",
+      "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T19:08:55+00:00",
+      "summary": "The US government has ordered all non-essential staff to leave its embassy in the Lebanese capital of Beirut after a security review, a senior State Department official has told the BBC.",
+      "summary_zh": "美国政府命令所有非必要人员在黎巴嫩首都贝鲁特离开大使馆,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia backs removing Andrew from royal line of succession",
+      "title_zh": "澳大利亚将安德鲁从王室继承线上移走",
+      "link": "https://www.bbc.com/news/articles/cr5lrny83dgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T17:02:46+00:00",
+      "summary": "Australia's prime minister has told Sir Keir Starmer his government would back plans to remove Andrew Mountbatten-Windsor from the line of royal succession.",
+      "summary_zh": "澳大利亚总理已告知基尔·斯塔默爵士,他的政府将支持将安德鲁·蒙巴滕-温德索从王室接任线上除名的计划."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rob Jetten becomes Netherlands' youngest ever PM",
+      "title_zh": "Rob Jetten成为荷兰最年轻的首相",
+      "link": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T16:33:33+00:00",
+      "summary": "Rob Jetten has become the youngest and first openly gay prime minister of the Netherlands after his minority government was sworn in.",
+      "summary_zh": "Rob Jetten成为荷兰最年轻,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Yosemite waterfall turns molten orange",
+      "title_zh": "注意: Yosemite 瀑布会变成融化的橙色",
+      "link": "https://www.bbc.com/news/videos/c4gjmp9de59o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T14:54:49+00:00",
+      "summary": "When the setting sun hits Horsetail Fall, it creates an optical illusion that transforms the water coming off the rocks into what looks like molten lava pouring down the granite face of El Capitan.",
+      "summary_zh": "当太阳落下时,它产生了一种光学幻觉 将从岩石上流出的水 变成熔岩 倒下花岗岩的花岗岩面"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Briton among 19 killed in Nepal bus crash",
+      "title_zh": "Briton在尼泊尔公交车失事中丧生的19人中",
+      "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T14:14:48+00:00",
+      "summary": "A 24-year-old British man is among 19 people who were killed in a bus crash in Nepal, police say.",
+      "summary_zh": "一名24岁的英国人,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What's at stake as ICC judges hear charges against ex-Philippine president Duterte?",
+      "title_zh": "当ICC法官审理对前菲利平·杜特特院长的指控时 事关什么?",
+      "link": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T13:23:39+00:00",
+      "summary": "The International Criminal Court is holding a hearing to determine whether former Philippine president Rodrigo Duterte should stand trial for crimes against humanity committed during his bloody \"war on drugs\".",
+      "summary_zh": "国际刑事法院正在举行听证会,以确定菲律宾前总统罗德里戈·杜特特是否应该对他血腥地\"毒品战争\"期间所犯下的危害人类罪接受审判."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Robert Mugabe's son charged with attempted murder in South Africa",
+      "title_zh": "罗伯特·穆加贝的儿子被控在南非谋杀未遂",
+      "link": "https://www.bbc.com/news/articles/cz9qk9y4d32o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T12:21:05+00:00",
+      "summary": "The youngest son of Zimbabwe's late former President Robert Mugabe has been formally charged with attempted murder at a brief appearance in a South African court.",
+      "summary_zh": "津巴布韦已故前总统罗伯特·穆加贝的幼子在南非法院短暂出庭时被正式指控谋杀未遂."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The taekwondo teacher tasked with healing India's troubled state",
+      "title_zh": "跆拳道老师 负责治愈印度的麻烦",
+      "link": "https://www.bbc.com/news/articles/cn0elx8g00do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T11:25:52+00:00",
+      "summary": "Manipur, in India's northeast, has a new chief minister after being under direct federal rule, which was imposed a year ago, following ethnic violence that left more than 260 people dead.",
+      "summary_zh": "印度东北部的曼尼普尔在一年前被强制实行直接的联邦统治后,在导致260多人死亡的种族暴力后,新任命了一位首席部长."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Winter storm covers parts north-east US in snow",
+      "title_zh": "观察:冬季风暴在雪地中覆盖美国东北部部分地区",
+      "link": "https://www.bbc.com/news/videos/ce3g73nnlelo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T09:40:07+00:00",
+      "summary": "Footage shows snow covering parts of the US as an intense winter storm hits multiple US states including Connecticut and New Jersey.",
+      "summary_zh": "Footage显示覆盖了美国部分地区的雪是一场强烈的冬季风暴袭击了包括康涅狄格州和新泽西州在内的多个美国州."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kim Jong Un re-appointed leader of North Korea's ruling party",
+      "title_zh": "金钟 未改任朝鲜执政党领袖.",
+      "link": "https://www.bbc.com/news/articles/cvg18588mdko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T07:15:47+00:00",
+      "summary": "North Korea's ruling Workers' Party has again chosen Kim Jong Un to be its general secretary, state media report.",
+      "summary_zh": "朝鲜执政工人党再次选择金正恩出任总书记,国家媒体报道."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What the killing of drug lord 'El Mencho' means for Mexico",
+      "title_zh": "毒枭\"El Mencho\"被杀对墨西哥意味着什么",
+      "link": "https://www.bbc.com/news/videos/c0mg8d11pg3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T07:12:06+00:00",
+      "summary": "Mexico's most wanted man and the leader of the feared Jalisco New Generation (CJNG) drug cartel has been killed, Mexico's defence ministry has confirmed.",
+      "summary_zh": "墨西哥最被通缉的人和被恐惧的哈利斯科新一代(CJNG)贩毒集团的领导人被杀死,墨西哥国防部确认."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+      "title_zh": "俄国在乌克兰发动全面战争四年后,",
+      "link": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T06:01:59+00:00",
+      "summary": "At first glance, Yelets in winter looks like something from a Russian fairy tale.",
+      "summary_zh": "乍一看,冬天的耶列茨看起来像一个俄罗斯童话故事中的东西."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australian prosecutors consider reopening British girl's cold case disappearance",
+      "title_zh": "澳大利亚检察官考虑重开英国女孩的冷案失踪案",
+      "link": "https://www.bbc.com/news/articles/cd6zg91l75qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T05:07:47+00:00",
+      "summary": "The family of a British girl who disappeared in Australia more than 55 years ago has welcomed a decision by prosecutors to consider reopening her case.",
+      "summary_zh": "55多年前在澳大利亚失踪的一名英国女孩的家人欢迎检察官决定考虑重新审理她的案件。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Who was El Mencho, Mexico's most wanted man?",
+      "title_zh": "墨西哥最通缉犯埃尔·门乔是谁?",
+      "link": "https://www.bbc.com/news/articles/c1jkw18e19jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T03:17:03+00:00",
+      "summary": "There are only a handful of names that have had a lasting impact in the history of Mexican organised crime.",
+      "summary_zh": "只有少数名字在墨西哥有组织犯罪的历史中产生了持久的影响."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How budget fast fashion is taking small-town India by storm",
+      "title_zh": "预算时尚如何快速 以小城镇印度的风暴",
+      "link": "https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T00:40:05+00:00",
+      "summary": "At a gleaming three-storey outlet of Reliance Trends in the town of Sangli in western India, Alka browses through a collection of Indian ethnic-wear kurtas in an array of vibrant colours.",
+      "summary_zh": "Alka在印度西部Sangli镇的Reliance Transports一地一地,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Are you cut out for living and working in Antarctica?",
+      "title_zh": "你是在南极洲生活和工作吗?",
+      "link": "https://www.bbc.com/news/articles/cn0e30d9wj9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T00:01:56+00:00",
+      "summary": "Both the UK and US's research facilities in Antarctica are on the hunt for the next batch of workers to \"go south\".",
+      "summary_zh": "英国和美国在南极洲的研究设施都在寻找下一批工人去\"去南方\"."
     },
     {
       "source": "BBC News",
@@ -44,44 +314,14 @@
       "summary_zh": "乌克兰总统沃洛德米尔·泽连斯基继续发出强烈的蔑视信息。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "スカイツリーエレベーター停止で閉じ込め5時間半 20人全員救助",
-      "title_zh": "5个半小时后在城市电梯站停了下来",
-      "link": "http://www3.nhk.or.jp/news/html/20260222/k10015058721000.html",
-      "published_at": "2026-02-22T21:28:48+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "きょう関東は5月並みの暖かさに 北海道は荒天 暴風に警戒を",
-      "title_zh": "坎多是五月的温暖,北海道对暴风雨的天气很警惕",
-      "link": "http://www3.nhk.or.jp/news/html/20260223/k10015058781000.html",
-      "published_at": "2026-02-22T21:14:25+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「LUNA SEA」のドラマー 真矢さん 死去 56歳",
-      "title_zh": "LUNA SEA的鼓手Shinya已逝世,享年56岁",
-      "link": "http://www3.nhk.or.jp/news/html/20260223/k10015058831000.html",
-      "published_at": "2026-02-22T19:24:05+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
       "title_zh": "美国特使维特克夫表示,",
       "link": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-22T18:18:41+00:00",
-      "summary": "US President Donald Trump is questioning why Iran has not yet \"capitulated\" in the face of Washington's military build-up in the Middle East, the US president's special envoy Steve Witkoff has said.",
-      "summary_zh": "美国总统唐纳德·特朗普质疑伊朗为何尚未面对华盛顿中东军事集结\"封杀\",美国总统特使史蒂夫·维特克夫表示."
+      "summary": "US President Donald Trump is questioning why Iran has not yet \"capitulated\" in the face of Washington's military build-up in the Middle East, the US president's special envoy has said.",
+      "summary_zh": "美国总统唐纳德·特朗普质疑伊朗为何尚未面对华盛顿在中东的军事集结\"封口\",美国总统特使表示."
     },
     {
       "source": "BBC News",
@@ -94,16 +334,6 @@
       "summary_zh": "意大利守护圣人阿西西的圣方济各的遗骨已公开展出,以纪念他去世后800年."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領の別荘に侵入試みたか 男を射殺 大統領は不在",
-      "title_zh": "特朗普总统试图入侵别墅或杀死一个人 总统不在",
-      "link": "http://www3.nhk.or.jp/news/html/20260223/k10015058811000.html",
-      "published_at": "2026-02-22T17:32:07+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Greenland says 'no thanks' to Trump US hospital boat",
@@ -112,26 +342,6 @@
       "published_at": "2026-02-22T17:27:16+00:00",
       "summary": "Greenland's prime minister has asked US President Donald Trump to talk to him instead of making \"random outbursts on social media\", after Trump said he was sending a US hospital boat to \"take care\" of people on the island.",
       "summary_zh": "格陵兰总理要求美国总统唐纳德·特朗普与他交谈,而不是\"在社交媒体上放肆\",此前特朗普表示要派一艘船去美国医院\"照顾\"岛上的人."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "最高検察庁 「保護観察」付き判決 積極的に求めるよう通知",
-      "title_zh": "最高检察官的\"保护观察\"判决",
-      "link": "http://www3.nhk.or.jp/news/html/20260223/k10015058741000.html",
-      "published_at": "2026-02-22T15:12:38+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "天皇陛下 66歳の誕生日",
-      "title_zh": "皇帝的麦凯诺66",
-      "link": "http://www3.nhk.or.jp/news/html/20260223/k10015058601000.html",
-      "published_at": "2026-02-22T15:00:55+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
@@ -246,26 +456,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Family of Palestinian-American man killed in West Bank demand accountability",
-      "title_zh": "在西岸被害的巴勒斯坦裔美国人家属要求追究责任",
-      "link": "https://www.bbc.com/news/articles/cvgk7z15gnpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T21:27:07+00:00",
-      "summary": "The family of a 19-year-old Palestinian-American man who they say was shot dead by an Israeli settler in the occupied West Bank have called for accountability over his killing.",
-      "summary_zh": "一名19岁的巴勒斯坦-美国男子的家人,据说在被占领的西岸被一名以色列定居者开枪打死,要求追究他杀害他的责任。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nasa astronauts' moon mission delayed due to rocket issue",
-      "title_zh": "纳萨宇航员的月球任务因火箭发射而推迟",
-      "link": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T21:05:18+00:00",
-      "summary": "Nasa has said that its 6 March launch day for its long-awaited lunar mission is now \"out of consideration\", after it spotted several last minute issues during routine checks that would prevent lift off.",
-      "summary_zh": "Nasa说,其期待已久的月球飞行任务的3月6日发射日现在“已失去考虑”,因为它在例行检查中发现了几个最后一分钟的问题,无法起飞。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Giant tortoises return to Galápagos island after nearly 200 years",
       "title_zh": "巨龟在将近200年后回到了加拉帕戈斯岛",
       "link": "https://www.bbc.com/news/videos/cvg3wl7xxxlo?at_medium=RSS&at_campaign=rss",
@@ -286,32 +476,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
-      "title_zh": "随着选举的临近,杀害民族主义学生使法国人陷入了深渊",
-      "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T18:11:22+00:00",
-      "summary": "Is the far left about to replace the far right as the pariah of French politics?",
-      "summary_zh": "远远左翼即将取代法国政坛的极右派吗?"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "How will Trump's new global tariffs work and what's next?",
       "title_zh": "特朗普新的全球关税将如何运作,下一步是什么?",
       "link": "https://www.bbc.com/news/articles/c8r1e327z46o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-21T17:39:56+00:00",
       "summary": "The US Supreme Court has ruled that President Donald Trump overstepped his powers when he imposed sweeping global tariffs last year.",
       "summary_zh": "美国最高法院裁决,唐纳德·特朗普总统去年实施全球关税时越权了."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
-      "title_zh": "在黎巴嫩,",
-      "link": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T17:26:04+00:00",
-      "summary": "Israeli air strikes have killed at least 10 people in eastern Lebanon, Lebanese officials say, despite a ceasefire.",
-      "summary_zh": "黎巴嫩官员说,尽管停火,以色列空袭在黎巴嫩东部至少造成10人死亡。"
     },
     {
       "source": "BBC News",
@@ -326,142 +496,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Italian toddler dies after transplant with heart 'burned by frostbite'",
-      "title_zh": "意大利幼童在移植心脏后会死去 心脏被冻伤所烧伤",
-      "link": "https://www.bbc.com/news/articles/ceqvgedennpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T16:01:45+00:00",
-      "summary": "A toddler in Italy who received a damaged donor heart has died, the family's lawyer has said.",
-      "summary_zh": "意大利一名接受受损捐献心脏的幼童已去世,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Katseye's Manon to take 'temporary hiatus' to focus on health",
-      "title_zh": "Katseye的\"Manon\"取\"暂时中断\" 专注于健康",
-      "link": "https://www.bbc.com/news/articles/c39wxm807v2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T13:27:00+00:00",
-      "summary": "Katseye member Manon Bannerman is taking a temporary break to focus on her health and wellbeing, the group has announced.",
-      "summary_zh": "Katseye成员Manon Bannerman暂时休息,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Avalanches kill five in Austrian Alps, officials say",
-      "title_zh": "官员说,在奥地利的阿尔卑斯山 有五起雪崩事件",
-      "link": "https://www.bbc.com/news/articles/c5yqgz2q58lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T08:46:40+00:00",
-      "summary": "Five people were killed in a series of avalanches in the Austrian Alps as heavy snowfall hit the region on Friday.",
-      "summary_zh": "在奥地利阿尔卑斯山一连串雪崩中有5人丧生,因为周五大雪降临了该地区."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
-      "title_zh": "Tumbler Ridge 嫌犯的 ChatGPT 账户在拍摄前被禁止",
-      "link": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T07:30:32+00:00",
-      "summary": "OpenAI banned a ChatGPT account owned by the suspect of a mass shooting in British Columbia more than half a year before the attack took place.",
-      "summary_zh": "OpenAI在袭击发生前半年多的时间里禁止了不列颠哥伦比亚大规模枪击案嫌疑人拥有的ChatGPT账户."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
-      "title_zh": "随着以色列在西岸的封锁不断加深,巴勒斯坦权力机构陷入困境",
-      "link": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T06:33:52+00:00",
-      "summary": "With Israeli settler violence surging in the occupied West Bank, al-Mughayyir, north-east of Ramallah, has found itself on the frontline. It faces regular incursions by the Israeli army and has seen farmland seized by settlers who have built new outposts.",
-      "summary_zh": "随着以色列定居者的暴力行为在被占领的西岸猛增,拉马拉东北部的al-Mughayyir已身处前线。 它经常面临以色列军队的入侵,并看到修建了新前哨的定居者占领了农田。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Anna Murdoch-Mann, writer and former News Corp director, dies aged 81",
-      "title_zh": "安娜·默多克-曼,作家,前新闻公司董事,81岁去世.",
-      "link": "https://www.bbc.com/news/articles/cp8150xj36wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T03:02:20+00:00",
-      "summary": "Anna Murdoch-Mann, writer and ex-wife of media baron Rupert Murdoch, has died aged 81, his media outlets have announced.",
-      "summary_zh": "媒体男爵鲁伯特·默多克的编剧和前妻安娜·默多克-曼已经去世了,享年81岁,他的媒体机构已经宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Catch of the day: Pictures from spectacular Nigerian fishing festival",
-      "title_zh": "今日的捕捉:来自尼日利亚壮观的钓鱼节的照片",
-      "link": "https://www.bbc.com/news/articles/cwy6vdl3pxlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T01:57:30+00:00",
-      "summary": "With their nets at the ready, tens of thousands of fishermen were poised to take part in a traditional festival in northern Nigeria last weekend after a six-year break due to Covid and security concerns.",
-      "summary_zh": "成千上万的渔民准备参加尼日利亚北部的传统节日,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran's motorcycling midwife and rights campaigner is star of Oscar-tipped film",
-      "title_zh": "伊朗骑自行车助产员和维权运动者是奥斯卡金像奖的明星",
-      "link": "https://www.bbc.com/news/articles/cn0ewenyg22o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T00:44:24+00:00",
-      "summary": "Growing up in the Iranian capital Tehran, filmmaker Sara Khaki recalls seeing many examples of strong women in a male-dominated society.",
-      "summary_zh": "在伊朗首都德黑兰长大,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Civilians to soldiers: how four years of war has changed ordinary Ukrainians",
-      "title_zh": "平民改为士兵:四年战争如何改变了普通乌克兰人",
-      "link": "https://www.bbc.com/news/articles/cddn2e11zm8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T00:22:28+00:00",
-      "summary": "The Russian bombs that began falling on Ukraine on 24 February 2022 turned tens of thousands of Ukrainian civilians into soldiers overnight.",
-      "summary_zh": "2022年2月24日开始倒向乌克兰的俄罗斯炸弹使数以万计的乌克兰平民一夜之间变成了士兵."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Inside press briefing as Trump criticises Supreme Court tariffs ruling",
       "title_zh": "特朗普批评最高法院的关税裁决,",
       "link": "https://www.bbc.com/news/videos/cgrz519gwlwo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-20T22:56:57+00:00",
       "summary": "US President Donald Trump spoke in the press briefing room following the US Supreme Court's decision to strike down his sweeping global tariffs.",
       "summary_zh": "美国总统唐纳德·特朗普在美国最高法院决定取消他横扫全球的关税后,在新闻简报室发表讲话."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says he is considering limited military strike on Iran",
-      "title_zh": "特朗普说,他正在考虑对伊朗进行有限的军事打击",
-      "link": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-20T22:38:45+00:00",
-      "summary": "US President Donald Trump has said he is considering a limited military strike on Iran in order to pressure its leaders to agree a deal to curb the nuclear programme.",
-      "summary_zh": "美国总统唐纳德·特朗普表示,他正在考虑对伊朗进行有限的军事打击,以向伊朗领导人施压,迫使他们同意一项遏制核计划的协议."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: The day Andrew Mountbatten-Windsor was arrested",
-      "title_zh": "观察:安德鲁·蒙巴顿 -温德索被捕的那天",
-      "link": "https://www.bbc.com/news/videos/cvg192yp9geo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T22:20:22+00:00",
-      "summary": "On Thursday morning Andrew Mountbatten-Windsor was arrested at Sandringham Estate in Norfolk, on his 66th birthday.",
-      "summary_zh": "星期四上午,安德鲁·蒙巴滕-温德索尔在诺福克的桑德林汉姆庄园被捕,当时他正值66岁生日."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why haven't more Americans faced charges in the Epstein case?",
-      "title_zh": "为什么没有更多的美国人 在爱泼斯坦案中面临指控?",
-      "link": "https://www.bbc.com/news/videos/ce8w279kz6xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-19T21:38:06+00:00",
-      "summary": "The arrest of Andrew Mountbatten-Windsor on suspicion of misconduct in public office is dominating headlines in the US.",
-      "summary_zh": "Andrew Mountbatten-Windsor因涉嫌公职不当行为而被捕,成为美国头条新闻。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Flying oranges: Italian town celebrates carnival with historic street battle",
-      "title_zh": "飞橙:意大利小镇以历史性的街战来庆祝嘉年华",
-      "link": "https://www.bbc.com/news/videos/cnv6zy10vz4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-16T15:10:12+00:00",
-      "summary": "A town in northern Italy has started celebrating carnival with its annual Battle of the Oranges, where people hurl the fruit at each other for fun.",
-      "summary_zh": "意大利北部一个城镇开始庆祝狂欢节, 庆祝一年一度的橙子之战,"
     }
   ]
 }
