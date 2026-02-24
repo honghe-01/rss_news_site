@@ -1,57 +1,277 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-02-23T23:01:15+00:00",
+  "generated_at": "2026-02-24T22:53:27+00:00",
   "count": 50,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "French minister moves to block US envoy Kushner from government access",
-      "title_zh": "法国部长阻止美国特使库什纳进入政府",
-      "link": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-23T22:55:06+00:00",
-      "summary": "The French foreign ministry says US envoy Charles Kushner should be blocked from access to the government, after he failed to explain comments about an alleged \"rise\" of violence in France.",
-      "summary_zh": "法国外交部表示,美国特使查尔斯·库什纳(Charles Kushner)在未能解释关于法国所谓\"崛起\"暴力的评论后,应该被阻止进入政府."
+      "title": "Floods and landslides in Brazil kill at least 25",
+      "title_zh": "巴西的洪水和滑坡至少造成25人死亡",
+      "link": "https://www.bbc.com/news/articles/c70k7vjllzeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T22:25:54+00:00",
+      "summary": "At least 25 people have died in the south-eastern Brazilian state of Minas Gerais after heavy rains on Monday evening caused floods and several landslides.",
+      "summary_zh": "巴西东南部米纳斯吉拉斯州至少有25人死于星期一晚间暴雨导致洪水和多起山体滑坡."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ゼレンスキー大統領 “ロシアとの和平協議 欧州の参加必要”",
+      "title_zh": "泽伦斯基总统“瓦达伊拉与俄罗斯的对话:参与欧洲”",
+      "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060051000.html",
+      "published_at": "2026-02-24T21:19:37+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
-      "title_zh": "超过5000架航班因美国东海岸的雪而取消",
-      "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-23T22:15:51+00:00",
-      "summary": "A major snow storm hit the US east coast on Monday with record-breaking snow, causing disruptions for millions and thousands of flight cancellations.",
-      "summary_zh": "周一美国东海岸遭遇了创纪录的暴雪,造成数百万和上千航班取消的中断."
+      "title": "Threat of further violence looms after Mexican cartel rampage",
+      "title_zh": "在墨西哥卡特尔暴发后,威胁进一步采取暴力",
+      "link": "https://www.bbc.com/news/articles/cgml2djwwvno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T21:04:40+00:00",
+      "summary": "Driving into Mexico's western city of Guadalajara, the evidence of Sunday's terrifying cartel rampage is still visible.",
+      "summary_zh": "墨西哥西部城市瓜达拉哈拉,"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "消費税減税の企業影響 “プラス”4分の1 半数近く“影響なし”",
-      "title_zh": "减税公司的影响“Plus”",
-      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059061000.html",
-      "published_at": "2026-02-23T21:38:21+00:00",
+      "title": "「国民会議」あすにもチームみらいの参加得て初会合開く案検討",
+      "title_zh": "\" 全国会议 \"第一次在三井队开会\"",
+      "link": "http://www3.nhk.or.jp/news/html/20260225/k10015059971000.html",
+      "published_at": "2026-02-24T20:20:32+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "高市政権の「責任ある積極財政」海外投資家はどう見るか",
-      "title_zh": "海外投资者呢?",
-      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059121000.html",
-      "published_at": "2026-02-23T21:34:48+00:00",
+      "title": "参院代表質問 立民 カタログギフト事実関係など説明求める方針",
+      "title_zh": "医院代表问题 塔明目录 礼物事实和其他解释",
+      "link": "http://www3.nhk.or.jp/news/html/20260225/k10015059961000.html",
+      "published_at": "2026-02-24T20:19:12+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米空母ギリシャに レバノン一部大使館員退避 イランと協議前に",
-      "title_zh": "在与伊朗讨论之前,黎巴嫩驻美国大使馆的一部分",
-      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059251000.html",
-      "published_at": "2026-02-23T21:25:09+00:00",
+      "title": "トランプ大統領 きょう一般教書演説へ 実績や政策をアピールか",
+      "title_zh": "特朗普总统向总演讲介绍结果和政策",
+      "link": "http://www3.nhk.or.jp/news/html/20260225/k10015059991000.html",
+      "published_at": "2026-02-24T20:09:13+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "フジテレビの損害賠償訴訟 元社長側 反論「合理的な経営判断」",
+      "title_zh": "富士电视台对前总统的控诉,",
+      "link": "http://www3.nhk.or.jp/news/html/20260225/k10015059861000.html",
+      "published_at": "2026-02-24T20:07:45+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NTTドコモ 3Gサービス3月末終了へ 他社は利用客取り込みの動き",
+      "title_zh": "NTT QQOMO 3G 服务结束 三月",
+      "link": "http://www3.nhk.or.jp/news/html/20260225/k10015059951000.html",
+      "published_at": "2026-02-24T20:04:55+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US ambassador to France set for talks with foreign minister after row",
+      "title_zh": "美国驻法国大使安排与外交部长逐行会谈",
+      "link": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T19:57:14+00:00",
+      "summary": "The US ambassador to France, Charles Kushner, has reportedly assured French Foreign Minister Jean-Noel Barrot he will not interfere in the country's affairs, after he failed to explain claims France had seen a \"rise\" in violence.",
+      "summary_zh": "美国驻法国大使克什纳(Charles Kushner)向法国外长让-诺埃尔·巴罗特保证, 他不会干涉法国事务,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria denies report it paid 'huge' ransom to free pupils in mass abduction",
+      "title_zh": "尼日利亚否认向大规模绑架的小学生支付“huge”赎金。",
+      "link": "https://www.bbc.com/news/articles/cewzyqjq2ygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T18:20:20+00:00",
+      "summary": "Nigeria's government has rejected a media report alleging that it paid a \"huge\" ransom to Islamist militant group Boko Haram to secure the release of more than 200 pupils and staff abducted from a Catholic boarding school in November.",
+      "summary_zh": "尼日利亚政府拒绝了媒体指控向伊斯兰好战团体\"博科圣地\"(Boko Haram)支付\"人质\"赎金,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine remembers its dead as war enters a fifth year",
+      "title_zh": "战争进入了第五年,乌克兰还记得它死了",
+      "link": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T18:13:58+00:00",
+      "summary": "Four years since Russia launched its full-scale invasion, people across Ukraine have remembered their dead from a war which shows no sign of ending.",
+      "summary_zh": "俄国发动了全面入侵四年后, 乌克兰各地人民从一场没有结束迹象的战争中想起了自己的死因。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two dead after winter storm hammers the US northeast",
+      "title_zh": "冬季暴风雨后,美国东北部有两人死亡",
+      "link": "https://www.bbc.com/news/articles/c5yjpx2lgdjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T15:31:14+00:00",
+      "summary": "A powerful winter blizzard that hit the north-eastern US has left two dead in Maryland and continues to delay flights and cause widespread power outages across the region.",
+      "summary_zh": "美国东北部遭受了强烈的冬季暴风雪,使马里兰州有两人丧生,并继续延误航班,并导致整个地区普遍停电."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nancy Guthrie's family offers $1m reward to bring home missing mother",
+      "title_zh": "Nancy Guthrie的家人 悬赏一百万美元 带失踪的母亲回家",
+      "link": "https://www.bbc.com/news/articles/cy4wd11j0evo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T15:27:35+00:00",
+      "summary": "US news anchor Savannah Guthrie has announced her family is offering a $1m reward for information leading to the return of her mother on day 24 of the search for the 84-year-old.",
+      "summary_zh": "美国新闻主播Savannah Guthrie宣布, 她的家人将提供1美元奖励, 以换取她母亲在寻找84岁老人的24日回来的消息。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Moscow rail hub explosion was suicide bomb, Russian officials say",
+      "title_zh": "俄罗斯官员说,莫斯科铁路枢纽爆炸是自杀炸弹",
+      "link": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T14:59:34+00:00",
+      "summary": "An explosion outside a major train station in Moscow that killed a traffic police officer and injured two others was a suicide attack, Russian officials say.",
+      "summary_zh": "俄罗斯官员说,莫斯科一大火车站外发生爆炸,一名交通警察被炸死,另有两人受伤,是一起自杀式袭击."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "カンボジア 日本人15人が現地当局に拘束 特殊詐欺に関与か",
+      "title_zh": "柬埔寨 15个日本人与参与特别欺诈的地方当局有联系",
+      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015060011000.html",
+      "published_at": "2026-02-24T14:20:49+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mexico hunts 23 inmates sprung from jail during wave of violence",
+      "title_zh": "墨西哥在暴力浪潮中追捕23名囚犯。",
+      "link": "https://www.bbc.com/news/articles/c07jpx7kkvpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T13:43:53+00:00",
+      "summary": "Police in Mexico are searching a number of inmates sprung from a prison in Puerto Vallarta during a wave of attacks launched by the Jalisco New Generation Cartel (CJNG) on Sunday.",
+      "summary_zh": "墨西哥警方正在搜查从瓦利亚塔港监狱涌出的一些囚犯,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ramaphosa thanks Putin for release of South Africans lured into Russia-Ukraine war",
+      "title_zh": "拉马福萨感谢普京释放被诱入俄乌战争的南非人.",
+      "link": "https://www.bbc.com/news/articles/c2d1j7klzpgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T13:14:53+00:00",
+      "summary": "South Africa's President Cyril Ramaphosa has thanked his Russian counterpart Vladimir Putin for helping to secure the return of 17 South Africans allegedly tricked into joining the Russia-Ukraine war.",
+      "summary_zh": "南非总统西里尔·拉马福萨(Cyril Ramaphosa)感谢俄罗斯总统弗拉基米尔·普京帮助17名据称被骗加入俄罗斯-乌克兰战争的南非人返回。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hong Kong lodges 'strong protest' after Panama takes control of canal ports",
+      "title_zh": "在巴拿马控制运河港口后,",
+      "link": "https://www.bbc.com/news/articles/c2k8z9v3334o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T12:16:36+00:00",
+      "summary": "Hong Kong has formally complained to the government of Panama after it took control of two ports on the Panama Canal. It accused the Panamanian authorities of taking them over by force.",
+      "summary_zh": "香港在控制了巴拿马运河上的两个港口后,正式向巴拿马政府投诉. 它指控巴拿马当局以武力接管这些财产。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Celebrity doctor Peter Attia steps down from CBS over Epstein links",
+      "title_zh": "名人医生彼得·阿提亚从CBS下来 越过爱泼斯坦的链接",
+      "link": "https://www.bbc.com/news/articles/cwy95ln0ynyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T11:34:15+00:00",
+      "summary": "Celebrity doctor Peter Attia has stepped down from his role as a CBS News contributor after exchanges with Jeffrey Epstein were among documents published by the US Department of Justice.",
+      "summary_zh": "与杰弗里·爱泼斯坦(Jeffrey Epstein)交流后,名人医生彼得·阿提亚(Peter Attia)辞去CBS新闻撰稿人的角色,成为美国司法部出版的文件之一."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Robert Carradine, Lizzie McGuire and Revenge of the Nerds star, dies aged 71",
+      "title_zh": "罗伯特·卡拉丁 利兹·麦奎尔 和内兹星的复仇者 71岁去世",
+      "link": "https://www.bbc.com/news/articles/cy0dqpjjprno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T09:34:31+00:00",
+      "summary": "Robert Carradine, the US actor best known for roles in Revenge of the Nerds and Lizzie McGuire, has died aged 71.",
+      "summary_zh": "罗伯特·卡拉丁(英語:Robert Carradine)是美国演员,以\"复仇者\"和\"利兹·麦奎尔\"中的角色出名,已经去世,享年71岁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Probe under way after illness kills 72 tigers in Thai tourist park",
+      "title_zh": "病后在泰国旅游园杀出72只老虎",
+      "link": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T08:31:11+00:00",
+      "summary": "Authorities in Chiang Mai, a city in northern Thailand, are investigating the deaths of dozens of tigers at a popular tourist attraction.",
+      "summary_zh": "泰国北部城市清迈当局正在一个受欢迎的旅游景点调查数十只老虎被害."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Anyone who runs is shot': Watch Russian soldiers describe killings of troops who refuse orders",
+      "title_zh": "\"任何逃跑的人都中枪\":看着俄罗斯士兵描述对拒绝命令的士兵的杀戮.",
+      "link": "https://www.bbc.com/news/videos/cx2rql99rwxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T07:32:54+00:00",
+      "summary": "Russian soldiers have exposed the brutality of conditions on the Russian side of the front lines in Ukraine, with two men telling the BBC they saw soldiers being executed on the spot for refusing orders.",
+      "summary_zh": "俄罗斯士兵揭露了乌克兰前线俄罗斯一方的恶劣条件,两人告诉英国广播公司,他们看到士兵因拒绝命令被当场处决."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "BBC's Will Grant on the atmosphere in Mexico following unrest",
+      "title_zh": "BBC的威尔·格兰特(Will Grant)介绍墨西哥动乱后的气氛",
+      "link": "https://www.bbc.com/news/videos/cx289lkkp8po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T06:25:07+00:00",
+      "summary": "Since the death of a powerful drug lord, Mexico has deployed thousands of soldiers to reinforce security due to a wave of violence erupting across parts of the country.",
+      "summary_zh": "自一位强大的毒枭被害后,墨西哥部署了数千名士兵来加强安全,原因是全国各地爆发了一波暴力。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
+      "title_zh": "鲍文:乌克兰为何仍然不服从,不觉得接近被打败.",
+      "link": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T06:02:26+00:00",
+      "summary": "On a dark and cold night in Donetsk in eastern Ukraine, the netting protecting the road from attacks by explosive drones shimmered and rippled in the headlights of our armoured Toyota Land Cruiser, as we drove down strange and surreal tunnels to get in and out of the most intensive area of fighting in eastern Ukraine. The nets go on for miles, suspended from wooden poles around 20ft high along the sides and over the top of the road. Dystopian military vehicles straight out of Mad Max rumble past, encased in their own cages of steel and netting.",
+      "summary_zh": "在乌克兰东部顿涅茨克的一个黑暗而寒冷的夜晚,在我们驾驶奇异而超现实的地道进出乌克兰东部最密集的战斗地区时,我们装甲丰田越野车的灯光中闪烁并撕裂了保护道路不受爆炸性无人机袭击的网状网络。 渔网持续了数英里,从20英尺高的木柱上悬起,沿边和上行道. Dystopian军车 直接从疯狂的马克斯 朗布尔过去, 困在他们自己的笼子 钢和网。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
+      "title_zh": "俄国士兵告诉BBC 他们看到同军奉指挥官命令被处决",
+      "link": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T06:02:13+00:00",
+      "summary": "Warning: This story contains details of extreme violence and reference to suicide.",
+      "summary_zh": "警告: 这个故事包含了极端暴力的细节并提到了自杀."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "ICC judges hear charges against ex-Philippine president Duterte: What you need to know",
+      "title_zh": "国际刑事法院法官审理对前菲利普·多特庭长的指控:你需要知道什么",
+      "link": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T06:01:06+00:00",
+      "summary": "The International Criminal Court is holding a hearing to determine whether former Philippine president Rodrigo Duterte should stand trial for crimes against humanity committed during his bloody \"war on drugs\".",
+      "summary_zh": "国际刑事法院正在举行听证会,以确定菲律宾前总统罗德里戈·杜特特是否应该对他血腥地\"毒品战争\"期间所犯下的危害人类罪接受审判."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Landmark royal commission into antisemitism prompted by Bondi shooting begins",
+      "title_zh": "Bondi枪击引发的反宗教的 皇家委员会开始成立",
+      "link": "https://www.bbc.com/news/articles/c743dzvp73xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T05:59:14+00:00",
+      "summary": "Australia's royal commission into antisemitism, prompted after the Bondi Beach shootings that killed 15 people and injured 40, has begun public hearings.",
+      "summary_zh": "邦迪海滩枪击事件造成15人死亡,40人受伤后,澳大利亚皇家委员会进入了反分裂主义,开始公开听证."
     },
     {
       "source": "BBC News",
@@ -59,19 +279,9 @@
       "title": "'Burned and destroyed': Locals and tourists describe Mexico unrest",
       "title_zh": "\"被焚毁\": 当地人和游客描述墨西哥动乱",
       "link": "https://www.bbc.com/news/articles/c4gqkg87293o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-23T21:24:31+00:00",
+      "published_at": "2026-02-24T03:19:30+00:00",
       "summary": "Locals and tourists in Mexico have described the \"heartbreaking\" unrest after one of the most powerful and feared cartels in the country unleashed a wave of violence across several states.",
       "summary_zh": "墨西哥当地民众和游客描述该国最强大和最害怕的卡特尔之一在多个州掀起一波暴力后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
-      "title_zh": "毒枭死后,墨西哥派了上千名士兵来制止暴力",
-      "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-23T21:12:47+00:00",
-      "summary": "Mexico has deployed thousands of soldiers to bolster security after a wave of violence erupted following the death of a powerful drug lord, the country's security minister has said.",
-      "summary_zh": "墨西哥安全部长说,在一位有权势的毒枭死后爆发了一波暴力后,墨西哥已部署上千名士兵加强安全。"
     },
     {
       "source": "BBC News",
@@ -80,48 +290,8 @@
       "title_zh": "特朗普威胁着那些与现有贸易交易\"玩游戏\"的国家.",
       "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-23T21:12:43+00:00",
-      "summary": "US President Donald Trump has threatened to impose higher tariffs on countries that \"play games\" with recent trade deals, after the Supreme Court last week blocked many of the sweeping global levies.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)在上星期最高法院封锁许多全球税后,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ロシアのウクライナ侵攻から4年 アメリカが仲介も和平見通せず",
-      "title_zh": "4年之后,乌克兰入侵俄罗斯,美国不是中间人",
-      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059101000.html",
-      "published_at": "2026-02-23T20:38:16+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "“エプスタイン氏に情報漏えい疑惑の英前駐米大使が逮捕”報道",
-      "title_zh": "\" Epstein的可疑驻美国大使被捕 \"",
-      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059231000.html",
-      "published_at": "2026-02-23T20:36:21+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ政権 10％の新関税措置発動へ 15％に引き上げの考えも",
-      "title_zh": "特朗普政府新海关价值的10%到15%",
-      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059091000.html",
-      "published_at": "2026-02-23T20:04:00+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "国会 きょうから代表質問 「責任ある積極財政」など論戦へ",
-      "title_zh": "从国会,到\"负责的负重金融\"等有争议的问题.",
-      "link": "http://www3.nhk.or.jp/news/html/20260224/k10015059051000.html",
-      "published_at": "2026-02-23T20:00:51+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "summary": "US President Donald Trump has threatened to impose higher tariffs on countries that \"play games\" with recent trade deals, after the Supreme Court blocked many of the sweeping global levies.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)威胁说,在最高法院阻止许多全球税项之后,"
     },
     {
       "source": "BBC News",
@@ -192,16 +362,6 @@
       "published_at": "2026-02-23T14:14:48+00:00",
       "summary": "A 24-year-old British man is among 19 people who were killed in a bus crash in Nepal, police say.",
       "summary_zh": "一名24岁的英国人,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What's at stake as ICC judges hear charges against ex-Philippine president Duterte?",
-      "title_zh": "当ICC法官审理对前菲利平·杜特特院长的指控时 事关什么?",
-      "link": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-23T13:23:39+00:00",
-      "summary": "The International Criminal Court is holding a hearing to determine whether former Philippine president Rodrigo Duterte should stand trial for crimes against humanity committed during his bloody \"war on drugs\".",
-      "summary_zh": "国际刑事法院正在举行听证会,以确定菲律宾前总统罗德里戈·杜特特是否应该对他血腥地\"毒品战争\"期间所犯下的危害人类罪接受审判."
     },
     {
       "source": "BBC News",
@@ -336,172 +496,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Greenland says 'no thanks' to Trump US hospital boat",
-      "title_zh": "格陵兰说\"谢谢\"特朗普美国医院的船",
-      "link": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T17:27:16+00:00",
-      "summary": "Greenland's prime minister has asked US President Donald Trump to talk to him instead of making \"random outbursts on social media\", after Trump said he was sending a US hospital boat to \"take care\" of people on the island.",
-      "summary_zh": "格陵兰总理要求美国总统唐纳德·特朗普与他交谈,而不是\"在社交媒体上放肆\",此前特朗普表示要派一艘船去美国医院\"照顾\"岛上的人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Explosions kill police officer and injure 25 in western Ukraine",
-      "title_zh": "乌克兰西部发生爆炸,造成警官死亡和25人受伤",
-      "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T14:19:02+00:00",
-      "summary": "A 23-year-old female police officer has been killed and 25 people injured in what Ukrainian officials have called a terror attack in the western city of Lviv.",
-      "summary_zh": "一名23岁的女警官在乌克兰官员所称的利沃夫西部城市恐怖袭击中被炸死并有25人受伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Affront to humanity': Sudan slams Uganda for hosting RSF paramilitary boss",
-      "title_zh": "\"人类面前\": 苏丹为收留无国界记者组织准军事头目而向乌干达施压",
-      "link": "https://www.bbc.com/news/articles/c20lwznegk4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T13:52:09+00:00",
-      "summary": "Sudan's government has denounced Uganda for hosting the leader of the paramilitary Rapid Support Forces (RSF), calling the meeting an \"affront to humanity\".",
-      "summary_zh": "苏丹政府谴责乌干达收留了准军事快速支援部队(RSF)领导人,称这次会议是\"对人类的正面\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Minnesota Vikings receiver Moore dies aged 25",
-      "title_zh": "明尼苏达维京斯接收器摩尔25岁死亡",
-      "link": "https://www.bbc.com/sport/american-football/articles/cpw0qye140do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T12:35:57+00:00",
-      "summary": "Rondale Moore was a second-round draft pick for the Arizona Cardinals in 2021",
-      "summary_zh": "Rondale Moore是2021年亚利桑那红衣主教队的第二轮选手"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pakistan launches deadly strikes on Afghanistan",
-      "title_zh": "巴基斯坦向阿富汗发动致命袭击",
-      "link": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T11:33:11+00:00",
-      "summary": "Pakistan has carried out multiple overnight air strikes on Afghanistan, which the Taliban has said killed at least 18 people, including women and children.",
-      "summary_zh": "巴基斯坦对阿富汗进行了多起一夜的空袭,塔利班说,这次空袭至少使18人丧生,其中包括妇女和儿童."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US ambassador's Israel comments condemned by Arab and Muslim nations",
-      "title_zh": "美国大使的以色列评论受到阿拉伯和穆斯林国家的谴责",
-      "link": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T11:23:20+00:00",
-      "summary": "Arab and Muslim governments have condemned remarks made by the US Ambassador to Israel, Mike Huckabee, who suggested Israel would be justified in taking over a vast stretch of the Middle East on Biblical grounds.",
-      "summary_zh": "阿拉伯和穆斯林政府谴责了美国驻以色列大使迈克·胡克比(Mike Huckabee)所说的话,他建议以色列有理由以《圣经》为由接管大片中东。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "More than 1,500 Venezuelan political prisoners apply for amnesty",
-      "title_zh": "1 500多名委内瑞拉政治犯申请大赦",
-      "link": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T05:04:57+00:00",
-      "summary": "A total of 1,557 Venezuelan political prisoners have applied for amnesty under a new law introduced on Thursday, the country's National Assembly President has said.",
-      "summary_zh": "委内瑞拉国民议会议长说,共有1 557名委内瑞拉政治犯根据星期四提出的新法律申请大赦。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Final missing Lake Tahoe skier found dead 5 days after avalanche",
-      "title_zh": "最终失踪的塔霍湖滑雪者在雪崩后5天被发现已死亡",
-      "link": "https://www.bbc.com/news/articles/cp9m0zp04xyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T02:06:23+00:00",
-      "summary": "The ninth and final missing skier has been found dead in California's Lake Tahoe backcountry, five days after a powerful avalanche struck several guides and a tight-knit group of friends on a trip.",
-      "summary_zh": "第九名也是最后一名失踪的滑雪选手被发现已死在了加州的塔霍湖后国,5天后,一场强大的雪崩在一次出行中袭击了多位向导和一群紧凑的朋友."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
-      "title_zh": "威利·科隆(Willie Colón),是萨尔萨音乐的开拓者,去世于75岁.",
-      "link": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T01:49:42+00:00",
-      "summary": "Salsa music pioneer Willie Colón, the trombonist and orchestra leader behind songs like El Malo, Oh, Qué Será, Talento de Televisión and Gitana, has died aged 75, US media reports.",
-      "summary_zh": "萨尔萨音乐先驱威利·科隆(英语:Willie Colón)是埃尔马洛,奥赫,克·塞拉,塔伦托·德·特莱维西翁和吉塔纳等歌曲的幕后主唱和管弦乐队领队,已经去世了75岁,美国媒体报道."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How football is helping girls fight against forced marriage",
-      "title_zh": "足球如何帮助女孩反对强迫婚姻",
-      "link": "https://www.bbc.com/news/articles/cpv8r34mn0po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-22T00:30:41+00:00",
-      "summary": "One hot summer evening when Nisha Vaishnav was 14, she and her 18-year-old sister Munna were at football practice when they noticed five adult strangers taking photos of them.",
-      "summary_zh": "一个炎热的夏天晚上,尼莎·瓦伊什纳夫14岁时,她和她18岁的妹妹蒙娜在足球练习会,当时他们注意到有五个成年陌生人在为她们拍照."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "From Venezuela to immigration crackdown, Project 2025 provided Trump's roadmap",
       "title_zh": "从委内瑞拉到移民镇压,2025工程提供了特朗普的行进图.",
       "link": "https://www.bbc.com/news/articles/c5yvvjw8pdvo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-22T00:02:26+00:00",
       "summary": "When Donald Trump gives his State of the Union address on Tuesday evening, he is expected to tout his policies from his first year back in the White House.",
       "summary_zh": "当唐纳德·特朗普(Donald Trump)星期二晚上发表国情咨文时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Once mocked for being tacky, this Korean music genre is making a comeback",
-      "title_zh": "这个韩国音乐流派 曾经被嘲笑为俗气",
-      "link": "https://www.bbc.com/news/articles/c5y4xqlg639o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T23:06:59+00:00",
-      "summary": "Before K-pop, there was trot.",
-      "summary_zh": "在K -pop之前,有脚踏车。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Giant tortoises return to Galápagos island after nearly 200 years",
-      "title_zh": "巨龟在将近200年后回到了加拉帕戈斯岛",
-      "link": "https://www.bbc.com/news/videos/cvg3wl7xxxlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T20:26:04+00:00",
-      "summary": "Giant tortoises are roaming the Galápagos island of Floreana for the first time in more than 180 years, in what conservationists have called a \"hugely significant milestone\".",
-      "summary_zh": "巨龟游走于加拉帕戈斯岛弗洛雷纳岛,这是180多年以来第一次,在被保护主义者称为\"重大里程碑\"中."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Giant tortoises return to Galápagos island after nearly 200 years",
-      "title_zh": "巨龟在将近200年后回到了加拉帕戈斯岛",
-      "link": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T18:32:37+00:00",
-      "summary": "Giant tortoises are roaming the Galápagos island of Floreana for the first time in more than 180 years, in what conservationists have called a \"hugely significant milestone\".",
-      "summary_zh": "巨龟游走于加拉帕戈斯岛弗洛雷纳岛,这是180多年以来第一次,在被保护主义者称为\"重大里程碑\"中."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How will Trump's new global tariffs work and what's next?",
-      "title_zh": "特朗普新的全球关税将如何运作,下一步是什么?",
-      "link": "https://www.bbc.com/news/articles/c8r1e327z46o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T17:39:56+00:00",
-      "summary": "The US Supreme Court has ruled that President Donald Trump overstepped his powers when he imposed sweeping global tariffs last year.",
-      "summary_zh": "美国最高法院裁决,唐纳德·特朗普总统去年实施全球关税时越权了."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal",
-      "title_zh": "潜水员从贝加尔湖底找回了七具中国游客的尸体",
-      "link": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-21T16:43:36+00:00",
-      "summary": "Russian authorities say divers have recovered the bodies of seven Chinese tourists and a Russian driver who died after their mini-bus plunged under the ice to the bottom of Lake Baikal in Siberia.",
-      "summary_zh": "俄罗斯当局说,潜水员已经找回了7名中国游客和1名俄罗斯司机的尸体,他们的小客车在西伯利亚的贝加尔湖下方被滑倒后死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inside press briefing as Trump criticises Supreme Court tariffs ruling",
-      "title_zh": "特朗普批评最高法院的关税裁决,",
-      "link": "https://www.bbc.com/news/videos/cgrz519gwlwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-20T22:56:57+00:00",
-      "summary": "US President Donald Trump spoke in the press briefing room following the US Supreme Court's decision to strike down his sweeping global tariffs.",
-      "summary_zh": "美国总统唐纳德·特朗普在美国最高法院决定取消他横扫全球的关税后,在新闻简报室发表讲话."
     }
   ]
 }
