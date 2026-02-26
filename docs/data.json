@@ -1,17 +1,337 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-02-25T22:53:03+00:00",
-  "count": 33,
+  "generated_at": "2026-02-26T22:53:51+00:00",
+  "count": 40,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
-      "title_zh": "4人在美国注册的快艇上被边防军打死,古巴说",
-      "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T22:48:01+00:00",
-      "summary": "Four people who entered Cuban waters on a US-registered speedboat have been shot dead by border guards, Cuba's government said.",
-      "summary_zh": "四名乘坐美国注册快艇进入古巴水域的人被边防军枪杀,"
+      "title": "American citizen among those killed in Cuba boat shooting, US official says",
+      "title_zh": "在古巴船只枪击事件中遇难的美国公民,",
+      "link": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T22:50:24+00:00",
+      "summary": "At least one American citizen was shot dead and another injured by Cuban officials intercepting a speedboat off its coast on Wednesday, a US official has said.",
+      "summary_zh": "一名美国官员说,古巴官员星期三拦截了一艘快艇,至少一名美国公民被枪杀,另一名受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
+      "title_zh": "吉斯莱恩·麦克斯韦尔如何把比尔·克林顿带入爱泼斯坦的轨道",
+      "link": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T22:14:56+00:00",
+      "summary": "There is a photo that shows Bill Clinton taking a night-time swim alongside Ghislaine Maxwell, the British socialite now convicted of sex trafficking.",
+      "summary_zh": "有张照片显示比尔·克林顿与英国社交界人士Ghislaine Maxwell一起在夜间游泳,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米通商代表部代表 “関税率必要に応じて15％に引き上げ”",
+      "title_zh": "美国贸易部代表“如有必要,信任率提高到15%”",
+      "link": "http://www3.nhk.or.jp/news/html/20260227/k10015061821000.html",
+      "published_at": "2026-02-26T22:13:59+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "千葉 香取 住宅全焼の火事 焼け跡から1人の遺体",
+      "title_zh": "千叶火烧了所有房屋 烧掉一个",
+      "link": "http://www3.nhk.or.jp/news/html/20260227/k10015061831000.html",
+      "published_at": "2026-02-26T22:08:49+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pakistan says two soldiers killed after attacks by Afghan Taliban",
+      "title_zh": "巴基斯坦说,阿富汗塔利班袭击后有两名士兵被击毙",
+      "link": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T21:56:49+00:00",
+      "summary": "Pakistan says two of its soldiers have been killed after the Afghan Taliban launched an operation against military positions along their shared border late on Thursday.",
+      "summary_zh": "巴基斯坦说,阿富汗塔利班在星期四下旬对共同边界沿线的军事阵地发动了行动后,其两名士兵被击毙。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US-Iran talks end after 'significant progress', mediator says",
+      "title_zh": "美国-伊朗会谈在“重大进展”后结束,",
+      "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T21:43:44+00:00",
+      "summary": "US and Iranian officials have made \"significant progress\" in high-stakes nuclear talks in Geneva, the Omani foreign minister has said, but the chances of a deal that could avert a war remain unclear.",
+      "summary_zh": "阿曼外交部长说,美国和伊朗官员在日内瓦高调的核会谈中取得了\"重大的进展\",但能否达成一项能够避免战争的协议,仍然不清楚。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "エプスタイン氏問題めぐりクリントン元大統領夫妻の証言始まる",
+      "title_zh": "Epstein先生对克林顿先生前总统和妻子的证词",
+      "link": "http://www3.nhk.or.jp/news/html/20260227/k10015061701000.html",
+      "published_at": "2026-02-26T20:59:39+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "新年度予算案の実質的な審議きょうから 消費税の減税など議論",
+      "title_zh": "从实际审议新年度预算计划开始就减税等问题进行辩论",
+      "link": "http://www3.nhk.or.jp/news/html/20260227/k10015061651000.html",
+      "published_at": "2026-02-26T20:07:35+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "国民会議初会合 消費税減税の開始時期や財源など検討本格化へ",
+      "title_zh": "全国人大第一次会议全面审议削减消费税和资金的起步.",
+      "link": "http://www3.nhk.or.jp/news/html/20260227/k10015061641000.html",
+      "published_at": "2026-02-26T20:06:37+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "マウスのES細胞から「ミニ精巣」作製 世界初成功 大阪大学など",
+      "title_zh": "\"米尼睾丸\"出自鼠标ES细胞,大阪大学等世界首个成功.",
+      "link": "http://www3.nhk.or.jp/news/html/20260227/k10015061601000.html",
+      "published_at": "2026-02-26T19:59:47+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イラン核開発めぐり 米イラン高官が協議 来週実務レベル協議へ",
+      "title_zh": "伊朗高级委员会到下周的伊朗核发展协调",
+      "link": "http://www3.nhk.or.jp/news/html/20260226/k10015061401000.html",
+      "published_at": "2026-02-26T19:54:50+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man, 82, crushed to death in car at Munich scrapyard",
+      "title_zh": "82岁,在慕尼黑废品场被撞死",
+      "link": "https://www.bbc.com/news/articles/c4gj2ng03k8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T19:10:01+00:00",
+      "summary": "An 82-year-old German man who was in a car at a scrapyard in Munich has been crushed to death by a crane.",
+      "summary_zh": "一名82岁的德国男子在慕尼黑的废品场被一起起重机压死."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenyan charged with luring young men to fight for Russia in Ukraine",
+      "title_zh": "肯尼亚负责引诱年轻人在乌克兰为俄罗斯出战",
+      "link": "https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T18:04:34+00:00",
+      "summary": "Police in Kenya have charged a man accused of luring young men to Russia with job opportunities, only for them to end up fighting in Ukraine.",
+      "summary_zh": "肯尼亚警方指控一名被指控引诱青年男子到俄罗斯工作,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US justice department accused of withholding Trump-related Epstein files",
+      "title_zh": "美国司法部被控扣押与特朗普有关的爱泼斯坦案卷",
+      "link": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T17:30:50+00:00",
+      "summary": "The top Democrat on the congressional committee investigating Jeffrey Epstein has accused the US justice department of withholding files containing allegations of sexual abuse of a minor made against President Donald Trump.",
+      "summary_zh": "调查杰弗里·爱泼斯坦(Jeffrey Epstein)的国会委员会的上层民主党人指责美国司法部扣押了包含对唐纳德·特朗普总统的未成年人性虐待指控的文件."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Moment cooling tower is demolished at German power plant",
+      "title_zh": "德国发电厂拆除了冷却塔",
+      "link": "https://www.bbc.com/news/videos/cg4g271vdxko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T17:00:19+00:00",
+      "summary": "A cooling tower of a decommissioned power plant has been demolished in the German town of Grevenbroich, with video capturing the moment the huge structure collapsed.",
+      "summary_zh": "一座已退役的发电厂的冷却塔被拆除 在德国城镇格雷文布罗克, 视频记录了巨大的结构倒塌的时刻。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 10 FBI agents who worked on Trump investigation fired",
+      "title_zh": "至少10名参与特朗普调查的联邦调查局探员被解雇了",
+      "link": "https://www.bbc.com/news/articles/c4gq7vdld80o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T16:50:44+00:00",
+      "summary": "The FBI has fired roughly 10 members, all of whom participated in a probe into Donald Trump's handling of classified documents after his first term.",
+      "summary_zh": "联邦调查局已经解雇了大约10名成员,他们都参与了对唐纳德·特朗普第一个任期后处理机密文件的探查."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "AfD hails court injunction on 'extremist' label as victory",
+      "title_zh": "AfD称赞法院对“极端”标签的禁令是胜利",
+      "link": "https://www.bbc.com/news/articles/clyg10ek7r7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T16:49:07+00:00",
+      "summary": "A German court has issued a temporary injunction stopping the country's domestic intelligence service from referring to the Alternative für Deutschland (AfD) party as a \"right-wing extremist\" group.",
+      "summary_zh": "一家德国法院发布临时禁令,禁止该国国内情报部门将另类Für Deutschland(AfD)党称为\"右翼极端主义\"集团."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia and Ukraine exchange more than 1,000 soldiers' bodies",
+      "title_zh": "俄罗斯和乌克兰交换了1000多具士兵尸体",
+      "link": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T14:28:35+00:00",
+      "summary": "Russia says it has handed over the remains of 1,000 soldiers to Ukraine and has received the bodies of 35 Russian soldiers in return.",
+      "summary_zh": "俄罗斯称已把1000名士兵的遗体交给了乌克兰,并接收了35名俄罗斯士兵的尸体作为回报."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "World Economic Forum boss quits after review of Epstein links",
+      "title_zh": "世界经济论坛老板审查爱泼斯坦链接后退出",
+      "link": "https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T14:25:28+00:00",
+      "summary": "The president and CEO of the World Economic Forum (WEF), Borge Brende, has resigned after a review into his links to the late sex offender Jeffrey Epstein.",
+      "summary_zh": "世界经济论坛(WEF)会长兼首席执行官博尔格·布伦德(Borge Brende)在回顾他与后期性罪犯杰弗里·爱泼斯坦(Jeffrey Epstein)的联系后辞职."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Girl, 14, shot dead as South Africa's 'taxi wars' hit school",
+      "title_zh": "女孩,14岁,在南非的\"税战争\"中被枪杀",
+      "link": "https://www.bbc.com/news/articles/c62gz17999eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T14:11:01+00:00",
+      "summary": "Police in South Africa are investigating a fatal shooting at a secondary school in the coastal city of Cape Town that killed a 14-year-old pupil and a taxi operator.",
+      "summary_zh": "南非警方正在调查发生在开普敦沿海城市一所中学的一起致命枪击案,该起枪击案杀害了一名14岁学生和一名出租车操作员。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Danish PM calls snap election with Greenland issue centre-stage",
+      "title_zh": "丹麦首相呼吁与格陵兰问题中心台进行快速选举。",
+      "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T13:56:39+00:00",
+      "summary": "Danish Prime Minister Mette Frederiksen has announced early elections - hailing the next four years as \"decisive\" for her country.",
+      "summary_zh": "丹麦总理梅特·弗雷德里克森已宣布提前选举——称赞接下来的四年对她的国家来说是\"决定性的\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Singer D4vd confirmed as 'target' of investigation into murder of teen",
+      "title_zh": "Singer D4vd确认为青少年被谋杀调查的\"目标\"",
+      "link": "https://www.bbc.com/news/articles/cwy9d57q09zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T13:06:54+00:00",
+      "summary": "Newly unsealed court filings have revealed that US singer D4vd - real name David Anthony Burke - is the target of a grand jury investigation into the apparent murder of a 14-year-old girl, whose remains were found in his car in September.",
+      "summary_zh": "新开封的法庭档案显示,美国歌手D4vd(实名:David Anthony Burke)是大陪审团调查目标,调查一名14岁女孩显然被谋杀的事件,其遗体于9月在他的车上被发现."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Is Ethiopia heading back to war in Tigray?",
+      "title_zh": "埃塞俄比亚要回提格雷去打仗了吗?",
+      "link": "https://www.bbc.com/news/articles/cwygrnjz9wro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T12:39:00+00:00",
+      "summary": "Fears of a return to war in northern Ethiopia are driving many people to leave the region of Tigray just over three years after the civil war there ended.",
+      "summary_zh": "埃塞俄比亚北部战事再起的恐惧正在驱使许多人离开提格雷地区,这是该国内战刚结束三年多之后。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "First writing may be 40,000 years earlier than thought",
+      "title_zh": "第一次写作可能比想象的早四万年",
+      "link": "https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T12:02:06+00:00",
+      "summary": "The history of writing down thoughts and feelings could be tens of thousands of years older than previously believed, surprising archaeologists who made the discovery.",
+      "summary_zh": "写下思想和感情的历史可能比以前相信的要长上万年,令人惊讶的考古学家们做出了这个发现."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Orban steps up oil accusations against Ukraine after vetoing EU loan to Kyiv",
+      "title_zh": "欧班否决欧盟对基辅的贷款后,",
+      "link": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T11:52:08+00:00",
+      "summary": "Hungarian Prime Minister Viktor Orban says he has stationed soldiers at key energy facilities across the country after he blamed Ukraine for disrupting energy supplies.",
+      "summary_zh": "匈牙利总理维克多·奥尔班(Viktor Orban)在指责乌克兰破坏能源供应后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'People are getting poorer': How Iran's struggling economy is changing how families live",
+      "title_zh": "\"人们越来越穷\": 伊朗的艰难经济正在改变家庭的生活",
+      "link": "https://www.bbc.com/news/articles/cn5geplde0wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T11:44:21+00:00",
+      "summary": "\"We used to eat out twice a month,\" says Marjan, who lives in Iran's second largest city, Isfahan. \"Now we just can't. We have to save that money to pay the rent.\"",
+      "summary_zh": "\"我们以前每个月吃出两次\",Marjan说,他住在伊朗第二大城市伊斯法罕. \"现在我们只是不能。 我们必须省下这笔钱来支付房租。”"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria to hold inquest into death of Chimamanda Ngozi Adichie's toddler",
+      "title_zh": "尼日利亚调查Chimamanda Ngozi Adichie幼童的死亡",
+      "link": "https://www.bbc.com/news/articles/cwygr2nzdp9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T11:10:08+00:00",
+      "summary": "An inquest into the death of Nigerian novelist Chimamanda Ngozi Adichie's 21-month-old son will formally begin on 14 April.",
+      "summary_zh": "尼日利亚小说家奇马曼达·恩戈齐·阿迪奇(Chimamanda Ngozi Adichie)21个月长之子的死亡调查将于4月14日正式开始."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I can't breathe any more': Inside the night a mob burned a newspaper",
+      "title_zh": "\"我无法再呼吸\": 夜里有人烧了报纸",
+      "link": "https://www.bbc.com/news/articles/c74xge7z8gqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T09:16:23+00:00",
+      "summary": "\"I can't breathe any more. There's too much smoke. I'm inside. You are killing me.\"",
+      "summary_zh": "\"我无法再呼吸了. 有太多烟了 我进去了 你杀了我。\""
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
+      "title_zh": "以色列士兵向一名巴勒斯坦男孩开枪并站在一旁流血致死,录像节目",
+      "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T06:01:11+00:00",
+      "summary": "This story contains details and video that some readers may find distressing.",
+      "summary_zh": "这个故事包含一些读者可能发现令人痛苦的细节和视频."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "North Korea could 'get along' with US, says Kim Jong Un",
+      "title_zh": "金正恩说,朝鲜可以与美国\"相处\"",
+      "link": "https://www.bbc.com/news/articles/c0q3747jvnwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T05:25:54+00:00",
+      "summary": "Kim Jong Un has declared his intent to expand North Korea's nuclear arsenal and operational range - calling on the United States to respect his country's nuclear power, in a rare message to Washington.",
+      "summary_zh": "金正 乌恩宣布打算扩大朝鲜的核武库和作战范围——呼吁美国尊重他的国家的核能,这是给华盛顿的罕见信息."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
+      "title_zh": "香港大亨Jimmy Lai因诈骗罪上诉胜诉",
+      "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T03:41:47+00:00",
+      "summary": "Jimmy Lai, Hong Kong's pro-democracy media tycoon, has won an appeal against a fraud conviction in 2022, which had seen him sentenced to nearly six years in jail.",
+      "summary_zh": "香港支持民主的媒体大亨Jimmy Lai在2022年的诈骗罪判决上胜诉,当年他被判了近六年的监禁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
+      "title_zh": "美国\"西装案凶手\"在入狱11年后被从巴厘被驱逐出境",
+      "link": "https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T02:01:06+00:00",
+      "summary": "Indonesia has deported a US man who spent 11 years in jail for the high-profile \"suitcase murder\" of his girlfriend's mother on the resort island of Bali.",
+      "summary_zh": "印尼驱逐了一名美国男子,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
+      "title_zh": "校服枪击:BBC披露警方命令导致尼泊尔Gen Z抗议杀人事件",
+      "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T00:02:48+00:00",
+      "summary": "An order allowing the use of lethal fire against thousands of young, unarmed protesters in Nepal was issued by the country's former police chief, a BBC investigation reveals.",
+      "summary_zh": "尼泊尔前警察局长发布命令, 允许对数千名手无寸铁的年轻抗议者使用致命射击,"
     },
     {
       "source": "BBC News",
@@ -24,114 +344,14 @@
       "summary_zh": "警告: 这段影片包含被刺伤和被枪击的画面,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米 エヌビディア 3か月間の決算 最終利益 前年同期比94％増",
-      "title_zh": "美国埃努维迪亚3个月收入",
-      "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060761000.html",
-      "published_at": "2026-02-25T22:20:39+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ゼレンスキー大統領 “来月初旬に米・ロと3か国で高官協議”",
-      "title_zh": "泽伦斯基总统“下月初与美国洛举行会议”",
-      "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060831000.html",
-      "published_at": "2026-02-25T21:49:57+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米通商代表部代表 “輸入品の関税率 従来の水準に今後戻す”",
-      "title_zh": "美国贸易部代表,“进口货物的税率回到常规标准”",
-      "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060821000.html",
-      "published_at": "2026-02-25T21:25:59+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "マイクロソフト 競合クラウド指定し その後ソフト利用制限か",
-      "title_zh": "微软竞相云指定后软使用限制 ?",
-      "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060721000.html",
-      "published_at": "2026-02-25T21:21:22+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "強盗殺人事件 再審決定で専門家 “制度見直し議論に影響か”",
-      "title_zh": "在重新评估决定中担任谋杀案件专家,“能否审查这一制度?”",
-      "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060731000.html",
-      "published_at": "2026-02-25T20:47:22+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「国民会議」きょう初会合 “食料品消費税2年間ゼロ”など議論",
-      "title_zh": "\"全国代表大会\". \"粮食消费税二年零\"第一次会议",
-      "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060711000.html",
-      "published_at": "2026-02-25T20:31:52+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Politician brothers convicted in Brazil for ordering murder of prominent councillor",
-      "title_zh": "政治家兄弟在巴西因下令谋杀著名议员而被定罪",
-      "link": "https://www.bbc.com/news/articles/c4g058v3d35o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T19:35:08+00:00",
-      "summary": "Brazil's Supreme Court has voted to convict two politicians of ordering the murder of the prominent Rio de Janeiro councillor and activist, Marielle Franco.",
-      "summary_zh": "巴西最高法院投票判决两名政治人物下令谋杀著名里约热内卢市议员兼活动家玛丽埃勒·佛朗哥."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories",
-      "title_zh": "西班牙将1981年未遂政变的档案解密,以消除阴谋论",
-      "link": "https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T19:30:25+00:00",
-      "summary": "Spain's government has released dozens of documents related to an attempted coup that took place 45 years ago - regarded as a key moment in the country's history.",
-      "summary_zh": "西班牙政府公布数十份与45年前发生的未遂政变有关的文件,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Six months after two police officers killed, will conspiracy theorist who ran into bush ever be found?",
-      "title_zh": "在两名警察被害后六个月 会发现 遇上灌木丛的阴谋论者吗?",
+      "title": "Trail goes cold for conspiracy theorist gunman six months on",
+      "title_zh": "6个月后 阴谋论者枪手的轨迹变冷",
       "link": "https://www.bbc.com/news/articles/cm280j2jgvyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-25T19:05:43+00:00",
       "summary": "Moments after allegedly shooting dead two police officers on his property last August, Dezi Freeman took off into the bush and vanished.",
       "summary_zh": "据称,去年8月在两名警察被枪杀后,Dezi Freeman走入了丛林并消失了。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pope Leo to visit four African countries in April",
-      "title_zh": "教皇利奥4月访问四个非洲国家",
-      "link": "https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T18:47:05+00:00",
-      "summary": "Pope Leo XIV will begin a 10-day visit to four African countries on 13 April, marking his first pastoral trip to the continent, the Vatican has announced.",
-      "summary_zh": "教皇利奥十四世将于4月13日开始对四个非洲国家进行为期10天的访问,这是梵蒂冈宣布的第一次对非洲大陆的牧地之行。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "German chancellor warns of trade imbalance with China during first Beijing trip",
-      "title_zh": "德国总理警告说,第一次北京之行与中国的贸易不平衡",
-      "link": "https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T17:50:37+00:00",
-      "summary": "During his first official visit to Beijing, Germany's Chancellor Friedrich Merz said that a yawning trade imbalance between his country and China is \"not healthy\".",
-      "summary_zh": "德国总理弗里德里希·默兹首次正式出访北京时表示,他的国家与中国之间的贸易不平衡\"不健康\"."
     },
     {
       "source": "BBC News",
@@ -146,32 +366,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Swiss bar fire victims to get solidarity payout",
-      "title_zh": "瑞士酒吧火灾受害者获得团结赔偿",
-      "link": "https://www.bbc.com/news/articles/c1e9d6pd9ejo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T16:51:53+00:00",
-      "summary": "The Swiss government has announced an emergency payout of 50,000 francs ($65,000; £48,000) for the victims of the deadly fire at the ski bar resort of Crans-Montana on New Year's Eve.",
-      "summary_zh": "瑞士政府宣布紧急支付50,000法郎(65,000美元;48,000英镑),以支付除夕克兰斯-蒙塔纳滑雪酒吧度假村的致命火灾受害者."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: Moment a sinkhole in Omaha traps cars and drivers",
       "title_zh": "注意:奥马哈的一个水槽 困住汽车和司机",
       "link": "https://www.bbc.com/news/videos/c2k8nvy77jqo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-25T15:50:09+00:00",
       "summary": "A sinkhole opened up at a busy Omaha intersection on 24 February, swallowing two vehicles, CCTV footage shared by the Omaha police department showed.",
       "summary_zh": "2月24日,在Omaha繁忙的十字路口打开了一个水槽,吞下两辆汽车,奥马哈警察局共用的闭路电视录像显示。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zimbabwe rejects 'lopsided' US health aid deal over data concerns",
-      "title_zh": "津巴布韦拒绝“偏颇”的美国医疗援助协议,",
-      "link": "https://www.bbc.com/news/articles/cwy6nd3664no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T15:25:29+00:00",
-      "summary": "Zimbabwe has rejected a US health deal that would have provided $367m (£272m) in funding over five years because of Washington's demand for sensitive data.",
-      "summary_zh": "津巴布韦拒绝了美国的一项医疗协议,该协议将在五年内提供3.67亿美元(2.72亿英镑)的资金,因为华盛顿需要敏感数据."
     },
     {
       "source": "BBC News",
@@ -186,76 +386,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Two charged with murder of Australian grandfather after 'mistaken identity' kidnapping",
-      "title_zh": "两人被控在绑架澳大利亚外公后谋杀澳大利亚外公",
-      "link": "https://www.bbc.com/news/articles/cm21zdxzr0ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T14:12:13+00:00",
-      "summary": "Two men in their 20s have been charged with the kidnap and murder of a Sydney grandfather.",
-      "summary_zh": "20多岁的两个人被指控绑架并谋杀了一位悉尼外公."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
-      "title_zh": "Bill Gates对Epstein在员工会议上的关系“承担责任”,基金会说",
-      "link": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T13:18:17+00:00",
-      "summary": "Bill Gates \"took responsibility for his actions\" and addressed his links to convicted sex offender Jeffrey Epstein during a meeting with staff from his charitable foundation, the organisation said.",
-      "summary_zh": "比尔·盖茨(Bill Gates)\"为自己的行为承担责任\",并在与他的慈善基金会的工作人员会面时,谈到他与被定罪的性罪犯杰弗里·爱泼斯坦的联系."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大津市の幼稚園教諭 “賃下げ” に？理由を市に聞いた",
-      "title_zh": "大津市幼儿园教师\"减肥\"?.",
-      "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060511000.html",
-      "published_at": "2026-02-25T10:47:37+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fact-checking Trump's longest ever State of the Union",
-      "title_zh": "查证特朗普有史以来最长的邦联",
-      "link": "https://www.bbc.com/news/articles/cgmlzg0p8k2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T10:40:47+00:00",
-      "summary": "President Donald Trump delivered his longest speech to Congress - lasting one hour 47 minutes - and told US lawmakers that the \"country is winning again\" as he touted his administration's achievements.",
-      "summary_zh": "总统唐纳德·特朗普(Donald Trump)向国会发表他最长的演说, 持续了一小时47分钟, 并告诉美国立法者,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Chinese dance group's tour triggers bomb threat against Australian PM",
-      "title_zh": "中国舞蹈团的巡演引发了针对澳大利亚首相的炸弹威胁",
-      "link": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T08:13:42+00:00",
-      "summary": "A bomb scare at the Australian prime minister's home originated from written threats directed at a Chinese dance and music group banned by Beijing.",
-      "summary_zh": "澳洲总理家中被炸弹惊吓出炉 由书面威胁指向被北京禁止的中国舞蹈音乐团体."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Don't break up NewJeans and I'll forgo $18m payout, says ex-K-pop boss",
-      "title_zh": "别和NewJeans分手,我放弃了1800美元,前老板说",
-      "link": "https://www.bbc.com/news/articles/c98qd17e274o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T07:54:46+00:00",
-      "summary": "The ex-boss of NewJeans' record label has offered to forgo a 25.6bn won ($17.9m; £13.2m) payout if entertainment giant Hybe drops all lawsuits against the K-pop group.",
-      "summary_zh": "NewJeans唱片公司前老板提议放弃25.6bn的奖金(17.9万美元;13.2万英镑) 如果娱乐巨头 Hybe放弃所有针对K-pop集团的诉讼."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Japan to deploy missiles on island near Taiwan by 2031",
-      "title_zh": "日本到2031年在台湾附近岛上部署导弹",
-      "link": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T06:00:50+00:00",
-      "summary": "Japan plans to deploy surface-to-air missiles to its remote western island near Taiwan by March 2031, its defence minister said, as regional tensions simmer.",
-      "summary_zh": "国防部长说,日本计划在2031年3月之前,随着区域紧张局势的加剧,将地对空导弹部署到台湾附近偏远的西岛。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "BBC sees damage in Puerto Vallarta after Mexican cartel violence",
       "title_zh": "BBC在巴利亚塔港看到墨西哥贩毒集团暴力后的损失",
       "link": "https://www.bbc.com/news/videos/cly07z35dn4o?at_medium=RSS&at_campaign=rss",
@@ -266,72 +396,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Senegal PM proposes tougher anti-LGBT law, doubling prison terms",
-      "title_zh": "塞内加尔总理提出更严厉的反LGBT法,将刑期翻一番",
-      "link": "https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T05:46:42+00:00",
-      "summary": "Senegal's Prime Minister Ousmane Sonko has introduced legislation that could double the maximum penalty for same-sex relations, making them punishable by up to 10 years in prison.",
-      "summary_zh": "塞内加尔总理奥斯曼·桑克(Ousmane Sonko)出台立法,可以将同性关系的最高刑罚增加一倍,使其可被处以长达10年的监禁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
-      "title_zh": "谢恩的难以捉摸的老板 难得公开露出中国的根",
-      "link": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T03:18:11+00:00",
-      "summary": "The founder of Chinese fast-fashion giant Shein made a rare public appearance on Tuesday, as he re-affirmed his ties to Beijing and investments in the country's clothing industry.",
-      "summary_zh": "中国快活巨头谢因的创始人周二在与北京重塑关系并投资国家服装业时,进行了罕见的公开出场."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
-      "title_zh": "无人机锤子 苏丹的黄金和石油区——关键的新前线",
-      "link": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T00:43:00+00:00",
-      "summary": "Intensified drone attacks on the new front line of Sudan's civil war have led to mass civilian casualties in recent weeks and are increasingly shaping the course of the conflict.",
-      "summary_zh": "近几周来,无人机对苏丹内战新一线的袭击加剧,导致大量平民伤亡,并正在日益左右冲突进程。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "'Anyone who runs is shot': Watch Russian soldiers describe killings of troops who refuse orders",
       "title_zh": "\"任何逃跑的人都中枪\":看着俄罗斯士兵描述对拒绝命令的士兵的杀戮.",
       "link": "https://www.bbc.com/news/videos/cx2rql99rwxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-24T07:32:54+00:00",
       "summary": "Russian soldiers have exposed the brutality of conditions on the Russian side of the front lines in Ukraine, with two men telling the BBC they saw soldiers being executed on the spot for refusing orders.",
       "summary_zh": "俄罗斯士兵揭露了乌克兰前线俄罗斯一方的恶劣条件,两人告诉英国广播公司,他们看到士兵因拒绝命令被当场处决."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC's Will Grant on the atmosphere in Mexico following unrest",
-      "title_zh": "BBC的威尔·格兰特(Will Grant)介绍墨西哥动乱后的气氛",
-      "link": "https://www.bbc.com/news/videos/cx289lkkp8po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-24T06:25:07+00:00",
-      "summary": "Since the death of a powerful drug lord, Mexico has deployed thousands of soldiers to reinforce security due to a wave of violence erupting across parts of the country.",
-      "summary_zh": "自一位强大的毒枭被害后,墨西哥部署了数千名士兵来加强安全,原因是全国各地爆发了一波暴力。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
-      "title_zh": "鲍文:乌克兰为何仍然不服从,不觉得接近被打败.",
-      "link": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-24T06:02:26+00:00",
-      "summary": "On a dark and cold night in Donetsk in eastern Ukraine, the netting protecting the road from attacks by explosive drones shimmered and rippled in the headlights of our armoured Toyota Land Cruiser, as we drove down strange and surreal tunnels to get in and out of the most intensive area of fighting in eastern Ukraine. The nets go on for miles, suspended from wooden poles around 20ft high along the sides and over the top of the road. Dystopian military vehicles straight out of Mad Max rumble past, encased in their own cages of steel and netting.",
-      "summary_zh": "在乌克兰东部顿涅茨克的一个黑暗而寒冷的夜晚,在我们驾驶奇异而超现实的地道进出乌克兰东部最密集的战斗地区时,我们装甲丰田越野车的灯光中闪烁并撕裂了保护道路不受爆炸性无人机袭击的网状网络。 渔网持续了数英里,从20英尺高的木柱上悬起,沿边和上行道. Dystopian军车 直接从疯狂的马克斯 朗布尔过去, 困在他们自己的笼子 钢和网。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Burned and destroyed': Locals and tourists describe Mexico unrest",
-      "title_zh": "\"被焚毁\": 当地人和游客描述墨西哥动乱",
-      "link": "https://www.bbc.com/news/articles/c4gqkg87293o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-24T03:19:30+00:00",
-      "summary": "Locals and tourists in Mexico have described the \"heartbreaking\" unrest after one of the most powerful and feared cartels in the country unleashed a wave of violence across several states.",
-      "summary_zh": "墨西哥当地民众和游客描述该国最强大和最害怕的卡特尔之一在多个州掀起一波暴力后,"
     }
   ]
 }
