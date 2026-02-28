@@ -1,47 +1,227 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-02-27T22:43:13+00:00",
-  "count": 37,
+  "generated_at": "2026-02-28T22:39:01+00:00",
+  "count": 40,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【速報中】米 イスラエルがイラン攻撃“200人以上死亡”報道も",
+      "title_zh": "伊朗攻击\"200多人死亡\"",
+      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015062901000.html",
+      "published_at": "2026-02-28T22:24:59+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米 イスラエルの攻撃受け国連安保理の緊急会合 開かれる",
+      "title_zh": "美国在以色列举行的联合国安全紧急会议",
+      "link": "http://www3.nhk.or.jp/news/html/20260301/k10015063241000.html",
+      "published_at": "2026-02-28T22:17:42+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-      "title_zh": "特朗普在最近关于核计划的会谈后,",
-      "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T22:21:35+00:00",
-      "summary": "President Trump has said he is not happy with Iran in the wake of the latest talks on its nuclear programme, but said he had not yet decided whether to attack the country.",
-      "summary_zh": "特朗普总统表示,在伊朗核方案的最新会谈后,他对伊朗不满意,但表示他尚未决定是否攻击该国."
+      "title": "What we know so far: Supreme Leader Khamenei killed, Trump says, as Iran launches retaliatory strikes",
+      "title_zh": "我们目前所知:最高领袖哈梅内伊被杀,特朗普说,伊朗发动报复性打击时,",
+      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T22:12:38+00:00",
+      "summary": "President Donald Trump has said Iran's Supreme Leader, Ayatollah Ali Khamenei, is dead, hours after the US and Iran launched a large-scale attack on the country.",
+      "summary_zh": "唐纳德·特朗普总统表示,伊朗最高领导人阿亚图拉·阿里·哈梅内伊已经死亡,是美国和伊朗对该国发动大规模袭击数小时后."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "伊 ミラノ 路面電車が脱線し建物に衝突 2人死亡 30人以上けが",
-      "title_zh": "I Milano Tram出轨了 撞倒了大楼 2人死了 30多人",
-      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015062741000.html",
-      "published_at": "2026-02-27T22:12:48+00:00",
+      "title": "「イラン最高指導者ハメネイ師死亡」トランプ大統領 SNSに投稿",
+      "title_zh": "\"伊朗最高领导人哈马尼死亡\"特朗普总统SNS",
+      "link": "http://www3.nhk.or.jp/news/html/20260301/k10015063321000.html",
+      "published_at": "2026-02-28T22:07:59+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "NYダウ 一時800ドル超の値下がり",
-      "title_zh": "纽约道·T·800 超级亮降",
-      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015062711000.html",
-      "published_at": "2026-02-27T22:01:37+00:00",
+      "title": "イスラエル軍 “イラン革命防衛隊トップなど7人殺害”と発表",
+      "title_zh": "以色列军队“伊朗革命防卫军7名头号人物被杀死”",
+      "link": "http://www3.nhk.or.jp/news/html/20260301/k10015063301000.html",
+      "published_at": "2026-02-28T21:05:18+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran retaliation raises questions about US air defences",
+      "title_zh": "伊朗的报复引起了关于美国防空系统的问题",
+      "link": "https://www.bbc.com/news/articles/cg5nm6v2p4no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T19:34:00+00:00",
+      "summary": "Iran has targeted the US Navy base in Bahrain, highlighting gaps in air defences, which will worry Washington and its allies in the region.",
+      "summary_zh": "伊朗以美国海军在巴林的基地为目标,凸显出防空的缺口,这将令华盛顿及其在该区域的盟友担忧."
+    },
+    {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "トランプ大統領 核開発などめぐる協議 イラン側の交渉姿勢非難",
-      "title_zh": "特朗普总统谈判伊朗的立场",
-      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015062661000.html",
-      "published_at": "2026-02-27T21:59:21+00:00",
+      "title": "「ホルムズ海峡は“事実上”閉鎖された」イランメディアが報道",
+      "title_zh": "伊朗媒体报导,",
+      "link": "http://www3.nhk.or.jp/news/html/20260301/k10015063261000.html",
+      "published_at": "2026-02-28T18:20:44+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
+      "title_zh": "伊朗在整个区域发动报复性袭击,",
+      "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T18:15:02+00:00",
+      "summary": "A luxury hotel in Dubai was hit as Iran launched strikes across the region in retaliation for a \"massive\" and ongoing attack against it by the US and Israel.",
+      "summary_zh": "杜拜的一家豪华酒店被击中,因为伊朗为报复美国和以色列的\"大规模\"和不断袭击而在该地区各地发起出击."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ドバイ国際空港などで全便発着を当面停止 日本にも影響",
+      "title_zh": "Disco 往返迪拜国际机场的所有航班",
+      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015063181000.html",
+      "published_at": "2026-02-28T17:03:14+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How the world has reacted to US and Israeli strikes on Iran",
+      "title_zh": "世界对美国和以色列袭击伊朗的反应",
+      "link": "https://www.bbc.com/news/articles/c5yj9kr31y7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T16:00:32+00:00",
+      "summary": "American and Israeli forces have carried out strikes on cities across Iran, in what US President Donald Trump has described as \"major combat operations\".",
+      "summary_zh": "美以双方部队对伊朗各地城市进行了袭击,美国总统唐纳德·特朗普称之为\"重大作战行动\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
+      "title_zh": "在伊朗国内,恐慌的冲击, 但对于一些人来说,这是一个解脱的时刻",
+      "link": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T15:36:27+00:00",
+      "summary": "It was around 09:40 local time (06:10 GMT) when Iranians in several cities reported hearing loud explosions .",
+      "summary_zh": "当地时间9:40左右(格林尼治平时06:10),"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【専門家解説】米とイスラエル イランへの軍事行動 今後は",
+      "title_zh": "[专业评论] 对伊朗的军事行为",
+      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015063171000.html",
+      "published_at": "2026-02-28T13:24:49+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
+      "title_zh": "玻利维亚境内携带钞票的军用飞机坠毁后,至少20人被炸死",
+      "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T13:00:39+00:00",
+      "summary": "At least 20 people have been killed and others injured after a Bolivian air force cargo plane crashed in the western city of El Alto, the country's authorities say.",
+      "summary_zh": "玻利维亚空军一架货机在西部城市埃尔阿尔托坠毁,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bowen: A dangerous moment, but US and Israel see opportunity not to be missed",
+      "title_zh": "Bowen:危险的时刻,但美国和以色列看到机会不可错过",
+      "link": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T12:17:17+00:00",
+      "summary": "The decision by the United States and Israel to plunge into a new war with Iran creates a highly dangerous moment with unpredictable consequences. Israel used the word \"pre-emptive\" to justify its attack.",
+      "summary_zh": "美国和以色列决定同伊朗发动新的战争,造成了一个非常危险的时刻,其后果无法预测。 以色列用\"先发制人\"来为其攻击辩护."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Trump announces 'major combat operations' in Iran",
+      "title_zh": "观察:特朗普宣布伊朗\"重大作战行动\".",
+      "link": "https://www.bbc.com/news/videos/c1d60wvz9zko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T09:57:05+00:00",
+      "summary": "Donald Trump has announced the US has started \"major combat operations\" in Iran, accusing the Iranian regime of waging an \"unending campaign of bloodshed and mass murder targeting the United States\".",
+      "summary_zh": "唐纳德·特朗普已宣布美国在伊朗开始\"重大作战行动\",指责伊朗政权发动了\"无休止的以美国为目标的流血和大规模屠杀运动\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Smoke rises over Tehran as Trump 'seeks regime change'",
+      "title_zh": "当特朗普「寻求政权更迭」时,",
+      "link": "https://www.bbc.com/news/videos/clyx9eprwreo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T07:54:35+00:00",
+      "summary": "US President Donald Trump has confirmed that the US has launched \"major combat operations\" in Iran.",
+      "summary_zh": "美国总统唐纳德·特朗普已证实,美国已在伊朗发动\"重大作战行动\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump orders government to stop using Anthropic in battle over AI use",
+      "title_zh": "特朗普命令政府停止使用Anthropic,",
+      "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T03:50:05+00:00",
+      "summary": "US President Donald Trump has said he would direct every federal agency to immediately stop using technology from AI developer Anthropic.",
+      "summary_zh": "美国总统唐纳德·特朗普表示将指示每个联邦机构立即停止使用AI开发商Anthropic的技术."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+      "title_zh": "比尔·克林顿询问热水浴相片 并证明自己对爱泼斯坦的罪行一无所知",
+      "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T03:43:56+00:00",
+      "summary": "Former President Bill Clinton told a congressional panel he \"saw nothing,\" and \"did nothing wrong\" in relation to the late sex offender Jeffrey Epstein.",
+      "summary_zh": "前总统比尔·克林顿告诉一个国会小组他\"什么也没有看到\",\"没有做错什么\"与已故的性罪犯杰弗里·爱泼斯坦有关."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Flight logs and hot tub photo among key moments from Bill Clinton's deposition",
+      "title_zh": "Bill Clinton证词的关键时刻 飞行记录和浴缸照片",
+      "link": "https://www.bbc.com/news/videos/ce94d4xk5mvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T02:32:50+00:00",
+      "summary": "Bill Clinton has testified to the House Oversight committee about his connection to Jeffrey Epstein on Friday, one day after his wife, Hillary Clinton was also deposed by the panel. In his testimony, the former US president denied having knowledge of Epstein's crimes.",
+      "summary_zh": "比尔·克林顿在周五向众议院监督委员会证明了他与杰弗里·爱泼斯坦的联系,就在他的妻子希拉里·克林顿也被小组废黜的一天后. 美国前总统在证词中否认知道爱泼斯坦的罪行."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
+      "title_zh": "在明尼苏达州,",
+      "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T02:17:20+00:00",
+      "summary": "The US Department of Justice announced Friday that 30 more people are being charged for their roles in an anti-ICE protest staged last month at a church in Minnesota.",
+      "summary_zh": "美国司法部星期五宣布,还有30人因在上月在明尼苏达州教堂举行的反ICE抗议中的角色被控告."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India",
+      "title_zh": "卡尼访问印度时,",
+      "link": "https://www.bbc.com/news/articles/c1l7q871gnro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-28T00:03:55+00:00",
+      "summary": "Prime Minister Mark Carney is in India for a pivotal trip aimed at repairing ties with the world's largest democracy, as both countries seek to reduce their trade reliance on the US.",
+      "summary_zh": "马克·卡尼总理正在印度进行一场关键之行,旨在修复与世界最大民主国家的联系,因为两国都试图减少对美国的贸易依赖。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "These filmmakers know exactly how to get you hooked on bizarre one-minute dramas",
+      "title_zh": "这些电影制作人完全知道如何让你上钩 在怪异的一分钟的戏剧",
+      "link": "https://www.bbc.com/news/articles/cvg5q6wq11no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T23:01:06+00:00",
+      "summary": "\"More anger, more anger, please!\" Director Kang Mi-so shouts across the set at an actor playing the role of the \"wicked\" aunt.",
+      "summary_zh": "\"更发怒,更发怒,请!\" 导演姜美素一出演\"受宠若惊\"姑姑角色就横扫剧场."
     },
     {
       "source": "BBC News",
@@ -54,14 +234,14 @@
       "summary_zh": "有张照片显示比尔·克林顿与英国社交界人士Ghislaine Maxwell一起在夜间游泳,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "松山 住宅で火事 70代の夫婦が死亡",
-      "title_zh": "松山在一所房子里起火 70多人死亡",
-      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015062761000.html",
-      "published_at": "2026-02-27T21:31:07+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What the Warner Bros deal could mean for streaming, cinemas and news",
+      "title_zh": "华纳兄弟交易对流媒体、电影和新闻可能意味着什么",
+      "link": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T21:46:14+00:00",
+      "summary": "The proposed takeover of Warner Bros by Paramount Skydance could significantly reshape Hollywood and the wider media landscape.",
+      "summary_zh": "由派拉蒙·斯克丹斯(Paramount Skydance)收购华纳兄弟公司的提议,可以大大地重塑好莱坞和更广泛的媒体景观."
     },
     {
       "source": "BBC News",
@@ -74,34 +254,24 @@
       "summary_zh": "OpenAI表示,该公司在Tumbler Ridge枪击嫌疑人的ChatGPT账户未报警后,将加强安全措施,尽管该账户在袭击前几个月被内部标出."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "エプスタイン氏問題 クリントン元大統領の証言始まる 非公開で",
-      "title_zh": "Epstein先生的问题 前总统克林顿的证词不公开",
-      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015062471000.html",
-      "published_at": "2026-02-27T21:17:35+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+      "title_zh": "由于以色列法院暂停禁止威胁,加沙和西岸的援助团体的生命线被抛出",
+      "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T20:31:27+00:00",
+      "summary": "Israel's High Court has temporarily halted a ban on international aid groups from working in the occupied Palestinian territories unless they meet strict new rules.",
+      "summary_zh": "以色列高等法院暂时停止禁止国际援助团体在被占巴勒斯坦领土上工作,除非它们符合严格的新规则。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "新年度予算案が実質的審議入り 国民と中道 国民会議参加も検討",
-      "title_zh": "新年概算在很大程度上被认为是全国和中一全国会议的参与",
-      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015062611000.html",
-      "published_at": "2026-02-27T21:02:41+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "北京で天皇誕生日の祝賀レセプション 中国政府幹部の参加なし",
-      "title_zh": "皇上在北京的招待会 不参加中国政府高管",
-      "link": "http://www3.nhk.or.jp/news/html/20260228/k10015062671000.html",
-      "published_at": "2026-02-27T20:34:10+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Joe Biden takes selfies with passengers as he takes commercial flight",
+      "title_zh": "乔·拜登搭乘商业航班时 和乘客一起自拍",
+      "link": "https://www.bbc.com/news/videos/c5ygl45g6x1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T20:28:48+00:00",
+      "summary": "Flyers caught former President Joe Biden flying commercial at Ronald Reagan National Airport in Washington DC on Friday morning. Biden was seen waiting to board his plane to Columbia, South Carolina, for an event evening with the state's Democratic Party.",
+      "summary_zh": "弗赖尔斯星期五上午在华盛顿特区的罗纳德·里根国家机场抓到前总统乔·拜登上商业航班. 拜登被目击到要登上飞往南卡罗来纳州哥伦比亚市的飞机,与该州的民主党一起参加一个活动晚会."
     },
     {
       "source": "BBC News",
@@ -136,16 +306,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'Obnoxious' AI chatbot talked about its mother, customers say",
-      "title_zh": "\"讨厌\"AI聊天员 谈到他的母亲,顾客说",
-      "link": "https://www.bbc.com/news/articles/cy7jeyeyd18o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T15:47:20+00:00",
-      "summary": "An Australian supermarket chain had to reconfigure its AI assistant, named Olive, after customers said it kept claiming to be human and even complained about its mother.",
-      "summary_zh": "一家澳洲超市连锁店不得不重新配置其AI助手,取名\"Olive\",因为顾客说它一直声称自己是人,甚至抱怨她的母亲."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why are Afghanistan and Pakistan fighting?",
       "title_zh": "为什么阿富汗和巴基斯坦会战斗?",
       "link": "https://www.bbc.com/news/articles/cdjmrxkwk3mo?at_medium=RSS&at_campaign=rss",
@@ -166,42 +326,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Spanish opposition calls for disgraced ex-monarch to return from exile",
-      "title_zh": "西班牙反对派要求被羞辱的前君主从流亡中返回",
-      "link": "https://www.bbc.com/news/articles/cy03yw2dyxko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T13:17:34+00:00",
-      "summary": "The leader of Spain's main opposition party has called for the disgraced former King Juan Carlos to return from self-imposed exile, due to the role he played in the transition to democracy nearly half a century ago.",
-      "summary_zh": "西班牙主要反对党领袖呼吁被羞辱的前国王胡安·卡洛斯从自我放逐中回归,因为他在近半个世纪前向民主过渡的过程中发挥了作用."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
-      "title_zh": "巴基斯坦-阿富汗紧张局势最近升级后我们所知道的",
-      "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T13:08:03+00:00",
-      "summary": "Pakistan has bombed areas in Afghanistan on Friday, after the Afghan Taliban earlier announced a major offensive against Pakistani military posts near the border.",
-      "summary_zh": "巴基斯坦星期五轰炸了阿富汗一些地区,此前阿富汗塔利班曾宣布对边境附近的巴基斯坦军事哨所发动了重大进攻."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
       "title_zh": "为什么特朗普意味着古巴革命面临最大的威胁?",
       "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-27T12:46:26+00:00",
       "summary": "A sizeable exhibit in the Museum of the Revolution in Havana is dedicated to conditions in Cuba before the revolution took power in 1959. Inside the ornate former presidential palace, photographs and oral testimony detail the grinding poverty and ingrained corruption of the dictatorship of Cuba's then-military strongman, Fulgencio Batista.",
       "summary_zh": "在哈瓦那革命博物馆举办了一个大型展览会,专门讨论1959年革命掌权前古巴的情况。 在前总统府内,照片和口头证词详细介绍了古巴当时的军事强人富尔根西奥·巴蒂斯塔独裁政权的赤贫和根深蒂固的腐败。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Former US diplomat sentenced to life for abusing two girls in Burkina Faso",
-      "title_zh": "前美国外交官因在布基纳法索虐待两名女孩而被判无期徒刑",
-      "link": "https://www.bbc.com/news/articles/c93wx97wl10o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T12:03:22+00:00",
-      "summary": "A United States citizen has been sentenced to life in prison after being convicted of sexually abusing two teenage girls while working at the US embassy in Burkina Faso.",
-      "summary_zh": "一名美国公民因在美国驻布基纳法索大使馆工作时对两名少女实施性虐待而被判终身监禁。"
     },
     {
       "source": "BBC News",
@@ -226,32 +356,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "India and Israel pledge to boost ties in defence and technology",
-      "title_zh": "印度和以色列承诺加强国防和技术联系",
-      "link": "https://www.bbc.com/news/articles/cly14vppym2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T07:53:39+00:00",
-      "summary": "Prime Minister Narendra Modi has said India and Israel would deepen cooperation in defence and artificial intelligence as he concluded a two-day visit to Israel.",
-      "summary_zh": "纳伦德拉·莫迪总理说,印度和以色列将在结束对以色列的两天访问时深化国防和人工智能方面的合作。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "The AI videos supercharging Russia's online disinformation campaigns",
       "title_zh": "AI的视频充斥着俄罗斯的网络造谣活动",
       "link": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-27T07:53:39+00:00",
       "summary": "As any habitual social media user, King's College London professor Alan Read did not pay much heed to the occasional deepfakes that would flash up on his feed. Sometimes he would report them, other times he would simply scroll past.",
       "summary_zh": "King's College London Professor Alan Read作为任何习惯的社交媒体使用者, 对偶尔会在其饲料上浮出水面的深层假象, 有时他会报告,有时他只会卷起过去。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
-      "title_zh": "希拉里·克林顿说 她不知道Epstein的罪行",
-      "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T07:19:18+00:00",
-      "summary": "Hillary Clinton told a congressional panel she \"had no idea\" about Jeffrey Epstein's crimes, as she called for lawmakers to question President Donald Trump under oath about his past association with the late sex offender.",
-      "summary_zh": "希拉里·克林顿告诉国会小组,她对杰弗里·爱泼斯坦的罪行\"一无所知\",因为她呼吁立法者宣誓质疑总统唐纳德·特朗普过去与后期性罪犯的关系."
     },
     {
       "source": "BBC News",
@@ -286,92 +396,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "BBC explains the Trump-related Epstein files the DOJ is accused of withholding",
-      "title_zh": "BBC解释与特朗普相关的Epstein档案 司法部被控隐瞒",
-      "link": "https://www.bbc.com/news/videos/ckgzyvzprj4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T00:40:37+00:00",
-      "summary": "After the latest release of the Epstein files, the US Department of Justice is being accused of withholding some files relating to US President Donald Trump.",
-      "summary_zh": "爱泼斯坦案卷最新出炉后,美国司法部被指扣押了部分与美国总统唐纳德·特朗普有关的档案."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-      "title_zh": "Jack Dorsey's Block 削减了成千上万的工作,因为它包含AI",
-      "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T00:06:40+00:00",
-      "summary": "Twitter co-founder Jack Dorsey says his technology firm Block is laying off almost half its workforce because artificial intelligence (AI) \"fundamentally changes what it means to build and run a company.\"",
-      "summary_zh": "推特共同创始人杰克·多尔西(Jack Dorsey)表示他的技术公司\"Block\"正在裁员,因为人工智能(AI)\"从根本上改变了建设和经营公司的意义\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "American citizen among those killed in Cuba boat shooting, US official says",
-      "title_zh": "在古巴船只枪击事件中遇难的美国公民,",
-      "link": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-26T23:59:54+00:00",
-      "summary": "At least one American citizen was shot dead and another injured by Cuban officials intercepting a speedboat off its coast on Wednesday, a US official has said.",
-      "summary_zh": "一名美国官员说,古巴官员星期三拦截了一艘快艇,至少一名美国公民被枪杀,另一名受伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch dramatic rescue of skier buried in deep snow",
       "title_zh": "看着被深雪所掩埋的滑雪者的戏剧性救援",
       "link": "https://www.bbc.com/news/videos/cde4gyl7rp0o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-02-26T22:09:34+00:00",
       "summary": "A GoPro camera captures the moment two skiers rescued another skier buried under feet of snow in Lake Tahoe, California.",
       "summary_zh": "一部GoPro相机捕捉了两名滑雪者在加利福尼亚州塔霍湖救出被雪所活埋的另一名滑雪者一瞬间."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenyan charged with luring young men to fight for Russia in Ukraine",
-      "title_zh": "肯尼亚负责引诱年轻人在乌克兰为俄罗斯出战",
-      "link": "https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-26T18:04:34+00:00",
-      "summary": "Police in Kenya have charged a man accused of luring young men to Russia with job opportunities, only for them to end up fighting in Ukraine.",
-      "summary_zh": "肯尼亚警方指控一名被指控引诱青年男子到俄罗斯工作,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment cooling tower is demolished at German power plant",
-      "title_zh": "德国发电厂拆除了冷却塔",
-      "link": "https://www.bbc.com/news/videos/cg4g271vdxko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-26T17:00:19+00:00",
-      "summary": "A cooling tower of a decommissioned power plant has been demolished in the German town of Grevenbroich, with video capturing the moment the huge structure collapsed.",
-      "summary_zh": "一座已退役的发电厂的冷却塔被拆除 在德国城镇格雷文布罗克, 视频记录了巨大的结构倒塌的时刻。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Danish PM calls snap election with Greenland issue centre-stage",
-      "title_zh": "丹麦首相呼吁与格陵兰问题中心台进行快速选举。",
-      "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-26T13:56:39+00:00",
-      "summary": "Danish Prime Minister Mette Frederiksen has announced early elections - hailing the next four years as \"decisive\" for her country.",
-      "summary_zh": "丹麦总理梅特·弗雷德里克森已宣布提前选举——称赞接下来的四年对她的国家来说是\"决定性的\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
-      "title_zh": "校服枪击:BBC披露警方命令导致尼泊尔Gen Z抗议杀人事件",
-      "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-26T00:02:48+00:00",
-      "summary": "An order allowing the use of lethal fire against thousands of young, unarmed protesters in Nepal was issued by the country's former police chief, a BBC investigation reveals.",
-      "summary_zh": "尼泊尔前警察局长发布命令, 允许对数千名手无寸铁的年轻抗议者使用致命射击,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
-      "title_zh": "观察:BBC在墨西哥城市街头被致命的卡特尔暴力所牵制",
-      "link": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-25T22:35:14+00:00",
-      "summary": "Warning: This video contains graphic imagery of the victims of stabbings and shootings, as well as images of those killed in street violence",
-      "summary_zh": "警告: 这段影片包含被刺伤和被枪击的画面,"
     }
   ]
 }
