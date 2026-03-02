@@ -1,103 +1,283 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-01T22:40:55+00:00",
-  "count": 37,
+  "generated_at": "2026-03-02T22:48:16+00:00",
+  "count": 41,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米・イスラエルとイラン 衝突拡大の懸念 各国の対応や反応は",
-      "title_zh": "美国-以色列-伊朗碰撞扩大关切",
-      "link": "http://www3.nhk.or.jp/news/html/20260302/k10015063871000.html",
-      "published_at": "2026-03-01T22:39:28+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 “軍事作戦は目標すべて達成されるまで続く”",
-      "title_zh": "特朗普总统“军事战略持续到底,",
-      "link": "http://www3.nhk.or.jp/news/html/20260302/k10015063861000.html",
-      "published_at": "2026-03-01T22:29:09+00:00",
+      "title": "トランプ大統領 “軍事作戦 4～5週間以上かかる可能性も”",
+      "title_zh": "特朗普总统“军事战略可能需要四到五个多星期”。",
+      "link": "http://www3.nhk.or.jp/news/html/20260303/k10015064731000.html",
+      "published_at": "2026-03-02T22:08:21+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Nine dead in missile attack on Israel as Iran strikes region",
-      "title_zh": "当伊朗袭击地区时,在导弹袭击以色列时有9人死亡",
-      "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-01T22:24:27+00:00",
-      "summary": "At least nine people have been killed and 27 injured in a missile strike on the Israeli city of Beit Shemesh, emergency services say.",
-      "summary_zh": "紧急服务机构说,在对以色列Beit Shemesh市的一次导弹袭击中,至少有9人死亡,27人受伤。"
+      "title": "'Everything has changed': Missile attacks shatter Dubai's safe haven image",
+      "title_zh": "\"一切都变了\": 导弹袭击摧毁了迪拜的安全港形象",
+      "link": "https://www.bbc.com/news/articles/c875rjd990go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T22:06:27+00:00",
+      "summary": "When Will Bailey stepped off a plane in Dubai in the early hours of Saturday morning, it was supposed to mark a new chapter in his life.",
+      "summary_zh": "当威尔·贝利于周六凌晨从迪拜的一架飞机上下飞机时,它本应标志着他一生中的新篇章."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米とイスラエル攻撃継続 トランプ大統領“4週間続く可能性”",
-      "title_zh": "美以美攻势联合 Ity Trump 四周的可能性",
-      "link": "http://www3.nhk.or.jp/news/html/20260302/k10015063841000.html",
-      "published_at": "2026-03-01T22:22:08+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Allies of US in the Gulf bear brunt of Iran attacks",
-      "title_zh": "海湾地区的美国盟军在伊朗的攻击中首当其冲",
-      "link": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-01T22:19:03+00:00",
-      "summary": "In the clear blue skies above Abu Dhabi, white contrails streak high above the sand-coloured villas and well-watered gardens.",
-      "summary_zh": "在阿布扎比上空晴朗的蓝天上 白色的反光圈 在沙地上方的别墅和水分良好的花园上方"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
-      "title_zh": "我们目前对美以攻击和伊朗报复的了解",
-      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-01T21:45:33+00:00",
-      "summary": "Iran's Supreme Leader Ayatollah Ali Khamenei has been killed after Israel and the US launched a \"massive\" and ongoing attack against Iran's leadership and military.",
-      "summary_zh": "伊朗最高领导人阿亚图拉·阿里·哈梅内伊被以色列和美国发动\"大规模\"并不断袭击伊朗领导人和军方后被击毙."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ホルムズ海峡 航行影響長引けば日本にも打撃 政府など動向注視",
-      "title_zh": "Holm对日本的影响",
-      "link": "http://www3.nhk.or.jp/news/html/20260302/k10015063691000.html",
-      "published_at": "2026-03-01T21:11:37+00:00",
+      "title": "関東甲信 山沿い中心 あすにかけ大雪か 交通影響に十分注意",
+      "title_zh": "关东高信山中心 ASUNIKake大雪或交通",
+      "link": "http://www3.nhk.or.jp/news/html/20260303/k10015064771000.html",
+      "published_at": "2026-03-02T21:48:29+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "政府 イランや周辺国に滞在の日本人の安全確保 万全期す方針",
-      "title_zh": "确保日本居民在伊朗和周边国家的安全的政府政策",
-      "link": "http://www3.nhk.or.jp/news/html/20260302/k10015063801000.html",
-      "published_at": "2026-03-01T21:08:59+00:00",
+      "title": "イラン革命防衛隊幹部 “ホルムズ海峡封鎖 船舶に火” と警告",
+      "title_zh": "伊朗革命保卫公司. “船舶连锁起火”和警告",
+      "link": "http://www3.nhk.or.jp/news/html/20260303/k10015064761000.html",
+      "published_at": "2026-03-02T21:44:38+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "カタールのエネルギー会社 LNG生産停止 天然ガス先物価格上昇",
+      "title_zh": "卡塔尔能源公司LNG生产停止天然气期货价格上涨",
+      "link": "http://www3.nhk.or.jp/news/html/20260303/k10015064741000.html",
+      "published_at": "2026-03-02T21:35:06+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
-      "title_zh": "联邦调查局说,致命的德克萨斯州酒吧枪击案是\"潜在的恐怖主义行为\"",
+      "title": "Oil and gas prices jump as conflict escalates",
+      "title_zh": "石油和天然气价格随冲突升级而飞跃",
+      "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T21:23:55+00:00",
+      "summary": "Oil and gas prices have surged as Iran continues to launch strikes across the Middle East in response to ongoing attacks by the US and Israel.",
+      "summary_zh": "石油和天然气价格暴涨,因为伊朗继续针对美国和以色列的持续袭击,在中东各地发动打击。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Texas authorities identify Austin bar shooting victims",
+      "title_zh": "德克萨斯州当局指认奥斯汀酒吧枪击受害者",
       "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-01T20:21:28+00:00",
-      "summary": "Two people were killed and over a dozen injured in a shooting outside a beer garden in Austin, Texas, in an incident the FBI says may be related to terrorism.",
-      "summary_zh": "在德克萨斯州奥斯汀一个啤酒园外的一起枪击事件中,联邦调查局称可能与恐怖主义有关,有两人被炸死,十多人受伤."
+      "published_at": "2026-03-02T21:21:52+00:00",
+      "summary": "Authorities have identified the two people fatally shot outside a bar in Austin, Texas when a gunman opened fire in the early hours of Sunday.",
+      "summary_zh": "当局已确认两人在德克萨斯州奥斯汀的一个酒吧外被致命枪击,当时一名枪手于星期天凌晨开火."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "War photographer Paul Conroy dies as tributes paid",
-      "title_zh": "战地摄影师保罗·康罗伊牺牲",
+      "title": "Watch: How the US-Israel war with Iran is jeopardising shipping",
+      "title_zh": "观察:美以战争如何危及航运",
+      "link": "https://www.bbc.com/news/videos/cvgjnv2y90wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T21:21:05+00:00",
+      "summary": "The Strait of Hormuz is a key artery for the movement of global energy supplies.",
+      "summary_zh": "霍尔木兹海峡是全球能源供应流动的关键动脉."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
+      "title_zh": "印度和加拿大重新与\"地标\"核能交易建立联系",
+      "link": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T20:18:12+00:00",
+      "summary": "India and Canada have announced a host of agreements, including a 10-year nuclear energy deal, after their prime ministers met in Delhi to reset ties that plummeted due to diplomatic tensions.",
+      "summary_zh": "印度和加拿大在两国总理在德里会晤,重新建立因外交紧张局势而急剧崩溃的联系之后,宣布了一系列协议,包括为期十年的核能协议。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "新年度予算案 与党 13日に締めくくり質疑提案 野党は反発",
+      "title_zh": "新年预算",
+      "link": "http://www3.nhk.or.jp/news/html/20260303/k10015064541000.html",
+      "published_at": "2026-03-02T20:09:07+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "仏 マクロン大統領 核弾頭の数増加を表明 核抑止力を強化へ",
+      "title_zh": "法国总统马克龙解释一些核头人加强核威慑",
+      "link": "http://www3.nhk.or.jp/news/html/20260303/k10015064721000.html",
+      "published_at": "2026-03-02T20:07:13+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "「皆既月食」 今夜 天気がよければ全国で観測",
+      "title_zh": "\"每个人都准备好吃\" 如果今晚天气好的话",
+      "link": "http://www3.nhk.or.jp/news/html/20260303/k10015064351000.html",
+      "published_at": "2026-03-02T20:04:15+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
+      "title_zh": "随着伊朗冲突的扩大,真主党发射火箭弹后,以色列袭击了黎巴嫩",
+      "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T18:53:27+00:00",
+      "summary": "Israel's military has said it has struck Hezbollah targets in Lebanon, after the Iranian-backed Shia group said it launched rockets and drones at the Israeli city of Haifa to avenge the killing of Iran's Supreme Leader Ayatollah Ali Khamenei.",
+      "summary_zh": "以色列军方说,它袭击了黎巴嫩的真主党目标,此前伊朗支持的什叶派组织说,它向以色列城市海法发射了火箭和无人机来为伊朗最高领袖阿亚图拉·阿里·哈梅内伊被害报仇."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+      "title_zh": "法国加强核武库,向欧洲盟国提供威慑",
+      "link": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T18:16:14+00:00",
+      "summary": "France is to boost its nuclear arsenal and extend the deterrent to cover other European countries, in a major development of its nuclear defence policy.",
+      "summary_zh": "法国将加强其核武库,并将威慑力扩大到其他欧洲国家,以大力发展其核防御政策。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lost Rembrandt painting rediscovered after 65 years",
+      "title_zh": "失落的伦勃朗画作在65年后被重新发现",
+      "link": "https://www.bbc.com/news/articles/c1kgln0yg3po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T16:54:40+00:00",
+      "summary": "A long lost painting by Rembrandt has been rediscovered and authenticated by experts, after its whereabouts were unknown for decades.",
+      "summary_zh": "Rembrandt的一幅长相失落的画被专家重新发现并认证,因为其行踪几十年来一直不明."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Saturday Night Live criticised for 'hurtful' Tourette's sketch",
+      "title_zh": "周六晚间直播以\"痛苦\"的素描被批评",
+      "link": "https://www.bbc.com/news/articles/c05v0ln6nq3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T16:43:24+00:00",
+      "summary": "Saturday Night Live (SNL) has been criticised for a sketch about Tourette syndrome, with a charity saying it was \"not acceptable\".",
+      "summary_zh": "周六晚间直播(SNL)曾被批评为关于图雷特综合症的草图,有慈善机构称其\"无法接受\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 169 people killed in South Sudan 'surprise' attack",
+      "title_zh": "至少169人在南苏丹\"突发\"袭击中丧生.",
+      "link": "https://www.bbc.com/news/articles/c0mgkvy4wr8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T16:11:52+00:00",
+      "summary": "The authorities in South Sudan have said at least 169 people, including senior officials, were killed on Sunday when a group of unidentified men launched an assault on an area in the north of the country.",
+      "summary_zh": "南苏丹当局说,在星期天,一群身份不明的男子对该国北部一地发动了袭击,至少169人被杀死,其中包括高级官员。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hegseth on Iran attacks: 'This is not Iraq, this is not endless'",
+      "title_zh": "Hegseth对伊朗的攻击说:“这不是伊拉克,也不是无尽的。”",
+      "link": "https://www.bbc.com/news/videos/cn71jg14dnyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T15:07:36+00:00",
+      "summary": "In a Pentagon press conference 2 March, US Secretary of Defense Pete Hegseth claimed war with Iran will not be 'endless' - a sign the administration is wary of criticism the operation in Iran could lead to another prolonged Middle East conflict.",
+      "summary_zh": "美国国防部长Pete Hegseth在3月2日的五角大楼记者招待会中宣称, 与伊朗的战争不会是“无休止的”,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'They hit so hard the house was shaking': Iranians describe impact of US-Israel attacks",
+      "title_zh": "\"他们打得这么重 房子在发抖\": 伊朗人描述美以攻击的影响",
+      "link": "https://www.bbc.com/news/articles/cx2jyv3jp01o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T13:54:20+00:00",
+      "summary": "People in Iran have been describing their experiences as Israel and the US continue to bomb targets across the country.",
+      "summary_zh": "伊朗民众一直描述他们的经历,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Video appears to show US F-15 fighter jet crashing in Kuwait",
+      "title_zh": "看:视频显示美国F-15战斗机在科威特坠毁",
+      "link": "https://www.bbc.com/news/videos/ce8wed33e07o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T09:43:33+00:00",
+      "summary": "Footage verified by the BBC appears to show the moment an F-15 fighter jet falls from the sky and crashes to the ground near Kuwait City.",
+      "summary_zh": "英国广播公司核实的脚印似乎显示,一架F-15战斗机从天而降并坠入科威特城附近的地上。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Deepfake attack: 'Many people could have been cheated'",
+      "title_zh": "深假攻击:\"很多人可能被欺骗\"",
+      "link": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T06:47:00+00:00",
+      "summary": "At the start of this year, a video popped up on social media sites in India showing the chief executive of the Bombay Stock Exchange, Sundararaman Ramamurthy, giving investors advice on which stocks to buy.",
+      "summary_zh": "今年初,印度社交媒体网站出现一则视频,显示孟买证券交易所首席执行官Sundararaman Ramamurthy,为投资者提供购买哪些股票的建议."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A rap star might just beat a former PM - what this says about Nepal's Gen Z election",
+      "title_zh": "说唱明星可能会打败一位前首相,",
+      "link": "https://www.bbc.com/news/articles/c8r137lkj5zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T06:34:28+00:00",
+      "summary": "Rap music blared out around us at a campaign rally in the district of Chitwan, in Nepal.",
+      "summary_zh": "在尼泊尔Chitwan县的一场竞选集会上,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards",
+      "title_zh": "迈克尔·B·乔丹在奥斯卡颁奖典礼上获得大奖",
+      "link": "https://www.bbc.com/news/articles/clyzklvk79yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T05:08:35+00:00",
+      "summary": "US actor Michael B Jordan has scored a surprise win at the Actor Awards, formerly known as the Screen Actors Guild Awards, giving him a surge of momentum in the final weeks before the Oscars.",
+      "summary_zh": "美国演员迈克尔·B·乔丹(Michael B Jordan)在\"演员奖\"(Actor Awards)上获得一个出人意料的胜利,原名\"银幕演员协会奖\"(The Screen Actors Guild Awards),使他在奥斯卡颁奖前的最后几周获得了一股出众的势头."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Stars hit the Actor Awards red carpet - in pictures",
+      "title_zh": "明星冲击演员奖红毯-在图片中",
+      "link": "https://www.bbc.com/news/articles/cj3286ym802o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T01:33:24+00:00",
+      "summary": "Timothée Chalamet, Emma Stone, Jenna Ortega and Michael B Jordan were among the stars walking the red carpet ahead of the Actor Awards on Sunday",
+      "summary_zh": "Timothée Chalamet, Emma Stone, Jenna Ortega 和 Michael B Jordan 是周日演员奖前走红地毯的明星之一。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+      "title_zh": "在非洲无法律的萨赫勒地区绑架外国人",
+      "link": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-02T00:02:10+00:00",
+      "summary": "When Marin Petrović arrived in Bamako in early September last year, he was elated. The Bosnian national had spent years applying for tourist visas to Mali, only to be repeatedly denied on security grounds.",
+      "summary_zh": "当马林·彼得罗维奇于去年9月初抵达巴马科时,他很受欢迎。 波斯尼亚国民多年来一直申请前往马里的旅游签证,但因安全原因一再被拒绝。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Retaliations continue on day two of US-Israel attacks on Iran",
+      "title_zh": "观察:美国-以色列攻击伊朗的第二天,",
+      "link": "https://www.bbc.com/news/videos/cvgk8vj56v1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-01T23:18:27+00:00",
+      "summary": "US President Donald Trump warned \"there will likely be more\" US casualties during operations in Iran in a statement posted on Truth Social. This comes as US Central Command (Centcom) said three US service members have been killed in action and five \"seriously wounded\".",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)在\"真理社会\"(Treal Social)上发表一则声明,警告\"在伊朗行动期间,美国伤亡人数可能更多\". 美国中央司令部(Centcom)表示有三名美军军人阵亡,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Could Kim's teen daughter become North Korea's next leader?",
+      "title_zh": "金的十几岁女儿能否成为朝鲜的下一位领袖?.",
+      "link": "https://www.bbc.com/news/articles/cgjzdlx983po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-01T23:11:11+00:00",
+      "summary": "As North Korean leader Kim Jong Un threatened Seoul and vowed to continue expanding his sanctioned nuclear weapons programme at the party congress, the big question was whether his 13-year-old daughter would be anointed as his heir.",
+      "summary_zh": "作为朝鲜领导人 金正 不受威胁的首尔,并发誓在党大会上继续扩大被批准的核武器计划,大的问题是他13岁的女儿是否会被膏为他的继承人."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Wonderful' war photographer Paul Conroy dies",
+      "title_zh": "战争摄影师保罗·康罗伊去世",
       "link": "https://www.bbc.com/news/articles/c5y6jvlv83ro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-01T19:47:03+00:00",
       "summary": "Tributes have been paid to the war photographer Paul Conroy who has died at the age of 61.",
@@ -112,26 +292,6 @@
       "published_at": "2026-03-01T18:05:06+00:00",
       "summary": "The killing of Iran's Supreme Leader, Ali Khamenei, in the opening wave of joint US-Israeli strikes has pushed the Islamic Republic into its most precarious moment since 1979.",
       "summary_zh": "伊朗最高领导人阿里·哈梅内伊在美以联合出击的开局浪潮中被击毙,使伊斯兰共和国进入了自1979年以来最不稳定的时刻."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン「臨時評議会」設置 次の最高指導者選出まで国政を運営",
-      "title_zh": "伊朗的\"T理事会\"成立是为了运作国民政府,直到下届最佳领导人.",
-      "link": "http://www3.nhk.or.jp/news/html/20260302/k10015063851000.html",
-      "published_at": "2026-03-01T16:38:26+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least 153 dead after reported strike on school, Iran says",
-      "title_zh": "伊朗表示,",
-      "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-01T15:32:26+00:00",
-      "summary": "At least 153 people including children have died after a reported strike hit a school in southern Iran, according to Iranian officials.",
-      "summary_zh": "据伊朗官员说,在据报伊朗南部的一所学校发生罢工后,至少有153人丧生,其中包括儿童。"
     },
     {
       "source": "BBC News",
@@ -152,26 +312,6 @@
       "published_at": "2026-03-01T13:49:35+00:00",
       "summary": "The US and Israel launched attacks across Iran on Saturday, with US President Donald Trump later saying Iranian Supreme Leader Ayatollah Ali Khamenei is dead.",
       "summary_zh": "美以双方星期六向伊朗全境出击,美国总统唐纳德·特朗普后来表示伊朗最高领导人阿亚图拉·阿里·哈梅内伊已死."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "【専門家解説】ハメネイ師殺害 今後のイランは 世界への影響は",
-      "title_zh": "[专业评 哈姆奈杀死未来的伊朗 对世界有影响",
-      "link": "http://www3.nhk.or.jp/news/html/20260301/k10015063551000.html",
-      "published_at": "2026-03-01T10:07:03+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Celebrations around the world after strikes on Iran",
-      "title_zh": "世界各地在伊朗遭受打击后举行的庆祝活动",
-      "link": "https://www.bbc.com/news/videos/c2d1zj43zr6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-01T06:22:30+00:00",
-      "summary": "People in the UK, Spain and the United States celebrated on Saturday following news that Iran's Supreme Leader Ali Khamenei had been killed during attacks across Iran by Israel and the US, which began on Saturday morning local time.",
-      "summary_zh": "英国,西班牙和美国民众在周六当地时间周六早上开始,"
     },
     {
       "source": "BBC News",
@@ -236,76 +376,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-      "title_zh": "玻利维亚境内携带钞票的军用飞机坠毁后,至少20人被炸死",
-      "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-28T13:00:39+00:00",
-      "summary": "At least 20 people have been killed and others injured after a Bolivian air force cargo plane crashed in the western city of El Alto, the country's authorities say.",
-      "summary_zh": "玻利维亚空军一架货机在西部城市埃尔阿尔托坠毁,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Trump announces 'major combat operations' in Iran",
-      "title_zh": "观察:特朗普宣布伊朗\"重大作战行动\".",
-      "link": "https://www.bbc.com/news/videos/c1d60wvz9zko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-28T09:57:05+00:00",
-      "summary": "Donald Trump has announced the US has started \"major combat operations\" in Iran, accusing the Iranian regime of waging an \"unending campaign of bloodshed and mass murder targeting the United States\".",
-      "summary_zh": "唐纳德·特朗普已宣布美国在伊朗开始\"重大作战行动\",指责伊朗政权发动了\"无休止的以美国为目标的流血和大规模屠杀运动\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Smoke rises over Tehran as Trump 'seeks regime change'",
-      "title_zh": "当特朗普「寻求政权更迭」时,",
-      "link": "https://www.bbc.com/news/videos/clyx9eprwreo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-28T07:54:35+00:00",
-      "summary": "US President Donald Trump has confirmed that the US has launched \"major combat operations\" in Iran.",
-      "summary_zh": "美国总统唐纳德·特朗普已证实,美国已在伊朗发动\"重大作战行动\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "title_zh": "特朗普命令政府停止使用Anthropic,",
-      "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-28T03:50:05+00:00",
-      "summary": "US President Donald Trump has said he would direct every federal agency to immediately stop using technology from AI developer Anthropic.",
-      "summary_zh": "美国总统唐纳德·特朗普表示将指示每个联邦机构立即停止使用AI开发商Anthropic的技术."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-      "title_zh": "比尔·克林顿询问热水浴相片 并证明自己对爱泼斯坦的罪行一无所知",
-      "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-28T03:43:56+00:00",
-      "summary": "Former President Bill Clinton told a congressional panel he \"saw nothing,\" and \"did nothing wrong\" in relation to the late sex offender Jeffrey Epstein.",
-      "summary_zh": "前总统比尔·克林顿告诉一个国会小组他\"什么也没有看到\",\"没有做错什么\"与已故的性罪犯杰弗里·爱泼斯坦有关."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Flight logs and hot tub photo among key moments from Bill Clinton's deposition",
-      "title_zh": "Bill Clinton证词的关键时刻 飞行记录和浴缸照片",
-      "link": "https://www.bbc.com/news/videos/ce94d4xk5mvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-28T02:32:50+00:00",
-      "summary": "Bill Clinton has testified to the House Oversight committee about his connection to Jeffrey Epstein on Friday, one day after his wife, Hillary Clinton was also deposed by the panel. In his testimony, the former US president denied having knowledge of Epstein's crimes.",
-      "summary_zh": "比尔·克林顿在周五向众议院监督委员会证明了他与杰弗里·爱泼斯坦的联系,就在他的妻子希拉里·克林顿也被小组废黜的一天后. 美国前总统在证词中否认知道爱泼斯坦的罪行."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
-      "title_zh": "在明尼苏达州,",
-      "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-28T02:17:20+00:00",
-      "summary": "The US Department of Justice announced Friday that 30 more people are being charged for their roles in an anti-ICE protest staged last month at a church in Minnesota.",
-      "summary_zh": "美国司法部星期五宣布,还有30人因在上月在明尼苏达州教堂举行的反ICE抗议中的角色被控告."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
       "title_zh": "吉斯莱恩·麦克斯韦尔如何把比尔·克林顿带入爱泼斯坦的轨道",
       "link": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&at_campaign=rss",
@@ -326,26 +396,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
-      "title_zh": "由于以色列法院暂停禁止威胁,加沙和西岸的援助团体的生命线被抛出",
-      "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T20:31:27+00:00",
-      "summary": "Israel's High Court has temporarily halted a ban on international aid groups from working in the occupied Palestinian territories unless they meet strict new rules.",
-      "summary_zh": "以色列高等法院暂时停止禁止国际援助团体在被占巴勒斯坦领土上工作,除非它们符合严格的新规则。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Joe Biden takes selfies with passengers as he takes commercial flight",
-      "title_zh": "乔·拜登搭乘商业航班时 和乘客一起自拍",
-      "link": "https://www.bbc.com/news/videos/c5ygl45g6x1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T20:28:48+00:00",
-      "summary": "Flyers caught former President Joe Biden flying commercial at Ronald Reagan National Airport in Washington DC on Friday morning. Biden was seen waiting to board his plane to Columbia, South Carolina, for an event evening with the state's Democratic Party.",
-      "summary_zh": "弗赖尔斯星期五上午在华盛顿特区的罗纳德·里根国家机场抓到前总统乔·拜登上商业航班. 拜登被目击到要登上飞往南卡罗来纳州哥伦比亚市的飞机,与该州的民主党一起参加一个活动晚会."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why are Afghanistan and Pakistan fighting?",
       "title_zh": "为什么阿富汗和巴基斯坦会战斗?",
       "link": "https://www.bbc.com/news/articles/cdjmrxkwk3mo?at_medium=RSS&at_campaign=rss",
@@ -362,16 +412,6 @@
       "published_at": "2026-02-27T12:46:26+00:00",
       "summary": "A sizeable exhibit in the Museum of the Revolution in Havana is dedicated to conditions in Cuba before the revolution took power in 1959. Inside the ornate former presidential palace, photographs and oral testimony detail the grinding poverty and ingrained corruption of the dictatorship of Cuba's then-military strongman, Fulgencio Batista.",
       "summary_zh": "在哈瓦那革命博物馆举办了一个大型展览会,专门讨论1959年革命掌权前古巴的情况。 在前总统府内,照片和口头证词详细介绍了古巴当时的军事强人富尔根西奥·巴蒂斯塔独裁政权的赤贫和根深蒂固的腐败。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Key moments from Hillary Clinton's Epstein deposition",
-      "title_zh": "观察:希拉里·克林顿Epstein证词的关键时刻",
-      "link": "https://www.bbc.com/news/videos/cjd90l5en59o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-02-27T00:53:31+00:00",
-      "summary": "Hillary Clinton has concluded her deposition with the House Oversight Committee.",
-      "summary_zh": "希拉里·克林顿结束了她向众议院监督委员会的证言."
     }
   ]
 }
