@@ -1,27 +1,257 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-08T22:40:39+00:00",
-  "count": 31,
+  "generated_at": "2026-03-09T22:48:29+00:00",
+  "count": 39,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "イラン最高指導者にモジタバ師選出 ハメネイ師の次男",
-      "title_zh": "伊朗最好的导师 莫吉塔巴的次子",
-      "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070341000.html",
-      "published_at": "2026-03-08T22:23:53+00:00",
+      "title": "トランプ大統領 軍事作戦「当初予定を大きく前倒している」",
+      "title_zh": "特朗普总统\"军事战略\"\"大大提前了初始时间表\".",
+      "link": "http://www3.nhk.or.jp/news/html/20260310/k10015071331000.html",
+      "published_at": "2026-03-09T22:42:15+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "NY原油先物 1バレル＝100ドルを突破 イラン情勢受けて",
-      "title_zh": "纽约原油期货 1桶=100美元",
-      "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070401000.html",
-      "published_at": "2026-03-08T22:17:45+00:00",
+      "title": "トルコ “イランから弾道ミサイル 領空侵入” NATO部隊が迎撃",
+      "title_zh": "土耳其 “伊朗与弹道导弹连线”",
+      "link": "http://www3.nhk.or.jp/news/html/20260310/k10015071101000.html",
+      "published_at": "2026-03-09T22:03:44+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領とプーチン大統領 イラン情勢めぐり電話会談",
+      "title_zh": "特朗普总统和普京总统 伊朗 S 配方谈话",
+      "link": "http://www3.nhk.or.jp/news/html/20260310/k10015071371000.html",
+      "published_at": "2026-03-09T21:54:45+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中東の日本人旅行者ら281人乗せた第2便 成田空港に到着",
+      "title_zh": "奈丽塔机场的一扇风琴",
+      "link": "http://www3.nhk.or.jp/news/html/20260309/k10015071131000.html",
+      "published_at": "2026-03-09T21:47:09+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
+      "title_zh": "澳大利亚敦促在伊朗女子足球队准备出道时保护她们",
+      "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T21:46:53+00:00",
+      "summary": "Five members of the Iranian women's football team have been granted humanitarian visas in Australia after their elimination in the Asian Cup, the government in Canberra says.",
+      "summary_zh": "伊朗女子足球队有五名队员在亚洲杯被淘汰后,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "除染土の福島県外の処分 “理解”重要【震災15年アンケート】",
+      "title_zh": "在福岛省外处置被污染的土壤“了解”",
+      "link": "http://www3.nhk.or.jp/news/html/20260310/k10015065211000.html",
+      "published_at": "2026-03-09T20:50:08+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "G7 to take 'necessary measures' to support energy supplies",
+      "title_zh": "G7将采取“必要措施”支持能源供应",
+      "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T20:40:38+00:00",
+      "summary": "G7 nations have said they are ready to take \"necessary measures\" to support the global supply of energy after the US-Israel war with Iran sent oil prices surging.",
+      "summary_zh": "G7国家表示,它们准备采取\"必要措施\",在美以战争后支持全球能源供应,而后与伊朗的油价则上涨."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東京大空襲から81年 海老名香葉子さんの遺志継いで 平和の集い",
+      "title_zh": "东京大空袭81年.",
+      "link": "http://www3.nhk.or.jp/news/html/20260310/k10015071261000.html",
+      "published_at": "2026-03-09T20:26:56+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "楽天モバイルの不正契約サイト運営か 19歳容疑者逮捕 警視庁",
+      "title_zh": "19岁涉嫌逮捕的警察局",
+      "link": "http://www3.nhk.or.jp/news/html/20260310/k10015071091000.html",
+      "published_at": "2026-03-09T20:02:18+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Istanbul's mayor on trial for corruption charges",
+      "title_zh": "伊斯坦布尔市长因贪污罪受审",
+      "link": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T18:35:32+00:00",
+      "summary": "The imprisoned mayor of Istanbul has appeared in court as the central defendant in a mass corruption trial that his opposition party and rights groups say is politically motivated.",
+      "summary_zh": "被囚禁的伊斯坦布尔市长在一次大规模腐败审判中作为中央被告出庭受审,他的反对党和权利团体说这场审判具有政治动机."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Woman arrested after Rihanna's Beverly Hills mansion hit by gunfire",
+      "title_zh": "在Rihanna的Beverly Hills豪宅被枪击后被捕的妇女",
+      "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T17:36:32+00:00",
+      "summary": "A 35-year-old woman has been arrested on suspicion of attempted murder after the home of pop star Rihanna was hit by gunfire, Los Angeles police say.",
+      "summary_zh": "洛杉矶警方称,一名35岁的女性在流行明星Rihanna被枪击后因涉嫌谋杀未遂而被捕."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US teacher killed after toilet paper prank goes wrong",
+      "title_zh": "美国老师在厕纸作恶后被杀了",
+      "link": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T17:09:21+00:00",
+      "summary": "A high school teacher in Georgia was accidentally run over and killed outside his home when a toilet paper prank carried out by his students went terribly wrong, officials said.",
+      "summary_zh": "乔治亚州一名高中教师在学生的恶作剧严重出错时,在家中被意外撞倒并杀害。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Carney calls three by-elections in Canada that could grant him a majority",
+      "title_zh": "卡尼在加拿大打了三次补选 可能让他获得多数票",
+      "link": "https://www.bbc.com/news/articles/cnv69zp3z4ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T14:49:39+00:00",
+      "summary": "Canadian Prime Minister Mark Carney has announced three by-elections on 13 April - races that could give his party a majority in the government.",
+      "summary_zh": "加拿大总理马克·卡尼已经宣布了4月13日的三次补选——可以让他的政党在政府中占多数的种族."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hundreds of teenagers report for duty as Croatia reinstates conscription",
+      "title_zh": "数以百计的青少年报告克罗地亚恢复征兵",
+      "link": "https://www.bbc.com/news/articles/c93j2l32lzgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T14:49:34+00:00",
+      "summary": "Hundreds of teenage Croatians have reported for compulsory military service – for the first time since their country scrapped the requirement in 2008.",
+      "summary_zh": "数百名克罗地亚青少年报告服义务兵役,这是他们的国家自2008年取消这一规定以来首次这样做。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Guinea opposition leader urges 'direct resistance' after 40 parties dissolved",
+      "title_zh": "几内亚反对派领袖在40个政党解散后,",
+      "link": "https://www.bbc.com/news/articles/cjrqg80y57po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T14:25:45+00:00",
+      "summary": "Guinea's main opposition leader Cellou Dalein Diallo has said that \"direct resistance\" to the country's coup leader–turned–president is now the only remaining path to change, after the authorities dissolved 40 political parties.",
+      "summary_zh": "几内亚主要反对派领袖Cellou Dalein Diallo表示,在当局解散了40个政党后,目前唯一剩下的变革道路是“直接抵抗”该国政变领导人 — — 推翻总统。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "N Korea cancels Pyongyang Marathon for 'some reasons'",
+      "title_zh": "韩国取消平壤马拉松,",
+      "link": "https://www.bbc.com/news/articles/crl4wx8ydxeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T13:42:56+00:00",
+      "summary": "North Korea has cancelled the Pyongyang marathon for unspecified reasons, a tour agency linked to the event has said.",
+      "summary_zh": "朝鲜因不明原因取消平壤马拉松 与赛事相关的一家旅游社表示."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Police release images of Oslo US embassy explosion suspect",
+      "title_zh": "警方公布奥斯陆美国大使馆爆炸嫌犯的照片",
+      "link": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T12:45:09+00:00",
+      "summary": "Police in Norway have released pictures of a suspect linked to an explosion outside the US's embassy in Norway's capital Oslo on Sunday.",
+      "summary_zh": "挪威警方发布相片,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Why the Iran war is pushing up oil prices",
+      "title_zh": "监视 : 伊朗战争为何推高油价",
+      "link": "https://www.bbc.com/news/videos/cpv8342e3xvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T12:30:26+00:00",
+      "summary": "As turmoil continues in the Middle East, the price of crude oil rose to more than $100 a barrel on Monday.",
+      "summary_zh": "随着中东持续动荡,原油价格在星期一上升到一桶100多美元."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India offered sanctuary to Iranian ship three days before US sank it",
+      "title_zh": "印度在美国沉没三天前 向伊朗船只提供了庇护",
+      "link": "https://www.bbc.com/news/articles/c2e4yxj0pd3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T12:04:29+00:00",
+      "summary": "The Iranian warship Iris Dena was given permission by India to dock three days before it was torpedoed by a US submarine, India has said.",
+      "summary_zh": "伊朗\"伊里斯·德纳\"号军舰在被一艘美国潜艇鱼雷击中前三天被印度允许停靠."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bag of cannabis and cash accidentally donated to NZ charity shop",
+      "title_zh": "意外捐给新西兰慈善店的一袋大麻和现金",
+      "link": "https://www.bbc.com/news/articles/c1w5yq924j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T11:31:34+00:00",
+      "summary": "Two teenagers have been arrested after accidentally leaving a backpack containing cannabis and thousands of dollars in cash outside a charity shop in New Zealand, police have told local media.",
+      "summary_zh": "警方告诉当地媒体, 两名青少年在新西兰一家慈善店外意外地留下了背包,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Ukrainian anti-drone 'bullet' that could help defend Gulf",
+      "title_zh": "观察:乌克兰反德龙\"弹\"能帮助保卫海湾",
+      "link": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T10:15:06+00:00",
+      "summary": "President Volodymyr Zelensky has said Ukrainian drone experts will arrive in the Middle East this week to help Gulf states under attack from Iran.",
+      "summary_zh": "沃洛德米尔·泽连斯基总统表示,乌克兰无人机专家本周将抵达中东,帮助受伊朗袭击的海湾国家."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Alleged Bondi gunman seeks order to suppress family's identity",
+      "title_zh": "据称Bondi枪手试图下令压制家庭身份",
+      "link": "https://www.bbc.com/news/articles/cy8lwnyj40eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T08:13:58+00:00",
+      "summary": "Alleged Bondi Beach gunman Naveed Akram has sought a court order to prevent media from publishing details of his immediate family over concerns about their safety.",
+      "summary_zh": "据称,Bondi Beach枪手Naveed Akram曾要求法院下令阻止媒体公布其直系亲属的详情,因为担心他们的安全。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australians must prove they are over 18 to access porn under new laws",
+      "title_zh": "澳洲人必须证明自己已经18岁以上 才能根据新法获得色情制品",
+      "link": "https://www.bbc.com/news/articles/cwy92qpv424o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T03:02:04+00:00",
+      "summary": "Australians must prove they are over 18 before they can access adult content such as porn, R-rated video games and sexually explicit AI chatbots under new laws.",
+      "summary_zh": "澳大利亚人必须证明自己已经超过18岁,才能根据新的法律访问成人内容,例如色情、R级电子游戏和性明显的AI聊天员。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bitter times for cocoa farmers as chocolate market slumps",
+      "title_zh": "可可种植者因巧克力市场萧条而苦不堪言",
+      "link": "https://www.bbc.com/news/articles/c93jdk1yy3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T00:40:56+00:00",
+      "summary": "The price of chocolate bars has shot up across the world over the past year, meaning they can feel like a luxury - yet West Africa's cocoa farmers have not been reaping the benefit. In fact, many are in a desperate state as they have not been paid for months.",
+      "summary_zh": "巧克力棒的价格在过去一年中举世瞩目, 事实上,许多人处于绝望的状态,因为他们几个月来没有得到报酬。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Spain's migrants welcome amnesty: 'It will help us in every way'",
+      "title_zh": "西班牙移民欢迎特赦:\"这将在各方面帮助我们\".",
+      "link": "https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-09T00:17:54+00:00",
+      "summary": "Diana left her native Peru two years ago, looking for financial and professional stability in Europe.",
+      "summary_zh": "戴安娜两年前离开家乡秘鲁,寻求欧洲的财政和专业稳定."
     },
     {
       "source": "BBC News",
@@ -30,38 +260,8 @@
       "title_zh": "伊朗新任最高领导人莫伊塔巴·哈梅内伊是谁?",
       "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-08T21:51:48+00:00",
-      "summary": "Mojtaba Khamenei, the son of Iran's Ayatollah Ali Khamenei who was killed in US-Israeli strikes, has been chosen as his successor.",
-      "summary_zh": "Mojtaba Khamenei是伊朗阿亚图拉阿里·哈梅内伊之子,在美以美会罢工中被击毙,现被选为接班人."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「反撃能力」長射程ミサイル配備へ 発射装置など熊本に搬入",
-      "title_zh": "\"反冲击能力\"长程投影系统等.",
-      "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070331000.html",
-      "published_at": "2026-03-08T21:33:04+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "復興整備の施設 維持管理費 震災前の平均1.7倍 岩手 宮城 福島",
-      "title_zh": "地震前平均1.7次",
-      "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070151000.html",
-      "published_at": "2026-03-08T21:29:41+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "新年度予算案 今週中の衆院通過めぐり与野党の対決色強まるか",
-      "title_zh": "新年预算计划 约诺党的对峙颜色是否在本周经过?",
-      "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070321000.html",
-      "published_at": "2026-03-08T20:55:26+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "summary": "Mojtaba Khamenei, the son of Iran's Ayatollah Ali Khamenei, who was killed in US-Israeli strikes, has been chosen as his successor.",
+      "summary_zh": "伊朗阿亚图拉·阿里·哈梅内伊之子莫日塔巴·哈梅内伊在美以美会中阵亡被选为接班人."
     },
     {
       "source": "BBC News",
@@ -84,44 +284,14 @@
       "summary_zh": "挪威警方表示, 美国驻奥斯陆大使馆一夜之间发生爆炸,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "WBC 日本3連勝 オーストラリアに逆転勝ち 1位突破【詳報】",
-      "title_zh": "WBC 日本连续3次在澳大利亚夺得逆转第一",
-      "link": "http://www3.nhk.or.jp/news/html/20260308/k10015070031000.html",
-      "published_at": "2026-03-08T17:22:30+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Unanswered questions as search for Nancy Guthrie enters a new month",
       "title_zh": "寻找南希·古斯里进入新月时未回答的问题",
       "link": "https://www.bbc.com/news/articles/cp32lwy4077o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-08T15:03:16+00:00",
-      "summary": "It's been more than a month since the mysterious disappearance of Nancy Guthrie captivated the nation, and yet more questions than answers remain.",
-      "summary_zh": "Nancy Guthrie的神秘失踪使国家陷入瘫痪已经一个多月了,然而问题多于答案。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "石川県知事選挙 新人の山野之義氏 現職ら抑え当選",
-      "title_zh": "石川县县长选举 山野信长现职.",
-      "link": "http://www3.nhk.or.jp/news/html/20260308/k10015066231000.html",
-      "published_at": "2026-03-08T14:52:56+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK does not 'agree with Trump on every issue' - Cooper",
-      "title_zh": "英国并不同意特朗普的每期报道。",
-      "link": "https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-08T11:13:22+00:00",
-      "summary": "Foreign Secretary Yvette Cooper has hit back at President Trump's criticism of the UK response to the conflict in Iran.",
-      "summary_zh": "外交大臣伊维特·库珀回击特朗普总统批评英国应对伊朗冲突."
+      "summary": "It's been more than a month since the mysterious disappearance of Nancy Guthrie captivated the US, and yet more questions than answers remain.",
+      "summary_zh": "Nancy Guthrie的神秘失踪已经超过一个月了,"
     },
     {
       "source": "BBC News",
@@ -190,8 +360,8 @@
       "title_zh": "12岁男孩 6个死亡中 龙卷风袭击了密歇根州和俄克拉荷马州",
       "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-08T01:08:16+00:00",
-      "summary": "At least six people have died and more than a dozen others injured after tornadoes struck Michigan and Oklahoma, in severe storms that swept across parts of the US.",
-      "summary_zh": "龙卷风袭击了密歇根州和俄克拉何马州,在横扫美国部分地区的狂风暴雨中,至少有六人死亡,十多人受伤。"
+      "summary": "At least six people have died and more than a dozen others injured after tornadoes struck Michigan and Oklahoma in severe storms that swept across parts of the US.",
+      "summary_zh": "这场龙卷风袭击了密歇根州和俄克拉何马州, 造成至少六人死亡,十多人受伤,"
     },
     {
       "source": "BBC News",
@@ -216,102 +386,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-      "title_zh": "伊朗大使警告英国要\"非常小心\",",
-      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-07T16:53:57+00:00",
-      "summary": "The Iranian ambassador in London has warned the UK to be \"very careful\" about becoming further involved in the war.",
-      "summary_zh": "伊朗驻伦敦大使警告英国要\"非常小心\",以免进一步卷入战争."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
-      "title_zh": "在内罗毕,暴雨和洪水至少使23人丧生",
-      "link": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-07T12:21:40+00:00",
-      "summary": "At least 23 people have been killed in Nairobi after heavy rain overnight caused severe flooding in Kenya's capital city.",
-      "summary_zh": "内罗毕至少23人丧生,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Moment of drone strike close to Dubai Airport",
-      "title_zh": "观察:无人机袭击靠近迪拜机场的时刻",
-      "link": "https://www.bbc.com/news/videos/c5yr734zml3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-07T10:31:28+00:00",
-      "summary": "Video filmed by a witness and verified by the BBC shows a drone crashing close to Dubai International Airport.",
-      "summary_zh": "一名目击者拍摄并经英国广播公司核实的视频显示,一架无人机在迪拜国际机场附近坠毁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian strike on Kharkiv apartment block kills ten",
-      "title_zh": "俄罗斯对哈尔科夫公寓区的袭击造成十人死亡",
-      "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-07T07:54:22+00:00",
-      "summary": "At least ten people including children have been killed and several others injured after a Russian airstrike hit an apartment block in Kharkiv, Ukraine's President Volodymyr Zelensky has said.",
-      "summary_zh": "乌克兰总统沃洛德米尔·泽连斯基说,俄罗斯空袭袭击了哈尔科夫的一个公寓街区,造成至少10人丧生,其中包括儿童,另有多人受伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "We've been speaking to Iranians during one week of war. Here's what they said",
       "title_zh": "在一周的战争中,我们一直和伊朗人交谈. 他们这么说的",
       "link": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-07T06:00:32+00:00",
       "summary": "When Hamid heard news of the death of Iran's Supreme Leader Ayatollah Ali Khamenei a week ago today, he felt a wave of euphoria and took his wife and daughter into the street outside his home in Tehran to celebrate.",
       "summary_zh": "当哈米德一周前听到伊朗最高领袖阿亚图拉·阿里·哈梅内伊逝世的消息时,他感受到了一波婉转之风并带着妻子和女儿去德黑兰他家外的大街上庆祝."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
-      "title_zh": "中国多年来在拉丁美洲建立纽带。 川普能给美国腾出空间吗?",
-      "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-07T01:56:20+00:00",
-      "summary": "Donald Trump will host Latin American and Caribbean leaders on Saturday at his golf club for the \"Shield of the Americas Summit\" — an event aimed at rallying allies around US national security interests and countering China's growing influence in the region.",
-      "summary_zh": "唐纳德·特朗普星期六将在他的高尔夫俱乐部接待拉丁美洲和加勒比领导人参加\"美洲之旅峰会\"——这一活动旨在将盟友聚集在美国国家安全利益周围,并对抗中国在该地区日益增长的影响力."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "title_zh": "武装机器人在乌克兰战争中进入战场",
-      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-07T00:36:19+00:00",
-      "summary": "Since the start of Russia's full-scale invasion, the war in Ukraine has developed into a high-tech conflict.",
-      "summary_zh": "自俄国全面入侵后,乌克兰战争发展为高科技冲突."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Beirut evacuees 'sleeping in tents and cars'",
-      "title_zh": "贝鲁特被疏散者睡在帐篷和汽车里",
-      "link": "https://www.bbc.com/news/videos/cg4g0gl23z4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-06T18:37:55+00:00",
-      "summary": "In Lebanon, some residents in the southern Beirut suburb of Dahieh have left their homes amid evacuation orders and ongoing air strikes by Israel.",
-      "summary_zh": "在黎巴嫩,一些居住在贝鲁特南部Dahieh郊区的居民在以色列发出撤离命令并不断进行空袭时离开家园。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indonesia to ban social media and other online platforms for under 16s",
-      "title_zh": "印度尼西亚禁止16岁以下者使用社交媒体和其他在线平台",
-      "link": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-06T13:25:12+00:00",
-      "summary": "Indonesia says it will ban social media and other popular online platforms for children under 16, becoming the latest country to introduce restrictions aimed at protecting young people from online abuse.",
-      "summary_zh": "印尼表示,它将禁止社交媒体和其他面向16岁以下儿童的受欢迎的在线平台,成为最新出台旨在保护年轻人免受网络虐待的限制措施的国家."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
-      "title_zh": "美国和委内瑞拉同意在马杜罗被俘后恢复外交关系",
-      "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-06T04:23:12+00:00",
-      "summary": "The US and Venezuela have agreed to re-establish diplomatic and consular relations.",
-      "summary_zh": "美国和委内瑞拉已同意重建外交和领事关系."
     }
   ]
 }
