@@ -1,47 +1,307 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-12T22:46:03+00:00",
-  "count": 40,
+  "generated_at": "2026-03-13T22:45:40+00:00",
+  "count": 45,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "スマホ決済大手「PayPay」 米 ナスダックに株式を上場",
-      "title_zh": "PayPay,一家在DAQ上市的大型智能手机支付公司.",
-      "link": "http://www3.nhk.or.jp/news/html/20260313/k10015074141000.html",
-      "published_at": "2026-03-12T22:10:53+00:00",
+      "title": "軍事作戦開始から2週間 イランは徹底抗戦の構え 収束見通せず",
+      "title_zh": "在军事行动开始两周后,伊朗就有一个彻底的反战机制,没有趋同",
+      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075561000.html",
+      "published_at": "2026-03-13T22:10:05+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+      "title_zh": "在无人机的炮火下,流亡的库尔德人等待对抗伊朗政权.",
+      "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T22:02:39+00:00",
+      "summary": "Like many exiled Iranian Kurds, Shaho Bloori, 53, hears the call of home from both the living and the dead.",
+      "summary_zh": "与许多被放逐的伊朗库尔德人一样,53岁的Shaho Bloori也听到活人和活人发出回家的呼声."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "JR東日本 きょうから運賃値上げ 消費税対応除き会社発足以来初",
+      "title_zh": "JR-EAST QQ从京提高利率,成立第一家非消费公司.",
+      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075381000.html",
+      "published_at": "2026-03-13T22:02:39+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cuba confirms negotiations with US as country faces effects of oil blockade",
+      "title_zh": "古巴确认与美国的谈判,因为美国面临石油封锁的影响。",
+      "link": "https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T22:00:38+00:00",
+      "summary": "Cuban President Miguel Díaz-Canel has said that his government is in talks with the Trump administration to find solutions to the two countries' differences, as the Caribbean country continues to face the effects of a US oil blockade.",
+      "summary_zh": "古巴总统米格尔·迪亚斯-卡内尔(Miguel Díaz-Canel)表示,由于加勒比国家继续面临美国石油封锁的影响,他的政府正在同特朗普政府会谈以寻找两国分歧的解决方案."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pink Floyd guitar sold for record-breaking $14.6m",
+      "title_zh": "Pink Floyd吉他破纪录售出 1 460万美元",
+      "link": "https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T21:50:22+00:00",
+      "summary": "A guitar used by David Gilmour on six of Pink Floyd's albums has sold for a record $14.6m (£10.9m), making it the most expensive guitar ever sold, auction house Christie's has said.",
+      "summary_zh": "David Gilmour在平克·弗洛伊德专辑的6张专辑上使用的吉他以1460万美元(1090万英镑)的销量创下纪录,成为有史以来销量最昂贵的吉他,拍卖行克莉丝蒂说过."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "新年度予算案 参院で論戦へ 政府・与党は年度内成立の道筋探る",
+      "title_zh": "新年预算计划引起医院政府争议 党地寻找年建院之路.",
+      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075361000.html",
+      "published_at": "2026-03-13T21:28:40+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "NYダウ 700ドル超値下がり ホルムズ海峡封鎖が続くとの懸念",
-      "title_zh": "NY Dow 700额外价值下跌 担心Holms XXXit链继续",
-      "link": "http://www3.nhk.or.jp/news/html/20260313/k10015074241000.html",
-      "published_at": "2026-03-12T21:53:38+00:00",
+      "title": "原油高でアメリカがロシア産原油の制裁緩和 ウクライナは反発",
+      "title_zh": "解除美国在原油高地对俄罗斯所产原油的制裁",
+      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075491000.html",
+      "published_at": "2026-03-13T20:39:56+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "湾岸諸国の石油生産量 世界需要の約1割相当が減少 IEA分析",
-      "title_zh": "国际能源机构全球需求分析的10%左右",
-      "link": "http://www3.nhk.or.jp/news/html/20260313/k10015074131000.html",
-      "published_at": "2026-03-12T21:02:33+00:00",
+      "title": "「トランプ大統領 訪中後 台湾への武器売却承認の可能性」報道",
+      "title_zh": "\"特朗普总统在访问台湾\"批准出售武器的可能性\"之后\".",
+      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075521000.html",
+      "published_at": "2026-03-13T20:35:37+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "“手術中に神経切断”医師に有罪判決 赤穂市民病院 医療事故",
-      "title_zh": "“手术时神经断接” Ako公民医院医疗事故",
-      "link": "http://www3.nhk.or.jp/news/html/20260313/k10015074281000.html",
-      "published_at": "2026-03-12T20:55:25+00:00",
+      "title": "キューバ「米代表と協議」圧力受けるなか歩み寄りの姿勢",
+      "title_zh": "古巴的 \" 与美国代表的接触 \"",
+      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075541000.html",
+      "published_at": "2026-03-13T20:33:38+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“出産後に湯船つかるのと感染リスクに関連みられず”調査結果",
+      "title_zh": "调查结果:“分娩后洗澡,但不会感染”。",
+      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015074521000.html",
+      "published_at": "2026-03-13T20:07:57+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bahrain & Saudi Arabia Grands Prix to be cancelled",
+      "title_zh": "巴林和沙特阿拉伯大奖赛取消",
+      "link": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T17:12:12+00:00",
+      "summary": "The grands prix in Bahrain and Saudi Arabia were scheduled for next month",
+      "summary_zh": "巴林和沙特阿拉伯的大奖赛定于下个月举行"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Michigan synagogue attack was 'hate, plain and simple', says governor",
+      "title_zh": "密歇根犹太会堂的袭击是“仇恨、平庸和简单”,",
+      "link": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T16:57:30+00:00",
+      "summary": "Michigan Governor Gretchen Whitmer said an incident where a vehicle was rammed into a synagogue near Detroit on Thursday was antisemitism and \"hate, plain and simple\".",
+      "summary_zh": "密歇根州州长格雷琴 惠特默说,星期四一辆车被撞入底特律附近的一座犹太会堂的事件是反神论和\"仇恨,平庸而简单\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
+      "title_zh": "Nancy Guthrie案的警长相信 他们知道绑架者的动机",
+      "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T16:38:09+00:00",
+      "summary": "The sheriff investigating the kidnapping of Nancy Guthrie, mother of US TV presenter Savannah Guthrie, says authorities believe they have a motive, but have not identified a suspect.",
+      "summary_zh": "调查Nancy Guthrie被绑架案的警长,美国电视主持人Savannah Guthrie的母亲说,当局认为他们有动机,但还没有查出嫌疑人。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
+      "title_zh": "乌克兰和盟国担心放松俄罗斯制裁会延长战争",
+      "link": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T16:12:27+00:00",
+      "summary": "The decision by the US to ease some sanctions on Russian oil sales has provoked a chorus of criticism from European leaders.",
+      "summary_zh": "美国放松对俄罗斯石油销售的一些制裁的决定引发了欧洲领导人的一阵批判."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France returns sacred 'talking drum' looted during colonial rule to Ivory Coast",
+      "title_zh": "法国将殖民统治期间被洗劫的\"说话鼓\"归还给象牙海岸",
+      "link": "https://www.bbc.com/news/articles/cvg3yv2e9p1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T15:55:19+00:00",
+      "summary": "A sacred drum looted by French forces during its colonial rule in Ivory Coast has been returned to the country, more than a century after it was taken.",
+      "summary_zh": "法国军队在象牙海岸殖民统治期间所掠夺的一尊圣鼓被夺去一个多世纪后被还给国家."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
+      "title_zh": "内塔尼亚胡面临政治考验,",
+      "link": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T15:35:26+00:00",
+      "summary": "There is a new and concerted effort from Israel's military and political leaders to frame the achievements of the Iran war as having changed the Middle East, even without the regime change in Tehran that Israel's prime minister has focused on.",
+      "summary_zh": "以色列的军事和政治领导人作出了新的和协调一致的努力,将伊朗战争的成就描述为改变了中东,即使以色列总理所关注的德黑兰政权没有改变。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "All six crew members killed after US refuelling plane crashes in Iraq",
+      "title_zh": "美国加油飞机在伊拉克坠毁后 六名机组人员全部遇难",
+      "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T14:29:12+00:00",
+      "summary": "All six members of a US military refuelling aircraft's crew have now been confirmed dead after it crashed in western Iraq, US Central Command (Centcom) has said.",
+      "summary_zh": "美国中央司令部(Centcom)表示, 一架美国军用加油机机组的六名成员在伊拉克西部坠毁后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'No-one will hire women' - India's top court rejects menstrual leave petition",
+      "title_zh": "\"没有人会雇用女人\" - 印度的最高法院驳回月经请假申请",
+      "link": "https://www.bbc.com/news/articles/c0436qkegdqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T11:47:09+00:00",
+      "summary": "India's top court has rejected a petition seeking menstrual leave for working women and female students with the judges saying if they were to make such a law, \"no-one will hire women\".",
+      "summary_zh": "印度的最高法院拒绝了要求劳动妇女和女学生月经休假的请愿书,法官说如果她们要制定这样的法律,\"没有人会雇用妇女\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
+      "title_zh": "84名伊朗水手在美国鱼雷袭击中被击毙的尸体将被遣返",
+      "link": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T10:43:21+00:00",
+      "summary": "The bodies of 84 Iranian sailors killed in a torpedo attack by a US submarine last week in the Indian Ocean are due to be flown home on Friday, Sri Lanka's defence ministry has said.",
+      "summary_zh": "上星期在印度洋被一艘美国潜艇鱼雷袭击而遇难的84名伊朗水手的尸体定于星期五被送回家,斯里兰卡国防部表示."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Suspect dead after ramming vehicle into Michigan synagogue",
+      "title_zh": "嫌犯被撞入密歇根犹太会堂后死亡",
+      "link": "https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T10:16:36+00:00",
+      "summary": "A driver who rammed his vehicle into a large synagogue in Michigan on Thursday afternoon is dead, officials say.",
+      "summary_zh": "一名司机星期四下午撞入密歇根州的一座大型犹太会堂,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "KPop Demon Hunters to return as Netflix announces sequel",
+      "title_zh": "在Netflix宣布续集时返回的 KPop 恶魔猎人",
+      "link": "https://www.bbc.com/news/articles/c2k8wvzgqk7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T03:15:44+00:00",
+      "summary": "Netflix has announced a sequel to KPop Demon Hunters, the streaming platform's most watched movie of all time .",
+      "summary_zh": "Netflix宣布了KPop恶魔猎人续集,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "King expressed 'concern' over Alberta separatists, say First Nations chiefs",
+      "title_zh": "国王对艾伯塔省分离主义者表示\"关切\",说\"第一民族酋长\"",
+      "link": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T03:04:28+00:00",
+      "summary": "King Charles III \"expressed his concern\" over the Alberta separatist movement while meeting Indigenous leaders at Buckingham Palace, according to a delegation of First Nations chiefs that travelled to London.",
+      "summary_zh": "国王查理三世在白金汉宫会见土著领袖时\"表达了对艾伯塔分裂运动的关注\",据前往伦敦的原住民酋长代表团称."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'There's no hiding place on a ship': The sailors stranded in the Gulf",
+      "title_zh": "\"船上没有藏身之所\": 水手们被困在了海湾",
+      "link": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T01:47:54+00:00",
+      "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on oil tankers and freight ships in the Gulf, after Iran threatened to open fire on any vessels trying to cross the Strait of Hormuz , in response to US-Israeli attacks.",
+      "summary_zh": "无人驾驶飞机、巡航导弹和战斗机已成为许多被困在海湾油轮和货船上的水手的常识,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK MPs 'deeply troubled' by BBC World Service funding uncertainty",
+      "title_zh": "BBC World Service的\"深深困扰\"英国议员们的筹资不确定性",
+      "link": "https://www.bbc.com/news/articles/c1l76581d0ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T01:47:19+00:00",
+      "summary": "A committee of MPs have said they are \"deeply troubled\" by uncertainty over the government's future funding for the BBC World Service.",
+      "summary_zh": "一个议员委员会表示,他们对政府未来为BBC世界服务提供资金的不确定性\"深感困扰\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Qantas agrees to pay $74m over Covid-19 travel voucher refunds",
+      "title_zh": "Qantas公司同意支付7 400美元Covid-19旅行券退款",
+      "link": "https://www.bbc.com/news/articles/c8xyk8lwr1jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T01:16:03+00:00",
+      "summary": "Qantas Airways has agreed to pay A$105m (£55m; $74m) over claims that it should have issued cash refunds for cancelled flights during the Covid-19 pandemic.",
+      "summary_zh": "Qantas航空公司同意支付1.05亿澳元(5,500万英镑;7,400万美元),以支付它本应为科维德-19大流行期间取消的航班发放现金退款。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French vote tests polarised electorate with right hoping to win control of Paris",
+      "title_zh": "法国的投票测试使选民两极分化,希望赢得对巴黎的控制",
+      "link": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T00:15:23+00:00",
+      "summary": "France is preparing to vote in town council elections, whose results will be closely analysed for trends ahead of next year's presidential votes.",
+      "summary_zh": "法国正准备在市镇议会选举中投票,将仔细分析投票结果,以确定明年总统投票之前的趋势。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
+      "title_zh": "任务完成? 困扰今天伊朗冲突的2003年自夸",
+      "link": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T00:04:03+00:00",
+      "summary": "On 9 April 2003 a statue of the leader of Iraq, Saddam Hussein, was pulled down in the centre of Baghdad. The metal plaque at the base of the statue was torn off and the statue's marble plinth attacked with a sledgehammer. Iraqi civilians initially tried to pull it down, scaling the statue to secure a noose around its neck, but were unable to dismantle it. It took help from American troops using an armoured vehicle to finally topple it.",
+      "summary_zh": "2003年4月9日,伊拉克领导人萨达姆·侯赛因的一尊雕像被拉下巴格达市中心. 雕像底部的金属花板被撕开,雕像的大理石花板被大锤攻击. 伊拉克平民起初试图将其拉倒,放大了雕像以套住脖子,但未能拆除. 它得到了美国军队的帮助,他们使用一辆装甲车,最终将其推倒."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Americans on Iran strikes: 'What if this turns into a forever war?'",
+      "title_zh": "美军在伊朗发动攻击:\"如果这变成一场永远的战争怎么办?\"",
+      "link": "https://www.bbc.com/news/articles/cy0d7vv1p71o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T00:03:34+00:00",
+      "summary": "It has been nearly two weeks since Americans woke to the news that the US had carried out strikes against Iran.",
+      "summary_zh": "美国人从美国对伊朗发动袭击的消息中醒来已经近两周了。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Winners, Sinners and record breakers: 17 fun facts about this year's Oscars",
+      "title_zh": "赢家,罪人和破纪录者:今年奥斯卡奖的17个有趣的事实",
+      "link": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T00:02:30+00:00",
+      "summary": "When Sinners director Ryan Coogler went to the movies as a child, he would smuggle in some snacks - and get particularly creative with the cinema's drinks machine.",
+      "summary_zh": "罪人导演瑞安·克格勒小时候去看电影时,会走私一些小吃——并特别用电影院的饮料机来创造."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UFC fighters to train FBI agents at Quantico",
+      "title_zh": "UFC战士在Quantico训练FBI特工",
+      "link": "https://www.bbc.com/news/articles/c743emjmnrro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-12T22:23:46+00:00",
+      "summary": "Ultimate Fighting Championship athletes will train FBI agents this week, both organisations say.",
+      "summary_zh": "终极格斗锦标赛运动员 本周将训练FBI特工 两个组织都说"
     },
     {
       "source": "BBC News",
@@ -64,44 +324,14 @@
       "summary_zh": "伊朗将继续封锁世界上最繁忙的石油航运渠道霍尔木兹海峡,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ホンダ巨額損失 最終赤字へ 戦略の抜本的見直し迫られることに",
-      "title_zh": "本田对审查战略的最后赤字损失巨大",
-      "link": "http://www3.nhk.or.jp/news/html/20260313/k10015074091000.html",
-      "published_at": "2026-03-12T20:31:47+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Emirati minister tells BBC Iran must end strikes on Gulf",
       "title_zh": "阿联酋部长告诉BBC 伊朗必须结束对海湾的打击",
       "link": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-12T20:20:50+00:00",
-      "summary": "The UAE's Minister of State, Lana Nusseibeh, has called on Iran to end its strikes on countries in the region and vowed that her country would \"bounce back\".",
-      "summary_zh": "阿联酋国务大臣拉纳·努塞贝赫呼吁伊朗结束对该地区国家的打击并发誓其国家会\"击退\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン モジタバ師 初声明「ホルムズ海峡の封鎖 確実に継続」",
-      "title_zh": "伊朗·莫吉塔瓦的\"第一次声明\":\"霍尔姆斯的封闭链\"(The Enclosed chain of the Holms . . . .",
-      "link": "http://www3.nhk.or.jp/news/html/20260313/k10015074261000.html",
-      "published_at": "2026-03-12T20:18:17+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "新年度予算案 与党側きょう衆院通過させる方針 与野党攻防激化",
-      "title_zh": "新年预算计划 众议院通过政策",
-      "link": "http://www3.nhk.or.jp/news/html/20260313/k10015074231000.html",
-      "published_at": "2026-03-12T20:09:03+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "summary": "The United Arab Emirate's Minister of State Lana Nusseibeh has called on Iran to end its strikes on countries in the region and vowed that her country would \"bounce back\".",
+      "summary_zh": "阿拉伯联合酋长国国务部长拉纳·努塞贝赫呼吁伊朗结束对该地区国家的打击并发誓其国家会\"弹回\"."
     },
     {
       "source": "BBC News",
@@ -116,72 +346,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Jo Malone sued for using her own name in collaboration with Zara",
-      "title_zh": "Jo Malone因与Zara合作使用自己的名字而被起诉",
-      "link": "https://www.bbc.com/news/articles/cly09j2542no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T17:08:08+00:00",
-      "summary": "British perfumier Jo Malone is being sued by Estée Lauder Companies for using her name in a collaboration with High Street retailer Zara.",
-      "summary_zh": "英国的Perfumier Jo Maloon因与高街零售商Zara合作使用她的名字被Estée Lauder公司起诉."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Parents accused of hiding daughter's HIV infection and neglect",
-      "title_zh": "被指控隐瞒女儿感染艾滋病毒和被忽视的父母",
-      "link": "https://www.bbc.com/news/articles/c5y4e3pzvl0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T16:58:22+00:00",
-      "summary": "Prosecutors in Italy are seeking charges against the parents of a nine-year-old girl alleged to have been infected with HIV and deprived of medical care for years.",
-      "summary_zh": "意大利的检察官正在寻求对一名9岁女孩的父母提出指控,据称她已经感染艾滋病毒并被剥夺多年的医疗。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Senegal approves tougher anti-gay law as rights groups raise concerns",
-      "title_zh": "塞内加尔批准更严厉的反同性恋法,因为权利团体提出了关切。",
-      "link": "https://www.bbc.com/news/articles/cp857gy1843o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T16:34:29+00:00",
-      "summary": "Senegal's parliament has approved a new law doubling to 10 years the maximum prison term for sexual acts by same-sex couples and criminalising the \"promotion\" of homosexuality.",
-      "summary_zh": "塞内加尔议会批准了一项新法律,将同性伴侣性行为的最高刑期翻一番至10年,并将同性恋的\"促进\"定为刑事犯罪."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Rapper-politician Balendra Shah's party wins Nepal election",
       "title_zh": "拉珀-政界人士 Shah的政党赢得尼泊尔大选",
       "link": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-12T15:25:35+00:00",
       "summary": "The Rastriya Swatantra Party (RSP) has won a landslide in Nepal's election - the first held since last year's youth-led protests toppled the then government.",
       "summary_zh": "Rastriya Swatantra党(RSP)在尼泊尔大选中赢得滑坡,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Death toll from Ethiopia floods and landslides rises to more than 100",
-      "title_zh": "埃塞俄比亚水灾和山体滑坡造成100多人死亡",
-      "link": "https://www.bbc.com/news/articles/ce947x4m0e1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T14:46:09+00:00",
-      "summary": "At least 102 people have been killed in floods and landslides triggered by heavy rains in the Gamo Zone of southern Ethiopia, the local authority has said.",
-      "summary_zh": "当地政府表示,埃塞俄比亚南部加莫区因暴雨引发的洪水和山体滑坡已造成至少102人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
-      "title_zh": "伊朗战争如何使世界摆脱对海湾石油和天然气的依赖",
-      "link": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T13:57:56+00:00",
-      "summary": "The US-Israel war with Iran has made startlingly clear how much the world relies on energy from the Gulf region.",
-      "summary_zh": "美国-以色列与伊朗的战争令人吃惊地表明,世界多么依赖海湾地区的能源。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cartoonist freed after 15 years in prison without charge in Eritrea",
-      "title_zh": "漫画家在厄立特里亚入狱15年后获释,未受指控",
-      "link": "https://www.bbc.com/news/articles/c70kg0x4xk5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T13:57:01+00:00",
-      "summary": "A well-known Eritrean satirical cartoonist has been freed from prison after spending 15 years in detention without charge, his family and friends have told the BBC.",
-      "summary_zh": "一名知名的厄立特里亚讽刺漫画家在未经指控就被拘留了15年之后被释放出狱,他的家人和朋友告诉了英国广播公司。"
     },
     {
       "source": "BBC News",
@@ -216,46 +386,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Nasa spacecraft weighing 1,300lb re-enters Earth's atmosphere",
-      "title_zh": "重1 300磅的纳萨航天器重返地球大气层",
-      "link": "https://www.bbc.com/news/articles/cd9gwdgg38vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T11:23:36+00:00",
-      "summary": "The Van Allen Probe spacecraft weighing more than 1,300lb (600kg) has re-entered Earth's atmosphere, almost 14 years after its launch.",
-      "summary_zh": "范艾伦探测器重达1,300多磅(600公斤)的航天器在发射近14年后已再入地球大气层."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hozier, Jessie Buckley and Bruce Springsteen record Shane MacGowan tribute album",
-      "title_zh": "霍齐尔,杰西·巴克利和布鲁斯·斯普林斯廷录制了谢恩·麦克高万致敬专辑",
-      "link": "https://www.bbc.com/news/articles/cn87ndvklr2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T10:32:03+00:00",
-      "summary": "Three years after his death, some of music's biggest names have combined to record a tribute album to Pogues frontman Shane MacGowan.",
-      "summary_zh": "在他去世后3年,一些音乐最出名的名字结合录制了一张给Pogues前锋Shane MacGowan的致敬专辑."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "War in Ukraine spills into Hungarian election campaign",
-      "title_zh": "乌克兰战争蔓延到匈牙利的竞选活动",
-      "link": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T09:03:39+00:00",
-      "summary": "War-torn Ukraine \"will stop at nothing\" to prevent Prime Minister Viktor Orbán and his Fidesz party winning the upcoming Hungarian elections, the Hungarian government claims. Physical violence against the prime minister and his family, and attacks or sabotage of key energy installations, are being prepared, ministers allege.",
-      "summary_zh": "饱受战争蹂躏的乌克兰\"将一无所有\"来阻止总理维克多·奥尔班和他的菲德斯茨党赢得即将举行的匈牙利大选,匈牙利政府声称. 据称,正在准备对总理及其家人实施人身暴力并袭击或破坏关键的能源设施。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Chinese national arrested over attempt to smuggle 2,000 queen ants from Kenya",
-      "title_zh": "因企图从肯尼亚走私2 000个后蚁而被捕的中国国民",
-      "link": "https://www.bbc.com/news/articles/cz7gd57z33zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T08:43:10+00:00",
-      "summary": "A Chinese national has been arrested in Kenya's main airport accused of attempting to smuggle more than 2,000 queen garden ants out of the country.",
-      "summary_zh": "一名中国国民在肯尼亚主要机场被指企图将2000多只后花园蚂蚁偷运出该国而被捕."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
       "title_zh": "中国批准要求少数民族学习普通话的\"民族统一\"法.",
       "link": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
@@ -266,72 +396,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What did we learn from China's biggest political meeting?",
-      "title_zh": "我们从中国最大的政治会议上学到了什么?.",
-      "link": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T08:10:16+00:00",
-      "summary": "China's biggest political gathering - the National People's Congress or NPC - has come to an end.",
-      "summary_zh": "中国最大的政治集会——全国人大或全国人大代表大会宣告结束."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The Pussycat Dolls confirm reunion: 'We're celebrating where we're at as women'",
-      "title_zh": "猫猫娃娃确认重逢:\"我们在庆祝我们女人的身影\".",
-      "link": "https://www.bbc.com/news/articles/cwykd08eyg5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T08:03:26+00:00",
-      "summary": "Girl group The Pussycat Dolls have announced they will reunite as a trio for a new single and world tour.",
-      "summary_zh": "女童组 猫猫娃娃队宣布将重新组合为三重唱,进行新的单曲和世界巡演."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Draper fights to 'mind-blowing' win over Djokovic",
-      "title_zh": "德雷克为战胜乔科维奇而战",
-      "link": "https://www.bbc.com/sport/tennis/articles/cly09grr65xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T07:41:51+00:00",
-      "summary": "Draper last played Djokovic at Wimbledon in 2021",
-      "summary_zh": "德雷珀最后一次出演乔科维奇是在2021年的温布尔登."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Video shows moment point-blank gunshot misses Indian politician",
       "title_zh": "影片显示,印度政治家一时的枪声",
       "link": "https://www.bbc.com/news/videos/cj0d3357vqjo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-12T06:31:35+00:00",
       "summary": "CCTV footage from a wedding in Jammu city in Indian-administered Kashmir shows a man firing a gun at former chief minister Farooq Abdullah. Abdullah escaped unhurt after the attack, which took place on Wednesday evening.",
       "summary_zh": "一名男子向前首席部长法罗克·阿卜杜拉开枪。 阿卜杜拉在星期三晚上发生的袭击后逃脱了伤势."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Noma head chef resigns from restaurant amid abuse allegations",
-      "title_zh": "坏疽性口炎主厨因虐待指控辞职",
-      "link": "https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T04:09:16+00:00",
-      "summary": "The head chef of Noma, one of the highest-rated restaurants in the world, has resigned amid allegations of abuse.",
-      "summary_zh": "诺玛的首席厨师,是全球评分最高的餐馆之一,在受到虐待的指控后辞职."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bodies of two Chinese backpackers found in Australian floodwaters",
-      "title_zh": "在澳大利亚洪水中发现的两名中国背包者的尸体",
-      "link": "https://www.bbc.com/news/articles/c2k872k980po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T04:03:00+00:00",
-      "summary": "The bodies of two Chinese backpackers who went missing in floodwaters in Queensland have been recovered, Australian police have said.",
-      "summary_zh": "两名中国背包人员在昆士兰州被洪水淹没后失踪,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kanye West ordered to pay $140K in Malibu mansion renovation lawsuit",
-      "title_zh": "坎叶 West下令在马利布豪宅翻修案中支付140美元",
-      "link": "https://www.bbc.com/news/articles/c62g90w8dkko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T00:27:10+00:00",
-      "summary": "A jury has ordered controversial US rapper Kanye West to pay $140,000 (£104,415) after a handyman sued him over unpaid work for renovations at his Malibu mansion.",
-      "summary_zh": "一名杂务工人员指控他因在马利布豪宅进行翻修而无报酬工作,"
     },
     {
       "source": "BBC News",
@@ -362,26 +432,6 @@
       "published_at": "2026-03-11T16:52:10+00:00",
       "summary": "The US Geological Survey reported that this fountaining episode reached 1,300ft (400M). According to the USGS, Kilauea's plume sent tephra falling within Hawaiʻi Volcanoes National Park and into adjacent communities.",
       "summary_zh": "美国地质调查局报告说,这起喷泉事件达到1300英尺(400米). 根据USGS的说法,克劳埃亚的羽毛将属于哈瓦伊ʻi火山国家公园内的特弗拉送入相邻的社区."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Countries agree to record release of emergency oil reserves as prices surge",
-      "title_zh": "各国同意将紧急石油储备的释放记录在价格暴涨时进行",
-      "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-11T15:51:11+00:00",
-      "summary": "Dozens of countries have agreed to release a record amount of oil from their emergency reserves to try to tackle supply shortages and soaring prices.",
-      "summary_zh": "数十个国家同意从其应急储备中释放出创纪录的石油,试图解决供应短缺和价格飞涨的问题。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "No evidence Swiss bus fire was terrorism, officials say",
-      "title_zh": "没有证据表明瑞士公交车火灾是恐怖主义,官员说",
-      "link": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-11T15:04:47+00:00",
-      "summary": "Swiss officials say they suspect a bus fire that killed at least six people and injured five in western Switzerland was started deliberately but was unlikely a terrorist act.",
-      "summary_zh": "瑞士官员说,他们怀疑瑞士西部发生公交车起火,造成至少六人死亡和五人受伤,这是蓄意起事,但不太可能是恐怖行为。"
     },
     {
       "source": "BBC News",
