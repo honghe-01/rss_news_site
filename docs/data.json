@@ -1,17 +1,297 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-13T22:45:40+00:00",
-  "count": 45,
+  "generated_at": "2026-03-14T22:45:52+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
+      "title_zh": "宝藏猎人拒绝交出沉船金子后从监狱里释放出来",
+      "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T22:27:41+00:00",
+      "summary": "A US deep-sea treasure hunter who refused to disclose the location of a famed shipwreck's gold coins has been released from prison after a decade, with 500 coins still unaccounted for.",
+      "summary_zh": "一名美国深海宝藏猎人拒绝透露出出出名的\"沉船\"金币出狱十年后出狱,500枚硬币至今下落不明."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cuban protesters ransack Communist office as energy crisis deepens",
+      "title_zh": "随着能源危机的加深,",
+      "link": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T22:07:50+00:00",
+      "summary": "Protesters in Cuba have ransacked a Communist Party building following a rally over steep food prices and persistent power cuts, in a rare show of public dissent.",
+      "summary_zh": "古巴的抗议者在一场针对高粮价和持续停电的集会后洗劫了一座共产党大楼,这是罕见的公众异议。"
+    },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "軍事作戦開始から2週間 イランは徹底抗戦の構え 収束見通せず",
-      "title_zh": "在军事行动开始两周后,伊朗就有一个彻底的反战机制,没有趋同",
-      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075561000.html",
-      "published_at": "2026-03-13T22:10:05+00:00",
+      "title": "トランプ氏 ホルムズ海峡安全確保へ日本などの艦船派遣に期待",
+      "title_zh": "川普预计会派遣日本舰船和其他舰船来保障霍尔姆斯-克特的安全",
+      "link": "http://www3.nhk.or.jp/news/html/20260315/k10015076011000.html",
+      "published_at": "2026-03-14T22:07:34+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
+      "title_zh": "俄国利用伊朗战争,泽连斯基说,",
+      "link": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T21:50:22+00:00",
+      "summary": "Ukrainian President Volodymyr Zelensky has accused Russia of attempting to exploit the war in the Middle East to cause \"even greater destruction\" in his country.",
+      "summary_zh": "乌克兰总统沃洛德米尔·泽连斯基指责俄罗斯企图利用中东战争来给自己国家\"造成更大的破坏\"."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "新宿 携帯電話買い取り店で強盗 現金約170万円など奪い逃げる",
+      "title_zh": "新宿在手机店 现金约17万元",
+      "link": "http://www3.nhk.or.jp/news/html/20260315/k10015076031000.html",
+      "published_at": "2026-03-14T21:08:56+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three more Iran football team members change minds over asylum",
+      "title_zh": "又有三名伊朗足球队队员改变对庇护的看法",
+      "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T20:48:55+00:00",
+      "summary": "Three more members of the Iranian women's football delegation - who were given humanitarian visas to stay in Australia - have changed their mind and will return home.",
+      "summary_zh": "伊朗女子足球代表团的另外三名成员——他们获得了留在澳大利亚的人道主义签证——改变了主意,将回国。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "オランダやベルギーでユダヤ系施設狙ったとみられる事件相次ぐ",
+      "title_zh": "我的目标是名古屋和比利时的犹太设施",
+      "link": "http://www3.nhk.or.jp/news/html/20260315/k10015076021000.html",
+      "published_at": "2026-03-14T20:45:31+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中東からチャーター機で1100人余退避 政府“追加運航なし”",
+      "title_zh": "1100名中东人",
+      "link": "http://www3.nhk.or.jp/news/html/20260315/k10015075981000.html",
+      "published_at": "2026-03-14T20:43:40+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "4億円強奪事件 容疑者関係先で現金約1000万円見つかる 報酬か",
+      "title_zh": "40亿日元重案 在可疑的派对上,你可以找到1000万日元的现金",
+      "link": "http://www3.nhk.or.jp/news/html/20260315/k10015075971000.html",
+      "published_at": "2026-03-14T20:11:07+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "旧優生保護法の被害補償 東京 広島など1都3県が個別通知",
+      "title_zh": "《旧司法保护法》的损害赔偿,东京广岛等",
+      "link": "http://www3.nhk.or.jp/news/html/20260315/k10015075911000.html",
+      "published_at": "2026-03-14T20:08:16+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "German philosopher and social critic Jürgen Habermas dies at 96",
+      "title_zh": "德国哲学家和社会评论家于尔根·哈伯马斯于96岁去世",
+      "link": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T18:02:15+00:00",
+      "summary": "Jürgen Habermas, one of the most influential philosophers and public intellectuals in post-war Germany, has died aged 96.",
+      "summary_zh": "Jürgen Habermas是战后德国最有影响力的哲学家和公共知识分子之一,已经去世了96岁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
+      "title_zh": "救援人员将阿尔卑斯雪崩死亡人数上升归咎于天气和“准备不足的滑雪者”。",
+      "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T16:32:25+00:00",
+      "summary": "From the vantage point of our helicopter above the Alps, you can make out scars and dimples from recent avalanches.",
+      "summary_zh": "从阿尔卑斯山上空的直升机的有利位置 你可以从最近的雪崩中找出伤疤和凹陷"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kennedy Center head steps down after tumultuous year",
+      "title_zh": "肯尼迪中心在动荡的一年后 下台",
+      "link": "https://www.bbc.com/news/articles/cy7jlgez0ljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T15:31:01+00:00",
+      "summary": "Ric Grenell, a close ally of US President Donald Trump, is stepping down from his role as the head of Kennedy Center after a tumultuous year at the iconic performing arts venue.",
+      "summary_zh": "Ric Grenell是美国总统唐纳德·特朗普(Donald Trump)的亲密盟友,在标志性的表演艺术场所度过了动荡的一年后,他不再担任肯尼迪中心的负责人。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "WBCきょう準々決勝 ベネズエラ戦 山本由伸など投手陣がかぎか",
+      "title_zh": "WBC BC半决赛委内瑞拉出战山本由野布等.",
+      "link": "http://www3.nhk.or.jp/news/html/20260315/k10015075901000.html",
+      "published_at": "2026-03-14T15:11:57+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why has the US targeted Iran's Kharg Island?",
+      "title_zh": "美国为何以伊朗的哈格岛为目标?.",
+      "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T13:42:48+00:00",
+      "summary": "Donald Trump has said the US military has bombed a small island off the coast of Iran - home to a major oil terminal that is considered the country's economic lifeline.",
+      "summary_zh": "唐纳德·特朗普表示,美国军方轰炸了伊朗海岸外的一座小岛——一个被认为是该国经济生命线的主要石油码头的所在地."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+      "title_zh": "哈马斯敦促主要盟友伊朗停止对海湾国家的袭击",
+      "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T13:34:17+00:00",
+      "summary": "The Palestinian armed group Hamas has called on Iran to stop attacking Gulf states, in a rare appeal to its key ally.",
+      "summary_zh": "巴勒斯坦武装团体哈马斯呼吁伊朗停止攻击海湾国家,这是对其主要盟友的罕见呼吁。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More US Marines and warships being moved to Middle East, reports say",
+      "title_zh": "更多美国海军陆战队和军舰被转移到中东,",
+      "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T13:27:32+00:00",
+      "summary": "More US Marines and warships are being deployed to the Middle East, two officials confirmed to CBS News, the BBC's US partner.",
+      "summary_zh": "更多美国海军陆战队和军舰被部署到中东,两名官员向英国广播公司的美国合作伙伴CBS新闻证实."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Gazans urged to shelter as sandstorm turns skies orange",
+      "title_zh": "沙尘暴变成橙色,",
+      "link": "https://www.bbc.com/news/videos/cwy8rx3ryljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T13:02:53+00:00",
+      "summary": "Gazans were urged to take shelter as a sandstorm swept across the enclave on Saturday.",
+      "summary_zh": "星期六,一场沙尘暴席卷了整个飞地,敦促加沙人避难。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
+      "title_zh": "市长说,阿姆斯特丹犹太学校的爆炸“蓄意攻击”",
+      "link": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T12:45:41+00:00",
+      "summary": "An explosion at a Jewish school in Amsterdam was a \"deliberate attack against the Jewish community\", the mayor of the Dutch capital has said.",
+      "summary_zh": "阿姆斯特丹一所犹太学校发生爆炸,是\"对犹太社区的蓄意攻击\",荷兰首都市长曾说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Hate-watch classic' War of the Worlds sweeps Razzie Awards",
+      "title_zh": "世界之战横扫拉齐奖",
+      "link": "https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T04:34:30+00:00",
+      "summary": "Last year's War of the Worlds – starring Ice Cube as a man who must save humanity from an alien invasion without leaving his desk – has swept the board at this year's Razzie Awards, for the worst films of 2025.",
+      "summary_zh": "去年的\"世界之战\"(The Worlds War of the Worlds) — — 由\"冰魔方\"作为男主角,必须让人类免于外星入侵而不离开办公桌 — — 在今年的\"拉齐奖\"(Razzie Awards)上席卷了董事会,这是2025年最糟糕的电影."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Charges dropped against teens whose teacher died during toilet paper prank",
+      "title_zh": "对老师在厕纸恶作剧中死亡的十几岁青少年的指控已撤销",
+      "link": "https://www.bbc.com/news/articles/c1l76346dvlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T02:47:32+00:00",
+      "summary": "The five teenagers whose teacher died during a fatal practical joke will not be prosecuted over the death, a district attorney in the US state of Georgia has said.",
+      "summary_zh": "美国乔治亚州的一名地方检察官说, 5名青少年的老师死于致命的笑话,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "LA asks for investigation into 2028 Olympics chief over Epstein ties",
+      "title_zh": "LA要求调查2028年奥运会主 爱泼斯坦关系",
+      "link": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T02:28:50+00:00",
+      "summary": "The Los Angeles City Council has unanimously approved a measure urging the Olympics committee to investigate LA 2028 chief Casey Wasserman over ties to the late paedophile Jeffrey Epstein.",
+      "summary_zh": "洛杉矶市议会一致批准了一项措施,敦促奥运会委员会调查LA 2028年首席凯西·瓦瑟曼(Casey Wasserman)与后期恋童癖杰弗里·爱泼斯坦的关系."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Why Kharg Island is a lifeline for Iran",
+      "title_zh": "观察:为什么哈格岛是伊朗的生命线",
+      "link": "https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T01:21:14+00:00",
+      "summary": "Kharg Island is a small rocky outcrop just 15 miles (24km) off the coast of Iran - but despite its size, it is one of the most critical pieces of Iran's energy infrastructure.",
+      "summary_zh": "伊朗沿海只有15英里(24公里), 但尽管幅员辽阔,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fears for press freedom as billionaire takes control of East Africa's largest media house",
+      "title_zh": "由于亿万富翁控制了东非最大的媒体之家,对新闻自由的恐惧",
+      "link": "https://www.bbc.com/news/articles/cy0d7k75l2go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T00:39:24+00:00",
+      "summary": "After the acquisition this week of East Africa's biggest media outfit by a politically well connected billionaire businessman, questions are being asked about the future of independent journalism in the region.",
+      "summary_zh": "东非最大的媒体集团本周被一个政治上关系密切的亿万富翁商人收购后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Is Dubai's glossy image under threat? Not everyone thinks so",
+      "title_zh": "迪拜的光彩形象是否受到威胁? 不是每个人都这么想",
+      "link": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T00:02:29+00:00",
+      "summary": "Stephanie Baker had been celebrating her birthday with friends at a bar on Palm Jumeirah - Dubai's iconic man-made palm-shaped island lined with luxury hotels and beach clubs.",
+      "summary_zh": "Stephanie Baker一直和朋友在Palm Jumeirah的一家酒吧庆祝她的生日——迪拜的标志性人造棕榈形状的岛,上面排有豪华酒店和海滩俱乐部."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "She spent 16 hours on Instagram in a day. It's up to a jury to decide if Meta is to blame",
+      "title_zh": "她一天里在Instagram上度过了16个小时. 由陪审团来决定 Meta是不是要怪他",
+      "link": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T00:02:15+00:00",
+      "summary": "Kaley would look at Instagram until she fell asleep. She would wake up in the middle of the night to check her notifications. She would open the app as soon as she woke up. One day, she spent 16 hours on Instagram.",
+      "summary_zh": "Kaley会看着Instagram 直到她睡着了 她半夜醒来检查通知 她一醒来就会打开应用程序 一天,她在Instagram上度过了16个小时."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How the Iran war exposed cracks in Trump's Republican coalition",
+      "title_zh": "伊朗战争如何暴露特朗普共和党联盟的裂痕",
+      "link": "https://www.bbc.com/news/articles/cev7wn213rvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T00:02:00+00:00",
+      "summary": "\"This is Israel's war. This is not the United States' war.\"",
+      "summary_zh": "\"这是以色列的战争. 这不是美国的战争。”"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say",
+      "title_zh": "密歇根犹太会堂的家属 在黎巴嫩空袭中丧生 官员说",
+      "link": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T23:36:41+00:00",
+      "summary": "The man who rammed his truck into a synagogue in Michigan on Thursday had recently lost family in an Israeli airstrike in Lebanon, officials say.",
+      "summary_zh": "这位星期四撞上密歇根州犹太会堂的男子,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?",
+      "title_zh": "'\"老虎与苍蝇\":后来有上百万官员,习近平的腐败清洗为何还去?.",
+      "link": "https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T23:08:36+00:00",
+      "summary": "For one whole week, thousands of delegates filed into the cavernous Great Hall of the People in Beijing to attend one of the most important events on the Chinese political calendar.",
+      "summary_zh": "整整一周,上千名代表向北京市的\"洞口人民大会堂\"申请参加\"中国政治历程\"中最重要的活动之一."
     },
     {
       "source": "BBC News",
@@ -24,26 +304,6 @@
       "summary_zh": "与许多被放逐的伊朗库尔德人一样,53岁的Shaho Bloori也听到活人和活人发出回家的呼声."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "JR東日本 きょうから運賃値上げ 消費税対応除き会社発足以来初",
-      "title_zh": "JR-EAST QQ从京提高利率,成立第一家非消费公司.",
-      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075381000.html",
-      "published_at": "2026-03-13T22:02:39+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cuba confirms negotiations with US as country faces effects of oil blockade",
-      "title_zh": "古巴确认与美国的谈判,因为美国面临石油封锁的影响。",
-      "link": "https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T22:00:38+00:00",
-      "summary": "Cuban President Miguel Díaz-Canel has said that his government is in talks with the Trump administration to find solutions to the two countries' differences, as the Caribbean country continues to face the effects of a US oil blockade.",
-      "summary_zh": "古巴总统米格尔·迪亚斯-卡内尔(Miguel Díaz-Canel)表示,由于加勒比国家继续面临美国石油封锁的影响,他的政府正在同特朗普政府会谈以寻找两国分歧的解决方案."
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Pink Floyd guitar sold for record-breaking $14.6m",
@@ -54,84 +314,14 @@
       "summary_zh": "David Gilmour在平克·弗洛伊德专辑的6张专辑上使用的吉他以1460万美元(1090万英镑)的销量创下纪录,成为有史以来销量最昂贵的吉他,拍卖行克莉丝蒂说过."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "新年度予算案 参院で論戦へ 政府・与党は年度内成立の道筋探る",
-      "title_zh": "新年预算计划引起医院政府争议 党地寻找年建院之路.",
-      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075361000.html",
-      "published_at": "2026-03-13T21:28:40+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "原油高でアメリカがロシア産原油の制裁緩和 ウクライナは反発",
-      "title_zh": "解除美国在原油高地对俄罗斯所产原油的制裁",
-      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075491000.html",
-      "published_at": "2026-03-13T20:39:56+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「トランプ大統領 訪中後 台湾への武器売却承認の可能性」報道",
-      "title_zh": "\"特朗普总统在访问台湾\"批准出售武器的可能性\"之后\".",
-      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075521000.html",
-      "published_at": "2026-03-13T20:35:37+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "キューバ「米代表と協議」圧力受けるなか歩み寄りの姿勢",
-      "title_zh": "古巴的 \" 与美国代表的接触 \"",
-      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015075541000.html",
-      "published_at": "2026-03-13T20:33:38+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "“出産後に湯船つかるのと感染リスクに関連みられず”調査結果",
-      "title_zh": "调查结果:“分娩后洗澡,但不会感染”。",
-      "link": "http://www3.nhk.or.jp/news/html/20260314/k10015074521000.html",
-      "published_at": "2026-03-13T20:07:57+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Bahrain & Saudi Arabia Grands Prix to be cancelled",
-      "title_zh": "巴林和沙特阿拉伯大奖赛取消",
-      "link": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T17:12:12+00:00",
-      "summary": "The grands prix in Bahrain and Saudi Arabia were scheduled for next month",
-      "summary_zh": "巴林和沙特阿拉伯的大奖赛定于下个月举行"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Michigan synagogue attack was 'hate, plain and simple', says governor",
-      "title_zh": "密歇根犹太会堂的袭击是“仇恨、平庸和简单”,",
-      "link": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T16:57:30+00:00",
-      "summary": "Michigan Governor Gretchen Whitmer said an incident where a vehicle was rammed into a synagogue near Detroit on Thursday was antisemitism and \"hate, plain and simple\".",
-      "summary_zh": "密歇根州州长格雷琴 惠特默说,星期四一辆车被撞入底特律附近的一座犹太会堂的事件是反神论和\"仇恨,平庸而简单\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
-      "title_zh": "Nancy Guthrie案的警长相信 他们知道绑架者的动机",
-      "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T16:38:09+00:00",
-      "summary": "The sheriff investigating the kidnapping of Nancy Guthrie, mother of US TV presenter Savannah Guthrie, says authorities believe they have a motive, but have not identified a suspect.",
-      "summary_zh": "调查Nancy Guthrie被绑架案的警长,美国电视主持人Savannah Guthrie的母亲说,当局认为他们有动机,但还没有查出嫌疑人。"
+      "title": "Judge says 'no evidence' to justify Federal Reserve probe",
+      "title_zh": "法官说\"没有证据\"来证明美联储调查是正当的",
+      "link": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T21:28:26+00:00",
+      "summary": "A US judge has blocked efforts by the Department of Justice to investigate the Federal Reserve, delivering a victory for Fed chairman Jerome Powell, who had called the probe a pretext to try to pressure the central bank to lower interest rates.",
+      "summary_zh": "一位美国法官阻止了司法部调查美联储的努力,为美联储主席杰罗姆·鲍威尔带来了胜利,鲍威尔称这次调查是试图向央行施压以降低利率的借口."
     },
     {
       "source": "BBC News",
@@ -146,252 +336,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "France returns sacred 'talking drum' looted during colonial rule to Ivory Coast",
-      "title_zh": "法国将殖民统治期间被洗劫的\"说话鼓\"归还给象牙海岸",
-      "link": "https://www.bbc.com/news/articles/cvg3yv2e9p1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T15:55:19+00:00",
-      "summary": "A sacred drum looted by French forces during its colonial rule in Ivory Coast has been returned to the country, more than a century after it was taken.",
-      "summary_zh": "法国军队在象牙海岸殖民统治期间所掠夺的一尊圣鼓被夺去一个多世纪后被还给国家."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
-      "title_zh": "内塔尼亚胡面临政治考验,",
-      "link": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T15:35:26+00:00",
-      "summary": "There is a new and concerted effort from Israel's military and political leaders to frame the achievements of the Iran war as having changed the Middle East, even without the regime change in Tehran that Israel's prime minister has focused on.",
-      "summary_zh": "以色列的军事和政治领导人作出了新的和协调一致的努力,将伊朗战争的成就描述为改变了中东,即使以色列总理所关注的德黑兰政权没有改变。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "All six crew members killed after US refuelling plane crashes in Iraq",
-      "title_zh": "美国加油飞机在伊拉克坠毁后 六名机组人员全部遇难",
-      "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T14:29:12+00:00",
-      "summary": "All six members of a US military refuelling aircraft's crew have now been confirmed dead after it crashed in western Iraq, US Central Command (Centcom) has said.",
-      "summary_zh": "美国中央司令部(Centcom)表示, 一架美国军用加油机机组的六名成员在伊拉克西部坠毁后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'No-one will hire women' - India's top court rejects menstrual leave petition",
-      "title_zh": "\"没有人会雇用女人\" - 印度的最高法院驳回月经请假申请",
-      "link": "https://www.bbc.com/news/articles/c0436qkegdqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T11:47:09+00:00",
-      "summary": "India's top court has rejected a petition seeking menstrual leave for working women and female students with the judges saying if they were to make such a law, \"no-one will hire women\".",
-      "summary_zh": "印度的最高法院拒绝了要求劳动妇女和女学生月经休假的请愿书,法官说如果她们要制定这样的法律,\"没有人会雇用妇女\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
-      "title_zh": "84名伊朗水手在美国鱼雷袭击中被击毙的尸体将被遣返",
-      "link": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T10:43:21+00:00",
-      "summary": "The bodies of 84 Iranian sailors killed in a torpedo attack by a US submarine last week in the Indian Ocean are due to be flown home on Friday, Sri Lanka's defence ministry has said.",
-      "summary_zh": "上星期在印度洋被一艘美国潜艇鱼雷袭击而遇难的84名伊朗水手的尸体定于星期五被送回家,斯里兰卡国防部表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Suspect dead after ramming vehicle into Michigan synagogue",
-      "title_zh": "嫌犯被撞入密歇根犹太会堂后死亡",
-      "link": "https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T10:16:36+00:00",
-      "summary": "A driver who rammed his vehicle into a large synagogue in Michigan on Thursday afternoon is dead, officials say.",
-      "summary_zh": "一名司机星期四下午撞入密歇根州的一座大型犹太会堂,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "KPop Demon Hunters to return as Netflix announces sequel",
-      "title_zh": "在Netflix宣布续集时返回的 KPop 恶魔猎人",
-      "link": "https://www.bbc.com/news/articles/c2k8wvzgqk7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T03:15:44+00:00",
-      "summary": "Netflix has announced a sequel to KPop Demon Hunters, the streaming platform's most watched movie of all time .",
-      "summary_zh": "Netflix宣布了KPop恶魔猎人续集,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "King expressed 'concern' over Alberta separatists, say First Nations chiefs",
-      "title_zh": "国王对艾伯塔省分离主义者表示\"关切\",说\"第一民族酋长\"",
-      "link": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T03:04:28+00:00",
-      "summary": "King Charles III \"expressed his concern\" over the Alberta separatist movement while meeting Indigenous leaders at Buckingham Palace, according to a delegation of First Nations chiefs that travelled to London.",
-      "summary_zh": "国王查理三世在白金汉宫会见土著领袖时\"表达了对艾伯塔分裂运动的关注\",据前往伦敦的原住民酋长代表团称."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'There's no hiding place on a ship': The sailors stranded in the Gulf",
-      "title_zh": "\"船上没有藏身之所\": 水手们被困在了海湾",
-      "link": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T01:47:54+00:00",
-      "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on oil tankers and freight ships in the Gulf, after Iran threatened to open fire on any vessels trying to cross the Strait of Hormuz , in response to US-Israeli attacks.",
-      "summary_zh": "无人驾驶飞机、巡航导弹和战斗机已成为许多被困在海湾油轮和货船上的水手的常识,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK MPs 'deeply troubled' by BBC World Service funding uncertainty",
-      "title_zh": "BBC World Service的\"深深困扰\"英国议员们的筹资不确定性",
-      "link": "https://www.bbc.com/news/articles/c1l76581d0ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T01:47:19+00:00",
-      "summary": "A committee of MPs have said they are \"deeply troubled\" by uncertainty over the government's future funding for the BBC World Service.",
-      "summary_zh": "一个议员委员会表示,他们对政府未来为BBC世界服务提供资金的不确定性\"深感困扰\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Qantas agrees to pay $74m over Covid-19 travel voucher refunds",
-      "title_zh": "Qantas公司同意支付7 400美元Covid-19旅行券退款",
-      "link": "https://www.bbc.com/news/articles/c8xyk8lwr1jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T01:16:03+00:00",
-      "summary": "Qantas Airways has agreed to pay A$105m (£55m; $74m) over claims that it should have issued cash refunds for cancelled flights during the Covid-19 pandemic.",
-      "summary_zh": "Qantas航空公司同意支付1.05亿澳元(5,500万英镑;7,400万美元),以支付它本应为科维德-19大流行期间取消的航班发放现金退款。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French vote tests polarised electorate with right hoping to win control of Paris",
-      "title_zh": "法国的投票测试使选民两极分化,希望赢得对巴黎的控制",
-      "link": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T00:15:23+00:00",
-      "summary": "France is preparing to vote in town council elections, whose results will be closely analysed for trends ahead of next year's presidential votes.",
-      "summary_zh": "法国正准备在市镇议会选举中投票,将仔细分析投票结果,以确定明年总统投票之前的趋势。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
-      "title_zh": "任务完成? 困扰今天伊朗冲突的2003年自夸",
-      "link": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T00:04:03+00:00",
-      "summary": "On 9 April 2003 a statue of the leader of Iraq, Saddam Hussein, was pulled down in the centre of Baghdad. The metal plaque at the base of the statue was torn off and the statue's marble plinth attacked with a sledgehammer. Iraqi civilians initially tried to pull it down, scaling the statue to secure a noose around its neck, but were unable to dismantle it. It took help from American troops using an armoured vehicle to finally topple it.",
-      "summary_zh": "2003年4月9日,伊拉克领导人萨达姆·侯赛因的一尊雕像被拉下巴格达市中心. 雕像底部的金属花板被撕开,雕像的大理石花板被大锤攻击. 伊拉克平民起初试图将其拉倒,放大了雕像以套住脖子,但未能拆除. 它得到了美国军队的帮助,他们使用一辆装甲车,最终将其推倒."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Americans on Iran strikes: 'What if this turns into a forever war?'",
-      "title_zh": "美军在伊朗发动攻击:\"如果这变成一场永远的战争怎么办?\"",
-      "link": "https://www.bbc.com/news/articles/cy0d7vv1p71o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T00:03:34+00:00",
-      "summary": "It has been nearly two weeks since Americans woke to the news that the US had carried out strikes against Iran.",
-      "summary_zh": "美国人从美国对伊朗发动袭击的消息中醒来已经近两周了。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Winners, Sinners and record breakers: 17 fun facts about this year's Oscars",
-      "title_zh": "赢家,罪人和破纪录者:今年奥斯卡奖的17个有趣的事实",
-      "link": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-13T00:02:30+00:00",
-      "summary": "When Sinners director Ryan Coogler went to the movies as a child, he would smuggle in some snacks - and get particularly creative with the cinema's drinks machine.",
-      "summary_zh": "罪人导演瑞安·克格勒小时候去看电影时,会走私一些小吃——并特别用电影院的饮料机来创造."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UFC fighters to train FBI agents at Quantico",
-      "title_zh": "UFC战士在Quantico训练FBI特工",
-      "link": "https://www.bbc.com/news/articles/c743emjmnrro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T22:23:46+00:00",
-      "summary": "Ultimate Fighting Championship athletes will train FBI agents this week, both organisations say.",
-      "summary_zh": "终极格斗锦标赛运动员 本周将训练FBI特工 两个组织都说"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli military drops charges against soldiers accused of abusing Palestinian detainee",
-      "title_zh": "以色列军队撤销对被控虐待巴勒斯坦被拘留者的士兵的指控",
-      "link": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T20:36:10+00:00",
-      "summary": "Israel's most senior military lawyer has said all charges against five soldiers accused of sexually abusing a Palestinian detainee from Gaza have been dropped.",
-      "summary_zh": "以色列最资深的军事律师说,对被控性虐待一名来自加沙的巴勒斯坦被拘留者的五名士兵的所有指控都已撤销。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
-      "title_zh": "伊朗新最高领导人宣誓在第一次声明中封锁霍尔木兹海峡",
-      "link": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T20:32:55+00:00",
-      "summary": "Iran will continue blocking the Strait of Hormuz, the world's busiest oil shipping channel, according to a statement attributed to Iran's new Supreme Leader Mojtaba Khamenei.",
-      "summary_zh": "伊朗将继续封锁世界上最繁忙的石油航运渠道霍尔木兹海峡,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Emirati minister tells BBC Iran must end strikes on Gulf",
-      "title_zh": "阿联酋部长告诉BBC 伊朗必须结束对海湾的打击",
-      "link": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T20:20:50+00:00",
-      "summary": "The United Arab Emirate's Minister of State Lana Nusseibeh has called on Iran to end its strikes on countries in the region and vowed that her country would \"bounce back\".",
-      "summary_zh": "阿拉伯联合酋长国国务部长拉纳·努塞贝赫呼吁伊朗结束对该地区国家的打击并发誓其国家会\"弹回\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "France's ghost car scandal that allowed one million illegal vehicles onto the roads",
-      "title_zh": "法国的鬼车丑闻 让一百万辆非法车辆上路",
-      "link": "https://www.bbc.com/news/articles/cpqw0jgn5xgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T17:44:09+00:00",
-      "summary": "A million illegally-registered cars are being driven in France in a fraud scandal that has cost hundreds of millions of euros in lost taxes and fines, according to the state auditor.",
-      "summary_zh": "据国家审计员称,在一场欺诈丑闻中,有100万辆非法登记的汽车在法国被驾驶,损失了数亿欧元的税收和罚款。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rapper-politician Balendra Shah's party wins Nepal election",
-      "title_zh": "拉珀-政界人士 Shah的政党赢得尼泊尔大选",
-      "link": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T15:25:35+00:00",
-      "summary": "The Rastriya Swatantra Party (RSP) has won a landslide in Nepal's election - the first held since last year's youth-led protests toppled the then government.",
-      "summary_zh": "Rastriya Swatantra党(RSP)在尼泊尔大选中赢得滑坡,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nineteen jailed over deadly Moscow concert attack",
-      "title_zh": "十九人因莫斯科音乐会致命袭击而入狱",
-      "link": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T13:29:01+00:00",
-      "summary": "Nineteen people have been jailed over an attack at a concert hall near Moscow that killed 149 people and left more than 500 injured - the deadliest mass shooting in Russia in two decades.",
-      "summary_zh": "19人因在莫斯科附近的音乐厅被袭击而入狱,造成149人死亡并造成500多人受伤——这是20年来俄罗斯最致命的大规模枪击."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
-      "title_zh": "'\"如果我们留下了废墟呢?\": 对支持战争的伊朗人来说 怀疑越大",
-      "link": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T12:49:14+00:00",
-      "summary": "\"We thought they'd kill all the senior figures and the regime would collapse in days, but we are in the second week now and every night I wake to explosions,\" a Tehran resident told the BBC.",
-      "summary_zh": "“我们以为他们会杀死所有高级人物,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
-      "title_zh": "对于美国可能参与袭击伊朗学校,",
-      "link": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T12:22:22+00:00",
-      "summary": "Democrats in the US Senate have written to Defence Secretary Pete Hegseth demanding answers about the strike on a primary school in Iran that Iranian officials say killed 168 people, including about 110 children.",
-      "summary_zh": "美国参议院的民主党人写信给国防部长皮特·赫格塞斯,要求就伊朗一所小学被罢课一事做出答案,伊朗官员说有168人被杀,其中包括约110名儿童."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
-      "title_zh": "中国批准要求少数民族学习普通话的\"民族统一\"法.",
-      "link": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T08:41:47+00:00",
-      "summary": "China has approved a sweeping new law which claims to help promote \"ethnic unity\" - but critics say it will further erode the rights of minority groups.",
-      "summary_zh": "中国已经批准了一部全面的新法,"
+      "title": "Iranians react to new supreme leader's first address",
+      "title_zh": "伊朗人对新最高领导人的第一个地址的反应",
+      "link": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-13T15:53:48+00:00",
+      "summary": "\"I don't even think it was his message,\" an Iranian woman in her 40s told the BBC after her country's new Supreme Leader Mojtaba Khamenei gave his first official address in the form of a statement read out on state TV.",
+      "summary_zh": "一位40多岁的伊朗女性在她的国家新最高领袖莫伊塔巴·哈梅内伊以在国家电视台宣读声明的形式发表第一个正式讲话后,"
     },
     {
       "source": "BBC News",
@@ -416,42 +366,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
-      "title_zh": "爱泼斯坦利用模特代理招募女孩 巴西女人告诉英国广播公司",
-      "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-12T00:05:52+00:00",
-      "summary": "Warning: This story contains graphic sexual descriptions.",
-      "summary_zh": "警告: 这个故事包含了图形性的描述."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Volcanic fragments rain down as Hawaii's Kilauea volcano erupts",
       "title_zh": "火山碎片随着夏威夷克劳埃火山的爆发而下起雨",
       "link": "https://www.bbc.com/news/videos/c2e4ljy1kp8o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-11T16:52:10+00:00",
       "summary": "The US Geological Survey reported that this fountaining episode reached 1,300ft (400M). According to the USGS, Kilauea's plume sent tephra falling within Hawaiʻi Volcanoes National Park and into adjacent communities.",
       "summary_zh": "美国地质调查局报告说,这起喷泉事件达到1300英尺(400米). 根据USGS的说法,克劳埃亚的羽毛将属于哈瓦伊ʻi火山国家公园内的特弗拉送入相邻的社区."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC visits key Dubai port in Iran's firing line",
-      "title_zh": "BBC访问伊朗射击线上的关键迪拜港",
-      "link": "https://www.bbc.com/news/videos/cgrzk874171o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-10T17:07:01+00:00",
-      "summary": "Trade through the Middle East's biggest port has been hit hard since Iran began its blockade of the Strait of Hormuz - one of the world's most important global shipping routes.",
-      "summary_zh": "自从伊朗开始封锁霍尔木兹海峡——世界最重要的全球航运航道之一——以来,通过中东最大港口的贸易受到沉重打击."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US missile hit military base near Iran school, video analysis shows",
-      "title_zh": "美国导弹击中伊朗学校附近的军事基地,视频分析节目",
-      "link": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-09T15:09:05+00:00",
-      "summary": "A US Tomahawk missile hit a military base near a primary school in southern Iran where Iranian authorities said 168 people, including around 110 children, were killed, expert video analysis shows.",
-      "summary_zh": "一枚美国托马霍克导弹击中了伊朗南部一所小学附近的军事基地,伊朗当局称168人被炸死,其中包括约110名儿童,视频分析专家显示."
     }
   ]
 }
