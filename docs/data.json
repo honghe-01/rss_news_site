@@ -1,37 +1,277 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-17T22:52:43+00:00",
-  "count": 32,
+  "generated_at": "2026-03-18T22:50:32+00:00",
+  "count": 33,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イラン南部の天然ガス関連施設にイスラエルなどが攻撃か",
+      "title_zh": "以色列是否在伊朗南部的天然气相关设施遭到袭击?",
+      "link": "http://www3.nhk.or.jp/news/html/20260319/k10015079031000.html",
+      "published_at": "2026-03-18T22:40:16+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米FRB 2会合連続で利下げを見送り インフレ再び加速を警戒か",
+      "title_zh": "通货膨胀使美国财会机构连续2次会议感兴趣",
+      "link": "http://www3.nhk.or.jp/news/html/20260319/k10015079041000.html",
+      "published_at": "2026-03-18T22:23:27+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iranian security chief Ali Larijani killed in air strike",
-      "title_zh": "伊朗保安队长Ali Larijani在空袭中被炸死",
-      "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T22:49:03+00:00",
-      "summary": "Israel says Iran's top security official, Ali Larijani, and the head of the paramilitary Basij force, Gholamreza Soleimani, have been killed in Israeli air strikes.",
-      "summary_zh": "以色列表示,伊朗最高安全官员阿里·拉里贾尼和准军事组织\"Basij\"(Basij)部队(Gholamreza Soleimani)头目在以色列空袭中被击毙."
+      "title": "Ecuador gang leader wanted for murder of presidential candidate arrested",
+      "title_zh": "厄瓜多尔黑帮头目因谋杀总统候选人被通缉",
+      "link": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T22:20:16+00:00",
+      "summary": "The leader of one of Ecuador's biggest drug-trafficking gangs has been arrested in Mexico City, officials say.",
+      "summary_zh": "厄瓜多尔最大的贩毒团伙之一的领导人在墨西哥城被捕,"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ロシア高官 欧米の足並みの乱れ強調 さらなる分断図るねらいか",
-      "title_zh": "俄罗斯高官强调子宫脚步的扰动",
-      "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078351000.html",
-      "published_at": "2026-03-17T21:49:57+00:00",
+      "title": "NY原油市場 先物価格 一時1バレル＝100ドル超に",
+      "title_zh": "纽约原油市场",
+      "link": "http://www3.nhk.or.jp/news/html/20260319/k10015079221000.html",
+      "published_at": "2026-03-18T22:12:43+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "イスラエル イランのラリジャニ氏殺害と発表 イランの出方注目",
-      "title_zh": "以色列 伊朗人Larijani被谋杀和宣布为伊朗人",
-      "link": "http://www3.nhk.or.jp/news/html/20260317/k10015078081000.html",
-      "published_at": "2026-03-17T21:49:05+00:00",
+      "title": "NYダウ 700ドル余値下がり FRB議長会見受け 売り注文広がる",
+      "title_zh": "纽约道 700美元额外价值 降低财会基金主席会议销售订单的摊价",
+      "link": "http://www3.nhk.or.jp/news/html/20260319/k10015079231000.html",
+      "published_at": "2026-03-18T22:12:05+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "広島 原爆供養塔の遺骨 少なくとも40人の遺髪が見つかる",
+      "title_zh": "已发现至少40件文物",
+      "link": "http://www3.nhk.or.jp/news/html/20260319/k10015079121000.html",
+      "published_at": "2026-03-18T22:06:37+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ガソリン 激変緩和措置始まる 約1～2週間で小売価格反映見込み",
+      "title_zh": "预计1至2周内反映零售价格的汽油",
+      "link": "http://www3.nhk.or.jp/news/html/20260319/k10015079001000.html",
+      "published_at": "2026-03-18T21:49:39+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "King praises 'living bridge' with Nigeria at glitzy banquet",
+      "title_zh": "国王在欢快的宴会上赞美与尼日利亚的\"活桥\"",
+      "link": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T21:24:14+00:00",
+      "summary": "King Charles has hosted a spectacular state banquet for the president and first lady of Nigeria, praising the strengths of Nigeria's partnership with the UK.",
+      "summary_zh": "查尔斯国王为尼日利亚总统及第一夫人举办了一场盛大的州宴会,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日米首脳会談 日本時間20日未明に イラン情勢などで意見交換へ",
+      "title_zh": "日本-美国峰会:日本时间比伊朗等早20天.",
+      "link": "http://www3.nhk.or.jp/news/html/20260319/k10015078991000.html",
+      "published_at": "2026-03-18T20:20:46+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Oil nears $110 a barrel after gas field strike",
+      "title_zh": "一桶油近110美元 气田罢工后",
+      "link": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T19:53:50+00:00",
+      "summary": "Oil prices leapt to nearly $110 a barrel after Iranian media reported an airstrike hitting a facility on the world's largest natural gas field.",
+      "summary_zh": "伊朗媒体报导世界最大的天然气田遭到空袭后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel destroys river bridges in southern Lebanon",
+      "title_zh": "以色列摧毁黎巴嫩南部的河流桥梁",
+      "link": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T19:40:15+00:00",
+      "summary": "Israeli air strikes have destroyed two bridges over the Litani River linking southern Lebanon with the rest of the country, the military says.",
+      "summary_zh": "军方说,以色列空袭摧毁了利塔尼河上连接黎巴嫩南部和该国其他地区的两座桥梁。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
+      "title_zh": "五起从马克韦恩·穆林的国土安全确认听证会上",
+      "link": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T18:51:07+00:00",
+      "summary": "Oklahoma Senator Markwayne Mullin promised a \"better approach\" on immigration enforcement and, despite recent criticism of the Homeland Security department, pledged that as its leader he would be \"protecting everybody\".",
+      "summary_zh": "俄克拉何马州参议员马克韦恩·穆林(Markwayne Mullin)承诺对移民执法采取\"更好的办法\",并不顾最近对国土安全部的批评,承诺作为它的领袖,他将\"保护所有人\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Gabbard faces scrutiny over Iran nuclear intelligence claims",
+      "title_zh": "Gabbard面对伊朗核情报指控的严密检查",
+      "link": "https://www.bbc.com/news/videos/clygyg14zj2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T18:38:21+00:00",
+      "summary": "The US Director of National Intelligence, Tulsi Gabbard, was questioned over what Democrats perceive as a discrepancy between White House and intelligence community claims on Iran's nuclear enrichment capabilities.",
+      "summary_zh": "美国国家情报局局长图尔西·加布德被问及民主党人认为白宫与情报界对伊朗的核浓缩能力的说法有何出入."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "One killed as ski gondola crashes down mountain at Swiss resort",
+      "title_zh": "在瑞士度假胜地滑雪撞倒 造成一人死亡",
+      "link": "https://www.bbc.com/news/articles/cq575yp1lw6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T18:25:33+00:00",
+      "summary": "A woman was killed when a ski gondola crashed down a snowy mountain at Engelberg ski resort in the Swiss Alps, local officials say.",
+      "summary_zh": "当地官员说,在瑞士阿尔卑斯山的恩格尔贝格滑雪胜地上,一名女子被滑雪所撞倒下雪地山而丧生."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
+      "title_zh": "出名的伊迪塔罗德狗的雪橇比赛 结束了杰西·福尔摩斯的连胜",
+      "link": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T17:54:14+00:00",
+      "summary": "Jessie Holmes has won his second consecutive Iditarod Trail Sled Dog Race in Nome, Alaska. The former reality TV star completed the roughly 1,000-mile (1,609-kilometer) course in nine days, seven hours, and 32 minutes.",
+      "summary_zh": "杰西·福尔摩斯在阿拉斯加的诺姆连续第二次赢得了伊迪塔罗德拖拉机赛狗比赛. 前真人秀电视明星在9天7小时32分的时间内完成了大约1000英里(1,609公里)跑道."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Forty years after the last one was poached, rhinos are back in the wild in Uganda",
+      "title_zh": "上次偷猎40年后 犀牛又回到了乌干达的野外",
+      "link": "https://www.bbc.com/news/articles/cn4g41n9j4lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T17:36:05+00:00",
+      "summary": "For the first time in more than four decades, rhinos have returned to Uganda's Kidepo Valley National Park , where poachers once wiped them out for their horns and meat.",
+      "summary_zh": "犀牛在40多年以来首次回到乌干达的基德波谷国家公园,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
+      "title_zh": "伊朗情报部长Esmail Khatib在空袭中丧生",
+      "link": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T17:05:46+00:00",
+      "summary": "Iran's intelligence minister Esmail Khatib has been killed, the country's president has confirmed.",
+      "summary_zh": "伊朗情报部长Esmail Khatib被击毙 国家总统证实."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
+      "title_zh": "俄罗斯考古学家可以被送到乌克兰受审 波兰法官的规则",
+      "link": "https://www.bbc.com/news/articles/c86y65j26xno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T16:39:00+00:00",
+      "summary": "A judge in Poland has ruled that Russian archaeologist Alexander Butyagin can be extradited to Ukraine, although his defence says he will appeal.",
+      "summary_zh": "波兰的一位法官裁定俄罗斯考古学家亚历山大·布特亚金可以被引渡到乌克兰,尽管他的辩护人说他会上诉."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
+      "title_zh": "“很难阻止”:BBC访问伊朗集束炸弹袭击以色列现场",
+      "link": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T16:04:29+00:00",
+      "summary": "It was late at night when an Iranian cluster bomb flew through the ceiling of an elderly couple's apartment in central Israel and exploded in their tiny living room, killing them both.",
+      "summary_zh": "深夜时分,一枚伊朗集束炸弹从以色列中部一对老人公寓的天花板上飞来,在他们小小的客厅中爆炸,炸死了两人。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Celebrations in Morocco but devastation in Senegal after Africa Cup of Nations decision",
+      "title_zh": "摩洛哥的庆祝活动,但非洲国家杯决定之后塞内加尔的破坏",
+      "link": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T15:48:41+00:00",
+      "summary": "It was a night of jubilation in Morocco, but anger in Senegal after the decision to strip the Senegalese national side of their continental football title and hand it to their North African rivals.",
+      "summary_zh": "在摩洛哥,这是一个欢庆之夜,但在塞内加尔,在决定剥夺塞内加尔国家一方的大陆足球头衔并将其交给北非对手之后,却感到愤怒。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Quantum pioneers win Turing Award for encryption breakthrough",
+      "title_zh": "量子先锋以加密突破获图灵奖",
+      "link": "https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T15:23:16+00:00",
+      "summary": "A US physicist and a Canadian computer scientist have won this year's Turing Award for their invention of a form of seemingly unbreakable encryption.",
+      "summary_zh": "一名美国物理学家和一名加拿大计算机科学家因发明了一种似乎不可破解的加密形式而获得了今年的图灵奖."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuelans in Miami and Caracas celebrate historic WBC victory over USA",
+      "title_zh": "在迈阿密和加拉加斯的委内瑞拉人庆祝历史上WBC战胜美国",
+      "link": "https://www.bbc.com/news/videos/c3wlw788glvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T14:40:06+00:00",
+      "summary": "Venezuelans around the world are celebrating a historic baseball victory after Venezuela captured its first-ever World Baseball Classic title.",
+      "summary_zh": "委内瑞拉夺得首个世界棒球经典称号后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hittler faces Zielinski as French town's election contest goes viral",
+      "title_zh": "希特勒面对齐林斯基,法国的选手选手选手选手选手",
+      "link": "https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T13:57:26+00:00",
+      "summary": "A small French town has won instant internet fame because its mayor – running for re-election in Sunday's municipal elections – goes by the name of Hittler.",
+      "summary_zh": "法国一个小镇赢得了即时互联网的名声, 因为它的市长在星期天的市政选举中竞选连任,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Norway prosecutor asks for seven years' jail for crown princess's son in rape trial",
+      "title_zh": "挪威检察官在强奸案中要求王后的儿子入狱七年",
+      "link": "https://www.bbc.com/news/articles/c74741pgleko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T12:44:12+00:00",
+      "summary": "Prosecutors in the trial of Marius Borg Høiby, son of Norwegian Crown Princess Mette-Marit, have requested a jail term of seven years and seven months, arguing he should be found guilty of 39 of the 40 charges he is accused of.",
+      "summary_zh": "审理挪威王室公主Mette-Marit之子Marius Borg Høiby一案的检察官要求判处他七年零七个月的监禁,认为他被指控的40项指控中有39项有罪。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US judge orders Trump administration to reopen Voice of America",
+      "title_zh": "美国法官命令特朗普政府重新开放美国之音",
+      "link": "https://www.bbc.com/news/articles/ce3g3j1y2ldo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T11:01:43+00:00",
+      "summary": "A judge in the US has ruled that the effective closure of the Voice of America (VOA) last year was \"illegal\" and that hundreds of its journalists should be reinstated.",
+      "summary_zh": "美国的一位法官裁定,美国之音(VOA)去年的实际关闭是\"非法\"的,应该恢复其数百名记者."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Will the Iran war squeeze India's piped gas next?",
+      "title_zh": "伊朗战争会挤压印度的管状气体吗?",
+      "link": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T05:45:58+00:00",
+      "summary": "The Iran war has already rattled India's liquefied petroleum gas (LPG) market.",
+      "summary_zh": "伊朗战争已经扰乱了印度液化石油气市场。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+      "title_zh": "阿里·拉里贾尼之死加深了伊朗领导层的危机",
+      "link": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T04:36:46+00:00",
+      "summary": "The Israeli air strike which killed Iran's security chief, Ali Larijani, has removed one of the Islamic Republic's most experienced and influential policymakers at a critical moment.",
+      "summary_zh": "以色列空袭造成伊朗安全主管阿里·拉里贾尼丧生,"
     },
     {
       "source": "BBC News",
@@ -39,69 +279,39 @@
       "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
       "title_zh": "美国反恐高层官员因伊朗战争辞职,敦促特朗普\"逆向\".",
       "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T21:48:08+00:00",
+      "published_at": "2026-03-18T02:12:16+00:00",
       "summary": "Donald Trump's top counterterrorism official has resigned over the war in Iran, urging the president to \"reverse course\".",
       "summary_zh": "唐纳德·特朗普的顶级反恐官员因伊朗战争而辞职,敦促总统\"逆行\"."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 “NATOや日本など同盟国の支援は必要ない”",
-      "title_zh": "川普总统“不需要支持北约和日本等盟国”",
-      "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078321000.html",
-      "published_at": "2026-03-17T21:47:13+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NY原油 WTI先物価格が高止まり イラン情勢のエスカレート懸念",
-      "title_zh": "纽约原油WTI期货价格高,伊朗的上涨关切",
-      "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078331000.html",
-      "published_at": "2026-03-17T21:29:54+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "辺野古沖 2人死亡事故 救助された船長「前を進む船が転覆」",
-      "title_zh": "Koki Yokono 二人死亡事故救援船长“船只前进翻船”",
-      "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078311000.html",
-      "published_at": "2026-03-17T20:26:41+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "高市首相 19日に日米首脳会談 イラン情勢への対応も焦点に",
-      "title_zh": "高一首相19日美日峰会",
-      "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078211000.html",
-      "published_at": "2026-03-17T20:23:36+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "新年度予算案 与党側は年度内成立目指す姿勢 野党側はけん制",
-      "title_zh": "新年预算到年底",
-      "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078221000.html",
-      "published_at": "2026-03-17T20:17:19+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India's cheap weight-loss drugs could reshape global obesity fight",
+      "title_zh": "印度廉价减重药可以重塑全球肥胖症斗争",
+      "link": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T00:30:49+00:00",
+      "summary": "India could soon get a lot thinner - at least in theory.",
+      "summary_zh": "印度很快会变薄 至少理论上是这样"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
-      "title_zh": "幸存者告诉英国广播公司,",
-      "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T18:45:54+00:00",
-      "summary": "Rescue teams are continuing to pull bodies from the smoking rubble of a drug rehabilitation centre in the Afghan capital, Kabul, which was hit on Monday night in a devastating Pakistani air strike.",
-      "summary_zh": "救援队继续从阿富汗首都喀布尔一个毒品康复中心的废墟上取出尸体,该康复中心星期一晚上在巴基斯坦的一次毁灭性空袭中被击中."
+      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+      "title_zh": "彻底镇压和空袭给伊朗人带来无情的恐惧",
+      "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-18T00:07:36+00:00",
+      "summary": "A woman stands on a rooftop listening to the sounds of the city below. There is only the dull hum of traffic tonight. But she knows how easily that can change. It is usually the dogs who notice the sound first and begin to bark furiously. The noise of aircraft. Then the ominous percussion of explosions. A ball of orange rising from an airstrike in a familiar neighbourhood.",
+      "summary_zh": "有个女人站在屋顶上 听下面的城市的声音 今晚的交通很乏味 但她知道这很容易改变 通常都是狗先注意到声音 开始狂叫 飞机的噪音。 然后爆炸的不祥打击。 一枚橙色球从一个熟悉的街区的空袭中升起"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
+      "title_zh": "意大利警告俄罗斯油轮随时可能在地中海爆炸",
+      "link": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T19:21:00+00:00",
+      "summary": "A sanctioned Russian tanker loaded with liquid natural gas is drifting out of control in the Mediterranean with no crew on board and a gaping hole in one side, prompting warnings of a \"serious risk of a major ecological disaster\".",
+      "summary_zh": "一艘装有液态天然气的受制裁俄罗斯油轮正在地中海漂流出失控地,船上没有船员,一面有裂口,引发了\"重大生态灾难严重风险\"的警告."
     },
     {
       "source": "BBC News",
@@ -116,212 +326,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
-      "title_zh": "被指责为俄罗斯在乌克兰的罢工,",
-      "link": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T16:10:06+00:00",
-      "summary": "An oil spill which has been blamed on a Russian attack in Ukraine has polluted a major river in Moldova, prompting authorities to cut water supplies to the northern city of Balti.",
-      "summary_zh": "被指责为俄罗斯袭击乌克兰的一起漏油事件污染了摩尔多瓦的一条主要河流,促使当局切断了向北部城市巴尔蒂的供水。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Chile's president begins building border barrier less than week into term",
-      "title_zh": "智利总统开始在不到一周的时间内修建边境屏障",
-      "link": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T15:49:46+00:00",
-      "summary": "Chile's new president has begun work on a border barrier just five days after being sworn into office.",
-      "summary_zh": "智利新总统宣誓就职五天后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Belgian court clears way for trial over 1961 killing of Congo PM Lumumba",
-      "title_zh": "比利时法院为审判1961年杀害刚果总理卢蒙巴案扫清了道路",
-      "link": "https://www.bbc.com/news/articles/czd899vn6e9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T15:06:47+00:00",
-      "summary": "A Belgian court has ruled that a former diplomat can stand trial in connection with the killing in 1961 of Patrice Lumumba, Congo's first prime minister.",
-      "summary_zh": "一个比利时法院裁定,一名前外交官可以因1961年刚果第一任总理帕特里斯·卢蒙巴被害而受审。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Aspiring female Zambian politicians were asked for sexual favours, official says",
-      "title_zh": "赞比亚女性政治人物要求性恩惠,",
-      "link": "https://www.bbc.com/news/articles/cm28ldvj3jvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T13:31:08+00:00",
-      "summary": "A senior Zambian government official has said that some political parties were asking prospective female candidates for sexual favours in exchange for selection ahead of August's general election.",
-      "summary_zh": "一名赞比亚政府高级官员说,一些政党正在要求未来的女性候选人获得性好处,以换取在8月大选之前的选拔。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US west coast prepares for 'dangerous' heatwave in early spring",
-      "title_zh": "美国西海岸准备了\"危险\"的热波 早春",
-      "link": "https://www.bbc.com/news/articles/cwy80zk8d8xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T13:26:03+00:00",
-      "summary": "A significant and unusually early heatwave is building across the south-western US this week, bringing temperatures more typical of early summer than mid-March.",
-      "summary_zh": "本周,美国西南部正在形成一个显著和不寻常的早期热浪,使温度比三月中旬的初夏更为典型。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
-      "title_zh": "巴基斯坦空袭造成喀布尔戒毒中心的至少100人死亡",
-      "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T12:38:49+00:00",
-      "summary": "More than 100 people have been killed in a Pakistani air strike on a drug treatment centre in Afghanistan's capital, forensic laboratory sources told the BBC.",
-      "summary_zh": "法医学实验室人士告诉英国广播公司,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump seeks to delay meeting with Xi in China",
-      "title_zh": "特朗普试图拖延与习近平在中国的会面",
-      "link": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T10:33:49+00:00",
-      "summary": "US President Donald Trump said on Monday that he is planning to delay a high stakes visit to China later in March by about a month because of the Iran war.",
-      "summary_zh": "美国总统唐纳德·特朗普星期一表示,由于伊朗战争,他计划在3月下旬推迟对中国的高度关注访问约一个月."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
-      "title_zh": "燃气上线:伊朗战争下一步会挤压印度的管状气体吗?.",
-      "link": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T06:47:42+00:00",
-      "summary": "The Iran war has already rattled India's liquefied petroleum gas (LPG) market.",
-      "summary_zh": "伊朗战争已经扰乱了印度液化石油气市场。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why did only two Iranian football players stay in Australia?",
       "title_zh": "为什么只有两名伊朗足球运动员留在澳大利亚?",
       "link": "https://www.bbc.com/news/videos/czd8921rljpo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-17T05:22:11+00:00",
       "summary": "After Australia granted seven Iranian football players humanitarian visas to stay in the country, only two have decided to stay.",
       "summary_zh": "澳大利亚授予7名伊朗足球运动员人道主义签证留在该国后,只有两人决定留下来."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
-      "title_zh": "汉堡去... 迈克尔·B·乔丹(Michael B Jordan)在入选N出赛时打入了奥斯卡奖",
-      "link": "https://www.bbc.com/news/articles/cpd8w5y0dpdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T04:41:58+00:00",
-      "summary": "After he was handed a statuette for best actor at the Academy Awards, Michael B Jordan received another golden prize - a cheeseburger.",
-      "summary_zh": "在他被授予学院奖最佳演员雕像后,迈克尔·B·乔丹又得到一等金奖-起司汉堡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sri Lanka declares Wednesdays off as Asian countries try to conserve fuel",
-      "title_zh": "斯里兰卡宣布周三结束,",
-      "link": "https://www.bbc.com/news/articles/c4g5n58rlnzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T04:17:14+00:00",
-      "summary": "Sri Lanka has declared every Wednesday a holiday for public institutions to conserve fuel as the island nation grapples with possible shortages in the wake of the US and Israel's war with Iran.",
-      "summary_zh": "斯里兰卡宣布每个星期三为公共机构节假日,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia",
-      "title_zh": "特朗普说总统们不应该有学习障碍,",
-      "link": "https://www.bbc.com/news/articles/c4gjnwmm984o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T02:04:48+00:00",
-      "summary": "Donald Trump has said he believes people with learning disabilities should not be president, as he renewed his taunts at California Governor Gavin Newsom over his dyslexia.",
-      "summary_zh": "唐纳德·特朗普(Donald Trump)表示,他相信有学习障碍的人不应该成为总统,因为他在加州州长加文·尼诺森(Gavin Newsom)重温了对自己的阅读障碍的嘲弄."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Utah mother who wrote book about grief found guilty of poisoning husband",
-      "title_zh": "犹他母亲写了一本关于悲伤的书 发现丈夫中毒是有罪的",
-      "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T01:14:04+00:00",
-      "summary": "A mother who published a children's book about grief after the sudden death of her husband has been found guilty of his murder.",
-      "summary_zh": "一名母亲在丈夫突然去世后出版了一本关于悲伤的童书,被认定谋杀他."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Surge in US gas prices deepens political peril for Trump over Iran",
-      "title_zh": "美国天然气价格的暴涨加深了特朗普对伊朗的政治危险",
-      "link": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T00:24:01+00:00",
-      "summary": "In the third week of the joint US-Israeli war against Iran, Donald Trump faces decisions that could define the rest of his presidency.",
-      "summary_zh": "在美以联合对伊朗开战的第三周,唐纳德·特朗普面临决定,可以确定他剩下的总统任期."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
-      "title_zh": "\"火从天而降并烧了他们\" 南苏丹内战边缘的生命",
-      "link": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-17T00:08:56+00:00",
-      "summary": "Thousands of people have been fleeing the South Sudanese town of Akobo and surrounding parts of Jonglei state, where the army says it has intensified strikes on its enemies to regain control.",
-      "summary_zh": "数以千计的人逃离了南苏丹Akobo镇和琼格莱州附近地区,军队称他们加强了对敌人的打击以重新控制."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Reunion resident gets close to lava from erupting volcano",
-      "title_zh": "观察:居民在火山喷发后接近熔岩",
-      "link": "https://www.bbc.com/news/videos/c23zj1e0lxmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-16T20:39:01+00:00",
-      "summary": "Tourists and locals have been gathered on the Reunion Island to see lava flowing from a volcano that has been erupting for over a month.",
-      "summary_zh": "游客和当地人在留尼汪岛上聚集一堂,看到熔岩从已经爆发了一多月的火山中流出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car",
-      "title_zh": "\"我妈妈最后一次喊道:\" 巴勒斯坦男孩,12岁,描述以色列部队如何用汽车杀害他的家人",
-      "link": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-16T17:57:45+00:00",
-      "summary": "Warning - this article contains a graphic description of a shooting.",
-      "summary_zh": "警告 - 本文章包含射击的图形描述."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
-      "title_zh": "警惕盟友显示川普的伊朗危机没有捷径",
-      "link": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-16T17:34:13+00:00",
-      "summary": "Throughout his two terms in office, US President Donald Trump has not been shy to criticise – even to attack – Washington's Nato allies.",
-      "summary_zh": "在两届任期内,美国总统唐纳德·特朗普一直毫不害羞地批评甚至攻击华盛顿的纳托盟友."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mexico City breaks Guinness Record with giant football training session",
-      "title_zh": "墨西哥城打破吉尼斯纪录 与巨型足球训练课程",
-      "link": "https://www.bbc.com/news/videos/cy7jrymgpjyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-16T17:23:27+00:00",
-      "summary": "A sea of people took over Mexico City's Zocalo square on Sunday, breaking the Guinness World Records for largest football lesson.",
-      "summary_zh": "一波人海星期天攻克墨西哥城的佐卡洛广场,打破了\"吉尼斯世界纪录\"以获得最大足球课."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
-      "title_zh": "德黑兰居民告诉英国广播公司,",
-      "link": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-16T04:43:43+00:00",
-      "summary": "Iran is taking steps to prevent anti-establishment protests, with checkpoints appearing across the streets of the capital, internet access restricted, and mass text warnings sent to residents.",
-      "summary_zh": "伊朗正采取措施防止反政府抗议活动, 首都街对面设有检查站,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Historic firsts, emotional speeches, and a tie: Watch the top Oscars moments",
-      "title_zh": "历史第一,情感演说,并打平了:看好最顶尖的奥斯卡瞬间",
-      "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-16T03:15:43+00:00",
-      "summary": "The 2026 Oscars featured surprise wins, emotional speeches and some comical moments as stars gathered for Hollywood's biggest night.",
-      "summary_zh": "2026年的奥斯卡颁奖典礼以惊喜取胜,情感演说和一些滑稽的瞬间为主角聚集一堂,迎接好莱坞最大的夜晚."
     }
   ]
 }
