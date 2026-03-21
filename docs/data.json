@@ -1,57 +1,237 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-20T22:49:02+00:00",
-  "count": 37,
+  "generated_at": "2026-03-21T22:43:18+00:00",
+  "count": 40,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "トランプ政権 中東で作戦強化か イランは国民に結束呼びかけ",
-      "title_zh": "川普政府加强中东或伊朗的行动,",
-      "link": "http://www3.nhk.or.jp/news/html/20260321/k10015080621000.html",
-      "published_at": "2026-03-20T22:44:15+00:00",
+      "title": "イラン 核開発拠点あるとされるイスラエル南部を攻撃 応酬続く",
+      "title_zh": "伊朗用核开发中心袭击南以色列",
+      "link": "http://www3.nhk.or.jp/news/html/20260322/k10015081151000.html",
+      "published_at": "2026-03-21T22:25:22+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
+      "title": "Trump administration at crossroads in US-Israel war with Iran",
+      "title_zh": "在美以战争与伊朗交汇处的特朗普政府",
+      "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T22:12:04+00:00",
+      "summary": "Three weeks after the joint US-Israeli war against Iran began, the conflict has reached a fuzzy state of mixed messages and uncertainty, with Donald Trump's public comments often seemingly contradicted by realities on the ground.",
+      "summary_zh": "美以联合对伊朗开战三周后,冲突已发展到信息混杂和不确定的模糊状态,唐纳德·特朗普的公开评论往往似乎与当地现实相矛盾."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "群馬 上野村 山林火災 延焼の範囲拡大 住民に避難呼びかけ",
+      "title_zh": "Gunma Ueno村 山林大火 扩大向居民疏散作战人员的范围",
+      "link": "http://www3.nhk.or.jp/news/html/20260322/k10015081171000.html",
+      "published_at": "2026-03-21T22:10:28+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+      "title_zh": "成千上万人撤离 夏威夷面临20年来最严重的洪灾",
+      "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T22:01:45+00:00",
+      "summary": "Hawaii remains under a statewide flood watch after a severe storm hit the state and prompted officials to order evacuations.",
+      "summary_zh": "夏威夷州在遭受了一场严重的风暴袭击后仍然处于全州的洪水监视下,并促使官员下令撤离."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "BTS活動再開 ソウルで無料ライブ 会場周辺は厳重な警戒態勢",
+      "title_zh": "BTS活动在首尔恢复免费生活",
+      "link": "http://www3.nhk.or.jp/news/html/20260322/k10015081141000.html",
+      "published_at": "2026-03-21T21:36:44+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“ロシアが交換条件の提案 アメリカは拒否” 政治専門サイト",
+      "title_zh": "“俄罗斯关于美国交易所条件的建议”。",
+      "link": "http://www3.nhk.or.jp/news/html/20260322/k10015081161000.html",
+      "published_at": "2026-03-21T21:01:53+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump threatens to send ICE into airports unless funding deal reached",
+      "title_zh": "特朗普威胁要把ICE送入机场 除非资金交易达成",
+      "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T20:22:10+00:00",
+      "summary": "US President Donald Trump has threatened to send agents from Immigration and Customs Enforcement (ICE) to provide security at airports, unless a deal is reached to fund the Department of Homeland Security (DHS).",
+      "summary_zh": "美国总统唐纳德·特朗普已威胁说,除非达成协议,为国土安全部(DHS)提供资金,否则会派移民和海关执法局(ICE)的特工到机场提供安保."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "新年度予算案 与党側 暫定予算案の扱いも含め政府と協議へ",
+      "title_zh": "新年预算规划和政党与政府的协商,包括临时预算计划",
+      "link": "http://www3.nhk.or.jp/news/html/20260322/k10015081111000.html",
+      "published_at": "2026-03-21T20:13:56+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "北朝鮮 きょう最高人民会議を開催",
+      "title_zh": "朝鲜主办最佳人民会议",
+      "link": "http://www3.nhk.or.jp/news/html/20260322/k10015081121000.html",
+      "published_at": "2026-03-21T20:12:56+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+      "title_zh": "俄罗斯无人机袭击在乌克兰 在美国谈判前杀死两人 官员说",
+      "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T19:39:57+00:00",
+      "summary": "Two people were killed in a Russian drone attack on a home in the Ukrainian city of Zaporizhzhia, local authorities say.",
+      "summary_zh": "俄无人机袭击乌克兰城市扎波里日亚一户人家后有两人被炸死,当地政府称."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pentagon restrictions on press violate First Amendment, judge rules",
+      "title_zh": "五角大楼对新闻的限制 违反了第一修正案 法官规则",
+      "link": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T16:11:58+00:00",
+      "summary": "A federal judge has blocked the Department of Defense's policy on how journalists access the Pentagon, finding that it violates the First and Fifth Amendments of the US Constitution.",
+      "summary_zh": "一名联邦法官封锁了国防部关于记者如何进入五角大楼的政策,认为这违反了\"美国宪法\"第一和第五修正案."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "BTS make live return in front of huge crowd",
+      "title_zh": "BTS在人群面前现场直播",
+      "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T13:24:34+00:00",
+      "summary": "Fans poured into the historic heart of South Korea's capital for the return of the world's most successful band in recent years, BTS.",
+      "summary_zh": "粉丝们倒入了韩国首都的历史心脏,为的是近年来世界最成功的乐队\"BTS\"的回归."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54",
+      "title_zh": "吸血鬼猎人演员Buffy Nicholas Brendon去世54岁",
+      "link": "https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T11:26:16+00:00",
+      "summary": "US actor Nicholas Brendon, renowned for his starring role in the cult TV series Buffy the Vampire Slayer, has died aged 54.",
+      "summary_zh": "美国演员尼古拉斯·布伦登(Nicholas Brendon)以出演邪教电视连续剧\"吸血鬼屠夫\"(Buffy the Vampire Slayer)而出名,已逝世,享年54岁."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "静岡 山間部で県道脇の斜面崩れ 少なくとも79人が下山できず",
+      "title_zh": "在静冈山地区,至少有79人不能下山",
+      "link": "http://www3.nhk.or.jp/news/html/20260321/k10015081041000.html",
+      "published_at": "2026-03-21T10:06:03+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'BTS is everything for us': K-pop fans gather in Seoul for comeback show",
+      "title_zh": "\"BTS是我们的一切\":K-pop粉丝聚集到首尔参加回想节目.",
+      "link": "https://www.bbc.com/news/videos/c9wqklg2rexo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T09:34:53+00:00",
+      "summary": "Some 260,000 fans are expected to watch K-pop stars BTS perform together on Saturday for the first time since October 2022, in the historic heart of South Korea's capital.",
+      "summary_zh": "约26万名粉丝预计会观看K-pop明星 BTS自2022年10月以来于周六首次在韩国首都历史中心共同出道."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Thick smoke billows from South Korea car parts plant in deadly fire",
+      "title_zh": "注意:来自韩国的烟雾烟雾在致命火力中燃烧",
+      "link": "https://www.bbc.com/news/videos/c87wg74wlgyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T05:49:15+00:00",
+      "summary": "South Korean authorities say 11 people were killed when a huge fire engulfed a car parts plant in the central city of Daejeon. Three others are still missing and 59 were injured.",
+      "summary_zh": "韩国当局称,大田市中心城区一汽车零部件厂被大火吞没后有11人被炸死. 另有3人仍然失踪,59人受伤."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia's school propaganda was highlighted by Oscar-winning film - but does it work?",
+      "title_zh": "俄罗斯的学校宣传被奥斯卡获奖影片所强调——但效果如何?",
+      "link": "https://www.bbc.com/news/articles/c7vq5g64y98o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T01:05:03+00:00",
+      "summary": "When her seven-year-old daughter was told to learn a poem about Russia's \"glorious army\" for a school event, Nina from Moscow thought it was too much.",
+      "summary_zh": "当她七岁的女儿被告知要学习一首关于俄罗斯\"光荣的军队\"的诗来参加学校活动时,莫斯科的尼娜认为这太过分了."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Socialists battle to hold Paris in key mayoral elections across France",
+      "title_zh": "社会主义者在法国全国重要的市长选举中为举行巴黎而战",
+      "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T01:03:36+00:00",
+      "summary": "Mayors for France's major towns and cities will be chosen on Sunday, in the last vote before next year's presidential elections.",
+      "summary_zh": "法国主要城镇的市长将在星期天选出,在明年总统选举前的最后一次投票中选出."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Remember Chuck Norris memes but never watched his films? You're not alone",
+      "title_zh": "还记得Chuck Norris梅姆斯,但从来没有看他的电影? 你不孤单",
+      "link": "https://www.bbc.com/news/articles/c62541e29z9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T01:03:01+00:00",
+      "summary": "Chuck Norris will always be remembered for his iconic film and television performances, such as a crime-fighting sheriff in Walker, Texas Ranger. But many young people only know the late actor for his starring role in thousands of memes.",
+      "summary_zh": "查克·诺里斯将永远被铭记为他的标志性电影和电视表演,比如德克萨斯州游骑兵沃克的一位打击犯罪的警长. 但许多年轻人只知道已故演员在上千个memes中主演的角色."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The fight to control the narrative in the Afghan-Pakistan conflict",
+      "title_zh": "控制阿富汗-巴基斯坦冲突中的叙述的斗争",
+      "link": "https://www.bbc.com/news/articles/c5yxkj8gnr2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-21T00:25:07+00:00",
+      "summary": "Monday's air strike on Kabul resulted in the highest number of casualties seen since hostilities began again in February.",
+      "summary_zh": "星期一对喀布尔的空袭造成自2月敌对行动再次开始以来伤亡人数最多。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Elon Musk misled Twitter investors, jury finds",
+      "title_zh": "Elon Musk误导了推特投资者 陪审团认为",
+      "link": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-20T23:44:09+00:00",
+      "summary": "Elon Musk was misleading in his public statements during a crucial period of his 2022 Twitter takeover, a jury has found.",
+      "summary_zh": "Elon Musk在2022年推特收购的关键时期发表公开声明时,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
       "title": "As Islamophobia rises, Australia's Muslims celebrate Eid",
-      "title_zh": "随着仇视伊斯兰教情绪的上升,澳大利亚的穆斯林庆祝节日",
+      "title_zh": "随着仇视伊斯兰教情绪的上升,澳大利亚的穆斯林庆祝开斋节",
       "link": "https://www.bbc.com/news/articles/cr410ezy312o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T22:36:13+00:00",
       "summary": "As sunset approached in the south-western Sydney suburb of Lakemba last week, the street outside the Imam Ali bin Abi Taleb Mosque filled with thousands of people - most of whom found a seat at one of many trestle tables covered with white table cloths.",
-      "summary_zh": "上星期在西南悉尼郊区Lakemba, Imam Ali bin Abi Taleb清真寺外的街道上, 挤满数千人,"
+      "summary_zh": "随着上星期西南悉尼郊区莱克姆巴的日落临近,伊玛目阿里·本·阿比·塔莱布清真寺外的街道上挤满了上千人,其中大部分人在被白桌布覆盖的许多摇摆的桌子上找到了一席之地."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "福井 坂井 防波堤で海に転落 ベトナム国籍の4人行方不明",
-      "title_zh": "4名越南籍人士",
-      "link": "http://www3.nhk.or.jp/news/html/20260321/k10015080741000.html",
-      "published_at": "2026-03-20T22:33:11+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "“高速制限速度10キロ引き下げ” 石油消費抑える対策提言 IEA",
-      "title_zh": "“高速限制速度下行10公里”",
-      "link": "http://www3.nhk.or.jp/news/html/20260321/k10015080711000.html",
-      "published_at": "2026-03-20T20:37:36+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン情勢緊迫化 関西の地方銀行で相談窓口設置の動き",
-      "title_zh": "伊朗在关西地区银行的咨询处",
-      "link": "http://www3.nhk.or.jp/news/html/20260321/k10015080591000.html",
-      "published_at": "2026-03-20T20:32:10+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+      "title_zh": "伊朗对美国基地的袭击造成8亿美元的损失,新的分析显示",
+      "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-20T22:34:05+00:00",
+      "summary": "Iranian strikes on military bases used by the US in the Middle East caused about $800m (£600m) in damage in the first two weeks of the war, a new analysis shows.",
+      "summary_zh": "伊朗对美国在中东使用的军事基地的袭击在战争前两周造成了约8亿美元(6亿英镑)的破坏,新的分析显示."
     },
     {
       "source": "BBC News",
@@ -64,44 +244,14 @@
       "summary_zh": "匈牙利和斯洛伐克对乌克兰的激烈争端, 牵制着欧盟对乌克兰的重要贷款,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "三重 新名神6人死亡事故 トラック運転手の勤務状況など調べる",
-      "title_zh": "Mie 6 新梅申死亡事故 检查卡车司机的工作状况",
-      "link": "http://www3.nhk.or.jp/news/html/20260321/k10015080601000.html",
-      "published_at": "2026-03-20T20:09:54+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "富士山の大量降灰想定 鉄道の計画運休など具体策検討へ",
-      "title_zh": "假设富士山大量灰烬 考虑采取具体措施,例如暂停铁路计划",
-      "link": "http://www3.nhk.or.jp/news/html/20260321/k10015080551000.html",
-      "published_at": "2026-03-20T20:04:15+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "違法動画で広告費32億円ほど流出か 民放連の実態調査",
-      "title_zh": "民联实际情况调查.",
-      "link": "http://www3.nhk.or.jp/news/html/20260321/k10015080531000.html",
-      "published_at": "2026-03-20T19:55:07+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
-      "title_zh": "纳萨的阿耳忒弥斯月球火箭回滚 准备4月发射",
+      "title_zh": "纳萨的阿耳忒弥斯月球火箭卷回地上 准备4月发射",
       "link": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T16:32:43+00:00",
       "summary": "Nasa's giant Moon rocket has returned to its launch pad for a second time, ahead of a mission to send astronauts around the Moon – something not attempted in more than 50 years.",
-      "summary_zh": "纳萨的巨型月球火箭已第二次返回其发射台,领先于派遣宇航员绕月球的任务——50多年没有尝试过."
+      "summary_zh": "纳萨所发射的巨型\"月球\"火箭已经第二次回到了它的发射台上,领先于派遣宇航员环绕月球的任务——这是50多年以来没有尝试过的."
     },
     {
       "source": "BBC News",
@@ -111,57 +261,27 @@
       "link": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T16:02:50+00:00",
       "summary": "Israel says it has carried out air strikes on Syrian government infrastructure in the south of the country, in response to what it described as attacks on Druze civilians in Suweida province.",
-      "summary_zh": "以色列说,它对该国南部的叙利亚政府基础设施进行了空袭,以回应它所说的对苏韦达省德鲁兹平民的袭击."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Publisher cancels horror novel's release over AI claims",
-      "title_zh": "出版商取消了恐怖小说在AI的宣称上的发行",
-      "link": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-20T15:30:58+00:00",
-      "summary": "The US release of a horror novel has been cancelled by its publisher over concerns that AI was used to help write it.",
-      "summary_zh": "美国发行恐怖小说被其出版商取消,因为担心AI被用来帮助写作."
+      "summary_zh": "以色列说,它对该国南部的叙利亚政府基础设施进行了空袭,以回应它所描述的对苏韦达省德鲁兹平民的袭击."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
-      "title_zh": "挪威王冠公主打破沉默,声称自己被爱泼斯坦\"操纵和欺骗\".",
+      "title_zh": "挪威的王后公主打破了沉默,声称自己被爱泼斯坦\"操纵并欺骗\"了.",
       "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T15:30:28+00:00",
       "summary": "Norway's Crown Princess Mette-Marit has told national TV that she wishes she had never met late US sex offender Jeffrey Epstein, breaking seven weeks of silence after the extent of her contacts with him emerged.",
-      "summary_zh": "挪威的王冠公主Mette-Marit告诉国家电视台,她希望自己从未见过美国晚期性罪犯Jeffrey Epstein,在她与他接触的程度出现后打破了7周的沉默."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Leading anti‑racism activist in Tunisia jailed for eight years",
-      "title_zh": "突尼斯主要反种族主义活动分子被监禁八年",
-      "link": "https://www.bbc.com/news/articles/clyjg1x7r43o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-20T13:17:56+00:00",
-      "summary": "A Tunisian court has sentenced human rights activist Saadia Mosbah to eight years in prison and fined her £26,000 ($35,000).",
-      "summary_zh": "突尼斯一家法院判处人权活动家Saadia Mosbah8年监禁,并罚款26 000英镑(35 000美元)。"
+      "summary_zh": "挪威的王冠公主Mette-Marit告诉国家电视台,她希望自己从未见过美国后期的性罪犯Jeffrey Epstein,在她与他接触的程度出现后打破了七个星期的沉默."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "I didn't know Epstein was a predator - Norway's crown princess",
-      "title_zh": "我不知道爱泼斯坦是食肉动物 挪威的王妃",
+      "title_zh": "我不知道爱泼斯坦是食肉动物 挪威王后公主",
       "link": "https://www.bbc.com/news/videos/c78l5x0zl0wo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T12:38:01+00:00",
       "summary": "Norway's Crown Princess Mette-Marit has told the country's national broadcaster that she wishes she had never met late US sex offender Jeffrey Epstein, breaking seven weeks of silence after the extent of her contact with him emerged.",
-      "summary_zh": "挪威的王冠公主Mette-Marit告诉该国全国广播公司,她希望自己从未见过美国晚期的性罪犯Jeffrey Epstein,在她与他接触的程度出现后打破了七个星期的沉默."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mexican teen dies while being held in US immigration custody",
-      "title_zh": "墨西哥青少年在美国移民拘留期间死亡",
-      "link": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-20T10:57:38+00:00",
-      "summary": "A 19-year-old Mexican man has died while being held in detention by US Immigration and Customs Enforcement (ICE), the agency has confirmed.",
-      "summary_zh": "一名19岁的墨西哥男子在被美国移民和海关执法局拘留期间死亡。"
+      "summary_zh": "挪威的王冠公主Mette-Marit告诉了该国的国家广播公司,她希望自己从未遇到过美国后期的性罪犯Jeffrey Epstein,在她与他接触的程度出现后打破了七个星期的沉默."
     },
     {
       "source": "BBC News",
@@ -171,17 +291,7 @@
       "link": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T09:55:19+00:00",
       "summary": "A key moment of Japanese Prime Minister Sanae Takaichi's official visit to the US was President Donald Trump's comment on a piece of shared history - Pearl Harbor.",
-      "summary_zh": "日本首相萨纳·高一正式访问美国的关键时刻是唐纳德·特朗普总统对分享历史的一段评论——珍珠港."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BTS return from military service - but does their album live up to the hype?",
-      "title_zh": "BTS从兵役中回归——但他们的专辑是否活在杂耍中?.",
-      "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-20T04:04:50+00:00",
-      "summary": "The return of BTS is a big deal.",
-      "summary_zh": "BTS的回归是一个大问题."
+      "summary_zh": "日本首相高一之一正式出访美国的关键时刻是唐纳德·特朗普总统对分享历史的一段评论-珍珠港."
     },
     {
       "source": "BBC News",
@@ -196,32 +306,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-      "title_zh": "班尼特的新赛季在泰勒·弗兰基·保罗虐待指控后拉开帷幕",
-      "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-20T01:41:58+00:00",
-      "summary": "The new season of dating show The Bachelorette has been cancelled following domestic violence allegations against this season's star, ABC has said.",
-      "summary_zh": "新赛季的约会节目\"Blancette\"在对本赛季的明星ABC提出家庭暴力指控后被取消."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Several injured as turbulence hits Delta flight into Sydney",
-      "title_zh": "三角洲飞往悉尼的飞机 遭遇暴风雨受伤",
-      "link": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-20T01:26:01+00:00",
-      "summary": "Several people have been injured after a Delta Airlines flight from Los Angeles to Sydney was hit by turbulence on Friday morning.",
-      "summary_zh": "一架从洛杉矶飞往悉尼的三角洲航空航班在星期五上午受到动荡袭击,导致数人受伤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
-      "title_zh": "伊朗战争造成的天然气短缺可能把印度推回更肮脏的燃料。",
+      "title_zh": "伊朗战争造成的天然气短缺可能把印度推回更肮脏的燃料",
       "link": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T00:59:29+00:00",
       "summary": "Shipping disruptions from the US-Israel war with Iran have squeezed gas supplies to India, risking a temporary shift back to polluting fuels like coal, kerosene and biomass, experts say.",
-      "summary_zh": "与伊朗的美国-以色列战争导致航运中断, 挤压了印度的天然气供应,"
+      "summary_zh": "来自美以战争与伊朗的航运中断, 挤压了印度的天然气供应,"
     },
     {
       "source": "BBC News",
@@ -231,97 +321,47 @@
       "link": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T00:08:53+00:00",
       "summary": "From soaring heating oil bills for homes in Yorkshire to bill-saving school closures in Pakistan, the financial fallout from the war in the Middle East is already being keenly felt.",
-      "summary_zh": "从约克郡的房屋加热油账单飞涨到巴基斯坦的学校停课,中东战争带来的财政影响已经非常明显。"
+      "summary_zh": "从约克郡的房屋加热油费激增到巴基斯坦的学校停课,中东战争带来的财政后果已经十分深刻地感受到。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Desperate for food, drought-stricken Kenyans turn to the gingerbread tree",
-      "title_zh": "渴望食物,饱受旱灾的肯尼亚人转向姜饼树",
+      "title_zh": "渴望食物 旱灾的肯尼亚人转向干姜面包树",
       "link": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T00:06:24+00:00",
       "summary": "Lotkoy Ebey has just five scrawny goats to her name where she once had 50.",
-      "summary_zh": "洛特科伊·埃贝伊只有五只瘦山羊 她的名字曾经有50只"
+      "summary_zh": "洛特科伊·埃比只有五只瘦羊叫她的名字 她曾经有50只"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
-      "title_zh": "近百艘船通过霍尔木兹海峡 谁要通过?",
+      "title_zh": "近百艘船通过霍尔穆兹海峡 谁要通过?",
       "link": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T00:04:57+00:00",
       "summary": "Just under 100 ships have passed through the Strait of Hormuz since the start of March, according to data analysed by BBC Verify, despite periodic attacks on shipping in the area by Iranian forces.",
-      "summary_zh": "根据英国广播公司核查分析的数据,自3月初以来,尽管伊朗部队定期对该地区航运进行攻击,但有将近100艘船只经过霍尔木兹海峡。"
+      "summary_zh": "根据英国广播公司核查分析的数据,自3月初以来,尽管伊朗部队定期攻击该地区航运,但有将近100艘船只经过霍尔木兹海峡。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes",
-      "title_zh": "'空中闻不到诺鲁孜': 伊朗是面临打击威胁的新年",
+      "title_zh": "\"你闻不到空气中的诺鲁兹\": 伊朗是面临打击威胁的波斯新年",
       "link": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-20T00:04:34+00:00",
       "summary": "Names of contributors have been changed for safety reasons.",
-      "summary_zh": "出于安全原因,捐款者姓名已更改。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why the UK Labour party's Brexit focus has shifted from Leavers to Remainers",
-      "title_zh": "为什么英国工党的Brexit重点 已经从离开者转移到留下者",
-      "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-20T00:01:51+00:00",
-      "summary": "\"Brexit did deep damage.\" With those words at her Mais lecture on Tuesday, Chancellor Rachel Reeves made it clear that there has been an important shift within the Labour Party - one that government ministers have been signalling for some time.",
-      "summary_zh": "\"Brexit造成了很大的破坏\" Rachel Reeves总理在星期二的Mais讲座上说到,"
+      "summary_zh": "由于安全原因,捐款者的名字已经更改。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-      "title_zh": "美国和以色列是否在伊朗战争中结盟? 破解特朗普在毒气场袭击后的文章",
+      "title_zh": "美国和以色列是否在伊朗战争中结盟? 破译特朗普在毒气现场攻击后的文章",
       "link": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-19T23:19:00+00:00",
       "summary": "US President Donald Trump has issued a typically strongly worded statement in the wake of attacks on a major gas field shared by Iran and Qatar on Wednesday.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)在星期三伊朗和卡塔尔共同拥有的一条主要煤气田遭到攻击后,发表了一份典型措辞强硬的声明."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BTS is back: Anti-drone systems and 260,000 fans as world's biggest band returns",
-      "title_zh": "BTS回归:Anti-drone系统与26万粉丝作为世界最大乐队回归.",
-      "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-19T23:03:53+00:00",
-      "summary": "The historic heart of South Korea's capital is bracing itself for what may well be the year's biggest event: the return of the world's most successful band in recent years, BTS.",
-      "summary_zh": "韩国首都的历史性核心正在为今年最盛大的盛事,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
-      "title_zh": "内塔尼亚胡说以色列“独自行动”,",
-      "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-19T22:41:40+00:00",
-      "summary": "Israel's Prime Minister Benjamin Netanyahu has said Israel \"acted alone\" in attacking an Iranian gas field, as tensions mount over strikes on energy infrastructure across the region.",
-      "summary_zh": "以色列总理本雅明·内塔尼亚胡(Benjamin Nativa)表示, 以色列在攻击伊朗煤气田时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Teenager among first to be executed over Iran's anti-government protests",
-      "title_zh": "在伊朗反政府抗议活动中,",
-      "link": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-19T22:07:17+00:00",
-      "summary": "Iran has executed three men accused of killing police officers during anti-government protests in January, state media say, the first hangings to be carried out in relation to the demonstrations.",
-      "summary_zh": "伊朗已处决3名被控在1月反政府抗议活动中杀害警察的男子,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-      "title_zh": "丹麦计划炸毁格陵兰的跑道 如果美国入侵,报道说",
-      "link": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-19T21:52:36+00:00",
-      "summary": "Danish soldiers flown to Greenland in January were prepared to blow up key airport runways over fears that US President Donald Trump could invade the Arctic island, Denmark's public broadcaster DR says.",
-      "summary_zh": "1月飞往格陵兰的丹麦士兵因担心美国总统唐纳德·特朗普可能入侵北极岛而准备炸毁关键的机场跑道,丹麦公共广播公司DR表示."
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)在伊朗和卡塔尔于星期三共同攻击一个主要煤气场后,"
     },
     {
       "source": "BBC News",
@@ -331,7 +371,7 @@
       "link": "https://www.bbc.com/news/videos/c747lk0geldo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-19T20:58:34+00:00",
       "summary": "For every day of this war, President Trump has been sharing his perspective and his thinking - whether in press conferences, in video statements or in posts on social media. In the last week, that's continued - as strikes have been exchanged - and pressure has built on the supply of oil and gas from the region. The BBC's Analysis Editor Ros Atkins has looked at what the President's been saying.",
-      "summary_zh": "对于这场战争的每一天,特朗普总统都在分享自己的观点和想法,无论是在新闻发布会,视频声明中还是在社交媒体的帖子上. 在上个星期,随着罢工的交换,这种情况仍在继续,来自该地区的石油和天然气的供应也增加了压力。 英国广播公司分析编辑罗斯·阿特金斯(Ros Atkins)研究了总统所说的话."
+      "summary_zh": "对于这场战争的每一天,特朗普总统都在分享他的观点和想法——无论是在新闻发布会,视频声明中还是在社交媒体上的文章中. 在上周,随着罢工的交换,这种情况仍在继续,来自该地区的石油和天然气的供应也增加了压力。 BBC分析编辑罗斯·阿特金斯(Ros Atkins)研究了总统所说的话."
     },
     {
       "source": "BBC News",
@@ -341,7 +381,7 @@
       "link": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-19T17:50:38+00:00",
       "summary": "In a meeting with Japanese Prime Minister Sanae Takaichi in the Oval Office, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran.",
-      "summary_zh": "美国总统唐纳德·特朗普在与日本首相萨纳·高一(英语:Sanae Takaichi)在奥瓦尔办事处的会谈中被问及为何他没有告知盟友他攻击伊朗的计划."
+      "summary_zh": "美国总统唐纳德·特朗普在与日本首相萨纳·高一(英语:Sanae Taka一)在奥瓦尔办公室的会谈中被问及为何他不向盟友通报他攻击伊朗的计划."
     },
     {
       "source": "BBC News",
@@ -351,27 +391,17 @@
       "link": "https://www.bbc.com/news/videos/ce9mz0gl8z7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-19T16:00:36+00:00",
       "summary": "Footage from Russian state broadcaster RT has captured the moment a missile lands just a few feet from where its reporter was broadcasting in southern Lebanon.",
-      "summary_zh": "俄罗斯国家广播台的脚印记录了一枚导弹从黎巴嫩南部的记者播送的几英尺外降落的瞬间。"
+      "summary_zh": "俄罗斯国家广播公司的脚印记录了一枚导弹从南黎巴嫩的记者播送的几英尺外降落的那一刻。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "As Cuba struggles with power cuts, how is the island holding up?",
-      "title_zh": "当古巴与断电斗争时,这座岛屿如何维持?",
+      "title_zh": "当古巴与断电斗争时,该岛情况如何?",
       "link": "https://www.bbc.com/news/videos/c07j7yr0p2no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-19T00:46:25+00:00",
       "summary": "Cuba's grid operator has restored intermittent power after the national electric grid collapsed on 16 March. It comes amid a US-imposed oil blockade that has crippled the island's already struggling fuel, food, and medicine shortages.",
-      "summary_zh": "古巴的电网运营商在3月16日国家电网倒闭后恢复了断断续续的供电. 美国实行石油封锁,使本已艰难的岛屿燃料、食品和药品短缺瘫痪。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Gabbard faces scrutiny over Iran nuclear intelligence claims",
-      "title_zh": "观察:加布巴德面对伊朗核情报指控的严密检查",
-      "link": "https://www.bbc.com/news/videos/clygyg14zj2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-18T18:38:21+00:00",
-      "summary": "The US Director of National Intelligence, Tulsi Gabbard, was questioned over what Democrats perceive as a discrepancy between White House and intelligence community claims on Iran's nuclear enrichment capabilities.",
-      "summary_zh": "美国国家情报局局长Tulsi Gabbard被问及民主党人认为白宫与情报界对伊朗的核浓缩能力的说法有何出入。"
+      "summary_zh": "古巴电网运营商在3月16日国家电网倒闭后恢复了断断续续的供电. 美国实施石油封锁,使本已艰难的岛屿燃料、食品和药品短缺瘫痪。"
     }
   ]
 }
