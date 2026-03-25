@@ -1,8 +1,348 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-24T22:50:38+00:00",
-  "count": 47,
+  "generated_at": "2026-03-25T22:56:13+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イギリスBBC 新会長にグーグルの元幹部を任命",
+      "title_zh": "任命Google前执行官为英国BBC新总裁",
+      "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084351000.html",
+      "published_at": "2026-03-25T22:34:20+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“イランが戦闘終結への5条件提示”報道 先行きは依然不透明",
+      "title_zh": "“伊朗提出结束战斗的五个条件” 新闻还是不透明",
+      "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084361000.html",
+      "published_at": "2026-03-25T22:21:25+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NTTドコモ 3Gサービス 3月末で終了 機種や契約の変更呼びかけ",
+      "title_zh": "NTT QQOMO 3G 服务于3月底结束",
+      "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084301000.html",
+      "published_at": "2026-03-25T21:59:16+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "北海道新幹線 開業から10年 札幌への延伸計画 大幅に遅れる",
+      "title_zh": "北海道申坎森开业十年",
+      "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084221000.html",
+      "published_at": "2026-03-25T21:39:13+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 5月14日と15日に中国訪問 習主席と会談へ",
+      "title_zh": "特朗普总统5月14日和15日访问中国",
+      "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084331000.html",
+      "published_at": "2026-03-25T21:10:43+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What are the US and Iran's proposals for peace?",
+      "title_zh": "美国和伊朗的和平建议是什么?",
+      "link": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T21:06:26+00:00",
+      "summary": "Iran's foreign minister says the country is not currently negotiating with the US to end the war and \"does not intend\" to do so.",
+      "summary_zh": "伊朗外长表示该国目前没有与美国谈判以结束战争,\"不打算\"这样做."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Meta and YouTube found liable in landmark social media addiction trial",
+      "title_zh": "Meta和YouTube在里程碑式的社交媒体上瘾试验中 被认定有罪",
+      "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T21:06:23+00:00",
+      "summary": "A Los Angeles jury has handed down an unprecedented win for a young woman who sued Meta and YouTube over her childhood addiction to social media.",
+      "summary_zh": "一名年轻女性因童年上瘾向社交媒体起诉Meta和YouTube,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "外国人の子ども 全国の半数以上の自治体で10年前より増加",
+      "title_zh": "10多年前,我们开始",
+      "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084131000.html",
+      "published_at": "2026-03-25T20:53:09+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
+      "title_zh": "联合国赞成承认奴役非洲人是\"最严重的危害人类罪\"。",
+      "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T20:12:31+00:00",
+      "summary": "The United Nations General Assembly has voted to recognise the enslavement of Africans during the transatlantic slave trade as \"the gravest crime against humanity\", a move advocates hope will pave the way for healing and justice.",
+      "summary_zh": "联合国大会投票承认跨大西洋贩卖奴隶期间非洲人被奴役是\"最恶劣的危害人类罪\",这一举动主张希望能为愈合和正义铺平道路."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We are in agony' - Savannah Guthrie does first interview since mum's disappearance",
+      "title_zh": "萨凡纳·古斯里在妈妈失踪后第一次采访",
+      "link": "https://www.bbc.com/news/articles/ckgxzlny4w3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T16:38:03+00:00",
+      "summary": "US television presenter Savannah Guthrie has spoken of her family's \"agony\" in the first interview since her mother's disappearance.",
+      "summary_zh": "美国电视主持人萨凡纳·古斯里(Savannah Guthrie)在她母亲失踪后的第一次采访中谈到了她的家人的\"愤怒\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Africa's police chief to appear in court over controversial health contract",
+      "title_zh": "南非警察局长因有争议的保健合同出庭",
+      "link": "https://www.bbc.com/news/articles/cwyjpxnzdvyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T16:33:10+00:00",
+      "summary": "The head of South Africa's police force has been summoned to appear in court in connection with a health contract that is the subject of a criminal investigation.",
+      "summary_zh": "南非警察局长被传唤出庭,涉及一项受到刑事调查的保健合同。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC",
+      "title_zh": "Epstein文件发布后,",
+      "link": "https://www.bbc.com/news/articles/cd0rek7v7npo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T15:47:48+00:00",
+      "summary": "One of the most outspoken members of the US Republican Party over the Epstein files has told the BBC he is \"not satisfied until the survivors are satisfied\".",
+      "summary_zh": "美国共和党对爱泼斯坦案卷最直言不讳的成员之一告诉了英国广播公司,他\"在幸存者满意之前并不满意\"."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大川原化工機えん罪事件 元顧問の遺族 裁判官の責任問い提訴へ",
+      "title_zh": "Ogawara Kakoki En 附带事件 法官的遗嘱",
+      "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084281000.html",
+      "published_at": "2026-03-25T15:27:17+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
+      "title_zh": "民主党人翻转佛罗里达州议席 包括特朗普的马拉-拉戈家",
+      "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T15:07:13+00:00",
+      "summary": "Democrats are projected to win a special election for a Florida legislative district that includes Donald Trump's Mar-a-Lago home in Palm Beach, marking another upset in the president's backyard.",
+      "summary_zh": "民主党人预计将赢得佛罗里达州一个立法区的特别选举,其中包括唐纳德·特朗普在棕榈滩的玛尔拉戈(Mar-a-Lago)故居,这标志着总统后院又一个不高兴."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
+      "title_zh": "据信在荷兰教堂下发现的剑客达达尼昂的遗骸",
+      "link": "https://www.bbc.com/news/articles/cm2rew2dgzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T14:30:39+00:00",
+      "summary": "More than 350 years after the death of legendary French musketeer d'Artagnan, his remains may well have been found under the floor of a Dutch church.",
+      "summary_zh": "在传奇的法国穆斯克泰尔·达达尼昂去世后350多年,他的遗体很可能已经从一所荷兰教堂的地底被找到."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Estonia and Latvia say territories hit by stray Ukrainian drones",
+      "title_zh": "爱沙尼亚和拉脱维亚说,领土被游走的乌克兰无人机击中",
+      "link": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T12:42:14+00:00",
+      "summary": "Ukrainian drones entered Estonian and Latvian air spaces from Russia overnight, with one hitting infrastructure and another crashing on land, Tallinn and Riga have said.",
+      "summary_zh": "乌克兰无人机连夜从俄罗斯进入爱沙尼亚和拉脱维亚领空,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
+      "title_zh": "\"没有安全了\": 巴勒斯坦人警告西岸定居者暴力活动会扩大",
+      "link": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T12:27:28+00:00",
+      "summary": "\"This assault wasn't just meant to burn the houses but also to kill - to kill women and children,\" says Barhan Omar, standing in the charred ruins of his family's large villa, which Israeli settlers attacked on Sunday.",
+      "summary_zh": "」Barhan Omar说:“这次袭击不仅是为了烧毁房屋,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Talk show host Stephen Colbert to write new Lord of the Rings film",
+      "title_zh": "谈话节目主持人Stephen Colbert 编写新的\"魔戒之王\"电影",
+      "link": "https://www.bbc.com/news/articles/c33ldp22833o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T12:21:23+00:00",
+      "summary": "US TV host Stephen Colbert has announced his next move after his late-night talk show ends - co-writing a new Lord of the Rings film.",
+      "summary_zh": "美国电视主持人斯蒂芬·科尔伯特(Stephen Colbert)在深夜脱口秀结束后宣布了下一步行动——共同出演了一部新的\"指环之王\"电影."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "We need more plumbers and fewer lawyers in AI age, says BlackRock boss",
+      "title_zh": "我们需要更多的水管工 和更少的律师 在AI年龄,说黑洛克老板",
+      "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T12:00:38+00:00",
+      "summary": "Society should respect plumbing and electrician careers as artificial intelligence (AI) replaces some office jobs, the boss of US financial giant BlackRock has told the BBC.",
+      "summary_zh": "美国金融巨头布莱克洛克(BlackRock)的上司告诉英国广播公司,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brazil's Bolsonaro gets temporary house arrest for ill-health",
+      "title_zh": "巴西的Bolsonaro因健康不良被临时软禁",
+      "link": "https://www.bbc.com/news/articles/cge0950jxd0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T11:37:17+00:00",
+      "summary": "A judge in Brazil has ruled that jailed former President Jair Bolsonaro can be placed under house arrest for the next three months because of poor health.",
+      "summary_zh": "巴西一位法官裁定,由于健康状况不佳,被关押的前总统贾伊尔·博尔索纳罗可被软禁三个月。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dozens of bodies, mostly infants, discovered in Kenya mass grave",
+      "title_zh": "在肯尼亚发现数十具尸体,多为婴儿",
+      "link": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T11:11:50+00:00",
+      "summary": "About 32 bodies, mostly children, have been dug up from a mass grave in the western Kenyan town of Kericho as investigations continue into the shocking discovery.",
+      "summary_zh": "随着对令人震惊的发现的调查继续进行,肯尼亚西部Kericho镇的一个乱葬坑被挖出大约32具尸体,其中大多数是儿童。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Major player' in alleged mistaken identity kidnap of Sydney grandfather charged",
+      "title_zh": "\"主要玩家\"在指称错误的身份 绑架悉尼爷爷的指控",
+      "link": "https://www.bbc.com/news/articles/cqxl825z839o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T11:06:41+00:00",
+      "summary": "A \"major player\" in the alleged kidnap and murder of an 85-year-old grandfather in Sydney last month has been arrested and charged with murder, police have said.",
+      "summary_zh": "一名\"主要角色\"被指控绑架并谋杀了一位85岁的祖父 上个月在悉尼被捕并被指控谋杀,警方说。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Fearless' Mel Schilling remembered by Married at First Sight co-star",
+      "title_zh": "\"无所畏惧\" 梅尔·席林在第一影星结婚时回忆",
+      "link": "https://www.bbc.com/news/articles/cdxd949dvqeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T10:45:34+00:00",
+      "summary": "Mel Schilling's Married At First Sight UK co-star Paul C Brunson has shared an emotional tribute to his \"fearless\", \"tough\" and \"deeply loved\" late friend and colleague.",
+      "summary_zh": "Mel Schilling's married At First Sight UK同名明星保罗·克·布伦森(Paul C Brunson)分享了对他的\"无所畏惧\",\"苦\"和\"深爱\"已故朋友和同事的情感敬意."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
+      "title_zh": "马可斯承诺“石油流量”,",
+      "link": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T08:59:46+00:00",
+      "summary": "Philippine President Ferdinand Marcos says he is working to secure new sources of oil after he placed the country under a state of national energy emergency in response to the war in Iran.",
+      "summary_zh": "菲律宾总统费迪南德·马科斯(Ferdinand Marcos)表示,他为了应对伊朗战争,将该国置于国家能源紧急状态之下,因此他正在努力保障新的石油来源."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Graffiti conviction for Australian woman who stuck googly eyes on sculpture",
+      "title_zh": "给那些在雕塑上凝视的澳大利亚女人定罪",
+      "link": "https://www.bbc.com/news/articles/cwydx34kzlvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T08:17:51+00:00",
+      "summary": "A 20-year-old woman has been convicted on a graffiti charge for sticking googly eyes on a famous sculpture in South Australia.",
+      "summary_zh": "一名20岁的女性因在南澳大利亚州一出出名的雕塑上粘着谷歌的眼睛而被判涂鸦罪."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
+      "title_zh": "丹麦首相在1903年以来最弱的选举中未能取得多数选票。",
+      "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T07:59:41+00:00",
+      "summary": "Prime Minister Mette Frederiksen's Social Democrats won the most votes in Tuesday's Danish general election but slumped to its weakest performance since 1903, as her coalition bloc failed to secure a majority.",
+      "summary_zh": "总理梅特·弗雷德里克森(Mette Frederiksen)的社会民主党在星期二的丹麦大选中赢得了最多选票,但由于她的联盟集团未能获得多数选票,但陷入了自1903年以来最弱的状态."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "In pictures: Hunting lynx snatches top prize in photo competition",
+      "title_zh": "在图片中:猎杀林克思在相片比赛中抢取最高奖项.",
+      "link": "https://www.bbc.com/news/articles/c150yl0y5vzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T06:29:10+00:00",
+      "summary": "A young Iberian lynx caught mid hunt has won the Wildlife Photographer of the Year People's Choice Award 2026.",
+      "summary_zh": "一名被打中猎杀的年青伊比利亚人林克思赢得了\"2026年人民选择奖\"野生动物摄影师."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
+      "title_zh": "20年来,澳大利亚全国广播公司的记者首次罢工",
+      "link": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T06:28:34+00:00",
+      "summary": "Hundreds of journalists have walked off the job at Australia's national broadcaster on Wednesday over pay, conditions and the possible use of AI to replace them.",
+      "summary_zh": "数以百计的记者星期三在澳大利亚国家广播台上放弃工作,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Has banning phones improved performance at Dutch schools?",
+      "title_zh": "禁用电话是否改善了荷兰学校的性能?",
+      "link": "https://www.bbc.com/news/articles/cpqxjwvvyl4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T06:00:25+00:00",
+      "summary": "Two years ago, Dutch schools banned smartphones to reduce distractions, enhance student concentration, and encourage better academic performance. Since then, mobile phones, smartwatches and tablets have been exiled from classrooms, corridors and canteens in schools across the Netherlands.",
+      "summary_zh": "两年前,荷兰学校禁止智能手机以减少分心,增强学生的集中度,鼓励提高学术成绩. 此后,手机,智能手表和平板电脑被流放出荷兰各地学校的教室,走廊和食堂."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal",
+      "title_zh": "OpenAI 关闭 Sora 视频制作应用程序并取消 1 Bn 迪士尼 交易",
+      "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T04:48:56+00:00",
+      "summary": "OpenAI has shut down its artificial intelligence (AI) video-generation app Sora less than two years after its unveiling made headlines for creating realistic clips based on simple prompts.",
+      "summary_zh": "OpenAI在推出基于简单提示制作现实短片的头条新闻后不到两年,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sara Duterte impeachment hearings start as political death match heats up",
+      "title_zh": "Sara Duterte弹劾听证会开始 政治死亡比赛热了",
+      "link": "https://www.bbc.com/news/articles/cpwjrd1z5y0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T03:17:58+00:00",
+      "summary": "Public hearings on the impeachment case against Philippine Vice-President Sara Duterte have started in Congress.",
+      "summary_zh": "关于菲律宾副总统萨拉·杜特特被弹劾案的公开听证会在国会开始."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "BTS comeback concert on Netflix draws 18.4m global viewers",
+      "title_zh": "Netflix上的 BTS 复出演唱会吸引了18.40万全球观众",
+      "link": "https://www.bbc.com/news/articles/cy513rvg91ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T02:55:12+00:00",
+      "summary": "A livestreamed comeback concert by K-pop megastars BTS drew 18.4m global viewers on Netflix, according to the streaming service.",
+      "summary_zh": "K-pop巨星BTS在Netflix上画出18.4m的全球观众,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Packed cinemas and whistling fans: A spy thriller sequel revives Bollywood",
+      "title_zh": "包装的电影院和口哨粉丝:间谍惊悚续集复活了宝莱坞",
+      "link": "https://www.bbc.com/news/articles/cpwj8nxey7eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T00:42:59+00:00",
+      "summary": "There is a particular kind of electricity that only a packed cinema hall in India can generate - the whistles that greet a hero's slow-motion entry, the applause that rolls like thunder followed by the collective hush before a twist lands.",
+      "summary_zh": "印度只有满满的电影院才能产生特别的电能——欢迎英雄慢跑入场的口哨,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Meta told to pay $375m for misleading users over child safety",
+      "title_zh": "Meta告诉要支付3.75亿美元 用于误导儿童安全用户",
+      "link": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T23:16:55+00:00",
+      "summary": "A court in New Mexico has ordered Meta to pay $375m (£279m) for misleading users over the safety of its platforms for children.",
+      "summary_zh": "新墨西哥州一法院已责令梅塔支付3.75亿美元(2.79亿英镑),因为其儿童平台的安全性误导了用户."
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
@@ -16,36 +356,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Death toll from Colombian military plane crash rises to 69 as search ends",
-      "title_zh": "哥伦比亚军机坠毁死亡人数为69人,",
-      "link": "https://www.bbc.com/news/articles/c8ejkz89k1ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T21:30:53+00:00",
-      "summary": "Sixty-nine members of the Colombian security forces have been killed after a military plane crashed in the south of the country on Monday.",
-      "summary_zh": "哥伦比亚安全部队有69人于星期一在该国南部坠毁后被击毙."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "辺野古沖転覆事故 高校が保護者説明会 安全管理への批判相次ぐ",
-      "title_zh": "高中生安全管理简报",
-      "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083421000.html",
-      "published_at": "2026-03-24T21:26:52+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 イランとの協議主張 “合意結びたがっている”",
-      "title_zh": "特朗普总统与伊朗的争议主张“我同意”",
-      "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083481000.html",
-      "published_at": "2026-03-24T21:17:37+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "What happened in the seconds before Air Canada plane crashed at LaGuardia",
       "title_zh": "加拿大航空飞机在拉瓜地亚坠毁前几秒钟发生了什么",
       "link": "https://www.bbc.com/news/videos/c70584eye0no?at_medium=RSS&at_campaign=rss",
@@ -54,54 +364,14 @@
       "summary_zh": "加拿大航空公司的一架飞机在纽约的拉瓜地亚机场与消防车相撞,造成两名飞行员死亡并有几名乘客和机组人员受伤."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "売春規制のあり方を議論 相手方を処罰対象に加えるかが焦点",
-      "title_zh": "讨论促进的方式 在惩罚中增加对手的重点",
-      "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083351000.html",
-      "published_at": "2026-03-24T20:51:38+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "国が航空各社に定時運行の取り組みを求める要請 遅延増加で",
-      "title_zh": "要求该国设法及时向航空公司开展业务",
-      "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083401000.html",
-      "published_at": "2026-03-24T20:34:35+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Pilots killed in LaGuardia plane crash named",
       "title_zh": "拉瓜地亚空难遇难飞行员命名.",
       "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-24T20:34:20+00:00",
-      "summary": "The two Air Canada pilots killed when a plane crashed into a fire truck at LaGuardia Airport have been identified as Antoine Forest and Mackenzie Gunther.",
-      "summary_zh": "加拿大航空的两名飞行员在拉瓜地亚机场被一架飞机撞上消防车后被击毙被确认为\"安托万森林\"和\"麦肯齐·冈瑟\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "政府 与党“予算案の年度内成立を” 野党側“審議の充実を”",
-      "title_zh": "政府政党“预算计划年度”*** 当事方一方“加强审议”",
-      "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083341000.html",
-      "published_at": "2026-03-24T20:24:37+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大相撲 優勝果たした霧島 約2年ぶり大関復帰 きょう正式決定へ",
-      "title_zh": "苏莫赢了桐岛2年左右,回到了O",
-      "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083181000.html",
-      "published_at": "2026-03-24T20:12:18+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "summary": "The two pilots killed when an Air Canada plane crashed into a fire truck at LaGuardia Airport have been identified as Antoine Forest and Mackenzie Gunther.",
+      "summary_zh": "加拿大航空一架飞机在拉瓜地亚机场撞上消防车后,两名飞行员被确认为安托万·福斯特和麦肯齐·冈瑟."
     },
     {
       "source": "BBC News",
@@ -136,42 +406,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Israel says it will take control of large buffer zone in southern Lebanon",
-      "title_zh": "以色列说它将控制黎巴嫩南部的大缓冲区",
-      "link": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T16:58:08+00:00",
-      "summary": "Israeli troops will control a large swathe of southern Lebanon as part of their campaign against Hezbollah, Defence Minister Israel Katz says.",
-      "summary_zh": "以色列国防部长卡茨说,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Iran war shows norms of international conflicts have been overturned",
       "title_zh": "伊朗战争表明国际冲突的规范被推翻了",
       "link": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-24T15:55:08+00:00",
       "summary": "The US-Israeli attacks against Iran, and the threats against its energy infrastructure, as well as Tehran's retaliation on its Gulf neighbours underline how the norms of starting and escalating international wars have been upended.",
       "summary_zh": "美以美对伊朗的攻击,对其能源基础设施的威胁,以及德黑兰对其海湾邻国的报复,都凸显出发动和升级国际战争的规范是如何被取消的。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中国大使館敷地内に侵入した疑い 陸上自衛官を逮捕",
-      "title_zh": "中国使馆被捕上岸自卫",
-      "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083051000.html",
-      "published_at": "2026-03-24T14:37:43+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Danes vote as PM Mette Frederiksen seeks third term after Greenland boost",
-      "title_zh": "丹麦人投票支持Mette Frederiksen首相,",
-      "link": "https://www.bbc.com/news/articles/cvgk02j4l4ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T12:26:42+00:00",
-      "summary": "Danes are voting in an election with Prime Minister Mette Frederiksen's Social Democrats aiming for a third term.",
-      "summary_zh": "丹麦人在选举中投票,"
     },
     {
       "source": "BBC News",
@@ -186,42 +426,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Decline in migratory fish populations prompts fight for protection",
-      "title_zh": "洄游鱼类数量减少,促使人们为保护而斗争",
-      "link": "https://www.bbc.com/news/articles/cr4105d93d3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T12:00:30+00:00",
-      "summary": "Fish species that undertake mammoth migrations through rivers, lakes and ponds are facing a combined threat from dams, pollution and overfishing preventing them from reaching their breeding grounds.",
-      "summary_zh": "通过河流、湖泊和池塘进行长毛动物迁移的鱼类面临水坝、污染和过度捕捞的共同威胁,无法到达繁殖地。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Elon Musk's Starlink blocked from operating in Namibia",
-      "title_zh": "埃隆·穆斯克的\"星际链接\"在纳米比亚的运营受阻.",
-      "link": "https://www.bbc.com/news/articles/crl1ny1g6e0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T10:50:17+00:00",
-      "summary": "Namibia has rejected an application by Elon Musk-owned Starlink for a licence to provide satellite internet services in the country, dealing the company a second setback in southern Africa.",
-      "summary_zh": "纳米比亚拒绝了Elon Musk拥有的Starlink公司提出的在该国提供卫星互联网服务的许可证申请,这在南部非洲造成了第二个挫折。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Cuba's mothers-to-be prepare to give birth in a country plunged into darkness",
       "title_zh": "古巴的母亲准备在一个陷入黑暗的国家分娩",
       "link": "https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-24T05:58:19+00:00",
       "summary": "Since the Trump administration imposed a near-total fuel blockade on Cuba three months ago, Mauren Echevarría Peña has been inside a ward in Havana's specialist maternity and neonatal hospital.",
       "summary_zh": "自特朗普政府三个月前对古巴实施近乎全面的燃料封锁后,莫伦·埃切瓦里亚·佩尼亚一直在哈瓦那妇产新生儿专科医院的一个病房内."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China dials back on fuel price hikes to 'reduce burden' on drivers",
-      "title_zh": "中国拨回了燃料价格的上涨 来\"减轻司机的负担\"",
-      "link": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T05:56:42+00:00",
-      "summary": "China has dialled back on planned fuel price hikes in a bid to \"reduce the burden\" on drivers, as energy costs surge amid the Iran war.",
-      "summary_zh": "由于伊朗战争期间能源成本暴涨,中国已重新拨打计划燃料价格上涨,以\"减轻司机的负担\"."
     },
     {
       "source": "BBC News",
@@ -236,36 +446,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US Senate confirms Markwayne Mullin as homeland security chief",
-      "title_zh": "美国参议院确认Markwayne Mullin为国土安全主管",
-      "link": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T02:01:21+00:00",
-      "summary": "The US Senate has voted to approve Senator Markwayne Mullin as the country's new head of the Department of Homeland Security.",
-      "summary_zh": "美国参议院投票批准参议员马克韦恩·穆林出任该国国土安全部新任主管."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US bans new foreign-made consumer internet routers",
-      "title_zh": "美国禁止新的外国制造的消费者互联网路由器",
-      "link": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T01:26:53+00:00",
-      "summary": "The US has banned new foreign-made consumer internet routers over national security concerns.",
-      "summary_zh": "美国已禁止新的外国制造的消费者互联网路由器,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
-      "title_zh": "在据称俄罗斯发动安哥拉反政府抗议的行动内部",
-      "link": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T00:18:10+00:00",
-      "summary": "Two Russians are due to go on trial in Angola accused of stirring up anti-government protests, conducting a campaign of disinformation, and attempting to interfere in next year's presidential election.",
-      "summary_zh": "两名俄罗斯人将在安哥拉受审, 被控煽动反政府抗议, 进行造谣活动,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "UK universities flock to India - but will they succeed?",
       "title_zh": "英国的大学纷纷涌向印度,",
       "link": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
@@ -276,52 +456,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Jury orders Cosby to pay $19m to ex-waitress after finding he abused her in 1972",
-      "title_zh": "陪审员命令考斯比在发现1972年虐待她后 给前服务员1900美元",
-      "link": "https://www.bbc.com/news/articles/c1eq7v91n4xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T22:18:27+00:00",
-      "summary": "A jury in California has ordered Bill Cosby to pay $19.25m (£14.3m) in damages to a former waitress after finding he drugged and sexually assaulted her while taking her to one of his shows more than five decades ago.",
-      "summary_zh": "一个加州的陪审团命令比尔·科斯比(Bill Cosby)向一位前女服务员支付1,925万美元(1,430万英镑)的赔偿金,因为他在50多年前带她去看他的一个节目时发现她吸毒并性侵犯她."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "How the deadly LaGuardia Airport crash unfolded",
       "title_zh": "致命的拉瓜地亚机场空难是如何发生的",
       "link": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-23T22:17:26+00:00",
       "summary": "Two pilots have died after an Air Canada passenger plane collided with a firefighting truck at New York's LaGuardia Airport on Sunday night.",
       "summary_zh": "加拿大航空一架客机星期天晚上在纽约的拉瓜地亚机场与一辆消防车相撞后有两名飞行员死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "ICE agents deploy to major US airports as security queues stretch for hours",
-      "title_zh": "由于安全排队长达数小时,ICE特工被部署到美国主要机场",
-      "link": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T21:22:18+00:00",
-      "summary": "US Immigration and Customs Enforcement (ICE) agents have deployed to major airports across the country, helping to fill the void as thousands of security staff who are going without pay refuse to work.",
-      "summary_zh": "美国移民和海关执法人员已部署到全国各主要机场,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
-      "title_zh": "\"就像飞机被切成两半\": 拉瓜地亚坠毁 两名飞行员被炸死 正在调查",
-      "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T21:13:47+00:00",
-      "summary": "Air Canada flight AC8646's collision with a fire truck on a LaGuardia Airport runway late on Sunday killed the plane's two pilots, injured dozens of others, and left passengers and witnesses stunned and stranded.",
-      "summary_zh": "加拿大航空AC8646号班机于星期天深夜在拉瓜地亚机场跑道上与消防车相撞,导致飞机两名飞行员死亡,数十人受伤,乘客和目击者被惊呆并搁浅."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
-      "title_zh": "公投失败让意大利的梅洛尼看起来更脆弱",
-      "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T20:25:32+00:00",
-      "summary": "Italy's Prime Minister Giorgia Meloni has lost a key referendum on a constitutional reform which had turned into a vote on her government.",
-      "summary_zh": "意大利总理乔治娅·梅洛尼在宪法改革问题上失去了一次关键的公民投票,这次投票变成了对她政府的投票。"
     },
     {
       "source": "BBC News",
@@ -356,122 +496,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Slovenia becomes first EU country to introduce fuel rationing",
-      "title_zh": "斯洛文尼亚成为第一个实行燃料配给的欧盟国家",
-      "link": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T17:45:25+00:00",
-      "summary": "Slovenia has become the first EU member state to implement fuel rationing to tackle disruptions caused by the US-Israeli strikes on Iran and its retaliation on their allies in the Gulf - most major players in world energy markets.",
-      "summary_zh": "斯洛文尼亚已成为第一个实施燃料配给的欧盟成员国,以应对由美以美军对伊朗的打击所引发的干扰,以及它对海湾盟友的报复 — — 世界能源市场的大多数主要角色."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenyan ex-foreign minister arrested and accused of staging his disappearance",
-      "title_zh": "肯尼亚前外交部长被捕并被控制造失踪事件",
-      "link": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T16:48:08+00:00",
-      "summary": "Former Kenyan Foreign Minister Raphael Tuju has been arrested a day after he was reported to have disappeared, leading to fears he may have been abducted.",
-      "summary_zh": "肯尼亚前外交部长拉菲尔 图朱在据报失踪后一天被拘捕,导致他担心可能被绑架."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Could Iranian missiles reach London and Paris?",
       "title_zh": "伊朗导弹能飞到伦敦和巴黎吗?",
       "link": "https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-23T16:45:52+00:00",
       "summary": "Iranian missiles have tried to target the joint US-UK military base in Diego Garcia in the Indian Ocean.",
       "summary_zh": "伊朗导弹试图以位于印度洋迪戈加西亚的美英联合军事基地为目标."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US' and Iran's options for ending war narrow the longer it goes on",
-      "title_zh": "美国和伊朗结束战争的选择越长越会缩小",
-      "link": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T15:34:38+00:00",
-      "summary": "For weeks, the US and Israel have insisted that Iran's military capacity has been severely degraded. US President Donald Trump and his defence secretary, Pete Hegseth, have repeatedly claimed that sustained strikes have crippled Iran's command structure and weakened its ability to respond.",
-      "summary_zh": "数周来,美国和以色列一直坚持伊朗的军事能力已经严重退化. 美国总统唐纳德·特朗普和他的国防部长皮特·赫格塞斯再三声称,持续打击使伊朗的指挥结构瘫痪并削弱了其应对能力."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Blast that injured two was 'terrorist attack', Ukrainian authorities say",
-      "title_zh": "乌克兰当局说,",
-      "link": "https://www.bbc.com/news/articles/crl1n0pn3e9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T15:23:29+00:00",
-      "summary": "Two police officers have been injured in an explosion that authorities say was a \"terrorist act\" in the town of Bucha near the Ukrainian capital, Kyiv.",
-      "summary_zh": "两名警察在乌克兰首都基辅附近的Bucha镇被炸伤,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-      "title_zh": "仅 粉丝老板Leonid Radvinsky43岁就死了",
-      "link": "https://www.bbc.com/news/articles/c33le6yv7pno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T15:23:00+00:00",
-      "summary": "The owner of OnlyFans, a site known for its adult content that is credited with revolutionising the online porn industry, has died at the age of 43.",
-      "summary_zh": "OnlyFans的拥有者以成人内容而出名,被誉为\"网络色情产业革命\",享年43岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
-      "title_zh": "\"停止,停止,停止\":在相撞时听LaGuardia控制塔的音频",
-      "link": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T15:04:25+00:00",
-      "summary": "An Air Canada plane carrying 72 passengers and four crew initially landed safely from Montreal on Sunday evening before colliding with a firefighting vehicle. Air traffic control audio captures the moments leading up to the deadly crash that killed two pilots.",
-      "summary_zh": "加拿大航空一架飞机载有72名乘客和4名机组人员,最初于星期天晚上从蒙特利尔安全降落后与消防车相撞. 空中交通管制的音频记录了导致两名飞行员死亡的致命坠机事件的发生。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nigerian police arrest 15 after viral videos of alleged sexual assault at festival",
-      "title_zh": "尼日利亚警方在节日对据称性侵犯的病毒录像后逮捕了15人",
-      "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T15:01:17+00:00",
-      "summary": "Police in Nigeria say 15 people have been arrested following allegations of sexual assault at a community festival in the southern Delta state.",
-      "summary_zh": "尼日利亚警方称有15人在南三角洲州一个社区节日遭到性侵犯指控后被捕."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "HK police can now demand phone passwords under new national security rules",
-      "title_zh": "香港警方现在可以根据新的国家安全规则要求电话密码",
-      "link": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T08:06:25+00:00",
-      "summary": "Hong Kong police can now demand phone or computer passwords from those who are suspected of breaching the wide-ranging National Security Law (NSL).",
-      "summary_zh": "香港警方现在可以向涉嫌违反广泛\"国家安全法\"(NSL)的人索要电话或电脑密码."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US weight-loss drugmakers slash prices in fight to win customers",
-      "title_zh": "美国减重毒品制造者为赢得顾客而跌价",
-      "link": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T06:03:48+00:00",
-      "summary": "When Ruth Gonzalez decided to start taking the weight-loss medicine Zepbound last year, she first had to find a way to afford its roughly $350 (£260) monthly cost.",
-      "summary_zh": "当露丝·冈萨雷斯去年决定开始服用减重药\"Zepbound\"(Zepbound)时,她首先不得不想出一个办法来支付每月大约350(260英镑)美元的费用."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
-      "title_zh": "厄尔尼诺即将来临,",
-      "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T04:06:22+00:00",
-      "summary": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency has warned.",
-      "summary_zh": "地球的气候比有记录的历史上任何时候都更加失衡,联合国气象机构已经警告过."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Germany has a shortage of workers - so it's turning to India for help",
-      "title_zh": "德国缺少工人,所以要向印度求助",
-      "link": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T00:03:25+00:00",
-      "summary": "Germany is continuing to struggle with a shortage of skilled workers, as elderly staff retire, and there are not enough young candidates to fill their roles. To try to alleviate the problem the country is increasingly turning to workers from India.",
-      "summary_zh": "德国继续面临技术工人短缺的问题,因为老年工作人员已退休,没有足够的年轻候选人来填补他们的角色。 为了缓解这个问题,印度越来越多地转向印度工人。"
     }
   ]
 }
