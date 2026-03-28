@@ -1,37 +1,317 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-27T22:52:11+00:00",
-  "count": 35,
+  "generated_at": "2026-03-28T22:48:38+00:00",
+  "count": 50,
   "items": [
     {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "No Kings protests across the US rally against Donald Trump",
+      "title_zh": "美国各地没有国王抗议唐纳德·特朗普的集会",
+      "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T22:45:48+00:00",
+      "summary": "Large protests against the Trump administration are taking place in cities across the US, marking the third iteration of No Kings rallies that have previously drawn crowds into the millions.",
+      "summary_zh": "抗议特朗普政府的大规模抗议活动正在全美各城市进行,这标志着\"无国王\"(No Kings)集会的第三次迭起,此前已经吸引了数百万人."
+    },
+    {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ミャンマー軍トップ退任へ 新政権で大統領就任の見方強まる",
-      "title_zh": "重建缅甸军队高层",
-      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086401000.html",
-      "published_at": "2026-03-27T22:27:31+00:00",
+      "title": "サッカー日本代表 スコットランドに1対0 伊東純也が決勝ゴール",
+      "title_zh": "日本国家足球队: 1比0 伊藤俊也出战苏格兰.",
+      "link": "http://www3.nhk.or.jp/news/html/20260329/k10015086751000.html",
+      "published_at": "2026-03-28T22:26:00+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "PFAS検出 河川や地下水 26都府県629地点で指針値超え 環境省",
-      "title_zh": "PFAS 检测PF和地下水 超过26个省份629个地点的制导值",
-      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086341000.html",
-      "published_at": "2026-03-27T22:26:01+00:00",
+      "title": "米中央軍“1万1000余の標的を攻撃” イランも湾岸諸国を攻撃",
+      "title_zh": "美国中央陆军“攻击超过1000个目标” 伊朗也袭击了国家",
+      "link": "http://www3.nhk.or.jp/news/html/20260329/k10015086831000.html",
+      "published_at": "2026-03-28T22:24:54+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+      "title_zh": "观察:全球标志性地标 为地球一小时关灯",
+      "link": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T22:02:34+00:00",
+      "summary": "Global landmarks including the Eiffel Tower in Paris and Sagrada Família Basilica in Barcelona switched off their lights for an hour at 20:30 local time on Saturday night to mark Earth Hour.",
+      "summary_zh": "全球地标包括巴黎的埃菲尔铁塔和巴塞罗那的萨格拉达·法米利亚·巴西利卡(Sagrada Familia Basilica)在星期六晚上当地时间20:30关闭了一小时的灯,以纪念\"地球一小时\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "title_zh": "三名黎巴嫩记者在以色列袭击中被炸死,",
+      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T21:50:40+00:00",
+      "summary": "Three Lebanese journalists were killed in a targeted Israeli strike in southern Lebanon on Saturday, their employers have said.",
+      "summary_zh": "3名黎巴嫩记者星期六在黎巴嫩南部的一次有针对性的以色列罢工中被杀死,他们的雇主说。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
+      "title_zh": "冰冻、喷洒和多层次的乐趣:大蛋糕野餐袭击悉尼",
+      "link": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T21:04:30+00:00",
+      "summary": "Welcome to Cake Picnic, Sydney edition.",
+      "summary_zh": "欢迎收看雪梨版的蛋糕派克尼克"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "山上徹也被告 NHKの文書での取材に応じる 安倍元首相銃撃事件",
+      "title_zh": "山上哲也被告 为了回应NHK文档的采访 首相阿部·肖廷案",
+      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086551000.html",
+      "published_at": "2026-03-28T20:08:48+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two Cuba-bound aid ships found days after disappearing",
+      "title_zh": "在失踪几天后发现两艘驶入古巴的援助船",
+      "link": "https://www.bbc.com/news/articles/clye4w10g22o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T19:41:17+00:00",
+      "summary": "Two boats filled with humanitarian supplies travelling from Mexico to Cuba have been located days after contact with them was lost in the Caribbean.",
+      "summary_zh": "两艘装有从墨西哥到古巴的人道主义用品的船只在加勒比失去联系几天后就已找到。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
+      "title_zh": "胡塞对红海航运的潜在威胁会进一步破坏全球经济",
+      "link": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T19:08:30+00:00",
+      "summary": "The Houthis held their fire for the first four weeks of the war, despite their affiliation with and backing from Iran.",
+      "summary_zh": "尽管胡塞人与伊朗有联系并得到了伊朗的支持,但胡塞人仍然在战争的头四个星期里保持了他们的火力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
+      "title_zh": "眼泪和藐视,黎巴嫩家庭埋葬11名在以色列袭击中丧生的儿童",
+      "link": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T19:02:40+00:00",
+      "summary": "A funeral has been held in a southern Lebanese village for an 11-year-old boy and his uncle who were killed in an Israeli air strike.",
+      "summary_zh": "在黎巴嫩南部的一个村庄为一名11岁的男孩及其叔叔举行了葬礼,他们在以色列的一次空袭中被炸死。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+      "title_zh": "埃及的商店和餐馆在能源危机加剧时 早点关门",
+      "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T18:34:24+00:00",
+      "summary": "Shops, restaurants and cafes in Egypt have been told to close early as part of a raft of temporary measures to combat soaring energy prices caused by the Iran war.",
+      "summary_zh": "埃及的商店、餐馆和咖啡馆被告知提前关闭,作为打击由伊朗战争所造成能源价格飙升的临时措施的一部分。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bank of America to pay out $72.5m over Epstein lawsuit",
+      "title_zh": "美国银行支付7250万美元 爱泼斯坦的诉讼",
+      "link": "https://www.bbc.com/news/articles/cn0wjgwvp2ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T15:17:35+00:00",
+      "summary": "Bank of America has reached a $72.5m (£54.6m) settlement in a lawsuit brought on behalf of victims of Jeffrey Epstein, who had accused the bank of facilitating his sex trafficking operation.",
+      "summary_zh": "美国银行在为Jeffrey Epstein的受害者提起的诉讼中达成了7250万美元(5,460万英镑)的和解,他指控银行为其性贩运活动提供便利。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Twenty-two migrants die off Greek coast after six days at sea",
+      "title_zh": "22名移民在6天后死于希腊海岸外",
+      "link": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T15:11:59+00:00",
+      "summary": "Twenty-two migrants have died off the Greek coast after spending six days in a dinghy bound for Europe, the Greek coastguard has said.",
+      "summary_zh": "希腊海岸警卫队说,有22名移民在前往欧洲的路上度过了6天后在希腊海岸外死亡。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Expectant mothers in Cuba struggle under fuel blockade",
+      "title_zh": "古巴孕妇在燃料封锁下挣扎",
+      "link": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T14:14:46+00:00",
+      "summary": "In January 2026, the Trump administration enforced an oil and fuel blockade on Cuba, triggering severe energy shortages and widespread blackouts that have especially impacted vulnerable populations, such as expectant mothers.",
+      "summary_zh": "2026年1月,特朗普政府对古巴实施石油和燃料封锁,引发了严重的能源短缺和广泛的停电,尤其影响了孕妇等弱势人群."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Looksmaxxing influencer Clavicular arrested on battery charge in Florida",
+      "title_zh": "在佛罗里达州因充电而被捕的 Clavicular",
+      "link": "https://www.bbc.com/news/articles/cr513g72vqgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T13:19:20+00:00",
+      "summary": "A controversial internet streamer who goes by the name Clavicular has been arrested in south Florida on a battery charge.",
+      "summary_zh": "一个有争议网路网民,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "富山 南砺 住宅2棟焼ける火事 3人の遺体見つかる",
+      "title_zh": "东山南通 二栋楼被烧了 三具尸体被发现",
+      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086771000.html",
+      "published_at": "2026-03-28T11:57:45+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "サッカー日本代表 森保監督 スコットランド戦へ 堂安を主将に",
-      "title_zh": "日本国家足球队 莫里浩先生参加苏格兰战争",
-      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086411000.html",
-      "published_at": "2026-03-27T22:24:33+00:00",
+      "title": "池袋 店員刺殺事件 逃げる女性を追いかけ執ように襲ったか",
+      "title_zh": "Ikebukuro书记Sashimi的案子 你攻击了逃跑的女人吗?",
+      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086671000.html",
+      "published_at": "2026-03-28T10:14:09+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中東産原油 愛媛県沖に到着 イラン軍事作戦開始後初めて日本へ",
+      "title_zh": "中东原油 A ives 在伊朗军事行动后首次出兵日本.",
+      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086681000.html",
+      "published_at": "2026-03-28T09:38:00+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "House Republicans reject Senate deal, prolonging partial US government shutdown",
+      "title_zh": "众议院共和党人拒绝参议院协议,延长了部分美国政府停产",
+      "link": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T08:38:34+00:00",
+      "summary": "Republicans in the US House of Representatives have rejected a bipartisan deal to reopen the Department of Homeland Security (DHS) and instead approved a different plan, prolonging the shutdown that has caused huge delays at airports.",
+      "summary_zh": "美国众议院的共和党人拒绝了两党重开国土安全部(DHS)的协议,反而批准了另一个计划,延长了导致机场严重延误的关闭."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+      "title_zh": "尼泊尔前总理因镇压致命抗议被捕,",
+      "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T06:58:37+00:00",
+      "summary": "Nepal's former prime minister KP Sharma Oli has been taken to hospital following his arrest over his alleged involvement in a deadly crackdown on protests last year.",
+      "summary_zh": "尼泊尔前总理KP Sharma Oli因涉嫌参与去年对抗议的致命镇压而被捕后被送往医院。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tiger Woods released on bail after DUI arrest",
+      "title_zh": "虎伍兹在酒驾被捕后保释",
+      "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T06:47:10+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米FBI長官にサイバー攻撃 “イラン関わる”ハッカー集団が声明",
+      "title_zh": "对美国联邦调查局秘书“伊朗科罗纳”的网络攻击",
+      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086571000.html",
+      "published_at": "2026-03-28T06:39:15+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Gaza peace doubts deepen as attention shifts to Iran",
+      "title_zh": "随着注意力转向伊朗,加沙和平的疑虑加深",
+      "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T06:00:37+00:00",
+      "summary": "Nearly six months after a fragile ceasefire came into force in Gaza, Palestinians in this war-torn territory are still struggling.",
+      "summary_zh": "在脆弱的停火在加沙生效近六个月后,这一受战争蹂躏的领土上的巴勒斯坦人仍在挣扎。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+      "title_zh": "“我们的家园已经消失”,",
+      "link": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T06:00:25+00:00",
+      "summary": "More than a million people have been displaced in Lebanon as the US-Israel war with Iran continues to impact the wider region.",
+      "summary_zh": "随着美以战争继续影响更广大地区,黎巴嫩有100多万人流离失所."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "From jammed broadcasts to a blocked website: BBC Russian's 80 years of defiance",
+      "title_zh": "从被卡住的广播到被封锁的网站:BBC 俄罗斯80年的藐视",
+      "link": "https://www.bbc.com/news/articles/c05dlnd3635o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T01:37:21+00:00",
+      "summary": "The Kremlin is tightening its grip over what Russians can do and see online, making it harder for outlets like the BBC to reach their audiences.",
+      "summary_zh": "克里姆林宫正在加紧控制俄罗斯人能做的,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Noah Wyle is back in A&E with new drama The Pitt: 'I hope people watch with empathy'",
+      "title_zh": "诺亚·怀尔回归A&E 出演新剧\"皮特\":\"我希望人们以同情心观看\".",
+      "link": "https://www.bbc.com/news/articles/czjw37ne208o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T01:36:23+00:00",
+      "summary": "A packed waiting room, doctors under pressure, mental health crises. It could be any day in a UK A&E department. But this is the US. More specifically, it's smash-hit medical drama The Pitt, which is American slang for the emergency room (spelt \"pit\"). And it's just landed on our shores.",
+      "summary_zh": "一个收拾好的候诊室,医生在压力下, 心理健康危机。 在英国的A&E部门 可能随时都会出现 但这是美国。 更具体地说,这是被打得粉碎的医疗剧\"皮特\"(The Pitt),这是美国为急诊室(spellt\"pit\")而作的口号. 它刚刚落在我们的海岸上。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+      "title_zh": "\"最严重的危害人类罪\": 联合国对奴隶制的投票意味着什么?",
+      "link": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T01:06:54+00:00",
+      "summary": "The United Nations General Assembly this week overwhelmingly backed a resolution declaring the transatlantic slave trade \"the gravest crime against humanity\".",
+      "summary_zh": "联合国大会本周以压倒多数支持一项决议,宣布跨大西洋贩卖奴隶为\"最严重的危害人类罪\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
+      "title_zh": "\"我们有一个时刻\" - 在硅谷对社交媒体上瘾的恐惧和否认",
+      "link": "https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T00:54:37+00:00",
+      "summary": "Silicon Valley is reeling from the seismic verdict delivered by a Los Angeles jury on Wednesday.",
+      "summary_zh": "硅谷正在从洛杉矶陪审团星期三作出的地震判决中消失。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+      "title_zh": "伊朗战争将老保守派和年轻保守派分割开来,",
+      "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T00:05:47+00:00",
+      "summary": "A majority of the American public, polls suggest, have been against the ongoing US-Israeli military campaign in Iran from the day it started.",
+      "summary_zh": "美国多数民众都反对美以军在伊朗发动军事行动,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Maldives tells UK it does not recognise Chagos Islands deal with Mauritius",
+      "title_zh": "马尔代夫告知英国不承认查戈斯群岛与毛里求斯的交易.",
+      "link": "https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-28T00:01:19+00:00",
+      "summary": "The president of the Maldives has formally told the UK that it does not recognise the deal to hand over the Chagos Islands to Mauritius.",
+      "summary_zh": "马尔代夫总统正式告诉英国,它不承认将查戈斯群岛移交给毛里求斯的协议。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Memory of a generation': China mourns the sudden death of a controversial education influencer",
+      "title_zh": "\"一代人的记忆\": 中国哀悼一个有争议的教育影响者突然去世",
+      "link": "https://www.bbc.com/news/articles/c15dz7ql59yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T23:19:46+00:00",
+      "summary": "Within a decade, Zhang Xuefeng became one of the most recognisable names among China's youth.",
+      "summary_zh": "十年后,张学丰成为了中国青年中最知名的名字之一."
     },
     {
       "source": "BBC News",
@@ -54,26 +334,6 @@
       "summary_zh": "一名26岁的男子因据称计划对一名驻纽约的亲巴勒斯坦活动人士进行\"暴力攻击\"而被捕,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン軍事作戦1か月 米国務長官 “終結に向け調整”",
-      "title_zh": "伊朗军事战略 国务卿“调整以结束”",
-      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086371000.html",
-      "published_at": "2026-03-27T21:54:32+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "池袋 店員刺殺事件 「今夜中に連絡を」女性宅玄関に書き置きか",
-      "title_zh": "Ikebukuro书记\"夜里联系我\"案 女房入口",
-      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086311000.html",
-      "published_at": "2026-03-27T21:49:59+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
@@ -86,52 +346,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Tiger Woods charged with driving under influence after crash",
-      "title_zh": "老虎伍兹被控在坠机后在影响下驾驶",
-      "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-27T21:24:44+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
       "title_zh": "Rubio说,美国预计在几周后结束伊朗战争。",
       "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-27T21:16:30+00:00",
       "summary": "US Secretary of State Marco Rubio says the US expects to finish its operations in Iran \"in the next couple of weeks\".",
       "summary_zh": "美国国务卿马可·鲁比奥(Marco Rubio)表示,美国期望\"在未来几周内\"完成在伊朗的行动."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "フィギュア 坂本花織が世界選手権で優勝 現役最後の大会で",
-      "title_zh": "FIGURE花生坂本在上届世锦赛上夺得世锦赛冠军.",
-      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086421000.html",
-      "published_at": "2026-03-27T20:58:16+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン情勢【日本への影響】政府 原油調達先の多角化急ぐ",
-      "title_zh": "伊朗 S 配子 [Ef s to Japan] 政府 Polu Sour",
-      "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086291000.html",
-      "published_at": "2026-03-27T20:31:39+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump orders paycheques for TSA workers as Congress stalls and airport chaos grinds on",
-      "title_zh": "特朗普下令给TSA的工人支付工资 作为国会的摊位和机场的混乱",
-      "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-27T19:31:57+00:00",
-      "summary": "US President Donald Trump signed an order directing his administration to pay airport security agents on Friday after a bill to fund the Department of Homeland Security (DHS) stalled in Congress.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)签署命令,指示其政府向机场安全人员支付薪酬,此前国会曾有资助国土安全部(DHS)的法案被搁置."
     },
     {
       "source": "BBC News",
@@ -142,16 +362,6 @@
       "published_at": "2026-03-27T19:21:19+00:00",
       "summary": "FBI Director Kash Patel's personal email account has been hacked by an Iran-linked group, the agency has confirmed.",
       "summary_zh": "联邦调查局局长Kash Patel的个人电子邮件账户被伊朗联系的集团黑了,该机构已经证实."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two Cuba-bound aid ships missing after leaving Mexico",
-      "title_zh": "离开墨西哥后,两艘前往古巴的援助船失踪",
-      "link": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-27T18:04:02+00:00",
-      "summary": "A search and rescue operation for two missing sailboats filled with humanitarian supplies travelling from Mexico to Cuba is under way in the Caribbean.",
-      "summary_zh": "目前正在加勒比对两艘失踪帆船进行搜救行动,船上装有从墨西哥到古巴的人道主义用品。"
     },
     {
       "source": "BBC News",
@@ -256,16 +466,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
-      "title_zh": "调整电力和稀释汽油 -- -- 非洲国家如何应对伊朗战争的影响",
-      "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-27T10:58:27+00:00",
-      "summary": "Countries across Africa have taken measures such as diluting petrol and restricting electricity consumption to cope with the fuel crisis triggered by the US and Israel's war in Iran.",
-      "summary_zh": "非洲国家已采取措施,例如稀释汽油和限制用电,以应对由美国和以色列在伊朗的战争所引发的燃料危机."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Women secretly filmed, then ridiculed and abused online",
       "title_zh": "女人在网络上秘密拍摄、嘲笑和虐待",
       "link": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
@@ -302,56 +502,6 @@
       "published_at": "2026-03-27T03:14:10+00:00",
       "summary": "Belarusian President Alexander Lukashenko has gifted North Korean leader Kim Jong Un a rifle as they signed a friendship treaty in Pyongyang, state media report.",
       "summary_zh": "白俄罗斯总统亚历山大·卢卡申科曾赠予朝鲜领导人金正恩 在平壤签订友好条约时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The 15-year-old Indian that cricket can no longer ignore",
-      "title_zh": "15岁的印度人 板球不能再忽视",
-      "link": "https://www.bbc.com/news/articles/ce3dl636ly3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-27T00:27:22+00:00",
-      "summary": "As the world's richest cricket tournament Indian Premier League (IPL) returns on Saturday, there will be a lot of attention on the big names. Some of it will also be on a teenager.",
-      "summary_zh": "随着世界最富有的板球锦标赛印度总理联赛(IPL)于星期六回归,大名将受到很多关注. 有些也会在青少年身上"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three charts that are warning signs flashing for Trump on Iran war",
-      "title_zh": "三张图显示特朗普对伊朗战争的警告",
-      "link": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-27T00:13:09+00:00",
-      "summary": "President Donald Trump's popularity among the American public has been eroding steadily since he returned to the White House in January last year.",
-      "summary_zh": "总统唐纳德·特朗普在美国公众中的受欢迎程度自去年一月回到白宫后就逐渐被削弱."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Guthrie on missing mother: 'We cannot be at peace without knowing'",
-      "title_zh": "Guthrie对失踪的母亲说:\"我们不可能在不知情的情况下和平相处\"",
-      "link": "https://www.bbc.com/news/videos/c0kr5xdj45xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-26T18:09:36+00:00",
-      "summary": "US television presenter Savannah Guthrie believes her mother was kidnapped and that two ransom notes demanding money were real, but more information is required to find her kidnapper.",
-      "summary_zh": "美国电视主持人萨凡纳·格斯里(Savannah Guthrie)认为她的母亲被绑架了,两张索要钱的赎金纸币是真实的,但需要更多的信息才能找到绑架她的人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What happened in the seconds before Air Canada plane crashed at LaGuardia",
-      "title_zh": "加拿大航空飞机在拉瓜地亚坠毁前几秒钟发生了什么",
-      "link": "https://www.bbc.com/news/videos/c70584eye0no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-24T20:55:58+00:00",
-      "summary": "Two pilots were killed and several passengers and crew were injured when an Air Canada plane collided with a fire truck at New York's LaGuardia airport.",
-      "summary_zh": "加拿大航空公司的一架飞机在纽约的拉瓜地亚机场与消防车相撞,造成两名飞行员死亡并有几名乘客和机组人员受伤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How the deadly LaGuardia Airport crash unfolded",
-      "title_zh": "致命的拉瓜地亚机场空难是如何发生的",
-      "link": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-23T22:17:26+00:00",
-      "summary": "Two pilots have died after an Air Canada passenger plane collided with a firefighting truck at New York's LaGuardia Airport on Sunday night.",
-      "summary_zh": "加拿大航空一架客机星期天晚上在纽约的拉瓜地亚机场与一辆消防车相撞后有两名飞行员死亡."
     }
   ]
 }
