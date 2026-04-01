@@ -1,17 +1,287 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-03-31T22:53:08+00:00",
-  "count": 44,
+  "generated_at": "2026-04-01T22:57:42+00:00",
+  "count": 43,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "サッカー日本代表 強化試合で日本がイングランドに勝利",
-      "title_zh": "日本在日本足球比赛中战胜英格兰",
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015088781000.html",
-      "published_at": "2026-03-31T22:48:08+00:00",
+      "title": "「アルテミス計画」 初めて宇宙飛行士乗せた宇宙船打ち上げ",
+      "title_zh": "\"阿尔特米斯计划\" 第一次发射的纳乌特",
+      "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090331000.html",
+      "published_at": "2026-04-01T22:38:23+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "World's oldest known tortoise, Jonathan, dies aged 193",
+      "title_zh": "世界已知最古老的乌龟乔纳森活活了193岁",
+      "link": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T22:20:11+00:00",
+      "summary": "The world's oldest known tortoise, Jonathan, has died at an estimated age of 193, the vet who cared for him has said.",
+      "summary_zh": "世界已知最古老的乌龟乔纳森已经以估计的193岁去世了,照料他的兽医说过."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ブルージェイズ 岡本和真 デビュー戦からの連続試合ヒット6に",
+      "title_zh": "蓝色杰作和尚本在首映时连续出场6场比赛",
+      "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090371000.html",
+      "published_at": "2026-04-01T22:05:21+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NY原油市場 先物価格 一時1バレル＝96ドル台まで値下がり",
+      "title_zh": "纽约原油市场未来价格T 1桶=96美元",
+      "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090351000.html",
+      "published_at": "2026-04-01T21:55:45+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 国民向け演説へ “軍事作戦終了あと2～3週間”",
+      "title_zh": "特朗普总统前往国家,",
+      "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090261000.html",
+      "published_at": "2026-04-01T21:35:31+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "京王線運転見合わせ 飛田給～府中 東府中～府中競馬正門前",
+      "title_zh": "京王線",
+      "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090341000.html",
+      "published_at": "2026-04-01T21:04:06+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "今年度予算案 参院 野党側“首相出席の集中審議が採決の条件”",
+      "title_zh": "今年的\"预算\" 政党:\"总理出席在1996年审议的条件\"",
+      "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090251000.html",
+      "published_at": "2026-04-01T20:29:46+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump to give primetime address on war as questions swirl over his next move",
+      "title_zh": "特朗普在战争中发表黄金时段的演讲 作为问题在接下来的行动中摇摆不定",
+      "link": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T17:07:51+00:00",
+      "summary": "Across the world on Wednesday night, millions of people will tune in to watch Donald Trump deliver a primetime update on the war in Iran. Many will hope for some insight on how the war ends and what might come after.",
+      "summary_zh": "数百万人将参与观看唐纳德·特朗普(Donald Trump)提供伊朗战争最新消息。 许多人希望能够深入了解战争的结局和可能发生的事情。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+      "title_zh": "特朗普关于离开纳托的最新评论对联盟意味着什么?.",
+      "link": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T16:31:17+00:00",
+      "summary": "Of all the warnings in President Trump's arsenal, quitting the Nato military alliance is among those he's wielded the most.",
+      "summary_zh": "在川普总统的武器库中 退出纳托军事联盟的警告 是他掌握最多的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Families cram into Greek court for trial into deadliest train crash",
+      "title_zh": "家庭挤入希腊法庭 审判最致命的火车相撞事件",
+      "link": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T16:30:17+00:00",
+      "summary": "Relatives of the 57 people who died in Greece's worst ever train disaster crowded into a courtroom on Wednesday, demanding justice for the victims.",
+      "summary_zh": "在希腊最惨烈的灾难中死亡的57人的亲属,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Explosions at Burundi ammunition depot kill civilians, witnesses say",
+      "title_zh": "目击者说,布隆迪弹药库爆炸造成平民死亡",
+      "link": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T16:26:19+00:00",
+      "summary": "At least four people have been killed by a series of powerful explosions at an ammunitions depot in Burundi's largest city, Bujumbura, local residents have told the BBC.",
+      "summary_zh": "布隆迪最大城市布琼布拉的弹药库发生一连串爆炸,造成至少四人死亡。 当地居民告诉英国广播公司。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
+      "title_zh": "DR 刚果在52年来首次参加世界杯后宣布国家节日",
+      "link": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T15:13:13+00:00",
+      "summary": "Authorities in the Democratic Republic Congo have declared Wednesday a public holiday after the national football team qualified for their first World Cup in 52 years.",
+      "summary_zh": "刚果民主共和国当局宣布周三是国家足球队52年来首次获得世界杯资格后的公共假日."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South African army arrive in crime hotspots to help tackle gangs",
+      "title_zh": "南非军队到达犯罪热点 帮助对付帮派",
+      "link": "https://www.bbc.com/news/articles/cx2e78yk09no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T14:35:00+00:00",
+      "summary": "South Africa's army has officially been deployed to several parts of the country to help overwhelmed police clamp down on violent crimes, including illicit mining and gangs.",
+      "summary_zh": "南非军队已正式部署到该国几个地区,帮助警方打击暴力犯罪,包括非法采矿和帮派。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Peter Magyar, the former Orban ally vying for power in Hungary",
+      "title_zh": "Peter Magyar,前奥尔班盟友,在匈牙利争夺权力",
+      "link": "https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T13:43:10+00:00",
+      "summary": "\"Now or never,\" Peter Magyar has been telling Hungarians, in a breathless campaign across the country in the run-up to 12 April elections that opinion polls suggest he can win.",
+      "summary_zh": "Peter Magyar一直告诉匈牙利人, 在4月12日大选前,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Devastated Italians reckon with 'third apocalypse' of World Cup failure",
+      "title_zh": "意大利人以世界杯失败的\"第三次启示录\"来看待意大利人",
+      "link": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T12:05:34+00:00",
+      "summary": "Leaning against a wall near a news-stand in central Rome, Tommaso Silvestri, 65, scans the morning's front pages, their headlines swinging between \"apocalypse,\" \"scandal\" and \"disaster\" after Italy's latest footballing collapse.",
+      "summary_zh": "俯瞰罗马中部一家报摊附近的一堵墙上,Tommaso Silvestri,65,扫描了早上的头页,他们的头条标题在\"apocarypse\",\"scandal\"和\"灾难\"之间摇摆,意大利最新的足球倒闭后."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "仏マクロン大統領にNW9広内キャスターが問う 国際社会での役割",
+      "title_zh": "NW9 广内铸造厂 问法国Macron总裁",
+      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089981000.html",
+      "published_at": "2026-04-01T11:59:24+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+      "title_zh": "巨型机器人故障使中国城市交通停止",
+      "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T11:34:31+00:00",
+      "summary": "A mass robotaxi outage in the Chinese city of Wuhan caused at least a hundred self-driving cars to stop mid-traffic, sparking renewed debate around the safety of driverless vehicles.",
+      "summary_zh": "中国武汉市发生大规模机器人外出事故,造成至少百辆自驾车停止中途行驶,引发了对无驾驶车辆安全的重新争论."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brazil judge blocks Sugarloaf Mountain zipline",
+      "title_zh": "巴西法官 Sugaroaf山拉链",
+      "link": "https://www.bbc.com/news/articles/cx29e3wljj2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T11:17:18+00:00",
+      "summary": "A judge in Brazil has blocked a project to build a zipline connecting the famous Sugarloaf Mountain in Rio de Janeiro to a nearby hill, Morro da Urca.",
+      "summary_zh": "巴西的一位法官封锁了修建一条拉链线的项目,将里约热内卢著名的苏格拉夫山与附近的一座山\"Morro da Urca\"相接."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran war economic shocks will last 'months', says Australia's PM",
+      "title_zh": "伊朗战争经济冲击将持续\"月\",",
+      "link": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T10:53:03+00:00",
+      "summary": "Australia's Prime Minister has warned the economic shock from the war involving Iran will \"be with us for months\", as he delivered a rare televised address to the nation.",
+      "summary_zh": "澳大利亚总理警告伊朗卷入战争的经济冲击会\"和我们在一起几个月\",因为他向全国发送了罕见的电视讲话."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+      "title_zh": "以色列加强黎巴嫩的攻击并打击真主党控制下以外的地区",
+      "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T10:33:35+00:00",
+      "summary": "Israel has intensified its attacks on Lebanon this week, hitting areas outside of Hezbollah's control on Tuesday.",
+      "summary_zh": "以色列本周加紧了对黎巴嫩的攻击,星期二袭击了真主党控制范围之外的地区。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China is trying to play peacemaker in the Iran war - will it work?",
+      "title_zh": "中国试图在伊朗战争中扮演和平缔造者——成功吗?.",
+      "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T07:16:15+00:00",
+      "summary": "As the war in the Middle East enters its second month, choking the world's energy supply and sending oil prices soaring, China is trying to step in as a peacemaker.",
+      "summary_zh": "随着中东战争进入了第二个月,窒息了世界能源供应,使石油价格飞涨,中国正试图作为和平缔造者介入."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thousands lose their jobs in deep cuts at tech giant Oracle",
+      "title_zh": "数千人因为科技巨型甲骨文 被严重削减而失业",
+      "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T07:09:46+00:00",
+      "summary": "Tech giant Oracle made \"significant\" job cuts on Tuesday, according to senior employees posting online.",
+      "summary_zh": "科技巨头甲骨文星期二做了\"重大\"裁员,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'It's phenomenal!': Excitement in Florida ahead of Artemis launch",
+      "title_zh": "\"这是惊人的!\": 在阿耳忒弥斯发射前在佛罗里达的兴奋",
+      "link": "https://www.bbc.com/news/videos/c3w3d9lqg2xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T06:37:23+00:00",
+      "summary": "Nasa is due to send the first crewed mission around the Moon in more than 50 years.",
+      "summary_zh": "纳萨将派出50多年以来第一个环绕月球的船员任务."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
+      "title_zh": "梅根,你好吗? 红色摩林表演时被送去医院",
+      "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T05:30:52+00:00",
+      "summary": "Rapper Megan Thee Stallion had to be taken to hospital mid-way through her performance of Moulin Rouge! The Musical, in New York on Tuesday night, her representative has confirmed.",
+      "summary_zh": "拉珀・梅根 她的表演\"红色\"中途被送进医院 星期二晚上在纽约的音乐会 她的代表已经证实"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Divorced couples in Japan can now share custody of their children",
+      "title_zh": "日本的离婚夫妇现在可以分担对子女的监护权",
+      "link": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T04:11:30+00:00",
+      "summary": "Divorced couples in Japan are now allowed to share custody of their children, after a landmark revision to Japan's Civil Code took effect on Wednesday.",
+      "summary_zh": "日本的离婚夫妇在星期三对日本《民法》进行了具有里程碑意义的修订之后,现在可以分担子女的监护权。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'My six-year-old has nosebleeds': Chiang Mai air pollution sparks health fears",
+      "title_zh": "我的六岁小孩流了鼻血: 清迈空气污染引发了健康恐惧",
+      "link": "https://www.bbc.com/news/articles/c0le03ne05ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T03:19:10+00:00",
+      "summary": "Tirayut Wongsantisuk and his wife moved to Chiang Mai in the 2010s, drawn by the hilly region's cool air and lush greenery.",
+      "summary_zh": "Tirayut Wongsantisuk和他的妻子于2010年代搬到了清迈,由丘陵地区的凉爽空气和浓郁的绿色取材."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Billion-plus people, three million officials, 33 questions - India begins huge census",
+      "title_zh": "亿多人民,三百万官员,33个问题——印度开始大规模人口普查.",
+      "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T00:11:33+00:00",
+      "summary": "Does your house have a concrete roof or a thatched one?",
+      "summary_zh": "你的房子有混凝土屋顶吗?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Moonshots' and merch - what it's like to be on Florida's Space Coast ahead of Artemis launch",
+      "title_zh": "\"月光\"和\"Merch\"——在阿耳忒弥斯发射前在佛罗里达太空海岸是什么感觉",
+      "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T00:00:18+00:00",
+      "summary": "\"People going up to the Moon is kind of cool,\" eight-year-old Isiah says.",
+      "summary_zh": "\"人们上月球是有点酷\",\"八岁的以西亚说."
     },
     {
       "source": "BBC News",
@@ -19,59 +289,39 @@
       "title": "Judge temporarily halts construction of Trump's White House ballroom",
       "title_zh": "法官暂时停止建造特朗普的白宫舞厅",
       "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T22:16:06+00:00",
+      "published_at": "2026-03-31T23:58:29+00:00",
       "summary": "A US judge has temporarily halted President Donald Trump's White House ballroom construction project, ruling that proper procedures were not followed before the project began.",
-      "summary_zh": "一名美国法官暂时中止了总统唐纳德·特朗普的白宫舞厅建设项目,裁定在项目开始前没有遵循适当的程序."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NTT 電話番号を案内する「104」サービス終了 136年の歴史に幕",
-      "title_zh": "指导NTT电话号码的\"104\"服务结束于136年的历史",
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089381000.html",
-      "published_at": "2026-03-31T22:12:14+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "summary_zh": "一名美国法官暂时中止了总统唐纳德·特朗普的\"白宫\"舞厅建设项目,裁定在项目开始前没有遵循适当的程序."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
-      "title_zh": "黎巴嫩路边爆炸致死的维和人员,初次报告发现",
-      "link": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T22:07:26+00:00",
-      "summary": "Two Indonesian peacekeepers were killed on Monday by a \"roadside explosion\" in southern Lebanon, UN peacekeeping chief Jean-Pierre Lacroix has said, citing the findings of an initial investigation.",
-      "summary_zh": "两名印尼维和人员星期一在黎巴嫩南部被“路边爆炸”炸死,"
+      "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+      "title_zh": "\"你不再是我妹妹了\" \"随着战争的爆发\"",
+      "link": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-31T23:25:19+00:00",
+      "summary": "\"He said to her: 'You're no longer my sister', and she told him to go to hell.\"",
+      "summary_zh": "\"他对她说:\"你不再是我妹妹了\",她叫他下地狱去."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "仕事と病気の治療を両立へ 1日から企業の支援が努力義務に",
-      "title_zh": "负责工作和疾病",
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089121000.html",
-      "published_at": "2026-03-31T21:59:17+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+      "title_zh": "“一百万件事情可能会出错” - 为什么夺取伊朗的铀对美国如此危险?",
+      "link": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-31T23:16:15+00:00",
+      "summary": "US troops storming a secretive, underground nuclear facility to seize Iran's stockpile of enriched uranium may sound far-fetched, but it is an option President Donald Trump is reportedly considering to achieve his main objective in the war: preventing the regime from developing nuclear weapons.",
+      "summary_zh": "美军冲入秘密地下核设施来夺取伊朗所储存的浓缩铀可能听起来很牵强,但据报道这是唐纳德·特朗普总统正在考虑实现他战争的主要目标:阻止政权发展核武器的一个选项."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 原油輸送影響受ける国に「自分で取りに行け」",
-      "title_zh": "特朗普总统「让我们照顾好自己」,",
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089331000.html",
-      "published_at": "2026-03-31T21:28:32+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "高校授業料の実質無償化へ 公立小学校の給食費 負担軽減も",
-      "title_zh": "中学学费实际免费 公立小学午餐费",
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089291000.html",
-      "published_at": "2026-03-31T21:18:28+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
+      "title_zh": "亚洲移徙工人争论海湾地区的工作是否值得伊朗战争的致命风险",
+      "link": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-31T22:48:34+00:00",
+      "summary": "All Norma Tactacon can do is pray as the sirens blare.",
+      "summary_zh": "诺玛·塔克塔康能做的就是像警笛声一样祈祷"
     },
     {
       "source": "BBC News",
@@ -81,187 +331,37 @@
       "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-31T21:08:35+00:00",
       "summary": "A US freelance journalist has been kidnapped in the Iraqi capital Baghdad, and one of the suspects is linked to an Iran-backed militia, Iraqi and US officials say.",
-      "summary_zh": "一名美国自由记者在伊拉克首都巴格达遭绑架,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "King's state visit to US to go ahead in April, but no Harry meeting",
-      "title_zh": "国王4月访问美国 但没有哈利会面",
-      "link": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T21:00:24+00:00",
-      "summary": "King Charles and Queen Camilla will meet US President Donald Trump in late April, as a state visit to the United States has been confirmed by Buckingham Palace.",
-      "summary_zh": "查尔斯国王和卡米拉女王将在4月下旬会见美国总统唐纳德·特朗普,因为白金汉宫已经确认了对美国的国事访问."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "参院 年度またぎ今年度予算案審議 衆院では重要法案の審議へ",
-      "title_zh": "议会对年终和新年拟议预算的审议",
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089281000.html",
-      "published_at": "2026-03-31T20:37:19+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "KDDI架空取引問題 ノウハウ不足が不正見逃す一因に 特別調査委",
-      "title_zh": "由于缺乏专门知识,特别调查代表团",
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089221000.html",
-      "published_at": "2026-03-31T20:21:54+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Italian Christmas meal tragedy turns into murder inquiry",
-      "title_zh": "意大利圣诞大餐悲剧变成谋杀调查",
-      "link": "https://www.bbc.com/news/articles/cje470qgl1yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T19:52:31+00:00",
-      "summary": "Italian prosecutors have opened a murder investigation following the deaths of a mother and her teenage daughter after a pre-Christmas meal last year.",
-      "summary_zh": "意大利检察官在去年圣诞节前吃过一顿饭后,一名母亲和她十几岁的女儿死亡后,开始了谋杀调查。"
+      "summary_zh": "一名美国自由记者在伊拉克首都巴格达被绑架,其中一名嫌犯与伊朗支持的民兵有关,伊拉克和美国官员说."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "title_zh": "以色列说,在真主党结束战争之后,它将控制黎巴嫩南部的部分地区。",
+      "title_zh": "以色列说,在真主党结束战争之后,它将控制黎巴嫩南部部分地区。",
       "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-31T18:57:25+00:00",
       "summary": "Israel's defence minister has said a buffer zone will be set up inside southern Lebanon and that Israel will keep security control over a swathe of the territory even after the end of the current war against the armed group Hezbollah.",
-      "summary_zh": "以色列国防部长说,将在黎巴嫩南部建立缓冲区,即使在目前对真主党武装团体的战争结束之后,以色列仍对这片领土进行安全控制。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
-      "title_zh": "根据以色列新法律,被判犯有致命攻击罪的巴勒斯坦人面临死刑",
-      "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T17:30:05+00:00",
-      "summary": "Israel's parliament has approved a law that would make the death penalty the default sentence for Palestinians convicted of deadly terror attacks.",
-      "summary_zh": "以色列议会批准了一项法律,将死刑定为对被判犯有致命恐怖袭击罪的巴勒斯坦人的缺席判决。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Wolf bites woman in shock German attack on busy Hamburg shopping street",
-      "title_zh": "狼咬女人 震惊德国进攻汉堡购物街",
-      "link": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T13:00:32+00:00",
-      "summary": "A woman has been bitten by a wolf in a major shopping street in Hamburg, according to German authorities.",
-      "summary_zh": "德国当局称,在汉堡的一条主要购物街上,一名妇女被狼咬伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran using children in security roles in war, reports and witnesses say",
-      "title_zh": "伊朗利用儿童在战争中扮演安全角色,报道和目击者说",
-      "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T12:56:45+00:00",
-      "summary": "The death of an 11-year-old Iranian boy reportedly in an air strike while manning a security checkpoint alongside his father in Tehran has thrown focus on a new initiative to recruit children into the security services.",
-      "summary_zh": "一名11岁的伊朗男孩据说在一次空袭中丧生,当时他正在德黑兰与父亲一起担任一个安全检查站的职务,这促使人们关注一项招募儿童加入安全部门的新倡议。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian oil tanker docks in Cuba ending near-total blockade",
-      "title_zh": "俄罗斯在古巴的油轮码头结束了几乎完全的封锁",
-      "link": "https://www.bbc.com/news/articles/clyx1lrv0w5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T12:51:51+00:00",
-      "summary": "A Russian-owned tanker carrying an estimated 730,000 barrels of crude oil has docked on the northern coast of Cuba, ending a near-total fuel blockade by the US on the communist-run island.",
-      "summary_zh": "一艘载有约73万桶原油的俄罗斯油轮停靠在古巴北部海岸,结束了美国对共产主义控制的岛屿几乎完全的燃料封锁。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least 16 killed and thousands displaced by gang attack in rural Haiti",
-      "title_zh": "在海地农村,至少有16人因帮派袭击而丧生,数千人流离失所",
-      "link": "https://www.bbc.com/news/articles/cql76l4221qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T12:02:46+00:00",
-      "summary": "Police are trying to reach a gang-controlled area in central Haiti where at least 16 people have been killed in a series of attacks over the weekend.",
-      "summary_zh": "警察正试图前往海地中部的一个帮派控制区,在该区,至少有16人在周末的一系列袭击中丧生。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kissing a woman's hand can be sexual assault, Spanish court finds",
-      "title_zh": "亲吻女人的手可能是性攻击 西班牙法院发现",
-      "link": "https://www.bbc.com/news/articles/cx2w6239p64o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T11:37:47+00:00",
-      "summary": "Spain's Supreme Court has ruled that a man kissing the hand of a woman without her consent can constitute sexual assault.",
-      "summary_zh": "西班牙最高法院裁定,未经女性同意接吻的男性可构成性侵犯."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China bans storing cremated remains in empty 'bone ash apartments'",
-      "title_zh": "中国禁止将火化的遗骨存放在空的\"骨灰公寓\"",
-      "link": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T10:53:10+00:00",
-      "summary": "The Chinese government is set to ban people from storing the cremated remains of their loved ones in empty apartments instead of paying for expensive cemetery plots.",
-      "summary_zh": "中国政府将禁止人们将亲人的火葬遗骨存放在空置的公寓里,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Teen cyclist killed at Road World Championships not found for 82 minutes",
-      "title_zh": "在公路世界锦标赛上阵亡的少年骑手 82分钟没找到",
-      "link": "https://www.bbc.com/sport/cycling/articles/cnv85v7r22ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T09:59:52+00:00",
-      "summary": "Furrer was also a promising mountain bike rider",
-      "summary_zh": "Furrer也是有前途的山地自行车骑手"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eurovision Song Contest launches first-ever Asia edition",
-      "title_zh": "欧洲电视歌唱大赛首次在亚洲发行",
-      "link": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T09:51:58+00:00",
-      "summary": "Known for its glitzy stage costumes and sometimes outlandish performances, the Eurovision Song Contest is now launching its first ever Asia edition.",
-      "summary_zh": "欧洲影视歌唱大赛以其优雅的舞台服装以及有时荒诞的表演而闻名,目前正在推出有史以来首个亚洲版."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
-      "title_zh": "苏丹各地「日常生活」中的性暴力,",
-      "link": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T07:12:41+00:00",
-      "summary": "Rape and sexual violence remain \"part of everyday life\" in areas of Sudan even when fighting in the country's civil war has moved elsewhere, according to a new report by medical charity Médecins Sans Frontières (MSF).",
-      "summary_zh": "根据医疗慈善无国界医生组织(MSF)的一份新报告, 在苏丹地区, 强奸和性暴力仍是“日常生活的一部分”,"
+      "summary_zh": "以色列国防部长说,将在黎巴嫩南部建立缓冲区,即使在目前对真主党武装团体的战争结束之后,以色列仍对这片地段实行安全控制。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman",
-      "title_zh": "澳大利亚为Dezi Freeman搜捕七个月,",
+      "title_zh": "澳大利亚为Dezi Freeman搜捕了七个月,",
       "link": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-31T04:04:32+00:00",
       "summary": "Seven months ago, few outside of the Australian state of Victoria had heard of the town of Porepunkah, with its population of just over 1,000 people.",
-      "summary_zh": "7个月前,在澳大利亚维多利亚州外,很少有人听说过波雷蓬卡镇,该镇的人口刚刚超过1000人."
+      "summary_zh": "7个月前,在澳大利亚维多利亚州之外,很少有人听说过波雷蓬卡镇,该镇的人口刚刚超过1000人."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Who are the Artemis II astronauts heading to the Moon?",
-      "title_zh": "阿耳忒弥斯二号宇航员是谁 飞向月球?",
+      "title_zh": "阿耳忒弥斯二号的宇航员是谁 前往月球?",
       "link": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-31T03:46:22+00:00",
       "summary": "Four astronauts are about to become the most closely watched crew since Apollo.",
-      "summary_zh": "四名宇航员即将成为阿波罗以来最密切监视的乘员."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kid Rock sparks US Army probe after helicopter flyby at his mansion",
-      "title_zh": "基德·洛克在直升机飞到他家后 点燃了美军的探测器",
-      "link": "https://www.bbc.com/news/articles/cdrmgvzm62no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-31T02:50:07+00:00",
-      "summary": "The US Army has launched a review after musician Kid Rock shared a video showing two military helicopters hovering outside his Tennessee home.",
-      "summary_zh": "美国陆军在音乐家Kid Rock分享一段录像后,"
+      "summary_zh": "四名宇航员即将成为自阿波罗以来最严密监视的乘员."
     },
     {
       "source": "BBC News",
@@ -271,7 +371,7 @@
       "link": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-31T02:33:18+00:00",
       "summary": "Pakistan's role as intermediary in this conflict took many by surprise.",
-      "summary_zh": "巴基斯坦在这场冲突中扮演中间人的角色令许多人感到惊讶。"
+      "summary_zh": "巴基斯坦在这场冲突中的中间人作用使许多人感到惊讶。"
     },
     {
       "source": "BBC News",
@@ -281,127 +381,47 @@
       "link": "https://www.bbc.com/news/articles/crm17m2gzl2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-31T00:14:17+00:00",
       "summary": "Farm work is personal for many people in the state of California, where nearly three-quarters of America's fruits and nuts are grown.",
-      "summary_zh": "对加利福尼亚州许多人来说,农场工作是个人的,那里种植着将近四分之三的美国水果和坚果."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inside the cockpit of RAF tanker during defensive mission against Iranian drones",
-      "title_zh": "在抵抗伊朗无人驾驶飞机的防御任务期间,在RAF油轮驾驶舱内",
-      "link": "https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-30T23:10:44+00:00",
-      "summary": "The loud screech of a Typhoon and F-35 jet rips through the night sky above RAF Akrotiri in Cyprus. It's followed by the heavier rumble of the larger refuelling aircraft that will join its mission - hunting down Iranian drones.",
-      "summary_zh": "在塞浦路斯的RAF Akrotiri上空, 之后是更大的加油机的更猛烈的轰鸣声,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Long queues in Myanmar as Iran war fuel crisis deepens",
-      "title_zh": "随着伊朗战争燃料危机加深,缅甸排队时间很长",
-      "link": "https://www.bbc.com/news/videos/cn08w9ye38yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-30T22:03:59+00:00",
-      "summary": "The closure of the Strait of Hormuz after the US and Israel struck Iran in late February has sent shockwaves across the globe, with oil prices soaring and shipping disrupted.",
-      "summary_zh": "2月下旬美国和以色列袭击伊朗后关闭霍尔木兹海峡,使全球受到冲击,油价暴涨,航运中断。"
+      "summary_zh": "农场工作对于加利福尼亚州许多人来说是个人的,那里种植了将近四分之三的美国水果和坚果."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Inside Nasa's moon spacesuit lab ahead of Artemis launch",
-      "title_zh": "在阿尔忒弥斯发射前 Nasa的月球太空服实验室内部",
+      "title_zh": "在阿尔忒弥斯发射前 纳萨的月球太空服实验室内部",
       "link": "https://www.bbc.com/news/videos/cvgknq28nlko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-30T15:48:53+00:00",
       "summary": "Nasa astronauts are gearing up for the first lunar fly-around mission in more than half a century. Nasa's Dustin Gohmert is responsible for engineering the spacesuits at Johnson Space Center's Orion Crew Survival Systems Lab.",
-      "summary_zh": "纳萨宇航员准备进行半个多世纪以来的第一次月球飞行飞行任务。 纳萨的Dustin Gohmert负责在约翰逊航天中心的猎户座机组生存系统实验室对太空服进行工程设计."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fuel rations and free buses: How countries are responding to rising oil prices",
-      "title_zh": "燃料口粮和免费公共汽车:各国如何应对油价上升",
-      "link": "https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-30T15:07:13+00:00",
-      "summary": "The war in Iran and the effective closure of the Strait of Hormuz - through which around 20% of the world's oil and natural gas flows - has seen fuel costs rise sharply in the past month.",
-      "summary_zh": "伊朗战争和有效关闭霍尔木兹海峡(全球石油和天然气流量的20%左右),在过去一个月燃料成本急剧上升。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How the US could try to seize Iran's Kharg Island",
-      "title_zh": "美国怎样才能夺取伊朗的哈格岛?",
-      "link": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-30T14:54:47+00:00",
-      "summary": "US President Donald Trump has indicated that he may send troops to seize control of Iran's key oil export terminal at Kharg Island in the northern Gulf. So what's behind this, how would it work and what are the risks?",
-      "summary_zh": "美国总统唐纳德·特朗普表示,他可能派兵夺取伊朗北部湾哈格岛关键石油出口终端的控制权. 那么,是什么背后, 它会如何工作,是什么风险?"
+      "summary_zh": "纳萨宇航员准备进行半个多世纪以来的第一次月球飞行飞行任务。 纳萨的\"Dustin Gohmert\"负责在约翰逊航天中心的\"猎户座飞船生存系统实验室\"(Orion Crew Survival Systems Lab)对太空服进行工程设计."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "How Australia’s seven-month-long manhunt came to an end",
-      "title_zh": "澳大利亚七个月的追捕是如何结束的",
+      "title_zh": "澳大利亚7个月的追捕是如何结束的",
       "link": "https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-30T05:58:41+00:00",
       "summary": "Australian fugitive Dezi Freeman was reportedly shot and killed by police on Monday. Freeman had been wanted by authorities since he gunned down two police officers on his property in the small Victorian town of Porepunkah last August. Here's everything we know so far about how the seven-month manhunt came to an end.",
-      "summary_zh": "据报道,澳大利亚逃犯Dezi Freeman星期一被警察枪杀。 弗里曼去年8月在维多利亚州小城镇波雷蓬卡的房产上枪杀了两名警察,此后便被当局通缉。 这就是我们目前所知的 七个月的追捕是如何结束的"
+      "summary_zh": "据报道,澳大利亚逃犯德齐·弗里曼(Dezi Freeman)于星期一被警察枪杀. 弗里曼去年8月在维多利亚州小城镇波雷蓬卡的地产上枪杀了两名警察,此后便被当局通缉. 这就是我们目前所知的 七个月的追捕是如何结束的"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
-      "title_zh": "第一站 月亮号 下一站,火星吗? 纳萨的使命为何重要",
+      "title_zh": "第一站月亮号. 下一站,火星吗? 纳萨的使命为何重要",
       "link": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-29T23:50:21+00:00",
-      "summary": "In just a few days Nasa is planning to launch the Artemis II mission, sending four astronauts on their way to the Moon.",
-      "summary_zh": "在短短几天内,纳萨正计划发射阿耳忒弥斯二号任务,在前往月球的途中派出4名宇航员."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why Chinese tech companies are racing to set up in Hong Kong",
-      "title_zh": "中国科技公司为何在香港成立",
-      "link": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-29T23:07:12+00:00",
-      "summary": "In a hotel lobby on Hong Kong Island, a delivery robot pauses outside one of the lifts as the doors open, and a guest steps out. The robot waits, and then rolls neatly inside.",
-      "summary_zh": "在香港岛的酒店大堂,一个送货机器人在电梯门打开时在其中一个电梯外面暂停,一个客人走出门. 机器人等待,然后在内部顺利地滚动。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-      "title_zh": "科技首席执行官突然喜欢指责AI大规模裁员. 为什么?",
-      "link": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-29T23:07:04+00:00",
-      "summary": "Sweeping job cuts at Big Tech companies have become an annual tradition. How executives explain those decisions, however, has changed.",
-      "summary_zh": "大科技公司裁员成为年度传统. 但是,行政主管对这些决定的解释已经改变。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Photos show heavily damaged US radar jet at Saudi base",
-      "title_zh": "照片显示,在沙特基地,美国雷达飞机严重受损。",
-      "link": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-29T18:42:19+00:00",
-      "summary": "Verified pictures show a US command and control aircraft has been destroyed at an air base in Saudi Arabia.",
-      "summary_zh": "经核实的照片显示,一架美国指挥和控制飞机在沙特阿拉伯的一个空军基地被摧毁。"
+      "summary": "Nasa's Artemis II mission is sending four astronauts on their way to the Moon.",
+      "summary_zh": "纳萨的\"阿尔特米斯二号\"任务将派出4名宇航员前往月球."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
-      "title_zh": "贝鲁特数百名记者在以色列袭击中丧生,",
+      "title_zh": "贝鲁特有数百名记者在以色列袭击中丧生",
       "link": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-29T15:20:44+00:00",
       "summary": "The BBC's Middle East correspondent Hugo Bachega reports from the funerals of three journalists killed by a targeted attack by Israel in southern Lebanon on Saturday 28 March.",
-      "summary_zh": "BBC中东记者雨果·巴切加(Hugo Bachega)报道了3月28日星期六三名记者在黎巴嫩南部被以色列定点袭击杀害的葬礼."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "One ant for $220: The new frontier of wildlife trafficking",
-      "title_zh": "一只蚂蚁换220美元:贩运野生动物的新前沿",
-      "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-29T00:01:15+00:00",
-      "summary": "The ants are flying in Kenya at the moment.",
-      "summary_zh": "蚂蚁目前在肯尼亚飞行."
+      "summary_zh": "英国广播公司中东记者雨果·巴切加(Hugo Bachega)报道了3月28日星期六在黎巴嫩南部被以色列定点袭击杀害的三名记者的葬礼."
     },
     {
       "source": "BBC News",
@@ -411,37 +431,7 @@
       "link": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-03-28T22:02:34+00:00",
       "summary": "Global landmarks including the Eiffel Tower in Paris and Sagrada Família Basilica in Barcelona switched off their lights for an hour at 20:30 local time on Saturday night to mark Earth Hour.",
-      "summary_zh": "全球地标包括巴黎的埃菲尔铁塔和巴塞罗那的萨格拉达·法米利亚·巴西利卡(Sagrada Familia Basilica)在星期六晚上当地时间20:30关闭了一小时的灯,以纪念地球一小时."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Expectant mothers in Cuba struggle under fuel blockade",
-      "title_zh": "古巴的孕妇在燃料封锁下挣扎",
-      "link": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-28T14:14:46+00:00",
-      "summary": "In January 2026, the Trump administration enforced an oil and fuel blockade on Cuba, triggering severe energy shortages and widespread blackouts that have especially impacted vulnerable populations, such as expectant mothers.",
-      "summary_zh": "2026年1月,特朗普政府对古巴实施石油和燃料封锁,引发严重能源短缺和大面积停电,尤其影响了孕妇等弱势人群."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
-      "title_zh": "“我们的家园已经消失”,",
-      "link": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-28T06:00:25+00:00",
-      "summary": "More than a million people have been displaced in Lebanon as the US-Israel war with Iran continues to impact the wider region.",
-      "summary_zh": "随着美以战争继续影响更广大地区,黎巴嫩超过100万人流离失所."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is it so hard to pass through the Strait of Hormuz?",
-      "title_zh": "何故难过霍尔木兹海峡.",
-      "link": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-03-27T14:10:30+00:00",
-      "summary": "Around 20% of the world’s oil supply normally passes through the Strait of Hormuz - the narrow waterway between Iran and the horn-like tip of the Arabian peninsula.",
-      "summary_zh": "世界上约20%的石油供应通常通过霍尔木兹海峡-伊朗与阿拉伯半岛角状尖之间的狭窄水道。"
+      "summary_zh": "全球地标包括巴黎的埃菲尔铁塔和巴塞罗那的萨格拉达·法米利亚·巴西利卡(Sagrada Familia Basilica)在星期六晚上当地时间20:30关闭了一小时的灯,以纪念\"地球一小时\"."
     }
   ]
 }
