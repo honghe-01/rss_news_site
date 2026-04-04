@@ -1,57 +1,297 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-04-03T22:53:55+00:00",
-  "count": 35,
+  "generated_at": "2026-04-04T22:49:25+00:00",
+  "count": 43,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "レバノン イラン支援組織とイスラエルの戦闘続く 人道状況悪化",
-      "title_zh": "黎巴嫩 伊朗支持组织,以色列战斗继续恶化",
-      "link": "http://www3.nhk.or.jp/news/html/20260404/k10015091821000.html",
-      "published_at": "2026-04-03T22:33:10+00:00",
+      "title": "ゼレンスキー大統領 トルコと安全保障面の協力強化で合意",
+      "title_zh": "泽伦斯基总统同意加强土耳其与安全之间的合作",
+      "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092391000.html",
+      "published_at": "2026-04-04T22:42:07+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "“米軍戦闘機を撃墜”イランメディア伝える 攻撃の応酬続く",
-      "title_zh": "“击倒美国陆军战士”",
-      "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092011000.html",
-      "published_at": "2026-04-03T22:04:22+00:00",
+      "title": "イラン「新防空システム導入」 トランプ大統領「あと48時間」",
+      "title_zh": "伊朗“引入新的反空中系统”",
+      "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092351000.html",
+      "published_at": "2026-04-04T22:21:25+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Artemis II crew take 'spectacular' image of Earth",
-      "title_zh": "阿尔特米斯二号机组拍摄出地球的\"外观\"图像",
+      "title": "The man who became one of India's greatest stage queens",
+      "title_zh": "成为印度最伟大的舞台后人之一",
+      "link": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T22:20:51+00:00",
+      "summary": "In mid-20th Century Bengal in eastern India, some of the biggest female stars on stage were actually men.",
+      "summary_zh": "20世纪中叶,印度东部的孟加拉,舞台上一些最大的女星实际上是男性."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ホワイトソックス 村上宗隆 逆転のツーランホームラン",
+      "title_zh": "白袜子 Sotaka Ms. Murakami 翻转图兰家跑",
+      "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092361000.html",
+      "published_at": "2026-04-04T22:05:11+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
+      "title_zh": "美国和伊朗威胁要发射\"地狱\",",
+      "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T21:56:24+00:00",
+      "summary": "US President Donald Trump has threatened that \"all hell would rain down on\" Iran if it did not make a deal, prompting Tehran to respond with similar rhetoric.",
+      "summary_zh": "美国总统唐纳德·特朗普已威胁说,如果伊朗不达成协议,\"所有地狱都会降下\"伊朗,这促使德黑兰以类似的花言巧语作出回应."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "気温上昇 夏日予想も 関東は局地的に急な雷雨に注意",
+      "title_zh": "夏季预报 坎多是当地降雨",
+      "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092381000.html",
+      "published_at": "2026-04-04T21:31:46+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+      "title_zh": "美国说,它逮捕了伊朗已故将军Qasem Soleimani的亲属。",
+      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T21:29:46+00:00",
+      "summary": "The niece and grand-niece of the deceased commander of the Iranian Revolutionary Guard Corps, Gen Qasem Soleimani, have been arrested, the US state department has said.",
+      "summary_zh": "伊朗革命卫队已故指挥官Gen Qasem Soleimani的外甥女和外孙外孙已经被捕,美国国务院说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "German males under 45 may need military approval for long stays abroad",
+      "title_zh": "年龄在45岁以下的德国男性在国外长期居留可能需要军方批准",
+      "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T21:16:42+00:00",
+      "summary": "German males aged between 17 and 45 may need to seek approval for lengthy stays abroad, under changes introduced as part of a new law which introduced voluntary military service.",
+      "summary_zh": "17至45岁的德国男性可能需要申请在国外长期居留的许可,根据引入志愿兵役的新法律进行的修改。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Search for missing airman presents serious test for US",
+      "title_zh": "寻找失踪的飞行员是美国的重要考验",
+      "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T20:13:41+00:00",
+      "summary": "President Donald Trump had said Iran couldn't \"do a thing\" about American aircraft operating over its territory, insisting its air defences had been significantly weakened.",
+      "summary_zh": "唐纳德·特朗普总统曾表示,伊朗不能\"做任何事情\"来对付在其领土上飞行的美国飞机,坚持其防空力量被大大削弱."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know so far about the US fighter jet shot down over Iran",
+      "title_zh": "关于美国战斗机在伊朗上空被击落的消息",
+      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T20:06:12+00:00",
+      "summary": "A search is under way for a missing crew member after a US F-15 fighter jet flying over southern Iran was shot down on Friday.",
+      "summary_zh": "在星期五一架美国F-15战斗机被击落后,正在搜寻一名失踪的机组人员。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian attack on Ukraine market kills five",
+      "title_zh": "俄罗斯对乌克兰市场的攻击造成5人死亡",
+      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T18:54:53+00:00",
+      "summary": "A Russian drone attack on a market in southern Ukraine has killed five people and injured 21, including a 14-year-old girl, the prosecutor general's office says.",
+      "summary_zh": "[永久失效連結] 俄罗斯无人机袭击乌克兰南部市场已造成5人死亡21人受伤 包括一名14岁女孩 检察总长办公室称."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "World's oldest leader to get a deputy for first time in 43-year rule",
+      "title_zh": "世界最年长的领袖 在43年的统治中第一次获得一名副手",
+      "link": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T18:30:58+00:00",
+      "summary": "Cameroon's President Paul Biya, the world's oldest leader, is set to get a vice-president for the first time in his four-decade rule following controversial constitutional changes backed by parliament.",
+      "summary_zh": "喀麦隆总统保罗·比亚(Paul Biya)是世界上最年长的领导人,他将在议会支持的有争议的宪法改革之后,在其长达40年的统治中首次获得一位副总统。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "新入社員の給料が年々上昇 既存社員の待遇改善も新たな課題に",
+      "title_zh": "新雇员的工资逐年增加",
+      "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092311000.html",
+      "published_at": "2026-04-04T14:55:41+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“米軍戦闘機など2機 イランの攻撃で墜落 1人行方不明” 報道",
+      "title_zh": "“T.美国陆军战士和其他伊朗袭击:一人不明”出版社",
+      "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092011000.html",
+      "published_at": "2026-04-04T13:25:11+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "原油 来年の年明けまで確保できると見込む 政府",
+      "title_zh": "原油有望到来年",
+      "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092241000.html",
+      "published_at": "2026-04-04T12:57:41+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australians told to continue Easter travel plans despite fuel shortages",
+      "title_zh": "澳大利亚人说,尽管燃料短缺,仍要继续执行复活节旅行计划。",
+      "link": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T12:10:10+00:00",
+      "summary": "The Australian government has encouraged people to go ahead with their Easter travel plans, despite fuel shortages at hundreds of petrol stations across the country.",
+      "summary_zh": "澳洲政府鼓励民众继续推行复活节出行计划,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+      "title_zh": "逃犯黑手党老大在阿马尔菲海岸豪华别墅被通缉",
+      "link": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T11:10:28+00:00",
+      "summary": "A mafia boss wanted for murder has been arrested at a luxury villa on the Amalfi Coast after more than a year on the run, Italian police have said.",
+      "summary_zh": "意大利警方说,一名被通缉谋杀的黑手党老板在逃亡一年多之后,在阿马尔菲海岸的豪华别墅被拘捕."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know so far about the search for missing US airman in Iran",
+      "title_zh": "我们目前对伊朗失踪的美国飞行员的了解",
+      "link": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T11:00:34+00:00",
+      "summary": "US and Iranian forces have been searching for a missing American crew member after a US warplane was shot down.",
+      "summary_zh": "美国和伊朗部队在一架美国战机被击落后一直在寻找一名失踪的美国船员."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+      "title_zh": "在伊朗的救援队 面对“可怕而危险的”搜捕美国船员",
+      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T10:41:38+00:00",
+      "summary": "Early reports indicate that the pilot of a US F-15 fighter aircraft downed over Iran was rescued - which, if confirmed, would be the latest in the long history of US combat search-and-rescue missions over decades.",
+      "summary_zh": "早期的报道显示,一架在伊朗上空被击落的美国F-15战斗机的飞行员被救出——如果得到证实,这将是美国数十年来的作战搜救任务中的最新一次."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Senegal bans ministers from foreign travel as oil price rise bites",
+      "title_zh": "随着油价上涨,塞内加尔禁止部长出行。",
+      "link": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T10:15:01+00:00",
+      "summary": "Government ministers in Senegal have been banned from all non-essential foreign travel following the rise in the price of oil resulting from the conflict in Iran, the prime minister has announced.",
+      "summary_zh": "总理宣布,在伊朗冲突导致油价上涨后,塞内加尔政府部长被禁止所有非必要的外国出行。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
+      "title_zh": "特朗普要求15.2亿美元重开臭名昭著的阿尔卡特斯监狱",
+      "link": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T09:17:10+00:00",
+      "summary": "US President Donald Trump is seeking $152m (£115m) to reopen the infamous Alcatraz prison as part of his proposed budget for the 2027 fiscal year.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)寻求1.52亿美元(1.15亿英镑)重新开放臭名昭著的阿尔卡特兹监狱,作为他2027财政年度拟议预算的一部分."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+      "title_zh": "Zelensky表示,",
+      "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T08:34:00+00:00",
+      "summary": "Ukrainian President Volodymyr Zelensky has accused Moscow of choosing \"Easter escalation\" over an Easter ceasefire after Russia carried out another deadly large-scale drone and missile attack on Ukraine.",
+      "summary_zh": "乌克兰总统沃洛德米尔·泽连斯基指责莫斯科选择\"复活节升级\",取而代之的是俄罗斯再次对乌克兰发动了致命的大规模无人机和导弹袭击后复活节停火."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+      "title_zh": "阿尔忒弥斯二号机组人员在月球中途拍摄出地球的外观图像",
       "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T21:44:31+00:00",
-      "summary": "Nasa has shared the first high-resolution images of the Earth taken by the Artemis II crew as they head on their trip around the Moon.",
-      "summary_zh": "纳萨分享了阿耳忒弥斯二号机组在环绕月球出行时拍摄的第一批地球高分辨率图像."
+      "published_at": "2026-04-04T06:42:48+00:00",
+      "summary": "Nasa has shared the first high-resolution images of the Earth taken by the Artemis II crew as they pass the halfway point between the Earth and the Moon.",
+      "summary_zh": "纳萨分享了阿耳忒弥斯二号机组在经过地与月球之间的中点时拍摄的第一批地球高分辨率图像."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "沖縄 辺野古沖の転覆事故 生徒の遺族が娘への思いなど情報発信",
-      "title_zh": "冲绳变形事故 学生会给女儿发一些想法之类的信息",
-      "link": "http://www3.nhk.or.jp/news/html/20260404/k10015092031000.html",
-      "published_at": "2026-04-03T21:42:57+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Football rally in Peru leaves one dead and dozens injured",
+      "title_zh": "秘鲁足球集会造成一死一伤",
+      "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T06:34:56+00:00",
+      "summary": "An incident ahead of a local football derby in the Peruvian capital Lima has left one fan dead and dozens injured.",
+      "summary_zh": "秘鲁首都利马当地足球场前发生一起事件,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "渋谷スクランブル交差点 路上に火 自首してきた50代男を逮捕",
-      "title_zh": "我被捕的路上的火线",
-      "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091871000.html",
-      "published_at": "2026-04-03T21:21:19+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Canada's largest gun control effort in decades is missing the mark",
+      "title_zh": "几十年来加拿大最大的枪支管制努力 是如何忽略的",
+      "link": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T00:32:45+00:00",
+      "summary": "Heidi Rathjen has been calling for a ban on assault-style rifles since 1989, when a gunman opened fire on her classmates at Montreal's École Polytechnique.",
+      "summary_zh": "海迪·拉特让自1989年一名枪手向蒙特利尔理工学院的同班同学开火后,一直呼吁禁止攻击式步枪."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We want a voice in our land' - the people evicted to build Nigeria's capital",
+      "title_zh": "我们想要在自己的土地上发出声音,",
+      "link": "https://www.bbc.com/news/articles/clyggr00x5vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T00:17:20+00:00",
+      "summary": "Now in her 80s, Lami Ezekiel remembers construction crews arriving in her ancestral home in Maitama, as it was destroyed to build Nigeria's capital, Abuja.",
+      "summary_zh": "现在,在她80多岁的时候,拉米·以西结回忆到她祖居的迈塔马的建筑工人们,因为建造尼日利亚首都阿布贾而被毁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Bombay went from a fort city to a bustling metropolis",
+      "title_zh": "孟买如何从堡垒城市走向繁忙的大都市",
+      "link": "https://www.bbc.com/news/articles/cj60k3x879ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T00:09:54+00:00",
+      "summary": "From seven islands to a city of 20 million, Bombay (now Mumbai) has been shaped over centuries by political, economic and social forces.",
+      "summary_zh": "从7个岛屿到2 000万城市,孟买(现为孟买)是由政治、经济和社会力量数百年来形成的。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
+      "title_zh": "面对新能源冲击,欧洲问,恢复核能是否是答案?",
+      "link": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T23:14:04+00:00",
+      "summary": "With a pit in their stomach, families and industries across Europe are watching gas prices and the cost of filling vehicles with petrol spiral.",
+      "summary_zh": "整个欧洲的家庭和工业都关注着天然气价格和用汽油螺旋来充气的成本。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "After 16 years in power, could Viktor Orban finally be unseated?",
+      "title_zh": "在执政了16年后,维克多·奥尔班最终能否被解脱?",
+      "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T23:04:24+00:00",
+      "summary": "\"All they stand for is anger, hatred, and destruction,\" roared a hoarse Viktor Orban. The Hungarian prime minister was speaking at a mass election rally in Györ in western Hungary on 27 March, referring to opposition protesters who chanted \"Filthy Fidesz\" during his speech. For just a moment, his carefully cultivated image as the voice of calm navigating his country through stormy seas was shattered. His bad-tempered outburst showed a different side of a man used to cracking jokes and charming even his critics.",
+      "summary_zh": "\"他们支持的只是愤怒、仇恨和毁灭\" 咆哮着一个豪华的维克多·奥尔班 3月27日,匈牙利总理在匈牙利西部的Györ的群众选举集会上发表讲话,他提到在演讲中高喊\"Filthy Fidesz\"的反对派抗议者. 刚才,他精心培养的在风暴海中平静地航行的国家的声音被粉碎。 他脾气不好的暴发作 展现出一个人的一面"
     },
     {
       "source": "BBC News",
@@ -64,40 +304,10 @@
       "summary_zh": "古巴开始释放囚犯,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "終末期に在宅医療受けた人 推計1割近くにとどまる 専門家分析",
-      "title_zh": "期末接受家庭医疗护理的人,其人数接近估计数的10%",
-      "link": "http://www3.nhk.or.jp/news/html/20260404/k10015091881000.html",
-      "published_at": "2026-04-03T20:50:40+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "How elite US teams tackle combat rescue missions",
-      "title_zh": "美国精英团队如何应对作战救援任务",
-      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T20:42:56+00:00",
-      "summary": "Early reports indicate that the pilot of a US F-15 fighter aircraft downed over Iran was rescued - which, if confirmed, would be the latest in the long history of US combat search-and-rescue missions over decades.",
-      "summary_zh": "早期的报道显示,一架在伊朗上空被击落的美国F-15战斗机的飞行员被救出——如果得到证实,这将是美国数十年来的作战搜救任务中的最新一次."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ドジャース 大谷翔平 今季初ホームラン 開幕7試合目で",
-      "title_zh": "道奇选手Shohei Otani 首个主场 第7场比赛",
-      "link": "http://www3.nhk.or.jp/news/html/20260404/k10015091961000.html",
-      "published_at": "2026-04-03T20:32:45+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Unanswered questions remain after death of Australia's most wanted fugitive",
-      "title_zh": "澳大利亚最被通缉的逃犯死后 仍未回答的问题",
+      "title": "Unanswered questions remain after Australia's most wanted fugitive killed in standoff",
+      "title_zh": "在澳大利亚最被通缉的逃犯在对峙中被杀死之后,仍有未回答的问题",
       "link": "https://www.bbc.com/news/articles/cg7358zzz0no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-03T19:19:02+00:00",
       "summary": "Just weeks ago, from the foothills of the mountains Dezi Freeman had disappeared into months before, police told the world they \"strongly\" believed Australia's most wanted man was dead.",
@@ -126,42 +336,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US deports eight people 'of African origin' to Uganda",
-      "title_zh": "美国将8个“非洲血统”的人驱逐到乌干达",
-      "link": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T16:22:45+00:00",
-      "summary": "Eight people from different African countries have been deported to Uganda from the United States, the first such transfer under a migration deal signed last year.",
-      "summary_zh": "来自不同非洲国家的8人被从美国驱逐到乌干达,这是根据去年签署的移民协议进行的首次此类转移。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
       "title_zh": "特朗普在削减国内开支的同时寻求1.5tn的国防经费.",
       "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-03T15:45:25+00:00",
       "summary": "The White House is asking Congress to boost the US defence budget to $1.5tn (£1.1tn), a sweeping rise that would mark the largest expansion in military spending since World War Two.",
       "summary_zh": "白宫要求国会将美国国防预算提升到1.5tn(£1.1tn),这一大幅上升将标志着自二战以来军费支出的最大扩张."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
-      "title_zh": "法官驳回Blake Lively在Justin Baldoni骚扰案中的大部分申诉",
-      "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T15:07:43+00:00",
-      "summary": "A federal judge has dismissed most of the claims in a sexual harassment lawsuit that actress Blake Lively filed against her It Ends with Us co-star Justin Baldoni.",
-      "summary_zh": "一名联邦法官驳回了女演员Blake Lively针对她提起的性骚扰诉讼中的大部分诉讼要求。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
-      "title_zh": "意大利出名的乌菲齐承认网络攻击 但否认安全漏洞",
-      "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T15:04:39+00:00",
-      "summary": "The Uffizi Galleries in Florence have confirmed they were subject to a cyber-attack - but denied that the security systems protecting their famous works had been compromised.",
-      "summary_zh": "佛罗伦萨的Uffizi Galleries证实他们受到网络攻击,但否认保护自己出名作品的安全系统受到了破坏."
     },
     {
       "source": "BBC News",
@@ -186,36 +366,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Pete Hegseth asks US Army's top general to step down",
-      "title_zh": "皮特·赫克塞斯要求美军的上将下台",
-      "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T13:03:57+00:00",
-      "summary": "US Defence Secretary Pete Hegseth has asked Army Chief of Staff Randy George to step down from his post, according to CBS News, the BBC's US partner.",
-      "summary_zh": "美国国防部长皮特·赫克塞斯(Pete Hegseth)要求陆军参谋长兰迪·乔治(Randy George)下台,据BBC的美国合作伙伴CBS新闻报道."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "商船三井LNG運搬船 ホルムズ海峡通過 軍事作戦後 日本関係で初",
-      "title_zh": "Mitsui LNG Carrier通过霍尔姆的\"先入为主\"军事行动",
-      "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091851000.html",
-      "published_at": "2026-04-03T12:24:07+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "France's Muslim gathering ban overturned by courts",
-      "title_zh": "法国穆斯林集会禁令被法院推翻",
-      "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T12:20:28+00:00",
-      "summary": "A major gathering of Muslims in northern Paris is going ahead as planned after a French court overturned a government bid to ban it.",
-      "summary_zh": "法国法院推翻了政府禁止集会的竞标,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Who is Christopher LaNeve, set to lead the US Army?",
       "title_zh": "谁是克里斯托弗·拉内夫 准备领导美军?",
       "link": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
@@ -226,32 +376,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump removes US Attorney General Pam Bondi",
-      "title_zh": "特朗普罢免美国司法部长潘·邦迪",
-      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T11:42:17+00:00",
-      "summary": "US President Donald Trump has removed Attorney General Pam Bondi - a longtime ally and fierce defender of his administration - from her post as America's top law enforcement officer.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)已经解除了司法部长帕姆·邦迪(Pam Bondi)的职务——他是他的政府的长久盟友和激烈的捍卫者——她作为美国最高执法人员的职务."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "When will the Iran war end? Tracing the Trump administration's timelines",
       "title_zh": "伊朗战争何时会结束? 追踪特朗普政府的时间表",
       "link": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-03T11:28:34+00:00",
       "summary": "From a lectern at the White House, US President Donald Trump offered his latest assessment on how long the US-Israeli war with Iran might last.",
       "summary_zh": "美国总统特朗普(Donald Trump)在白宫发表演讲,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Burkina Faso must 'forget' about democracy, military leader says",
-      "title_zh": "布基纳法索必须“忘记”民主,",
-      "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-03T11:11:42+00:00",
-      "summary": "Democracy \"kills\" and the people of Burkina Faso must \"forget\" it, the country's military ruler has said in an interview aired on state television.",
-      "summary_zh": "民主\"杀戮\",布基纳法索人民必须\"忘记\",该国的军事统治者在国家电视台播出的采访中说道."
     },
     {
       "source": "BBC News",
@@ -302,56 +432,6 @@
       "published_at": "2026-04-02T21:44:16+00:00",
       "summary": "President Donald Trump has named Todd Blanche as the acting attorney general for the US after removing Pam Bondi from the top law enforcement position.",
       "summary_zh": "总统唐纳德·特朗普将帕姆·邦迪从最高执法岗位上除名后,任命托德·布兰奇为美国代理总检察长."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why isn't Artemis II landing on the Moon?",
-      "title_zh": "为什么阿耳忒弥斯二世不登陆月球?",
-      "link": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-02T19:02:15+00:00",
-      "summary": "The most powerful rocket ever built by Nasa is carrying the first crewed mission to the Moon in more than 50 years. But it's not actually landing on the lunar surface.",
-      "summary_zh": "由纳萨所建造的最有威力的火箭是50多年以来首次向月球执行乘员任务. 但它实际上并没有降落在月球表面."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ros Atkins on…the cost of the Iran war",
-      "title_zh": "罗斯·阿特金斯在... 伊朗战争的代价",
-      "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-02T18:29:14+00:00",
-      "summary": "The US-Israel war with Iran is into its second month - and there's increased attention on how much money America is spending on the conflict. Recently, the Trump administration signalled it would be requesting further funds. But there are increasing demands for greater transparency over how much the war is costing. The BBC's Analysis Editor Ros Atkins takes a look.",
-      "summary_zh": "美以战争已进入第二个月, 最近,特朗普政府表示,它将要求提供更多资金。 但是,人们越来越要求提高战争代价的透明度。 BBC分析编辑罗斯·阿特金斯一览."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Trump's shifting deadlines for ending Iran war",
-      "title_zh": "观察:特朗普改变结束伊朗战争的期限",
-      "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-02T17:13:00+00:00",
-      "summary": "Donald Trump's first primetime address since the start of the Iran war on Wednesday evening left several questions unanswered.",
-      "summary_zh": "唐纳德·特朗普(Donald Trump)自伊朗战争于星期三晚上开始以来的第一个黄金时段演讲留下了几个问题没有得到回答."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
-      "title_zh": "Macron称特朗普的婚姻言论为\"不合法\".",
-      "link": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-02T12:33:03+00:00",
-      "summary": "French President Emmanuel Macron has said that Donald Trump's comments about his marriage were \"neither elegant nor up to standard\".",
-      "summary_zh": "法国总统埃马纽埃尔·马克龙表示,唐纳德·特朗普关于他的婚姻的评论\"既不优雅,也不达标\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch the moment Artemis II blasts into space on historic mission",
-      "title_zh": "看着阿耳忒弥斯二世出动太空",
-      "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-01T23:00:39+00:00",
-      "summary": "The Artemis crew are officially on their way in a historic 10-day mission around the Moon, which could take them further from Earth than anyone has ever been before.",
-      "summary_zh": "阿耳忒弥斯号机组正式出动,执行环绕月球十天的历史性任务,这可以比以往任何人都远去地球."
     }
   ]
 }
