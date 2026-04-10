@@ -1,27 +1,287 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-04-09T23:01:12+00:00",
-  "count": 43,
+  "generated_at": "2026-04-10T22:55:41+00:00",
+  "count": 35,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lebanon and Israel officials to meet in US on Tuesday",
+      "title_zh": "黎巴嫩和以色列官员星期二在美国会晤",
+      "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T22:43:03+00:00",
+      "summary": "Israel and Lebanon's ambassadors to the US have agreed in a first phone call to meet in Washington on Tuesday to seek an announcement on a ceasefire and a date to begin direct negotiations.",
+      "summary_zh": "以色列和黎巴嫩驻美国大使在第一个电话中同意于星期二在华盛顿会晤,寻求宣布停火和开始直接谈判的日期。"
+    },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "レバノンへの攻撃続く イラン大統領「交渉を無意味なものに」",
-      "title_zh": "伊朗总统到黎巴嫩",
-      "link": "http://www3.nhk.or.jp/news/html/20260410/k10015096141000.html",
-      "published_at": "2026-04-09T22:28:43+00:00",
+      "title": "中国 習主席 台湾国民党トップと会談“祖国統一という未来を”",
+      "title_zh": "“国土统一的未来”",
+      "link": "http://www3.nhk.or.jp/news/html/20260411/k10015097071000.html",
+      "published_at": "2026-04-10T22:06:31+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ロシア 復活祭合わせ32時間の停戦表明 ウクライナも停戦の考え",
-      "title_zh": "俄罗斯复兴节32小时停电",
-      "link": "http://www3.nhk.or.jp/news/html/20260410/k10015096231000.html",
-      "published_at": "2026-04-09T22:17:52+00:00",
+      "title": "米とイラン きょうパキスタンで協議予定も 双方主張は対立",
+      "title_zh": "伊朗和美国都面临两项指控",
+      "link": "http://www3.nhk.or.jp/news/html/20260411/k10015096981000.html",
+      "published_at": "2026-04-10T22:00:07+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ゼレンスキー大統領 “米政権 選挙注力で外交への関心薄れる”",
+      "title_zh": "总统Zerensky“美国政府通过选举焦点关心不作为”",
+      "link": "http://www3.nhk.or.jp/news/html/20260411/k10015096991000.html",
+      "published_at": "2026-04-10T21:19:27+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
+      "title_zh": "梅拉尼亚·特朗普的演说 将爱泼斯坦危机推回了前沿",
+      "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T21:13:45+00:00",
+      "summary": "As Melania Trump walked up to the White House podium on Thursday, standing where President Donald Trump had just over a week ago made his address to the nation on Iran, there was absolutely no indication that this would be a jaw-dropping appearance.",
+      "summary_zh": "当梅拉尼亚·特朗普星期四走上白宫讲台时,站在唐纳德·特朗普总统一周多前刚刚就伊朗问题向全国发表演讲的地方,绝对没有迹象表明这将是下巴倒地出场."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東～西日本 気温上昇 熱中症に注意 北日本は荒天の見込み",
+      "title_zh": "东-西日本 气温上升 注意中风 北日本是粗糙的天气",
+      "link": "http://www3.nhk.or.jp/news/html/20260411/k10015096971000.html",
+      "published_at": "2026-04-10T21:04:08+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "特定技能制度めぐり「外食業」での受け入れ 上限達する見通し",
+      "title_zh": "在一个特定的技能系统\"外出食品业务\"接收",
+      "link": "http://www3.nhk.or.jp/news/html/20260411/k10015096961000.html",
+      "published_at": "2026-04-10T20:53:13+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Gunmen kill at least four people at Afghanistan picnic spot",
+      "title_zh": "枪手在阿富汗野餐点杀死了至少四人",
+      "link": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T20:07:07+00:00",
+      "summary": "Multiple people have been killed after gunmen targeted civilians at a picnic spot in western Afghanistan, officials and a local doctor have said.",
+      "summary_zh": "在阿富汗西部一个野餐点,一名官员和一名当地医生说,枪手以平民为目标,造成多人死亡。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "「アルテミス計画」宇宙船は午前9時ごろ地球に帰還予定",
+      "title_zh": "\"阿尔泰米斯计划\"太空船9点左右会返回地球",
+      "link": "http://www3.nhk.or.jp/news/html/20260411/k10015096901000.html",
+      "published_at": "2026-04-10T19:58:42+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "停戦仲介のキーマンか パキスタン軍トップ ムニール氏とは",
+      "title_zh": "调解的关键人物是什么,巴基斯坦军队的上层人物是什么?",
+      "link": "http://www3.nhk.or.jp/news/html/20260411/k10015096711000.html",
+      "published_at": "2026-04-10T19:46:35+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French man charged with locking son in van for more than a year",
+      "title_zh": "法国人被控把儿子关在面包车里一年多",
+      "link": "https://www.bbc.com/news/articles/cew7jwwep7wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T18:39:37+00:00",
+      "summary": "A man in eastern France has been charged with keeping his nine-year-old son locked in a van for more than a year.",
+      "summary_zh": "法国东部的一位男子被控将他九岁的儿子关在一辆面包车里一年多."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The five big sticking points in US-Iran talks",
+      "title_zh": "美伊会谈的五个大要点",
+      "link": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T18:13:25+00:00",
+      "summary": "The venue is ready, the guards are in place and the curb along the approach road has received a fresh coat of yellow and black paint.",
+      "summary_zh": "会场已就绪,卫所已就位,沿行走口道的路口得到一身新鲜的黄黑色涂料."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Korea deploys thermal imaging cameras in search for escaped zoo wolf",
+      "title_zh": "韩国部署热成像相机搜寻逃出动物园的狼",
+      "link": "https://www.bbc.com/news/articles/cr41d4r5kdeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T17:30:38+00:00",
+      "summary": "South Korean authorities have deployed heat-seeking cameras and drones in a widening search for a runaway wolf that has been on the loose for three days after escaping from a zoo.",
+      "summary_zh": "韩国当局已部署热相机和无人机,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+      "title_zh": "在以色列定居者袭击被占领的西岸村庄期间被枪杀的巴勒斯坦人",
+      "link": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T17:08:27+00:00",
+      "summary": "A Palestinian man was shot dead by an Israeli during a settler attack on a village in the occupied West Bank on Wednesday evening.",
+      "summary_zh": "一名巴勒斯坦男子在星期三晚上定居者袭击被占领西岸一村庄时被一名以色列人枪杀。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
+      "title_zh": "研究者们说,",
+      "link": "https://www.bbc.com/news/articles/cr71lkzv49po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T16:52:55+00:00",
+      "summary": "The world's largest known group of wild chimpanzees has split and been locked in a vicious \"civil war\" for the last eight years, according to researchers.",
+      "summary_zh": "据研究者说,世界上已知最大的一群野生黑猩猩分裂并被锁入了过去八年的一场恶毒\"内战\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man accused of coercing wife into sex with 120 men goes on trial in Sweden",
+      "title_zh": "被控强迫妻子与120个男人发生性关系的人在瑞典受审",
+      "link": "https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T15:06:40+00:00",
+      "summary": "A 61-year-old Swedish man has gone on trial accused of coercing his wife into providing sexual services to more than 120 men.",
+      "summary_zh": "一名61岁的瑞典男子被控强迫妻子向120多名男子提供性服务而受审。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dutch police urge victims of 'international sextortion campaign' to come forward",
+      "title_zh": "荷兰警方敦促“国际性侵运动”的受害者站出来。",
+      "link": "https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T13:24:03+00:00",
+      "summary": "Dutch police have issued a social media plea for victims of an alleged \"international sextortion campaign\" to come forward, warning that dozens of women and girls were coerced into degrading sexual acts on camera.",
+      "summary_zh": "荷兰警方发布社交媒体恳求,要求被指称为\"国际分泌运动\"的受害者站出来,警告数十名妇女和女童被胁迫在相机上进行有辱人格的性行为."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Popular Tanzanian musician Matonya charged with rape in Kenya",
+      "title_zh": "坦桑尼亚流行音乐家Matonya在肯尼亚被控强奸",
+      "link": "https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T12:08:04+00:00",
+      "summary": "Tanzanian musician Sefu Shabani, popularly known as Matonya, has been arrested and charged with rape in Kenya.",
+      "summary_zh": "坦桑尼亚音乐家Sefu Shabani被通称为\"马通亚\",在肯尼亚被捕并被指犯有强奸罪."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia and Ukraine agree to Orthodox Easter truce",
+      "title_zh": "俄罗斯和乌克兰同意东正教复活节休战",
+      "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T11:56:12+00:00",
+      "summary": "Russia and Ukraine have agreed to a truce for Orthodox Easter, with Vladimir Putin saying he's ordered troops to cease fire \"in all directions\" this weekend.",
+      "summary_zh": "俄罗斯和乌克兰已同意对正统复活节停战,弗拉基米尔·普京表示,他命令部队在本周末\"从各个方向\"停火."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "German transgender far-right extremist arrested in Czech Republic",
+      "title_zh": "在捷克共和国被捕的德国变性者极右极端分子",
+      "link": "https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T10:05:42+00:00",
+      "summary": "A convicted German transgender right-wing extremist, who has been on the run for months, has been arrested in the Czech Republic.",
+      "summary_zh": "一名被定罪的德国变性右翼极端主义分子在捷克共和国被捕,他已经逃亡了几个月。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US has let in 4,499 refugees since October - all but three were South African",
+      "title_zh": "自10月以来,美国已经允许4 499名难民,除3名难民外,所有难民都是南非难民。",
+      "link": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T08:28:12+00:00",
+      "summary": "President Donald Trump's overhaul of US refugee policies has created a major shift in the number and nationalities of people admitted to the country, US government data shows.",
+      "summary_zh": "唐纳德·特朗普总统对美国难民政策的整顿,使该国接纳的人数和国籍发生重大变化,美国政府数据显示."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
+      "title_zh": "台湾反对派领袖在北京会见习近平",
+      "link": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T07:55:55+00:00",
+      "summary": "China's President Xi Jinping received Taiwan's main opposition party leader on Friday, in a rare meeting which saw both sides stress a desire for cross-strait peace.",
+      "summary_zh": "中国国家主席习近平星期五会见台湾主要反对党领袖,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "White House staff told not to place bets on prediction markets",
+      "title_zh": "白宫工作人员告诉不要对预测市场下注",
+      "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T02:32:27+00:00",
+      "summary": "White House staff were warned last month not to use insider information to place bets on predictions markets.",
+      "summary_zh": "白宫工作人员上个月被警告不要利用内幕信息对预测市场下注."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+      "title_zh": "特朗普表示伊朗对霍尔木兹海峡的处理\"不是我们达成的协议\".",
+      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T02:10:44+00:00",
+      "summary": "US President Donald Trump has accused Iran of doing a \"very poor job\" in its handling of oil passing through the pivotal Strait of Hormuz, arguing it was \"not the agreement we have\".",
+      "summary_zh": "美国总统唐纳德·特朗普指责伊朗在处理通过枢轴的霍尔木兹海峡的石油时做了\"非常差的工作\",认为这\"不是我们达成的协议\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hip-hop pioneer, Afrika Bambaataa, dies aged 68",
+      "title_zh": "Hip-hop先驱,Afrika Bambataa,68岁去世",
+      "link": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T00:50:21+00:00",
+      "summary": "Afrika Bambaataa, one of the founding figures of hip-hop culture, has died at the age of 68, the Hip Hop Alliance has confirmed.",
+      "summary_zh": "嘻哈文化创始人之一的Afrika Bambataa已逝世,享年68岁,Hip Hop联盟确认."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India proposes new rules to regulate news and political posts on social media",
+      "title_zh": "印度提出新规则,规范社交媒体的新闻和政治帖子.",
+      "link": "https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-10T00:23:18+00:00",
+      "summary": "The Indian government has proposed changes to extend its regulatory framework to a wider range of online news voices, including influencers and podcasters on platforms such as Facebook, YouTube and X.",
+      "summary_zh": "印度政府提出修改,将其监管框架扩大到更广泛的在线新闻声音,包括脸书、YouTube和X等平台上的影响力者和播客。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fears over West Africa's Islamist insurgency dominate Benin's election campaign",
+      "title_zh": "对西非伊斯兰叛乱的恐惧支配了贝宁的竞选活动。",
+      "link": "https://www.bbc.com/news/articles/c75k1631e75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-09T23:02:13+00:00",
+      "summary": "With growing fears that the militant Islamist insurgency that has engulfed large parts of West Africa is spreading, security has been dominating the campaign trail in Benin - a once-largely peaceful nation.",
+      "summary_zh": "由于人们日益担心席卷了西非大片地区的好战的伊斯兰叛乱正在蔓延,安全一直在贝宁这个曾经非常和平的国家中占据竞选轨道。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "title_zh": "停火或没有停火,中东的改组尚未完成",
+      "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-09T23:01:47+00:00",
+      "summary": "The best hope for the ceasefire talks in Pakistan is that both the United States and Iran have strong reasons to call a halt to the war. The biggest obstacle to their success is a total absence of trust, no discernible common ground and the fact that Israel, America's full partner in the war, has hugely escalated its onslaught on Lebanon.",
+      "summary_zh": "巴基斯坦停火谈判的最大希望是,美国和伊朗都有强烈的理由要求停止战争。 阻碍他们成功的最大障碍是完全缺乏信任,没有明显的共同点,以及以色列——美国在这场战争中的全面伙伴——对黎巴嫩的攻击急剧升级。"
     },
     {
       "source": "BBC News",
@@ -30,78 +290,8 @@
       "title_zh": "市内热:能源危机检验新加坡空心成瘾.",
       "link": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-09T22:03:15+00:00",
-      "summary": "Singapore - infamous for its widespread use of air-conditioning - has told government employees to bring up the temperature in offices to at least 25C (77F) as it grapples with rising energy prices caused by the Iran war.",
-      "summary_zh": "新加坡因广泛使用空调而臭名昭著,它要求政府雇员将办公室温度提高到至少25C(77F),"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "西日本・東日本で荒れた天気 土砂災害や川の増水に十分注意を",
-      "title_zh": "西日本和东日本的天气",
-      "link": "http://www3.nhk.or.jp/news/html/20260410/k10015096121000.html",
-      "published_at": "2026-04-09T21:58:01+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NYダウ 4万8000ドル台を回復 停戦維持への期待感から",
-      "title_zh": "NYDOU 回收48 000美元 从预期到维持外出",
-      "link": "http://www3.nhk.or.jp/news/html/20260410/k10015096251000.html",
-      "published_at": "2026-04-09T21:25:55+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
-      "title_zh": "以色列与黎巴嫩举行直接会谈,",
-      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T20:47:02+00:00",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu has ordered his government to begin direct talks with Lebanon, he said in a statement on Thursday.",
-      "summary_zh": "以色列总理本雅明·内塔尼亚胡已经命令他的政府开始同黎巴嫩直接会谈,他在星期四的声明中说."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "憲法改正めぐり 自民・維新 起草委設置を 中道 論議を深める",
-      "title_zh": "修订了自我定义和恢复起草工作的条件",
-      "link": "http://www3.nhk.or.jp/news/html/20260410/k10015096101000.html",
-      "published_at": "2026-04-09T20:15:23+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-      "title_zh": "汽油和柴油价格再次上涨,因为人们对停火的担忧不断增加",
-      "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T20:07:08+00:00",
-      "summary": "The cost of petrol and diesel has continued to rise as motorists wait to see if the US-Iran ceasefire leads to cheaper prices at the pump.",
-      "summary_zh": "汽油和柴油价格持续上涨,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大阪 和泉 母娘2人殺害 トラブル相談なし 死亡は午前4時ごろか",
-      "title_zh": "大阪一泉母女在没有麻烦的情况下杀了两个人 大概凌晨四点",
-      "link": "http://www3.nhk.or.jp/news/html/20260410/k10015096211000.html",
-      "published_at": "2026-04-09T20:04:40+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "英国防相 “周辺海域でロシア潜水艦が秘密作戦” ロシアに警告",
-      "title_zh": "英国国防部队“位于佩里海的俄罗斯潜艇”警告俄罗斯",
-      "link": "http://www3.nhk.or.jp/news/html/20260410/k10015096131000.html",
-      "published_at": "2026-04-09T20:00:31+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "summary": "Singapore - known for its widespread use of air-conditioning - has told government employees to bring up the temperature in offices to at least 25C (77F) as it grapples with rising energy prices caused by the Iran war.",
+      "summary_zh": "新加坡以广泛使用空调而闻名,它要求政府雇员将办公室温度提高到至少25C(77F),"
     },
     {
       "source": "BBC News",
@@ -126,46 +316,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
-      "title_zh": "“无尽的恐惧”:即使战斗停止,对伊朗儿童的伤害也将持续",
-      "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T16:06:39+00:00",
-      "summary": "The war is inside his head now. A slamming door or cutlery being dropped makes him jump. The ceasefire doesn't change that.",
-      "summary_zh": "战争在他脑子里 被扔下一扇门或餐具 就能让他跳下去 停火并没有改变这一点。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French far-right leader romantically linked to Italian princess",
-      "title_zh": "法国极右派领袖与意大利公主有浪漫的联系",
-      "link": "https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T15:05:15+00:00",
-      "summary": "France's far-right presidential hopeful Jordan Bardella is in a relationship with Italian socialite Princess Maria Carolina of Bourbon-Two Sicilies, according to celebrity magazine Paris Match.",
-      "summary_zh": "根据名人杂志\"巴黎火柴\"(Paris Match)报道,法国极右翼总统有希望的乔丹·巴德拉与意大利社交家波旁-两西西里人玛丽亚·卡罗来纳公主有关系."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pioneering wildlife cameraman Doug Allan dies after falling ill in Nepal",
-      "title_zh": "在尼泊尔病倒后,",
-      "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T14:52:09+00:00",
-      "summary": "The acclaimed wildlife cameraman and photographer Doug Allan has died after becoming unwell on a mountain trek in Nepal.",
-      "summary_zh": "受赞誉的野生动物摄影师和摄影师道格·艾伦(Doug Allan)在尼泊尔的一次山地出行后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
-      "title_zh": "在脆弱的停火期间,船只仍然谨慎地接近霍尔木兹海峡",
-      "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T13:58:43+00:00",
-      "summary": "The Strait of Hormuz has become a focal point of the US-Israel war with Iran after Tehran effectively choked off one of the world's most important shipping lanes.",
-      "summary_zh": "荷尔穆兹海峡成为了德黑兰有效扼杀世界重要航道之一后美以战争与伊朗的焦点."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Has US achieved its war objectives in Iran?",
       "title_zh": "美国在伊朗实现了战争目标吗?",
       "link": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
@@ -176,72 +326,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
-      "title_zh": "半岛电视台谴责以色列袭击加沙时杀害记者的行为。",
-      "link": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T11:39:56+00:00",
-      "summary": "Al Jazeera has condemned the killing of one of its Palestinian journalists in an Israeli strike in the Gaza Strip, describing it as a \"deliberate and targeted crime\".",
-      "summary_zh": "半岛电视台谴责以色列袭击加沙地带杀害其一名巴勒斯坦记者,称其为\"蓄意和有针对性地犯罪\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Argentina passes bill loosening protection of its glaciers",
-      "title_zh": "阿根廷通过了放宽冰川保护的法案",
-      "link": "https://www.bbc.com/news/articles/c5y72e6x554o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T10:52:23+00:00",
-      "summary": "Argentina's Congress has passed a controversial amendment making it easier to mine in glacier regions, a move environmentalists say weakens protections for crucial water sources.",
-      "summary_zh": "阿根廷国会通过有争议修正案, 使得冰川地区更容易被开采,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trapped miner rescued from flooded Mexican tunnel after 14 days",
-      "title_zh": "14天后被困矿工从被淹的墨西哥地道上救出",
-      "link": "https://www.bbc.com/news/articles/cly9z8w4q55o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T10:04:40+00:00",
-      "summary": "Mexican army divers have rescued a miner from a flooded underground tunnel two weeks after he was first trapped.",
-      "summary_zh": "墨西哥军队潜水员在被首次被困两周后从被淹的地道上救出一名矿工."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
-      "title_zh": "最畅销的女佣作家Freida McFadden 揭示出真实身份",
-      "link": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T09:35:01+00:00",
-      "summary": "One of the biggest mysteries in publishing has been solved, after the best-selling US author known to millions of readers as Freida McFadden revealed her true identity.",
-      "summary_zh": "美国最畅销的作家Freida McFadden透露了真实身份,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-      "title_zh": "他是澳大利亚最受装饰的士兵. 现在他成了历史上的战争罪案的中心",
-      "link": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T08:23:11+00:00",
-      "summary": "One of the most significant moments in Australian military history unfolded without fanfare on a tarmac at Sydney airport, when Ben Roberts-Smith was calmly escorted off a plane and into a waiting police car.",
-      "summary_zh": "澳大利亚军事史上最重要的时刻之一,在悉尼机场的停机坪上展开,没有被风扇,当时本·罗伯茨-史密斯被平静地从一架飞机上护送出,并进入了一辆等候的警车."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "BBC at the site of Israeli air strikes in Beirut",
       "title_zh": "BBC 贝鲁特以色列空袭现场",
       "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-09T07:45:26+00:00",
       "summary": "On Wednesday, Lebanon was hit with the heaviest bombardment by Israel in this conflict.",
       "summary_zh": "星期三,黎巴嫩在这场冲突中遭到以色列最猛烈的轰炸。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-      "title_zh": "阿尔忒弥斯的船员带着月球发现的\"好东西\"回到地球",
-      "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T05:57:18+00:00",
-      "summary": "The Artemis II crew said they have \"many more pictures\" and \"many more stories\" to share with the world as they prepare to return to Earth.",
-      "summary_zh": "阿耳忒弥斯二号机组说,他们拥有\"更多多的照片\"和\"更多多的故事\",在准备返回地球时与世界分享."
     },
     {
       "source": "BBC News",
@@ -262,176 +352,6 @@
       "published_at": "2026-04-09T03:17:52+00:00",
       "summary": "Pope Leo XIV was seen spinning a basketball on his finger at his weekly general audience in Saint Peter's Square.",
       "summary_zh": "教宗利奥十四被看见在圣彼得广场上每周一般观众的手指上旋转一个篮球."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
-      "title_zh": "特朗普批评纳托是联盟首领,",
-      "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T01:59:34+00:00",
-      "summary": "Donald Trump has again attacked Nato for not supporting the US in the Iran war, following a private meeting with its Secretary General Mark Rutte at the White House.",
-      "summary_zh": "唐纳德·特朗普在白宫与其秘书长马克·鲁特私下会面后,再次以伊朗战争中不支持美国而攻击纳托."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
-      "title_zh": "检察官在佛罗里达州被捕后 寻找虎伍兹处方毒品记录",
-      "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T22:46:58+00:00",
-      "summary": "Prosecutors are seeking all the records connected to Tiger Woods' prescription medications, including dosage and warnings about driving on pill bottles, court documents show.",
-      "summary_zh": "检察官正在寻找与Tiger Woods处方药有关的所有记录,包括剂量和关于用药瓶开车的警告,法庭文件显示。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What we know about the two-week ceasefire between the US and Iran",
-      "title_zh": "关于美国和伊朗之间两周的停火,我们所知道的",
-      "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T20:25:49+00:00",
-      "summary": "Iran and the US have agreed to a conditional two-week ceasefire, during which shipping traffic will be allowed through the Strait of Hormuz.",
-      "summary_zh": "伊朗和美国已同意有条件的两周停火,在此期间允许通航霍尔木兹海峡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry overdose death",
-      "title_zh": "\"Ketamine Queen\"被判15年 马修·佩里过量致死",
-      "link": "https://www.bbc.com/news/articles/c6258qe1yl0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T19:34:29+00:00",
-      "summary": "A Los Angeles woman dubbed the \"Ketamine Queen\" has been sentenced to 15 years in prison for selling drugs that led to the death of Friends actor Matthew Perry.",
-      "summary_zh": "一名被誉为\"Ketamine Queen\"的洛杉矶女性被处以15年监禁,罪名是销售毒品导致友人演员马修·佩里被害."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes",
-      "title_zh": "冈比亚任命英国大律师起诉令人发指的查梅时代罪行",
-      "link": "https://www.bbc.com/news/articles/cjr90wyw09wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T19:30:35+00:00",
-      "summary": "British barrister Martin Hackett has been appointed as The Gambia's first special prosecutor to try those responsible for human rights abuses carried out during the 22-year rule of ex-President Yahya Jammeh, which ended when he went into exile in 2017.",
-      "summary_zh": "英国大律师马丁·哈克特被任命为冈比亚第一位特别检察官,负责审判前总统叶海亚·贾梅(Yahya Jameh)22年统治期间所犯侵犯人权行为的责任人,2017年被放逐后结束."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Germany suspends military approval for long stays abroad for men under 45",
-      "title_zh": "德国暂停45岁以下男子在国外长期居留的军事批准",
-      "link": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T15:21:12+00:00",
-      "summary": "Germany's Defence Minister Boris Pistorius says men of military age in Germany do not need to report lengthy stays abroad.",
-      "summary_zh": "德国国防部长鲍里斯·皮斯托里乌斯(Boris Pistorius)说,德国有军事年龄的人不需要报告长期滞留国外."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nigeria begins mass trial of 500 terrorism suspects",
-      "title_zh": "尼日利亚开始大规模审判500名恐怖主义嫌犯",
-      "link": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T14:57:25+00:00",
-      "summary": "Nigeria has begun the prosecution of more than 500 people accused of involvement in militant attacks in one of the country's largest ever terrorism trials.",
-      "summary_zh": "尼日利亚已开始起诉500多人,指控他们参与该国有史以来规模最大的恐怖主义审判之一的军事攻击。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
-      "title_zh": "喀麦隆\"军事承包商\"在俄罗斯-乌克兰战争中阵亡-BBC确认泄露消息.",
-      "link": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T13:07:57+00:00",
-      "summary": "Sixteen Cameroonians have been killed fighting for Russia in Ukraine, the BBC has confirmed after a foreign ministry source verified that a recently leaked diplomatic note circulating on social media about the deaths was authentic.",
-      "summary_zh": "16名喀麦隆人在乌克兰为俄罗斯而战, 英国广播公司在外交部证实最近流传于社交媒体的关于死亡事件的外交照会真实无误后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Greece to ban social media for under-15s from next year",
-      "title_zh": "希腊明年禁止15岁以下社交媒体",
-      "link": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T11:39:43+00:00",
-      "summary": "Greece has announced plans to ban access to social media for under-15s, becoming the latest European country to restrict children's exposure to online platforms.",
-      "summary_zh": "希腊已宣布计划禁止15岁以下者使用社交媒体,成为最新限制儿童接触在线平台的欧洲国家."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man fined after breaking into viral hippo Moo Deng's enclosure",
-      "title_zh": "冲入病毒河马后被罚钱",
-      "link": "https://www.bbc.com/news/articles/ce84zpdx101o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T11:33:32+00:00",
-      "summary": "A man has been fined $300 (£223) by a Thai court after breaking into the enclosure of Moo Deng, an endangered baby pygmy hippo and internet sensation, the zoo's director said.",
-      "summary_zh": "一名男子被泰国法院罚款300美元(223英镑),"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
-      "title_zh": "马达加斯加宣布因伊朗战争引起的严重燃料短缺而进入紧急状态",
-      "link": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T11:07:30+00:00",
-      "summary": "Madagascar has declared a two‑week nationwide state of energy emergency amid severe fuel shortages caused by the US and Israel's war in Iran.",
-      "summary_zh": "马达加斯加宣布,由于美国和以色列在伊朗的战争造成燃料严重短缺,全国能源紧急状态为两周。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
-      "title_zh": "哈利斯科新一代贩毒集团联合创始人认罪",
-      "link": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T11:03:40+00:00",
-      "summary": "The co-founder of the Mexico-based Jalisco New Generation Cartel (CJNG), Érick Valencia Salazar, has pleaded guilty to drug trafficking charges, the US Department of Justice (DOJ) has announced.",
-      "summary_zh": "位于墨西哥的哈利斯科新一代卡特尔(CJNG)的联合创始人埃里克·巴伦西亚·萨拉萨尔(Érick Valencia Salazar)对贩毒指控认罪,美国司法部(DOJ)宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
-      "title_zh": "特朗普支持的共和党人Clay Fuller赢得了替换马乔里·泰勒·格林的大选.",
-      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T02:33:45+00:00",
-      "summary": "Republican Clay Fuller is projected to have won Georgia's runoff election to replace former Congresswoman Marjorie Taylor Greene, a once-staunch ally of Donald Trump who resigned earlier this year after breaking with the president.",
-      "summary_zh": "共和党人克莱·富勒(Clay Fuller)预计将在格鲁吉亚的第二轮选举中获胜以取代前国会议员马乔丽·泰勒·格林(Marjorie Taylor Greene),后者曾经是唐纳德·特朗普的盟友,今年早些时候在与总统决裂后辞职."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The US refinery now processing Venezuelan oil",
-      "title_zh": "美国炼油厂正在加工委内瑞拉石油",
-      "link": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-07T23:00:31+00:00",
-      "summary": "The Minerva Gloria is docked at a wharf in the Mississippi Sound, not far from the US's vast oil reserves in the Gulf of Mexico.",
-      "summary_zh": "米内尔瓦·格洛丽亚号停靠在密西西比之音的码头上,距离美国在墨西哥湾的庞大石油储备不远."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Newlywed wife of US soldier freed by ICE after detention at military base",
-      "title_zh": "美国士兵的新婚妻子在军事基地被拘留后被ICE释放",
-      "link": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-07T22:29:28+00:00",
-      "summary": "A US soldier's wife who was detained by immigration agents at the military base where he is stationed - just days after their wedding - has been released.",
-      "summary_zh": "一名美国士兵的妻子在结婚几天后被移民官员拘留在驻扎在那里的军事基地。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
-      "title_zh": "印度农民工因厨用煤气短缺而出城",
-      "link": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-07T21:02:07+00:00",
-      "summary": "Every morning, Shakuntala Devi and Shakiba Bibi - neighbours at a slum in India's capital Delhi - leave their homes, walking from one shop to another in search of a cooking gas cylinder.",
-      "summary_zh": "每天早上,印度首都德里一个贫民窟的邻居Shakuntala Devi和Shakiba Bibi离开家,从一家商店走到另一家店去寻找一个烹饪用气瓶。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Has Artemis II shown we can land on the Moon again?",
-      "title_zh": "阿耳忒弥斯二世有没有证明我们能再次登陆月球?",
-      "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-07T15:23:05+00:00",
-      "summary": "Nasa's Artemis II mission has passed every major test since its launch on 1 April, with its rocket, spacecraft and crew performing better than engineers had dared to hope for.",
-      "summary_zh": "纳萨的\"阿尔特米斯二号\"任务自4月1日发射以来,已经通过了每次重大试验,其火箭,航天器和机组人员的表现比工程师所不敢期望的要好."
     }
   ]
 }
