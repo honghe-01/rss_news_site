@@ -1,47 +1,247 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-04-11T22:51:54+00:00",
-  "count": 33,
+  "generated_at": "2026-04-12T22:55:08+00:00",
+  "count": 39,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "台湾野党トップ 日本への歴史認識 中国側と足並みそろえる姿勢",
-      "title_zh": "台湾岛党史大事记重编至日本 Posture以迎合中国人侧面和足迹",
-      "link": "http://www3.nhk.or.jp/news/html/20260412/k10015097401000.html",
-      "published_at": "2026-04-11T22:36:12+00:00",
+      "title": "NY原油 WTI先物価格上昇 一時1バレル＝105ドル台 供給面に懸念",
+      "title_zh": "纽约原油 WTI 期货价格上涨 T 1 桶 = 105美元",
+      "link": "http://www3.nhk.or.jp/news/html/20260413/k10015097911000.html",
+      "published_at": "2026-04-12T22:26:20+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+      "title_zh": "什么是海上封锁,在霍尔木兹海峡将如何运作?",
+      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T21:31:29+00:00",
+      "summary": "The US military said it would begin enforcing a blockade of all maritime traffic entering and exiting Iranian ports on Monday.",
+      "summary_zh": "美国军方表示,将于星期一开始对所有进出伊朗港口的海上交通实施封锁."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領「ホルムズ海峡で封鎖措置」 イラン側はけん制",
+      "title_zh": "特朗普总统“在霍尔姆斯-克克克勒兹被关闭”",
+      "link": "http://www3.nhk.or.jp/news/html/20260412/k10015097851000.html",
+      "published_at": "2026-04-12T21:26:08+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "大学などの技術職員の処遇改善 研究力強化へ ガイドライン策定",
-      "title_zh": "改进大学技术人员待遇的指导方针.",
-      "link": "http://www3.nhk.or.jp/news/html/20260412/k10015097341000.html",
-      "published_at": "2026-04-11T22:15:51+00:00",
+      "title": "ドジャース 大谷翔平 2試合連続の先頭打者HRで今季5号",
+      "title_zh": "本赛季在顶级击球员HR上 连续出场两场比赛",
+      "link": "http://www3.nhk.or.jp/news/html/20260413/k10015097891000.html",
+      "published_at": "2026-04-12T21:14:23+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米・イラン協議 ホルムズ海峡開放など一致点見いだせるか焦点",
-      "title_zh": "伊朗,美国等国纷纷提出开放.",
-      "link": "http://www3.nhk.or.jp/news/html/20260412/k10015097451000.html",
-      "published_at": "2026-04-11T22:10:09+00:00",
+      "title": "高市首相“憲法改正 来年党大会までに発議にめど” 議論活発に",
+      "title_zh": "高一总理“修订议会”",
+      "link": "http://www3.nhk.or.jp/news/html/20260413/k10015097801000.html",
+      "published_at": "2026-04-12T21:09:05+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "大分 10代女性の遺体を遺棄か 58歳の容疑者逮捕",
-      "title_zh": "□ □ □ □ □ □",
-      "link": "http://www3.nhk.or.jp/news/html/20260412/k10015097471000.html",
-      "published_at": "2026-04-11T22:02:37+00:00",
+      "title": "愛知 安城 女性2人殺害疑いで55歳の男を緊急逮捕",
+      "title_zh": "爱知安茹紧急逮捕55岁男子 有两起女性谋杀案",
+      "link": "http://www3.nhk.or.jp/news/html/20260413/k10015097881000.html",
+      "published_at": "2026-04-12T20:44:35+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大分 豊後大野 容疑者の供述どおり県境近くの崖に遺体",
+      "title_zh": "奥尼塔·多克·奥诺: 嫌犯描述的辖区附近的悬崖上的尸体",
+      "link": "http://www3.nhk.or.jp/news/html/20260413/k10015097871000.html",
+      "published_at": "2026-04-12T20:27:27+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "京都 男児不明3週間 見つかった靴確認急ぐ 周辺を重点捜索へ",
+      "title_zh": "京都人不知名 三个星期急忙找鞋",
+      "link": "http://www3.nhk.or.jp/news/html/20260413/k10015097791000.html",
+      "published_at": "2026-04-12T20:02:51+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'A truly historic moment': BBC reports from Hungary as Viktor Orbán concedes election",
+      "title_zh": "「真正历史性的时刻」:",
+      "link": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T19:59:45+00:00",
+      "summary": "Prime Minister Viktor Orbán has conceded defeat in the Hungarian election after 16 years in power, with the opposition on course for a landslide win.",
+      "summary_zh": "总理奥班(Viktor Orbán)在执政16年后在匈牙利大选中承认失败,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+      "title_zh": "特朗普的封锁威胁增加了风险,使困境保持不变",
+      "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T18:48:57+00:00",
+      "summary": "After a diplomatic team led by Vice-President JD Vance tried, and failed, to reach a negotiated agreement to end the US war with Iran on Saturday, President Donald Trump had to decide his next move.",
+      "summary_zh": "在副总统旺斯(JD Vance)率领的外交团队试图并未能通过谈判达成协议以结束星期六与伊朗的战争后,总统唐纳德·特朗普不得不决定他的下一步行动."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Civilians feared killed after reports of air strike on Nigerian market",
+      "title_zh": "报告尼日利亚市场遭到空袭后,平民害怕被炸死",
+      "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T18:11:04+00:00",
+      "summary": "Civilians are feared to have died after reports that Nigerian military jets struck a village market in the north-east of the country.",
+      "summary_zh": "据报道,尼日利亚军用飞机袭击了该国东北部的一个村庄市场,平民因此死亡。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "title_zh": "Asha Bhosle:宝莱坞之声92岁逝去",
+      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T16:56:08+00:00",
+      "summary": "Asha Bhosle, a legendary Bollywood singer who became a cultural icon, has died aged 92, her son has confirmed.",
+      "summary_zh": "Asha Bhosle是一位传说中的宝莱坞歌手,他成为了文化偶像,已经去世了92岁,她的儿子已经确认."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+      "title_zh": "贾斯汀·比伯头条 带怀旧燃料的Ceachella",
+      "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T15:00:09+00:00",
+      "summary": "Justin Bieber made a nostalgia-fuelled return to the major stage as Coachella's much-anticipated headline act.",
+      "summary_zh": "贾斯丁·比伯以怀旧为动力重返了主舞台,作为Ceachella期待已久的头条行为."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "After Iran talks falter, the big question is what happens next?",
+      "title_zh": "伊朗谈判失败后,大问题在于接下来会发生什么?",
+      "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T12:48:01+00:00",
+      "summary": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US.",
+      "summary_zh": "21小时不足以结束伊朗和美国长达47年的敌意。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "title_zh": "乌克兰和俄罗斯相互指责数百起违反停火事件",
+      "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T11:53:37+00:00",
+      "summary": "Ukraine and Russia have each accused one another of hundreds of violations of a short ceasefire coinciding with Orthdox Easter celebrations.",
+      "summary_zh": "乌克兰和俄罗斯各自指控数百起违反停火事件与Orthdox Easter庆典同时发生。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We need real peace': Ukrainians have little faith in Easter truce",
+      "title_zh": "\"我们需要真正的和平\": 乌克兰人对复活节停战没什么信心",
+      "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T09:38:31+00:00",
+      "summary": "An Orthodox Easter truce agreed by Russia and Ukraine came into force on Saturday afternoon but 38 minutes later we heard air raid sirens in Kharkiv, north-eastern Ukraine.",
+      "summary_zh": "俄罗斯和乌克兰商定的东正教复活节停战协定于星期六下午生效,但38分钟后,我们在乌克兰东北部的哈尔科夫听到空袭警报。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The prophet and the mysterious death of Charmain Speirs",
+      "title_zh": "先知和夏曼·斯皮尔斯的神秘死亡",
+      "link": "https://www.bbc.com/news/articles/cevk1jrg4g8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T08:17:20+00:00",
+      "summary": "Charmain Speirs was 40 years old when she met prophet Eric Adusah.",
+      "summary_zh": "查尔曼·斯佩尔斯(英语:Charmain Speirs)在遇到先知埃里克·阿杜萨时已40岁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 30 feared dead in crush at Haitian tourist site",
+      "title_zh": "至少有30人担心在海地旅游点被粉碎而死亡",
+      "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T07:22:28+00:00",
+      "summary": "At least 30 people are feared to have been killed in a stampede at a popular tourist site in Haiti on Saturday.",
+      "summary_zh": "至少有30人担心星期六在海地一个受欢迎的旅游地点被踩踏而丧生."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+      "title_zh": "检察官调查了针对加利福尼亚州州长候选人斯瓦尔韦尔的侵权指控",
+      "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T05:22:34+00:00",
+      "summary": "The Manhattan District Attorney's Office says it has launched an investigation into sexual misconduct allegations against Democratic Congressman Eric Swalwell.",
+      "summary_zh": "曼哈顿地方检察官办公室表示,它已对民主党国会议员埃里克·斯瓦尔韦尔的性不当行为指控展开调查."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Hungary's knife-edge election could impact the US and Russia",
+      "title_zh": "匈牙利的刀锋选举会如何影响美国和俄罗斯",
+      "link": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T02:52:03+00:00",
+      "summary": "Hungarian Prime Minister Viktor Orbán has been in power for 16 years.",
+      "summary_zh": "匈牙利总理维克多·奥尔班执政16年."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+      "title_zh": "为什么这个失望的特朗普选民 花几个小时搜索爱泼斯坦的文件",
+      "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T00:30:44+00:00",
+      "summary": "After Cayden McBride finishes class in Rome, Georgia, the 19-year-old goes home, opens his laptop, and starts searching.",
+      "summary_zh": "在凯登·麦克布莱德在乔治亚州罗马上完课后,19岁的他回家,打开他的笔记本电脑并开始搜索."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India refuses to criminalise marital rape. This new series shines a light on it",
+      "title_zh": "印度拒绝将婚内强奸定为犯罪。 这个新系列的亮相",
+      "link": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-12T00:16:41+00:00",
+      "summary": "A new web series that confronts marital rape in India has put the spotlight on the grim topic in a country that has stubbornly refused to criminalise it.",
+      "summary_zh": "印度面对婚内强奸的新网络系列,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
+      "title_zh": "我们和那个为伊朗制作病毒乐高式AI视频的人谈过了。 专家说这是强大的宣传",
+      "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-11T23:13:23+00:00",
+      "summary": "At first glance they look like they could be scenes out of a Lego movie, although more vivid and fast-paced.",
+      "summary_zh": "乍一看,他们看起来像是乐高电影的场景,虽然更生动和快节奏."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran war lands 'triple blow' to flood-ravaged Sri Lankans",
+      "title_zh": "伊朗战争用地\"三击\"给被洪水蹂躏的斯里兰卡人",
+      "link": "https://www.bbc.com/news/articles/c4gvkpj0024o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-11T23:06:49+00:00",
+      "summary": "After floods devastated their village, Indrani Ravichandran and her family are back in their house, living in the only section that is still standing.",
+      "summary_zh": "在洪水摧毁了他们的村庄后,Indrani Ravichandran和她的家人回到了他们家,住在唯一仍然站立的地段。"
     },
     {
       "source": "BBC News",
@@ -52,36 +252,6 @@
       "published_at": "2026-04-11T21:23:07+00:00",
       "summary": "The four astronauts who flew in Nasa's Artemis II mission around the Moon have been welcomed back to Planet Earth at an event in Houston, Texas.",
       "summary_zh": "在纳萨的阿耳忒弥斯二号任务中飞行于月球周边的4名宇航员在德克萨斯州休斯敦的一次活动上被欢迎回地球星球."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ハンガリー議会選 ロシア寄り姿勢の首相与党が苦戦か【詳報】",
-      "title_zh": "俄国的匈牙利议会部长党不坏?",
-      "link": "http://www3.nhk.or.jp/news/html/20260412/k10015097411000.html",
-      "published_at": "2026-04-11T21:13:24+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-      "title_zh": "检察官调查了针对加利福尼亚州州长候选人斯瓦尔韦尔的侵权指控",
-      "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-11T21:11:18+00:00",
-      "summary": "The Manhattan District Attorney's Office says it has launched an investigation into sexual misconduct allegations against US congressman Eric Swalwell.",
-      "summary_zh": "曼哈顿地方检察官办公室表示,已经对美国国会议员埃里克·斯瓦尔韦尔的性不当行为指控展开调查."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ウクライナ軍事侵攻 キリスト教復活祭に合わせた停戦期間 開始",
-      "title_zh": "乌克兰军事入侵 开始黑暗时期到基督教复活节",
-      "link": "http://www3.nhk.or.jp/news/html/20260412/k10015097441000.html",
-      "published_at": "2026-04-11T21:10:08+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
@@ -110,8 +280,8 @@
       "title_zh": "刀人自称\"路西法\" 在纽约市大中央被鞭打三下",
       "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-11T18:08:46+00:00",
-      "summary": "A machete-wielding suspect randomly attacked three people at New York City's Grand Central station before he was fatally shot by police, in a rampage that diverted trains at the nation's biggest rail hub.",
-      "summary_zh": "一名砍刀的嫌疑人在被警察致命枪击前,随机地袭击了纽约市大中央站的3人,这次暴动使全国最大铁路枢纽的列车转向."
+      "summary": "A machete-wielding suspect arbitrarily attacked three people at New York City's Grand Central station before he was fatally shot by police.",
+      "summary_zh": "一名砍刀的嫌疑人在被警察致命枪击之前,任意地袭击了纽约市大中央车站的3人."
     },
     {
       "source": "BBC News",
@@ -142,16 +312,6 @@
       "published_at": "2026-04-11T14:41:31+00:00",
       "summary": "Nearly 400 people have been sentenced in Nigeria for links with militant Islamic groups following mass trials.",
       "summary_zh": "尼日利亚有近400人因在大规模审判后与伊斯兰好战团体有联系而被判刑。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "浜松 家族3人殺害 被告の上告退け 懲役30年の判決が確定へ",
-      "title_zh": "Hamamatsu一家三人杀害被告人 30年纪律处分决定确认",
-      "link": "http://www3.nhk.or.jp/news/html/20260411/k10015097321000.html",
-      "published_at": "2026-04-11T11:37:56+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
@@ -186,16 +346,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Baseball statue broken as it is unveiled in Seattle",
-      "title_zh": "棒球雕像在西雅图揭幕时被打破",
-      "link": "https://www.bbc.com/news/articles/c0rx4v5q701o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-11T08:38:17+00:00",
-      "summary": "Fans of former baseball star Ichiro Suzuki were thrown a curveball when a statue of him broke as it was being unveiled outside the home of the Seattle Mariners on Friday.",
-      "summary_zh": "前棒球明星铃木一郎的粉丝被扔出一发曲线球,当时他的一尊雕像在星期五被西雅图海军陆战队员的家门外揭幕时被砸出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Artemis crew home safely after completing historic mission to the Moon",
       "title_zh": "阿耳忒弥斯在完成对月球的历史性任务后安全返回",
       "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
@@ -216,62 +366,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Who is Viktor Orbán, Hungarian PM fighting to stay in power after 16 years?",
-      "title_zh": "匈牙利总理维克多·奥尔班(Viktor Orbán)是谁,",
-      "link": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-11T04:43:08+00:00",
-      "summary": "No serving leader in the European Union has led their country for as long as Viktor Orbán. But after 16 years he faces his strongest challenge yet in 12 April elections, where most opinion polls suggest he is heading for defeat at the hands of former party insider, Péter Magyar.",
-      "summary_zh": "在欧洲联盟,没有一位现任领导人像维克多·奥尔班那样领导他们的国家。 但16年后,他在4月12日的选举中面临最严峻的挑战,大多数民意测验显示,他正走向被前党内人士佩特·马吉亚尔所击败。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
-      "title_zh": "梅拉尼亚·特朗普的演说 将爱泼斯坦危机推回了前沿",
-      "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-11T03:25:04+00:00",
-      "summary": "As Melania Trump walked up to the White House podium on Thursday, standing where US President Donald Trump had just over a week ago made his address to the nation on Iran, there was absolutely no indication that this would be a jaw-dropping appearance.",
-      "summary_zh": "当梅拉尼亚·特朗普星期四走上白宫讲台时,站在美国总统唐纳德·特朗普刚在一周多前就伊朗问题向全国发表演讲的地方,绝对没有迹象表明这将是下巴倒地出场."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
-      "title_zh": "\"每滴水数\": 对阿根廷冰川未来的恐惧",
-      "link": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-11T02:02:56+00:00",
-      "summary": "\"Without water, there would be no wine,\" Virginia de Valle says as she takes me around her family's 16-hectare (40-acre) vineyard in Mendoza, nestled below the peaks of the Andes mountain range.",
-      "summary_zh": "弗吉尼亚·德·瓦莱说,“没有水,就没有葡萄酒。” 她带我绕过她家在门多萨的16公顷(40英亩)葡萄园,在安第斯山脉的山峰下筑巢。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "An inappropriate joke nearly ended his career. Now he's back with more humour",
-      "title_zh": "一个不恰当的笑话差点结束了他的职业生涯. 现在他更幽默了",
-      "link": "https://www.bbc.com/news/articles/czrekvml0p6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-11T01:45:41+00:00",
-      "summary": "In an Indian city, an unassuming, slightly rumpled comedian walks into the spotlight for the first time in months.",
-      "summary_zh": "在印度的一个城市里,一个没有假设的,略微暴躁的喜剧演员几个月来第一次走入了聚光灯."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "This idyllic US town was full of police families - and a serial killer in their midst",
       "title_zh": "这个美国城市充满了警察家庭 和他们中间的一个连环杀手",
       "link": "https://www.bbc.com/news/articles/cpwjkqq910go?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-11T01:19:55+00:00",
       "summary": "Massapequa, its residents proudly proclaim, is a \"cop town\".",
       "summary_zh": "其居民自豪地宣称的马萨佩夸是一个\"警察镇\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "JD Vance takes on a perilous mission - could it backfire?",
-      "title_zh": "JD Vance承担着危险的任务 会不会反射?",
-      "link": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-11T00:54:23+00:00",
-      "summary": "In the middle of an Easter lunch at the White House, President Donald Trump went off script to address speculation about JD Vance's role in securing a deal to end the war in Iran.",
-      "summary_zh": "在白宫举行的复活节午餐会中,总统唐纳德·特朗普(英语:Donald Trump (film))下台了剧本,以解决关于JD·万斯在争取协议以结束伊朗战争中的作用的猜测."
     },
     {
       "source": "BBC News",
@@ -286,52 +386,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
-      "title_zh": "最终推动投票成为匈牙利奥班感知胜利的挑战者.",
-      "link": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-11T00:17:18+00:00",
-      "summary": "On the eve of Hungary's bitterly fought and highly significant election, the two main rivals are taking their campaigns to the wire, as Péter Magyar attempts to end 16 years of continuous rule by Viktor Orbán's party Fidesz.",
-      "summary_zh": "在匈牙利苦战和极具重大意义的选举前夕,两个主要对手正把竞选活动带到线上,因为佩特·马吉亚尔试图结束维克多·奥尔班的政党菲德斯所持续统治了16年."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
-      "title_zh": "Lyse Doucet:历史性的美国-伊朗会谈必须弥合深深的不信任",
-      "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-10T23:46:49+00:00",
-      "summary": "If and when a photograph is taken of US Vice-President JD Vance standing next to Iran's Parliamentary Speaker Mohammad Bagher Ghalibaf in Islamabad this weekend, it will make history.",
-      "summary_zh": "美国副总统旺斯(JD Vance)本周末站在伊朗议会议长穆罕默德·巴盖尔·加利巴夫旁边,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The five big sticking points in US-Iran talks",
-      "title_zh": "美伊会谈的五个大要点",
-      "link": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-10T18:13:25+00:00",
-      "summary": "The venue is ready, the guards are in place and the kerb along the approach road has received a fresh coat of yellow and black paint.",
-      "summary_zh": "会场已就绪,守备已就位,沿行走口道的克勃也得到一身新鲜的黄黑色涂料."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Melania Trump: 'I never had a relationship with Epstein'",
       "title_zh": "梅拉尼亚·特朗普:\"我从未与爱泼斯坦有过关系\".",
       "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-09T19:00:43+00:00",
       "summary": "First Lady Melania Trump has denied connections to Jeffrey Epstein, telling reporters at the White House that any claims linking the two \"need to end today\".",
       "summary_zh": "第一夫人梅拉尼亚·特朗普否认了与杰弗里·爱泼斯坦的联系,告诉白宫的记者,任何将两人联系起来\"需要今天结束\"的说法."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: BBC asks Artemis II crew a question in space",
-      "title_zh": "(注:BBC问阿耳忒弥斯二世的乘员一个太空问题)",
-      "link": "https://www.bbc.com/news/videos/cgk0e12y1kgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-09T04:06:36+00:00",
-      "summary": "The BBC’s Science Editor Rebecca Morelle has spoken to the four Artemis II astronauts as they journey back home from their dramatic lunar fly-by that saw them travel further from Earth than any other humans.",
-      "summary_zh": "英国广播公司科学编辑Rebecca Morelle在4名阿耳忒弥斯二号宇航员从戏剧性的月球飞来回家时,与任何其他人类相比,他们远走地球。"
     }
   ]
 }
