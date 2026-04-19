@@ -1,57 +1,317 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-04-18T22:55:31+00:00",
-  "count": 32,
+  "generated_at": "2026-04-19T22:56:05+00:00",
+  "count": 40,
   "items": [
     {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eight children killed in Louisiana shooting, police say",
+      "title_zh": "路易斯安那州枪杀了8名儿童 警察说",
+      "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T22:54:51+00:00",
+      "summary": "Eight children, aged from one to 14 years old, have been killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
+      "summary_zh": "8名年龄从一岁到十四岁的儿童在路易斯安那州什里夫波特的一起枪击事件中被杀死,警方将这起枪击事件描述为\"家庭骚乱\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "title_zh": "鲁门·拉德夫看起来可以赢得保加利亚议会选举",
+      "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T22:06:39+00:00",
+      "summary": "Rumen Radev's Progressive Bulgaria party looks set to win Sunday's Bulgarian Parliamentary election - the eighth general election in five years.",
+      "summary_zh": "鲁门·拉德夫的\"进步保加利亚\"政党看起来已经定会赢得星期日的保加利亚议会选举——五年来第八次大选."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "title_zh": "美国拦截并扣押悬挂伊朗国旗的货船,特朗普说",
+      "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T21:39:43+00:00",
+      "summary": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
+      "summary_zh": "美国在海湾拦截了一艘悬挂伊朗国旗的货船,作为其海军封锁的一部分,唐纳德·特朗普表示."
+    },
+    {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "北朝鮮 弾道ミサイル可能性あるものEEZ外に落下か 政府関係者",
-      "title_zh": "北朝鲜在专属经济区外的弹道可能性",
-      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102781000.html",
-      "published_at": "2026-04-18T22:52:51+00:00",
+      "title": "米「代表団が2回目の協議へ」 イラン国営通信「参加を拒否」",
+      "title_zh": "美国“授权第二次讨论”伊朗国家通信“参与措施”",
+      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103161000.html",
+      "published_at": "2026-04-19T21:35:02+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "title_zh": "德黑兰决不会放弃对霍尔木兹海峡的控制 伊朗资深政治家告诉英国广播公司",
+      "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T21:09:06+00:00",
+      "summary": "\"Never.\" That's when a senior Iranian lawmaker says they'll be ready to give up their control of the Strait of Hormuz.",
+      "summary_zh": "\"从来没有。\" 这时一名伊朗资深立法者表示,他们将准备放弃对霍尔木兹海峡的控制."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日本海側などで夏日の予想 水分補給など体調管理に注意を",
+      "title_zh": "日本海等地夏季预报.",
+      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103121000.html",
+      "published_at": "2026-04-19T20:46:13+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ローマ教皇 トランプ大統領との議論 “全く関心事ではない”",
-      "title_zh": "与罗马教宗特朗普总统讨论“它并不完全感兴趣”",
-      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102761000.html",
-      "published_at": "2026-04-18T22:13:13+00:00",
+      "title": "「国家情報局」設置法案 与野党が衆院採決で日程協議の見通し",
+      "title_zh": "\"国家信息局\"\"安放法\"\"阳野党\" 众议院预计日期磋商",
+      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103101000.html",
+      "published_at": "2026-04-19T20:36:50+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "鎌倉時代の日記が手がかり 当時の太陽活動の痕跡が明らかに",
-      "title_zh": "镰仓时期的太阳活动痕迹",
-      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102631000.html",
-      "published_at": "2026-04-18T21:46:44+00:00",
+      "title": "ウクライナ ゼレンスキー大統領 米の対ロシア制裁解除に懸念",
+      "title_zh": "乌克兰总统泽莱兹对俄罗斯非法制裁的关切",
+      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103181000.html",
+      "published_at": "2026-04-19T20:16:14+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米が戦闘終結へ新提案提示か イラン船舶への取締り強化 報道も",
-      "title_zh": "向战事结束或向伊朗舰只加固提出了新的建议。",
-      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102751000.html",
-      "published_at": "2026-04-18T21:33:45+00:00",
+      "title": "愛媛 しまなみ海道で乗用車どうしが正面衝突 1人死亡4人けが",
+      "title_zh": "■ Shimanami海道,用于客车前相撞 4人死亡",
+      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103201000.html",
+      "published_at": "2026-04-19T20:11:18+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "長野 震度5強 過去に同程度の規模の地震続発 1週間程度は注意",
-      "title_zh": "长野地震烈度 第5级地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震地震",
-      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102681000.html",
-      "published_at": "2026-04-18T21:28:57+00:00",
+      "title": "アメリカ南部で銃乱射事件 子ども8人が死亡 容疑者は射殺",
+      "title_zh": "8名儿童在美国南部枪械动荡中死亡",
+      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103191000.html",
+      "published_at": "2026-04-19T20:09:42+00:00",
       "summary": "",
       "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
+      "title_zh": "安大略总理道格·福特同意在暴风雨后出售2100万美元的私人喷气机",
+      "link": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T19:25:22+00:00",
+      "summary": "The Canadian province of Ontario is now selling a jet recently bought for Premier Doug Ford, after he faced criticism for the purchase of the private, pre-owned jet for C$28.9m ($21m; £15.5m).",
+      "summary_zh": "加拿大安大略省现在正在出售一架最近为总理道格·福特购买的喷气式飞机,在此之前,他因购买私人的、预先拥有的喷气式飞机而遭到批评(21万美元;1 550万英镑)。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Widespread damage as storm spreads through midwestern US",
+      "title_zh": "风暴蔓延到美国中西部 造成广泛破坏",
+      "link": "https://www.bbc.com/news/videos/c8ejnppwz38o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T18:13:35+00:00",
+      "summary": "A series of strong winds has torn through the midwestern US, ripping roofs off homes and leaving roads obstructed.",
+      "summary_zh": "一系列强风吹遍了美国中西部,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "title_zh": "乌克兰警察总长辞职,因为据称警察逃离了致命枪击",
+      "link": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T17:48:41+00:00",
+      "summary": "The head of Ukraine's patrol police, Yevhen Zhukov, has resigned after two of his officers faced criticism for allegedly fleeing a deadly mass shooting in the capital, Kyiv.",
+      "summary_zh": "乌克兰巡逻警察负责人叶文·朱可夫在两名军官因据称逃离首都基辅的致命大规模枪击而遭到批评后辞职."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Drone footage shows huge Malaysian coastal village fire",
+      "title_zh": "无人机镜头显示马来西亚沿海村庄大火",
+      "link": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T16:05:38+00:00",
+      "summary": "A fire in Malaysia's Sabah state on Borneo island has destroyed around 1,000 homes and left thousands displaced, the fire department has said.",
+      "summary_zh": "马来西亚沙巴州婆罗洲岛上一起火灾已经摧毁了约1000所房屋并造成上千人流离失所,消防部门表示."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+      "title_zh": "数以千计的巴黎人被疏散,",
+      "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T15:50:48+00:00",
+      "summary": "Thousands of people were evacuated from a northern suburb of Paris while a World War Two bomb was rendered safe on Sunday.",
+      "summary_zh": "数以千计的人从巴黎北部郊区被疏散,而一发\"二战\"的炸弹在星期日安全了."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why are gray whales dying in San Francisco's waters? US scientists search for clues",
+      "title_zh": "为什么灰鲸会在旧金山的水域中死去? 美国科学家寻找线索",
+      "link": "https://www.bbc.com/news/articles/c9qdd8qvrplo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T13:08:05+00:00",
+      "summary": "California's blustery San Francisco Bay is home to the Golden Gate Bridge, commercial ports, public marinas and ferry boats. But more recently, a new sight is attracting locals' attention: Eastern North Pacific gray whales.",
+      "summary_zh": "加州的粗放的旧金山湾是金门大桥,通商港,公共码头和渡船的所在地. 但最近,一个新的景点正在吸引当地人的关注:东北太平洋灰鲸."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+      "title_zh": "警方说,在奥地利的HIPP婴儿食品罐中发现了鼠毒",
+      "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T12:52:26+00:00",
+      "summary": "Police in Austria have urged people to be vigilant after a sample of HiPP baby food was found to contain rat poison.",
+      "summary_zh": "奥地利警方敦促人们在HIPP婴儿食品样本被查出含有鼠毒后保持警惕."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "韓国メディア “統一相発言に米抗議 北朝鮮情報の提供制限か”",
+      "title_zh": "韩国媒体\"美国抗议统一阶段限制朝鲜新闻\".",
+      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103151000.html",
+      "published_at": "2026-04-19T12:22:13+00:00",
+      "summary": "",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French peacekeeper killed in southern Lebanon",
+      "title_zh": "法国维和人员在黎巴嫩南部被害",
+      "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T11:39:47+00:00",
+      "summary": "A French peacekeeper has been killed and three others wounded after a UN patrol came under fire in southern Lebanon, in what officials described as a deliberate attack.",
+      "summary_zh": "一支联合国巡逻队在黎巴嫩南部遭到炮火袭击,一名法国维和人员被击毙,另有三人受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Obama and Mamdani sing with children in New York",
+      "title_zh": "央视:奥巴马和马姆达尼在纽约与孩子一起唱歌",
+      "link": "https://www.bbc.com/news/videos/c0le5pdgdzwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T11:19:32+00:00",
+      "summary": "Former US President Barack Obama and New York City mayor Zohran Mamdani met for the first time on Saturday at a child care centre in the Bronx where they sang to preschoolers.",
+      "summary_zh": "美国前总统奥巴马和纽约市市长佐赫兰·马姆达尼星期六在布朗克斯的一家儿童保育中心相会,在那里他们向学龄前儿童唱歌."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "title_zh": "泽连斯基谴责美国延长俄罗斯制裁豁免",
+      "link": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T09:55:22+00:00",
+      "summary": "Ukraine's President Volodymyr Zelensky has condemned a US decision to extend the period during which Russia is allowed to sell oil despite Western sanctions.",
+      "summary_zh": "乌克兰总统沃洛德米尔·泽连斯基已谴责美国决定延长俄罗斯不顾西方制裁出售石油的期限。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Runners v robots at China half marathon",
+      "title_zh": "观察:中国的跑者v机器人半马拉松",
+      "link": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T08:46:34+00:00",
+      "summary": "Robots competed in a half marathon race in Beijing on Sunday, with the fastest machine leaving its human rivals for dust.",
+      "summary_zh": "机器人在周日于北京举行的半个马拉松比赛中出场出场,最快的机器让人类对手去争夺尘埃."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bodies of 50 infants dumped at Trinidad graveyard",
+      "title_zh": "50名婴儿被扔入特立尼达墓地",
+      "link": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T07:49:45+00:00",
+      "summary": "The remains of at least 50 infants and six adults have been dumped at a graveyard in Trinidad and Tobago, police say.",
+      "summary_zh": "警方说,至少有50名婴儿和6名成年人被丢弃在特立尼达和多巴哥的一个墓地。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "title_zh": "Pope说'tryants'的演讲不是针对特朗普的",
+      "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T07:47:35+00:00",
+      "summary": "Pope Leo says he was not seeking to debate Donald Trump when he criticised \"tyrants\" for spending billions on wars in a speech earlier this week.",
+      "summary_zh": "教宗利奥表示,当他在本周早些时候的一次演讲中批评\"战友\"在战争上花费了数十亿美元时,他并没有寻求辩论唐纳德·特朗普."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia's most-decorated soldier vows to fight war crime charges",
+      "title_zh": "澳大利亚最有名气的士兵发誓要打击战争罪",
+      "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T05:12:40+00:00",
+      "summary": "Australia's most decorated living soldier, Ben Roberts-Smith, has publicly denied all allegations against him in his first statement after being charged with five counts of the war crime of murder last week.",
+      "summary_zh": "澳大利亚最受装饰活生生的士兵本·罗伯茨-史密斯在上周被以五项战争罪谋杀罪指控后,在第一次声明中公开否认了对他的所有指控."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "title_zh": "\"武器响亮,但总是有音乐\": 苏丹乐队在战争中继续演奏",
+      "link": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-18T23:09:49+00:00",
+      "summary": "Members of one of Sudan's most influential bands, Aswat Almadina, are scattered across the world, clinging to the hope that their music will be an inspiration for peace in a nation ravaged by war.",
+      "summary_zh": "苏丹最有影响力的乐队之一阿斯瓦特·阿尔马迪纳的成员分散在世界各地,他们坚持希望他们的音乐能成为受战争蹂躏的国家实现和平的灵感。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
+      "title_zh": "哈利和梅根的旅程就像是皇家之旅 除了许多澳洲人不感兴趣",
+      "link": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-18T23:09:30+00:00",
+      "summary": "The Duke and Duchess of Sussex have finished their brisk four-day visit to the east coast of Australia.",
+      "summary_zh": "苏塞克斯公爵和公爵夫人完成了对澳大利亚东海岸的为期四天的访问。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
+      "title_zh": "“克罗地亚,但便宜”: 2026年的奇特节日景点",
+      "link": "https://www.bbc.com/news/articles/c747r0l8n7do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-18T23:08:45+00:00",
+      "summary": "Many can relate to the buzz of stumbling upon a hidden gem.",
+      "summary_zh": "许多人都与隐藏的宝石被绊倒有关。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Alec Baldwin to face civil trial over Rust film set shooting",
+      "title_zh": "Alec Baldwin面对Rust电影拍摄的民事审判",
+      "link": "https://www.bbc.com/news/articles/cp86rrld6dyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-18T23:08:23+00:00",
+      "summary": "Actor Alec Baldwin could face a civil trial over a 2021 shooting on the set of the film Rust, after a judge ruled a lawsuit could go to trial.",
+      "summary_zh": "演员Alec Baldwin可能面对2021年拍摄电影\"鲁斯特\"一集的枪击案的民事审判,此前法官裁定诉讼可以进行审判."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
+      "title_zh": "切尔诺贝利的最后一次婚礼: 那对在核灾难中结婚的夫妇",
+      "link": "https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-18T23:05:30+00:00",
+      "summary": "It was just after midnight. Iryna Stetsenko had finished doing her nails for her wedding, opened the balcony door and was battling her nerves to get to sleep.",
+      "summary_zh": "刚过了午夜 Iryna Stetsenko在婚礼上做了指甲 打开了阳台的门 正在和她的神经搏斗去睡觉"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The South Korean authors rising above a tide of hate to become bestsellers",
+      "title_zh": "南韩的作者们 超越了仇恨的潮流 成为畅销书",
+      "link": "https://www.bbc.com/news/articles/cm2rpl7xzpvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-18T22:32:20+00:00",
+      "summary": "When Seen Aromi's memoir documenting the joys of singlehood hit the shelves in early 2024, it became an instant bestseller.",
+      "summary_zh": "2024年初\"Seeven Aromi\"的回忆录中记录了\"单身的喜悦\"打入了架子后,成为了即时畅销书."
     },
     {
       "source": "BBC News",
@@ -62,36 +322,6 @@
       "published_at": "2026-04-18T21:27:56+00:00",
       "summary": "Mexican President Claudia Sheinbaum has said there was \"no diplomatic crisis\" with Spain after years of frosty relations over the conquest of the North American nation.",
       "summary_zh": "墨西哥总统克洛迪娅·谢因鲍姆(Claudia Sheinbaum)曾表示,在对北美民族的征服问题上多年的冰冻关系后,与西班牙之间\"没有外交危机\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "京都 男児遺体遺棄事件 “学校送るも別場所で殺害”趣旨供述",
-      "title_zh": "京都男尸遗案\"去另一个地方\"",
-      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102671000.html",
-      "published_at": "2026-04-18T21:20:22+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
-      "title_zh": "伊朗说,霍尔木兹海峡再次关闭,因为船只遭到袭击",
-      "link": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T21:19:46+00:00",
-      "summary": "Iran says it is closing the Strait of Hormuz again to commercial vessels and that any ship that approaches it will be targeted.",
-      "summary_zh": "伊朗说,它将再次关闭霍尔木兹海峡,禁止商业船只进入,任何接近该海峡的船只都将成为目标。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "長野 安曇野で住宅火災 焼け跡から2人の遺体 住人と連絡取れず",
-      "title_zh": "长野阿祖米诺住宅火灾 2起被焚毁的遗迹",
-      "link": "http://www3.nhk.or.jp/news/html/20260419/k10015102721000.html",
-      "published_at": "2026-04-18T20:12:57+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
@@ -126,52 +356,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "HiPP recalls jarred baby food in Austria over contamination fears",
-      "title_zh": "HIPP回顾奥地利的罐装婴儿食品,",
-      "link": "https://www.bbc.com/news/articles/c4gly4qkx1go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T16:54:22+00:00",
-      "summary": "Baby food brand HiPP has recalled its entire range of jarred purées sold in Spar supermarkets in Austria over fears they may have been contaminated.",
-      "summary_zh": "婴儿食品品牌HiPP回顾了其在奥地利斯帕尔超市所售出的所有罐装纯油,因为担心它们可能受到了污染。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "title_zh": "Pope说'tryants'的演讲不是针对特朗普的",
-      "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T16:44:39+00:00",
-      "summary": "Pope Leo says he was not seeking to debate Donald Trump when he criticised \"tyrants\" for spending billions on wars in a speech earlier this week.",
-      "summary_zh": "教宗利奥表示,当他在本周早些时候的一次演讲中批评\"战友\"在战争上花费了数十亿美元时,他并没有寻求辩论唐纳德·特朗普."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French peacekeeper killed in southern Lebanon",
-      "title_zh": "法国维和人员在黎巴嫩南部被害",
-      "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T14:53:17+00:00",
-      "summary": "A French peacekeeper has been killed and three others wounded after a UN patrol came under fire in southern Lebanon, in what officials described as a deliberate attack.",
-      "summary_zh": "一支联合国巡逻队在黎巴嫩南部遭到炮火袭击,一名法国维和人员被击毙,另有三人受伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "French film star Nathalie Baye dies aged 77, media report",
       "title_zh": "法国电影明星Nathalie Baye去世77岁,媒体报道",
       "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-18T14:52:15+00:00",
       "summary": "One of France's most celebrated film stars, Nathalie Baye, has died aged 77, French media report.",
       "summary_zh": "法国最有名的电影明星之一\"娜塔莉·贝\"已逝世,享年77岁,法国媒体报道."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Millions listen to Ethiopian star's song taking swipe at government",
-      "title_zh": "数百万人听埃塞俄比亚明星的歌 在政府里偷听",
-      "link": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T13:13:21+00:00",
-      "summary": "In a country where criticising the authorities has often landed people in trouble, the latest song from Ethiopia's biggest musician – which appears to condemn the government – is attracting attention.",
-      "summary_zh": "批评当局的人经常陷入困境,"
     },
     {
       "source": "BBC News",
@@ -186,42 +376,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "One dead after car hits pedestrians in Melbourne, police say",
-      "title_zh": "警察说墨尔本的行人被车撞后死了一人",
-      "link": "https://www.bbc.com/news/articles/c20dy511v3lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T11:09:39+00:00",
-      "summary": "Police have arrested a man in Melbourne after a car mounted a kerb and drove into pedestrians, killing one.",
-      "summary_zh": "警方在墨尔本逮捕了一名男子,当时一辆汽车上挂了一只克布并开入行人,杀死了一名."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
       "title_zh": "麦当娜加盟了莎宾娜·卡彭特 给克蕾拉一个惊喜",
       "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-18T10:32:54+00:00",
       "summary": "Madonna surprised fans at Coachella making a guest appearance during Sabrina Carpenter's Friday night headline set.",
       "summary_zh": "麦当娜惊奇地看到Ceachella在萨布丽娜·卡彭特周五晚间头条节目中出演了来宾出场."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "DR Congo accepts first set of deportees from the US",
-      "title_zh": "DR 刚果接受第一批被驱逐者",
-      "link": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T09:18:16+00:00",
-      "summary": "Fifteen people deported from the US, who are reportedly from South America, have arrived in the Democratic Republic of Congo.",
-      "summary_zh": "15名被驱逐出美国的人,据报他们来自南美洲,已抵达刚果民主共和国。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
-      "title_zh": "白宫和Anthropic在对Mythos模型的恐惧中举行“生产性”会议",
-      "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T00:37:06+00:00",
-      "summary": "The White House has said it has had a \"productive and constructive\" meeting with the head of artificial intelligence firm Anthropic, which is suing the US Department of Defense.",
-      "summary_zh": "白宫说,它与正在起诉美国国防部的人工智能公司Anthropic的负责人进行了\"富有成效和建设性的\"会谈."
     },
     {
       "source": "BBC News",
@@ -236,92 +396,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Three sentenced for 'man in bear suit' insurance scam",
-      "title_zh": "3人被判\"熊装男\"保险诈骗案",
-      "link": "https://www.bbc.com/news/articles/czxrq7rx9lqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-18T00:10:29+00:00",
-      "summary": "Three men have been sentenced in California for an insurance scam using someone in a bear costume to stage fake attacks on luxury cars.",
-      "summary_zh": "加州有三名男子因保险骗局被判刑 利用身穿熊装的人 假造豪华汽车攻击案"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What does it take to survive in the Arctic? These rangers have an idea",
-      "title_zh": "在北极生存需要多少时间? 这些护林员有个主意",
-      "link": "https://www.bbc.com/news/videos/ckgepkp3zgjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-17T23:01:43+00:00",
-      "summary": "To survive in one of the harshest environments on Earth, the people who live and patrol Canada's Arctic rely on lessons passed down through generations.",
-      "summary_zh": "为了在地球上最恶劣的环境中生存下来,生活在和巡视加拿大北极地区的人们依靠历代流传下来的教训."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "He made jazz under air raids - and built an Indian city's music scene",
-      "title_zh": "在空袭下他制造了爵士乐 建造了印度城市的音乐场景",
-      "link": "https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-17T23:01:06+00:00",
-      "summary": "In 1940s Calcutta (now Kolkata), as Japanese air raids rattled the city, a group of musicians travelled by horse carriage to a recording studio, dodging sirens.",
-      "summary_zh": "1940年代,加尔各答(现为加尔各答),当日本空袭震撼了这座城市时,一群音乐家乘马车前往录音室,躲避警报器."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Officer on horseback chases suspect through New York streets",
-      "title_zh": "警官骑马从纽约街上追来疑犯",
-      "link": "https://www.bbc.com/news/videos/cnv893gn722o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-17T19:50:54+00:00",
-      "summary": "Bodycam footage shows the moment a New York police officer patrolling on horseback chases a suspected purse-snatcher around city streets.",
-      "summary_zh": "机身摄像头的镜头显示 纽约一名骑马巡逻的警察 在城市街道上追逐一名疑似钱包猎手"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What next for South African opposition firebrand Malema after his five-year prison sentence?",
-      "title_zh": "南非反对派Firebrand Malema被判五年后,",
-      "link": "https://www.bbc.com/news/articles/cdxkd6rvk0do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-17T16:53:17+00:00",
-      "summary": "The leader of one of South Africa's main opposition parties, Julius Malema, has been given a five-year prison term for unlawfully possessing a firearm and firing it in public, casting a huge question mark over his political career.",
-      "summary_zh": "南非主要反对党之一的领袖Julius Malema因非法持有火器并公开射击而被判处五年监禁,为他的政治生涯留下了巨大的疑问。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What we know about the Israel-Lebanon ceasefire",
-      "title_zh": "我们对以黎停火的了解",
-      "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-17T14:56:15+00:00",
-      "summary": "US President Donald Trump announced on Thursday that the leaders of Israel and Lebanon have agreed to a 10-day ceasefire, which took effect from 17:00 EST (21:00 GMT; midnight local time) on 16 April.",
-      "summary_zh": "美国总统唐纳德·特朗普星期四宣布,以色列和黎巴嫩两国领导人已同意10天停火,停火自4月16日17:00(格林尼治平时21:00;当地时间午夜)起生效."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-      "title_zh": "与以色列的停火给黎巴嫩带来了缓冲,但和平的障碍依然存在",
-      "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-17T14:31:51+00:00",
-      "summary": "At the stroke of midnight, gunfire and fireworks celebrated the start of the ceasefire in Beirut.",
-      "summary_zh": "在午夜中,枪炮和烟花在贝鲁特庆祝停火的开始。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
       "title_zh": "BBC在伊朗:\"德黑兰认为它没有输掉这场战争\".",
       "link": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-17T09:19:23+00:00",
       "summary": "President Donald Trump has said that talks between the US and Iran to end the war could resume as early as this weekend, with Washington and Tehran \"very close\" to making a deal.",
       "summary_zh": "总统唐纳德·特朗普表示,美国和伊朗结束战争的谈判可以在本周末尽早恢复,华盛顿和德黑兰\"非常接近\"达成协议."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment wolf on the run in South Korea is found",
-      "title_zh": "南朝鲜逃亡时发现有狼出没",
-      "link": "https://www.bbc.com/news/videos/c70dvy2l701o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-17T04:53:04+00:00",
-      "summary": "A wolf that captured South Korea's attention after escaping Daejeon O-World zoo, has now been captured himself.",
-      "summary_zh": "一只狼在逃离了大田O-World动物园后,捕捉了韩国的注意力,现在被自己捕获了."
     }
   ]
 }
