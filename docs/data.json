@@ -1,37 +1,147 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-04-25T22:56:34+00:00",
-  "count": 45,
+  "generated_at": "2026-04-26T22:58:35+00:00",
+  "count": 41,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "【地震情報】鹿児島 悪石島で震度3 津波の心配なし",
-      "title_zh": "[地震资讯]. 鹿儿岛地震烈度3级海啸",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108511000.html",
-      "published_at": "2026-04-25T22:32:22+00:00",
-      "summary": "26日午前7時14分ごろ鹿児島県十島村の悪石島で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
-      "summary_zh": "26日7:14左右,鹿儿岛县东岛村发生地震,观测到地震烈度3震动. 本次地震引发的海啸毫不担心."
+      "title": "【地震速報】長野 大町市で震度3 津波の心配なし",
+      "title_zh": "[地震快报]长野大和市 三号海啸,不用担心",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109051000.html",
+      "published_at": "2026-04-26T22:50:52+00:00",
+      "summary": "２７日午前７時４５分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は長野県北部で震源の深さは１０キロ、地震の規模を示すマグニチュードは３．２と推定されます。",
+      "summary_zh": "地震发生于27日凌晨7:45左右. 本次地震引发的海啸毫不担心. 长野县北部地震深度为10公里,震级为3.2级."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "JR横須賀線と東海道線 運転再開",
-      "title_zh": "JR 横须贺线和东海道线",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108501000.html",
-      "published_at": "2026-04-25T22:04:52+00:00",
-      "summary": "JR横須賀線は、横浜市内の踏切で車が脱輪した影響で、全線で運転を見合わせていましたが、午前6時45分ごろに運転を再開しました。",
-      "summary_zh": "JR横须贺线曾受该车影响被横滨市各渡口出轨,后于6:45左右重新开放."
+      "title": "【地震速報】北海道十勝南部で震度5強 津波の心配なし",
+      "title_zh": "[地震快报]北海道南部海啸烈度5级.",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108931000.html",
+      "published_at": "2026-04-26T22:49:32+00:00",
+      "summary": "この記事は、現在リアルタイムで更新中です。",
+      "summary_zh": "此条正被实时更新."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "岩手 大槌町の山林火災 避難指示地区以外にも火が迫る",
-      "title_zh": "山林岩在大顺镇起火 火势接近疏散方向",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
-      "published_at": "2026-04-25T21:39:00+00:00",
-      "summary": "岩手県大槌町の山林火災は26日で発生から5日目です。町や消防によりますと避難指示が出ていない地区にも火が迫っているということで、26日もおよそ1300人の態勢で地上からの消火活動にあたっています。",
-      "summary_zh": "岩上县奥特苏基乔的森林火灾是26天后发生的第5天. 据说,由于城镇和消防工作,疏散指示没有出现,火场太近了,26天内从地上扑灭的火场约有1300人."
+      "title": "【地震 交通影響】JR北海道 一部で運転見合わせ",
+      "title_zh": "JR 北海道",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108991000.html",
+      "published_at": "2026-04-26T22:44:10+00:00",
+      "summary": "午前5時24分ごろ、北海道の十勝地方南部で震度5強の強い揺れを観測する地震がありました。",
+      "summary_zh": "凌晨5:24左右,北海道同济地區南部发生强烈地震,观测到烈度为5等."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+      "title_zh": "特朗普和官员\"可能\"的目标 记者晚宴枪击嫌疑人,当局相信",
+      "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-26T22:43:36+00:00",
+      "summary": "US President Donald Trump and his officials were the \"likely\" targets of a suspected gunman who attempted to storm the White House Correspondents' Dinner, acting US Attorney General Todd Blanche has said.",
+      "summary_zh": "美国总统唐纳德·特朗普和他的官员是一名被怀疑的枪手的\"可能\"目标,他企图冲入白宫通讯员的晚餐,代理美国司法部长托德·布兰克(Todd Blanche)说过."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【ライブ】気象庁会見「今後1週間程度 同程度の地震に注意」",
+      "title_zh": "[活 气象局理事会“下个星期的会议”",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109001000.html",
+      "published_at": "2026-04-26T22:39:38+00:00",
+      "summary": "今回の地震について気象庁はさきほど午前7時半から記者会見を開いています。",
+      "summary_zh": "日本气象厅自7:30起召开新闻发布会."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ドジャース 大谷翔平 12試合ぶり6号ソロホームラン",
+      "title_zh": "道奇队Shohei Otani 12 与第6次独奏全垒打比赛",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109061000.html",
+      "published_at": "2026-04-26T22:27:57+00:00",
+      "summary": "大リーグ、ドジャースの大谷翔平選手が、26日、カブス戦に1番・指名打者で先発出場し、7回の第4打席で今シーズン6号のソロホームランを打ちました。大谷選手のホームランは4月12日以来、12試合ぶりです。…",
+      "summary_zh": "26日,由相平·奥塔尼先生出道,大雅斯出道,参加了卡布苏赛事的第一场并被提名为击球手,并在本赛季打入了第7名击球手的第六支全垒打. 奥塔尼球员自4月12日起全垒打出场12场. . . . . . . ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【ライブ】北海道十勝南部で震度5強 各地の映像",
+      "title_zh": "[活]北海道南部地震烈度5级.",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109041000.html",
+      "published_at": "2026-04-26T22:03:09+00:00",
+      "summary": "午前5時24分ごろ、北海道の十勝地方南部で震度5強の強い揺れを観測する地震がありました。この地震による津波の心配はありません。",
+      "summary_zh": "凌晨5:24左右,北海道同济地區南部发生强烈地震,观测到烈度为5等. 本次地震引发的海啸毫不担心."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+      "title_zh": "马里国防部长被反叛者一波一波的袭击所击毙",
+      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-26T20:56:26+00:00",
+      "summary": "Mali's defence minister has been killed in an apparent suicide truck bombing on his residence near the capital Bamako.",
+      "summary_zh": "马里国防部长在首都巴马科附近的住所被一起明显的自杀性卡车炸弹炸死。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "岩手 大槌町の山林火災 発生6日目も延焼続く",
+      "title_zh": "岩上山林大火在奥特素奇周 第6天继续被烧毁",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108891000.html",
+      "published_at": "2026-04-26T20:05:58+00:00",
+      "summary": "岩手県大槌町の山林火災は、発生から27日で6日目となりますが、延焼が続いています。町内の高校のすぐ裏にある山林が燃え、近くを通る三陸自動車道の一部区間が通行止めになるなど影響が広がっていて、消防が夜を…",
+      "summary_zh": "山林大火在岩上县大寿町 发生后的第6天 镇上中学附近的森林正在被烧毁,一些经过该街区的桑里库快道会关闭."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Did Trump save eight Iranian women from execution?",
+      "title_zh": "特朗普是否挽救了8名伊朗女性被处决?.",
+      "link": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-26T19:16:58+00:00",
+      "summary": "US President Donald Trump claimed that his intervention helped save eight women arrested in Iran from the death penalty.",
+      "summary_zh": "美国总统唐纳德·特朗普声称,他的干预有助于将8名在伊朗被捕的妇女从死刑中解救出来."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Video shows correspondents' dinner suspect charge checkpoint",
+      "title_zh": "录像显示,记者的晚餐 疑似收费检查站",
+      "link": "https://www.bbc.com/news/videos/cj0v0484dmmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-26T04:27:08+00:00",
+      "summary": "US police say the suspected gunman at the White House correspondents' dinner had multiple weapons on him when he charged a security checkpoint.",
+      "summary_zh": "美国警方称,白宫记者晚宴上被怀疑的枪手在指控安全检查站时身上有多件武器."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+      "title_zh": "我和特朗普在房间里 听到枪声低落",
+      "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-26T04:22:59+00:00",
+      "summary": "I had just put my knife and fork down, and almost didn't notice the booming sounds coming from somewhere in front of me in the direction of the main entrance to the ballroom at the Washington Hilton.",
+      "summary_zh": "我刚刚放下了刀和叉子, 几乎没有注意到兴起的声音 从我前面的某个地方 朝华盛顿希尔顿舞厅主入口的方向传来。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "title_zh": "内塔尼亚胡命令军队\"猛烈地攻击\"黎巴嫩真主党",
+      "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-26T00:34:21+00:00",
+      "summary": "Israel's Prime Minister Benjamin Netanyahu has ordered his military to \"vigorously attack Hezbollah targets\" in Lebanon, two days after a ceasefire was extended by three weeks.",
+      "summary_zh": "以色列总理本雅明·内塔尼亚胡下令军队\"猛烈地攻击真主党在黎巴嫩的目标\",停火延长了三天后两天."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "BBC visits Chernobyl ghost city 40 years after world's worst nuclear accident",
+      "title_zh": "BBC访问切尔诺贝利鬼城 世界最糟糕核事故发生40年后",
+      "link": "https://www.bbc.com/news/videos/czjwrdgp98wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-25T23:01:11+00:00",
+      "summary": "On Sunday, Ukraine marks the 40th anniversary of the Chernobyl nuclear accident. Reactor number 4 at the plant exploded on 26 April 1986, spewing out radioactive material that would spread across swathes of Europe.",
+      "summary_zh": "乌克兰星期天纪念切尔诺贝利核事故40周年. 1986年4月26日,工厂第4号反应堆爆炸,喷出将扩散到欧洲各地的放射性材料。"
     },
     {
       "source": "BBC News",
@@ -42,46 +152,6 @@
       "published_at": "2026-04-25T21:34:12+00:00",
       "summary": "Donald Trump cancelled a planned trip by US officials to Pakistan for talks on the Iran war on Saturday, shortly after Tehran's delegation had left Islamabad.",
       "summary_zh": "唐纳德·特朗普取消了计划由美国官员在德黑兰代表团离开伊斯兰堡后不久于星期六前往巴基斯坦进行伊朗战争会谈."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン外相 パキスタン首相らと会談 米は特使らの派遣取りやめ",
-      "title_zh": "会见巴基斯坦总理",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
-      "published_at": "2026-04-25T21:18:37+00:00",
-      "summary": "イランのアラグチ外相は25日、仲介国のパキスタンでシャリフ首相らとの会談を終え、次の訪問先のオマーンに移動しました。このあとアメリカのトランプ大統領は25日に予定していたウィトコフ特使らのパキスタンへ…",
-      "summary_zh": "25日,伊朗阿拉格奇外长在巴基斯坦会见了谢里夫总理并移居阿曼,这是下一次访问. 美国总统特朗普到巴基斯坦 计划25日..."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
-      "title_zh": "武装团体在马里各地发动协调攻击时发生的爆炸和枪击事件",
-      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-25T21:13:49+00:00",
-      "summary": "Explosions and sustained gunfire have been reported in Mali's capital, Bamako, as armed groups launched co-ordinated attacks across the country.",
-      "summary_zh": "据报,马里首都巴马科发生爆炸和持续枪击,武装团体在全国各地发动了协调攻击。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "出生前検査 「NIPT」導入後 より負担大きい「羊水検査」が減少",
-      "title_zh": "减少羊水检查,比NIPT更重负担",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108371000.html",
-      "published_at": "2026-04-25T21:11:11+00:00",
-      "summary": "胎児の染色体の異常を調べる「出生前検査」のひとつで、妊婦の負担が大きいとされる「羊水検査」の実施件数が、ピーク時の3分の1に減少したことが、国立成育医療研究センターなどの調査でわかりました。研究グルー…",
-      "summary_zh": "检查胎儿染色体异常的产前检查之一,羊取水检查的数量,据说孕妇负担很重,在高峰期降至1/1. 由全国儿童健康与发展中心研究. 内容"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "北海道・三陸沖後発地震注意情報 日頃の備え確認を",
-      "title_zh": "关于北海道近海沿海地震的通知.",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108491000.html",
-      "published_at": "2026-04-25T21:00:32+00:00",
-      "summary": "今月20日に三陸沖で起きたマグニチュード7.7の大地震を受けて、気象庁は、千島海溝・日本海溝沿いでは、巨大地震が発生する可能性がふだんより高まっているとして「北海道・三陸沖後発地震注意情報」を発表して…",
-      "summary_zh": "本月20日,气象厅已公布\"北海道和三里口地震预警信息\",因其更可能引发千岛海沟和日本海沟一带的大地震."
     },
     {
       "source": "BBC News",
@@ -100,8 +170,8 @@
       "title_zh": "观察:一只猩猩如何勇敢地将他分裂的社区团结起来",
       "link": "https://www.bbc.com/news/videos/ckgerdnvm2xo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-25T18:23:45+00:00",
-      "summary": "When a road was built through the forest where the orangutans lived in Indonesia's Sumatra, it split the Sumatran orangutan community in two and lead to fears that inbreeding could cause health implications and eventual extinction.",
-      "summary_zh": "当一条道路被修建在印尼苏门答腊的红猩猩所居住的森林中时,它将苏门答腊红猩猩社区一分为二,并导致人们担心繁殖会导致健康影响并最终灭绝."
+      "summary": "When a road was built through the forest where the orangutans lived in Indonesia's Sumatra, it split the Sumatran orangutan community in two and led to fears that inbreeding could cause health implications and eventual extinction.",
+      "summary_zh": "当一条道路被从印尼苏门答腊的orangutan人所居住的森林中修建出后,将Sumatran orangutan社区一分为二并导致人们担心出血会导致健康影响并最终灭绝."
     },
     {
       "source": "BBC News",
@@ -152,16 +222,6 @@
       "published_at": "2026-04-25T12:29:37+00:00",
       "summary": "At least seven people were killed in Russian strikes across Ukraine overnight, including five in the central city of Dnipro, where officials said an apartment building was hit.",
       "summary_zh": "俄军在乌克兰各地连夜出击,至少有7人被击毙,其中5人被击毙于德尼普罗市中心,官员表示有一座公寓楼被击中."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "JR福知山線脱線事故 “最後の生存者”が語ったこと",
-      "title_zh": "JR福知山出轨事故的最后幸存者是什么?",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108351000.html",
-      "published_at": "2026-04-25T12:12:29+00:00",
-      "summary": "107人が死亡したJR福知山線の脱線事故から25日で21年となり、事故現場では慰霊式が行われました。ことしの慰霊式には、当時、最後の生存者として救出された男性が初めて参列しました。",
-      "summary_zh": "JR福chi山线发生事故后举行追悼会. 当时作为最后一名幸存者被救出的人正在参加仪式."
     },
     {
       "source": "BBC News",
@@ -246,16 +306,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Epstein survivor: Meeting the King would be a 'grand step'",
-      "title_zh": "爱泼斯坦幸存者:与国王相遇将是\"伟大的一步\".",
-      "link": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T23:00:21+00:00",
-      "summary": "Teresa Helm, a survivor of convicted sex offender Jeffrey Epstein, has said a meeting with King Charles and Queen Camilla would \"demonstrate human dignity\".",
-      "summary_zh": "已定罪的性罪犯杰弗里·爱泼斯坦(Jeffrey Epstein)的生还者特蕾莎·赫尔姆(Teresa Helm)表示,与查尔斯国王和卡米拉王后会面会\"展现出人的尊严\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "US to allow firing squads, gas and electrocution for federal executions",
       "title_zh": "美国允许行刑队、毒气和电刑执行联邦死刑",
       "link": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
@@ -286,62 +336,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Epstein housed abuse victims in London flats, BBC reveals",
-      "title_zh": "Epstein将虐待受害者安置在伦敦公寓 BBC透露",
-      "link": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T21:01:23+00:00",
-      "summary": "Sex-criminal financier Jeffrey Epstein housed women who say he abused them in several London flats in the years after UK police decided not to investigate him, the BBC can reveal.",
-      "summary_zh": "性犯罪金融家杰弗里·爱泼斯坦(Jeffrey Epstein)在英国警方决定不调查他之后的几年里, 将那些说他虐待她们的女人安置在伦敦的几所公寓里,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "US justice department drops probe into Fed chairman Jerome Powell",
       "title_zh": "美国司法部对联邦主席杰罗姆·鲍威尔进行了调查",
       "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-24T19:10:25+00:00",
       "summary": "The US justice department is dropping its investigation into the Federal Reserve chairman, Jerome Powell, over alleged building cost overruns.",
       "summary_zh": "美国司法部正在放弃对美联储主席杰罗姆·鲍威尔的调查,因为据称建筑费用超支。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
-      "title_zh": "观看:20,000只泰迪熊突出失踪的乌克兰儿童的困境",
-      "link": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T18:48:31+00:00",
-      "summary": "An installation of 20,000 teddy bears has been placed on the National Mall in Washington DC to draw attention to Ukrainian children believed to have been taken by Russia.",
-      "summary_zh": "在华盛顿特区的国家购物中心安装了20,000只泰迪熊,以引起人们注意据信被俄罗斯带走的乌克兰儿童。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is this game only legal across Australia one day a year?",
-      "title_zh": "为什么这个游戏每年只在澳大利亚各地合法一天?",
-      "link": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T18:05:14+00:00",
-      "summary": "Two-up is a coin toss betting game, with two people betting against each other on whether they will land on heads or tails. Classified as unregulated gambling, the game is illegal in most parts of Australia. But on 25 April people rush to the pub to play, when it’s permitted across the country for a few hours. The BBC’s Harry Sekulich explains why the exception is made, and what people for and against it have to say.",
-      "summary_zh": "Two-up是一款硬币投注游戏,两人赌对对方是正面还是后背. 被归类为无管制赌博,游戏在澳大利亚大部分地区都是非法的. 但4月25日, 人们赶去酒吧玩, BBC的Harry Sekulich解释为何例外,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
-      "title_zh": "南非驻加纳最高特使因袭击外国人而召见",
-      "link": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T17:31:41+00:00",
-      "summary": "Ghana has summoned South Africa's top envoy to the country over reported \"acts of intimidation and harassment\" against its citizens and other African migrants in the southern African nation.",
-      "summary_zh": "加纳召见南非最高特使,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
-      "title_zh": "3名科索沃塞族人因致命枪战和修道院被囚禁",
-      "link": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T17:20:48+00:00",
-      "summary": "A court in Kosovo has sentenced two Kosovo Serbs to life imprisonment and another to a 30-year jail term for taking part in what it described as a \"terrorist\" attack in September 2023.",
-      "summary_zh": "科索沃一家法院判处两名科索沃塞族人无期徒刑,另一名则判处30年徒刑,罪名是参与2023年9月所谓的“恐怖主义”袭击。"
     },
     {
       "source": "BBC News",
@@ -406,52 +406,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
-      "title_zh": "以色列的本雅明·内塔尼亚胡治疗早期前列腺癌",
-      "link": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T11:49:29+00:00",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu has said he is \"in excellent physical condition\" after the publication of his annual medical report revealed he had a malignant tumour removed.",
-      "summary_zh": "以色列总理本雅明·内塔尼亚胡(Benjamin Nativa)在发表年度医疗报告后表示自己\"身体状况良好\","
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Poisoning suspected in deaths of 18 wolves in Italian national park",
-      "title_zh": "在意大利国家公园被怀疑有18只狼被毒死",
-      "link": "https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T11:47:39+00:00",
-      "summary": "Poisoning is suspected in the deaths of 18 wolves within a few days in a national park that straddles three regions of central Italy.",
-      "summary_zh": "在穿越意大利中部三个地区的国家公园中,疑似有18只狼在几天内死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
       "title_zh": "叙利亚内战期间臭名昭著的塔达蒙大屠杀的主要嫌犯被捕",
       "link": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-04-24T10:41:32+00:00",
       "summary": "A key suspect in one of the most notorious killings of the Syrian civil war has been arrested, Syria's interior minister has said.",
       "summary_zh": "叙利亚内政部长说,叙利亚内战最臭名昭著的杀人事件之一的关键嫌疑人已被逮捕。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenyan leader sparks uproar after mocking Nigerians' spoken English",
-      "title_zh": "肯尼亚领导人嘲笑尼日利亚人说英语后,",
-      "link": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T09:01:32+00:00",
-      "summary": "Kenyan President William Ruto has faced a social media backlash after publicly suggesting that Nigerian-accented English was incomprehensible and required a translator.",
-      "summary_zh": "肯尼亚总统威廉·鲁托(William Ruto)在公开表示尼日利亚语的英语不可理解并需要翻译后,遭到社交媒体的反弹."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "title_zh": "南韩警方逮捕男子,",
-      "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-24T08:23:36+00:00",
-      "summary": "South Korean police have arrested a man for sharing an AI-generated image that misled authorities who were searching for a wolf that had broken out of a zoo in Daejeon city.",
-      "summary_zh": "韩国警方逮捕了一名分享AI生成的图像的人,"
     }
   ]
 }
