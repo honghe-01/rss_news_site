@@ -1,17 +1,447 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-04-28T23:09:55+00:00",
-  "count": 40,
+  "generated_at": "2026-04-29T23:10:25+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
+      "title_zh": "石油价格上涨超过120美元, 伊朗封锁",
+      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T22:49:19+00:00",
+      "summary": "Oil prices have soared following reports that the US is preparing for an \"extended\" blockade of Iran.",
+      "summary_zh": "美国正准备对伊朗进行\"延长\"封锁,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "円相場 一時1ドル＝160円台半ば 約1年9か月ぶりの円安水準",
+      "title_zh": "1美元=160日元,在表中间 大约1年9个月",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111211000.html",
+      "published_at": "2026-04-29T22:12:54+00:00",
+      "summary": "29日のニューヨーク外国為替市場では、ホルムズ海峡の事実上の封鎖が長期化するとの懸念などから円を売って有事に強いとされるドルを買う動きが進み、円相場は一時、およそ1年9か月ぶりに1ドル＝160円台半ば…",
+      "summary_zh": "29日纽约福克斯市场出现购买一元的举动,被认为通过卖出一圈来宣告,担心霍尔姆斯·克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "JR西日本 りそなが資本業務提携へ “BaaS”拡大の可能性も",
+      "title_zh": "将“BaaS”扩大到资本和商业联盟",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111081000.html",
+      "published_at": "2026-04-29T22:03:20+00:00",
+      "summary": "JR西日本が金融大手のりそなグループと資本業務提携する方針を固め、銀行サービスへの参入を目指すことになりました。鉄道事業者の間では銀行などと連携して金融の機能を取り入れる「BaaS」と呼ばれる取り組み…",
+      "summary_zh": "JR West制定了一项与一个主要金融集团建立资本和商业联盟的政策并旨在进入银行服务. 一项称为“BaaS”的倡议,将金融职能纳入其中,与银行和其他.合作。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日本関係船舶の海峡通過 イラン側に働きかけを継続 日本政府",
+      "title_zh": "继续研究去伊朗的日本船",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111121000.html",
+      "published_at": "2026-04-29T21:58:59+00:00",
+      "summary": "日本関係船舶1隻がホルムズ海峡を通過したことを受けて、政府はイラン側に対し、ペルシャ湾内にとどまっている残りの関係船舶の通過に加え、すべての国の船舶の航行の安全確保に向けた働きかけを継続する方針です。…",
+      "summary_zh": "为了应对一艘与日本有关的船只从霍尔姆斯-克克克特号(Holms-XXXit)经过,政府将继续努力确保所有国家的安全。 . . . . . . ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 イランの提案拒否か イラン側も対抗措置示唆",
+      "title_zh": "特朗普总统拒绝了伊朗的提议,或建议伊朗的对应方",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111281000.html",
+      "published_at": "2026-04-29T21:21:56+00:00",
+      "summary": "アメリカのニュースサイトアクシオスは29日、トランプ大統領がイランの新たな提案を受け入れない考えを示したうえで、イランの港を出入りする船舶に対する海上封鎖を継続すると述べたと報じました。イラン側も「前…",
+      "summary_zh": "美国新闻网站Axios于29日报道说,特朗普继续对进出伊朗港口的船只实施海上封锁,其想法是不接受伊朗的新提议. 伊朗方面也\"前......"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "FRB 利下げ見送り ３会合連続 パウエル議長“法的攻撃を懸念”",
+      "title_zh": "FRB 三次连续会议 保罗的 \" 法律攻击关切 \"",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111161000.html",
+      "published_at": "2026-04-29T21:17:28+00:00",
+      "summary": "アメリカのFRB＝連邦準備制度理事会は金融政策を決める会合を開き、イラン情勢を受けた物価上昇などを踏まえ、利下げを見送り政策金利を据え置くと発表しました。5月に任期を終えるパウエル議長は会合後の記者会…",
+      "summary_zh": "FRB = 美国联邦储备委员会召开会议确定金融政策,并宣布已经设定了政策利率来降低以伊朗人价格上涨为基础的利息. 保罗先生,5月份的主席, 是一个记者招待会..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "岩手 大槌町山林火災 多くの地区 避難指示解除も消火活動継続",
+      "title_zh": "Iwate Otsuchi Yamabayashi Fire 许多地区 失踪的疏散指示继续被发射",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111111000.html",
+      "published_at": "2026-04-29T20:57:43+00:00",
+      "summary": "岩手県大槌町の山林火災で町は29日、住宅への延焼のおそれが低くなったとして多くの地区で避難指示を解除しました。一方で山林には依然として熱源が点在しているとして、消防と自衛隊などは1000人以上の態勢を…",
+      "summary_zh": "29日,岩上县奥特苏基乔山地起火,该镇取消了许多县的疏散指示,因为侵蚀房屋已变得很低. 另一方面,由于热源仍然被点入森林,火和自卫队拥有1000多个. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東京 福生 ハンマーで殴り逃走 殺人未遂の疑いで逮捕状 警視庁",
+      "title_zh": "东京Fussa 用锤子出击 失踪谋杀 被捕警察署",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111261000.html",
+      "published_at": "2026-04-29T20:52:58+00:00",
+      "summary": "29日、東京 福生市の路上で男が高校生2人をハンマーのようなもので殴ったあと、駆けつけた警察官に農業用の噴霧器で液体を噴射しあわせて5人が重軽傷を負った事件で、警視庁は逃走している44歳の男の容疑者に…",
+      "summary_zh": "29日,东京富沙市街道的两名中学生被锤子打出,有5人被用活泼剂向跑道注射液体而严重受损. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+      "title_zh": "在Instagram博客上,",
+      "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T20:24:48+00:00",
+      "summary": "Former FBI Director James Comey surrendered to authorities to face charges alleging that an image he briefly shared on social media posed a threat to the life of US President Donald Trump.",
+      "summary_zh": "前联邦调查局局长詹姆斯·科米(James Comey)向当局自首,面对指控,指控他在社交媒体上短暂分享的一张照片对美国总统唐纳德·特朗普的生命构成威胁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
+      "title_zh": "科米的\"海贝\"被他起诉了 但专家怀疑政府能赢",
+      "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T20:18:28+00:00",
+      "summary": "Observers experienced a tingle of déjà vu this week as they watched the Department of Justice indict James Comey on charges that he threatened his political rival, President Donald Trump.",
+      "summary_zh": "观察者本周目睹司法部起诉James Comey时,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Syria trial seen as first step on long road for Assad's victims",
+      "title_zh": "叙利亚审判被视为阿萨德受害者在漫长道路上的第一步",
+      "link": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T20:11:04+00:00",
+      "summary": "The highly charged scenes in a Damascus court on Sunday, as the first official of the former Assad regime went on trial, were a stark reminder of the clamour for justice among the families of its countless victims. While some say it is a start, it has also raised concerns over the will of Syria's new authorities to bring the many perpetrators to account.",
+      "summary_zh": "由于前阿萨德政权的首任官员于星期日在大马士革法庭受审,受到严厉指控的场景清楚地提醒我们,无数受害者的家人都要求伸张正义。 虽然有些人说这是一个开端,但它也对叙利亚新当局将许多肇事者绳之以法的意愿表示关切。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+      "title_zh": "杰罗姆·鲍威尔作为联邦主席最后决定的四项关键外卖",
+      "link": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T20:01:26+00:00",
+      "summary": "The Federal Reserve has held US interest rates steady after what was expected to be Jerome Powell's final meeting as chair.",
+      "summary_zh": "美联储在杰罗姆·鲍威尔作为主席的最后一次会晤之后保持了美国利率的稳定。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+      "title_zh": "加拿大大规模枪击受害者家属对OpenAI提起了7起诉讼",
+      "link": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T19:51:55+00:00",
+      "summary": "Seven families of victims killed or injured in a mass shooting in Canada have filed lawsuits against OpenAI and its CEO Sam Altman in a California court, accusing him and the company of ignoring the shooter's troubling interactions with ChatGPT.",
+      "summary_zh": "7个在加拿大大规模枪击中遇难或受伤的受害者家庭在加州法院对OpenAI及其CEOSam Altman提起诉讼,指责他和公司忽略了枪手与ChatGPT的令人不安的互动."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hungary's next PM says frozen EU funds will be paid out soon",
+      "title_zh": "匈牙利下届总理说,冻结的欧盟资金很快就会付清的",
+      "link": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T19:51:54+00:00",
+      "summary": "Hungary's Prime Minister-elect Péter Magyar has met EU leaders in Brussels, for the first time since his Tisza party won a landslide election on 12 April, sweeping away 16 years of rule by Viktor Orbán.",
+      "summary_zh": "匈牙利当选总理佩特尔·马吉亚尔在布鲁塞尔会见了欧盟领导人,这是他所属的蒂萨党在4月12日的山崩选举中获胜后,首次以维克多·奥尔班扫荡了16年的统治."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Stranded whale ferried out of German waters in barge",
+      "title_zh": "被绞死的鲸鱼从德国出海",
+      "link": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T17:06:23+00:00",
+      "summary": "More than five weeks after a humpback whale became stranded in shallow waters on the German coast, a barge has ferried the animal out of German waters, en route to the North Sea.",
+      "summary_zh": "在一只座头鲸被困于德国海岸浅水中5个多星期后,一艘驳船将这只动物从德国水域中拖出,驶入北海."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Madagascar detains French national over alleged plot to stir unrest",
+      "title_zh": "马达加斯加拘留法国国民,",
+      "link": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T17:03:16+00:00",
+      "summary": "A former French serviceman has been detained in Madagascar for allegedly taking part in a plot to destabilise the island, authorities say.",
+      "summary_zh": "一名前法国军人在马达加斯加被拘留,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France urges citizens to leave Mali after rebel attacks",
+      "title_zh": "法国敦促公民在叛军袭击后离开马里",
+      "link": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T16:46:38+00:00",
+      "summary": "France has urged its citizens to leave Mali \"as soon as possible\", after a weekend of co-ordinated attacks by separatist fighters and Islamist militants.",
+      "summary_zh": "法国敦促其公民在分裂主义战斗人员和伊斯兰好战分子协调袭击一个周末后\"尽快\"离开马里."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
+      "title_zh": "在五张图表中——阿联酋的退出会如何影响奥佩克对油价的影响.",
+      "link": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T16:37:08+00:00",
+      "summary": "The United Arab Emirates' plan to ditch the oil producers' group Opec and strike out alone is being viewed as a huge blow for the organisation, with one analyst describing it as \"the beginning of the end of Opec\".",
+      "summary_zh": "阿拉伯联合酋长国计划抛弃石油生产商Opec集团,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
+      "title_zh": "‘无脑,白痴和太蠢':特朗普和鲍威尔最大的冲突.",
+      "link": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T16:12:08+00:00",
+      "summary": "It has been one of the most fractious relationships between an American president and a central banker in history.",
+      "summary_zh": "这是历史上美国总统与央行行长之间最矛盾的关系之一."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New images show suspect taking selfies before Washington press dinner shooting",
+      "title_zh": "新画面显示,疑犯在华盛顿晚宴前拍自拍",
+      "link": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T16:06:00+00:00",
+      "summary": "New images included in a memorandum filed by the US government show Cole Tomas Allen - the man accused of opening fire at a White House Correspondents' dinner last weekend - with weapons in a hotel room before the attack.",
+      "summary_zh": "新画面包含在美国政府提交的备忘录中, 显示科尔·托马斯·艾伦(Cole Tomas Allen),"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
+      "title_zh": "以色列的\"双塔\"袭击 杀死了黎巴嫩的三名救援人员,官员说",
+      "link": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T15:30:50+00:00",
+      "summary": "Two successive Israeli air strikes on a building in southern Lebanon on Tuesday killed nine people, including three emergency workers, Lebanese officials say, in what the country's prime minister described as a \"war crime\".",
+      "summary_zh": "黎巴嫩官员说,星期二以色列连续两次空袭黎巴嫩南部一幢大楼,造成9人死亡,其中包括三名应急工作人员,这是该国总理所说的\"战争罪行\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France investigates reappearance of website linked to Pelicot crimes",
+      "title_zh": "法国调查重新出现与Pelicot犯罪有关的网站",
+      "link": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T15:10:55+00:00",
+      "summary": "French prosecutors have launched an investigation into the reappearance of a website known for facilitating the crimes of Dominique Pelicot, who recruited dozens of strangers to rape his wife Gisèle Pelicot.",
+      "summary_zh": "法国检察官已开始调查一个因协助多米尼克·佩利科特犯罪而闻名的网站的重新出现,该网站招募了数十名陌生人来强奸他的妻子吉塞勒·佩利科特."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US Supreme Court limits use of race in drawing electoral maps",
+      "title_zh": "美国最高法院限制使用种族绘制选举地图",
+      "link": "https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T15:05:55+00:00",
+      "summary": "The US Supreme Court limited the ability of lawmakers to take the racial make-up of a state into account when drawing voting maps, in a ruling that could reshape politics across the American south.",
+      "summary_zh": "美国最高法院限制立法者在绘制投票地图时考虑到一个国家的种族构成的能力,这项裁决可以重塑整个美国南部的政治。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: There's a ceasefire in Lebanon - but the fighting hasn't stopped",
+      "title_zh": "监视 : 黎巴嫩停火了,但战斗没有停止",
+      "link": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T14:41:26+00:00",
+      "summary": "Israel and Hezbollah are still fighting in Lebanon despite a US-brokered ceasefire deal that took effect on 17 April, pausing six weeks of full-scale war.",
+      "summary_zh": "以色列和真主党仍在黎巴嫩作战, 尽管美国调停的停火协议于4月17日生效,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Robert Mugabe's son to be deported from South Africa over firearms offence",
+      "title_zh": "罗伯特·穆加贝的儿子因枪支犯罪被南非驱逐出境",
+      "link": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T14:09:59+00:00",
+      "summary": "The youngest son of Zimbabwe's late former leader Robert Mugabe is to deported from South Africa immediately, a court in Johannesburg has ordered.",
+      "summary_zh": "津巴布韦已故前领导人罗伯特·穆加贝的幼子,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Global forest loss slows but El Niño fires could threaten progress",
+      "title_zh": "全球森林损失减缓,但厄尔尼诺火灾可能威胁进展",
+      "link": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T13:26:08+00:00",
+      "summary": "The loss of tropical rainforests slowed last year, new satellite data suggests, largely due to Brazil's efforts to curb deforestation in the Amazon.",
+      "summary_zh": "去年热带雨林损失减缓,新的卫星数据表明,这主要是由于巴西努力遏制亚马逊森林砍伐。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+      "title_zh": "俄罗斯在莫斯科胜利日的游行中缩放 指责来自乌克兰的威胁",
+      "link": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T13:01:57+00:00",
+      "summary": "Russia's Victory Day parade in Moscow on 9 May will be scaled back this year because of a \"terrorist threat\" from Ukraine, the Kremlin has said.",
+      "summary_zh": "克里姆林宫说,由于乌克兰的\"恐怖主义威胁\",今年5月9日俄罗斯在莫斯科的胜利日阅兵会缩小规模."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Irish government announces further fuel supports after protests",
+      "title_zh": "爱尔兰政府在抗议后宣布进一步燃料支持",
+      "link": "https://www.bbc.com/news/articles/cvgzd22w5ewo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T12:48:45+00:00",
+      "summary": "The Irish government has announced further fuel supports for some workers and businesses, after nationwide protests in recent weeks.",
+      "summary_zh": "爱尔兰政府在最近几周的全国性抗议活动后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tupac's family files wrongful death lawsuit in LA",
+      "title_zh": "Tupac的家人在洛杉矶的 非法死亡诉讼",
+      "link": "https://www.bbc.com/news/articles/c0l28d517gjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T12:04:58+00:00",
+      "summary": "The family of the late rapper Tupac Shakur has filed a wrongful death lawsuit in Los Angeles, seeking unspecified damages tied to the artist's murder in 1996.",
+      "summary_zh": "已故说唱歌手图帕克·沙库尔(Tupac Shakur)的家属在洛杉矶提起了一场错误的死亡诉讼,寻求与1996年艺术家被谋杀相关的未具体说明的损失."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'If it wasn't for us, you'd be speaking French': King and Trump joke at dinner",
+      "title_zh": "\"如果不是我们 你会说法语\":国王和特朗普在晚餐时开玩笑",
+      "link": "https://www.bbc.com/news/videos/c332ng27x1jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T11:41:37+00:00",
+      "summary": "Donald Trump praised King Charles III for getting the \"Democrats to stand\" during his congress address, as the pair exchanged jokes during their speeches at a state dinner on Tuesday.",
+      "summary_zh": "唐纳德·特朗普(Donald Trump)称赞了国王查尔斯三世在国会演说中让\"民主党人站起\",因为两人在星期二的国宴上的讲话中交换了笑话."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian paramilitaries carried out air strikes in Mali as rebels advanced, footage shows",
+      "title_zh": "俄罗斯准军事部队在马里发动了空袭,随着叛军的推进,录像显示",
+      "link": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T11:24:47+00:00",
+      "summary": "A Russian paramilitary launched air strikes against rebel forces near Mali's capital Bamako, video footage shows, following a shock offensive against the ruling military government.",
+      "summary_zh": "一名俄罗斯准军事人员对马里首都巴马科附近的叛乱部队发动了空袭,视频画面显示,在对执政的军政府发动了冲击性攻势后."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why has the UAE left Opec - and why does this matter?",
+      "title_zh": "阿联酋为何离开奥佩克 - 这有什么关系?",
+      "link": "https://www.bbc.com/news/videos/cz92wdvwek8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T10:24:54+00:00",
+      "summary": "The United Arab Emirates (UAE) has announced it is quitting Opec, the Organisation of Petroleum Exporting Countries, after nearly 60 years of membership.",
+      "summary_zh": "阿拉伯联合酋长国(阿联酋)在加入石油输出国组织近60年后宣布退出该组织。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
+      "title_zh": "穆斯克指责阿尔特曼在法庭开战时 偷走了一个慈善机构",
+      "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T10:12:46+00:00",
+      "summary": "A trial pitting two founders of OpenAI - Sam Altman and Elon Musk - against each other has opened in California, with the sides presenting duelling narratives about the company's history and obligations to consumers.",
+      "summary_zh": "OpenAI的两位创始人——山姆·阿尔特曼和埃隆·穆斯克——之间的一场审判已经在加利福尼亚州开场,双方就公司的历史和对消费者的义务提出了交锋的叙述."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Endangered antelopes flown to Kenya from Czech zoo in 'historic homecoming'",
+      "title_zh": "从捷克动物园飞到肯尼亚的濒危羚羊,",
+      "link": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T09:37:23+00:00",
+      "summary": "Four mountain bongos, a rare type of antelope native to Kenya's highland forests, have arrived in Kenya after being sent from a zoo in the Czech Republic.",
+      "summary_zh": "4个山地邦戈是肯尼亚高地森林中一种罕见的藏羚羊原生地,在从捷克共和国的动物园被送出后已抵达肯尼亚."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two dead after small plane crashes into Australia airport hangar",
+      "title_zh": "在小飞机撞入澳大利亚机场机库后死了两人",
+      "link": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T09:08:07+00:00",
+      "summary": "Two people have died after a small plane crashed into a hangar at an airport in South Australia, authorities say.",
+      "summary_zh": "当局称有一架小飞机在南澳大利亚的一个机场撞入机库后有两人死亡."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Outrage after Indian man carries his sister's skeleton to a bank to prove her death",
+      "title_zh": "印度男人把姐姐的骨架带到银行 证明她死了",
+      "link": "https://www.bbc.com/news/articles/clypl5jrjqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T08:54:15+00:00",
+      "summary": "Warning: This story contains details that some readers may find distressing.",
+      "summary_zh": "警告: 这个故事包含了一些读者可能感到痛苦的细节."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five takeaways from the King's historic address to Congress",
+      "title_zh": "国王对国会的历史性讲话有五起",
+      "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T08:48:08+00:00",
+      "summary": "King Charles III's visit to the US was meant to be a celebration - of America's 250th anniversary, of enduring Anglo-American ties and of the \"special relationship\". But it has also been billed as a rescue mission.",
+      "summary_zh": "国王查理三世访问美国是为了庆祝美国成立250周年,与英美持久联系并\"特殊关系\". 但它也作为救援任务被开具了账单."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japan zoo staffer allegedly dumps wife's body inside incinerator",
+      "title_zh": "日本动物园工作人员据称将妻子的尸体倒入焚化炉",
+      "link": "https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T06:42:29+00:00",
+      "summary": "A popular Japanese zoo has delayed its opening for the summer season after an employee told police he had disposed of his wife's body in the zoo's incinerator, local media reported.",
+      "summary_zh": "日本一家受欢迎的动物园推迟了夏季的开放时间, 当地媒体报导, 一名员工告诉警方,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Should Jimmy Kimmel be fired for telling a joke?",
+      "title_zh": "Jimmy Kimmel是不是应该因为说笑话而被解雇?",
+      "link": "https://www.bbc.com/news/videos/c87qg28rx8jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T04:15:42+00:00",
+      "summary": "Late-night host Jimmy Kimmel has defended a joke in which he called First Lady Melania Trump an \"expectant widow\", just days before a shooting incident at the White House Correspondents' Dinner.",
+      "summary_zh": "深夜主持人吉米·金梅尔(Jimmy Kimmel)为一个笑话辩护,他在笑话中称第一夫人梅拉尼亚·特朗普为\"预期中的寡妇\",就在白宫记者晚宴的枪击事件前几天."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+      "title_zh": "前美国官员批评五角大楼对致命的伊朗学校袭击保持沉默",
+      "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T02:01:50+00:00",
+      "summary": "Five former US officials, including a former top military lawyer, have criticised the Pentagon for not acknowledging potential American involvement in a deadly strike on an Iranian school earlier this year.",
+      "summary_zh": "包括一位前高级军事律师在内的五名前美国官员批评五角大楼不承认美国可能参与今年早些时候对一所伊朗学校的致命袭击。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
+      "title_zh": "金正恩称赞军队\"自爆\",避免被乌克兰俘虏.",
+      "link": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T01:47:51+00:00",
+      "summary": "Kim Jong Un has praised North Korean soldiers who killed themselves by detonating their grenades while fighting for Russia against Ukraine, confirming a long-suspected battlefield policy.",
+      "summary_zh": "金正 乌恩赞扬了朝鲜士兵自相残杀,在为俄罗斯出战乌克兰时引爆了手榴弹,证实了长期怀疑的战场政策."
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Comey charged with threatening Trump's life in Instagram post",
       "title_zh": "科米被控威胁特朗普在Instagram的生平",
       "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T22:51:58+00:00",
+      "published_at": "2026-04-29T00:24:05+00:00",
       "summary": "Former FBI Director James Comey has been charged with threatening the life of US President Donald Trump, a formal accusation that stems from an image he briefly shared on social media.",
       "summary_zh": "前联邦调查局局长詹姆斯·科米(James Comey)被指威胁美国总统唐纳德·特朗普的生命,这一正式指控源于他在社交媒体上短暂分享的一幅相片."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's face to feature on commemorative US passports",
+      "title_zh": "特朗普在纪念美国护照上的面孔",
+      "link": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T23:41:00+00:00",
+      "summary": "The US will release a limited number of passports that feature a portrait of US President Donald Trump, the White House has confirmed.",
+      "summary_zh": "美国将发行数量有限的护照,上面有美国总统唐纳德·特朗普的肖像,白宫已经确认."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A faraway conflict threatens livelihoods in India's glass hub",
+      "title_zh": "遥远的冲突威胁到印度玻璃枢纽的生计",
+      "link": "https://www.bbc.com/news/articles/ce8pdv86359o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T23:27:44+00:00",
+      "summary": "Tensions in the Middle East are rippling far beyond the region - and are now being felt in India's \"glass city\" Firozabad, where thousands of jobs are at risk.",
+      "summary_zh": "中东的紧张局势正在远远地蔓延到该地区以外地区,现在在印度的\"玻璃城市\"菲罗扎巴德(Firozabad),那里有上千个工作面临危险。"
     },
     {
       "source": "BBC News",
@@ -22,76 +452,6 @@
       "published_at": "2026-04-28T21:58:17+00:00",
       "summary": "Footage shared by Ukraine's 3rd Army Corps showed the moment an elderly woman trying to leave her wrecked village was rescued by a robot.",
       "summary_zh": "乌克兰第3军团共享的脚印显示了一位想离开被破坏村庄的老年妇女被机器人救出的时刻."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "世界銀行 エネルギー価格がイラン情勢で去年比24％上昇見通し",
-      "title_zh": "世界银行能源价格预期比去年增加24%",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110721000.html",
-      "published_at": "2026-04-28T21:37:45+00:00",
-      "summary": "世界銀行はイラン情勢を背景に、ことしのエネルギー価格が去年からおよそ24％上昇し、ロシアによるウクライナ侵攻以降で最も高い水準になるとの見通しを示しました。",
-      "summary_zh": "世界银行以伊朗局势为背景,该物质的能源价格比去年上涨了约24%,并表明它将是俄罗斯入侵乌克兰后的最高水平."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イランの新提案に米は懐疑的 イランは米やイスラエルをけん制",
-      "title_zh": "伊朗的新建议是失败的。 伊朗和以色列的稻米",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
-      "published_at": "2026-04-28T21:35:07+00:00",
-      "summary": "アメリカとイランの戦闘終結に向けてイランが示した新たな提案をめぐり、アメリカメディアは、トランプ大統領が、提案に懐疑的な姿勢を示していると伝えています。一方、イランメディアは、イラン陸軍の報道官が「状…",
-      "summary_zh": "伊朗关于结束美国和伊朗之战的新提案,而美国媒体报道了特朗普的 skep. 另一方面,伊朗媒体是伊朗陆军的记者. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "岩手 大槌町の山林火災 発生から1週間 消防「火の勢い弱まる」",
-      "title_zh": "岩上山林火 从火灾发生一周起 火\"火的动力\"",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110661000.html",
-      "published_at": "2026-04-28T21:09:40+00:00",
-      "summary": "岩手県大槌町の山林火災は、29日で発生から1週間です。消防によりますと消火活動や雨によって火の勢いは弱まっているということで、町は住民の安全が確保できれば避難指示の解除を検討することにしています。",
-      "summary_zh": "岩地县奥特苏基乔的火灾发生在29天后一周. 在起火的情况下,火灾会因火力外延活动和降雨而被削弱,因此镇上考虑如果居民能够确保安全,取消疏散指令."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "英 チャールズ国王 米連邦議会で演説1991年エリザベス女王以来",
-      "title_zh": "查尔斯国王自1991年起代表美国议会 伊丽莎白女王",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110701000.html",
-      "published_at": "2026-04-28T21:06:46+00:00",
-      "summary": "アメリカを国賓として訪問しているイギリスのチャールズ国王はイギリスの君主としては35年ぶりに連邦議会で演説し、「欧米のパートナーシップは今、かつてないほど重要になっている」と述べて、ヨーロッパ各国とア…",
-      "summary_zh": "作为国家嘉宾访问美国的国王查尔斯35年来首次作为英国君主在联邦议会发言,他说:\"英国的伙伴关系现在比以往任何时候都更重要......"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "はしか感染拡大 ワクチンなどの根拠ない情報が拡散 注意を",
-      "title_zh": "节等.",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110461000.html",
-      "published_at": "2026-04-28T20:57:36+00:00",
-      "summary": "はしかの感染者数増加に伴って「予防接種は意味がない」といった科学的な根拠のない情報や、感染者数は少ないなどと誤解させるような情報がSNSで広がっています。専門家は「ワクチンは効果が高く、重症化を防ぐ効…",
-      "summary_zh": "由被编者人数的增加所引出的信息,误认为\"接种是毫无意义的\"等科学依据,而被编者人数在SNS上传播较少. 专家\"撤离是有效的,并且防止严重的......"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "食料品消費税減税 課題ごとに議論へ 方向性打ち出せるかが焦点",
-      "title_zh": "减少粮食消费税 讨论每个问题 注重方向",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110681000.html",
-      "published_at": "2026-04-28T20:19:50+00:00",
-      "summary": "食料品の消費税減税をめぐり「国民会議」の実務者会議は、財源確保を含む経済への影響やシステム改修といった課題ごとに対応策などを議論していくことになりました。夏前をめどとする中間とりまとめに向けて、会議に…",
-      "summary_zh": "从业人员“全国会议”关于减少杂货产品消费税的会议,已经就经济影响,包括确保财政资源和系统翻新等问题进行了讨论。 在夏中和巩固会中......"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "UAEがOPECから脱退へ 国営通信報じる 協調体制に打撃か",
-      "title_zh": "欧佩克的国家信息通报",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110641000.html",
-      "published_at": "2026-04-28T20:10:24+00:00",
-      "summary": "UAE＝アラブ首長国連邦が、主要な産油国で作るOPEC＝石油輸出国機構から脱退すると、UAEの国営通信が報じました。欧米のメディアは原油の生産方針などでほかの加盟国との対立が生じ、脱退につながったとい…",
-      "summary_zh": "阿联酋=阿联酋最新通讯报道,阿联酋欧佩克被国家石油出口组织除名. QQ媒体面对原油生产政策等其它成员国,导致退出."
     },
     {
       "source": "BBC News",
@@ -106,46 +466,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-      "title_zh": "穆斯克说OpenAI官司中 慈善捐赠的利害关系",
-      "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T19:43:02+00:00",
-      "summary": "A trial pitting two founders of OpenAI - Sam Altman and Elon Musk - against each other has opened in California, with the sides presenting duelling narratives about the company's history and obligations to consumers.",
-      "summary_zh": "OpenAI的两位创始人——山姆·阿尔特曼和埃隆·穆斯克——之间的一场审判已经在加利福尼亚州开场,双方就公司的历史和对消费者的义务提出了交锋的叙述."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'It's bizarre': Californians grapple with revelation that suspected Trump gunman was neighbour",
-      "title_zh": "\"这很奇怪\": 加州人竭力揭露 川普枪手是邻居",
-      "link": "https://www.bbc.com/news/articles/c392knk3w2jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T18:19:13+00:00",
-      "summary": "The man charged with attempting to assassinate President Donald Trump at a Washington dinner lived with his parents in a quiet coastal suburb of Los Angeles.",
-      "summary_zh": "被控企图在华盛顿晚宴上刺杀唐纳德·特朗普总统的男子与父母同住于洛杉矶一个安静的沿海郊区."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
-      "title_zh": "前电视剧女演员的赦免 以扩大意大利丑闻为中心",
-      "link": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T16:59:49+00:00",
-      "summary": "Italy's President Sergio Mattarella has requested urgent clarification from the justice ministry following reports that a woman close to late ex-Prime Minister Silvio Berlusconi may have obtained an official pardon on false pretences.",
-      "summary_zh": "意大利总统塞尔吉奥·马塔雷拉(Sergio Mattarella)要求司法部紧急澄清,因为有报告说,一位与已故前总理西尔维奥·贝卢斯科尼关系密切的妇女可能因假冒罪名获得正式赦免。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Path cleared for Everest climbers after huge ice block",
-      "title_zh": "在大冰块后为珠穆朗玛峰登山者扫清了道路",
-      "link": "https://www.bbc.com/news/articles/cn0p2xp18yko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T16:59:47+00:00",
-      "summary": "Nepali mountaineers have cleared a route past a huge chunk of ice on Mount Everest that has blocked climbers from moving up past Base Camp for two weeks.",
-      "summary_zh": "尼泊尔登山者扫清了珠穆朗玛峰上一大块冰块的路线,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Indian billionaire's son offers to save Escobar's hippos",
       "title_zh": "印度亿万富翁的儿子愿意拯救埃斯科瓦尔的河马",
       "link": "https://www.bbc.com/news/articles/cr7prm4ke8do?at_medium=RSS&at_campaign=rss",
@@ -156,162 +476,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What next for Mali's junta after shock of rebel offensive?",
-      "title_zh": "马里军政府受到叛军袭击后,",
-      "link": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T16:40:27+00:00",
-      "summary": "It is hard to overstate the sense of shock reverberating across West Africa after attackers, in co-ordinated assaults, managed to enter Mali's capital, Bamako, assassinate the defence minister and recapture territory in the north.",
-      "summary_zh": "在袭击者通过协调攻击设法进入马里首都巴马科、暗杀国防部长并夺回北部领土之后,西非各地的震惊感难以夸大。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "title_zh": "阿拉伯联合酋长国退出石油卡特尔",
-      "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T16:24:45+00:00",
-      "summary": "The United Arab Emirates (UAE) is quitting the Opec and Opec+ groups of major oil producing nations next month after nearly 60 years of membership.",
-      "summary_zh": "阿拉伯联合酋长国(阿联酋)在加入近60年后,下个月将退出奥佩克和奥佩克+主要石油生产国集团。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ex-actor Nathan Chasing Horse jailed for at least 37 years for sexual assault",
-      "title_zh": "前演员Nathan Chasing Horse因性侵犯入狱至少37年",
-      "link": "https://www.bbc.com/news/articles/cx218vkdvpgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T15:36:44+00:00",
-      "summary": "US former actor Nathan Chasing Horse has been sentenced to least 37 years in prison for sexually assaulting Indigenous women and girls.",
-      "summary_zh": "美国前演员内森·查辛·马被以性侵犯土著妇女和女童罪判处至少37年监禁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "IS says it was behind deadly Nigeria attack on football pitch",
-      "title_zh": "IS说那是尼日利亚对橄榄球的致命攻击",
-      "link": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T15:31:46+00:00",
-      "summary": "Gunmen have killed at least 29 people in an attack on a community in Nigeria's north-eastern Adamawa state, local officials say.",
-      "summary_zh": "当地官员说,枪手在对尼日利亚东北部阿达马瓦州一个社区的袭击中至少杀死了29人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Suspected gunman aged 89 held in Greece after five wounded",
-      "title_zh": "89岁嫌疑枪手被五人受伤后关押在希腊",
-      "link": "https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T14:59:30+00:00",
-      "summary": "Police in Greece have arrested an 89-year-old man following a double shooting which left five people injured.",
-      "summary_zh": "希腊警方逮捕了一名89岁男子,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "title_zh": "乌克兰的第三次打击击中了俄罗斯炼油厂并促使撤离",
-      "link": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T14:32:20+00:00",
-      "summary": "A major Russian oil refinery on the Black Sea has been hit for the third time this month by Ukrainian drones, causing a \"massive fire\" and forcing the evacuation of people living nearby, local officials have said.",
-      "summary_zh": "俄罗斯黑海一大炼油厂本月被乌克兰无人机第三次命中,引发\"大火\"并迫使附近居民疏散,当地官员表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
-      "title_zh": "乌克兰指责以色列接收了由俄罗斯运送的粮食\"斯通\".",
-      "link": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T13:51:51+00:00",
-      "summary": "A diplomatic row has broken out over allegations that Israel is receiving shipments of grain from Russian-occupied Ukraine.",
-      "summary_zh": "有一行外交人士指控以色列从俄罗斯占领的乌克兰接收了谷物。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Will Mexico City's airport be ready for the World Cup?",
-      "title_zh": "墨西哥城机场能否备战世界杯?.",
-      "link": "https://www.bbc.com/news/videos/cz7231qx88qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T12:57:13+00:00",
-      "summary": "With the 2026 World Cup just months away, Mexico is finishing significant renovations at Benito Juárez International Airport in Mexico City.",
-      "summary_zh": "墨西哥正在完成墨西哥城贝尼托·华雷斯国际机场的重大翻修。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
-      "title_zh": "俄国超级猎人不顾封锁驶过霍尔木兹海峡",
-      "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T12:03:39+00:00",
-      "summary": "A superyacht linked to one of Russian President Vladimir Putin's key allies has sailed through the Strait of Hormuz, despite the ongoing blockade of the critical shipping channel.",
-      "summary_zh": "与俄罗斯总统弗拉基米尔·普京的主要盟友之一有联系的超级舰队已经通航了霍尔木兹海峡,尽管关键的航运渠道持续被封锁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC reports from scene of fatal Indonesia train crash",
-      "title_zh": "BBC 来自印尼火车坠毁现场的报道",
-      "link": "https://www.bbc.com/news/videos/c4g0zep6yl9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T10:50:37+00:00",
-      "summary": "At least 15 people have died after a train collision in Bekasi, near the Indonesian capital of Jakarta.",
-      "summary_zh": "在印度尼西亚首都雅加达附近的贝卡西发生火车相撞后,至少有15人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I jumped around the house': Sabastian Sawe's parents celebrate marathon record",
-      "title_zh": "\"我跳来跳去\":萨巴斯蒂安·索威的父母庆祝马拉松纪录",
-      "link": "https://www.bbc.com/news/videos/cn0pl57xlppo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T10:17:08+00:00",
-      "summary": "Sabastian Sawe's parents have shared their pride at the runner's historic sub-two-hour London Marathon win.",
-      "summary_zh": "萨巴斯蒂安·索威的父母分享了他们对于跑跑者历史性的分两小时伦敦马拉松取胜的骄傲."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
-      "title_zh": "人承认在维也纳策划攻击泰勒斯威夫特音乐会",
-      "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T10:08:01+00:00",
-      "summary": "A 21-year-old Austrian man has admitted plotting a jihadist attack on a Taylor Swift concert in Vienna in August 2024.",
-      "summary_zh": "一名21岁的奥地利人承认,2024年8月在维也纳策划了一场对泰勒斯威夫特音乐会的圣战攻击."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Japan Airlines trials humanoid robots as ground handlers",
-      "title_zh": "日本航空试验人造机器人作为地勤人员",
-      "link": "https://www.bbc.com/news/articles/cpwp87j1llvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T10:03:46+00:00",
-      "summary": "Japan Airlines (JAL) will start using humanoid robots in ground handling tasks at Tokyo's Haneda airport from May, in a two-year trial it said is aimed at easing employees' workload.",
-      "summary_zh": "日本航空(JAL)将从5月开始在东京羽田机场的地勤任务中使用人造机器人,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What happened when Rebel Wilson gave evidence in court?",
-      "title_zh": "当叛逆者威尔逊在法庭上作证时发生了什么?",
-      "link": "https://www.bbc.com/news/videos/cwy27njv3wvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T08:54:42+00:00",
-      "summary": "Hollywood star Rebel Wilson has appeared in court in Sydney to defend claims by fellow Australian actress Charlotte MacInnes that she made defamatory statements.",
-      "summary_zh": "好莱坞明星Rebel Wilson已经出现在悉尼的法庭上,为澳大利亚同僚女演员Charlotte MacInnes关于她发表诽谤性言论的说法辩护."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rescuers race to free survivors trapped inside train after fatal Indonesia crash",
-      "title_zh": "救援人员在印尼坠毁后,",
-      "link": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T04:18:54+00:00",
-      "summary": "Rescuers are racing to try and free people trapped inside a train involved in a fatal collision outside the Indonesian capital Jakarta on Monday.",
-      "summary_zh": "救援人员正在赛跑,试图解救被困在列车内的人,他们周一在印尼首都雅加达外发生致命相撞."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
-      "title_zh": "被控企图暗杀特朗普的嫌犯 在华盛顿晚宴上",
-      "link": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-28T00:41:48+00:00",
-      "summary": "A California man has been charged with attempting to assassinate US President Donald Trump after trying to storm a gala event with weapons on Saturday night.",
-      "summary_zh": "一名加利福尼亚州男子被指控企图暗杀美国总统唐纳德·特朗普,"
+      "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+      "title_zh": "费萨尔伊斯兰教: 阿联酋为何要退出奥佩克?",
+      "link": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T15:55:46+00:00",
+      "summary": "It is a very big deal that the United Arab Emirates (UAE) has announced its abrupt exit from Opec , the Organisation of Petroleum Exporting Countries. The Emiratis were members even before they became a nation state in 1971.",
+      "summary_zh": "阿拉伯联合酋长国宣布突然退出石油输出国组织Opec,这是一件大事。 酋长国在1971年成为民族国家之前就已经是成员。"
     },
     {
       "source": "BBC News",
@@ -322,86 +492,6 @@
       "published_at": "2026-04-28T00:19:49+00:00",
       "summary": "For many in the ballroom at the White House Correspondents' Association dinner on Saturday night, the scene was painfully familiar. Shots fired, confusion and panic, and a sense that the normal order of things had been violently interrupted.",
       "summary_zh": "对于在白宫记者协会周六晚宴会的舞厅里的许多观众来说,场景令人痛苦地熟悉. 枪声响起,混乱和恐慌,感觉正常的秩序被粗暴地打断."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Performer describes locking eyes with Trump as they ducked for cover during shooting",
-      "title_zh": "表演者描述与特朗普一起被锁上的眼睛,",
-      "link": "https://www.bbc.com/news/articles/czjwj8wgymro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-27T21:43:16+00:00",
-      "summary": "A shocked performer has described locking eyes with President Donald Trump as they ducked for cover after shots were fired during the White House Correspondents' dinner on Saturday night.",
-      "summary_zh": "一名震惊的表演者描述与唐纳德·特朗普总统一起被锁上的眼睛,当他们在白宫记者周六晚宴会中被开枪打中后躲开寻找掩护."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Canada's Carney launches a sovereign wealth fund. What is it?",
-      "title_zh": "加拿大卡尼推出主权财富基金. 这是什么?",
-      "link": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-27T18:13:26+00:00",
-      "summary": "Canada is launching a government-owned investment fund to pay for major development projects in the country, Prime Minister Mark Carney has announced.",
-      "summary_zh": "加拿大正在启动一个政府拥有的投资基金,以支付该国的重大发展项目,马克·卡尼总理宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Venice opera house drops incoming music director after nepotism remarks",
-      "title_zh": "威尼斯歌剧馆在任人唯亲的言论后 将即将上任的音乐总监降职",
-      "link": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-27T17:13:35+00:00",
-      "summary": "Venice's prestigious La Fenice opera house has sacked its incoming music director Beatrice Venezi, months before she was supposed to take up the position.",
-      "summary_zh": "威尼斯著名的\"拉费尼斯\"歌剧院 已经解雇了即将上任的音乐总监比阿特丽斯·维尼齐 在她应该上任之前几个月"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pakistan accused of attacking Afghan university",
-      "title_zh": "巴基斯坦被控袭击阿富汗大学",
-      "link": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-27T16:54:13+00:00",
-      "summary": "Pakistani attacks on the east Afghan province of Kunar have killed at least seven people and injured 75, among whom are students and a professor at Kunar University, multiple sources have told the BBC.",
-      "summary_zh": "巴基斯坦对阿富汗东部库纳尔省的袭击已造成至少7人死亡,75人受伤,其中有学生和库纳尔大学的一名教授,多位消息人士向BBC表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
-      "title_zh": "俄罗斯战斗人员确认在分裂主义袭击后从马里北部撤出",
-      "link": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-27T16:26:30+00:00",
-      "summary": "After a weekend of co-ordinated attacks across Mali by separatist fighters and Islamist militants, Russian forces who are in the country helping protect the military government have confirmed they have pulled out of the northern city of Kidal.",
-      "summary_zh": "在分裂主义战士和伊斯兰好战分子在马里全境协调袭击一个周末后,正在该国帮助保护军政府的俄罗斯部队证实他们已经从北部城市基达尔撤出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
-      "title_zh": "肯尼亚的萨巴斯蒂亚人 Sawe在伦敦马拉松打破了2小时的标志性障碍",
-      "link": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-27T11:49:24+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-      "title_zh": "哥伦比亚为反叛者提供1.4百万美元的回报,",
-      "link": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-27T11:42:59+00:00",
-      "summary": "Colombia's Defence Minister Pedro Sánchez says he is offering a record reward for information leading to the capture of a rebel leader known as \"Marlon\".",
-      "summary_zh": "哥伦比亚国防部长佩德罗·桑切斯(Pedro Sánchez)表示,他正在提供创纪录的奖励,以获取导致一名被称作\"马龙\"的反叛领导人被俘获的情报."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-      "title_zh": "乌克兰的无人机指挥官看到俄罗斯的石油、军队和士气",
-      "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-27T10:04:34+00:00",
-      "summary": "\"We're like a red rag to the enemy. Because we're taking the war to their territory so that they feel it too,\" the Ukrainian soldier says, as his unit scramble to assemble long-range drones for launch at Russia.",
-      "summary_zh": "\"我们就像敌人的红布. 因为我们把战争带到他们的地盘上,让他们也感受到,\"乌克兰士兵说:\"当他的部队拼命集结远程无人机,准备向俄罗斯发射."
     }
   ]
 }
