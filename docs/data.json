@@ -1,27 +1,347 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-04-30T23:09:25+00:00",
-  "count": 38,
+  "generated_at": "2026-05-01T23:06:54+00:00",
+  "count": 45,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
-      "title_zh": "美国歌手D4vd在网上购买工具处理女孩的尸体,检察官声称",
-      "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T22:51:57+00:00",
-      "summary": "US singer D4vd has been accused of purchasing tools online - including chainsaws - after prosecutors say he stabbed a teen girl to death.",
-      "summary_zh": "美国歌手D4vd被指控在网上购买工具,"
+      "title": "Love, lies, angry ghosts: Indians are bingeing on two-minute dramas",
+      "title_zh": "爱情 谎言 愤怒的鬼魂 印第安人在两分钟的剧情中",
+      "link": "https://www.bbc.com/news/articles/c3v2k3xvr04o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T22:36:58+00:00",
+      "summary": "Every week, Neeta Bhojwani spends hours binge-watching dramas about wealthy men pretending to be poor and angry ghosts out for revenge.",
+      "summary_zh": "每星期,Neeta Bhojwani都会花几小时观看关于有钱人假装穷鬼复仇的恶作剧."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "title_zh": "美国在特朗普和默兹一起 将德国的兵力削减5000人",
+      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T22:35:07+00:00",
+      "summary": "The US Department of Defence plans to withdraw 5,000 troops from Germany, amid a spat between US President Donald Trump and German Chancellor Friedrich Merz over the war with Iran.",
+      "summary_zh": "美国国防部计划在美国总统唐纳德·特朗普和德国总理弗里德里希·默兹因与伊朗的战争而战时从德国撤军5000人."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "テニス 錦織圭が現役引退を発表 日本男子最高の世界4位を記録",
-      "title_zh": "网球名人Kei Nishikiori 宣布他现在的 ement 日本男子最佳世界4",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112361000.html",
-      "published_at": "2026-04-30T22:30:31+00:00",
-      "summary": "テニスで日本の男子選手として最高の世界ランキング4位を記録した36歳の錦織圭選手が現役を引退することになりました。",
-      "summary_zh": "36岁的Kei Nishikiori在世界网球排行榜上名列第4位,是日本网球最佳男运动员,他重新担任了现在的角色."
+      "title": "イラン側が新提案を提出 トランプ大統領「満足していない」",
+      "title_zh": "特朗普总统“不满”伊朗方面提出了新提案。",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113151000.html",
+      "published_at": "2026-05-01T22:28:45+00:00",
+      "summary": "イランの国営通信は、イランがアメリカとの戦闘の終結に向け、仲介国のパキスタンに対し、最新の提案を提出したと報じました。提案の詳しい内容は明らかになっていませんがトランプ大統領は「満足していない」と不満…",
+      "summary_zh": "伊朗报告称,伊朗向巴基斯坦的调解人提交了最新提案,直至与美国的战斗结束。 虽然提案的详细内容不明确,但川普总统抱怨说\"不满意\"."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "駐ドイツのアメリカ軍のうち5000人撤退へ 米国防総省",
+      "title_zh": "在德国有5000名美军士兵",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113251000.html",
+      "published_at": "2026-05-01T22:25:48+00:00",
+      "summary": "アメリカ国防総省の高官は、1日、NHKの取材に対し、ヘグセス国防長官が、ドイツに駐留しているアメリカ軍のうち、およそ5000人の撤退を命じたと明らかにしました。地域情勢などを踏まえての判断で半年から1…",
+      "summary_zh": "美国国防部说,当天,赫格斯共和国国防部长从德国的美军中订购了约5000枚. 一年半根据当地情况作出决定. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大型連休後半 交通機関の混雑ピークに",
+      "title_zh": "连续大假期的后半段",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113121000.html",
+      "published_at": "2026-05-01T22:17:42+00:00",
+      "summary": "大型連休は2日から後半です。各交通機関はふるさとや行楽地へ向かう人たちで混雑のピークとなる見通しで、高速道路ではすでに渋滞が起きています。",
+      "summary_zh": "连续的大型节日为2日到2日. 每一次交通预计都会是拥堵高峰,高速公路上已经出现交通堵塞."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NY株式市場 ナスダックとS＆P500指数 再び最高値更新",
+      "title_zh": "纽约股票市场",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113241000.html",
+      "published_at": "2026-05-01T21:58:05+00:00",
+      "summary": "1日のニューヨーク株式市場では、IT大手などの銘柄に買い注文が広がって、ハイテク関連の銘柄が多いナスダックの株価指数などが2営業日連続で最高値を更新しました。",
+      "summary_zh": "在首日的纽约股票市场上,我们把订单扩大到主要的IT品牌,我们连续两天更新了QQDac股票指数的最高值。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東北は暴風に警戒 東日本の太平洋側 西日本 各地で夏日見込み",
+      "title_zh": "东日本 太平洋 西日本",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113141000.html",
+      "published_at": "2026-05-01T21:49:49+00:00",
+      "summary": "発達する低気圧の影響で、東北では風が強く吹いていて、2日夕方にかけて暴風に警戒が必要です。一方、2日は東日本の太平洋側と西日本を中心に晴れて各地で最高気温が25度以上の夏日となる見込みです。",
+      "summary_zh": "由于低气压的发展,东北地区风切变强烈,必须在两天的晚上对风暴保持警惕. 另一方面,预计各地最高气温为25度或以上,主要分布在东日本和西日本的太平洋一侧."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Who shot a Secret Service officer at the Trump press dinner?",
+      "title_zh": "谁在特朗普新闻晚宴上射杀特勤局官员?.",
+      "link": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T21:44:05+00:00",
+      "summary": "Nearly a week after a suspect allegedly tried to assassinate President Donald Trump at a press gala, key details about the shooting remain unclear.",
+      "summary_zh": "据称一名嫌疑人试图在一次记者大会上刺杀唐纳德·特朗普总统近一周后,枪击案的关键细节仍不清楚."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "title_zh": "特朗普告诉国会停火意味着他不需要他们批准伊朗战争",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T21:05:43+00:00",
+      "summary": "President Donald Trump has told Congress that US hostilities with Iran have \"terminated\" owing to an ongoing ceasefire, as he argued that he did not need lawmakers' authorisation for the conflict.",
+      "summary_zh": "总统唐纳德·特朗普告诉国会,美国与伊朗的敌对行动因持续停火而\"结束\",因为他认为冲突不需要立法者的授权."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "中国で“スパイ容疑”拘束 北海道教育大学の元教授釈放",
+      "title_zh": "\" 可疑 \" 在中国受到限制",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113211000.html",
+      "published_at": "2026-05-01T20:30:31+00:00",
+      "summary": "7年前、中国に一時帰国中にスパイ容疑で拘束され、現地の裁判所で懲役6年の実刑判決を受けていた北海道教育大学の元教授が釈放されたことが関係者への取材でわかりました。",
+      "summary_zh": "7年前,我被怀疑在中国从事间谍活动,北海道教育大学的原教授在当地法院被释放了6年."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "旭山動物園 遺体損壊事件 事件当日夜 防犯カメラに容疑者の姿",
+      "title_zh": "浅间山动物园 安全摄像机破案之夜",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113181000.html",
+      "published_at": "2026-05-01T19:43:14+00:00",
+      "summary": "北海道旭川市の旭山動物園の33歳の職員が園内の焼却炉で妻の遺体を損壊した疑いで逮捕された事件で、事件当日の夜、動物園に1メートルほどの大きさのものを運び入れる職員の姿が防犯カメラに写っていたことが捜査…",
+      "summary_zh": "北海道麻川市麻山动物园33岁员工在花园内被查封,发现事故发生当晚携带约1公尺的员工在安全摄像头中被查封."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia wants to be first nation in the world to eliminate a cancer - can it?",
+      "title_zh": "澳大利亚想成为世界上第一个 消灭癌症的国家,不是吗?",
+      "link": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T19:30:36+00:00",
+      "summary": "Six months after finally giving birth to her first child, following a years-long struggle to conceive, Chrissy Walters was told her daughter would likely grow up without her.",
+      "summary_zh": "在终于生下第一个孩子六个月后,经过长达数年的怀孕斗争,克里斯·沃尔特斯被告知她的女儿很可能在没有她的情况下长大."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French PM fuels row with trip to buy baguettes",
+      "title_zh": "法国的PM燃料排队 买番茄酱",
+      "link": "https://www.bbc.com/news/articles/czx2rnk9y9go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T17:59:34+00:00",
+      "summary": "French Prime Minister Sébastien Lecornu has visited a village bakery to buy several baguettes on Labour Day, reigniting a row with unions who argue that 1 May should remain a compulsory rest day.",
+      "summary_zh": "法国总理塞巴斯蒂安·勒科尔努曾访问一家村面包店,在劳动节购买几块面包袋,与主张5月1日仍为强制性休息日的工会重新连线."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
+      "title_zh": "Zayn Malik 取消美国巡演, 并在医院床位分享照片后,",
+      "link": "https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T17:23:42+00:00",
+      "summary": "Zayn Malik has cancelled his upcoming US solo tour and two UK arena shows after it emerged he had recently been admitted to hospital.",
+      "summary_zh": "Zayn Malik最近入院后, 取消了他即将到来的美国独奏巡回演唱会和两场英国竞技场演出。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "title_zh": "以色列警察在耶路撒冷袭击尼姑后逮捕的人",
+      "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T17:03:11+00:00",
+      "summary": "Shocking footage has emerged showing a French nun being attacked – apparently by a religious Jewish man – in Israeli-occupied East Jerusalem earlier this week.",
+      "summary_zh": "令人吃惊的镜头显示,一名法国修女本周早些时候在以色列占领的东耶路撒冷遭到袭击,显然是一名犹太教教徒的袭击。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Turkish police arrest more than 500 people at May Day rallies",
+      "title_zh": "土耳其警方在5月的集会上逮捕了500多人",
+      "link": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T16:14:58+00:00",
+      "summary": "Turkish police have reportedly arrested more than 500 people and fired tear gas at May Day demonstrations in Istanbul.",
+      "summary_zh": "据报道,土耳其警察在伊斯坦布尔的5月日示威中逮捕了500多人并发射了催泪瓦斯."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+      "title_zh": "战争罪犯姆拉迪奇濒临死亡 律师要求法官释放",
+      "link": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T15:12:14+00:00",
+      "summary": "Lawyers acting for convicted Bosnian Serb war criminal Ratko Mladic are awaiting a decision by a UN court on their bid to release him from jail in The Hague on the grounds he is near the end of his life.",
+      "summary_zh": "为被定罪的波斯尼亚塞族战争罪犯拉特科·姆拉迪奇辩护的律师正在等待联合国法庭就他因生命即将结束而要求将其从海牙监狱释放一事作出裁决。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
+      "title_zh": "美国对刚果前总统卡比拉指控支持叛军实施制裁",
+      "link": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T14:47:46+00:00",
+      "summary": "The US has imposed sweeping sanctions on former Democratic Republic of Congo President Joseph Kabila, accusing him of backing the M23 rebel group.",
+      "summary_zh": "美国对刚果民主共和国前总统约瑟夫·卡比拉实行全面制裁,指责他支持“3·23”运动反叛集团。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "title_zh": "肥料老板说,由于伊朗战争,数十亿份饭有危险",
+      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T13:12:10+00:00",
+      "summary": "The interruption to supplies of fertiliser and its key ingredients due to the war in Iran could cost up to 10 billion meals a week globally and will hit poorest countries hardest, according to the boss of one of the world's biggest fertiliser producers.",
+      "summary_zh": "伊朗战争导致化肥及其关键原料供应中断,可能使全球每周的食品价格高达100亿份,对最贫穷国家打击最大,据世界上最大的化肥生产商之一的老板说。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+      "title_zh": "奥斯卡在学院之后失踪了 获奖者在飞行中被挡住了",
+      "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T12:42:29+00:00",
+      "summary": "An Oscar that went missing after its winner was forced to check the golden statuette at a New York airport has been found, the airline involved has told the BBC.",
+      "summary_zh": "一名奥斯卡奖得主被迫检查纽约机场的金像雕像后失踪,涉案航空公司告知BBC."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+      "title_zh": "以色列拦截加沙援助船队后,除了两名活动家外,在希腊释放了所有活动家。",
+      "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T10:12:57+00:00",
+      "summary": "All but two pro-Palestinian activists detained by Israeli forces after their flotilla headed for Gaza was intercepted in international waters have now been released in Greece.",
+      "summary_zh": "在前往加沙的船队被国际水域拦截后,除两名亲巴勒斯坦的活动分子外,其余所有活动分子都被以色列部队拘留,现在希腊已被释放。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Vonn still in 'survival mode' after Olympic crash",
+      "title_zh": "奥运失事后, Vonn 还处于\"生存模式\"",
+      "link": "https://www.bbc.com/sport/articles/cn0pd29x2ppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T09:03:53+00:00",
+      "summary": "Lindsey Vonn was the Olympic downhill champion in 2010",
+      "summary_zh": "Lindsey Vonn是2010年奥运会下坡冠军"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "title_zh": "以色列不顾停火对黎巴嫩南部发动致命袭击",
+      "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T08:12:04+00:00",
+      "summary": "Seventeen people, including two children, were killed in Israeli strikes in southern Lebanon on Thursday, the health ministry said, as violence continues despite a ceasefire now in its second week.",
+      "summary_zh": "卫生部说,以色列星期四在黎巴嫩南部的袭击中打死了17人,其中包括两名儿童,尽管第二个星期停火,暴力仍在继续。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Is Saudi Arabia's sports revolution unravelling?",
+      "title_zh": "沙特阿拉伯的体育革命正在瓦解吗?",
+      "link": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T07:49:18+00:00",
+      "summary": "LIV Golf's last event was held in Mexico and won by Jon Rahm",
+      "summary_zh": "在线 高尔夫的最后一场赛事在墨西哥举行,由Jon Rahm获胜"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Six injured in Washington state school stabbing",
+      "title_zh": "华盛顿州立学校六人受伤",
+      "link": "https://www.bbc.com/news/articles/cewp2ll1zljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T07:12:23+00:00",
+      "summary": "Six people have been injured in a stabbing at a school in the US state of Washington following an \"altercation\", police said.",
+      "summary_zh": "有六人在华盛顿州一所学校被刺伤,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "title_zh": "巴西国会批准大幅削减Bolsonaro刑期的计划",
+      "link": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T05:58:20+00:00",
+      "summary": "Brazil's Congress has overturned a veto of a bill that would dramatically reduce former president Jair Bolsonaro's prison sentence for plotting a coup after he lost the last election.",
+      "summary_zh": "巴西国会推翻了对一项法案的否决,该法案将大幅减轻前总统贾伊尔·博尔索纳罗在上次选举失败后策划政变而被判处的监禁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+      "title_zh": "英国夫妇在伊朗入狱:\"我们很可能在这里呆了很长时间\".",
+      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T05:04:08+00:00",
+      "summary": "Lindsay Foreman says she is keeping sane by reading, doing laps of the prison yard and, when she can, practising yoga.",
+      "summary_zh": "Lindsay Foreman说,她通过阅读、在监狱院子里做几圈工作以及当她能够练习瑜伽时保持清醒。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "title_zh": "军方表示,",
+      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T04:11:53+00:00",
+      "summary": "The detained former Myanmar leader Aung San Suu Kyi has been moved to house arrest, the country's state media has reported.",
+      "summary_zh": "被拘缅甸前领导人昂山素季被软禁 国家媒体报道."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former Chick-fil-A employee charged in $80,000 mac-and-cheese scheme",
+      "title_zh": "前Chick-fil-A雇员以80 000 mac-and-cheese计划收费",
+      "link": "https://www.bbc.com/news/articles/c87q0vlwvlpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T04:11:50+00:00",
+      "summary": "Texas police have charged a former Chick-fil-A employee for allegedly defrauding the fast food company of the cost of 800 trays of mac-and-cheese.",
+      "summary_zh": "德克萨斯州警方指控一名前Chick-fil-A雇员 涉嫌诈骗快餐公司800托盘的 mac-and-cheese"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Violence in Australian town after arrest of man over girl's murder",
+      "title_zh": "澳大利亚城镇因谋杀女孩被捕后的暴力行为",
+      "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T04:08:19+00:00",
+      "summary": "Warning for Aboriginal and Torres Strait Islander readers: this article contains references to someone who has died.",
+      "summary_zh": "对土著居民和托雷斯海峡岛民读者的警告:这篇文章中提到了已经死亡的人。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China scraps tariffs for all but one African nation",
+      "title_zh": "中国除一个非洲国家外,一律取消关税",
+      "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T00:02:57+00:00",
+      "summary": "China will scrap tariffs for all African countries from Friday – except Eswatini, which maintains ties with Taiwan.",
+      "summary_zh": "中国将从星期五开始对所有非洲国家征收废品关税 — — 除了与台湾保持关系的埃斯瓦蒂尼。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "It's not just oil: Iran war also threatens Asia's food security",
+      "title_zh": "不只是石油:伊朗战争也威胁到亚洲的粮食安全",
+      "link": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T00:01:30+00:00",
+      "summary": "As planting season dawned across South East Asia's rice fields, Suchart Piamsomboon, a 60-year-old farmer from Thailand's Chachoengsao province, went to the local shop for fertilisers.",
+      "summary_zh": "随着种植季节在东南亚稻田的黎明,来自泰国Chachengsao省的60岁的农民Suchart Piamsomboon前往当地商店购买化肥。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venice Biennale jury resigns days before start of top art exhibition",
+      "title_zh": "威尼斯Biennale评委辞职前几天 顶级艺术展开始",
+      "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-30T23:44:00+00:00",
+      "summary": "The entire jury of the Venice Biennale has resigned just nine days before the inauguration of the prestigious art event, amid growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+      "summary_zh": "威尼斯比恩纳勒的全体评审团在著名艺术活动开幕前仅9天就辞职了,当时俄罗斯自全面入侵乌克兰以来首次因回归而日益紧张."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New CCTV footage appears to shows when shots were fired at Washington press dinner",
+      "title_zh": "新的闭路电视录像显示 华盛顿记者晚宴被枪击",
+      "link": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-30T23:10:41+00:00",
+      "summary": "CCTV footage has been released of the moment gunshots were fired during the White House Correspondents' Dinner.",
+      "summary_zh": "在白宫记者晚宴期间枪声响起的瞬间,CCTV的镜头已经发布."
     },
     {
       "source": "BBC News",
@@ -34,96 +354,6 @@
       "summary_zh": "加州的检察官对布兰妮·斯皮尔斯 上个月因涉嫌在影响下开车被捕 提出了刑事指控"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "広範囲で荒れた天気に 交通機関の影響や天気の急変に注意を",
-      "title_zh": "注意交通的影响以及天气在广泛粗糙天气中的突然变化.",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112291000.html",
-      "published_at": "2026-04-30T21:09:46+00:00",
-      "summary": "前線や低気圧の影響で、西日本から北日本の広い範囲で雨が降っていて、太平洋側の沿岸部を中心に雨が強まっているところがあります。5月1日は広い範囲で荒れた天気となる見込みで、屋外のレジャーや移動を予定して…",
-      "summary_zh": "有个地方由于前卫和低气压的影响,从西日本到北日本降下降雨,雨量以太平洋海岸线为中心. 5月1日,预计会是一个范围很广的粗糙的天气,计划进行户外休闲和."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US House votes to end record shutdown over immigration enforcement",
-      "title_zh": "美国众议院投票 结束记录关闭 移民执法",
-      "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T20:53:36+00:00",
-      "summary": "US lawmakers have voted to end a 76-day partial government shutdown sparked by a standoff over President Donald Trump's immigration enforcement strategy.",
-      "summary_zh": "美国立法者投票决定结束76天政府部分关闭,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "title_zh": "以色列拦截克里特附近的加沙船队,拘留175名活动分子",
-      "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T20:34:26+00:00",
-      "summary": "Pro-Palestinian activists say 22 boats from a flotilla carrying aid for Gaza have been intercepted by Israeli forces in international waters near the Greek island of Crete.",
-      "summary_zh": "亲巴勒斯坦的活动人士说,一艘运送援助加沙的船队的22艘船只被以色列部队拦截在希腊克里特岛附近的国际水域."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "水俣病公式確認から70年 水俣で慰霊式 申請や裁判は今も続く",
-      "title_zh": "水俣病正式确诊70年后",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112221000.html",
-      "published_at": "2026-04-30T20:19:07+00:00",
-      "summary": "水俣病が公式に確認されてから5月1日で70年となり、熊本県水俣市では犠牲者の慰霊式が行われます。症状を訴えて患者認定を求める人たちの申請や国などに賠償を求める裁判が今も続く中、慰霊式に先立って4月30…",
-      "summary_zh": "水俣病正式确认,受害者纪念仪式在熊本县水俣市举行. 过去,为寻求经ptom等认证的患者申请的试办,将提前,4月30日继续进行. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-      "title_zh": "特朗普说,美国在德国研究削减部队,因为与默兹的吐槽加强了",
-      "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T20:15:20+00:00",
-      "summary": "The US is \"studying and reviewing\" whether to reduce the thousands of troops it has stationed in Germany, President Donald Trump has announced via social media.",
-      "summary_zh": "美国正在\"学习和审查\"是否要减少其在德国驻扎的数千人的部队,总统唐纳德·特朗普通过社交媒体宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
-      "title_zh": "以色列不顾停火对黎巴嫩南部发动致命袭击",
-      "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T20:14:48+00:00",
-      "summary": "At least nine people, including two children, were killed in Israeli strikes in southern Lebanon on Thursday, the health ministry said, as violence continues despite a ceasefire now in its second week.",
-      "summary_zh": "卫生部说,在以色列星期四对黎巴嫩南部的袭击中,至少有9人丧生,其中包括2名儿童,尽管第二个星期停火,暴力仍在继续。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "旭山動物園職員 逮捕前の調べに妻の殺害ほのめかす話か",
-      "title_zh": "ASAHYAMA Z工作人员 妻子被捕前杀人的故事",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112211000.html",
-      "published_at": "2026-04-30T20:13:26+00:00",
-      "summary": "北海道旭川市の旭山動物園の職員が、園内の焼却炉で妻の遺体を損壊した疑いで4月30日、逮捕されました。捜査関係者によりますと、逮捕前の任意の調べに妻の殺害をほのめかす話をしていたということで、警察は、殺…",
-      "summary_zh": "北海道浅川市浅山动物园的工作人员于4月30日被捕,原因是怀疑他的妻子被公园内的动物园成员摧毁。 据调查人员称,警方在逮捕前的任何调查中都曾谈及过他妻子被杀的事件. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "若者のオーバードーズ対策 市販薬販売を厳格化 改正法施行",
-      "title_zh": "严禁青少年服用过量药物措施",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015111771000.html",
-      "published_at": "2026-04-30T20:11:58+00:00",
-      "summary": "若者を中心に市販薬の過剰摂取＝「オーバードーズ」が問題となる中、5月1日、施行された改正医薬品医療機器法で、指定された成分を含むかぜ薬などの販売方法が厳格化されます。",
-      "summary_zh": "商业药品的过量主要针对青少年=\"过量\"是一个问题,5月1日,修订后的\"药品和医疗器械法\"颁布,卡泽药等含有指定成分的销售方法十分严格."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "岩手 大槌町山林火災 夕方から激しい雨か 状況見極め消火活動",
-      "title_zh": "火雨从傍晚开始",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112111000.html",
-      "published_at": "2026-04-30T20:07:38+00:00",
-      "summary": "岩手県大槌町の山林火災は延焼は抑えられていて、町内に出されていた避難指示は4月30日、すべて解除されました。気象台によりますと5月1日は夕方から激しい雨が降る可能性があり、町や消防などは雨の状況を見極…",
-      "summary_zh": "岩手县大佐町的山林大火被镇压,4月30日全镇所有疏散指示被取消. 由于天气条件,可以在5月1日晚间下雨."
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Belgium plans to nationalise nuclear power plants",
@@ -132,16 +362,6 @@
       "published_at": "2026-04-30T19:50:29+00:00",
       "summary": "Belgium's government has said it is planning to buy its nuclear reactors from French power giant Engie, in order to secure the country's energy supplies.",
       "summary_zh": "比利时政府表示,它计划从法国电力巨头恩吉手中购买其核反应堆,以保障该国的能源供应."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NY市場 円相場1ドル＝156円台 市場介入に警戒高まる",
-      "title_zh": "1美元=156日元市场干预",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112331000.html",
-      "published_at": "2026-04-30T19:45:49+00:00",
-      "summary": "4月30日のニューヨーク外国為替市場では円相場が一時、1ドル＝155円台まで急激に値上がりした流れを引き継ぎ、1ドル＝156円台を中心にした取り引きとなっています。政府・日銀が市場介入に踏み切ったとの…",
-      "summary_zh": "在4月30日的纽约福克斯市场中,日元市场是暂时的0. ,突然升至1美元=155日元的流通被接管,1美元=156日元的流通被带走. 政府和尼辛介入市场干预..."
     },
     {
       "source": "BBC News",
@@ -156,26 +376,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-      "title_zh": "军方表示,",
-      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T16:38:58+00:00",
-      "summary": "The detained former Myanmar leader Aung San Suu Kyi has been moved to house arrest, the country's state media has reported.",
-      "summary_zh": "被拘缅甸前领导人昂山素季被软禁 国家媒体报道."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man sentenced to death for murder of toddlers at Ugandan nursery",
-      "title_zh": "因在乌干达幼儿园杀害幼儿而被判死刑的人",
-      "link": "https://www.bbc.com/news/articles/c3d2vzmgekjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T15:56:04+00:00",
-      "summary": "A man has been sentenced to death by hanging for the murder of four toddlers at a nursery school in Uganda's capital, Kampala, earlier this month.",
-      "summary_zh": "一名男子因谋杀乌干达首都坎帕拉一所幼儿园的四名幼儿而被绞死。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Trainee driver crashes bus into River Seine",
       "title_zh": "火车司机撞上塞纳河",
       "link": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
@@ -186,12 +386,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-      "title_zh": "我们怎么回家? 伊斯兰团体加紧封锁马里首都",
-      "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T14:32:23+00:00",
-      "summary": "Mali's capital city Bamako - a major West African hub and home to more than three million people - is under a partial blockade by Islamist militants, days after the country's defence minister was assassinated there.",
-      "summary_zh": "马里的首都巴马科(Bamako)是西非的主要枢纽,"
+      "title": "Massive sea lion makes rare appearance in San Francisco",
+      "title_zh": "大型海狮在旧金山难得出现",
+      "link": "https://www.bbc.com/news/videos/c3e29dy701xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-30T13:45:06+00:00",
+      "summary": "The estimated 2,000-pound Steller sea lion nicknamed 'Chonkers' is hanging out at San Francisco's Pier 39 and drawing fans from across the country. The massive mammal made waves about a month ago when he hauled himself onto the pier and decided to stay. While California sea lions typically crowd the area, ‘Chonkers’ quickly stood out for his massive size. He is one of at least two Steller sea lions recently spotted in the bay. The animal is more commonly found in the colder waters of Alaska and the Pacific Northwest, making sightings in the Bay Area less common.",
+      "summary_zh": "估计2000磅的史泰勒海狮昵称\"Chonkers\" 挂在旧金山的39号码头,并吸引全国各地的粉丝. 巨型哺乳动物大约一个月前在码头上 制造了大浪,然后决定留下来 加州海狮通常挤满了当地, 他是湾里最近发现的至少两只斯特勒海狮之一. 该动物更常见于阿拉斯加和西北太平洋较冷的水域中,使得湾区的目击活动较少见."
     },
     {
       "source": "BBC News",
@@ -202,76 +402,6 @@
       "published_at": "2026-04-30T10:29:34+00:00",
       "summary": "China is to ban the sale of drones in Beijing and permits will be required to fly them under new rules that take effect on Friday.",
       "summary_zh": "中国将禁止在北京销售无人机,并需获得许可,才能按照星期五生效的新规则飞行。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
-      "title_zh": "\"我没想到\":肯尼亚的萨巴斯蒂安人 Sawe欢迎回家 庆祝庆典",
-      "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T07:43:33+00:00",
-      "summary": "Kenya's Sabastian Sawe has returned home to joyous scenes after becoming the first man to run a marathon in under two hours in competitive race conditions.",
-      "summary_zh": "肯尼亚的萨巴斯蒂安 索威在成为第一位在竞技条件下在两小时内跑马拉松的人后,回到了快乐的场景."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-      "title_zh": "国王和皇后在纽约911纪念馆献花",
-      "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T06:30:56+00:00",
-      "summary": "King Charles and Queen Camilla laid flowers at the September 11 Memorial in New York, in a sombre moment during their state visit to the United States.",
-      "summary_zh": "查尔斯国王和卡米拉王后在纽约的9月11日纪念馆献花,在对美国进行国事访问时的沉闷时刻."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Police say they believe abducted child was murdered as body found in Outback",
-      "title_zh": "警方说,他们相信被绑架的儿童 被谋杀的尸体在Outback",
-      "link": "https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T06:29:55+00:00",
-      "summary": "Warning for Aboriginal and Torres Strait Islander readers: this article contains references to someone who has died.",
-      "summary_zh": "对土著居民和托雷斯海峡岛民读者的警告:这篇文章中提到了已经死亡的人。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
-      "title_zh": "犹太机构在邦迪枪击案前警告过\"高度\"威胁 报告发现",
-      "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T06:16:36+00:00",
-      "summary": "A Jewish security agency warned that the security alert level was \"high\" ahead of the Bondi Beach shooting, a landmark royal commission has found.",
-      "summary_zh": "一个犹太安全机构警告说,在邦迪海滩枪击案之前,安全警戒级别是\"高\"的,这是具有里程碑意义的皇家委员会发现的."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China to ban drone sales in Beijing citing security concerns",
-      "title_zh": "中国禁止无人机在北京销售 以安全为由",
-      "link": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T05:45:54+00:00",
-      "summary": "China will ban the sale of drones in Beijing and require permits to fly them under new rules that take effect on Friday.",
-      "summary_zh": "中国将禁止在北京销售无人机,并要求在星期五生效的新规则下飞行许可."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Christchurch mass killer loses bid to overturn conviction",
-      "title_zh": "克赖斯特彻奇大屠夫输了推翻判决的赌注",
-      "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T04:10:54+00:00",
-      "summary": "A white supremacist who killed 51 people at two New Zealand mosques has lost his bid to overturn his convictions and sentence .",
-      "summary_zh": "一位白人至上主义者在两座新西兰清真寺杀害51人,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
-      "title_zh": "美国指控墨西哥总督和其他领导人协助贩毒集团",
-      "link": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T03:20:04+00:00",
-      "summary": "US prosecutors have accused the sitting governor of Mexico's Sinaloa state, Rubén Rocha Moya, of conspiring with cartel drug traffickers.",
-      "summary_zh": "美国检察官指控墨西哥锡那罗亚州现任州长鲁本·罗沙·莫亚与贩毒集团密谋."
     },
     {
       "source": "BBC News",
@@ -292,26 +422,6 @@
       "published_at": "2026-04-30T01:46:52+00:00",
       "summary": "The BBC has been given access to a military base in Iraq where UK forces have been working together with their US counterparts during the conflict in the region.",
       "summary_zh": "英国广播公司获准进入伊拉克的一个军事基地,在该地区冲突期间,联合王国部队一直与美国部队合作。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
-      "title_zh": "观察:空中录像显示龙卷风袭击德克萨斯州小镇后,",
-      "link": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T00:56:23+00:00",
-      "summary": "Several people have been left injured after a tornado in Mineral Wells, Texas, destroyed swathes of the town.",
-      "summary_zh": "德克萨斯州Minneral Wells的一场龙卷风摧毁了该镇的岩浆,造成数人受伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The King and Queen in the Big Apple: What the royals did on their third day in the US",
-      "title_zh": "大苹果中的国王和女王:皇室在美国的第三天做了什么",
-      "link": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T00:37:45+00:00",
-      "summary": "The King and Queen spent the final full day of their state visit to the United States in New York City.",
-      "summary_zh": "国王和女王在纽约市度过了对美国的国事访问的最后一整天."
     },
     {
       "source": "BBC News",
@@ -342,46 +452,6 @@
       "published_at": "2026-04-29T23:21:44+00:00",
       "summary": "When power shifts at the top of some of the world's biggest companies, most people don't notice.",
       "summary_zh": "当电力在世界上一些最大公司的顶端转移时,大多数人不会注意到."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three takeaways from Hegseth's clash with lawmakers over Iran war",
-      "title_zh": "伊朗战争期间,",
-      "link": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-29T22:22:18+00:00",
-      "summary": "US Defence Secretary Pete Hegseth sparred with Democratic lawmakers over the Iran war during a nearly six-hour-long hearing, in which one of his officials also revealed that American operations had cost the country $25bn (£18.5bn) so far.",
-      "summary_zh": "美国国防部长Pete Hegseth在为期近6小时的听证会上与民主立法者就伊朗战争展开争吵,其中他的一名官员还透露,美国的行动至今已经使该国付出了25美元(18.5英镑)的代价."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Florida lawmakers approve new voting maps to favour Republicans",
-      "title_zh": "佛罗里达州立法者批准新投票地图 支持共和党",
-      "link": "https://www.bbc.com/news/articles/c5y9wvl0gkno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-29T22:00:44+00:00",
-      "summary": "Florida lawmakers have approved new congressional maps that could help Republicans maintain control of the thinly divided US House of Representatives in the midterm elections this year.",
-      "summary_zh": "佛罗里达州立法者批准了新的国会地图,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-      "title_zh": "在Instagram博客上,",
-      "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-29T20:24:48+00:00",
-      "summary": "Former FBI Director James Comey surrendered to authorities to face charges alleging that an image he briefly shared on social media posed a threat to the life of US President Donald Trump.",
-      "summary_zh": "联邦调查局前局长詹姆斯·科米向当局投降,面对指控称他在社交媒体上短暂分享的一幅照片对美国总统唐纳德·特朗普的生命构成威胁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-      "title_zh": "在五张图表中——阿联酋的退出会如何影响奥佩克对油价的影响.",
-      "link": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-29T16:37:08+00:00",
-      "summary": "The United Arab Emirates' plan to ditch the oil producers' group Opec and strike out alone is being viewed as a huge blow for the organisation, with one analyst describing it as \"the beginning of the end of Opec\".",
-      "summary_zh": "阿拉伯联合酋长国计划将石油生产商团体Opec驱逐出去,"
     }
   ]
 }
