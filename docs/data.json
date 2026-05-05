@@ -1,67 +1,117 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-04T23:10:15+00:00",
-  "count": 39,
+  "generated_at": "2026-05-05T23:10:40+00:00",
+  "count": 34,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "The looks turning heads on the Met Gala carpet",
-      "title_zh": "盖拉山地地毯上的表情",
-      "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T23:07:16+00:00",
-      "summary": "The biggest night in fashion has begun.",
-      "summary_zh": "时尚界最大的夜晚开始了"
+      "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
+      "title_zh": "美国国务卿鲁比奥说:",
+      "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T22:17:44+00:00",
+      "summary": "US Secretary of State Marco Rubio says the initial US-Israeli offensive in Iran - known as Operation Epic Fury - is over after it reached its objectives.",
+      "summary_zh": "美国国务卿马可·鲁比奥(Marco Rubio)表示,美以双方在伊朗的最初攻势(被称作\"Epic Fury\"行动)在达到目标后就结束了."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "赤澤経産相 中東産油国と会談 原油安定供給へ協力で一致",
+      "title_zh": "与中东石油国的会议",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115031000.html",
+      "published_at": "2026-05-05T22:12:27+00:00",
+      "summary": "赤澤経済産業大臣は、中東の産油国であるサウジアラビアとUAE＝アラブ首長国連邦を相次いで訪問し、ホルムズ海峡が事実上封鎖される中、原油の安定供給に向けて協力していくことで一致したと明らかにしました。 …",
+      "summary_zh": "经济贸易与工业部长A. 4:00说,沙特阿拉伯是中东石油生产国,阿联酋是阿联酋,随后访问了阿联酋,霍尔姆的\"克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克 . . . . . . ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NY市場 ナスダック S＆P500指数が最高値 イラン停戦継続やAIで",
+      "title_zh": "纽约市场 Nasdaq S&P500 指数在伊朗战争联盟和AI中最高",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115181000.html",
+      "published_at": "2026-05-05T21:30:15+00:00",
+      "summary": "5日のニューヨーク株式市場ではアメリカとイランの停戦が当面、維持されるとの期待感から幅広い銘柄に買い注文が出て、ハイテク株の比率が高いナスダックの株価指数などが最高値を更新しました。",
+      "summary_zh": "纽约股票市场第5回,从美国和伊朗停市的预期中订购了多种股票,并更新了高科技KINDAQ股票指数."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米国防長官 “停戦は維持” UAE “イランから攻撃”と発表",
+      "title_zh": "阿联酋“从伊朗入侵”",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html",
+      "published_at": "2026-05-05T21:20:07+00:00",
+      "summary": "アメリカがペルシャ湾内の船舶を誘導してホルムズ海峡を通過させる取り組みを始めたことに対し、イラン側が反発を示す中、アメリカのヘグセス国防長官は停戦は維持されているとの考えを示しました。一方、UAE＝ア…",
+      "summary_zh": "如果美军在.波斯湾的船只开始试图通过霍尔姆斯-克特号,伊朗方面显示出了叛乱,而美国国防部长说,QQ被维持了. 阿联酋"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "医療機関での性被害 初調査 15％にトラブルの訴え",
+      "title_zh": "第一次医疗设施中性损害调查 15%",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015114991000.html",
+      "published_at": "2026-05-05T20:43:42+00:00",
+      "summary": "こども家庭庁は、病院などの医療機関での性被害に関する初めての調査結果を公表しました。医師など医療従事者から性被害を受けた患者が訴えるなどトラブルがあった医療機関が15％に上ることが分かりました。",
+      "summary_zh": "儿童之家公布了关于医院和其他医疗机构性损害的首次调查。 发现存在诸如起诉遭受医生等医务人员性损害的病人等问题的医疗机构上升到15%。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日本 フィリピン防衛相会談 中古護衛艦移転で時期など協議へ",
+      "title_zh": "在旧护卫人员搬迁时,",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115011000.html",
+      "published_at": "2026-05-05T20:12:44+00:00",
+      "summary": "小泉防衛大臣は訪問先のフィリピンでテオドロ国防相と会談し、海上自衛隊の中古の護衛艦などの移転に向けて防衛当局間でワーキンググループを設置することで一致しました。今後、移転の時期や方法などについて協議を…",
+      "summary_zh": "小泉国防部长在菲律宾会见了特奥多罗共和国国防部长,并在国防当局之间设立了一个工作组,负责移交海上自卫队的用过的护卫。 我们将讨论未来转移的时间和方法..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ハンタウイルス 一部でヒトからヒトに感染の可能性も WHO",
+      "title_zh": "β病毒 部分人类感染的可能性",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115141000.html",
+      "published_at": "2026-05-05T20:09:00+00:00",
+      "summary": "大西洋に停泊しているクルーズ船で「ハンタウイルス」の集団感染が疑われている問題で、WHO＝世界保健機関は、濃厚接触者の間でヒトからヒトへの感染が起きた可能性も排除できないと発表しました。ただ、ヒトから…",
+      "summary_zh": "WHO = 世界卫生组织宣布,它无法消除强接触者中人类被感染的可能性. 只是人类..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "京都 男児遺体遺棄事件 父親を殺人容疑で再逮捕へ",
+      "title_zh": "京都小机构Reed案",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115061000.html",
+      "published_at": "2026-05-05T20:01:01+00:00",
+      "summary": "京都府南丹市で小学生の息子の遺体を遺棄したとして逮捕された37歳の父親が、市内の公衆トイレで息子を殺害した疑いがあるとして、警察が6日にも殺人の疑いで再逮捕する方針を固めたことが捜査関係者への取材で分…",
+      "summary_zh": "京畿道南坦市一中小学之子被丢弃而被捕的37岁父亲疑其子被市内公厕所杀,警方决定6日内再逮捕杀人政策."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-      "title_zh": "当伊朗攻击阿联酋石油设施时,",
-      "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T22:44:07+00:00",
-      "summary": "President Donald Trump says the US has struck seven Iranian \"fast boats\" in the Strait of Hormuz, as Washington seeks to guide stranded ships out of the Gulf through the largely closed waterway.",
-      "summary_zh": "总统唐纳德·特朗普(Donald Trump)表示,美国已经袭击了霍尔木兹海峡的七艘伊朗\"快艇\",因为华盛顿试图将被搁浅的船只从海湾引导出,通过基本封闭的水道."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米船籍の商船“ホルムズ通過”イラン反発 情勢は急速に緊迫化",
-      "title_zh": "伊朗对“Holmes Pass”号舰的叛乱",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114601000.html",
-      "published_at": "2026-05-04T22:39:43+00:00",
-      "summary": "ホルムズ海峡の開放を目指すアメリカは、4日、ペルシャ湾内の船舶を誘導して海峡を通過させる取り組みを開始し、アメリカ船籍の商船2隻が通過に成功したと発表しました。",
-      "summary_zh": "美国以开通霍尔姆斯-克特号为目的,发起了一项引导波斯船只通过克特号的倡议,并宣布两艘美国航母成功通过."
+      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+      "title_zh": "在基辅和莫斯科提议的敌对停火之前,俄罗斯的攻击造成20多人死亡",
+      "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T19:23:18+00:00",
+      "summary": "Russian attacks killed more than 20 people across Ukraine on Tuesday ahead of rival unilateral ceasefires proposed separately by Moscow and Kyiv.",
+      "summary_zh": "俄罗斯的攻击星期二在莫斯科和基辅分别提议的敌对单方面停火之前,在乌克兰各地造成20多人死亡."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
-      "title_zh": "在大西洋邮轮上,有3人死亡",
-      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T22:18:41+00:00",
-      "summary": "Three people have died and a UK national is seriously ill in hospital after a suspected hantavirus outbreak on a small cruise ship in the Atlantic Ocean.",
-      "summary_zh": "在大西洋一艘小型游轮上发生疑似汉塔病毒疫情后,3人死亡,1名英国国民在医院重病."
+      "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+      "title_zh": "汉塔病毒可能传播到游轮上的乘客之间,",
+      "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T16:38:50+00:00",
+      "summary": "The World Health Organization says there may have been rare human-to-human transmission of hantavirus on the Dutch cruise ship where three passengers have died.",
+      "summary_zh": "世界卫生组织称,荷兰邮轮上可能曾有罕见的汉塔病毒人与人间传播,有3名乘客已经死亡."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大型連休後半 Uターンラッシュがピークの見込み",
-      "title_zh": "连续的大型假期 晚U倒数高峰",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114731000.html",
-      "published_at": "2026-05-04T22:09:37+00:00",
-      "summary": "大型連休をふるさとや行楽地などで過ごした人たちのUターンラッシュは、5日がピークとなる見込みで、各地の高速道路では午後にかけて30キロを超える渋滞が予想されています。JR各社や航空各社によりますと、新…",
-      "summary_zh": "U-turn快车预计5天会达到高峰,预计每个区域的高速公路在下午的交通拥堵会超过30公里. JR公司和航空公司,新的..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東北や関東など各地で強風被害 北海道は6日にかけ風強く",
-      "title_zh": "东莞,干都等地风力破坏强烈. 北海道6天就变强了",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114621000.html",
-      "published_at": "2026-05-04T22:02:16+00:00",
-      "summary": "発達している低気圧の影響で4日は東北や関東などでは風が強まり、強風による被害が相次ぎました。北海道では6日にかけて風が強い状態が続く見込みで、気象庁は暴風に警戒するよう呼びかけています。",
-      "summary_zh": "4日,东莞和关东的风能增加,并发生了强风所造成的损害. 预计北海道风能持续超过第六天强度,气象局被叫来警惕风暴天气."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Romanian PM ousted in no-confidence vote",
+      "title_zh": "罗马尼亚总理以不信任投票方式罢免",
+      "link": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T14:05:11+00:00",
+      "summary": "Romanian MPs have voted to remove Prime Minister Ilie Bolojan in a no-confidence vote in parliament.",
+      "summary_zh": "罗马尼亚议员投票罢免总理伊利·博洛扬在议会中的不信任投票."
     },
     {
       "source": "BBC News",
@@ -69,29 +119,119 @@
       "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
       "title_zh": "在德国城市莱比锡,开车撞上人群,造成2人死亡,多人受伤",
       "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T21:33:17+00:00",
+      "published_at": "2026-05-05T10:56:53+00:00",
       "summary": "Two people are dead and several others injured after a car drove into a crowd in the eastern German city of Leipzig on Monday afternoon, local authorities said.",
       "summary_zh": "星期一下午一辆汽车开入德意志东部城市莱比锡的人群后,当地政府表示有2人死亡,另有多人受伤."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ドジャース 大谷翔平 投手部門で月間MVP初受賞",
-      "title_zh": "道奇队Shohei Otani 第一次MVP 投手类奖",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114691000.html",
-      "published_at": "2026-05-04T20:54:51+00:00",
-      "summary": "大リーグ、ドジャースの大谷翔平選手がナショナルリーグ投手部門の3月・4月の月間MVP＝最優秀選手に選ばれました。大谷選手はこれまでに野手部門では月間MVPを6回、受賞していますが、投手部門で選ばれるの…",
-      "summary_zh": "肖平·奥塔尼于3月和4月获得全国联赛投手类别MVP. Otani先生迄今在节点类别中被授予了六次VPMVP."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rapper Kid Cudi removes British star M.I.A. from tour",
+      "title_zh": "Rapper Kid Cudi 将英国明星M. I. A. 从巡演中移除",
+      "link": "https://www.bbc.com/news/articles/ceqp9y71nq2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T10:51:15+00:00",
+      "summary": "Grammy award-winning rapper Kid Cudi has dropped singer-songwriter M.I.A. from his Rebel Ragers tour over \"offensive remarks\" which left his fanbase \"upset\".",
+      "summary_zh": "格莱美获奖说唱歌手基德·库迪(英语:Kid Cudi)从他的\"造反者\"(Rebel Ragers)巡回演唱会中放弃了歌手-相声作曲家M.I.A.,因为\"愤怒的言论\"留下了他的粉丝基础\"上流\"."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "保育施設の5％近くがスポットワーク保育士等活用 こども家庭庁",
-      "title_zh": "近几所儿童保育设施使用抽查式托儿所",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114591000.html",
-      "published_at": "2026-05-04T20:32:04+00:00",
-      "summary": "保育士不足が課題となる中、保育施設の５％近くが、短時間、単発で働くスポットワークの保育士などを活用していたことが、こども家庭庁の調査で分かりました。こども家庭庁は、スポットワークの保育士をやむをえず活…",
-      "summary_zh": "由于缺少托儿所工作人员是一个问题,所以在幼儿园设施中,有短期的、单阶段的现场工作护士。 儿童家庭事务办公室使用抽查儿童照料人员......"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nine coal miners die in gas explosion in Colombia",
+      "title_zh": "哥伦比亚有9名煤矿工人死于瓦斯爆炸",
+      "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T10:09:23+00:00",
+      "summary": "Nine people have died in an explosion at a coal mine in Colombia in the latest fatal accident to hit the country's mining sector.",
+      "summary_zh": "9人死于哥伦比亚煤矿爆炸事故,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
+      "title_zh": "一个\"有趣\"的超级巨星震撼对手 并重塑了一个印度州的政治",
+      "link": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T07:32:52+00:00",
+      "summary": "Film star-turned-politician C Joseph Vijay is on the cusp of history in Tamil Nadu state.",
+      "summary_zh": "在泰米尔纳德邦,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Do viruses spread more easily on cruise ships?",
+      "title_zh": "病毒在游轮上传播比较容易吗?",
+      "link": "https://www.bbc.com/news/videos/cdxpn5r2nlgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T06:38:26+00:00",
+      "summary": "Three people have died from a suspected hantavirus outbreak during a cruise in the Atlantic. The BBC's Claire Keenan explains what experts have to say about the infection risks associated with cruise ships, and whether viruses spread more easily on them.",
+      "summary_zh": "大西洋巡航期间,有3人死于疑似汉塔病毒疫情. BBC的\"克莱尔·基南\"(Claire Keenan)解释了专家们对于与游轮相关的感染风险,以及病毒在游轮上传播是否比较容易的说法."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Explosion at China fireworks factory kills 26 people",
+      "title_zh": "中国烟花厂爆炸致26人死亡.",
+      "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T06:06:42+00:00",
+      "summary": "An explosion at a fireworks factory in China's Hunan province has killed 26 people and left 61 wounded, according to state media.",
+      "summary_zh": "中国湖南省烟花爆竹厂爆炸已致26人死亡 61人受伤 据国家媒体报道."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Moment Indonesian river overflows from heavy rain",
+      "title_zh": "印度尼西亚河流被暴雨所淹没",
+      "link": "https://www.bbc.com/news/videos/ckgpyel2n0eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T05:32:28+00:00",
+      "summary": "On 4 May, heavy rain caused the Cipamingkis river to overflow in Bogor, West Java, Indonesia.",
+      "summary_zh": "5月4日,大雨使西帕明基斯河在印度尼西亚西爪哇的博戈尔溢出."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Popular Australian author pleads guilty over child exploitation material",
+      "title_zh": "澳大利亚民众对剥削儿童材料认罪",
+      "link": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T05:28:28+00:00",
+      "summary": "Popular Australian author Craig Silvey, best known for his children's and young adult fiction books, has pleaded guilty to possessing and distributing child exploitation material.",
+      "summary_zh": "受欢迎的澳大利亚作家克雷格·西尔维(Craig Silvey)以他的孩子和年轻的成人小说书籍而出名,他承认自己拥有并散发了剥削儿童的材料."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Deadly China plane crash was caused by fuel cut-off, says report",
+      "title_zh": "报告说,致命的中国飞机坠毁是燃料停运造成的",
+      "link": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T04:25:49+00:00",
+      "summary": "A Boeing 737 plane that plummeted into a Chinese hillside in 2022, killing all 132 people on board, had its fuel supply cut mid-flight, according to newly released data by the US National Transportation Safety Board (NTSB).",
+      "summary_zh": "根据美国国家运输安全委员会(NTSB)最新公布的数据,一架于2022年坠入中国山坡并导致机上132人死亡的波音737飞机的燃油供应被切断了中空."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The most talked-about looks at this year's Met Gala",
+      "title_zh": "最能谈的就是今年的梅特加拉",
+      "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T04:05:39+00:00",
+      "summary": "It's described as the biggest night in fashion.",
+      "summary_zh": "这被描述为时尚界最大的夜晚."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rescuers among three dead after yacht sinks off Australian coast",
+      "title_zh": "澳大利亚沿岸游艇沉没后三名遇难者中的救援人员",
+      "link": "https://www.bbc.com/news/articles/cr5p36v5q79o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T02:40:24+00:00",
+      "summary": "Three people have died, including two volunteer rescuers, after a yacht sank and a rescue boat rolled in choppy conditions off Australia's New South Wales (NSW) coast.",
+      "summary_zh": "一艘游艇被击沉, 一艘救援船在澳洲新南威尔士州海岸被挤出,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Robots move in as waste firms struggle to find staff",
+      "title_zh": "机器人在垃圾公司为寻找员工而挣扎时搬入",
+      "link": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-04T23:43:28+00:00",
+      "summary": "The dust at this busy recycling plant is pervasive and the steady noise of hoppers and conveyor belts makes this a challenging environment to work in.",
+      "summary_zh": "这个繁忙的回收厂的灰尘是普遍存在的,而hopper和传送带的持续噪声使得这个环境难以工作."
     },
     {
       "source": "BBC News",
@@ -112,16 +252,6 @@
       "published_at": "2026-05-04T18:31:38+00:00",
       "summary": "Mali's military leader Gen Assimi Goïta has taken over as defence minister after the officer who previously held the post was killed in a wave of surprise attacks.",
       "summary_zh": "马里的军事领导人Gen Assimi Goïta接任国防部长,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spain seizes record amount of cocaine in Atlantic Ocean, authorities say",
-      "title_zh": "西班牙在大西洋缉获了创纪录的可卡因 当局说",
-      "link": "https://www.bbc.com/news/articles/cp8pn8py5gro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T18:08:55+00:00",
-      "summary": "Spanish police have seized what is thought to be a national record haul of cocaine from a ship in the Atlantic Ocean.",
-      "summary_zh": "西班牙警方从大西洋的一艘船上缴获了 被认为是国家记录的可卡因"
     },
     {
       "source": "BBC News",
@@ -156,36 +286,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "New alliance shakes up Nigerian political landscape",
-      "title_zh": "新联盟动摇了尼日利亚的政治面貌",
-      "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T15:47:31+00:00",
-      "summary": "Two of Nigeria's most prominent opposition figures have announced they have switched parties in a dramatic political realignment ahead of next year's presidential election.",
-      "summary_zh": "两位尼日利亚最出名的反对派人士宣布,他们在明年总统选举之前,在一次戏剧性的政治调整中换了政党。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "GameStop makes $55.5bn takeover offer for eBay",
-      "title_zh": "GameStop为eBay提供55.5bn收购报价",
-      "link": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T15:12:39+00:00",
-      "summary": "Video game retailer GameStop has made a surprise $55.5bn (£40.9bn) offer to buy e-commerce giant eBay.",
-      "summary_zh": "电子游戏零售商GameStop出人意料地提出55.5bn(40.9bn英镑)收购电子商务巨头eBay."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "冥王星より外側の天体に大気の存在を確認 国立天文台など発表",
-      "title_zh": "来自冥王星的大气层的存在",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015113341000.html",
-      "published_at": "2026-05-04T15:00:06+00:00",
-      "summary": "冥王星より外側にある小天体に大気が存在することを地上からの観測で確認したと国立天文台などの研究チームが発表しました。太陽系で大気が確認された最も遠い天体だとしています。",
-      "summary_zh": "包括国家天文台在内的一个研究小组宣布,该大气层存在于冥王星外. 它是太阳系中最远的一个。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: Moment United Airlines flight strikes vehicle during landing",
       "title_zh": "观察:降落时联合航空公司的飞行打击车辆",
       "link": "https://www.bbc.com/news/videos/cr7pvgl9dpeo?at_medium=RSS&at_campaign=rss",
@@ -196,102 +296,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
-      "title_zh": "莫迪的BJP征服了孟加拉邦,这是印度最严厉的政治边界之一",
-      "link": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T11:59:58+00:00",
-      "summary": "For years, India's West Bengal state was the great exception to Narendra Modi's political advance.",
-      "summary_zh": "多年来,印度的西孟加拉邦是纳伦德拉·莫迪政治进步的一大例外."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Met Gala 2026: How to watch, the price of tickets and this year's theme",
-      "title_zh": "Met Gala 2026:如何观看,票价和今年的主题",
-      "link": "https://www.bbc.com/news/articles/cdrm7gp5er3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T08:41:42+00:00",
-      "summary": "The dresses have been sewn, the jewellery has been polished and New York's hairdressers and make-up artists have been fully booked ahead of the Met Gala 2026.",
-      "summary_zh": "服装被缝合,珠宝被打磨,纽约的发型师和化妆艺术家在2026年大都会大赛前被全部预订."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "15歳未満の子どもの数1329万人 45年連続で減少 総務省推計",
-      "title_zh": "1.329亿15岁以下儿童连续减少45岁",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114411000.html",
-      "published_at": "2026-05-04T08:03:58+00:00",
-      "summary": "5日は「こどもの日」です。総務省によりますと15歳未満の子どもの数は、先月1日現在で1329万人と、去年より35万人減って45年連続で減少しました。",
-      "summary_zh": "儿童节 据内务和交通部统计,15岁以下儿童比上月减少1329万人,比上年减少3500万人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three dead after monster truck crashes into crowd",
-      "title_zh": "怪物卡车撞到人群后 有三人死亡",
-      "link": "https://www.bbc.com/news/articles/czx2d54wwr4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T07:45:13+00:00",
-      "summary": "Three people have been killed and dozens wounded after a monster truck drove into a crowd in the south of Colombia.",
-      "summary_zh": "在哥伦比亚南部一辆怪兽卡车开入人群后有3人被炸死,数十人受伤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "BBC uncovers the scammers exploiting dogs to elicit donations from animal lovers",
       "title_zh": "BBC揭露那些利用狗来吸引动物爱好者捐赠的骗子",
       "link": "https://www.bbc.com/news/articles/c4g9l74wvd7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-04T06:39:56+00:00",
       "summary": "A dog with rust-coloured fur lies at the side of a road. He looks peaceful, but as the TikTok video pans from his face to the rest of his body, severe injuries to his hind legs appear.",
       "summary_zh": "一只有锈色皮毛的狗躺在路边. 他看起来很平和,但随着TikTok从他的脸到他身体的其余部分的视频平板,他的后腿出现了严重的伤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "North Korean side to make rare trip to South Korea",
-      "title_zh": "朝鲜方面到韩国去",
-      "link": "https://www.bbc.com/sport/football/articles/cx216122kv1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T05:58:28+00:00",
-      "summary": "Naegohyang beat Suwon and ISPE to qualify from the group stage of the Women's Champions League this season",
-      "summary_zh": "乃高阳出战水原和ISPE,获得本赛季女子冠军联赛团体赛阶段的参赛资格."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Antisemitism 'allowed to come into the open' says Bondi victim's daughter",
-      "title_zh": "Bondi受害者的女儿说,",
-      "link": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-04T04:12:04+00:00",
-      "summary": "The daughter of a Bondi Beach attack victim has described how, since the shooting, she has received messages saying she too should have been killed.",
-      "summary_zh": "Bondi海滩被攻击者的女儿描述,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "European leaders converge on Armenia as Russia looks on",
-      "title_zh": "欧洲领导人在俄罗斯眼中凝聚亚美尼亚",
-      "link": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-03T23:19:05+00:00",
-      "summary": "European leaders are descending on Armenia for two unprecedented summits in a country long considered Russia's closest ally in the South Caucasus.",
-      "summary_zh": "欧洲领导人在亚美尼亚举行两次史无前例的首脑会议,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Amsterdam bans public adverts for meat and fossil fuels",
-      "title_zh": "阿姆斯特丹禁止有关肉类和化石燃料的公共广告",
-      "link": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-03T23:07:44+00:00",
-      "summary": "Amsterdam has become the world's first capital city to ban public advertisements for both meat and fossil fuel products. Since 1 May, adverts for burgers, petrol cars and airlines have been stripped from billboards, tram shelters, and metro stations.",
-      "summary_zh": "阿姆斯特丹已成为世界上第一个禁止肉类和化石燃料产品公开广告的首都. 自5月1日起,汉堡、汽油车和航空公司的广告被从广告牌、有轨电车掩体和地铁站中剥去。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Police officer lowered into crocodile-infested river to recover human remains",
-      "title_zh": "警官潜入被鳄鱼淹没的河中取出遗骸",
-      "link": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-03T15:47:59+00:00",
-      "summary": "Police in South Africa have managed to recover human remains after an officer was lowered from a helicopter into a crocodile-infested river in the search for a businessman swept away by floodwater last week.",
-      "summary_zh": "南非警方在上周搜寻被洪水冲走的商人时,"
     },
     {
       "source": "BBC News",
@@ -326,72 +336,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "How we reported in -30C temperatures in Canada's Arctic",
-      "title_zh": "加拿大北极地区温度30C的报导",
-      "link": "https://www.bbc.com/news/videos/cvgz3pnn1ppo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-03T04:30:41+00:00",
-      "summary": "The BBC joined Canada's military rangers on the final leg of a 5,200km (3,200 miles) Arctic patrol, where they shared the survival skills needed to endure freezing temperatures, navigate remote tundra and camp in conditions as cold as -60C (-76F).",
-      "summary_zh": "英国广播公司在5200公里(3200英里)北极巡逻的最后一行加入了加拿大的军事护林员,他们在那里分享了忍受寒冷的温度、在冷至-60C(-76F)的条件下航行偏远苔原和营地所需的生存技能。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Laufey on making jazz cool again (and the fish that brought out her inner rage)",
       "title_zh": "Laufey在使爵士再次凉爽(和鱼 带出她的内心愤怒)",
       "link": "https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-02T23:05:34+00:00",
       "summary": "It's probably fair to say that most of us have never slapped someone so hard with a wet fish that they fall, fully clothed, into a swimming pool.",
       "summary_zh": "也许应该说,我们大多数人 从来没有用湿鱼打过这么重的人, 他们跌倒了,完全穿好衣服,进了游泳池。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-      "title_zh": "危难中的龙蝇:印度生态热点的科学家声音警报",
-      "link": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-02T22:13:11+00:00",
-      "summary": "A first-of-its-kind study of dragonfly and damselfly species in India's Western Ghats - one of the world's most important biodiversity hotspots - has revealed findings that are both fascinating and worrying.",
-      "summary_zh": "对印度西部Ghats(世界最重要的生物多样性热点之一)的飞龙和自来水物种的首次研究揭示了既令人着迷又令人担忧的研究结果。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'This tree was planted by my ancestor hundreds of years ago and my family settled here'",
-      "title_zh": "这棵树是几百年前我祖先种的 我家也在这里定居",
-      "link": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-02T04:02:24+00:00",
-      "summary": "At the edge of the Atlantic Ocean, in the Ghanaian fishing town of Apam, there is a tree that most people barely notice.",
-      "summary_zh": "在大西洋边缘的加纳渔镇阿帕姆有棵树,大多数人几乎不觉注意到."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?",
-      "title_zh": "数千名“失去的加拿大人”申请双重国籍,",
-      "link": "https://www.bbc.com/news/articles/cp8pmnlejgro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-01T23:02:27+00:00",
-      "summary": "As the youngest of five children, Joe Boucher learned a lot from his older brothers and sister - how to ride a bike, how to navigate the miles of forest behind their house and how to skate and play hockey. But one thing he didn't really pick up from them is how to speak French.",
-      "summary_zh": "作为五个孩子中最小的孩子,乔·布彻从他哥哥和姐姐那里学到了很多东西——如何骑自行车,如何在房子后面的森林里航行,如何滑冰和打曲棍球. 但是他并没有真正从他们那里得到的一件事,就是如何讲法语."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The world wants to eliminate cervical cancer - how Australian scientists led the way",
-      "title_zh": "世界希望消除子宫颈癌 澳大利亚科学家如何带头",
-      "link": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-01T19:30:36+00:00",
-      "summary": "Six months after finally giving birth to her first child, following a years-long struggle to conceive, Chrissy Walters was told her daughter would likely grow up without her.",
-      "summary_zh": "在终于生下第一个孩子6个月后,经过长达数年的受孕斗争后,克丽丝·沃尔特斯被告知她的女儿很可能在没有她的情况下长大."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New CCTV footage appears to shows when shots were fired at Washington press dinner",
-      "title_zh": "新的闭路电视录像显示 华盛顿记者晚宴被枪击",
-      "link": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-30T23:10:41+00:00",
-      "summary": "CCTV footage has been released of the moment gunshots were fired during the White House Correspondents' Dinner.",
-      "summary_zh": "在白宫记者的晚餐中枪声响起的一瞬间,"
     }
   ]
 }
