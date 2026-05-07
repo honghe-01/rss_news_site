@@ -1,127 +1,377 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-06T23:06:42+00:00",
-  "count": 38,
+  "generated_at": "2026-05-07T23:11:58+00:00",
+  "count": 45,
   "items": [
     {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump gives EU ultimatum to approve trade deal with US",
+      "title_zh": "特朗普给欧盟最后通牒 批准与美国的贸易交易",
+      "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T23:10:48+00:00",
+      "summary": "President Donald Trump has threatened \"much higher\" tariffs on the European Union (EU) by 4 July if the bloc fails to drop its levies on the US to zero.",
+      "summary_zh": "如果该集团未能把对美国征税降至零,那么唐纳德·特朗普总统就威胁说,到7月4日,欧洲联盟(欧盟)将征收“相当高的”关税。"
+    },
+    {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "川崎で女性死亡 トラック運転手をひき逃げなどの疑いで逮捕",
-      "title_zh": "川崎女尸被怀疑如卡车司机逮捕",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115661000.html",
-      "published_at": "2026-05-06T22:52:02+00:00",
-      "summary": "6日未明、川崎市の路上で55歳の女性をトラックではねて死亡させ、現場から逃げたとして、埼玉県八潮市に住む54歳の運転手がひき逃げなどの疑いで警察に逮捕されました。調べに対し、容疑の一部を否認していると…",
-      "summary_zh": "6天后,川崎市路口一名55岁女子被卡车撞倒而死,斋间县矢雄市一名54岁的司机被警方逮捕. 我否认了部分质疑调查的问题..."
+      "title": "イラン複数メディア「米軍が船舶を攻撃 停戦合意に違反した」",
+      "title_zh": "伊朗多媒体“美国军队袭击了这艘船并违反了泊位协定”",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116461000.html",
+      "published_at": "2026-05-07T22:51:03+00:00",
+      "summary": "イランの複数のメディアは中央司令部の報道官の話として「アメリカ軍がイラン沿岸からホルムズ海峡に向かっていたイランの石油タンカーやUAEのフジャイラ港の近くで 別の船舶を攻撃し、停戦合意に違反した」など…",
+      "summary_zh": "伊朗的多家媒体袭击了伊朗和阿联酋油轮船厂(Fujaira)附近的另一艘船,“美国军队正从伊朗海岸驶向霍尔姆斯-克哈特并违反了停泊协议”。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ政権の10％関税「違法」と判断 米国際貿易裁判所",
+      "title_zh": "特朗普政府“非法”美国贸易法院10%的关税",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116471000.html",
+      "published_at": "2026-05-07T22:39:04+00:00",
+      "summary": "アメリカの国際貿易裁判所はトランプ政権がことし2月に日本を含む幅広い国や地域を対象に発動した10％の新たな関税措置について7日、違法だとする判断を示しました。",
+      "summary_zh": "美国国际贸易法院裁定特朗普的\"QQ\"对于2月发源于包括日本在内的广泛国家和地区的10%新关税将违法七天."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イラン外務省 米側提案「内容確認」終わりしだい返答 出方焦点",
+      "title_zh": "伊朗外交部\"美国侧面\"提案\"确认\"最后答复.",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116341000.html",
+      "published_at": "2026-05-07T21:45:31+00:00",
+      "summary": "アメリカとイランの戦闘停止に向けた交渉をめぐり、イラン外務省はアメリカからの提案について「内容を確認している」として検討が終わりしだい仲介国のパキスタンに返答を伝えるという考えを改めて示しました。 両…",
+      "summary_zh": "伊朗外务省宣布将继续在调停国向巴基斯坦提供答案,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
-      "title_zh": "汉塔病毒袭击游轮在三艘撤离后离开佛得角",
-      "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T22:10:40+00:00",
-      "summary": "A Dutch cruise ship hit with a hantavirus outbreak has left Cape Verde, after three people on board were medically evacuated.",
-      "summary_zh": "一艘荷兰邮轮被汉塔病毒所感染,在船上有3人被医疗后送后已离开佛得角."
+      "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
+      "title_zh": "Valverde在Tchouameni一行\"意外地撞到桌子\"时砍了头",
+      "link": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T21:40:26+00:00",
+      "summary": "Real Madrid's two midfielders are facing consequences for their altercation",
+      "summary_zh": "真正的马德里两名中场选手 面对着他们争吵的后果"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米 ガソリン平均販売価格 1ガロン当たり4ドル50セント超える",
-      "title_zh": "美国汽油平均销售价格超过50美元",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115641000.html",
-      "published_at": "2026-05-06T21:57:21+00:00",
-      "summary": "イラン情勢の影響で原油価格が高止まりする中、アメリカではレギュラーガソリンの平均販売価格が、1ガロン＝3.78リットル当たり4ドル50セントを超えました。ロシアによるウクライナ侵攻のあとの2022年7…",
-      "summary_zh": "在美国,正常销售价格平均超过每13.7美元为50美元=3.78升. 2022年 俄国入侵乌克兰七年后..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NYダウ 600ドル余上昇 ナスダック・S＆P500指数は最高値更新",
-      "title_zh": "纽约道600美元 指数最高",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115631000.html",
-      "published_at": "2026-05-06T21:43:19+00:00",
-      "summary": "6日のニューヨーク株式市場では、アメリカとイランとの戦闘終結に向けた期待感を背景に買い注文が出て、ダウ平均株価の終値は前日から600ドル余りの値上がりとなり、5万ドルの大台に迫りました。",
-      "summary_zh": "纽约股市6日出货,预计美伊会结束抗争,道家平日股价从前一天起涨至600美元."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "“米とイランが覚書作成で合意に近づく”報道 イランはけん制",
-      "title_zh": "“美国和伊朗同意备忘录草案”",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115511000.html",
-      "published_at": "2026-05-06T21:32:54+00:00",
-      "summary": "アメリカとイランの戦闘終結に向けた交渉をめぐり、アメリカメディアはトランプ政権がイランとの間で覚書を作成することで合意に近づいているとみていると伝えました。一方、イランメディアは覚書の内容について「受…",
-      "summary_zh": "美国媒体报道说,特朗普同意由伊朗和特朗普政府建立备忘录. 另一方面,伊朗媒体是\"一等\". ."
+      "title": "IOC 冬五輪への夏競技の一部移行を見送り",
+      "title_zh": "夏季运动会部分迁移至国际奥委会冬奥会",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116431000.html",
+      "published_at": "2026-05-07T21:23:12+00:00",
+      "summary": "2030年に開かれる次の冬のオリンピックに向けて検討が進められてきた夏の競技の一部移行についてIOC＝国際オリンピック委員会が見送ることになりました。",
+      "summary_zh": "国际奥委会-国际奥委会将发出部分过渡到夏季奥运会,该届奥运会在2030年的下一届冬季奥运会上被考虑."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
-      "title_zh": "'悦来出演. 忽略战争':威尼斯比恩纳勒在包括俄罗斯后面临反弹",
-      "link": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T21:29:18+00:00",
-      "summary": "The Russian punk protest group Pussy Riot and Femen, founded in Ukraine, have staged a striking joint protest at this year's Venice Biennale, as Russia returns to the prestigious arts fair for the first time since the full-scale invasion of Ukraine.",
-      "summary_zh": "俄国朋克抗议团体Pussy Riot和Femen在乌克兰成立, 在今年的威尼斯比能纳(Wenice Biennale),"
+      "title": "Five killed in huge fire at packed Mexico fairground",
+      "title_zh": "五人在墨西哥广场被大火炸死",
+      "link": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T21:08:35+00:00",
+      "summary": "At least five people have died in a huge blaze at a crowded fairground in south-eastern Mexico, local officials say.",
+      "summary_zh": "当地官员说,在墨西哥东南部一个拥挤的集市上,至少有5人死于大火."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iran considering US proposal to end war, official says",
-      "title_zh": "伊朗考虑美国结束战争的提议,",
-      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T21:27:59+00:00",
-      "summary": "Iran says a US proposal to end the war is \"still being considered\", after reports the two sides could be close to an agreement.",
-      "summary_zh": "伊朗表示,美国关于结束战争的建议\"仍在被考虑\",在报道后,双方可能接近达成协议."
+      "title": "Crowds cheer China's new snooker star on return from championship win",
+      "title_zh": "群众欢呼中国新斯诺克星出道后夺冠",
+      "link": "https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T20:59:43+00:00",
+      "summary": "Wu Yize entered the TNT billiards club to a welcome worthy of a rock star.",
+      "summary_zh": "吴一泽入围TNT台球俱乐部 迎来配得上摇滚明星."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ハンタウイルス集団感染疑いのクルーズ船 カナリア諸島へ出発",
-      "title_zh": "前往加那利群岛的兽用邮轮",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115531000.html",
-      "published_at": "2026-05-06T21:03:43+00:00",
-      "summary": "「ハンタウイルス」の集団感染が疑われているクルーズ船は、大西洋の島国、カボベルデ沖から、6日、スペイン領のカナリア諸島に向けて出発しました。一方、重い症状が出ている人など3人が治療などのためオランダへ…",
-      "summary_zh": "一艘被怀疑为“Hantavirus”的游轮于6日从大西洋佛得角岛驶入西班牙加那利群岛。 另一方面,有重症患者等3人去荷兰治疗. ."
+      "title": "再審制度見直し 検察不服申し立て原則禁止 本則か付則かで調整",
+      "title_zh": "审查重新评价制度",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116281000.html",
+      "published_at": "2026-05-07T20:26:42+00:00",
+      "summary": "再審制度の見直しをめぐり、政府と自民党は、再審開始の決定に対する検察による不服申し立ての原則禁止を、刑事訴訟法改正案の本則と付則のいずれに記載するか調整することになりました。",
+      "summary_zh": "为了审查撤销制度,政府及其私人当事方决定对废除决定的主要禁止检察官的不当行为是否将在刑法和条例修正案的法律中作出规定。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "磐越道バス事故 運転手“時速90～100キロで走行”と供述",
+      "title_zh": "巴涅苏高速客车事故司机\"跑到90-100公里/小时\".",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116411000.html",
+      "published_at": "2026-05-07T20:01:56+00:00",
+      "summary": "福島県郡山市の磐越自動車道で部活動で遠征中の新潟県の高校生などが死傷したマイクロバス事故で、過失運転致死傷の疑いで逮捕された68歳の運転手が調べに対して「時速90キロから100キロで走行していた」など…",
+      "summary_zh": "这是福岛县高山市发生的一起小客车事故, 被怀疑驾驶失职而被捕的68岁司机从90公里到100公里的行驶时间. ."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Gas tax: How beer fuelled a debate on Australia's energy giants",
-      "title_zh": "天然气税:啤酒如何激起澳洲能源巨头的争论.",
-      "link": "https://www.bbc.com/news/articles/cy02pzxd4y4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T20:58:03+00:00",
-      "summary": "Back in February, an otherwise dry senate hearing took an unexpected turn when a flustered treasury official confirmed a little known fact: Australia gets more tax from beer than gas exports.",
-      "summary_zh": "早在2月,一个原本干燥的参议院听证会就发生了出人意料的转折,一位风靡一时的国库官员证实了一个鲜为人知的事实:澳大利亚从啤酒中获得的税收比天然气出口要多。"
+      "title": "How operation to disembark passengers on virus-hit cruise will work",
+      "title_zh": "如何通过病毒袭击航行让乘客上岸",
+      "link": "https://www.bbc.com/news/videos/cx218zp9897o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T20:01:43+00:00",
+      "summary": "Virus-hit cruise ship MV Hondius is set to arrive in Tenerife on Sunday, after being anchored for three days near Cape Verde.",
+      "summary_zh": "MV Hondius号受病毒袭击的邮轮定于星期天抵达特内里费,"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "京都 男児殺害事件 父親 車内のやりとり機に衝動的に襲ったか",
-      "title_zh": "京都男装被车伤",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115541000.html",
-      "published_at": "2026-05-06T20:44:14+00:00",
-      "summary": "京都府南丹市で小学生の男子児童が殺害され遺体が遺棄された事件で、6日、殺人の疑いで再逮捕された37歳の父親が事件当日の朝、息子を乗せていた車の中でのやりとりに腹が立ったという趣旨の説明をしていることが…",
-      "summary_zh": "在京畿道南屯市被害小学生并被活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活 6日被谋杀再逮捕的37岁父亲在事发当天早上被催眠,被坐在他生有儿子的车里. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "福島 磐越道 高校生死亡の事故 現場に目立ったブレーキ痕なし",
-      "title_zh": "福岛班-特苏高速公路中学生死亡事故 现场没有刹车痕迹",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115551000.html",
-      "published_at": "2026-05-06T20:30:26+00:00",
-      "summary": "6日、福島県の磐越自動車道で、新潟県の高校生が乗ったマイクロバスがガードレールに突っ込むなどして、1人が死亡し、20人が重軽傷を負いました。この事故で現場には目立ったブレーキ痕がなかったことが、捜査関…",
-      "summary_zh": "6日,福州地铁岩口高速公路通车后有20人死亡. 在这次事故中,现场没有谨慎的刹车痕迹."
+      "title": "集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い",
+      "title_zh": "乘坐豪华游轮客舱和客舱",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116251000.html",
+      "published_at": "2026-05-07T19:33:00+00:00",
+      "summary": "「ハンタウイルス」の集団感染が疑われているクルーズ船をめぐり、死亡した女性と接触した旅客機の客室乗務員が感染の疑いがあるとして検査を受けていることがわかりました。感染が確認されれば、クルーズ船の乗客乗…",
+      "summary_zh": "经证实,与已死亡女子有接触的客机客舱机组检查了被怀疑为\"汉特病毒\"集体感染的游轮. 乘坐游轮的乘客..."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "title_zh": "自真主党停火以来,以色列首次袭击贝鲁特",
-      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T19:58:04+00:00",
-      "summary": "Israel has attacked Beirut for the first time since it agreed to a ceasefire in the war with the Lebanese armed group Hezbollah, putting further pressure on a deal that has failed to stop the conflict.",
-      "summary_zh": "以色列自同意与黎巴嫩武装团体真主党在战争中停火以来,首次袭击了贝鲁特,对未能停止冲突的协议施加了进一步的压力."
+      "title": "Who is Kumanjayi Little Baby and why has her death caused outrage in Australia?",
+      "title_zh": "Kumanjayi小宝贝是谁,",
+      "link": "https://www.bbc.com/news/videos/czr2n44pknxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T19:03:39+00:00",
+      "summary": "Warning for Aboriginal and Torres Strait Islander viewers: our coverage contains references to and images of someone who has died",
+      "summary_zh": "对土著居民和托雷斯海峡岛民观众的警告:我们的报道中载有死亡者的参考和图像。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I wouldn't pay it' - Trump on USA ticket price",
+      "title_zh": "特朗普的美国票价",
+      "link": "https://www.bbc.com/sport/football/articles/cdxpq70grzlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T18:53:49+00:00",
+      "summary": "The 2026 World Cup will take place in Canada, Mexico and the United States from 11 June to 19 July",
+      "summary_zh": "2026年世界杯足球赛将于6月11日至7月19日在加拿大,墨西哥和美国举行."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "title_zh": "德国部长说,",
+      "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T18:13:11+00:00",
+      "summary": "Germany's finance minister has blamed Donald Trump's \"irresponsible war in Iran\" for a big drop in his country's expected tax revenues.",
+      "summary_zh": "德国财政部长将唐纳德·特朗普的\"伊朗不负责任的战争\"归咎于他的国家预期税收大幅下降."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
+      "title_zh": "联合国卫生机构表示,",
+      "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T17:55:08+00:00",
+      "summary": "An outbreak of hantavirus on board a cruise ship is not the start of a pandemic, the UN health agency has said.",
+      "summary_zh": "联合国卫生机构说,在游轮上爆发汉塔病毒不是流行病的开始。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rwandan singer dies as he was being released from prison",
+      "title_zh": "卢旺达歌手在出狱时死亡",
+      "link": "https://www.bbc.com/news/articles/cevpxn0ddp9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T16:12:50+00:00",
+      "summary": "Rwandan singer Aimable Karasira has died as he was being released from prison in Kigali, according to the Rwanda Correctional Service (RCS).",
+      "summary_zh": "据卢旺达惩教署称,卢旺达歌手Aimable Karasira从基加利出狱时已经死亡。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+      "title_zh": "罗森伯格:没有坦克的俄罗斯胜利日阅兵式 乌克兰战争没有计划",
+      "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T16:00:05+00:00",
+      "summary": "One word dominates Red Square right now: \"Victory\".",
+      "summary_zh": "一个字在现在红广场上占据了主导地位:\"Victory\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Superdry co-founder James Holder jailed for rape",
+      "title_zh": "超强联合创始人 James Holder因强奸入狱",
+      "link": "https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T15:44:25+00:00",
+      "summary": "Superdry co-founder James Holder has been jailed for eight years for raping a woman in a \"despicable piece of sexual violence\".",
+      "summary_zh": "超能联合创始人詹姆斯·霍尔德(James Holder)因在\"令人厌恶的性暴力\"中强奸一名女性而入狱8年."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How worried should we be about hantavirus?",
+      "title_zh": "我们该怎么担心汉塔病毒?",
+      "link": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T15:01:07+00:00",
+      "summary": "The outbreak of hantavirus on a cruise ship carrying passengers from across the world is a situation that authorities say they are taking incredibly seriously.",
+      "summary_zh": "在一艘载有来自世界各地的乘客的游轮上爆发了汉塔病毒,当局说,他们正在极其认真地对待这种情况。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
+      "title_zh": "由于哈马斯解除武装谈判停滞不前,人们担心加沙战争再度爆发",
+      "link": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T14:22:20+00:00",
+      "summary": "Ceasefire talks between Israel and Hamas have stalled, and Gaza risks sliding back into war.",
+      "summary_zh": "以色列和哈马斯之间的停火谈判已经停顿,加沙有可能再次陷入战争。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
+      "title_zh": "被肯尼亚避难所的守护者亲眼看到",
+      "link": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T13:56:34+00:00",
+      "summary": "A baby hippo found desperately nudging its dead mother at a lake in Kenya over the weekend is now being hand-reared at a wildlife sanctuary after being rescued.",
+      "summary_zh": "周末在肯尼亚湖边发现一头海马婴儿,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Africa condemns 'fake videos' of alleged xenophobic attacks",
+      "title_zh": "南非谴责所谓仇外攻击的\"假视频\"。",
+      "link": "https://www.bbc.com/news/articles/cx21g3vl63zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T13:25:14+00:00",
+      "summary": "South Africa's government has condemned the circulation of what it called \"fake videos and images\" that have been described by some as recordings of attacks on foreign nationals in the country.",
+      "summary_zh": "南非政府谴责流传被一些人称为\"假视频和图像\"的被描述为\"国内攻击外国人的录音\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tenerife resident calls docking of hantavirus ship 'reckless'",
+      "title_zh": "特内里费居民呼叫停靠汉塔病毒船",
+      "link": "https://www.bbc.com/news/videos/c4g8pexx029o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T12:37:14+00:00",
+      "summary": "The MV Hondius is sailing towards Spain's Canary Islands where all passengers will be evacuated, after being anchored for three days near Cape Verde.",
+      "summary_zh": "翁迪乌斯号(MV Hondius)正驶向西班牙的加那利群岛,在佛得角附近停靠了三天后,所有乘客将被疏散."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China announces suspended death sentences for former defence ministers",
+      "title_zh": "中国宣布对前国防部长的死刑缓期执行",
+      "link": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T12:24:55+00:00",
+      "summary": "Two former Chinese defence ministers have been handed suspended death sentences on corruption charges, according to state media.",
+      "summary_zh": "据国家媒体报道,两名前中国国防部长因腐败被判处死刑缓期执行。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
+      "title_zh": "观察:乘客在第一次死亡后告诉受病毒袭击的船只“没有传染性”",
+      "link": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T12:24:53+00:00",
+      "summary": "A video filmed by a passenger on board the MV Hondius shows its captain saying that a man who had died there passed away due to \"natural causes\".",
+      "summary_zh": "由MV Hondius上的一名乘客拍摄的一盘视频显示其船长说,一个在那里去世的人因\"自然原因\"而去世."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
+      "title_zh": "PSG冠军联盟胜利后发生的骚乱和127起巴黎党被捕事件",
+      "link": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T12:19:53+00:00",
+      "summary": "France's interior minister has condemned violence that broke out in the Paris region after PSG's Uefa Champions League semi-final victory against Bayern Munich late on Wednesday night.",
+      "summary_zh": "法国的内政部长谴责了在PSG的Uefa冠军联赛半决赛于周三晚间对拜仁慕尼黑后在巴黎地区爆发的暴力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US judge releases Jeffrey Epstein's purported suicide note",
+      "title_zh": "美国法官释放了杰弗里·爱泼斯坦所谓的遗书",
+      "link": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T11:14:59+00:00",
+      "summary": "Warning: this story contains content which some readers might find distressing",
+      "summary_zh": "警告:这个故事包含一些读者可能感到痛苦的内容"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
+      "title_zh": "\"我的心在一百万块\": 维吉尔斯在澳大利亚,据称5岁在Outback被杀",
+      "link": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T10:37:09+00:00",
+      "summary": "Warning for Aboriginal and Torres Strait Islander readers: this article contains references to and images of someone who has died.",
+      "summary_zh": "对土著居民和托雷斯海峡岛民读者的警告:这篇文章载有死亡者的参考和图像。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "DR Congo president hints at extending his term and delaying polls",
+      "title_zh": "DR 刚果总统暗示延长任期,",
+      "link": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T10:06:39+00:00",
+      "summary": "Democratic Republic of Congo's President Félix Tshisekedi has said he may consider seeking a third term in office when his mandate expires in 2028.",
+      "summary_zh": "刚果民主共和国总统费利克斯·齐塞克迪说,他可能考虑在2028年任期结束时争取连任。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US driver arrested after chasing down child on bike on footpath",
+      "title_zh": "美国司机在徒步路上骑自行车追倒孩子后被捕",
+      "link": "https://www.bbc.com/news/videos/c9wep78epz8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T08:13:36+00:00",
+      "summary": "A woman has been arrested after driving towards a boy who was riding his bike in a neighbourhood in the US city of Cheney.",
+      "summary_zh": "一名妇女在美国Cheney市的一个街区开车去撞一个骑自行车的男孩后被逮捕。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Top BJP leader's aide shot dead in violence after Indian state election",
+      "title_zh": "印度国家大选后,",
+      "link": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T08:03:55+00:00",
+      "summary": "The aide to a top leader from Indian Prime Minister Narendra Modi's party has been shot dead in violence that broke out after elections in West Bengal state.",
+      "summary_zh": "印度总理莫迪(Narendra Modi)政党最高领导人的助手被枪杀,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine war 'led me to surrogacy' to earn money but a new law could end those plans",
+      "title_zh": "乌克兰战争迫使我代孕来赚钱 但新的法律可以终结这些计划",
+      "link": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T05:02:12+00:00",
+      "summary": "Karina is six months pregnant, but the foetus inside her womb is not her own.",
+      "summary_zh": "卡琳娜怀孕了六个月,但是她子宫内的胎儿并不是自己的."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+      "title_zh": "Ted Turner,通过推出CNN 来革命电视新闻的媒体摩高勒,于87岁去世",
+      "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T03:20:25+00:00",
+      "summary": "Media mogul Ted Turner, who pioneered the modern 24-hour news culture when he launched the CNN channel, has died at the age of 87, the network has announced.",
+      "summary_zh": "Media mogul Ted Turner在推出CNN频道时开创了现代24小时新闻文化,已去世,享年87岁,网络宣布."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "German tourist wins payout after losing sun lounger race",
+      "title_zh": "德国游客输了日光休息比赛就赢",
+      "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T00:41:21+00:00",
+      "summary": "A German tourist has won a payout of more than €900 (£850) after he was unable to secure a sun lounger due to other guests reserving them with towels.",
+      "summary_zh": "一名德国游客因被其他来宾用毛巾所保留而无法保有日出休息室,因此获得了超过900欧元(850英镑)的赔款."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
+      "title_zh": "在Musk诉Altman案的审判中,无理智的法官开口",
+      "link": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-06T23:52:48+00:00",
+      "summary": "As the world's richest man, with a net worth of over three-quarters of a trillion dollars, Elon Musk's resources and connections often make it easy for him to bend Silicon Valley to his will.",
+      "summary_zh": "作为世界最富有的人,净值超过四分之三的一万亿美元,埃隆·穆斯克的资源和连接经常使得他很容易地把硅谷弯曲成他的意愿."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Key bridge linking North Korea and Russia almost finished, satellite images show",
+      "title_zh": "连接朝鲜和俄罗斯的关键桥梁几乎完工,卫星图像显示",
+      "link": "https://www.bbc.com/news/articles/cwy2e3wwd55o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-06T23:25:24+00:00",
+      "summary": "The first road bridge connecting allies North Korea and Russia is nearing completion, satellite images analysed by BBC Verify show.",
+      "summary_zh": "连接盟国朝鲜与俄罗斯的第一座公路桥已接近完工,"
     },
     {
       "source": "BBC News",
@@ -136,72 +386,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "title_zh": "在接到关于结束伊朗战争交易的报告后,石油价格下跌和股票市场上升",
-      "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T16:11:44+00:00",
-      "summary": "Oil prices have dropped and global stock markets have risen following reports that the US and Iran are close to a deal to end the war.",
-      "summary_zh": "石油价格下跌,全球股票市场上升,因为美国和伊朗已接近结束战争的协议。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-      "title_zh": "Ted Turner,通过推出CNN 来革命电视新闻的媒体摩高勒,于87岁去世",
-      "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T15:46:06+00:00",
-      "summary": "Media mogul Ted Turner, who pioneered the modern 24-hour news culture when he launched the CNN channel, has died at the age of 87, the network has announced.",
-      "summary_zh": "Media mogul Ted Turner在推出CNN频道时开创了现代24小时新闻文化,已去世,享年87岁,网络宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump pauses Hormuz plan 50 hours after he announced it - what happened?",
-      "title_zh": "特朗普宣布霍尔木斯计划50小时后暂停——发生了什么事?.",
-      "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T13:39:09+00:00",
-      "summary": "US President Donald Trump has said the military operation to guide stranded merchant ships through the Strait of Hormuz will be paused just two days after he announced it.",
-      "summary_zh": "美国总统唐纳德·特朗普表示,引导被搁浅的商船通过霍尔木兹海峡的军事行动将在他宣布两天后暂停."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Passengers evacuated from virus-hit cruise ship off Cape Verde",
-      "title_zh": "观察:佛得角境外受病毒袭击的游轮撤离的乘客",
-      "link": "https://www.bbc.com/news/videos/ckgpyn2plx1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T12:48:17+00:00",
-      "summary": "Some passengers have been evacuated from the MV Hondius cruise ship, off Cape Verde.",
-      "summary_zh": "一些乘客已经从佛得角外的\"翁迪乌斯\"号邮轮上撤离."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
-      "title_zh": "被肯尼亚避难所的守护者亲眼看到",
-      "link": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T12:35:15+00:00",
-      "summary": "A baby hippo found desperately nudging its dead mother at a lake in Kenya over the weekend is now being hand-reared at a wildlife sanctuary after being rescued.",
-      "summary_zh": "周末在肯尼亚湖边发现一头海马婴儿,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Massive Alaska megatsunami was second largest ever recorded",
       "title_zh": "大规模阿拉斯加特大海啸是史上第二大",
       "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-06T12:00:25+00:00",
       "summary": "A massive 'megatsunami' wave created when part of an Alaskan mountain crumbled into the sea is the second tallest ever recorded – and a reminder of the risks posed by melting glaciers, say scientists.",
       "summary_zh": "当阿拉斯加山脉部分被撞入大海时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
-      "title_zh": "机器人战争——乌克兰的一次行动告诉我们近期的战场",
-      "link": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T11:59:44+00:00",
-      "summary": "The battlefield in Ukraine could soon feature more robot than human soldiers - that is the startling claim made by a Ukrainian-British military start-up.",
-      "summary_zh": "乌克兰战场很快会比人类士兵更具有机器人特色,"
     },
     {
       "source": "BBC News",
@@ -262,126 +452,6 @@
       "published_at": "2026-05-06T04:53:31+00:00",
       "summary": "\"The road is mined. So, we're stuck here,\" says Ludmilla, over the phone from the rooftop of a fire-damaged house in southern Ukraine. \"People are trying their best to survive.\"",
       "summary_zh": "\"道为所取. Ludmilla说, 我们被困在这里, 在乌克兰南部一座被火灾摧毁的房子的屋顶的电话里。 \"人们都在努力求活\""
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
-      "title_zh": "什么是特朗普在霍尔木兹海峡的\"自由项目\"?.",
-      "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T02:23:36+00:00",
-      "summary": "President Donald Trump has announced a pause to the just-launched US initiative that aimed to help guide ships stranded by Iran's closure of the Strait of Hormuz.",
-      "summary_zh": "总统唐纳德·特朗普(Donald Trump)宣布暂停刚刚启动的美国计划,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "IS families in Syria have booked tickets home to Australia, minister says",
-      "title_zh": "叙利亚的IS家庭订了回澳大利亚的机票,",
-      "link": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T01:47:48+00:00",
-      "summary": "A group of 13 women and children with links to Islamic State (IS) have booked tickets to return home to Australia, the government has said.",
-      "summary_zh": "政府说,与伊斯兰国有联系的13名妇女和儿童已订出返回澳大利亚的机票。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-      "title_zh": "苹果支付95美元 给一些美国iPhone买家 因为AI诉讼",
-      "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T00:15:14+00:00",
-      "summary": "Apple has agreed to pay some iPhone buyers a collective $250m (£184m) to end a lawsuit accusing the company of misleading people about new artificial intelligence (AI) features and capabilities.",
-      "summary_zh": "苹果公司同意向一些iPhone买家支付一笔2.5亿美元(1.84亿英镑)的集体赔款来结束指控该公司误导人们的新人工智能(AI)特征和能力的诉讼."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "India's fiercest female politician faces a fight for survival",
-      "title_zh": "印度最凶猛的女政治家面临生存之争",
-      "link": "https://www.bbc.com/news/articles/c202p14qwr5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T23:27:34+00:00",
-      "summary": "For 15 years, Mamata Banerjee and her regional Trinamool Congress (TMC) party seemed to embody a political law of India's West Bengal state: they always found a way to survive.",
-      "summary_zh": "15年来,马马塔·巴内尔吉(Mamata Banerjee)和她的地区特兰摩尔大会党(TMC)似乎体现了印度西孟加拉邦的一部政治法:他们总是找到生存的方法."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
-      "title_zh": "身穿接班服:金珠爱的服饰告诉我们朝鲜的情况",
-      "link": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T22:44:35+00:00",
-      "summary": "In November 2022, a photo emerged of North Korean leader Kim Jong Un with a smartly-dressed young girl by his side - his daughter Ju Ae.",
-      "summary_zh": "2022年11月,朝鲜领导人金正恩与他身边一个穿得精明的少女——他的女儿朱爱相接相接相接相接而出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
-      "title_zh": "BBC追踪10分钟的以色列轰炸给黎巴嫩带来的破坏",
-      "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T21:22:31+00:00",
-      "summary": "In the southern suburbs of Beirut, the neighbourhood of Hay el Sellom is barely recognisable.",
-      "summary_zh": "在贝鲁特南郊,Hay el Sellom的居民区几乎无法辨认。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-      "title_zh": "在基辅和莫斯科提议的敌对停火之前,俄罗斯的攻击造成20多人死亡",
-      "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T19:23:18+00:00",
-      "summary": "Russian attacks killed more than 20 people across Ukraine on Tuesday ahead of rival unilateral ceasefires proposed separately by Moscow and Kyiv.",
-      "summary_zh": "俄罗斯的攻击星期二在莫斯科和基辅分别提议的敌对单方面停火之前,在乌克兰各地造成20多人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I had to stick to the plan': Officer describes retrieving crocodile with human remains inside",
-      "title_zh": "'我不得不坚持计划': 警官说用人类遗骸取回鳄鱼",
-      "link": "https://www.bbc.com/news/articles/cp8pqz63808o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T17:35:32+00:00",
-      "summary": "A police officer has recalled the moment he was lowered from a helicopter into a crocodile-infested river in South Africa as part of an effort to recover human remains.",
-      "summary_zh": "一名警官回忆说,作为寻找遗骸的努力的一部分,他从直升机跌入南非被鳄鱼淹没的河流。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Romanian PM ousted in no-confidence vote",
-      "title_zh": "罗马尼亚总理以不信任投票方式罢免",
-      "link": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T14:05:11+00:00",
-      "summary": "Romanian MPs have voted to remove Prime Minister Ilie Bolojan in a no-confidence vote in parliament.",
-      "summary_zh": "罗马尼亚议员投票罢免总理伊利·博洛扬在议会中的不信任投票."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-      "title_zh": "Bowen:霍尔木兹海峡对峙增加了滑入全面战争的风险",
-      "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T11:38:03+00:00",
-      "summary": "The ceasefire in the Gulf is four weeks old and showing its age. The US and Iran's determination to keep the pressure on each other has put it in serious jeopardy. This is a dangerous moment.",
-      "summary_zh": "海湾的停火已有四周的历史,并显示出其时代. 美国和伊朗彼此保持压力的决心,使其处于严重危险之中. 这是一个危险的时刻。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Do viruses spread more easily on cruise ships?",
-      "title_zh": "病毒在游轮上传播比较容易吗?",
-      "link": "https://www.bbc.com/news/videos/cdxpn5r2nlgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T06:38:26+00:00",
-      "summary": "Three people have died from a suspected hantavirus outbreak during a cruise in the Atlantic. The BBC's Claire Keenan explains what experts have to say about the infection risks associated with cruise ships, and whether viruses spread more easily on them.",
-      "summary_zh": "大西洋巡航期间,有3人死于疑似汉塔病毒疫情. BBC的\"克莱尔·基南\"(Claire Keenan)解释了专家们对于与游轮相关的感染风险,以及病毒在游轮上传播是否比较容易的说法."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment Indonesian river overflows from heavy rain",
-      "title_zh": "印度尼西亚河流被暴雨所淹没",
-      "link": "https://www.bbc.com/news/videos/ckgpyel2n0eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-05T05:32:28+00:00",
-      "summary": "On 4 May, heavy rain caused the Cipamingkis river to overflow in Bogor, West Java, Indonesia.",
-      "summary_zh": "5月4日,大雨使西帕明基斯河在印度尼西亚西爪哇的博戈尔溢出."
     }
   ]
 }
