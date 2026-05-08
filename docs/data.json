@@ -1,77 +1,337 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-07T23:11:58+00:00",
-  "count": 45,
+  "generated_at": "2026-05-08T23:09:53+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ハンタウイルス 下船した約30人の追跡調査を強化 WHO",
+      "title_zh": "加强对船上约30人的后续调查",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117291000.html",
+      "published_at": "2026-05-08T22:37:23+00:00",
+      "summary": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関はさらなる感染拡大を防ぐために必要だとして、船が先月、※南大西洋のセントヘレナ島に寄港した際に下船したおよそ30人の追跡調…",
+      "summary_zh": "有冠状病毒感染嫌疑的邮轮,WHO =世界卫生组织需要防止感染的进一步扩散,而该船在上个月,当您访问南大西洋圣赫勒拿岛时,船下有30道. ."
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump gives EU ultimatum to approve trade deal with US",
-      "title_zh": "特朗普给欧盟最后通牒 批准与美国的贸易交易",
+      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+      "title_zh": "从五角大楼发布的UFO文件中学到的",
+      "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T22:04:55+00:00",
+      "summary": "The tranche of never-before-seen documents released by the Pentagon on UFOs includes descriptions of reported sightings - by civilians on Earth and by astronauts on the Moon.",
+      "summary_zh": "五角大楼公布的关于UFO的一档从未看过的文件包括了报道的目击——地球上的平民和月球上的宇航员。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NY市場 ナスダック S＆P500株価指数が最高値更新",
+      "title_zh": "NY MarketQQDAQ S&P500 股票指数更新最高",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117311000.html",
+      "published_at": "2026-05-08T21:42:53+00:00",
+      "summary": "8日のニューヨーク株式市場では半導体関連の銘柄を中心に買い注文が広がり、ハイテク株の比率が高いナスダックの株価指数とS＆P500の株価指数が最高値を更新しました。",
+      "summary_zh": "纽约股票市场8日,我们扩大了以半导体相关股票为中心的定购单,并更新了股票价格指数和S&P500的最高价值."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ロシア・ウクライナ 米提案の3日間停戦に合意",
+      "title_zh": "乌克兰、俄罗斯同意停电三天",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117301000.html",
+      "published_at": "2026-05-08T21:31:58+00:00",
+      "summary": "アメリカのトランプ大統領は8日、SNSでロシアとウクライナが5月9日から11日までの3日間、停戦すると発表しました。ロシアとウクライナもアメリカの提案を受け入れるとしていて、実際に停戦が実現するかが焦…",
+      "summary_zh": "特朗普总统宣布,从5月9日至11日,俄罗斯和乌克兰将在SNS上停留三天. 俄罗斯和乌克兰也在美国寻求提案,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
+      "title_zh": "环球赛车 追踪来自汉塔病毒号游轮的乘客",
+      "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T21:02:52+00:00",
+      "summary": "Health authorities across the globe are racing to trace dozens of people who disembarked from a cruise ship before an outbreak of hantavirus was detected, and anyone who has come into close contact with them since.",
+      "summary_zh": "全球各地的卫生当局正在追寻数十名在汉塔病毒爆发被查出之前从游轮上下岸的人,以及此后与他们有密切联系的人。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "磐越道 部活バス事故 運行会社“以前もレンタカーのバス手配”",
+      "title_zh": "班-特苏高速客车事故运营公司\"前期租车安排\"",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
+      "published_at": "2026-05-08T20:56:52+00:00",
+      "summary": "福島県の磐越自動車道で、部活動の遠征でマイクロバスに乗っていた新潟県の高校生など21人が死傷した事故で、バス運行会社が以前にも高校側の依頼で、レンタカーのバスを複数回手配したと説明していることが捜査関…",
+      "summary_zh": "在福岛县岩口高速公路上有21人遇难的事故中,如高中生在俱乐部活动中骑着一辆微型公交车,公交运营商解释说,汽车租赁公交是此前由高中要求多次安排的. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "八代市新庁舎めぐる汚職事件 地元土木会社代表通じやりとりか",
+      "title_zh": "亚约伊市新楼",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117081000.html",
+      "published_at": "2026-05-08T20:04:53+00:00",
+      "summary": "10年前の熊本地震で被災し、建て替えが行われた熊本県八代市の新庁舎の工事をめぐる汚職事件で、あっせん収賄の疑いで市議会議員らとともに逮捕された地元の土木会社の代表が、落札した建設会社に工事の予定や議員…",
+      "summary_zh": "在10年前熊本地震后重建的熊本县亚义市新建建筑的腐败案中,与市议员一起被怀疑为\"せん\"而被捕的地方公司代表. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+      "title_zh": "特朗普说俄罗斯和乌克兰要遵守三天停火",
+      "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T18:59:58+00:00",
+      "summary": "Donald Trump has announced a three-day ceasefire between Russia and Ukraine, after both countries accused each other of violating separate ceasefires declared by each side to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+      "summary_zh": "唐纳德·特朗普宣布了俄罗斯和乌克兰之间为期三天的停火,此前两国都指责对方违反双方分别宣布的涵盖苏联战胜纳粹德国庆典的停火."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Third British national has suspected hantavirus infection, UK government says",
+      "title_zh": "第三英国国民怀疑汉塔病毒感染,",
+      "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T17:57:28+00:00",
+      "summary": "British passengers and crew on the cruise ship hit with an outbreak of hantavirus will be tested before returning to the UK.",
+      "summary_zh": "被汉塔病毒爆发所击中的邮轮上英国乘客和船员将在返回英国之前接受测试."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Greece examines mystery naval drone found in Ionian Sea",
+      "title_zh": "希腊考察了在爱奥尼亚海发现的神秘海军无人机",
+      "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T17:53:25+00:00",
+      "summary": "The Greek military is examining a mysterious unmanned naval drone spotted in the Ionian Sea by local fishermen.",
+      "summary_zh": "希腊军方正在检查当地渔民在爱奥尼亚海发现的一艘神秘的无人驾驶海军无人机."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Return of Palestine Marathon attracts thousands of runners",
+      "title_zh": "巴勒斯坦马拉松的回归吸引了数千名跑者",
+      "link": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T17:23:28+00:00",
+      "summary": "Thousands of people have taken part in the Palestine Marathon and Half Marathon which returned to the West Bank city of Bethlehem after a two-year pause because of restrictions over the Gaza War.",
+      "summary_zh": "数千人参加了巴勒斯坦马拉松和半马拉松,由于对加沙战争的限制,这两个城市在暂停两年后返回了西岸城市伯利恒。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米トランプ大統領 5月14日から中国訪問 習主席と会談へ",
+      "title_zh": "特朗普总统5月14日访问中国,",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117031000.html",
+      "published_at": "2026-05-08T16:57:37+00:00",
+      "summary": "アメリカのトランプ大統領は、今月14日と15日に中国を訪問し、習近平国家主席と首脳会談を行う予定です。両首脳の対面での会談は去年10月以来で、経済・貿易の関係や、台湾をめぐる問題などのほか、イラン情勢…",
+      "summary_zh": "川普总统将于本月14日和15日访问中国,并与中平国主席举行会谈. 自去年10月以来,我们一直在谈论经济和贸易以及围绕台湾的问题。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "title_zh": "伊朗指责美国\"无畏的军事冒险\".",
+      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T16:11:06+00:00",
+      "summary": "Iran's Foreign Minister Abbas Araghchi has accused the US of opting for a \"reckless military adventure\" every time a \"diplomatic solution is on the table\".",
+      "summary_zh": "伊朗外相阿巴斯·阿拉格奇指责美国每次\"外交解决方案已经摆在桌面上\"都选择\"无畏的军事冒险\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "International cyber attack disrupts swathe of universities and schools",
+      "title_zh": "国际网络攻击扰乱了大学和学校",
+      "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T16:04:01+00:00",
+      "summary": "A cyber attack hit several universities and schools in the US, Canada and Australia, causing chaos, confusion and major disruptions amid the high stakes end-of-year season.",
+      "summary_zh": "一场网络攻击袭击了美国,加拿大和澳大利亚的多所大学和学校,在年终赛季中造成了混乱,混乱和重大干扰."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 EU自動車関税率25％への引き上げは7月まで猶予",
+      "title_zh": "特朗普总统欧盟汽车税率 25%宽至7月",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117251000.html",
+      "published_at": "2026-05-08T15:30:22+00:00",
+      "summary": "アメリカのトランプ大統領は、EU＝ヨーロッパ連合から輸入する自動車とトラックに課す関税率を15％から25％に引き上げる方針について、ことし7月まで引き上げを猶予するとの考えを明らかにしました。",
+      "summary_zh": "美国总统特朗普透露了对从欧盟进口的汽车和卡车实行15%至25%关税政策至7月的恩惠思想."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US jet fuel could be used in Europe to ease possible shortages",
+      "title_zh": "在欧洲可以使用美国喷气式燃料来缓解可能的短缺",
+      "link": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T14:42:13+00:00",
+      "summary": "European airlines can use US-grade jet fuel to ease potential shortages caused by the US-Israel war with Iran, the EU and two major international airline bodies have suggested.",
+      "summary_zh": "欧洲航空公司可以使用美国级的喷气式燃料来缓解美以战争同伊朗,欧盟和两大国际航空机构提出的潜在短缺."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Africa president faces call to resign after court ruling",
+      "title_zh": "南非总统在法院裁决后面临辞职的要求",
+      "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T13:35:56+00:00",
+      "summary": "South African opposition leader Julius Malema has called on President Cyril Ramaphosa to resign after the Constitutional Court ruled that parliament had violated the constitution by blocking moves to impeach him in 2022.",
+      "summary_zh": "南非反对派领袖朱利叶斯·马莱马呼吁总统西里尔·拉马福萨辞职,因为宪法法院在2022年裁定议会阻挠弹劾他的行动,违反了宪法."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Huge plumes of ash rise as Indonesia's Mount Dukono erupts",
+      "title_zh": "随着印尼多克诺山的爆发 巨大的火山灰起伏",
+      "link": "https://www.bbc.com/news/videos/c5y7gmmp8pdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T13:15:14+00:00",
+      "summary": "Three hikers - including two foreigners and a local resident - have died after Indonesia's Mount Dukono volcano erupted on Friday.",
+      "summary_zh": "包括两名外国人和一名当地居民在内的三名徒步者在印度尼西亚杜科诺山火山于星期五爆发后死亡。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "title_zh": "印尼岛火山爆发后三人死亡",
+      "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T11:54:14+00:00",
+      "summary": "Three people hiking on Indonesia's Mount Dukono have died after the volcano erupted on Friday morning.",
+      "summary_zh": "三个人在印尼多克诺山上徒步旅行,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
+      "title_zh": "白宫在演员特朗普出道后称马克·哈米尔\"病了\"",
+      "link": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T11:14:17+00:00",
+      "summary": "The White House has called Star Wars actor Mark Hamill \"one sick individual\" after he posted ​an AI-generated image of US President Donald Trump in a ‌shallow grave, alongside the caption \"if only\".",
+      "summary_zh": "白宫将\"星球大战\"演员马克·哈米爾(Mark Hamill)称为\"一个生病的人\",此前他把由AI生成的美国总统唐纳德·特朗普(Donald Trump)的形象贴入了\"QQshallow\"的坟墓中,与标题\"如果只有\"并列."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+      "title_zh": "美国和伊朗在霍尔穆兹海峡交火后油价上涨",
+      "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T08:43:55+00:00",
+      "summary": "Oil prices rose on Friday after the US and Iran exchanged fire in the key Strait of Hormuz waterway.",
+      "summary_zh": "美国和伊朗在霍尔木兹关键海峡水道交火后,油价星期五上涨."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The companies making billions from the Iran war",
+      "title_zh": "公司在伊朗战争中赚了几十亿",
+      "link": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T08:13:07+00:00",
+      "summary": "As households across the globe count the costs of the US-Israel war in Iran, some companies have been counting bumper profits instead.",
+      "summary_zh": "全球各地的家庭数起美以战争在伊朗的代价,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby",
+      "title_zh": "12年后,埃塞俄比亚女人在难得的五分卫中欢快地为孩子努力",
+      "link": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T06:48:20+00:00",
+      "summary": "A woman has given birth to rare quintuplets in Ethiopia's Harari Regional state after 12 years of trying for a baby.",
+      "summary_zh": "在埃塞俄比亚哈拉里州,一名妇女在尝试生育婴儿12年之后,生下了罕见的五胞胎。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
+      "title_zh": "叛逆者威尔逊被控\"彻底修改历史\",",
+      "link": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T06:33:35+00:00",
+      "summary": "Hollywood star Rebel Wilson has been accused of making a \"complete revision of history\" in a defamation case brought against her by a young Australian actress.",
+      "summary_zh": "好莱坞明星\"叛逆威尔逊\"被指在澳大利亚年轻女演员对她提起的诽谤案中作\"完全修正历史\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
+      "title_zh": "两名与伊斯兰国家有联系的澳大利亚妇女被指控犯有危害人类罪",
+      "link": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T05:07:55+00:00",
+      "summary": "Three Australian women with links to the Islamic State (IS) group have been formally charged after returning home from Syria.",
+      "summary_zh": "三名与伊斯兰国团体有联系的澳大利亚妇女在从叙利亚回家后被正式起诉。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "World Cup fans in China and India face broadcast uncertainty",
+      "title_zh": "中国和印度的世界杯球迷面临广播不确定性",
+      "link": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T04:10:45+00:00",
+      "summary": "Millions of football fans in India and China face uncertainty over whether or not the World Cup will be shown in their countries as broadcasters have yet to reach deals with football's governing body, Fifa.",
+      "summary_zh": "印度和中国数以百万计的足球迷面临着世界杯是否会在他们国家展出,因为广播公司尚未与足球管理机构菲法达成交易的不确定性."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
+      "title_zh": "特朗普和卢拉的私人奥瓦尔办公室会议信号挥之不去 - 避免紧张的努力",
+      "link": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T03:45:06+00:00",
+      "summary": "Despite the recent history of tension between Brazil and the United States, Presidents Luiz Inácio Lula da Silva and Donald Trump ended their meeting on Thursday at the White House exchanging public compliments.",
+      "summary_zh": "尽管最近巴西和美国关系紧张的历史,但路易斯·伊纳西奥·卢拉·达席尔瓦总统和唐纳德·特朗普总统还是于星期四在白宫结束会晤并进行公开致意."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US to revoke passports of parents with child support debt",
+      "title_zh": "美国将吊销有子女赡养债务的父母的护照",
+      "link": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T02:57:48+00:00",
+      "summary": "The US State Department has said it will start to revoke the passports of Americans who owe significant amounts of child support.",
+      "summary_zh": "美国国务院表示,它将开始吊销欠大量儿童抚养费的美国人的护照."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I'd rather live in hiding in the US than return to Somalia'",
+      "title_zh": "我宁愿躲在美国 也不愿回到索马里",
+      "link": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T23:54:06+00:00",
+      "summary": "Months after it was announced that the surge of immigration agents in Minnesota was coming to an end, fear still pervades parts of the US state.",
+      "summary_zh": "在明尼苏达州移民官员的激增即将结束的几个月后,恐惧仍然笼罩着美国州部分地区。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
+      "title_zh": "特朗普给欧盟最后通牒期限 批准与美国的贸易交易",
       "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T23:10:48+00:00",
+      "published_at": "2026-05-07T23:11:35+00:00",
       "summary": "President Donald Trump has threatened \"much higher\" tariffs on the European Union (EU) by 4 July if the bloc fails to drop its levies on the US to zero.",
       "summary_zh": "如果该集团未能把对美国征税降至零,那么唐纳德·特朗普总统就威胁说,到7月4日,欧洲联盟(欧盟)将征收“相当高的”关税。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン複数メディア「米軍が船舶を攻撃 停戦合意に違反した」",
-      "title_zh": "伊朗多媒体“美国军队袭击了这艘船并违反了泊位协定”",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116461000.html",
-      "published_at": "2026-05-07T22:51:03+00:00",
-      "summary": "イランの複数のメディアは中央司令部の報道官の話として「アメリカ軍がイラン沿岸からホルムズ海峡に向かっていたイランの石油タンカーやUAEのフジャイラ港の近くで 別の船舶を攻撃し、停戦合意に違反した」など…",
-      "summary_zh": "伊朗的多家媒体袭击了伊朗和阿联酋油轮船厂(Fujaira)附近的另一艘船,“美国军队正从伊朗海岸驶向霍尔姆斯-克哈特并违反了停泊协议”。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ政権の10％関税「違法」と判断 米国際貿易裁判所",
-      "title_zh": "特朗普政府“非法”美国贸易法院10%的关税",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116471000.html",
-      "published_at": "2026-05-07T22:39:04+00:00",
-      "summary": "アメリカの国際貿易裁判所はトランプ政権がことし2月に日本を含む幅広い国や地域を対象に発動した10％の新たな関税措置について7日、違法だとする判断を示しました。",
-      "summary_zh": "美国国际贸易法院裁定特朗普的\"QQ\"对于2月发源于包括日本在内的广泛国家和地区的10%新关税将违法七天."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イラン外務省 米側提案「内容確認」終わりしだい返答 出方焦点",
-      "title_zh": "伊朗外交部\"美国侧面\"提案\"确认\"最后答复.",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116341000.html",
-      "published_at": "2026-05-07T21:45:31+00:00",
-      "summary": "アメリカとイランの戦闘停止に向けた交渉をめぐり、イラン外務省はアメリカからの提案について「内容を確認している」として検討が終わりしだい仲介国のパキスタンに返答を伝えるという考えを改めて示しました。 両…",
-      "summary_zh": "伊朗外务省宣布将继续在调停国向巴基斯坦提供答案,"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "One year after India-Pakistan conflict, ceasefire holds - but little else does",
+      "title_zh": "印度-巴基斯坦冲突一年后,停火得以维持,但除此之外,",
+      "link": "https://www.bbc.com/news/articles/c4g4093dy39o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T22:59:31+00:00",
+      "summary": "A year after the four-day India-Pakistan conflict brought South Asia to the edge of a dangerous escalation, the region has drifted into a brittle and deeply uneasy equilibrium.",
+      "summary_zh": "在为期四天的印度-巴基斯坦冲突使南亚陷入危险升级的边缘一年之后,该地区已陷入了一种脆弱和极度不安的平衡。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
-      "title_zh": "Valverde在Tchouameni一行\"意外地撞到桌子\"时砍了头",
-      "link": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T21:40:26+00:00",
-      "summary": "Real Madrid's two midfielders are facing consequences for their altercation",
-      "summary_zh": "真正的马德里两名中场选手 面对着他们争吵的后果"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "IOC 冬五輪への夏競技の一部移行を見送り",
-      "title_zh": "夏季运动会部分迁移至国际奥委会冬奥会",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116431000.html",
-      "published_at": "2026-05-07T21:23:12+00:00",
-      "summary": "2030年に開かれる次の冬のオリンピックに向けて検討が進められてきた夏の競技の一部移行についてIOC＝国際オリンピック委員会が見送ることになりました。",
-      "summary_zh": "国际奥委会-国际奥委会将发出部分过渡到夏季奥运会,该届奥运会在2030年的下一届冬季奥运会上被考虑."
+      "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
+      "title_zh": "数千名朝鲜人为俄国出战. 死亡的纪念提示",
+      "link": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T22:20:56+00:00",
+      "summary": "About 2,300 North Korean soldiers have died fighting for Russia against Ukraine, according to a BBC investigation based on satellite images and official photos of a new memorial in Pyongyang.",
+      "summary_zh": "根据BBC根据卫星图像和平壤新纪念馆官方照片的调查,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Five killed in huge fire at packed Mexico fairground",
-      "title_zh": "五人在墨西哥广场被大火炸死",
-      "link": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T21:08:35+00:00",
-      "summary": "At least five people have died in a huge blaze at a crowded fairground in south-eastern Mexico, local officials say.",
-      "summary_zh": "当地官员说,在墨西哥东南部一个拥挤的集市上,至少有5人死于大火."
+      "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
+      "title_zh": "抗战抗争在日本震撼,",
+      "link": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T22:15:51+00:00",
+      "summary": "On a Tokyo street corner, in the pouring rain, a swelling crowd gathered with drenched placards and sodden flags. On one of them was written just two words, in big bold Japanese kanji characters: \"No War\".",
+      "summary_zh": "在一栋东京街角,倒起一阵雨来,一团被肿胀的人群聚集了被打得干燥的牌子和索登旗. 其中一出只写了两个字,用大粗体的日本干地人物:\"不战\"."
     },
     {
       "source": "BBC News",
@@ -84,26 +344,6 @@
       "summary_zh": "吴一泽入围TNT台球俱乐部 迎来配得上摇滚明星."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "再審制度見直し 検察不服申し立て原則禁止 本則か付則かで調整",
-      "title_zh": "审查重新评价制度",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116281000.html",
-      "published_at": "2026-05-07T20:26:42+00:00",
-      "summary": "再審制度の見直しをめぐり、政府と自民党は、再審開始の決定に対する検察による不服申し立ての原則禁止を、刑事訴訟法改正案の本則と付則のいずれに記載するか調整することになりました。",
-      "summary_zh": "为了审查撤销制度,政府及其私人当事方决定对废除决定的主要禁止检察官的不当行为是否将在刑法和条例修正案的法律中作出规定。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "磐越道バス事故 運転手“時速90～100キロで走行”と供述",
-      "title_zh": "巴涅苏高速客车事故司机\"跑到90-100公里/小时\".",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116411000.html",
-      "published_at": "2026-05-07T20:01:56+00:00",
-      "summary": "福島県郡山市の磐越自動車道で部活動で遠征中の新潟県の高校生などが死傷したマイクロバス事故で、過失運転致死傷の疑いで逮捕された68歳の運転手が調べに対して「時速90キロから100キロで走行していた」など…",
-      "summary_zh": "这是福岛县高山市发生的一起小客车事故, 被怀疑驾驶失职而被捕的68岁司机从90公里到100公里的行驶时间. ."
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "How operation to disembark passengers on virus-hit cruise will work",
@@ -114,14 +354,14 @@
       "summary_zh": "MV Hondius号受病毒袭击的邮轮定于星期天抵达特内里费,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い",
-      "title_zh": "乘坐豪华游轮客舱和客舱",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116251000.html",
-      "published_at": "2026-05-07T19:33:00+00:00",
-      "summary": "「ハンタウイルス」の集団感染が疑われているクルーズ船をめぐり、死亡した女性と接触した旅客機の客室乗務員が感染の疑いがあるとして検査を受けていることがわかりました。感染が確認されれば、クルーズ船の乗客乗…",
-      "summary_zh": "经证实,与已死亡女子有接触的客机客舱机组检查了被怀疑为\"汉特病毒\"集体感染的游轮. 乘坐游轮的乘客..."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Marco Rubio meets Pope Leo amid tensions with Trump over Iran war",
+      "title_zh": "马可·鲁比奥在与特朗普争夺伊朗战争的紧张气氛中会见教宗利奥",
+      "link": "https://www.bbc.com/news/videos/cq8py99p2jzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T19:06:43+00:00",
+      "summary": "US Secretary of State Marco Rubio met with Pope Leo at the Vatican on Thursday, at a time of increasing tensions following President Donald Trump's repeated attacks on the Catholic leader over the Iran war.",
+      "summary_zh": "美国国务卿马可·鲁比奥星期四在梵蒂冈会见了教宗利奥,此时正值唐纳德·特朗普总统因伊朗战争而一再攻击天主教领袖后紧张局势加剧."
     },
     {
       "source": "BBC News",
@@ -132,36 +372,6 @@
       "published_at": "2026-05-07T19:03:39+00:00",
       "summary": "Warning for Aboriginal and Torres Strait Islander viewers: our coverage contains references to and images of someone who has died",
       "summary_zh": "对土著居民和托雷斯海峡岛民观众的警告:我们的报道中载有死亡者的参考和图像。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I wouldn't pay it' - Trump on USA ticket price",
-      "title_zh": "特朗普的美国票价",
-      "link": "https://www.bbc.com/sport/football/articles/cdxpq70grzlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T18:53:49+00:00",
-      "summary": "The 2026 World Cup will take place in Canada, Mexico and the United States from 11 June to 19 July",
-      "summary_zh": "2026年世界杯足球赛将于6月11日至7月19日在加拿大,墨西哥和美国举行."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-      "title_zh": "德国部长说,",
-      "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T18:13:11+00:00",
-      "summary": "Germany's finance minister has blamed Donald Trump's \"irresponsible war in Iran\" for a big drop in his country's expected tax revenues.",
-      "summary_zh": "德国财政部长将唐纳德·特朗普的\"伊朗不负责任的战争\"归咎于他的国家预期税收大幅下降."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
-      "title_zh": "联合国卫生机构表示,",
-      "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T17:55:08+00:00",
-      "summary": "An outbreak of hantavirus on board a cruise ship is not the start of a pandemic, the UN health agency has said.",
-      "summary_zh": "联合国卫生机构说,在游轮上爆发汉塔病毒不是流行病的开始。"
     },
     {
       "source": "BBC News",
@@ -186,16 +396,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Superdry co-founder James Holder jailed for rape",
-      "title_zh": "超强联合创始人 James Holder因强奸入狱",
-      "link": "https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T15:44:25+00:00",
-      "summary": "Superdry co-founder James Holder has been jailed for eight years for raping a woman in a \"despicable piece of sexual violence\".",
-      "summary_zh": "超能联合创始人詹姆斯·霍尔德(James Holder)因在\"令人厌恶的性暴力\"中强奸一名女性而入狱8年."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "How worried should we be about hantavirus?",
       "title_zh": "我们该怎么担心汉塔病毒?",
       "link": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
@@ -212,26 +412,6 @@
       "published_at": "2026-05-07T14:22:20+00:00",
       "summary": "Ceasefire talks between Israel and Hamas have stalled, and Gaza risks sliding back into war.",
       "summary_zh": "以色列和哈马斯之间的停火谈判已经停顿,加沙有可能再次陷入战争。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
-      "title_zh": "被肯尼亚避难所的守护者亲眼看到",
-      "link": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T13:56:34+00:00",
-      "summary": "A baby hippo found desperately nudging its dead mother at a lake in Kenya over the weekend is now being hand-reared at a wildlife sanctuary after being rescued.",
-      "summary_zh": "周末在肯尼亚湖边发现一头海马婴儿,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "South Africa condemns 'fake videos' of alleged xenophobic attacks",
-      "title_zh": "南非谴责所谓仇外攻击的\"假视频\"。",
-      "link": "https://www.bbc.com/news/articles/cx21g3vl63zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T13:25:14+00:00",
-      "summary": "South Africa's government has condemned the circulation of what it called \"fake videos and images\" that have been described by some as recordings of attacks on foreign nationals in the country.",
-      "summary_zh": "南非政府谴责流传被一些人称为\"假视频和图像\"的被描述为\"国内攻击外国人的录音\"."
     },
     {
       "source": "BBC News",
@@ -256,16 +436,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
-      "title_zh": "观察:乘客在第一次死亡后告诉受病毒袭击的船只“没有传染性”",
-      "link": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T12:24:53+00:00",
-      "summary": "A video filmed by a passenger on board the MV Hondius shows its captain saying that a man who had died there passed away due to \"natural causes\".",
-      "summary_zh": "由MV Hondius上的一名乘客拍摄的一盘视频显示其船长说,一个在那里去世的人因\"自然原因\"而去世."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
       "title_zh": "PSG冠军联盟胜利后发生的骚乱和127起巴黎党被捕事件",
       "link": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
@@ -286,172 +456,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
-      "title_zh": "\"我的心在一百万块\": 维吉尔斯在澳大利亚,据称5岁在Outback被杀",
-      "link": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T10:37:09+00:00",
-      "summary": "Warning for Aboriginal and Torres Strait Islander readers: this article contains references to and images of someone who has died.",
-      "summary_zh": "对土著居民和托雷斯海峡岛民读者的警告:这篇文章载有死亡者的参考和图像。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "DR Congo president hints at extending his term and delaying polls",
-      "title_zh": "DR 刚果总统暗示延长任期,",
-      "link": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T10:06:39+00:00",
-      "summary": "Democratic Republic of Congo's President Félix Tshisekedi has said he may consider seeking a third term in office when his mandate expires in 2028.",
-      "summary_zh": "刚果民主共和国总统费利克斯·齐塞克迪说,他可能考虑在2028年任期结束时争取连任。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US driver arrested after chasing down child on bike on footpath",
-      "title_zh": "美国司机在徒步路上骑自行车追倒孩子后被捕",
-      "link": "https://www.bbc.com/news/videos/c9wep78epz8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T08:13:36+00:00",
-      "summary": "A woman has been arrested after driving towards a boy who was riding his bike in a neighbourhood in the US city of Cheney.",
-      "summary_zh": "一名妇女在美国Cheney市的一个街区开车去撞一个骑自行车的男孩后被逮捕。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Top BJP leader's aide shot dead in violence after Indian state election",
-      "title_zh": "印度国家大选后,",
-      "link": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T08:03:55+00:00",
-      "summary": "The aide to a top leader from Indian Prime Minister Narendra Modi's party has been shot dead in violence that broke out after elections in West Bengal state.",
-      "summary_zh": "印度总理莫迪(Narendra Modi)政党最高领导人的助手被枪杀,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine war 'led me to surrogacy' to earn money but a new law could end those plans",
-      "title_zh": "乌克兰战争迫使我代孕来赚钱 但新的法律可以终结这些计划",
-      "link": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T05:02:12+00:00",
-      "summary": "Karina is six months pregnant, but the foetus inside her womb is not her own.",
-      "summary_zh": "卡琳娜怀孕了六个月,但是她子宫内的胎儿并不是自己的."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-      "title_zh": "Ted Turner,通过推出CNN 来革命电视新闻的媒体摩高勒,于87岁去世",
-      "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T03:20:25+00:00",
-      "summary": "Media mogul Ted Turner, who pioneered the modern 24-hour news culture when he launched the CNN channel, has died at the age of 87, the network has announced.",
-      "summary_zh": "Media mogul Ted Turner在推出CNN频道时开创了现代24小时新闻文化,已去世,享年87岁,网络宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "German tourist wins payout after losing sun lounger race",
       "title_zh": "德国游客输了日光休息比赛就赢",
       "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-07T00:41:21+00:00",
       "summary": "A German tourist has won a payout of more than €900 (£850) after he was unable to secure a sun lounger due to other guests reserving them with towels.",
       "summary_zh": "一名德国游客因被其他来宾用毛巾所保留而无法保有日出休息室,因此获得了超过900欧元(850英镑)的赔款."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
-      "title_zh": "在Musk诉Altman案的审判中,无理智的法官开口",
-      "link": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T23:52:48+00:00",
-      "summary": "As the world's richest man, with a net worth of over three-quarters of a trillion dollars, Elon Musk's resources and connections often make it easy for him to bend Silicon Valley to his will.",
-      "summary_zh": "作为世界最富有的人,净值超过四分之三的一万亿美元,埃隆·穆斯克的资源和连接经常使得他很容易地把硅谷弯曲成他的意愿."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Key bridge linking North Korea and Russia almost finished, satellite images show",
-      "title_zh": "连接朝鲜和俄罗斯的关键桥梁几乎完工,卫星图像显示",
-      "link": "https://www.bbc.com/news/articles/cwy2e3wwd55o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T23:25:24+00:00",
-      "summary": "The first road bridge connecting allies North Korea and Russia is nearing completion, satellite images analysed by BBC Verify show.",
-      "summary_zh": "连接盟国朝鲜与俄罗斯的第一座公路桥已接近完工,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump's hopes for an Iran peace deal come with caveats",
-      "title_zh": "特朗普对伊朗和约的希望有预告",
-      "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T17:32:04+00:00",
-      "summary": "Donald Trump's pause on a short-lived \"Project Freedom\" to guide ships through the Strait of Hormuz, as he claimed progress had been made towards clinching a \"Complete and Final Agreement\" with Iran, soothed oil markets and sent hopes soaring of a breakthrough.",
-      "summary_zh": "唐纳德·特朗普暂停了短暂的\"自由项目\"来引导船只穿越霍尔木兹海峡,因为他声称在与伊朗达成\"完成和最终协议\"方面取得了进展,安抚了石油市场并给人们带来了突破的希望."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Massive Alaska megatsunami was second largest ever recorded",
-      "title_zh": "大规模阿拉斯加特大海啸是史上第二大",
-      "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T12:00:25+00:00",
-      "summary": "A massive 'megatsunami' wave created when part of an Alaskan mountain crumbled into the sea is the second tallest ever recorded – and a reminder of the risks posed by melting glaciers, say scientists.",
-      "summary_zh": "当阿拉斯加山脉部分被撞入大海时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-      "title_zh": "俄罗斯无视乌克兰单方面停火和袭击幼儿园",
-      "link": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T11:53:20+00:00",
-      "summary": "Volodymyr Zelensky has accused Russia of breaching a unilateral ceasefire announced by Ukraine by launching a wave of drone attacks on several cities.",
-      "summary_zh": "沃洛德米尔·泽连斯基指责俄罗斯违反乌克兰单方面宣布的停火,对多座城市发动了无人机袭击."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "German police raid neo-Nazi criminal youth groups",
-      "title_zh": "德国警察突袭了新纳粹犯罪青年团体",
-      "link": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T11:34:56+00:00",
-      "summary": "Police have raided around 50 homes and other locations, targeting people suspected of involvement in far-right criminal youth groups that have recently emerged in Germany.",
-      "summary_zh": "警方袭击了大约50所住宅和其他地点,目标是涉嫌参与德国最近出现的极右犯罪青年团体的人。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
-      "title_zh": "Vivek Ramaswamy赢得共和党俄亥俄州州长提名",
-      "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T11:04:06+00:00",
-      "summary": "Vivek Ramaswamy will run for the position of Ohio governor in November, after the staunch ally of US President Donald Trump emerged victorious in one of a series of primary contests held in the US Midwest.",
-      "summary_zh": "美国总统特朗普的坚定盟友在美国中西部举行的一系列主要比赛中获胜后,维维克·拉马斯瓦米将在11月竞选俄亥俄州州长。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "title_zh": "中国呼吁在伊朗会谈中“尽快”重新开放海峡。",
-      "link": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T09:35:39+00:00",
-      "summary": "Chinese foreign minister Wang Yi has called for the Strait of Hormuz to be reopened \"as soon as possible\" in talks with his Iranian counterpart.",
-      "summary_zh": "中国外相王毅在与伊朗同行的会谈中呼吁\"尽快\"重开霍尔木兹海峡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: The Lebanese neighbourhoods shattered by Israel's ten minute bombing raid",
-      "title_zh": "观察:黎巴嫩街区被以色列十分钟的轰炸袭击所粉碎",
-      "link": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T06:39:27+00:00",
-      "summary": "At 14:15 local time on 8 April 2026, Israel launched a massive wave of strikes against Lebanon - just hours after US President Donald Trump announced a ceasefire between the US, Israel and Iran to pause fighting in the Gulf region.",
-      "summary_zh": "当地时间2026年4月8日14:15,以色列向黎巴嫩发动了一波大规模出击-就在美国总统唐纳德·特朗普宣布美国,以色列和伊朗停火以暂停海湾地区的战斗后数小时."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-      "title_zh": "留下或冒着死亡之道的风险 - 乌克兰平民被困在前线城市",
-      "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-06T04:53:31+00:00",
-      "summary": "\"The road is mined. So, we're stuck here,\" says Ludmilla, over the phone from the rooftop of a fire-damaged house in southern Ukraine. \"People are trying their best to survive.\"",
-      "summary_zh": "\"道为所取. Ludmilla说, 我们被困在这里, 在乌克兰南部一座被火灾摧毁的房子的屋顶的电话里。 \"人们都在努力求活\""
     }
   ]
 }
