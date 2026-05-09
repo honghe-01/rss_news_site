@@ -1,17 +1,257 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-08T23:09:53+00:00",
-  "count": 46,
+  "generated_at": "2026-05-09T23:03:50+00:00",
+  "count": 44,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ハンタウイルス 下船した約30人の追跡調査を強化 WHO",
-      "title_zh": "加强对船上约30人的后续调查",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117291000.html",
-      "published_at": "2026-05-08T22:37:23+00:00",
-      "summary": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関はさらなる感染拡大を防ぐために必要だとして、船が先月、※南大西洋のセントヘレナ島に寄港した際に下船したおよそ30人の追跡調…",
-      "summary_zh": "有冠状病毒感染嫌疑的邮轮,WHO =世界卫生组织需要防止感染的进一步扩散,而该船在上个月,当您访问南大西洋圣赫勒拿岛时,船下有30道. ."
+      "title": "トランプ氏 従来の発言繰り返し イランとの協議は先行き不透明",
+      "title_zh": "特朗普的常规言论 伊朗的协商不透明",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html",
+      "published_at": "2026-05-09T22:59:39+00:00",
+      "summary": "アメリカとイランの戦闘終結に向けた協議をめぐり、アメリカのトランプ大統領は9日、「イランは依然として合意を結びたいと強く望んでいる。まもなくわかるだろう」と述べ、これまでと同様の発言を繰り返した形です…",
+      "summary_zh": "9日,特朗普总统希望继续与美国和伊朗达成协议. 这种形式反复重复了同前的演说,说道:\"我很快会明白......"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ハンタウイルス クルーズ船 到着へ 乗員・乗客が下船の見通し",
+      "title_zh": "托塔病毒巡洋舰抵达旅客",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117661000.html",
+      "published_at": "2026-05-09T22:48:50+00:00",
+      "summary": "ハンタウイルスの集団感染が疑われているクルーズ船はスペイン領カナリア諸島のテネリフェ島に現地時間の10日朝に到着し、乗員と乗客が下船する見通しで、現地では感染対策などの準備が進められています。一方、島…",
+      "summary_zh": "一艘疑似冠状病毒群感染的邮轮于当地时间10天上午抵达西班牙特内里费,预计船员和乘客会下船,并正在现场准备感染计数器等准备. 岛屿"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+      "title_zh": "世卫组织负责人在受病毒袭击的游轮抵达之前,让特内里费居民放心",
+      "link": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T21:37:03+00:00",
+      "summary": "The head of the World Health Organization (WHO) has sought to reassure residents of Tenerife that their risk of infection is low ahead of the arrival of a cruise ship on which an outbreak of hantavirus occurred.",
+      "summary_zh": "世界卫生组织(卫生组织)负责人力求向特内里费的居民保证,在汉塔病毒爆发的游轮抵达之前,他们的感染风险较低。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "title_zh": "黎巴嫩说,以色列击毙39人",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T21:23:14+00:00",
+      "summary": "Thirty-nine people have been killed in another day of intense Israeli strikes in Lebanon, the country's health ministry said.",
+      "summary_zh": "以色列卫生部说,在另一天以色列在黎巴嫩的猛烈袭击中,有39人被炸死。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ガザ停戦7か月も現地は衛生状況が悪化 皮膚疾患が急増",
+      "title_zh": "卫生状况甚至恶化了7个月的加沙战争",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117641000.html",
+      "published_at": "2026-05-09T21:20:34+00:00",
+      "summary": "停戦合意から7か月となるパレスチナのガザ地区では衛生状況が悪化し、住民の間で皮膚の疾患が急増していて、支援にあたる国連機関は住民の健康を守るためにも復興を急ぐべきだと訴えました。",
+      "summary_zh": "在距《年龄协定》已七个月的加沙地区,卫生状况已经恶化,居民的皮肤病已经增加,支持支助的联合国组织应该迅速进行重建,以保护居民的健康。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米提案の停戦 ロシアとウクライナ双方攻撃で実現困難か",
+      "title_zh": "在俄罗斯和乌克兰的修行",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117671000.html",
+      "published_at": "2026-05-09T20:52:43+00:00",
+      "summary": "ロシアとウクライナは、アメリカのトランプ大統領が提案した9日からの3日間の停戦を受け入れる方針を示しましたが、双方が互いに停戦を守っていないと発表し、停戦を実現することの難しさを示す形となっています。…",
+      "summary_zh": "俄罗斯和乌克兰在美国展现出由特朗普总统提出的为期三天的QQ政策,但两人都宣布不互相辩护,并表现出实现QQ的难度. . . . . . . ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "新型コロナワクチン副反応の心筋炎 マウス実験で再現 筑波大",
+      "title_zh": "由鼠标实验生成的新冠亚反应心肌炎",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117481000.html",
+      "published_at": "2026-05-09T20:09:10+00:00",
+      "summary": "新型コロナのワクチンの副反応として、ごくまれに心筋炎が起きることが知られていますが、筑波大学の研究グループは心臓の細胞の機能が低下した状態で接種を受けると、こうした心筋炎が起きやすいことをマウスの実験…",
+      "summary_zh": "作为新型子宫外阴的分反应,已知心脏发作很少发生,但筑波大学的研究小组进行接种,心细胞数量减少. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "インドとパキスタン 停戦合意から1年 対抗措置継続で緊張続く",
+      "title_zh": "印度和巴基斯坦 离泊位协议一年",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117501000.html",
+      "published_at": "2026-05-09T20:05:35+00:00",
+      "summary": "去年、インドとパキスタンの間で武力衝突が起き、その後、停戦に合意してから1年となりますが、両国は対抗措置を続けるなど強硬姿勢を崩しておらず、緊張が続いています。",
+      "summary_zh": "去年,印度和巴基斯坦之间发生了武士相撞事件。 之后,在同意停泊一年后,两国会继续反腐等."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mexican parents criticise ending school year a month early for World Cup",
+      "title_zh": "墨西哥家长批评提前一个月结束世界杯的学年",
+      "link": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T19:40:55+00:00",
+      "summary": "Parents in Mexico have criticised a plan to end the school year a month early so the country can accomodate increased travel during the Fifa World Cup this summer.",
+      "summary_zh": "墨西哥的父母批评了一个提前一个月结束学年的计划,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran demands guarantees for World Cup participation",
+      "title_zh": "伊朗要求保证参加世界杯",
+      "link": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T18:44:01+00:00",
+      "summary": "Iran has indicated it will take part in this summer's football World Cup, but has demanded a series of guarantees from Fifa and the tournament's hosts amid growing tensions surrounding the team's participation.",
+      "summary_zh": "伊朗表示将参加今年夏季的足球世界杯,但在球队参赛形势日益紧张的情况下,要求菲法和联赛东道主提供一系列保证."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Greece conducts controlled blast of mystery naval drone explosives",
+      "title_zh": "希腊对神秘的海军无人机炸药进行有控爆炸",
+      "link": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T18:00:46+00:00",
+      "summary": "Greek authorities have rendered safe a naval drone carrying explosives after it was discovered in the Ionian Sea by fishermen.",
+      "summary_zh": "希腊当局在渔民在爱奥尼亚海发现一艘载有爆炸物的海军无人机后,将其安全放行。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Person killed after being hit by plane on runway at Denver airport",
+      "title_zh": "丹佛机场跑道上被飞机撞死",
+      "link": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T17:28:59+00:00",
+      "summary": "Air traffic control audio captured the moments after a Frontier Airlines plane fatally struck a person who had jumped a perimeter fence on to a runway at Denver International Airport on Friday night.",
+      "summary_zh": "空中交通管制音频记录了一架边境航空飞机于星期五晚上在丹佛国际机场跑道上跳出围栅的人被致命地击中的那一刻。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
+      "title_zh": "史蒂夫·罗森伯格:今年莫斯科的胜利日游行感觉非常不同",
+      "link": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T17:25:53+00:00",
+      "summary": "I've attended many Victory Day parades on Red Square.",
+      "summary_zh": "我参加了许多在红广场上举行的胜利日游行."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "小説家の鈴木光司さん死去 68歳 「リング」「らせん」など",
+      "title_zh": "小说家铃木克治逝世,享年68岁\"Ring\"\"QQ\"等.",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117631000.html",
+      "published_at": "2026-05-09T16:45:54+00:00",
+      "summary": "「リング」や「らせん」など、人気ホラー小説の数々で知られる小説家の鈴木光司さんが8日、亡くなりました。68歳でした。",
+      "summary_zh": "小说家铃木浩二以\"环\"和\"赫林\"等多部流行恐怖小说出名,于8日去世. 68岁"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "I will serve - not rule over Hungary, says new PM",
+      "title_zh": "我会为匈牙利效劳,",
+      "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T15:12:04+00:00",
+      "summary": "Hungary's new prime minister, Péter Magyar, has been sworn in, almost a month after he steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "summary_zh": "匈牙利新任总理佩特尔·马吉亚尔宣誓就职,在他带领他的蒂萨党取得滑坡胜利近一个月后,横扫了维克多·奥尔班长达16年的统治."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "title_zh": "澳大利亚右翼的\"一民族\"党获得历史性的议会胜利",
+      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T14:36:21+00:00",
+      "summary": "Australia's One Nation party has won its first-ever lower-house seat in what is being seen as an important test for the right-wing populist party.",
+      "summary_zh": "澳大利亚\"一民族\"党在被看成是右翼民粹主义政党的重要考验中获得了有史以来第一个下议院席位."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "title_zh": "HMS Dragon号英国军舰前往中东执行可能执行的霍尔木兹海峡任务",
+      "link": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T14:03:11+00:00",
+      "summary": "The Royal Navy is sending a warship to the Middle East where it could join an international mission to safeguard shipping in the Strait of Hormuz.",
+      "summary_zh": "英国皇家海军正向中东派遣一艘军舰,在那里,它可以加入一个国际使命,保障霍尔木兹海峡的航运."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Putin denounces Nato at scaled-back Victory Day parade",
+      "title_zh": "普京在胜利日游行中谴责纳托",
+      "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T12:18:58+00:00",
+      "summary": "Vladimir Putin has used his annual Victory Day speech in Moscow's Red Square to justify his war in Ukraine and denounce Nato.",
+      "summary_zh": "弗拉基米尔·普京利用他每年在莫斯科红广场上发表的胜利日演说来为其乌克兰战争辩护并谴责纳托."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
+      "title_zh": "罗森伯格:莫斯科红广场上规模化后卫胜利游行",
+      "link": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T12:12:50+00:00",
+      "summary": "With fewer guests, fewer reporters, and no military hardware on display, Moscow's Victory Day parade was a much quieter affair than usual on Saturday.",
+      "summary_zh": "莫斯科的胜利节阅兵比平常更安静。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japanese council votes to remove unconscious mayor",
+      "title_zh": "日本议会投票罢免无意识的市长",
+      "link": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T12:12:19+00:00",
+      "summary": "A council in Japan has voted to remove its mayor who has been unconscious for several months.",
+      "summary_zh": "日本一个议会投票罢免了几个月来一直昏迷的市长."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "title_zh": "伊朗指责美国\"无畏的军事冒险\".",
+      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T06:13:30+00:00",
+      "summary": "Iran's Foreign Minister Abbas Araghchi has accused the US of opting for a \"reckless military adventure\" every time a \"diplomatic solution is on the table\".",
+      "summary_zh": "伊朗外相阿巴斯·阿拉格奇指责美国每次\"外交解决方案已经摆在桌面上\"都选择\"无畏的军事冒险\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "International cyber attack disrupts swathe of universities and schools",
+      "title_zh": "国际网络攻击扰乱了大学和学校",
+      "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T01:17:55+00:00",
+      "summary": "A cyber attack hit several universities and schools in the US, Canada and Australia, causing chaos, confusion and major disruptions amid the high stakes end-of-year season.",
+      "summary_zh": "一场网络攻击袭击了美国,加拿大和澳大利亚的多所大学和学校,在年终赛季中造成了混乱,混乱和重大干扰."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "From trusted aide to biggest rival: Suvendu Adhikari becomes West Bengal chief minister",
+      "title_zh": "从信任的助手到最大的对手:苏文都·阿迪卡里出任西孟加拉邦首席部长.",
+      "link": "https://www.bbc.com/news/articles/cwy2gp1wewjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T23:47:39+00:00",
+      "summary": "An Indian politician once considered a protégé of a long-serving chief minister of West Bengal state has replaced her.",
+      "summary_zh": "一位印度政治家曾被视作西孟加拉邦一位长期任职的首席部长的亲信而取代她."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anti-work anthems, Boy George and controversial lyrics: A guide to all 35 Eurovision songs",
+      "title_zh": "反工歌 Boy George和有争议歌词:所有35首欧视歌曲的指南",
+      "link": "https://www.bbc.com/news/articles/ce8pmrv2p1mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T23:01:55+00:00",
+      "summary": "Like a ray of sunshine on a cloudy day, the 2026 Eurovision Song Contest has arrived to dispel the gloom of a weary world.",
+      "summary_zh": "2026年欧洲影视歌唱大赛的到来,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Move over matcha. Hojicha is coming to a cafe near you",
+      "title_zh": "移动米卡。 霍吉查要来你附近的咖啡馆",
+      "link": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T23:01:44+00:00",
+      "summary": "Browsing through the menu in a London cafe, Ana Costa wasn't sure what drink she was in the mood for. She didn't fancy a coffee and was considering a matcha latte, when hojicha caught her eye.",
+      "summary_zh": "在一家伦敦咖啡馆浏览菜单时,安娜·科斯塔(Ana Costa)不知道她心情如何饮用. 她不想要一杯咖啡 并且正在考虑一个火柴拿铁, 当Hojicha吸引了她的眼睛。"
     },
     {
       "source": "BBC News",
@@ -24,26 +264,6 @@
       "summary_zh": "五角大楼公布的关于UFO的一档从未看过的文件包括了报道的目击——地球上的平民和月球上的宇航员。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NY市場 ナスダック S＆P500株価指数が最高値更新",
-      "title_zh": "NY MarketQQDAQ S&P500 股票指数更新最高",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117311000.html",
-      "published_at": "2026-05-08T21:42:53+00:00",
-      "summary": "8日のニューヨーク株式市場では半導体関連の銘柄を中心に買い注文が広がり、ハイテク株の比率が高いナスダックの株価指数とS＆P500の株価指数が最高値を更新しました。",
-      "summary_zh": "纽约股票市场8日,我们扩大了以半导体相关股票为中心的定购单,并更新了股票价格指数和S&P500的最高价值."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ロシア・ウクライナ 米提案の3日間停戦に合意",
-      "title_zh": "乌克兰、俄罗斯同意停电三天",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117301000.html",
-      "published_at": "2026-05-08T21:31:58+00:00",
-      "summary": "アメリカのトランプ大統領は8日、SNSでロシアとウクライナが5月9日から11日までの3日間、停戦すると発表しました。ロシアとウクライナもアメリカの提案を受け入れるとしていて、実際に停戦が実現するかが焦…",
-      "summary_zh": "特朗普总统宣布,从5月9日至11日,俄罗斯和乌克兰将在SNS上停留三天. 俄罗斯和乌克兰也在美国寻求提案,"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
@@ -54,44 +274,14 @@
       "summary_zh": "全球各地的卫生当局正在追寻数十名在汉塔病毒爆发被查出之前从游轮上下岸的人,以及此后与他们有密切联系的人。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "磐越道 部活バス事故 運行会社“以前もレンタカーのバス手配”",
-      "title_zh": "班-特苏高速客车事故运营公司\"前期租车安排\"",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
-      "published_at": "2026-05-08T20:56:52+00:00",
-      "summary": "福島県の磐越自動車道で、部活動の遠征でマイクロバスに乗っていた新潟県の高校生など21人が死傷した事故で、バス運行会社が以前にも高校側の依頼で、レンタカーのバスを複数回手配したと説明していることが捜査関…",
-      "summary_zh": "在福岛县岩口高速公路上有21人遇难的事故中,如高中生在俱乐部活动中骑着一辆微型公交车,公交运营商解释说,汽车租赁公交是此前由高中要求多次安排的. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "八代市新庁舎めぐる汚職事件 地元土木会社代表通じやりとりか",
-      "title_zh": "亚约伊市新楼",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117081000.html",
-      "published_at": "2026-05-08T20:04:53+00:00",
-      "summary": "10年前の熊本地震で被災し、建て替えが行われた熊本県八代市の新庁舎の工事をめぐる汚職事件で、あっせん収賄の疑いで市議会議員らとともに逮捕された地元の土木会社の代表が、落札した建設会社に工事の予定や議員…",
-      "summary_zh": "在10年前熊本地震后重建的熊本县亚义市新建建筑的腐败案中,与市议员一起被怀疑为\"せん\"而被捕的地方公司代表. ."
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
-      "title_zh": "特朗普说俄罗斯和乌克兰要遵守三天停火",
-      "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T18:59:58+00:00",
-      "summary": "Donald Trump has announced a three-day ceasefire between Russia and Ukraine, after both countries accused each other of violating separate ceasefires declared by each side to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
-      "summary_zh": "唐纳德·特朗普宣布了俄罗斯和乌克兰之间为期三天的停火,此前两国都指责对方违反双方分别宣布的涵盖苏联战胜纳粹德国庆典的停火."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Third British national has suspected hantavirus infection, UK government says",
-      "title_zh": "第三英国国民怀疑汉塔病毒感染,",
-      "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T17:57:28+00:00",
-      "summary": "British passengers and crew on the cruise ship hit with an outbreak of hantavirus will be tested before returning to the UK.",
-      "summary_zh": "被汉塔病毒爆发所击中的邮轮上英国乘客和船员将在返回英国之前接受测试."
+      "title": "Return of IS-linked families sparks debate in terror-traumatised Australia",
+      "title_zh": "与IS有联系的家庭的返回在遭受恐怖创伤的澳大利亚引发了辩论",
+      "link": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T19:21:12+00:00",
+      "summary": "After years spent detained in Syria, the freedom of the Islamic State group-linked families who landed back in their homeland of Australia this week was dramatically short lived.",
+      "summary_zh": "在叙利亚被关押多年后,本周登陆澳大利亚家园的与伊斯兰国集团有联系的家庭的自由生活极为短暂。"
     },
     {
       "source": "BBC News",
@@ -114,46 +304,6 @@
       "summary_zh": "数千人参加了巴勒斯坦马拉松和半马拉松,由于对加沙战争的限制,这两个城市在暂停两年后返回了西岸城市伯利恒。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米トランプ大統領 5月14日から中国訪問 習主席と会談へ",
-      "title_zh": "特朗普总统5月14日访问中国,",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117031000.html",
-      "published_at": "2026-05-08T16:57:37+00:00",
-      "summary": "アメリカのトランプ大統領は、今月14日と15日に中国を訪問し、習近平国家主席と首脳会談を行う予定です。両首脳の対面での会談は去年10月以来で、経済・貿易の関係や、台湾をめぐる問題などのほか、イラン情勢…",
-      "summary_zh": "川普总统将于本月14日和15日访问中国,并与中平国主席举行会谈. 自去年10月以来,我们一直在谈论经济和贸易以及围绕台湾的问题。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "title_zh": "伊朗指责美国\"无畏的军事冒险\".",
-      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T16:11:06+00:00",
-      "summary": "Iran's Foreign Minister Abbas Araghchi has accused the US of opting for a \"reckless military adventure\" every time a \"diplomatic solution is on the table\".",
-      "summary_zh": "伊朗外相阿巴斯·阿拉格奇指责美国每次\"外交解决方案已经摆在桌面上\"都选择\"无畏的军事冒险\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "title_zh": "国际网络攻击扰乱了大学和学校",
-      "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T16:04:01+00:00",
-      "summary": "A cyber attack hit several universities and schools in the US, Canada and Australia, causing chaos, confusion and major disruptions amid the high stakes end-of-year season.",
-      "summary_zh": "一场网络攻击袭击了美国,加拿大和澳大利亚的多所大学和学校,在年终赛季中造成了混乱,混乱和重大干扰."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 EU自動車関税率25％への引き上げは7月まで猶予",
-      "title_zh": "特朗普总统欧盟汽车税率 25%宽至7月",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117251000.html",
-      "published_at": "2026-05-08T15:30:22+00:00",
-      "summary": "アメリカのトランプ大統領は、EU＝ヨーロッパ連合から輸入する自動車とトラックに課す関税率を15％から25％に引き上げる方針について、ことし7月まで引き上げを猶予するとの考えを明らかにしました。",
-      "summary_zh": "美国总统特朗普透露了对从欧盟进口的汽车和卡车实行15%至25%关税政策至7月的恩惠思想."
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "US jet fuel could be used in Europe to ease possible shortages",
@@ -170,8 +320,8 @@
       "title_zh": "南非总统在法院裁决后面临辞职的要求",
       "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-08T13:35:56+00:00",
-      "summary": "South African opposition leader Julius Malema has called on President Cyril Ramaphosa to resign after the Constitutional Court ruled that parliament had violated the constitution by blocking moves to impeach him in 2022.",
-      "summary_zh": "南非反对派领袖朱利叶斯·马莱马呼吁总统西里尔·拉马福萨辞职,因为宪法法院在2022年裁定议会阻挠弹劾他的行动,违反了宪法."
+      "summary": "Leading South African opposition figure Julius Malema has called on President Cyril Ramaphosa to resign after the Constitutional Court ruled parliament had violated the constitution by blocking moves to impeach him in 2022.",
+      "summary_zh": "南非反对党领袖Julius Malema呼吁总统拉马福萨辞职,"
     },
     {
       "source": "BBC News",
@@ -226,16 +376,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby",
-      "title_zh": "12年后,埃塞俄比亚女人在难得的五分卫中欢快地为孩子努力",
-      "link": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T06:48:20+00:00",
-      "summary": "A woman has given birth to rare quintuplets in Ethiopia's Harari Regional state after 12 years of trying for a baby.",
-      "summary_zh": "在埃塞俄比亚哈拉里州,一名妇女在尝试生育婴儿12年之后,生下了罕见的五胞胎。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
       "title_zh": "叛逆者威尔逊被控\"彻底修改历史\",",
       "link": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
@@ -246,92 +386,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
-      "title_zh": "两名与伊斯兰国家有联系的澳大利亚妇女被指控犯有危害人类罪",
-      "link": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T05:07:55+00:00",
-      "summary": "Three Australian women with links to the Islamic State (IS) group have been formally charged after returning home from Syria.",
-      "summary_zh": "三名与伊斯兰国团体有联系的澳大利亚妇女在从叙利亚回家后被正式起诉。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "World Cup fans in China and India face broadcast uncertainty",
-      "title_zh": "中国和印度的世界杯球迷面临广播不确定性",
-      "link": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T04:10:45+00:00",
-      "summary": "Millions of football fans in India and China face uncertainty over whether or not the World Cup will be shown in their countries as broadcasters have yet to reach deals with football's governing body, Fifa.",
-      "summary_zh": "印度和中国数以百万计的足球迷面临着世界杯是否会在他们国家展出,因为广播公司尚未与足球管理机构菲法达成交易的不确定性."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
       "title_zh": "特朗普和卢拉的私人奥瓦尔办公室会议信号挥之不去 - 避免紧张的努力",
       "link": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-08T03:45:06+00:00",
       "summary": "Despite the recent history of tension between Brazil and the United States, Presidents Luiz Inácio Lula da Silva and Donald Trump ended their meeting on Thursday at the White House exchanging public compliments.",
       "summary_zh": "尽管最近巴西和美国关系紧张的历史,但路易斯·伊纳西奥·卢拉·达席尔瓦总统和唐纳德·特朗普总统还是于星期四在白宫结束会晤并进行公开致意."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US to revoke passports of parents with child support debt",
-      "title_zh": "美国将吊销有子女赡养债务的父母的护照",
-      "link": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T02:57:48+00:00",
-      "summary": "The US State Department has said it will start to revoke the passports of Americans who owe significant amounts of child support.",
-      "summary_zh": "美国国务院表示,它将开始吊销欠大量儿童抚养费的美国人的护照."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I'd rather live in hiding in the US than return to Somalia'",
-      "title_zh": "我宁愿躲在美国 也不愿回到索马里",
-      "link": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T23:54:06+00:00",
-      "summary": "Months after it was announced that the surge of immigration agents in Minnesota was coming to an end, fear still pervades parts of the US state.",
-      "summary_zh": "在明尼苏达州移民官员的激增即将结束的几个月后,恐惧仍然笼罩着美国州部分地区。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
-      "title_zh": "特朗普给欧盟最后通牒期限 批准与美国的贸易交易",
-      "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T23:11:35+00:00",
-      "summary": "President Donald Trump has threatened \"much higher\" tariffs on the European Union (EU) by 4 July if the bloc fails to drop its levies on the US to zero.",
-      "summary_zh": "如果该集团未能把对美国征税降至零,那么唐纳德·特朗普总统就威胁说,到7月4日,欧洲联盟(欧盟)将征收“相当高的”关税。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "One year after India-Pakistan conflict, ceasefire holds - but little else does",
-      "title_zh": "印度-巴基斯坦冲突一年后,停火得以维持,但除此之外,",
-      "link": "https://www.bbc.com/news/articles/c4g4093dy39o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T22:59:31+00:00",
-      "summary": "A year after the four-day India-Pakistan conflict brought South Asia to the edge of a dangerous escalation, the region has drifted into a brittle and deeply uneasy equilibrium.",
-      "summary_zh": "在为期四天的印度-巴基斯坦冲突使南亚陷入危险升级的边缘一年之后,该地区已陷入了一种脆弱和极度不安的平衡。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
-      "title_zh": "数千名朝鲜人为俄国出战. 死亡的纪念提示",
-      "link": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T22:20:56+00:00",
-      "summary": "About 2,300 North Korean soldiers have died fighting for Russia against Ukraine, according to a BBC investigation based on satellite images and official photos of a new memorial in Pyongyang.",
-      "summary_zh": "根据BBC根据卫星图像和平壤新纪念馆官方照片的调查,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
-      "title_zh": "抗战抗争在日本震撼,",
-      "link": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T22:15:51+00:00",
-      "summary": "On a Tokyo street corner, in the pouring rain, a swelling crowd gathered with drenched placards and sodden flags. On one of them was written just two words, in big bold Japanese kanji characters: \"No War\".",
-      "summary_zh": "在一栋东京街角,倒起一阵雨来,一团被肿胀的人群聚集了被打得干燥的牌子和索登旗. 其中一出只写了两个字,用大粗体的日本干地人物:\"不战\"."
     },
     {
       "source": "BBC News",
@@ -376,92 +436,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Rwandan singer dies as he was being released from prison",
-      "title_zh": "卢旺达歌手在出狱时死亡",
-      "link": "https://www.bbc.com/news/articles/cevpxn0ddp9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T16:12:50+00:00",
-      "summary": "Rwandan singer Aimable Karasira has died as he was being released from prison in Kigali, according to the Rwanda Correctional Service (RCS).",
-      "summary_zh": "据卢旺达惩教署称,卢旺达歌手Aimable Karasira从基加利出狱时已经死亡。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-      "title_zh": "罗森伯格:没有坦克的俄罗斯胜利日阅兵式 乌克兰战争没有计划",
-      "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T16:00:05+00:00",
-      "summary": "One word dominates Red Square right now: \"Victory\".",
-      "summary_zh": "一个字在现在红广场上占据了主导地位:\"Victory\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How worried should we be about hantavirus?",
-      "title_zh": "我们该怎么担心汉塔病毒?",
-      "link": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T15:01:07+00:00",
-      "summary": "The outbreak of hantavirus on a cruise ship carrying passengers from across the world is a situation that authorities say they are taking incredibly seriously.",
-      "summary_zh": "在一艘载有来自世界各地的乘客的游轮上爆发了汉塔病毒,当局说,他们正在极其认真地对待这种情况。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
-      "title_zh": "由于哈马斯解除武装谈判停滞不前,人们担心加沙战争再度爆发",
-      "link": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T14:22:20+00:00",
-      "summary": "Ceasefire talks between Israel and Hamas have stalled, and Gaza risks sliding back into war.",
-      "summary_zh": "以色列和哈马斯之间的停火谈判已经停顿,加沙有可能再次陷入战争。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Tenerife resident calls docking of hantavirus ship 'reckless'",
       "title_zh": "特内里费居民呼叫停靠汉塔病毒船",
       "link": "https://www.bbc.com/news/videos/c4g8pexx029o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-07T12:37:14+00:00",
       "summary": "The MV Hondius is sailing towards Spain's Canary Islands where all passengers will be evacuated, after being anchored for three days near Cape Verde.",
       "summary_zh": "翁迪乌斯号(MV Hondius)正驶向西班牙的加那利群岛,在佛得角附近停靠了三天后,所有乘客将被疏散."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China announces suspended death sentences for former defence ministers",
-      "title_zh": "中国宣布对前国防部长的死刑缓期执行",
-      "link": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T12:24:55+00:00",
-      "summary": "Two former Chinese defence ministers have been handed suspended death sentences on corruption charges, according to state media.",
-      "summary_zh": "据国家媒体报道,两名前中国国防部长因腐败被判处死刑缓期执行。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
-      "title_zh": "PSG冠军联盟胜利后发生的骚乱和127起巴黎党被捕事件",
-      "link": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T12:19:53+00:00",
-      "summary": "France's interior minister has condemned violence that broke out in the Paris region after PSG's Uefa Champions League semi-final victory against Bayern Munich late on Wednesday night.",
-      "summary_zh": "法国的内政部长谴责了在PSG的Uefa冠军联赛半决赛于周三晚间对拜仁慕尼黑后在巴黎地区爆发的暴力."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US judge releases Jeffrey Epstein's purported suicide note",
-      "title_zh": "美国法官释放了杰弗里·爱泼斯坦所谓的遗书",
-      "link": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T11:14:59+00:00",
-      "summary": "Warning: this story contains content which some readers might find distressing",
-      "summary_zh": "警告:这个故事包含一些读者可能感到痛苦的内容"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "German tourist wins payout after losing sun lounger race",
-      "title_zh": "德国游客输了日光休息比赛就赢",
-      "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-07T00:41:21+00:00",
-      "summary": "A German tourist has won a payout of more than €900 (£850) after he was unable to secure a sun lounger due to other guests reserving them with towels.",
-      "summary_zh": "一名德国游客因被其他来宾用毛巾所保留而无法保有日出休息室,因此获得了超过900欧元(850英镑)的赔款."
     }
   ]
 }
