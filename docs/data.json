@@ -1,37 +1,277 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-13T23:21:17+00:00",
+  "generated_at": "2026-05-14T23:12:13+00:00",
   "count": 50,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ナスダック・S＆P500指数 最高値を更新 半導体期待も",
-      "title_zh": "QQDAQ S&P500 索引 更新最高半导体期望值",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121111000.html",
-      "published_at": "2026-05-13T22:51:27+00:00",
-      "summary": "13日のニューヨーク株式市場では、半導体やIT大手などの銘柄に買い注文が出て、ハイテク株の比率が高いナスダックの株価指数と、主要な500社の株価で算出するS＆P500の株価指数がいずれも最高値を更新し…",
-      "summary_zh": "纽约股票市场13日,您将收到半导体和IT大类等符号的订购单,其中由Nasdaq股票指数和S&P500股票指数的高科技份额比例由主500股票价格计算出."
+      "title": "栃木 住宅強盗3人死傷 不審車両目撃で警察が警戒強化中に事件",
+      "title_zh": "在警察增援期间,3名可疑车辆证人死亡",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122081000.html",
+      "published_at": "2026-05-14T22:49:39+00:00",
+      "summary": "14日、栃木県上三川町の住宅で、押し入ってきた複数の人物に家族3人が襲われ死傷した事件で、自称16歳の男子高校生が14日夜、強盗殺人の疑いで逮捕されました。",
+      "summary_zh": "14日,有3名家庭成员被袭击并被杀死,死在川周的房子里。"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "FRB新議長に元理事のウォーシュ氏 米議会上院で承認",
-      "title_zh": "Walsh先生,前联邦资源局局长,经美国国会参议院批准",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121011000.html",
-      "published_at": "2026-05-13T21:33:30+00:00",
-      "summary": "アメリカの連邦議会上院は13日、トランプ大統領がFRB＝連邦準備制度理事会の次の議長に指名したケビン・ウォーシュ氏の人事案を承認しました。トランプ大統領が繰り返し利下げを求めるなか、イラン情勢にともな…",
-      "summary_zh": "13日,美国联邦议会被凯文·沃什先生批准,其总统特朗普任命了以下FRB=联邦储备系统委员会主席. 特朗普总统要求重复关注,但也要求伊朗人......"
+      "title": "米中首脳 関係発展に前向き 台湾・イランでは発表に温度差も",
+      "title_zh": "美国-中国对台湾同伊朗关系发展的基本态度.",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122131000.html",
+      "published_at": "2026-05-14T22:45:48+00:00",
+      "summary": "中国を訪れているアメリカのトランプ大統領と、習近平国家主席が会談し、両首脳は経済協力について協議し、関係の発展に前向きな姿勢を示しました。一方、習主席は台湾をめぐり、アメリカを強くけん制したほか、イラ…",
+      "summary_zh": "正在访华的特朗普总统与顺平国家元首讨论经济合作,并表现出对发展关系的积极态度. 另一方面,主人公的座位也游历了台湾,而肯尼迪的美国实力也十分强大. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
+      "title_zh": "古巴说,中央情报局主管访问哈瓦那 能源危机恶化",
+      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T21:39:10+00:00",
+      "summary": "The Cuban government said CIA director John Ratcliffe met his Cuban counterpart at the interior ministry in Havana, after the US renewed an offer 100m (£74m) of aid to ease the effects of its oil blockade.",
+      "summary_zh": "古巴政府说,美国为缓解其石油封锁的影响,重新提供了1亿美元(7 400万英镑)的援助,之后,中情局主任约翰·拉特克利夫在哈瓦那的内政部会见了古巴同事。"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "イラン情勢受け石油供給量は日量1280万バレル減 IEA",
-      "title_zh": "伊朗胃能石油供应量减少",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120981000.html",
-      "published_at": "2026-05-13T21:16:13+00:00",
-      "summary": "イラン情勢を受けて世界の石油供給量が1日あたり1200万バレル余り減少したとする分析をIEA＝国際エネルギー機関が明らかにしました。これは、世界の石油の需要の1割を超える水準にあたります。",
-      "summary_zh": "IIA = 国际能源机构(International Energy Agency)分析显示,由于伊朗局势,世界石油供应已减少到每天1200万桶. 这一水平超过了全球石油需求的10%。"
+      "title": "NYダウ平均株価5万ドル回復 米中関係の改善期待などを背景に",
+      "title_zh": "平均份额回收500万美元",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122181000.html",
+      "published_at": "2026-05-14T21:33:16+00:00",
+      "summary": "14日のニューヨーク株式市場では、アメリカと中国の関係改善への期待感を背景に半導体などハイテク関連の銘柄に買い注文が広がり、ダウ平均株価は終値として、およそ3か月ぶりに5万ドルの大台を回復しました。 …",
+      "summary_zh": "纽约股票市场14日,半导体等高科技相关产品在美国与中国关系预期的背景下展开,DOW的平均股价为最终价值,并在前三个月收回了5亿美元. . . . . . . ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "サッカーワールドカップ きょう日本代表メンバー26人を発表",
+      "title_zh": "足球世界杯26名日本国家队队员宣布",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121171000.html",
+      "published_at": "2026-05-14T21:24:40+00:00",
+      "summary": "来月、開幕するサッカーワールドカップ北中米大会に臨む日本代表のメンバー26人が15日午後、発表されます。三笘薫選手をはじめ、けがの不安を抱える主力の状態を森保一監督がどう判断するかが焦点となります。 …",
+      "summary_zh": "下个月,日本国家队26名队员将于15日下午公布. 小熏注重于森浩一先生如何判断能治愈伤害焦虑的主要力量状态. . . . . . . ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five Italians die during cave dive in Maldives",
+      "title_zh": "5名意大利人死于马尔代夫的洞穴潜水",
+      "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T20:48:26+00:00",
+      "summary": "Five Italians have died in a scuba diving accident in the Maldives, the foreign ministry in Rome has said.",
+      "summary_zh": "5名意大利人死于马尔代夫潜水事故 外交部罗马表示."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "緊急事態条項めぐり国会機能維持など論点に 衆議院憲法審査会",
+      "title_zh": "众议院关于诸如维持国民议会紧急条款职能等事项的续会",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122051000.html",
+      "published_at": "2026-05-14T20:45:52+00:00",
+      "summary": "憲法改正をめぐり、衆議院では緊急事態条項のイメージ案をもとにした討議が始まりました。緊急時に国会機能をどう維持するかや、法律と同等の効力を持つ「緊急政令」の是非などを論点に議論が活発化する見通しです。…",
+      "summary_zh": "*** 修订国会,众议院开始根据紧急条款的形象进行讨论。 讨论将根据在紧急情况下如何维持CIC的功能以及具有与法律同等效力的“紧急法令”的建议启动。 . . . . . . ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+      "title_zh": "纽约市数以百计的非法摩托车被推倒 犯罪镇压",
+      "link": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T20:17:03+00:00",
+      "summary": "The New York Police Department bulldozed more than 200 scooters, mopeds, and motorbikes in Staten Island on Tuesday as part of the city's crackdown on illegal and unregistered bikes.",
+      "summary_zh": "纽约警察局星期二用推土机推平了斯泰顿岛的200多辆摩托车,摩托车和摩托车,作为该市镇压非法和未注册自行车的一部分."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "防衛省 地対艦ミサイルのフィリピンへの輸出を検討",
+      "title_zh": "国防部考虑向菲律宾出口地对地难民",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122171000.html",
+      "published_at": "2026-05-14T19:56:06+00:00",
+      "summary": "陸上自衛隊が保有する射程百数十キロの「88式地対艦ミサイル」について、今月、フィリピンから日本に装備移転への関心が示され、防衛省が輸出に向けた検討を始めたことがわかりました。日本は先月、殺傷能力のある…",
+      "summary_zh": "本月,国防部宣布从菲律宾向日本转让装备的兴趣已经显示,88式地对舰导弹有数百多公里地对舰导弹. 日本上个月有能力杀人..."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
+      "title_zh": "\"完美的奇迹\"——11起在大西洋飞行员沟道飞机后获救",
+      "link": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T18:38:42+00:00",
+      "summary": "In 25 years of flying, pilot Ian Nixon had never faced anything like the crash that left him and 10 passengers stranded for hours in the Atlantic Ocean, waiting to be rescued off Florida's east coast.",
+      "summary_zh": "在25年的飞行中,飞行员伊恩·尼克松从未面对过类似坠机事件,导致他和10名乘客被滞留在大西洋上数小时,等待从佛罗里达州东海岸被救出."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "War criminal Ratko Mladić's jail release request denied",
+      "title_zh": "战争罪拉特科·姆拉迪奇的释放请求被驳回",
+      "link": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T17:45:39+00:00",
+      "summary": "A UN court has denied a bid by convicted Bosnian Serb war criminal Ratko Mladić to be released from jail on the grounds he is near the end of his life.",
+      "summary_zh": "一家联合国法院以波斯尼亚塞族战犯拉特科·姆拉迪奇生命快结束为由,拒绝他出狱。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Giant new dinosaur identified from fossils in Thailand",
+      "title_zh": "泰国化石中发现的巨型新恐龙",
+      "link": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T17:28:56+00:00",
+      "summary": "A new type of giant long-necked dinosaur has been identified by scientists from remains dug up in Thailand.",
+      "summary_zh": "科学家从泰国出土的遗骸中发现了一种新型的巨型长颈恐龙."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Warning of record global temperatures",
+      "title_zh": "全球气温记录警告",
+      "link": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T15:29:02+00:00",
+      "summary": "More on this story .",
+      "summary_zh": "更多关于这个故事。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
+      "title_zh": "图片中:由习近平在北京主办的\"两天峰会\"的特朗普.",
+      "link": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T14:55:44+00:00",
+      "summary": "Donald Trump and Xi Jinping have been holding talks in the Chinese capital, Beijing, with a raft of meetings and events taking place on Thursday and Friday.",
+      "summary_zh": "唐纳德·特朗普和习近平一直在中国首都北京举行会谈,周四至周五举行一行会议和活动."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "title_zh": "随着厄尔尼诺强势增长,全球气温出现创纪录的警告",
+      "link": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T13:56:57+00:00",
+      "summary": "New forecasts show increasing confidence that the developing El Niño in the tropical Pacific Ocean could be one of the strongest on record with warnings of record global temperatures and huge humanitarian impacts.",
+      "summary_zh": "新的预测表明,人们越来越相信,热带太平洋上发展中的厄尔尼诺可能是记录最强的国家之一,警告全球气温和巨大的人道主义影响。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "再審制度見直し 法制審議会の弁護士委員 “終わりではない”",
+      "title_zh": "审查“非结束”排练系统",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121881000.html",
+      "published_at": "2026-05-14T13:55:24+00:00",
+      "summary": "再審制度の見直しに向けた刑事訴訟法の改正案を与党が了承したことについて、法制審議会の部会の委員を務めた弁護士が、14日に会見を開き、証拠開示などの課題が残っているとして「国会の場で議論を深める必要があ…",
+      "summary_zh": "一名律师曾任立法会立法会成员,处理披露证据等事项,于14日召开会议,并不得不在."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "title_zh": "据报被伊朗扣押的\"漂浮军械库\"舰艇",
+      "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T13:33:20+00:00",
+      "summary": "A vessel reportedly operating as a \"floating armoury\" in the Gulf of Oman has been seized by Iranian military personnel, according to the maritime risk management company Vanguard.",
+      "summary_zh": "据报道,一艘在阿曼湾作为\"漂浮军械库\"出动的船只被伊朗军方人员扣押,据\"海上风险管理先锋\"公司称."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "title_zh": "乌克兰救援人员从基辅平地的废墟中取出,",
+      "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T13:16:32+00:00",
+      "summary": "At least 16 people have been killed, including two children, in Kyiv after Russia launched a massive overnight drone and missile strikes on the Ukrainian capital and other regions, officials have said.",
+      "summary_zh": "包括两名儿童在内的至少16人在基辅丧生,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "title_zh": "但棘手问题依然存在,",
+      "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T13:02:13+00:00",
+      "summary": "Xi Jinping threw a grand welcome for Donald Trump on the first day of a visit that could reset ties between the rival superpowers.",
+      "summary_zh": "习近平在访问首日向唐纳德·特朗普表示盛大欢迎,这可以使敌对超级大国重新建立联系."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
+      "title_zh": "尼日利亚前部长被判处75年的罕见腐败判决",
+      "link": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T11:44:22+00:00",
+      "summary": "Saleh Mamman, a former Nigerian power minister, has been sentenced to 75 years in prison for laundering 33.8bn naira ($24.7m; £18.5m), a rare conviction against corrupt officials in the West ​African nation.",
+      "summary_zh": "尼日利亚前权力部长萨利赫·马曼(Saleh Mamman)因清洗33.8bn naira(2470万美元;1850万英镑)而被判处75年监禁,这是西非国家罕见的针对腐败官员的定罪."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Latvian PM resigns after row over stray Ukrainian drones",
+      "title_zh": "拉脱维亚总理因游走的乌克兰无人机而一行辞职",
+      "link": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T10:53:56+00:00",
+      "summary": "Latvian Prime Minister Evika Silina has resigned following a political crisis over Russia-bound Ukrainian drones straying into Latvian territory.",
+      "summary_zh": "拉脱维亚总理埃维卡·西里娜因俄方乌克兰无人机逃入拉脱维亚领土而引发政治危机而辞职."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What to know as Trump visits Xi in China",
+      "title_zh": "特朗普来中国访问习近平有什么好说的?",
+      "link": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T09:05:31+00:00",
+      "summary": "US President Donald Trump is in Beijing on the first trip to China by an American leader since his own previous visit, during his first term in 2017.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)自自己上次访问以来,在2017年的首届任期内,首次由一位美国领导人出访中国."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: What happened on day one of Trump's China visit?",
+      "title_zh": "央视:特朗普访华一日发生什么?.",
+      "link": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T07:13:24+00:00",
+      "summary": "Donald Trump was greeted by a troop parade and cheering children, ahead of a two-hour long meeting with China's leader Xi-Jinping, and a tour of the Temple of Heaven.",
+      "summary_zh": "唐纳德·特朗普在与中国领导人习近平举行长达两小时的相会并参观了\"天王庙\"之前被部队阅兵和欢呼儿童迎接."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigerian film star Alexx Ekubo dies from cancer aged 40",
+      "title_zh": "尼日利亚电影明星Alexx Ekubo死于40岁癌症",
+      "link": "https://www.bbc.com/news/articles/c74d1j2ew0yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T06:25:29+00:00",
+      "summary": "Nigerian film star Alexx Ekubo has died after a battle with cancer, his family has said.",
+      "summary_zh": "尼日利亚电影明星Alexx Ekubo在与癌症相争后去世,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
+      "title_zh": "他们射中我的邻居的头部 湖边被战争所创伤的城市",
+      "link": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T05:09:04+00:00",
+      "summary": "Summary executions and rape were among the atrocities committed by the M23 rebel group and Rwandan soldiers during their weeks-long occupation of the lakeside city of Uvira in eastern Democratic Republic of Congo, an investigation by a leading rights group has found.",
+      "summary_zh": "\" 3·23 \" 运动反叛团体和卢旺达士兵在占领刚果民主共和国东部湖边城市乌维拉数周期间所犯下的暴行包括即决处决和强奸,一个主要权利团体的调查发现。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+      "title_zh": "法庭推翻了Alex Murdaugh的谋杀案 并下令进行新的审判",
+      "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-14T00:38:56+00:00",
+      "summary": "A South Carolina court has overturned the 2023 murder convictions of Alex Murdaugh, a disgraced lawyer who was convicted of killing his wife and son.",
+      "summary_zh": "一个南卡罗来纳州法院推翻了2023年对Alex Murdaugh的谋杀罪判决,此人是一位被判定杀害妻子和儿子的可耻律师."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
+      "title_zh": "由于停火未能停止同以色列的战争,真主党的支持在黎巴嫩南部得以维持",
+      "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-13T23:22:07+00:00",
+      "summary": "Last Saturday an Israeli air strike, at lunchtime and without warning, destroyed a building where a family displaced by the war were sheltering in a town in southern Lebanon called Saksakiyeh. A ceasefire, announced last month, has failed to stop the conflict between Israel and Hezbollah, the Shia Muslim armed group. In this part of the country, Israel's attacks come day and night.",
+      "summary_zh": "上周六,以色列空袭,在午餐时间和没有警告的情况下,摧毁了一座建筑物,一个因战争而流离失所的家庭正在黎巴嫩南部一个叫Saksakiyeh的城镇避难。 上个月宣布的停火未能阻止以色列同真主党,什叶派穆斯林武装组织之间的冲突. 在这个国家的这一地区,以色列的攻击日夜无时地来袭."
     },
     {
       "source": "BBC News",
@@ -44,16 +284,6 @@
       "summary_zh": "包括8名儿童在内的22人已在黎巴嫩南部被以色列空袭中丧生,该国卫生部说,尽管停火,以色列与黎巴嫩武装团体真主党之间的战争仍在继续。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "政府 中東情勢受け夏の電気・ガス料金補助を検討へ",
-      "title_zh": "政府考虑在夏季提供电力和天然气补贴",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120941000.html",
-      "published_at": "2026-05-13T20:59:03+00:00",
-      "summary": "政府は、中東情勢を受け夏にかけてさらに値上がりが見込まれる電気・ガス料金への補助の検討を進めることにしています。",
-      "summary_zh": "政府打算研究对电力和天然气价格的援助,由于中东局势,预计在夏季将进一步提高。"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Passengers allowed to leave norovirus-hit cruise ship",
@@ -64,80 +294,10 @@
       "summary_zh": "一些乘客在诺罗病毒爆发后被扣押在法国后从一艘游轮上下船."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ラブロフ外相 日本のロシア産原油輸入に反対しない考え示す",
-      "title_zh": "Lavlov外国阶段 查明从日本进口原油的情况",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121071000.html",
-      "published_at": "2026-05-13T20:25:57+00:00",
-      "summary": "ロシアのラブロフ外相は、イラン情勢を背景にした原油価格の高騰に関連して、日本がロシア産の原油の輸入を望む場合は反対しない考えを示し、ウクライナ侵攻を受けたロシアに対する各国からの制裁の解除につなげたい…",
-      "summary_zh": "俄罗斯拉夫洛夫外长希望,如果日本想从俄罗斯进口原油,则会因伊朗局势所支持的原油价格上涨而导致各国取消对乌克兰入侵的制裁."
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Thief jailed after stealing unreleased Beyoncé music from car",
-      "title_zh": "盗取了未释放的碧昂丝音乐后被关进监狱",
-      "link": "https://www.bbc.com/news/articles/cx213vnvxvwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-13T18:35:54+00:00",
-      "summary": "A man who broke into a car and stole hard drives containing unreleased music by Beyoncé has been sentenced to two years in prison.",
-      "summary_zh": "一名闯入一辆车并盗取了碧昂丝所放入未放出音乐的硬盘的人被处以两年监禁."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "再審制度の見直し 刑事訴訟法改正案 あす閣議決定へ",
-      "title_zh": "审查重新评价制度Cri诉讼法修正案",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120931000.html",
-      "published_at": "2026-05-13T17:48:30+00:00",
-      "summary": "再審制度の見直しをめぐり、自民党は合同会議で、検察による不服申し立ての原則禁止を刑事訴訟法の本則に位置づける改正案を了承しました。政府は、15日、閣議で決定し国会に提出する方針で、議論の舞台は国会に移…",
-      "summary_zh": "为了审查撤销制度,双方同意在联席会议上修订刑事诉讼法的法律,以禁止检察官的不当行为原则. 15日,政府决定内阁,并呈递\"论\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 中国訪問を開始 きょう習主席と首脳会談へ",
-      "title_zh": "川普总统开始中国访问总裁兼CEO",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121041000.html",
-      "published_at": "2026-05-13T17:46:35+00:00",
-      "summary": "アメリカのトランプ大統領は13日夜中国に到着し、14日、習近平国家主席と首脳会談を行います。トランプ大統領の中国訪問は1期目の2017年以来で、イラン情勢や貿易、台湾などをめぐりどのような議論が交わさ…",
-      "summary_zh": "美国总统特朗普13日和14日抵达中国. 特朗普总统自2017年起对中国的访问是第一次讨论伊朗的情况,贸易,以及台湾. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
-      "title_zh": "当特朗普抵达中国与习近平进行高调会谈时,",
-      "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-13T17:00:12+00:00",
-      "summary": "US President Donald Trump descended the steps of Air Force One in Beijing on Wednesday evening, greeted with pomp and pageantry ahead of a high-stakes summit with his Chinese counterpart, Xi Jinping.",
-      "summary_zh": "美国总统唐纳德·特朗普星期三晚间在北京降入了空军一号的台阶,在与中国同行习近平举行高考峰会前,以自大和盛会相迎."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
-      "title_zh": "停火期满后俄罗斯无人机对乌克兰发动致命袭击",
-      "link": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-13T16:39:28+00:00",
-      "summary": "Six people have been killed and many injured in a slew of Russian drone attacks across Ukraine on Wednesday, Volodymyr Zelensky has said.",
-      "summary_zh": "瓦洛德米尔·泽连斯基星期三说,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "title_zh": "法庭推翻了Alex Murdaugh的谋杀案 并下令进行新的审判",
-      "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-13T15:36:38+00:00",
-      "summary": "A South Carolina court has overturned the 2023 murder convictions of Alex Murdaugh, a disgraced lawyer who was convicted of killing his wife and son.",
-      "summary_zh": "一个南卡罗来纳州法院推翻了2023年对Alex Murdaugh的谋杀罪判决,此人是一位被判定杀害妻子和儿子的可耻律师."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lockdown in Philippine Senate after gunshots fired",
-      "title_zh": "菲律宾参议院在枪击后被封锁",
+      "title": "Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up",
+      "title_zh": "在菲律宾参议院开枪射击,",
       "link": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-13T15:35:15+00:00",
       "summary": "The Philippine Senate was locked down with military personnel seen entering the building where a senator wanted by the International Criminal Court (ICC) had sought refuge.",
@@ -186,16 +346,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What to know as Trump visits Xi in China",
-      "title_zh": "特朗普来中国访问习近平有什么好说的?",
-      "link": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-13T13:01:51+00:00",
-      "summary": "US President Donald Trump has arrived in Beijing on the first trip to China by an American leader since in his own previous visit, during his first term in 2017.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)在2017年首次访问中国期间,自上次访问以来,首次由美国领导人出访中国后抵达北京."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Climbers clear path to Everest summit past giant chunk of ice",
       "title_zh": "攀登者在珠穆朗玛峰的路上 穿过了巨大的冰块",
       "link": "https://www.bbc.com/news/articles/c3w2np14g92o?at_medium=RSS&at_campaign=rss",
@@ -226,32 +376,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Nigerian film star Alexx Ekubo dies aged 40",
-      "title_zh": "尼日利亚电影明星Alexx Ekubo去世 40岁",
-      "link": "https://www.bbc.com/news/articles/c74d1j2ew0yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-13T10:47:55+00:00",
-      "summary": "Nigerian film star Alexx Ekubo has died, reportedly after a long battle with cancer.",
-      "summary_zh": "尼日利亚电影明星Alexx Ekubo已逝世,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
       "title_zh": "加纳因反移民抗议从南非撤离300人",
       "link": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-13T08:24:28+00:00",
       "summary": "Ghana says it will evacuate 300 citizens from South Africa following a recent wave of protests against foreign nationals.",
       "summary_zh": "加纳表示将在最近一波针对外籍人士的抗议浪潮后从南非撤出300名公民."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-      "title_zh": "特朗普的\"黄金穹顶\"要花一元二分钱 可能无法阻止导弹的全面攻击",
-      "link": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-13T01:59:53+00:00",
-      "summary": "US President Donald Trump's futuristic \"Golden Dome\" missile defence system will cost about $1.2 ​tn (£882bn) to develop, deploy and operate over two decades, the nonpartisan Congressional Budget Office estimates.",
-      "summary_zh": "美国总统唐纳德·特朗普未来的\"黄金穹顶\"导弹防御系统将耗资约1.2 tn (£882bn),在20年中开发,部署和运行,无党派国会预算办公室估计."
     },
     {
       "source": "BBC News",
@@ -292,36 +422,6 @@
       "published_at": "2026-05-12T20:28:03+00:00",
       "summary": "Sebastian Muñoz-Najar has only just finished primary school. The 13-year-old is still years away from learning how to drive. He cannot legally work. He's too young to even have a social media account.",
       "summary_zh": "塞巴斯蒂安·穆尼奥斯-纳贾尔只读完小学. 十三相还相去来去去来去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去 他无法合法工作。 他还太年轻 甚至连社交媒体账户都没有"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "title_zh": "黎巴嫩说,在以色列袭击中死亡的13人中有两名医护人员。",
-      "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-12T20:00:05+00:00",
-      "summary": "Israeli air strikes have killed at least 13 people in southern Lebanon, state media say, where a ceasefire has failed to stop the war between Israel and the Lebanese armed group Hezbollah.",
-      "summary_zh": "以色列空袭造成黎巴嫩南部至少13人死亡,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "No sign of larger hantavirus outbreak, says UN health agency",
-      "title_zh": "联合国卫生机构表示,",
-      "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-12T17:55:12+00:00",
-      "summary": "There is \"no sign\" of a larger hantavirus outbreak after the evacuation of the last passengers from a disease-stricken cruise ship, the head of the UN health agency has said.",
-      "summary_zh": "联合国卫生机构负责人说,在从一艘疾病严重的游轮上撤离最后一批乘客后,没有出现更大的汉塔病毒爆发的\"迹象\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
-      "title_zh": "Zelensky在乌克兰腐败调查升级时在法庭上担任前总参谋长",
-      "link": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-12T16:19:24+00:00",
-      "summary": "President Volodymyr Zelensky's former right-hand man Andriy Yermak appeared in a Kyiv court on Tuesday, after he was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.",
-      "summary_zh": "沃洛德米尔·泽连斯基总统前右撇子安德里·耶尔马克(Andriy Yermak)于星期二在基辅法院出场,此前他被乌克兰的两个反腐败机构指为洗钱计划的嫌疑人."
     },
     {
       "source": "BBC News",
@@ -402,106 +502,6 @@
       "published_at": "2026-05-10T23:33:57+00:00",
       "summary": "Moments after Austria overtook Israel to win last May's Eurovision Song Contest and in doing so won the right to host this year's event, UK viewers heard commentator Graham Norton say organisers \"will be breathing the largest sigh of relief that they're not faced with a Tel Aviv final next year\".",
       "summary_zh": "在奥地利超越以色列赢得去年5月的欧洲视觉歌曲大赛之后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC speaks with civilians inside Iran struggling with impact of war",
-      "title_zh": "BBC 与伊朗国内的平民交谈,",
-      "link": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-10T21:13:47+00:00",
-      "summary": "Inside Iran, the BBC has been speaking to people struggling with the impact of the war.",
-      "summary_zh": "在伊朗境内,英国广播公司一直向那些为战争所影响而挣扎的人们讲话."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
-      "title_zh": "\"世界末日\"的旅游热点 否认引起汉塔病毒爆发",
-      "link": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-10T20:05:53+00:00",
-      "summary": "As Argentina's southernmost city, Ushuaia has long enjoyed its reputation as 'The End of the World' and as a gateway for trips both to Antarctica and for tourists to explore the dramatic, natural beauty of Patagonia.",
-      "summary_zh": "作为阿根廷最南端的城市,乌斯怀亚长期享有\"世界末日\"的名声并成为前往南极洲和游客探索巴塔哥尼亚戏剧性自然美景的出道口."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How hotels are stopping the 'dawn dash' for sunbeds after man wins payout",
-      "title_zh": "酒店如何阻止了 太阳床的\"拂晓\" 人赢得报酬后",
-      "link": "https://www.bbc.com/news/articles/c99l17m2ep9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-10T19:04:13+00:00",
-      "summary": "Holidaymakers have told the BBC how some hotels and resorts are cracking down on people reserving sun loungers with towels, after a man won a payout over the practice.",
-      "summary_zh": "度假者告诉英国广播公司一些旅馆和度假胜地如何用毛巾对保留日光休息室的人进行打压,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How could extreme weather affect World Cup 2026?",
-      "title_zh": "极端天气如何会影响2026年世界杯?.",
-      "link": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-10T02:56:30+00:00",
-      "summary": "With just a month to go until the biggest football tournament in the world begins, attention is turning not just to the teams and venues, but to the weather.",
-      "summary_zh": "距离世界最大足球锦标赛开始还有一个月的时间, 注意力不仅转向球队和场地, 也转向天气。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indian model's understated Met Gala debut revives debate on cultural representation",
-      "title_zh": "印度模特少说Met Gala的首发会 重新引发文化代表性的争论",
-      "link": "https://www.bbc.com/news/articles/cre13zeql51o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-09T23:08:35+00:00",
-      "summary": "When Indian model Bhavitha Mandava arrived at this year's Met Gala, the reaction to her look was unusually divided.",
-      "summary_zh": "当印度模特Bhavitha Mandava来到今年的Met Gala时, 对她外表的反应异常的分裂。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Another year, another controversy for Eurovision - but fans are sticking by it",
-      "title_zh": "另一年,Eurovision的又一起争议,但粉丝们坚持着",
-      "link": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-09T23:03:37+00:00",
-      "summary": "The 2026 Eurovision Song Contest officially lands in Vienna on Sunday, with a \"turquoise carpet\" parade featuring competitors from all 35 nations.",
-      "summary_zh": "2026年欧视歌曲大赛于周日在维也纳正式落地,由来自所有35个国家的竞争者主演的\"绿地地毯\"游行."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why Canada is seeing its biggest military recruitment surge in 30 years",
-      "title_zh": "为何加拿大30年来最大的征兵人数激增?",
-      "link": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-09T23:00:55+00:00",
-      "summary": "For decades, Canada was seen as a global laggard in defence funding, and just two years ago, recruitment was so dire that a former defence minister warned the armed forces were in a \"death spiral\".",
-      "summary_zh": "几十年来,加拿大一直被视为全球国防资金的落后者,而就在两年前,征兵情况十分严峻,以至于一位前国防部长警告了武装部队处于\"死亡螺旋\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
-      "title_zh": "史蒂夫·罗森伯格:今年莫斯科的胜利日游行感觉非常不同",
-      "link": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-09T17:25:53+00:00",
-      "summary": "I've attended many Victory Day parades on Red Square.",
-      "summary_zh": "我参加了许多在红广场上举行的胜利日游行."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
-      "title_zh": "罗森伯格:莫斯科红广场上规模化后卫胜利游行",
-      "link": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-09T12:12:50+00:00",
-      "summary": "With fewer guests, fewer reporters, and no military hardware on display, Moscow's Victory Day parade was a much quieter affair than usual on Saturday.",
-      "summary_zh": "莫斯科的胜利节阅兵比平常更安静。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Return of IS-linked families sparks debate in terror-traumatised Australia",
-      "title_zh": "与IS有联系的家庭的返回在遭受恐怖创伤的澳大利亚引发了辩论",
-      "link": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-08T19:21:12+00:00",
-      "summary": "After years spent detained in Syria, the freedom of the Islamic State group-linked families who landed back in their homeland of Australia this week was dramatically short lived.",
-      "summary_zh": "在叙利亚被关押多年后,本周登陆澳大利亚家园的与伊斯兰国集团有联系的家庭的自由生活极为短暂。"
     }
   ]
 }
