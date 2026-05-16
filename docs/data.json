@@ -1,117 +1,227 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-15T23:11:33+00:00",
-  "count": 30,
+  "generated_at": "2026-05-16T23:05:57+00:00",
+  "count": 31,
   "items": [
     {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-      "title_zh": "特朗普和习近平结束了“非常成功的”会谈,",
-      "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T21:50:14+00:00",
-      "summary": "US President Donald Trump left Beijing after a two-day summit saying he had struck \"fantastic trade deals, great for both countries\", but few details have emerged on what the two superpowers agreed.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)在两天的峰会后离开北京,称他达成了\"对两国都有好处的美好贸易交易\",但对于两个超级大国所同意的内容却鲜有细节."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Five Italians die during cave scuba dive in Maldives",
-      "title_zh": "5名意大利人在马尔代夫的洞穴潜水中死亡",
-      "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T21:33:38+00:00",
-      "summary": "Five Italians have died in a scuba diving accident in the Maldives, the foreign ministry in Rome has said.",
-      "summary_zh": "5名意大利人死于马尔代夫潜水事故 外交部罗马表示."
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米中首脳会談 中国 “一部の品目 関税引き下げで原則合意”",
+      "title_zh": "美国-中国首脑会议 中国“减少关税部分项目协定”",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123771000.html",
+      "published_at": "2026-05-16T23:01:51+00:00",
+      "summary": "アメリカのトランプ大統領と中国の習近平国家主席との首脳会談について、中国政府は、一部の品目に対する関税を引き下げることで原則として合意したと明らかにしました。中国がアメリカ製の航空機を購入する一方、ア…",
+      "summary_zh": "中国政府同意将关税降低到一些物品上,作为规则,在与美国总统特朗普和中国总统的神经会谈上. 中国买美国飞机A..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "栃木 住宅強盗3人死傷 逮捕の2人は高校の同級生か",
-      "title_zh": "查克家族 3人死于逮捕或高中",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123301000.html",
-      "published_at": "2026-05-15T21:31:42+00:00",
-      "summary": "栃木県上三川町の住宅で親子3人が強盗に襲われ死傷した事件で、警察は15日夜、神奈川県内に住む16歳の自称男子高校生を新たに逮捕しました。警察によりますと、すでに逮捕されていた16歳の男子高校生と同じ高…",
-      "summary_zh": "当三名父母和儿童被打伤时,警察逮捕了一名新高中生,15岁在Niigata县。 16岁的高中生 已经被警察逮捕"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "title_zh": "川普警告台湾不要宣布独立,",
-      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T21:28:25+00:00",
-      "summary": "US President Donald Trump has cautioned Taiwan against formally declaring independence from China.",
-      "summary_zh": "美国总统唐纳德·特朗普警告台湾不要正式宣布从中国独立."
+      "title": "イスラエル軍 “ハマス軍事部門トップ 殺害と発表”圧力強める",
+      "title_zh": "以色列军队“Hamasu军事部门最高层杀戮并宣布”压力增强",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123781000.html",
+      "published_at": "2026-05-16T22:48:31+00:00",
+      "summary": "イスラエル軍はパレスチナのガザ地区を空爆し、イスラム組織ハマスの軍事部門トップを殺害したと発表しました。ハマスの武装解除を含む和平計画に大きな進展が見られない中、イスラエルは断続的に攻撃を行うなどして…",
+      "summary_zh": "以色列军队宣布,\"QQ\"加沙街区被忽略了杀死伊斯兰组织哈马斯军事部门的上层. 如果包括\"武装出哈马斯\"在内的日平计划有重大进展,以色列会断断续续地进行攻击."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "辺野古沖転覆事故 生徒が事故直前に動画撮影 海保が解析",
-      "title_zh": "横野子-大田子岛事故 学生在事故发生前拍了段录像",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123131000.html",
-      "published_at": "2026-05-15T21:21:17+00:00",
-      "summary": "アメリカ軍普天間基地の移設工事が進む沖縄県名護市辺野古の沖合で、研修旅行中の京都府の高校生など2人が死亡した船の転覆事故で、船に乗っていた生徒が、事故直前の様子を動画で撮影していたことが捜査関係者への…",
-      "summary_zh": "在冲绳县纳戈市近海,美军富腾马基地的搬迁工作正在进展中,当时在船上的学生正在拍摄事故发生前的一张照片."
+      "title": "全国的に気温が上がり広い範囲で真夏日の予想 熱中症対策を",
+      "title_zh": "全国气温上升 气温上升到广域 中夏太阳预报",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123801000.html",
+      "published_at": "2026-05-16T22:45:54+00:00",
+      "summary": "17日も、全国的に晴れて気温が上がり、九州から東北にかけて、日中の最高気温が30度以上の真夏日になるところがある見込みです。熱中症への対策を心がけてください。",
+      "summary_zh": "17日,全国气温上升,预计当日最高气温会超过30度. 请治中暑."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-      "title_zh": "特朗普说伊朗暂停核方案20年就够了",
-      "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T21:17:05+00:00",
-      "summary": "US President Donald Trump has said he would accept a 20-year suspension by Iran of its nuclear programme, in what appears to be confirmation of a shift in position away from a demand for a total end to it.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)表示,他将接受伊朗暂停其核计划20年,这似乎证实了立场的转变,不再要求彻底终止。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "全国的に気温上昇 真夏日になるところも 熱中症対策を",
-      "title_zh": "气温在日本各地上升.",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123171000.html",
-      "published_at": "2026-05-15T21:04:18+00:00",
-      "summary": "16日は全国的に晴れて気温が上がり、内陸などでは気温が30度以上の真夏日となるところがある見込みです。こまめに水分をとるなど、熱中症対策を心がけてください。",
-      "summary_zh": "预计16日全日本气温会上升,气温会上升至30度或更高的内陆. 请注意热克措施,如取水."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 中国訪問終え 台湾への武器売却判断へ",
-      "title_zh": "川普总统结束了中国对台湾的访问",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123181000.html",
-      "published_at": "2026-05-15T20:48:45+00:00",
-      "summary": "中国への3日間にわたる訪問を終えたアメリカのトランプ大統領は、アメリカに帰国する大統領専用機の機内で記者団の取材に応じ、習近平国家主席との台湾をめぐるやりとりについて、「話を聞いたがコメントはしなかっ…",
-      "summary_zh": "美国总统特朗普访华三天 谈中华民国总统和台湾共和国总统与美国总统交流."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
-      "title_zh": "以色列和黎巴嫩同意延长停火,",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "title_zh": "黎巴嫩说,在美国宣布延长停火时,有六人死于以色列袭击。",
       "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T20:26:51+00:00",
-      "summary": "Israel and Lebanon have agreed a 45-day extension to a shaky ceasefire, following two days of negotiations in Washington DC, the US state department said.",
-      "summary_zh": "以色列和黎巴嫩已同意延长45天, 暂停停火,"
+      "published_at": "2026-05-16T22:27:44+00:00",
+      "summary": "An Israeli air strike on a town in southern Lebanon has killed six people, including three paramedics, according to Lebanon's health ministry. It comes as the US said the two countries had agreed to a 45-day ceasefire.",
+      "summary_zh": "据黎巴嫩卫生部称,以色列对黎巴嫩南部一城镇的空袭已造成6人死亡,其中包括3名护理人员。 美国说两国已经同意45天的停火。"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "国民会議 世帯年収375万円は米独仏より年間27万円負担重く",
-      "title_zh": "来自美国和德国的家庭年收入为35万日元,每年负担27万日元",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123271000.html",
-      "published_at": "2026-05-15T20:25:04+00:00",
-      "summary": "給付付き税額控除の制度設計を議論する超党派の「国民会議」の有識者会議が開かれ、共働きの子育て世帯に関して、日本は世帯年収375万円の場合、欧米の3か国の平均より27万円、負担が重くなっているという政府…",
-      "summary_zh": "对于有共工抚养子女的家庭,日本是3.75亿日元的家庭收入,政府说负担比三个国家的平均数多出2700多万日元. ."
+      "title": "栃木3人死傷強盗事件 逮捕の高校生ら4人実行役か 指示役捜査へ",
+      "title_zh": "东芝 三人死亡 吉地主义 吉地主义 吉地主义",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123761000.html",
+      "published_at": "2026-05-16T21:17:02+00:00",
+      "summary": "栃木県上三川町の住宅で親子3人が強盗に襲われ死傷した事件は、16日までに、いずれも16歳で神奈川県内に住む高校生ら4人が強盗殺人の疑いで逮捕されました。警察はこの4人が現場にいた実行役で、ほかに指示し…",
+      "summary_zh": "在川周县川周的家中有3名家长和子女被害,4名16岁的高中生被怀疑谋杀了\"一二一\". 警察是执行者 4个人在现场,其他..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "宮城県で震度5弱 1週間程度注意 気象庁",
-      "title_zh": "宫城县至少5个地震烈度 大约1周气象局",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123251000.html",
-      "published_at": "2026-05-15T20:02:50+00:00",
-      "summary": "15日夜、宮城県沖を震源とする地震があり、宮城県で震度5弱の揺れを観測しました。気象庁は、揺れの強かった地域では今後1週間程度、同じ程度の揺れを伴う地震に注意するよう呼びかけています。",
-      "summary_zh": "15日晚间,宫城县近海发生\"出海\"地震. 气象局呼吁关注地震,"
+      "title": "ウクライナ政府高官 “デジタル技術で戦い方大きく変容”",
+      "title_zh": "乌克兰政府官员“如何利用数字技术战斗”",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123261000.html",
+      "published_at": "2026-05-16T21:05:31+00:00",
+      "summary": "ウクライナ政府の高官がNHKのインタビューに応じ、軍事力で優位に立つロシア軍に対抗する上で、無人機から送られてくる敵陣の情報やAIを活用した戦況の把握などデジタル技術が不可欠となっていて、戦場での戦い…",
+      "summary_zh": "针对乌克兰政府的采访,数字技术是不可或缺的,比如用AI来QQ从 $ 发送敌人的信息,以及理解战斗形势......"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "パキスタン内相がイランへ 戦闘終結に向けた協議進展は不透明",
+      "title_zh": "巴基斯坦境内到伊朗:结束战斗的机会",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123791000.html",
+      "published_at": "2026-05-16T20:37:42+00:00",
+      "summary": "アメリカとイランの戦闘終結に向けた協議に進展が見られない中、仲介国パキスタンの内相がイランを訪問し、アメリカとの協議再開に向けてイラン側と意見を交わしました。ただ、アメリカとイランは、いずれも強気な姿…",
+      "summary_zh": "伊朗和伊朗访问伊朗,以恢复与美国的协商. 然而,美国和伊朗都有强烈的外表. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Canadian from hantavirus-hit cruise ship tests positive",
+      "title_zh": "汉塔病毒袭击游轮的加拿大人检测呈阳性",
+      "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T20:36:53+00:00",
+      "summary": "A Canadian who sailed on the cruise ship MV Hondius which was hit by a hantavirus outbreak in April has tested positive for the disease, officials in the province of British Columbia say.",
+      "summary_zh": "一位在4月被汉塔病毒爆发所击中的巡洋舰上出海的加拿大人,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man drives car into pedestrians in Italy, injuring eight",
+      "title_zh": "意大利人开车撞行人,8人受伤",
+      "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T20:36:17+00:00",
+      "summary": "A man has driven his car into pedestrians in the northern Italian city of Modena, injuring eight people, four seriously, officials say.",
+      "summary_zh": "一名男子在意大利北部城市莫德纳开车撞上行人,造成8人受伤,4人重伤,官员说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Taiwan insists it is independent after Trump warning",
+      "title_zh": "台湾坚持在川普警告后独立",
+      "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T17:01:53+00:00",
+      "summary": "Taiwan has insisted it is a sovereign, independent nation, after US President Donald Trump cautioned it against formally declaring independence from China.",
+      "summary_zh": "在美国总统唐纳德·特朗普告诫台湾不要正式宣布从中国独立之后,台湾一直坚持认为自己是一个主权的独立国家."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Whale found dead near Danish island after German rescue operation",
+      "title_zh": "德国救援行动后 鲸鱼在丹麦岛附近被发现死亡",
+      "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T17:01:28+00:00",
+      "summary": "A humpback whale rescued after beaching itself in Germany has been found dead near a Danish island.",
+      "summary_zh": "一只在德国上海滩后获救的座头鲸被发现死在了丹麦岛附近."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man killed by 13ft shark in Western Australia",
+      "title_zh": "西澳大利亚被13英尺鲨鱼杀死的人",
+      "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T16:32:47+00:00",
+      "summary": "A 38-year-old man has been killed by a 13ft (4m) shark in Western Australia.",
+      "summary_zh": "38岁男子被西澳大利亚13英尺(4米)鲨鱼所杀."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+      "title_zh": "在尼日利亚被绑架的50多名学童中的托德勒人",
+      "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T15:50:09+00:00",
+      "summary": "Gunmen have kidnapped more than 50 children from three schools in the same town in north-eastern Nigeria, teachers and parents have told the BBC.",
+      "summary_zh": "枪手绑架了来自尼日利亚东北部同个城镇三所学校的50多名儿童,教师和家长告诉了英国广播公司."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+      "title_zh": "救援潜水员在搜寻溺入马尔代夫洞穴的意大利人尸体时死亡",
+      "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T15:01:40+00:00",
+      "summary": "A rescue diver has died while searching for the bodies of a group of Italians who died in a scuba-diving accident in the Maldives.",
+      "summary_zh": "一名救援潜水员在马尔代夫搜寻一群死于潜水事故的意大利人的尸体时死亡."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Freight train and bus crash kills at least eight in Bangkok",
+      "title_zh": "货运火车和公交车撞车造成曼谷至少8人死亡",
+      "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T14:14:19+00:00",
+      "summary": "A crash between a freight train and a public bus has killed at least eight people and injured dozens of others in Bangkok.",
+      "summary_zh": "一辆货运列车和一辆公共汽车相撞已造成曼谷至少8人死亡,数十人受伤."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "富山 高岡 室町時代から続く寺で火事 けが人なし",
+      "title_zh": "高冈富山 从室町时代开始的寺庙起火",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123751000.html",
+      "published_at": "2026-05-16T14:04:35+00:00",
+      "summary": "室町時代に開かれた富山県高岡市の寺で16日夜、火事がありました。消防によりますと、けが人はいないということで、警察と消防が詳しい状況を調べています。",
+      "summary_zh": "高冈市富山寺出事起火,开通于室町时期. 在起火的情况下,没有受伤,所以我们审查警察和起火情况的细节."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "title_zh": "IS高级领导人在联合作战中丧生 美国和尼日利亚说",
+      "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T11:44:54+00:00",
+      "summary": "Nigeria and the United States say they have killed a senior Islamic State (IS) leader in a joint-operation.",
+      "summary_zh": "尼日利亚和美国称他们在一次联合行动中杀死了一位伊斯兰国高级领导人."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US planning to charge ex-Cuban leader Raúl Castro",
+      "title_zh": "美国计划指控前古巴领导人劳尔·卡斯特罗",
+      "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-16T01:37:27+00:00",
+      "summary": "The US justice department is reportedly preparing to indict aging Cuban leader Raúl Castro in the coming days over the shooting down of two aircraft three decades ago.",
+      "summary_zh": "据报道,美国司法部正准备在未来几天内起诉古巴老领导人劳尔·卡斯特罗30年前击落两架飞机。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "From misfit to rap sensation: A 'Reble' storms into Indian hip-hop",
+      "title_zh": "从不适应到说唱的感觉:一个'Reble'风暴进入了印度嘻哈",
+      "link": "https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-15T23:31:52+00:00",
+      "summary": "As a child, Reble often felt she was watching life from the sidelines. Now, at 24, the rapper has become one of the most compelling new voices in Indian hip-hop.",
+      "summary_zh": "小时候,Reble经常觉得她从旁观生活. 现在,24,说唱歌手已经成为了印度嘻哈中最有说服力的新声音之一."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
+      "title_zh": "什么是\"安全死亡\"吗? 精神疾病妇女在加拿大请求协助死亡",
+      "link": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-15T23:04:41+00:00",
+      "summary": "Claire Brosseau has travelled the world doing stand-up comedy and acting in television shows, films and plays. She has also been struggling with debilitating mental illness from a young age, and has been treated by psychiatrists in four major North American cities over three decades.",
+      "summary_zh": "克莱尔·布罗索(Claire Brosseau)出道于世界,在电视节目,电影和戏剧中出演了站立喜剧并出演. 她从小也一直挣扎于削弱精神疾病,三十多年来在北美四大城市接受了精神病医生的治疗."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+      "title_zh": "瑞士将打开奥斯威辛的\"死亡天使\"的秘密档案",
+      "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-15T23:04:33+00:00",
+      "summary": "The Swiss Federal Intelligence Service has said it will finally open long-sealed files on the notorious Nazi war criminal Josef Mengele, but without saying when.",
+      "summary_zh": "瑞士联邦情报局表示,它最终会打开关于臭名昭著的纳粹战争罪犯Josef Mengele的被长期封存的档案,但是没有说什么时候."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Alleged murder of Aboriginal girl highlights Australia's deep inequalities",
+      "title_zh": "土著女孩被谋杀的指控凸显了澳大利亚的不平等性",
+      "link": "https://www.bbc.com/news/articles/cq6p57mnz9lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-15T20:37:39+00:00",
+      "summary": "Warning for Aboriginal and Torres Strait Islander readers: this article contains references to and images of someone who has died. This note has been added to respect cultural beliefs of these readers during mourning.",
+      "summary_zh": "对土著居民和托雷斯海峡岛民读者的警告:这篇文章载有死亡者的参考和图像。 增加这一说明是为了在哀悼期间尊重这些读者的文化信仰."
     },
     {
       "source": "BBC News",
@@ -126,92 +236,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Israel says it has killed Hamas commander in Gaza air strike",
-      "title_zh": "以色列说它在加沙空袭中杀死了哈马斯指挥官",
-      "link": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T19:38:38+00:00",
-      "summary": "Israel says it has killed Hamas commander Izz ad-Din al-Haddad, who it described as \"one of the architects of the October 7 massacre\", in an air strike on Gaza City.",
-      "summary_zh": "以色列说,它在对加沙城的空袭中将哈马斯指挥官Izz ad-Din al-Haddad杀害,他被描述为\"十月七日大屠杀的建筑师之一\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中東情勢受けて補正予算案の必要性を検討 政府",
-      "title_zh": "考虑是否需要为中东局势编制更正预算",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123151000.html",
-      "published_at": "2026-05-15T19:38:17+00:00",
-      "summary": "中東情勢を受けて、野党に加えて、与党内からも影響が長引いた場合、電気・ガス料金への補助などの支援策を実施するため、今年度の補正予算案の編成が必要になるという声が出ています。政府は必要性の検討を進めるこ…",
-      "summary_zh": "针对中东局势,除\"打通\"外,如果有党长期影响,我们听说,今年要组织好补偿预算,支持用电和用气收费. 政府知道需要..."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
-      "title_zh": "法官宣布哈维·温斯坦纽约强奸案再次审判无效",
-      "link": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T19:10:59+00:00",
-      "summary": "A judge has declared a mistrial in the rape case against Harvey Weinstein, after the jury in New York said it was deadlocked and unable to reach a verdict.",
-      "summary_zh": "一名法官宣布对哈维·温斯坦的强奸案进行审判无效,此前纽约的陪审团表示此案陷入了僵局,无法做出判决."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-      "title_zh": "新爆发的埃博拉在刚果东部造成65人死亡",
-      "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T17:53:23+00:00",
-      "summary": "Africa's top health agency has declared an Ebola outbreak in the Democratic Republic of Congo's eastern Ituri province.",
-      "summary_zh": "非洲最高卫生机构宣布刚果民主共和国东部伊图里省爆发埃博拉疫情."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "title_zh": "随着能源危机恶化,中央情报局负责人会访问古巴",
-      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T17:47:19+00:00",
-      "summary": "CIA director John Ratcliffe has met his Cuban counterpart at the interior ministry in Havana, after the US renewed an offer of $100m (£74m) of aid to ease the effects of its oil blockade.",
-      "summary_zh": "中央情报局主任约翰·拉特克利夫(John Ratcliffe)在哈瓦那的内政部会见了他的古巴同事,当时美国重新提出援助1亿美元(7 400万英镑),以减轻其石油封锁的影响。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New York Times defends journalist after Israel threatens to sue",
-      "title_zh": "纽约时报在以色列威胁起诉后为记者辩护",
-      "link": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T16:30:31+00:00",
-      "summary": "The New York Times has said libel action threatened against it by Israeli Prime Minister Benjamin Netanyahu over an article alleging sexual assaults against Palestinian detainees by Israeli security services is \"without merit\".",
-      "summary_zh": "\"纽约时报\"表示,以色列总理本雅明·内塔尼亚胡威胁以色列对一篇指控以色列安全部门对巴勒斯坦被拘押者进行性攻击的文章的诽谤行动\"毫无道理\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
-      "title_zh": "AI 私刑陷阱被指称在法国的恋童癖前教师",
-      "link": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T14:26:27+00:00",
-      "summary": "A retired French sports teacher is in custody after being caught making sexual propositions online to a 14 year-old girl.",
-      "summary_zh": "一位退休的法国体育老师在被网友抓到后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: What did we learn from Trump's visit to China?",
       "title_zh": "央视:特朗普访华有何收获?.",
       "link": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-15T13:25:23+00:00",
       "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
       "summary_zh": "特朗普总统在与中国领导人习近平举行的高考峰会上结束了对北京的两天访问."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-      "title_zh": "基辅哀悼24人死于俄罗斯对公寓的打击,",
-      "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T12:53:57+00:00",
-      "summary": "Russia and Ukraine exchanged 205 prisoners of war on Friday, hours after rescue workers ended their search of a destroyed block of flats in Kyiv in which 24 people were killed, including three girls.",
-      "summary_zh": "俄罗斯和乌克兰星期五交换了205名战俘,在救援人员结束对基辅被摧毁的平地的搜索数小时后,包括3名女孩在内的24人被杀死."
     },
     {
       "source": "BBC News",
@@ -226,32 +256,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US hotel owners expected a World Cup boom - so far it hasn't happened",
-      "title_zh": "美国酒店老板预料到世界杯的兴起 目前还没有发生",
-      "link": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T05:01:55+00:00",
-      "summary": "Walking the streets of Kansas City, Houston, Miami and New York it is hard not to notice a World Cup is coming.",
-      "summary_zh": "在堪萨斯城、休斯敦、迈阿密和纽约等地的街道上,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
       "title_zh": "BBC发现,",
       "link": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-15T05:01:37+00:00",
       "summary": "The \"Great British People\" Facebook page, which purports to be from Yorkshire, has had 1.3 million views for its latest video of an elderly white British man crying about his pension. Other videos show reporters discussing \"the overwhelming scale of mass immigration\" and asking viewers if they miss \"the Britain we used to know\".",
       "summary_zh": "\"大英人民\"脸书页面声称来自约克郡, 其他视频显示记者讨论\"大规模移民的压倒性规模\"并询问观众是否怀念\"我们曾经认识的英国\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
-      "title_zh": "残酷地突袭了女人的生日派对 凸显出俄罗斯义勇团的崛起",
-      "link": "https://www.bbc.com/news/articles/cq5p306l7weo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-15T00:04:45+00:00",
-      "summary": "Warning: This article contains discriminatory language",
-      "summary_zh": "警告: 该条含有歧视性语言。"
     },
     {
       "source": "BBC News",
