@@ -1,107 +1,307 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-19T23:21:41+00:00",
-  "count": 42,
+  "generated_at": "2026-05-20T23:39:30+00:00",
+  "count": 37,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 3700件超 有価証券などの取り引き",
-      "title_zh": "川普总统超过3700套证券",
-      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126181000.html",
-      "published_at": "2026-05-19T22:52:36+00:00",
-      "summary": "アメリカのトランプ大統領がことし1月から3月までにあわせて3700件あまりの有価証券などの取り引きをしていたことが分かりました。 半導体大手から日本の回転ずしチェーンの子会社まで含まれていて、アメリカ…",
-      "summary_zh": "我发现,特朗普在美国的总统从1月到3月处理了大约3700个证券. 从主要的半导体到日本革命废品链的子公司 美国..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "栃木強盗殺人事件 住宅に人がいる前提で準備進め襲撃か",
-      "title_zh": "庄园里的人准备抢劫案",
-      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126091000.html",
-      "published_at": "2026-05-19T21:29:50+00:00",
-      "summary": "栃木県上三川町で起きた強盗殺人事件で、逮捕された高校生らはバールや刃物のほか顔を隠す目出し帽など周到な準備をもとに住宅に押し入った疑いがあることから警察は指示役も含めて住宅に人がいることを前提に事件を…",
-      "summary_zh": "在州道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道道"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "きょう北京で中ロ首脳会談 両国の結束確認か",
-      "title_zh": "两国债券的折合",
-      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126001000.html",
-      "published_at": "2026-05-19T20:33:43+00:00",
-      "summary": "中国の習近平国家主席とロシアのプーチン大統領が20日、中国の首都北京で会談し、欧米主導の国際秩序に対抗する姿勢を示すとともに、両国の結束を確認すると見られます。",
-      "summary_zh": "中国国家主席与俄罗斯普丁总统于中国首都北京第20次会议,表示反对世界驱动的国际秩序的态度,并肯定了两国的纽带."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "title_zh": "极右翼的以色列部长谴责持手铐的加沙船队活动分子",
+      "link": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T23:28:28+00:00",
+      "summary": "There has been international condemnation of Israel's treatment of pro-Palestinian activists who were on board a Gaza-bound aid flotilla intercepted by Israeli naval forces.",
+      "summary_zh": "国际上一直谴责以色列对待亲巴勒斯坦的活动分子的做法,他们当时在以色列海军拦截的一支加沙援助船队上。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
-      "title_zh": "圣迭戈清真寺被击毙的八名父亲 被誉为英雄",
-      "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T20:32:36+00:00",
-      "summary": "The bravery of a security guard who was shot dead along with two other worshippers at a San Diego mosque on Monday prevented the attack from being much worse, say police.",
-      "summary_zh": "一名保安的勇敢,星期一在圣地牙哥清真寺被枪杀,还有两名礼拜者被枪杀,这阻止了袭击的更严重。"
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "title_zh": "美国指控古巴的劳尔·卡斯特罗 1996年谋杀了两架飞机",
+      "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T23:28:07+00:00",
+      "summary": "The US has charged former Cuban leader Raúl Castro with conspiracy to kill US nationals and other crimes over the 1996 downing of two planes between Cuba and Florida.",
+      "summary_zh": "美国指控古巴前领导人劳尔·卡斯特罗阴谋杀害美国国民并犯有1996年在古巴和佛罗里达之间击落两架飞机的其他罪行。"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "日韓首脳 エネルギー供給強じん化で一致 政策対話で具体化へ",
-      "title_zh": "日本-韩国大脑与能源供应加强相协调",
-      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015125951000.html",
-      "published_at": "2026-05-19T20:20:28+00:00",
-      "summary": "高市総理大臣は19日、韓国のイ・ジェミョン(李在明)大統領と首脳会談を行い、インド太平洋地域での備蓄強化を含むエネルギー供給の強じん化を進めることなどで一致しました。今後、「政策対話」を立ち上げ、協力…",
-      "summary_zh": "19日,高一总理会见韩国总统李才美,以推进能源供应,包括加强印度太平洋区域的储存. 今后,我们发起了政策对话和合作."
+      "title": "トランプ大統領 台湾・頼清徳総統と協議の意向 武器売却めぐり",
+      "title_zh": "川普总统打算在台湾与雷世涛总统讨论",
+      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127351000.html",
+      "published_at": "2026-05-20T22:26:43+00:00",
+      "summary": "アメリカのトランプ大統領は、台湾への武器の売却をめぐり台湾の頼清徳総統と協議する意向を示しました。ロイター通信によりますと、現職のアメリカの大統領と台湾の総統による直接対話が行われれば、1979年に台…",
+      "summary_zh": "美国总统特朗普表示,他打算与台湾依赖向台湾出售武器进行讨论. 与路透社通讯的In 112. 如果与现任美国总统和台湾通则进行直接对话,则在一."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "兵庫 たつの 母娘死亡 2人の上半身に複数の傷 殺害されたか",
-      "title_zh": "兵库 两个上身被多处刮伤 它死了吗?",
-      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126061000.html",
-      "published_at": "2026-05-19T20:14:42+00:00",
-      "summary": "19日、兵庫県たつの市の住宅で70代の母親と50代の娘が死亡しているのが見つかり、2人の上半身に刺し傷などが複数あったことが捜査関係者への取材で分かりました。 母親に比較的多くの傷があったということで…",
-      "summary_zh": "19日,我发现我70多岁和50多岁的女儿死于兵库县辰野市的一所房屋中,我发现两人上身有几处刺伤. 因为母亲身上有不少伤痕..."
+      "title": "米 キューバのラウル・カストロ氏を民間機撃墜事件で起訴",
+      "title_zh": "美国古巴劳尔·卡斯特罗在民用飞机坠毁中被起诉",
+      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127341000.html",
+      "published_at": "2026-05-20T22:23:29+00:00",
+      "summary": "30年前にキューバ軍がアメリカの民間の小型機2機を撃墜した事件をめぐり、アメリカ司法省は当時キューバの国防相だったラウル・カストロ元国家評議会議長が起訴されたと発表しました。キューバに対し政治や経済の…",
+      "summary_zh": "美国司法部宣布,前劳鲁·卡斯特罗国务院是古巴的政治人物,在30年前古巴军队击败了两个美国微型企业时被起诉. 古巴的政治和经济"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "中国 上海で傷害事件 日本人2人けが 安全確保呼びかけ",
-      "title_zh": "上海日本人二人伤病病例",
-      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126171000.html",
-      "published_at": "2026-05-19T20:09:48+00:00",
-      "summary": "中国・上海のオフィスビルにある飲食店で19日、果物ナイフを持った男に襲われ日本人2人を含む3人がけがをし、病院で手当てを受けています。地元の警察が容疑者を拘束し事件のいきさつを調べています。",
-      "summary_zh": "中国上海餐厅19日,一名持水果刀男子打伤了3人,其中包括2名日本人,并在医院接到电话. 当地警方将嫌疑人捆绑并检查了事件."
+      "title": "米 イランに新たな文書か トランプ大統領“最終段階”",
+      "title_zh": "美国总统特朗普的最后阶段",
+      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127321000.html",
+      "published_at": "2026-05-20T22:15:34+00:00",
+      "summary": "アメリカとイランの戦闘終結に向けた協議をめぐり、イランメディアは、アメリカ側から届いた新たな文書についてイラン側が内容を検討していると伝えました。アメリカのトランプ大統領は「イランについては最終段階に…",
+      "summary_zh": "伊朗报道伊朗媒体正在考虑美国新文件的内容. 特朗普出任美国总统\"关于伊朗的最后阶段\"."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Singer Patrick Bruel denies wave of sexual assault allegations in France",
-      "title_zh": "Singer Patrick Bruel否认法国的性攻击指控浪潮",
-      "link": "https://www.bbc.com/news/articles/cjwpyzwn7epo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T19:52:08+00:00",
-      "summary": "Warning: contains details of alleged sexual offences and misconduct",
-      "summary_zh": "警告:载有所指控的性犯罪和不当行为的详细情况。"
+      "title": "Why Russian jets intercepting an RAF spy plane is 'serious incident'",
+      "title_zh": "为什么俄罗斯喷气机拦截一架RAF间谍飞机是\"严重事件\".",
+      "link": "https://www.bbc.com/news/videos/cx21y59q35wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T21:46:32+00:00",
+      "summary": "Two Russian warplanes \"dangerously\" intercepted an unarmed RAF spy plane over the Black Sea last month, the Ministry of Defence has said on Wednesday.",
+      "summary_zh": "两架俄罗斯战机\"危险地\"拦截了一架手无寸铁的RAF间谍飞机,上个月在黑海上空,国防部星期三说."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "電気・ガス支援で予備費支出調整 補正予算案の検討本格化 政府",
+      "title_zh": "电力和天然气支助初步支出",
+      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127111000.html",
+      "published_at": "2026-05-20T20:29:44+00:00",
+      "summary": "中東情勢を受けて、政府はこの夏の電気・ガス料金の支援のため、来週にも今年度予算の予備費から5000億円程度の支出を決める方向で調整を進めています。予備費が減少することも踏まえ、今年度の補正予算案の検討…",
+      "summary_zh": "为了应对中东的局势,政府一直在进行调整,以便确定下星期从第1994/Denditure预算中拨出的500亿日元,用于支持今年夏天的电力和天然气收费。 今年的补偿预算计划是根据初步开支的减少来考虑的. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "栃木強盗殺人事件 容疑者 周到に準備も想定外の状況に陥ったか",
+      "title_zh": "i 盗贼谋杀怀疑 准备是否出乎意料",
+      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127301000.html",
+      "published_at": "2026-05-20T20:00:44+00:00",
+      "summary": "今月14日に栃木県上三川町で起きた強盗殺人事件で、指示役として逮捕された夫婦は実行役とされる高校生らに対して周到に準備を進めた一方で、高校生が逃走用の車に乗り遅れたとみられるなど、ずさんさが事件後に浮…",
+      "summary_zh": "本月14日,作为教官被捕的一对夫妇 Mikawa-cho, 州, 已经准备了高中学生 执行..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "加熱式たばこ受動喫煙 健康影響評価まとまる 厚労省研究班",
+      "title_zh": "健康影响评估",
+      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127251000.html",
+      "published_at": "2026-05-20T19:38:25+00:00",
+      "summary": "喫煙者の4割が利用するようになっている「加熱式たばこ」による受動喫煙の影響について、厚生労働省の研究班が評価をまとめたことが分かりました。加熱式たばこの使用によって空気中の有害物質が増加する一方、受動…",
+      "summary_zh": "经证实,卫生劳动省研究组以\"热型香烟\"总结了被动吸烟的影响,80%的吸烟者使用. 加热的烟草使用会增加空气中的有毒物质,而被动..."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-      "title_zh": "埃博拉疫情的传播可能比最初想象的要快,",
-      "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T19:32:22+00:00",
-      "summary": "People living close to the epicentre of a deadly Ebola outbreak have told the BBC of their fear, as the World Health Organization (WHO) warned cases may be spreading faster than originally thought.",
-      "summary_zh": "生活在致命埃博拉疫情震中附近的人们已经告诉英国广播公司他们的恐惧,因为世界卫生组织(世卫组织)警告的病例传播速度可能比原先想象的要快."
+      "title": "Austrian ex-intelligence officer found guilty of Russia spying charges",
+      "title_zh": "奥地利前情报官员被判犯有俄罗斯间谍罪",
+      "link": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T19:30:07+00:00",
+      "summary": "Former intelligence official Egisto Ott has been found guilty of spying for Russia, in what has been dubbed Austria's biggest spy trial in years.",
+      "summary_zh": "前情报官员埃吉斯托·奥特(Egisto Ott)在被誉为奥地利多年来最大的间谍审判中,被认定为为俄罗斯间谍."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Estonia says Nato jet shot down drone over its territory",
-      "title_zh": "爱沙尼亚说纳托喷气式飞机在境内击落无人机",
-      "link": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T19:01:44+00:00",
-      "summary": "Estonia has said a Nato fighter jet shot down a drone, which it suspects was a Ukrainian projectile knocked off course by Russian electronic jamming, over its territory.",
-      "summary_zh": "爱沙尼亚说,一架纳托战斗机击落了一架无人机,它怀疑是一架乌克兰射弹在其领土上空被俄罗斯电子干扰击中。"
+      "title": "Final two bodies of missing Italians recovered from inside Maldives cave",
+      "title_zh": "最后两具失踪的意大利人的尸体 从马尔代夫洞穴里找到",
+      "link": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T17:33:33+00:00",
+      "summary": "The remaining two bodies of Italian nationals who drowned in last week's scuba diving accident in the Maldives have been recovered, local officials say.",
+      "summary_zh": "当地官员说,其余两具在上星期马尔代夫潜水事故中被淹死的意大利国民尸体已经找回."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tesla Cybertruck driver arrested after driving into lake to use 'wade mode', police say",
+      "title_zh": "Tesla Cybertruck 司机开车进入湖里使用“wade模式”后被捕,",
+      "link": "https://www.bbc.com/news/articles/c072x1kml44o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T16:46:33+00:00",
+      "summary": "A man has been arrested in Texas accused of intentionally driving his Tesla Cybertruck into a lake to use the vehicle's \"wade mode\" feature.",
+      "summary_zh": "德克萨斯州一名男子被指故意将他的特斯拉Cybertruck开入湖中,以使用该车\"出行模式\"特征."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+      "title_zh": "罗森伯格:普京享受了习近平的中国欢迎,但是没有管道交易就回家了.",
+      "link": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T16:34:40+00:00",
+      "summary": "For a moment you could have mistaken Beijing for Moscow.",
+      "summary_zh": "有那么一瞬间 你可能会把北京误认为莫斯科"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Whale to be removed from Danish island after failed German rescue",
+      "title_zh": "鲸鱼在德国救援失败后要离开丹麦岛",
+      "link": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T16:07:24+00:00",
+      "summary": "Danish environment officials are planning to remove the carcass of a humpback whale from the island of Anholt, as concerns are raised of a potential health risk.",
+      "summary_zh": "丹麦环境官员正计划从安霍尔特岛取出座头鲸的尸体,因为人们担心有潜在的健康风险。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Could a football match soften North Korea-South Korea relations?",
+      "title_zh": "足球比赛能否缓和朝鲜-韩国关系?.",
+      "link": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T15:58:01+00:00",
+      "summary": "A women's football match between teams from North and South Korea marked the first time athletes from the North have crossed the border since 2018.",
+      "summary_zh": "南北韩各队的女子足球比赛标志着自2018年以来,北韩运动员首次出道."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest",
+      "title_zh": "谋杀还是意外? 关于芒果大亨被捕后徒步死亡的神秘故事",
+      "link": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T15:44:41+00:00",
+      "summary": "When Jonathan Andic, son of the late founder of one of Europe's biggest clothing empires, posted €1m (£865,000) in bail shortly after being arrested in connection with his father's death, it was the latest twist in a saga that has gripped and mystified Spain.",
+      "summary_zh": "当Jonathan Andic是欧洲最大服装帝国之一的已故创始人之一的儿子时,在因他父亲的死而被捕后不久,他保释了100万欧元(865,000英镑),这是一次拉住并神秘化了西班牙的沙加的最新曲折."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US military jets and drones tracked near Cuba as tensions rise",
+      "title_zh": "随着紧张局势的加剧,美国军机和无人机在古巴附近跟踪",
+      "link": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T15:36:03+00:00",
+      "summary": "The US military has been publicly broadcasting the location of military surveillance flights near Cuba on plane-tracking websites, as Washington continues to exert pressure on the island's communist leadership.",
+      "summary_zh": "美国军方一直公开在飞机跟踪网站上广播古巴附近的军事监视飞行地点,因为华盛顿继续对该岛的共产主义领导人施加压力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Barney Frank: One of the first openly gay US congressmen dies aged 86",
+      "title_zh": "巴尼·弗兰克(Barney Frank):美国最早的公开同性恋议员之一,享年86岁.",
+      "link": "https://www.bbc.com/news/articles/ckgpy2ze3q1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T15:33:12+00:00",
+      "summary": "Former US congressman Barney Frank, who famously took on Wall Street and was one of the first known openly gay representatives, died on Tuesday night, US media reports. He was 86.",
+      "summary_zh": "前美国国会议员巴尼·弗兰克(Barney Frank)出名于华尔街,是最早已知的公开同性恋代表之一,星期二晚上去世,美国媒体报道. 他是86岁。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
+      "title_zh": "世卫组织警告说,埃博拉疫苗可能需要9个月,",
+      "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T15:18:12+00:00",
+      "summary": "The World Health Organization (WHO) says it could take up to nine months before a vaccine against this particular species of Ebola is ready.",
+      "summary_zh": "世界卫生组织(WHO)说,要为这一特定种类的埃博拉接种疫苗,可能需要9个月。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know about the San Diego mosque attack suspects",
+      "title_zh": "关于圣迭戈清真寺袭击嫌犯的线索",
+      "link": "https://www.bbc.com/news/articles/cg4pnp0gdlko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T15:15:09+00:00",
+      "summary": "The two teenage suspects in the gun attack on a San Diego mosque shared a \"broad hatred\" of multiple religions and racial groups, authorities have said.",
+      "summary_zh": "当局表示, 圣迭戈清真寺遭枪击的两名十几岁嫌犯,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "民事裁判手続きの全面デジタル化 きょうからスタート",
+      "title_zh": "民事审判程序完全数字化",
+      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127131000.html",
+      "published_at": "2026-05-20T15:01:26+00:00",
+      "summary": "民事裁判の手続きが21日から全面的にデジタル化されます。提訴から判決までの一連の手続きをオンラインで行えるようになり、最高裁判所は「利便性や司法手続きのアクセスが格段に向上する」としています。",
+      "summary_zh": "民事审判程序将从21日起数字化. 最高法院制定了一系列从起诉到在线裁决的程序,“便利和司法程序的获取大有改进”。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+      "title_zh": "埃博拉是什么,为什么阻止最近的疫情如此困难?",
+      "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T14:37:46+00:00",
+      "summary": "An Ebola outbreak in the Democratic Republic of Congo has been declared a public health emergency of international concern, by the World Health Organization (WHO).",
+      "summary_zh": "世界卫生组织(世卫组织)宣布刚果民主共和国爆发埃博拉疫情为国际关注的公共卫生紧急情况。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Police officer catches baby dropped from window of burning home",
+      "title_zh": "警方抓起从燃烧之窗扔下的孩子",
+      "link": "https://www.bbc.com/news/videos/c87qrdnw10vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T11:54:00+00:00",
+      "summary": "Body cam footage shows the moment a baby was caught by a police officer, after a mother threw the infant from a window during a house fire in Kalamazoo, in the US state of Michigan.",
+      "summary_zh": "一名母亲在美国密歇根州Kalamazoo发生家事时将婴儿从窗户上扔出。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
+      "title_zh": "习近平在特朗普落幕后,",
+      "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T11:42:44+00:00",
+      "summary": "Cheering children - check. Military honour guard – check. Cannon fire and marching band - check.",
+      "summary_zh": "欢呼孩子们 - 检查。 军事荣誉后卫–检查. 炮火和行军乐队 - 检查。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lithuania's leaders take shelter during drone air alert",
+      "title_zh": "立陶宛领导人在无人机空中警报时躲起",
+      "link": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T10:53:19+00:00",
+      "summary": "Lithuania's president and prime minister were forced to take shelter on Tuesday, when a drone alert caused the capital Vilnius to come to a standstill.",
+      "summary_zh": "立陶宛总统和总理被迫在星期二避难,当时无人机警报导致首都维尔纽斯陷入停滞."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+      "title_zh": "特朗普对共和党施加了铁腕 打败了马西",
+      "link": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T09:49:33+00:00",
+      "summary": "Another one bites the dust.",
+      "summary_zh": "又一咬取出尘."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria arrests former minister in hiding after corruption conviction",
+      "title_zh": "尼日利亚在腐败定罪后逮捕躲藏中的前部长",
+      "link": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T08:04:03+00:00",
+      "summary": "Nigeria's anti-corruption agency says it has arrested former Power Minister Saleh Mamman a week after he was sentenced to 75 years in jail on corruption charges.",
+      "summary_zh": "尼日利亚的反腐败机构表示,在前权力部长萨利赫·马曼因腐败被处以75年监禁一周后,该机构逮捕了他."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+      "title_zh": "特朗普的格陵兰特使在执行任务时面临“交朋友”的激烈战斗。",
+      "link": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T03:49:24+00:00",
+      "summary": "President Donald Trump's special envoy to Greenland, Jeff Landry, has begun his first visit to the Arctic island in a bid to build ties and make \"friends\".",
+      "summary_zh": "唐纳德·特朗普总统去格陵兰的特使杰夫·兰德里开始首次访问北极岛,以图建立纽带并\"交朋友\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+      "title_zh": "在巴基斯坦谋杀少年TikTok星的人会被判处死刑",
+      "link": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T01:52:24+00:00",
+      "summary": "A court in Pakistan has sentenced a man to death over the murder of a teen social media influencer that sparked uproar across the country.",
+      "summary_zh": "巴基斯坦的一家法院判处一名男子死刑,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump endorses Paxton in Texas, gambling on a challenger with baggage in a crucial race",
+      "title_zh": "特朗普在德克萨斯州支持帕克斯顿 赌博挑战者 行李在关键的比赛中",
+      "link": "https://www.bbc.com/news/articles/cy72v488g4go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T00:03:04+00:00",
+      "summary": "US President Donald Trump has endorsed Texas Attorney General Ken Paxton in his bid to unseat incumbent Senator John Cornyn in next Tuesday's Republican primary run-off race.",
+      "summary_zh": "美国总统唐纳德·特朗普支持德克萨斯州司法部长肯·帕克斯顿(Ken Paxton)在下星期二的共和党初选赛中出任参议员约翰·科宁(John Cornyn)."
     },
     {
       "source": "BBC News",
@@ -116,72 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Key people smuggler arrested after BBC uncovered identity",
-      "title_zh": "BBC发现身份后被捕的走私犯",
-      "link": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T17:05:41+00:00",
-      "summary": "A high-level people smuggler identified in a BBC investigation has been arrested in Iraqi Kurdistan.",
-      "summary_zh": "BBC调查中查明的一名高层次走私犯在伊拉克库尔德斯坦被捕."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
       "title_zh": "泰国削减包括联合王国在内的90多个国家的免签证居留期",
       "link": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-19T16:34:21+00:00",
       "summary": "UK citizens are among dozens of nationalities who will soon have to apply for a visa if they wish to stay in Thailand for more than 30 days.",
       "summary_zh": "联合王国公民是数十个国籍之一,如果他们希望在泰国逗留30多天,他们很快必须申请签证。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two bodies of missing Italians recovered from inside Maldives cave",
-      "title_zh": "两具失踪的意大利人的尸体 从马尔代夫洞穴里找到的",
-      "link": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T15:43:58+00:00",
-      "summary": "The bodies of two Italians who drowned in a scuba diving accident in the Maldives last week have been brought to the surface, local officials have told the BBC.",
-      "summary_zh": "两名意大利人的尸体上周在马尔代夫的一次潜水事故中被淹死,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Son of Mango boss arrested over father's fatal fall from cliff",
-      "title_zh": "芒果老大的儿子因为父亲从悬崖上摔倒而被捕",
-      "link": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T15:30:57+00:00",
-      "summary": "The son of Mango founder Isak Andic has been arrested in connection with his father's death.",
-      "summary_zh": "芒果创始人伊萨克·安地克之子因父亲之死而被捕."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Uncontrolled California wildfires seen from space",
-      "title_zh": "从太空中看到的无控制的加州野火",
-      "link": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T13:39:45+00:00",
-      "summary": "Satellite images have revealed the scale of two wildfires spreading in southern California.",
-      "summary_zh": "卫星图像揭示出两起野火在加利福尼亚州南部蔓延的规模."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
-      "title_zh": "埃博拉是什么,为什么阻止最近的疫情如此困难?",
-      "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T12:24:50+00:00",
-      "summary": "An Ebola outbreak in the Democratic Republic of Congo has been declared a public health emergency of international concern, by the World Health Organization (WHO).",
-      "summary_zh": "世界卫生组织(世卫组织)宣布刚果民主共和国爆发埃博拉疫情为国际关注的公共卫生紧急情况。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "辺野古沖転覆事故 死亡した船長を国が刑事告発へ",
-      "title_zh": "高子洋子出事 队长呼叫Cri通知",
-      "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125941000.html",
-      "published_at": "2026-05-19T12:08:33+00:00",
-      "summary": "アメリカ軍普天間基地の移設工事が進む沖縄県名護市辺野古の沖合で船が転覆し、研修旅行中の高校生と船長が死亡した事故で、法律で義務づけられた登録を行わないまま船を運航したとして、国が近く、死亡した船長を海…",
-      "summary_zh": "对于高中生和船长在训练之行中相继死亡的,该船在未依法登记的情况下进行操作."
     },
     {
       "source": "BBC News",
@@ -216,56 +356,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Jackson Pollock painting sells for record $181m at auction",
-      "title_zh": "Jackson Pollock 画作拍卖时销量为181m",
-      "link": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T09:59:58+00:00",
-      "summary": "A Jackson Pollock artwork, described as one of history's \"first truly abstract paintings\", has sold at auction for $181m (£135m) in New York.",
-      "summary_zh": "一部被描述为历史\"第一幅真正抽象的画作\"的杰克逊·波洛克(Jackson Pollock)出品的艺术品,已经在纽约以1.81亿美元(135万英镑)的拍卖价被出售."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two dead in Spain shooting, with babies reportedly among injured",
-      "title_zh": "西班牙有两人死亡,据报有婴儿受伤",
-      "link": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T07:17:15+00:00",
-      "summary": "A 25-year-old man has been arrested on suspicion of killing his parents and injuring four others in a mass shooting in southern Spain, police have said.",
-      "summary_zh": "一名25岁男子被怀疑在西班牙南部的大规模枪击中杀害了父母并打伤了另外四人而被捕,警方表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
-      "title_zh": "星巴克 韩国解雇CEO 因为有争议的\"Tank Day\"升职",
-      "link": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T06:03:52+00:00",
-      "summary": "Starbucks Korea's chief executive has been sacked over a campaign perceived as referring to a bloody historical incident.",
-      "summary_zh": "星巴克韩国的首席执行官因一场被认为是指血腥历史事件的竞选而被解雇."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tasmanian government apologises over stolen body parts scandal",
-      "title_zh": "塔斯马尼亚州政府就偷来的尸体丑闻道歉",
-      "link": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T04:19:37+00:00",
-      "summary": "The Tasmanian government has apologised for a decades-old scandal in which body parts taken from autopsies were secretly kept - and in some cases put on display - without the consent of families.",
-      "summary_zh": "塔斯马尼亚政府曾为数十年的丑闻表示歉意, 在这场丑闻中,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
-      "title_zh": "特朗普告诉台湾不要\"独立去\",但是它想吗?",
-      "link": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-19T02:41:57+00:00",
-      "summary": "Hours after meeting Chinese President Xi Jinping in Beijing last week, Donald Trump issued a stern warning to Taiwan against pursuing independence.",
-      "summary_zh": "上周在北京会见中国国家主席习近平后数小时,唐纳德·特朗普向台湾发出严正警告,不要追求独立."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "What really holds China and Russia together",
       "title_zh": "真正牵制中国和俄罗斯的",
       "link": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
@@ -276,152 +366,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "title_zh": "特朗普说,他取消了伊朗在海湾国家的要求下发动的新攻击",
-      "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T22:30:58+00:00",
-      "summary": "US President Donald Trump has said he is holding off a military attack on Iran planned for Tuesday at the request of Gulf states as \"serious negotiations are now taking place\".",
-      "summary_zh": "美国总统唐纳德·特朗普表示,他推迟了周二应海湾国家要求计划对伊朗的军事袭击,因为\"认真的谈判正在进行\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-      "title_zh": "穆斯克在陪审团发现他等了太久才起诉之后 输掉了OpenAI法庭战",
-      "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T22:08:37+00:00",
-      "summary": "A California jury has tossed out Elon Musk's high-profile lawsuit against OpenAI and its boss Sam Altman.",
-      "summary_zh": "一个加利福尼亚州陪审团将埃隆·穆斯克对OpenAI及其上司萨姆·阿尔特曼的高调诉讼抛出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'FedEx says your parcel has drugs': The scam that trapped an Indian comedian",
-      "title_zh": "\"FedEx说你的包裹有毒品\": 困住印度喜剧演员的骗局",
-      "link": "https://www.bbc.com/news/articles/cevp1lvzd8ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T22:03:54+00:00",
-      "summary": "\"Hello ma'am, I'm calling from FedEx. We've been alerted by police that a courier you sent to Iraq contains drugs.\"",
-      "summary_zh": "\"你好,女士,我是从联邦快递打来的\" 警方警告我们,你派到伊拉克的快递员里有毒品。”"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The Republican who stood up to Trump is hoping for a big win against president",
-      "title_zh": "支持特朗普的共和党人希望大胜总统",
-      "link": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T21:39:45+00:00",
-      "summary": "At a rally in a car park outside his campaign headquarters in Florence, Kentucky, on Saturday, congressman Thomas Massie said that the Republican politicians who joined him had made a brave choice.",
-      "summary_zh": "在他位于肯塔基州佛罗伦萨的竞选总部外的一个停车场的集会上,议员托马斯·马西(Thomas Massie)说,加入他的共和党政治家做出了勇敢的选择."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump administration unveils $1.8bn fund to compensate his allies as he drops tax lawsuit",
-      "title_zh": "特朗普政府公布1.8bn基金 以补偿盟友 他放弃税务诉讼",
-      "link": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T19:53:31+00:00",
-      "summary": "The US justice department has announced an almost $1.8bn (£1.3bn) fund to compensate allies of President Donald Trump who allege they were unfairly investigated, including by the Biden administration.",
-      "summary_zh": "美国司法部宣布了近1.8bn(1.3bn英镑)基金,以补偿唐纳德·特朗普总统的盟友,他们声称自己受到了包括拜登政府在内的不公正调查."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four killed in protests during Kenyan strikes over high fuel prices",
-      "title_zh": "在肯尼亚因燃料价格高涨而罢工期间,4人被炸死",
-      "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T16:49:45+00:00",
-      "summary": "Four people have been killed and at least 30 injured in protests linked to Kenya's nationwide transport strikes against recent increases in the cost of fuel, according to the interior minister.",
-      "summary_zh": "据内政部长说,与肯尼亚全国交通罢工有关的抗议活动造成4人死亡,至少30人受伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "'I sold it for over £1k': Swatch launch sparks 'chaotic' scenes",
       "title_zh": "\"我卖了超过一克\": Swatch 发射会点燃“ 混乱” 的场景",
       "link": "https://www.bbc.com/news/videos/cdep67ej9z2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-18T16:48:03+00:00",
       "summary": "Large crowds of people have been queuing outside Swatch stores worldwide, with some shops having to close over safety considerations.",
       "summary_zh": "大批民众在世界各地的Swatch商店外排队,有些商店不得不关闭安全考虑。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "title_zh": "以色列袭击黎巴嫩的死亡人数超过3000人,",
-      "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T16:16:38+00:00",
-      "summary": "Lebanon's health ministry says the number of people killed in the country by Israeli strikes during the conflict between Israel and Hezbollah, which escalated at the beginning of March, has surpassed 3,000.",
-      "summary_zh": "黎巴嫩卫生部表示,3月初以色列和真主党冲突升级期间被以色列袭击致死的人数已超过3000人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Shakira wins £50m tax refund from Spanish government",
-      "title_zh": "Shakira赢得了西班牙政府5 000万英镑的退税",
-      "link": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T15:08:40+00:00",
-      "summary": "A Spanish court has ordered the country's tax authority to refund €55m (£48m, $64m) to singer Shakira after ruling that the money was improperly collected in a dispute over her taxes.",
-      "summary_zh": "西班牙一法院在判定该笔钱在她的税收纠纷中被不当收受后,下令该国税务当局将5500万欧元(4800万英镑,6400万英镑)退还给歌手Shakira."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
-      "title_zh": "两名男子因特技被捕 在围捕出名的猴子 Punch",
-      "link": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T14:51:53+00:00",
-      "summary": "Two US nationals have been arrested after one jumped into the enclosure of an internet-famous monkey at a Japanese zoo while the other filmed the stunt, police have said.",
-      "summary_zh": "警方表示, 两名美国国民在日本动物园内被一个知名的猴子抓住后被捕,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment two fighter jets collide mid-air at US air show",
-      "title_zh": "两架战斗机在美国空战中坠入空中",
-      "link": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-18T00:49:25+00:00",
-      "summary": "Four crew members are in stable condition after two fighter jets collided mid-air during a US air show, officials have said.",
-      "summary_zh": "4名机组人员在两架战斗机在一次美国空中表演中相撞后处于平稳状态。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
-      "title_zh": "在乌克兰前线的\"杀戮区\"里 新的武器改变了战争",
-      "link": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-17T23:02:15+00:00",
-      "summary": "After 225 days stuck in a front-line foxhole, the Ukrainian infantryman's muscles were so weak he could barely walk.",
-      "summary_zh": "225天后被困在一线的狐狸洞中,乌克兰步兵的肌肉如此虚弱,几乎无法行走."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady",
-      "title_zh": "从逃避童婚\"变老\"到成为塞拉利昂第一夫人",
-      "link": "https://www.bbc.com/news/articles/cvgzpz7zyd4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-17T23:01:51+00:00",
-      "summary": "It takes Fatima Bio only a moment to respond when we ask what it was like to be an asylum seeker in London.",
-      "summary_zh": "这需要法蒂玛 当我们问伦敦的寻求庇护者是什么感觉时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
-      "title_zh": "欧视冠军德拉抵达保加利亚尖叫的粉丝",
-      "link": "https://www.bbc.com/news/videos/c2k2p8qkk58o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-17T18:10:32+00:00",
-      "summary": "Bulgarian pop star Dara was met by a crowd of fans in Sofia airport on Sunday, celebrating her historic Eurovision win.",
-      "summary_zh": "保加利亚流行歌星德拉星期天在索非亚机场被一群球迷接见,为她历史性的\"欧洲视线\"取胜而庆贺."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
-      "title_zh": "灯光相机 班加兰加:欧洲视线的亮相",
-      "link": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-17T02:00:44+00:00",
-      "summary": "Eurovision 2026 has come to a close, with Bulgaria crowned winner and Israel in second place after a nail-biting public vote.",
-      "summary_zh": "2026年\"欧洲之声\"(Eurovision 2026)告一段落收官,保加利亚加冕得主,以色列入选第2名,仅次于被钉入公投."
     }
   ]
 }
