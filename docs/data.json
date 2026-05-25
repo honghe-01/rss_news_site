@@ -1,17 +1,287 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-24T23:13:37+00:00",
-  "count": 50,
+  "generated_at": "2026-05-25T23:21:26+00:00",
+  "count": 36,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "NY原油 一時1バレル＝91ドル台まで下落 戦闘終結へ進展の見方",
-      "title_zh": "纽约原油为一桶临时原油=91美元",
-      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130551000.html",
-      "published_at": "2026-05-24T22:28:38+00:00",
-      "summary": "ニューヨーク原油市場では24日、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝91ドル台まで下落しました。先週末と比べるとおよそ5％下落しています。",
-      "summary_zh": "纽约原油市场24日,作为国际提货指标的WTI期货价格已暂时跌至91美元,低于上周末."
+      "title": "東北新幹線 運転再開",
+      "title_zh": "东莞申克森",
+      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131371000.html",
+      "published_at": "2026-05-25T23:02:21+00:00",
+      "summary": "JR東日本によりますと、東北新幹線は夜間作業の遅れの影響で仙台駅と郡山駅の間の上り線で運転を見合わせていましたが、午前7時49分に運転を再開しました。",
+      "summary_zh": "在与JR East的JR中,由于深夜工作,东莞新康森号在仙台站至高丽山站之间的上行线上看到行车,但于早上7:49恢复运营."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "鹿児島奄美地方で昼前にかけ線状降水帯発生のおそれ",
+      "title_zh": "鹿儿岛阿美地区有线性降水区",
+      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015131131000.html",
+      "published_at": "2026-05-25T22:47:58+00:00",
+      "summary": "停滞する梅雨前線の影響で、鹿児島県の奄美地方では大気の状態が非常に不安定になり局地的に非常に激しい雨が降っています。奄美地方では26日昼前にかけて線状降水帯が発生して災害の危険度が急激に高まるおそれが…",
+      "summary_zh": "由于雨季的六分之一,鹿儿岛县阿马米地区的气候非常不稳定,当地非常强的降雨量也逐渐减少. 在阿迈米地区,由于26日事发前的线性降水区,灾害的危险突然上升. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ホワイトソックス村上宗隆が18号 西田陸浮もデビュー戦で活躍",
+      "title_zh": "白袜子 Sotaka Ms. Murakami 在18年的西田武树出道",
+      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131381000.html",
+      "published_at": "2026-05-25T22:27:59+00:00",
+      "summary": "大リーグ、ホワイトソックスの村上宗隆選手がツインズ戦で18号ホームランを打ち、この時点でリーグの単独トップに立ちました。また、初めて大リーグに昇格した西田陸浮選手がデビュー戦で初ヒットと好守備を見せま…",
+      "summary_zh": "大联盟\"白袜子\"在\"双子赛\"中打入了第18个全垒打,此时他还站在了联赛的首位. 此外,被首次升入大联盟的里库·西田先生还首发出场了首个出场和出场. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領“交渉は順調” イランとの駆け引き続く",
+      "title_zh": "特朗普总统“Nigots Are Prosperous”",
+      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131251000.html",
+      "published_at": "2026-05-25T22:22:31+00:00",
+      "summary": "イランとの戦闘終結に向けた協議をめぐってアメリカのトランプ大統領は「交渉は順調に進んでいる」とSNSに投稿したうえで、改めて軍事行動を示唆して妥協を迫りました。一方、イラン外務省の報道官は、協議は進展…",
+      "summary_zh": "美国特朗普总统在与伊朗讨论结束战斗时,在SNS上贴出\"S正在顺利进行\",并提议再次采取军事行动. 另一方面,伊朗外交部的记者讨论了......"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump to undergo annual medical exam ahead of 80th birthday",
+      "title_zh": "特朗普80岁生日前接受年度体检",
+      "link": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T22:18:43+00:00",
+      "summary": "President Trump is scheduled to visit the Walter Reed National Military Medical Center on Tuesday for an annual medical exam ahead of his 80th birthday on June 14.",
+      "summary_zh": "特朗普总统定于星期二访问沃尔特·里德国家军医中心,在6月14日80岁生日前进行年度体检."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Deal with US not imminent, Iran says",
+      "title_zh": "伊朗说,",
+      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T22:05:29+00:00",
+      "summary": "Iran says some progress has been reached in talks with the US, but a deal \"is not imminent\".",
+      "summary_zh": "伊朗表示与美国的会谈已经取得一定进展,但交易\"并非迫在眉睫\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "title_zh": "俄罗斯威胁更多的基辅罢工 并让外国人离开",
+      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T21:24:34+00:00",
+      "summary": "Russia has threatened to launch a fresh wave of \"systematic strikes\" against Kyiv, days after carrying out one of its largest attacks on the Ukrainian capital since the start of the war.",
+      "summary_zh": "俄罗斯威胁对基辅发动一波\"系统打击\","
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "title_zh": "内塔尼亚胡说以色列会加紧打击真主党",
+      "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T20:40:15+00:00",
+      "summary": "The Israeli military says it has begun a wave of strikes across Lebanon following an announcement by Prime Minister Benjamin Netanyahu that his country will intensify its attacks on Hezbollah.",
+      "summary_zh": "以色列军方称,在总理本雅明·内塔尼亚胡宣布他的国家将加紧对真主党的攻击后,黎巴嫩各地开始了一波袭击."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "title_zh": "超过150名外国朝圣者开始朝圣,",
+      "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T20:11:59+00:00",
+      "summary": "Muslims have begun the annual Hajj pilgrimage in Saudi Arabia against the backdrop of a region deeply shaken by the Iran war.",
+      "summary_zh": "穆斯林开始每年在沙特阿拉伯朝圣,其背景是该地区被伊朗战争深深震撼。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "補正予算案 3兆1000億円規模で提出へ 6月上旬成立目指す 政府",
+      "title_zh": "修正预算计划,规模为3万亿日元",
+      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131231000.html",
+      "published_at": "2026-05-25T20:08:53+00:00",
+      "summary": "中東情勢を受けた今年度の補正予算案について、政府は規模を3兆1000億円程度とする方向で調整を進めています。来週半ばにも国会に提出する方針で、速やかに審議を行い、6月上旬の成立を目指すことにしています…",
+      "summary_zh": "今年的补偿预算是30亿日元, 下个星期,我们的目标是建立六月初..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "兵庫 母娘殺害事件 容疑者は事件後に着替えて逃走か",
+      "title_zh": "兵库县母女杀人事件 疑似事件发生后是否换衣服",
+      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131271000.html",
+      "published_at": "2026-05-25T19:56:35+00:00",
+      "summary": "兵庫県たつの市の住宅で親子が刃物で殺害された事件で、防犯カメラの映像に写った指名手配中の容疑者の服には被害者の血痕が付着した様子がないことが捜査関係者への取材で分かりました。警察は、事件後に服を着替え…",
+      "summary_zh": "在兵库县太和市住宅被刀刃杀死的父母和孩子的案件中,我发现,在未安排犯罪预防相机的情况下,嫌疑人的服装中没有显示受害者的血迹。 警察在事件发生后换了衣服..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "巨人の阿部慎之助監督を逮捕 18歳長女に暴行か その後釈放",
+      "title_zh": "Abe Shinnosuke 逮捕了18岁的女编辑",
+      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015131291000.html",
+      "published_at": "2026-05-25T19:36:01+00:00",
+      "summary": "プロ野球・巨人の阿部慎之助監督が25日、都内の自宅で18歳の娘に暴行した疑いで逮捕されました。その後釈放され、警視庁は任意で捜査を続けることにしています。",
+      "summary_zh": "职业棒球巨头Abe Shinnosuke被怀疑在东京家中18岁而被捕. 后被放出,警方任意继续调查."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Blistering heat' in Delhi as temperatures reach 45C",
+      "title_zh": "德里的\"燃烧热\" 温度达到45C",
+      "link": "https://www.bbc.com/news/videos/c4g002jvv8wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T19:36:00+00:00",
+      "summary": "Copyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+      "summary_zh": "版权2026 BBC. 版权所有。 BBC不负责对外网站的内容. 读一下我们对外联系的方法"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Only world record broken at Enhanced Games won't be recognised",
+      "title_zh": "观察:只有世界纪录在增强运动会中被打破才不被认出",
+      "link": "https://www.bbc.com/news/videos/cm2ppx7d0k7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T18:14:00+00:00",
+      "summary": "Swimmer Kristian Gkolomeev of Greece has beaten a world record at the controversial Enhanced Games in Las Vegas.",
+      "summary_zh": "希腊游泳运动员克丽丝蒂安·格可洛梅耶夫在拉斯维加斯有争议的增强运动会中击败了世界纪录."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
+      "title_zh": "白宫的枪手之前和特勤局有联系 法庭文件显示",
+      "link": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T15:45:27+00:00",
+      "summary": "The suspect who fired shots outside the White House , striking a bystander before the Secret Service shot and killed him, had previous run-ins with authorities there, court documents show.",
+      "summary_zh": "嫌犯在白宫外开枪, 在特勤局开枪打死他之前,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Blistering heat': Indians warned to stay indoors as temperatures soar",
+      "title_zh": "\"燃烧热\": 印地安人警告要待在家里 当温度飞升时",
+      "link": "https://www.bbc.com/news/videos/ckgppxw9239o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T15:17:10+00:00",
+      "summary": "Parts of India are experiencing extremely high temperatures, with people in places such as Delhi advised to stay indoors.",
+      "summary_zh": "印度部分地区气温极高,德里等地的人建议留在室内."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "title_zh": "油价对美伊和平协议的希望下降",
+      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T13:05:56+00:00",
+      "summary": "Oil prices have fallen sharply on hopes of a deal that could bring an end to the US-Israel war with Iran.",
+      "summary_zh": "油价大幅下跌,令人们对一项能够结束美以战争与伊朗之间的协议的希望落空."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cambodia's former opposition leader receives royal pardon for 27-year sentence",
+      "title_zh": "柬埔寨前反对派领袖获敕赦27年",
+      "link": "https://www.bbc.com/news/articles/cm2ppv1r3xzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T13:01:13+00:00",
+      "summary": "Cambodia's ​former opposition leader Kem Sokha, who was serving a 27-year sentence for treason, has been pardoned, the country's former prime minister said.",
+      "summary_zh": "柬埔寨前反对派领袖克姆·索克哈(Kem Sokha)因叛国罪服刑27年被赦免,该国前总理说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three killed in Uganda after crashing into elephant",
+      "title_zh": "在乌干达有3人被撞倒",
+      "link": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T11:54:07+00:00",
+      "summary": "At least three people have died after a vehicle collided with an elephant in a national park in Uganda, officials have said.",
+      "summary_zh": "至少有3人死于一辆汽车在乌干达国家公园与一头大象相撞,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
+      "title_zh": "作为委内瑞拉囚犯的冲突抗议指称的虐待",
+      "link": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T11:13:45+00:00",
+      "summary": "Violent clashes have erupted between inmates and security personnel at a prison in the Venezuelan state of Barinas.",
+      "summary_zh": "委内瑞拉巴里纳斯州一所监狱的囚犯和保安人员之间爆发了暴力冲突。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Senegal's leadership row mounts as parliament speaker resigns",
+      "title_zh": "随着议会议长辞职,塞内加尔的领导班子开始上升",
+      "link": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T11:12:43+00:00",
+      "summary": "The Speaker of Senegal's parliament El Malick Ndiaye has resigned from his post days after the country's President Bassirou Diomaye Faye sacked his mentor-turned-deputy, Prime Minister Ousmane Sonko, and dissolved the government .",
+      "summary_zh": "塞内加尔议会议长埃尔·马利克·恩迪亚耶(El Malick Ndiaye)辞去职务,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
+      "title_zh": "东京商场报道的\"强烈的味道\"后,至少有19人被送往医院",
+      "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T11:08:05+00:00",
+      "summary": "At least 19 people have been taken to hospital after a strong smell was reported at a shopping complex in Tokyo, according to media reports.",
+      "summary_zh": "据媒体报道,在东京一家购物中心出现强烈气味后,至少有19人被送往医院."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Moment of gas explosion at China coal mine",
+      "title_zh": "中国煤矿瓦斯爆炸时刻",
+      "link": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T10:20:57+00:00",
+      "summary": "At least 82 people have been killed and at least two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
+      "summary_zh": "周日中国北方一煤矿发生瓦斯爆炸后,至少有82人被炸死,至少2人失踪. 官员说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anger grows after China's deadliest coal mining disaster in years",
+      "title_zh": "愤怒是中国多年来最致命的煤矿灾害",
+      "link": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T08:00:35+00:00",
+      "summary": "Anger is growing over alleged safety violations in the wake of China's worst mining disaster in more than 15 years.",
+      "summary_zh": "中国15多年以来最严重的采矿灾难之后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
+      "title_zh": "第一次香港宇航员在太空中发射",
+      "link": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T06:52:59+00:00",
+      "summary": "A Hong Kong astronaut has been launched into space for the first time, aboard China's Shenzhou-23 spacecraft.",
+      "summary_zh": "一名香港宇航员首次被送入太空,搭载中国\"神舟\"23号飞船."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Saudi Arabia's spending spree reached the end of the line",
+      "title_zh": "沙特阿拉伯的支出如何达到终点",
+      "link": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T01:08:39+00:00",
+      "summary": "Autocratic monarchs once left an echo of their glory in the ruins of the megaprojects they commanded at the peak of their unchallenged power. Those monumental physical traces are to be found in the fertile plains, mountainsides and deserts of the Middle East. But one of their most prominent modern counterparts may only have a digital footprint to leave behind for some of his most ambitious concepts.",
+      "summary_zh": "专制的君主们曾经在他们不受挑战的权力最高峰时指挥的巨型项目的废墟中留下了他们荣耀的回声. 在中东肥沃的平原、山地和沙漠中可以看到这些巨大的物理痕迹。 但是,他们中最出名的现代同行之一可能只有一个数字足迹来留下一些他最雄心勃勃的概念."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+      "title_zh": "摩洛哥希望游客访问西撒哈拉. 有人说它正在加紧控制",
+      "link": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T23:13:50+00:00",
+      "summary": "Back in March, an email landed in my inbox from Irish airline Ryanair asking me if I was ready for my \"next Moroccan adventure\".",
+      "summary_zh": "3月,爱尔兰航空公司Ryanair的邮件寄到我的收件箱里, 问我是否准备好参加我的\"下个摩洛哥之旅\"。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Indian billionaires buy foreign companies as growth slows at home",
+      "title_zh": "印度亿万富翁购买外国公司,因为国内增长缓慢",
+      "link": "https://www.bbc.com/news/articles/cwy21x20q23o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T23:01:09+00:00",
+      "summary": "In late April, India's Sun Pharmaceuticals agreed to pay $11.75bn (£8.59bn) to acquire New York-listed women's health and biosimilars firm Organon & Co.",
+      "summary_zh": "4月下旬,印度\"太阳制药\"公司同意支付11.75bn(8.59bn英镑),以收购纽约上市的\"妇女健康\"和\"生物相仿\"公司Organon & Co."
     },
     {
       "source": "BBC News",
@@ -22,16 +292,6 @@
       "published_at": "2026-05-24T22:11:51+00:00",
       "summary": "At least 20 people have been killed and 70 others injured in an explosion targeting a train transporting military personnel in Pakistan.",
       "summary_zh": "在一次针对巴基斯坦运送军事人员的火车的爆炸中,至少有20人被炸死,70人受伤。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "小売各社 中東情勢受け配送回数削減へ 価格転嫁抑えるねらい",
-      "title_zh": "零售公司减少中东货运量",
-      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130451000.html",
-      "published_at": "2026-05-24T21:24:41+00:00",
-      "summary": "中東情勢の影響で燃料価格が高止まりする中、小売各社の間では、店舗への配送回数を減らすなど物流コストの削減に向けた取り組みが広がっています。",
-      "summary_zh": "由于中东局势,燃料价格上涨,我们已扩大努力来降低物流成本,例如减少向零售公司商店交货的数量。"
     },
     {
       "source": "BBC News",
@@ -46,56 +306,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "title_zh": "特朗普告诉美国谈判人员不要急于与伊朗打交道",
-      "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T20:26:26+00:00",
-      "summary": "US President Donald Trump says he has instructed negotiators \"not to rush into a deal\" with Iran, after reports suggested an agreement was close.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)表示,他指示谈判者\"不要匆忙地与伊朗达成协议\",此前的报道暗示协议是接近的."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領「急いで合意するなと指示」イラン情勢めぐり",
-      "title_zh": "特朗普总统\"关于同意的指令\"",
-      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130431000.html",
-      "published_at": "2026-05-24T20:25:10+00:00",
-      "summary": "アメリカのトランプ大統領は、最終段階にあるとしていた戦闘終結に向けたイランとの合意について協議を行う代表団に、急ぐ必要はないと指示していると明らかにしました。トランプ大統領は「悪い合意は結ばない」と強…",
-      "summary_zh": "美国总统特朗普告诉与伊朗讨论结束战斗的协议的代表团,他不得不匆忙. 特朗普总统强烈的\"不良协议没有捆绑\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "補正予算案3兆円規模で調整 高市首相 きょう今後の対応を説明",
-      "title_zh": "高一总理用3万亿日元的预算计划,",
-      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130481000.html",
-      "published_at": "2026-05-24T20:11:42+00:00",
-      "summary": "中東情勢を受けた今年度の補正予算案について、政府は3兆円程度の規模とすることで調整しています。高市総理大臣は補正予算案の編成や原油供給の見通しなどを含む今後の対応について25日、説明することにしていま…",
-      "summary_zh": "政府调整中东后今年补偿预算. 高一总理解释了大约25天后的反应,包括组织赔偿预算和提供原油。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "兵庫 母娘殺害事件 容疑者「人殺した」も警察 事件把握できず",
-      "title_zh": "兵库县的母女杀人事件 可疑的\"人命\"也是警察",
-      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130511000.html",
-      "published_at": "2026-05-24T20:08:35+00:00",
-      "summary": "今月、兵庫県たつの市の住宅で親子が殺害された事件で、指名手配された42歳の容疑者は事件が発覚する前に警察に「人を殺した」と話していたことが捜査関係者への取材で分かりました。話がかみ合わず具体性もなかっ…",
-      "summary_zh": "本月,在兵库县的辰野市住宅中,父母和子女被害,被提名的42岁可疑人士告诉警方,他们是在事发前被害的. 故事是事实"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ホルムズ海峡通過の原油タンカー きょうにも初めて日本到着へ",
-      "title_zh": "第一次通过霍尔姆斯的原油油轮",
-      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130441000.html",
-      "published_at": "2026-05-24T20:07:08+00:00",
-      "summary": "中東情勢の悪化でホルムズ海峡が事実上封鎖されて以降、日本企業が管理する船として初めて海峡を通過した原油タンカーが25日にも日本に到着する見込みです。関係者によりますと、タンカーには日本人の乗組員3人が…",
-      "summary_zh": "霍尔姆斯-克列特号由于中东的恶化而受阻后,作为由日本公司管理的一艘船首次通过克列特号的原油油轮将于25日抵达日本. 根据员工情况,有三名日本船员......"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Turkish riot police storm opposition offices after leaders ousted",
       "title_zh": "土耳其防暴警察在领导人下台后,",
       "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
@@ -106,22 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "California declares emergency as fire crews race to contain toxic leak",
-      "title_zh": "加州宣布紧急救援 消防队员争相控制有毒泄漏",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T18:51:00+00:00",
-      "summary": "California Governor Gavin Newsom has declared a state of emergency as crews race to contain a toxic chemical leak at a manufacturing facility in Orange County.",
-      "summary_zh": "加利福尼亚州州长加文·纽森宣布进入紧急状态,因为船员们竞相控制橙县一制造设施有毒化学泄漏."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "title_zh": "俄罗斯对乌克兰的大规模攻击造成4人死亡和数十人受伤",
-      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T16:50:46+00:00",
-      "summary": "Russia carried out a deadly large-scale wave of strikes against Ukraine, firing hundreds of drones and dozens of missiles overnight.",
-      "summary_zh": "俄罗斯对乌克兰发动了致命的大规模出击浪潮,一夜之间发射了数百架无人机和数十枚导弹."
+      "title": "Ebola outbreak poses massive challenges, warns nurse",
+      "title_zh": "埃博拉疫情带来巨大挑战,警告护士",
+      "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T17:46:14+00:00",
+      "summary": "The Ebola outbreak is posing massive challenges for medical aid organisations, a senior humanitarian official has said.",
+      "summary_zh": "埃博拉疫情对医疗援助组织构成巨大挑战,一位高级人道主义官员已表示。"
     },
     {
       "source": "BBC News",
@@ -136,42 +336,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "title_zh": "嫌犯在白宫附近向特勤局开火后被击毙",
-      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T15:24:11+00:00",
-      "summary": "A gunman who shot at a White House security checkpoint was killed in an exchange of fire with Secret Service agents on Saturday evening, officials have confirmed.",
-      "summary_zh": "一名向白宫安全检查站开枪的枪手在星期六晚上与特勤局特工的交火中被击毙,官员已经证实."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "One killed and many feared trapped under collapsed building in Philippines",
       "title_zh": "菲律宾一人死亡,许多人害怕被困在倒塌的建筑物下",
       "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-24T14:25:00+00:00",
       "summary": "At least one person has been killed and about 20 people are feared trapped under the rubble of a building that collapsed early on Sunday in a city near the Philippine capital, Manila.",
       "summary_zh": "至少1人被炸死,约20人被困在星期天早些时候在菲律宾首都马尼拉附近的一座倒塌的建筑物的瓦砾下。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
-      "title_zh": "Nascar冠军Kyle Busch死于肺炎和败血症 家人说",
-      "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T14:10:12+00:00",
-      "summary": "Nascar champion Kyle Busch died after severe pneumonia progressed into sepsis, his family has said in a statement to the Athletic magazine.",
-      "summary_zh": "纳斯卡尔冠军凯尔·布施(Kyle Busch)在严重肺炎发展为败血症后去世,他的家人在对\"运动员\"杂志的声明中表示过."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大相撲夏場所 小結 若隆景が優勝 令和4年春場所以来2回目",
-      "title_zh": "2019年春运以来排名第二",
-      "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130341000.html",
-      "published_at": "2026-05-24T12:26:17+00:00",
-      "summary": "大相撲夏場所は千秋楽の24日、小結 若隆景が12勝3敗で並んだ大関 霧島との優勝決定戦を制して令和4年春場所以来、2回目の優勝を果たしました。",
-      "summary_zh": "仙游24日出道后,相扑夏站以12胜3平3负的成绩夺得自2019年春运以来的第二名,获得桐岛O."
     },
     {
       "source": "BBC News",
@@ -186,322 +356,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "title_zh": "刚果民主共和国的红十字会志愿者死于埃博拉病毒",
-      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T11:09:54+00:00",
-      "summary": "Three Red Cross volunteers died in the Democratic Republic of Congo from suspected Ebola likely caught while managing dead bodies, the organisation has said.",
-      "summary_zh": "该组织说,3名红十字会志愿者在刚果民主共和国因疑似埃博拉病毒可能在管理尸体时被抓住而死亡。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "title_zh": "BBC 中国十多年来最严重的矿难现场",
-      "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T10:34:52+00:00",
-      "summary": "At least 82 people have been killed and two are missing after a coal mine blast in northern China, officials have said.",
-      "summary_zh": "中国北方发生煤矿爆炸后,至少有82人被炸死,2人失踪,有官员表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "It's like the Olympics - except steroids are allowed",
-      "title_zh": "这就像奥运会 - 除了类固醇允许",
-      "link": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T04:46:07+00:00",
-      "summary": "Under the blazing Vegas sun, giant billboards advertise \"Live Enhanced\" as the baritone voice of a sports announcer pretends to introduce British swimmer Ben Proud and other athletes.",
-      "summary_zh": "在烈焰的拉斯维加斯太阳下,巨型广告牌广告\"Live Entertainment\"作为体育播音员的男爵发声,假装介绍英国游泳运动员本·克罗德等运动员."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "title_zh": "至少有82人死于中国煤矿爆炸",
-      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T03:18:38+00:00",
-      "summary": "At least 82 people have been killed and two are missing after a coal mine blast in northern China, officials have said.",
-      "summary_zh": "中国北方发生煤矿爆炸后,至少有82人被炸死,2人失踪,有官员表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "title_zh": "特朗普说,伊朗交易“大量谈判”包括重新开放霍尔木兹海峡。",
-      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T01:18:31+00:00",
-      "summary": "US President Donald Trump says an agreement with Iran has been \"largely negotiated\" and details will be announced soon.",
-      "summary_zh": "美国总统唐纳德·特朗普说,与伊朗的协议已经\"大量谈判\",细节将很快公布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "East Africa wants to curb imports of used clothes. But it's not easy",
-      "title_zh": "东非希望遏制旧衣进口. 但是这不容易",
-      "link": "https://www.bbc.com/news/articles/c2l2k5pxrgdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T23:55:13+00:00",
-      "summary": "Not even heavy rain can keep shoppers away from Gikomba, a lively Kenyan market that stands as the largest open-air trading hub in East Africa.",
-      "summary_zh": "连暴雨都无法让购物者远离Gikomba,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
-      "title_zh": "在日本,离婚将父母与子女分开. 法律能否改变独家监护权?",
-      "link": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T23:44:22+00:00",
-      "summary": "On a weekday afternoon in Japan, John Deng stands near the playground, listening to other children play and laugh.",
-      "summary_zh": "在日本一个平日的下午,约翰·邓站到操场附近,听其他孩子玩弄并取笑."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
       "title_zh": "罗森伯格:卢甘斯克罢工点燃了俄罗斯的指责和报复誓言",
       "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-23T23:34:33+00:00",
       "summary": "On Russian state TV a news bulletin shows images of a five-storey building reduced to rubble.",
       "summary_zh": "在俄罗斯国家电视台,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "title_zh": "我在霍尔穆兹海峡的一次导弹袭击中幸存下来,但我的朋友还没有找到",
-      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T23:24:03+00:00",
-      "summary": "\"I felt the whole ship shake. I thought there'd been some fault with the engine. But as soon as I stepped outside of my room, there was another explosion.\"",
-      "summary_zh": "\"我觉得整艘船都摇了\" 我以为引擎有问题 但当我走出房间时,又发生了一起爆炸\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "F1 great Prost 'injured as masked gang raid home'",
-      "title_zh": "F1\"被蒙面黑帮袭击了\"",
-      "link": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T15:33:20+00:00",
-      "summary": "Alain Prost won four Formula One world titles",
-      "summary_zh": "阿兰·普罗斯特赢得了四个公式 一个世界头衔"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "India's parody 'cockroach party' claims website has been blocked",
-      "title_zh": "印度的\"cockroach\"党的主张网站被封锁了",
-      "link": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T15:25:39+00:00",
-      "summary": "India's viral \"cockroach\" political parody group says its website has been blocked just days after it launched.",
-      "summary_zh": "印度的病毒性\"cockroach\"政治讽刺团体称其网站在推出几天后被封锁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "title_zh": "法国母亲和伴侣在葡萄牙被陆路遗弃的儿子后一直被关押到审判",
-      "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T14:24:48+00:00",
-      "summary": "A French mother and her partner will remain in custody after allegedly abandoning her two young boys on a roadside in the south of Portugal, a court has ruled.",
-      "summary_zh": "一名法国母亲及其伴侣据称在葡萄牙南部的一个路边抛弃了两名男孩之后仍会被拘留。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "title_zh": "普京在指责乌克兰打学生宿舍后发誓报复.",
-      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T14:06:12+00:00",
-      "summary": "Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine.",
-      "summary_zh": "弗拉基米尔·普京在指责乌克兰对乌克兰东部被占领地区的一所学生宿舍进行致命袭击后承诺报复."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
-      "title_zh": "观察:皮切斯,PlayStations和蛋白质冰淇淋-一看巴西世界杯大本营内部.",
-      "link": "https://www.bbc.com/news/videos/c2l2rgeyjnwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T13:31:38+00:00",
-      "summary": "The Brazilian soccer team has chosen the Columbia Park Training Facility in Morris Township, New Jersey, as its World Cup base camp.",
-      "summary_zh": "巴西足球队选择了位于新泽西州莫里斯镇的哥伦比亚公园训练设施作为其世界杯大本营."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "title_zh": "鲁比奥在印度访问期间与莫迪会晤,把能源列为重要议程",
-      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T11:55:39+00:00",
-      "summary": "US Secretary of State Marco Rubio has held talks with Indian Prime Minister Narendra Modi in Delhi as part of a four-day visit to the country.",
-      "summary_zh": "美国国务卿马可·鲁比奥在德里同印度总理纳伦德拉·莫迪举行了会谈,作为对该国为期四天的访问的一部分."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Senegal's president sacks PM and former ally after months-long feud",
-      "title_zh": "塞内加尔总统在长达数月的纷争后,",
-      "link": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T11:36:09+00:00",
-      "summary": "Senegalese President Bassirou Diomaye Faye has sacked Prime Minister Ousmane Sonko and dissolved the nation's government after months of tensions between the two men.",
-      "summary_zh": "塞内加尔总统巴西鲁·迪奥马耶·法耶解除了奥斯曼·松科总理的职务,并在两人关系紧张几个月后解散了全国政府."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "DR Congo players told to isolate before World Cup",
-      "title_zh": "DR刚果球员告诉在世界杯前隔离",
-      "link": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T08:14:10+00:00",
-      "summary": "DR Congo are in Group K at the World Cup with Portugal, Colombia and Uzbekistan",
-      "summary_zh": "DR刚果与葡萄牙,哥伦比亚和乌兹别克斯坦出战世界杯K组."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "title_zh": "加沙船队活动分子指称在被拘留期间受到以色列部队的虐待",
-      "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T08:10:51+00:00",
-      "summary": "Pro-Palestinian activists deported after their Gaza-bound aid flotilla was intercepted in international waters by Israeli forces have alleged they were subjected to abuse while held in detention.",
-      "summary_zh": "亲巴勒斯坦的活动分子在前往加沙的援助船队被以色列部队在国际水域拦截后被驱逐出境,据称他们在被拘留期间受到虐待。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "title_zh": "SpaceX发射大型星舰V3火箭进行试飞",
-      "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T03:53:20+00:00",
-      "summary": "Elon Musk's SpaceX has launched the largest and most powerful rocket in history after its highly anticipated test flight was delayed.",
-      "summary_zh": "埃隆·穆斯克的\"SpaceX\"在其高度预期的试飞被推迟后,已经发射了史上最大和最强大的火箭."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment SpaceX rocket explodes in the Indian Ocean after splashdown",
-      "title_zh": "冲倒后在印度洋爆炸",
-      "link": "https://www.bbc.com/news/videos/c1728ypp15no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-23T03:03:12+00:00",
-      "summary": "Elon Musk's SpaceX has successfully launched its Starship V3 – the largest and most powerful rocket in history.",
-      "summary_zh": "埃隆·穆斯克的\"SpaceX\"已成功发射其\"星舰V3\"-是历史上最大和最强大的火箭."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The space race to create gym equipment for future astronauts",
-      "title_zh": "创造未来宇航员健身设备的太空竞赛",
-      "link": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T23:42:07+00:00",
-      "summary": "Olympic medallist Matthew Wells rows as hard as he can as his body begins to float up for 22 seconds.",
-      "summary_zh": "奥运会奖牌得主马修·威尔斯(英语:Matthew Wells (film))尽他所能地打出一排,他的身体开始浮起22秒."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-      "title_zh": "法国总统竞选前总理菲利浦是打败民粹主义者的首选",
-      "link": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T23:07:55+00:00",
-      "summary": "A year to go until France chooses its next president, the big question is who can save the election from being a battle of the extremes.",
-      "summary_zh": "在法国选出下任总统之前,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
-      "title_zh": "埃博拉幸存者和其他专家的教训",
-      "link": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T23:07:41+00:00",
-      "summary": "\"I saw the burial team taking eight of them,\" recalls Ebola survivor Patrick Faley. \"They put them into a bag and carried them to the burial. I made new friends although they ended up dying. I was the only person that was left there.\"",
-      "summary_zh": "\"我看见埋葬小组带走了其中的8个\",回忆埃博拉幸存者帕特里克·法利. \"他们把他们放入一袋并运去下葬. 我交了新朋友 虽然他们最终都死了 \"我是唯一一个留在那里的人\""
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "title_zh": "美国政府发布UFO目击报告——\"各个方向的 Orbs summer\".",
-      "link": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T22:32:12+00:00",
-      "summary": "The Pentagon has released scores of UFO files, with descriptions of reported sightings of orbs, discs and fireballs spanning 80 years.",
-      "summary_zh": "五角大楼已经发布了数十个UFO文件,其中描述了所报道的长达80年的球体,圆盘和火球的目击."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "title_zh": "Tulsi Gabbard辞去美国国家情报总监职务",
-      "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T20:30:26+00:00",
-      "summary": "Tulsi Gabbard will resign from her position as the US director of national intelligence in the Trump administration, citing her husband's recent bone cancer diagnosis.",
-      "summary_zh": "图尔西·加布巴德将辞去特朗普政府美国国家情报总监一职,引用她丈夫最近骨癌诊断."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump is putting pressure on Cuba - why and to what end?",
-      "title_zh": "特朗普向古巴施压,",
-      "link": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T18:33:36+00:00",
-      "summary": "The relationship between the United States and Cuba - already strained and fragile for decades - has been rapidly deteriorating in recent weeks.",
-      "summary_zh": "美国同古巴的关系在最近几周迅速恶化,几十年来已经紧张而脆弱。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
-      "title_zh": "一个印度新娘死了。 里瓦尔关于谋杀和自杀的指控引发了媒体的狂热",
-      "link": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T11:41:23+00:00",
-      "summary": "In India, where thousands of young women are murdered every year for bringing in insufficient dowries, a dowry death rarely makes news.",
-      "summary_zh": "在印度,每年有上千名年轻妇女因嫁妆不足而被谋杀,嫁妆不足的死亡很少成为新闻。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
-      "title_zh": "为什么跟特朗普有联系的上千股股票交易 都在抬起眉来",
-      "link": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T10:45:38+00:00",
-      "summary": "The BBC's Michelle Fleury reports from Wall Street on recent government filings showing that in the first three months of this year thousands of stock market trades were made on behalf of President Donald Trump.",
-      "summary_zh": "BBC的\"华尔街\"的米歇尔·弗洛里(Michelle Fleury)报道了近期的政府备案,显示今年头三个月,有上千个股票市场交易是代表唐纳德·特朗普总统进行的."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
-      "title_zh": "穿越时空的镜头显示巴黎桥上的\"地洞\"充气",
-      "link": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T10:45:27+00:00",
-      "summary": "Timelapse footage shows Paris' oldest bridge being transformed overnight into a giant inflatable cave structure.",
-      "summary_zh": "Timlelapse镜头显示巴黎最古老的桥梁一夜之间被改造为巨大的充气地洞结构."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-      "title_zh": "格陵兰人在美国新领事馆外抗议特朗普,",
-      "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T01:37:02+00:00",
-      "summary": "Hundreds of Greenlanders gathered outside a new American consulate in the capital Nuuk on Friday to protest against Donald Trump's ambition for greater influence over the island.",
-      "summary_zh": "数百名格陵兰人星期五聚集在首都努克的一个新的美国领事馆外,抗议唐纳德·特朗普对该岛施加更大影响力的野心."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fans react to Stephen Colbert’s final show",
-      "title_zh": "粉丝们对Stephen Colbert最后的节目的反应",
-      "link": "https://www.bbc.com/news/videos/cvgz36rx755o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-22T00:52:53+00:00",
-      "summary": "Fans lined up outside the Ed Sullivan Theater one last time for “The Late Show” as Stephen Colbert prepared to host his final episode, marking the end of the franchise’s 33-year run on CBS. The network announced last summer that the show would end, calling it “purely a financial decision against a challenging backdrop in late night\". Colbert took on the show in September 2015 after David Letterman retired from the role he'd held for 22 years.",
-      "summary_zh": "粉丝们在爱德·沙利文剧院外排队, 最后一次参加“后期秀”的演出, 电视网去年夏天宣布节目会结束,称其为\"在深夜充满挑战的背景下纯粹是财务决定\". 2015年9月,在大卫·莱特曼从他担任了22年的角色退休后,科尔伯特接演了该节目."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How Cuban-Americans feel about Raúl Castro's indictment",
-      "title_zh": "古巴裔美国人对劳尔·卡斯特罗的起诉有何感想?",
-      "link": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-21T20:52:52+00:00",
-      "summary": "Cuban-Americans in Miami are looking at the US indictment issued against Cuba's former president Raúl Castro with hope but also trepidation. A similar course of events took place with Venezuelan leader Nicolas Maduro before his capture by US forces in January.",
-      "summary_zh": "迈阿密的古巴裔美国人满怀希望, 在委内瑞拉领导人尼古拉斯·马杜罗于一月被美军俘虏之前,发生了类似的事件。"
     }
   ]
 }
