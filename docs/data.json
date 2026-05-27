@@ -1,57 +1,297 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-05-26T23:22:42+00:00",
-  "count": 28,
+  "generated_at": "2026-05-27T23:38:39+00:00",
+  "count": 34,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ウクライナでの地雷探知 日本企業が無人機開発へ実証実験",
-      "title_zh": "乌克兰地雷探测",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132311000.html",
-      "published_at": "2026-05-26T23:06:57+00:00",
-      "summary": "ウクライナでは、ロシア軍によって敷設された地雷の除去が課題となる中、空中から地雷を探知する無人機の開発に取り組む日本の企業が首都キーウで実証実験を行いました。",
-      "summary_zh": "在乌克兰,虽然俄罗斯军队清除地雷*** 是一项挑战,但日本公司在首都克尤从事开发探索从空中取出地雷的雷管实验。"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The world's carmakers are struggling to compete with China",
+      "title_zh": "世界上的汽车制造者 都在与中国竞争",
+      "link": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T22:00:38+00:00",
+      "summary": "Global carmakers are facing a reckoning as US, European and Japanese brands lose ground to Chinese rivals setting the pace not only in electric vehicles, but also in batteries, design and software.",
+      "summary_zh": "全球汽车制造商正面临清算,因为美国、欧洲和日本的品牌不仅在电动车辆方面,而且在电池、设计和软件方面,都让中国对手决定速度。"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ロシアで「国際安全保障フォーラム」対立深める欧州をけん制か",
-      "title_zh": "俄罗斯国际安全论坛",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132331000.html",
-      "published_at": "2026-05-26T22:52:14+00:00",
-      "summary": "ロシアの首都モスクワの近郊で「国際安全保障フォーラム」が始まり、ロシアとしてはアフリカや中東などさまざまな国から参加者を集めることで、連携の強化をアピールし、ウクライナ侵攻をめぐって対立を深めるヨーロ…",
-      "summary_zh": "“国际安全论坛”始于俄罗斯首都莫斯科郊区,俄罗斯联邦吸引了来自非洲和中东等不同国家的与会者,呼吁加强合作,并加深了同乌克兰的冲突......"
+      "title": "NY株式市場 ダウ平均株価など最高値更新 ホルムズ海峡回復期待",
+      "title_zh": "纽约股票市场,Dau平均股票价格等。",
+      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133541000.html",
+      "published_at": "2026-05-27T21:38:27+00:00",
+      "summary": "27日のニューヨーク株式市場では、アメリカとイランとの協議でホルムズ海峡をめぐる状況が改善に向かうとの期待感などを背景に、小売関連の銘柄に買い注文が出て、ダウ平均株価は最高値を更新しました。",
+      "summary_zh": "纽约股市27日,根据霍姆的\"一带一路\"(Holm's It)周边情况有所好转的预期,有零售相关品牌的定购单,道家的平均股价也得到更新."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米イラン協議は進展との報道も 双方攻撃で不安定な情勢続く",
-      "title_zh": "美国-伊朗磋商仍不稳定,",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132421000.html",
-      "published_at": "2026-05-26T21:23:56+00:00",
-      "summary": "イランとの戦闘終結に向けた協議について、アメリカ側は合意内容の文言をめぐるやりとりが続いているという認識を示し、イランメディアは凍結資産の解除に関して進展があったとの見方を伝えました。一方で、アメリカ…",
-      "summary_zh": "伊朗媒体表示承认,美国一直关注与伊朗结束战斗的讨论协议声明,伊朗媒体还报道了在解除被冻结资产方面是如何取得进展的. 美国."
+      "title": "軍事作戦開始3か月 トランプ大統領“イランと合意に至らず”",
+      "title_zh": "3个月军事行动:特朗普总统伊朗",
+      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133441000.html",
+      "published_at": "2026-05-27T20:45:59+00:00",
+      "summary": "アメリカとイスラエルがイランへの軍事作戦を始めてから28日で3か月となります。アメリカのトランプ大統領は、戦闘終結に向けた協議について、いまだ合意に至っていないとしたうえで、攻撃を再開する可能性を示唆…",
+      "summary_zh": "美国和以色列将从向伊朗服兵役起三个月。 美国总统特朗普建议有可能重启袭击,而仍未就结束战斗的协商达成协议. ."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米ロ外相電話会談 ロシアがウクライナ首都キーウ攻撃方針伝達",
-      "title_zh": "美国-罗外相电话会议 俄罗斯传送乌克兰首都克尤攻击政策",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132321000.html",
-      "published_at": "2026-05-26T20:53:12+00:00",
-      "summary": "ロシア外務省はラブロフ外相がアメリカのルビオ国務長官と電話会談を行ったと発表し、ウクライナが民間施設などへの攻撃を続けているとして、ロシアは、首都キーウにある軍の関係施設などに対して継続的に攻撃を行う…",
-      "summary_zh": "俄罗斯外交部宣布拉夫洛夫外长与美国鲁比奥国务卿举行电话会谈. 随着乌克兰继续攻击私人设施,俄罗斯继续攻击首都克尤的军事相关设施."
+      "title": "皇位継承 衆参議長らが会談 6月上旬にかけて調整続く見通し",
+      "title_zh": "皇帝的继承 主席会议",
+      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133401000.html",
+      "published_at": "2026-05-27T20:41:20+00:00",
+      "summary": "安定的な皇位継承をめぐり、衆参両院の議長・副議長はとりまとめ案の作成にあたりできるだけ幅広い賛同を得たい考えで、来月上旬にかけて各党などとのすり合わせも含めた調整が続く見通しです。",
+      "summary_zh": "因此,森高克良的会长和副会长希望在制定巩固计划时尽可能扩大范围,明年年初继续调整,包括与各方作出安排,是一件大事。"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "奄美含む鹿児島県で夕方にかけ線状降水帯発生のおそれ 警戒を",
-      "title_zh": "在鹿儿岛县,包括阿美县,晚间有线性降水区.",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132291000.html",
-      "published_at": "2026-05-26T20:45:47+00:00",
-      "summary": "前線や低気圧の影響で、鹿児島県では大気の状態が不安定になり、局地的に激しい雨が降っています。奄美地方を含む鹿児島県では、27日夕方にかけて線状降水帯が発生し、災害の危険度が急激に高まるおそれがあり、気…",
-      "summary_zh": "在鹿儿岛县,由于一线和低气压的影响,大气状态变得不稳定,当地的暴雨正在降下. 在鹿儿岛县,包括美美地區等地,相较于27日晚的一线性降水区,灾害风险有可能突然增加. ."
+      "title": "栃木強盗殺人 40代の容疑者 指示役の夫と事件前から知り合いか",
+      "title_zh": "i 盗窃谋杀 40起对主管丈夫的怀疑",
+      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133461000.html",
+      "published_at": "2026-05-27T20:37:46+00:00",
+      "summary": "栃木県上三川町で起きた強盗殺人事件で、警察は、新たに逮捕状を取った40代の容疑者と、すでに逮捕した夫婦のうち夫が事件の前から知り合いだったとみていることが捜査関係者への取材でわかりました。警察は、40…",
+      "summary_zh": "警方报告说,在省警署的 \" Mikawa-cho \" 号上,40多起新逮捕的嫌疑人和已经被捕的夫妇的丈夫知道这是事件前线的朋友。 警察40号..."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel issues evacuation order for swathes of southern Lebanon",
+      "title_zh": "以色列发布黎巴嫩南部地区疏散令",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T20:26:03+00:00",
+      "summary": "The Israeli military has issued evacuation orders for large parts of southern Lebanon, declaring the areas \"combat zones\" ahead of fresh strikes against Hezbollah.",
+      "summary_zh": "以色列军方已经对黎巴嫩南部大片地区下达了撤离令,宣布这些地区\"战斗区\",先于对真主党的新打击."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "私立大学の「年内入試」ルール見直し 面接を必須化に 文科省",
+      "title_zh": "民办大学年度招生考试评审.",
+      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133351000.html",
+      "published_at": "2026-05-27T20:08:39+00:00",
+      "summary": "私立大学の総合型選抜など年内に合否が決まる「年内入試」について、文部科学省は大学入試のルールを見直し、今年度から面接を必須にすることを決めました。",
+      "summary_zh": "教育,文化,体育,科技部决定审查大学招生考试规则,从今年开始进行面试."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "「国家情報局」設置法成立 「対外情報庁」など検討加速 政府",
+      "title_zh": "\"国家信息局\"成立. 加快外国信息机构考试.",
+      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133391000.html",
+      "published_at": "2026-05-27T19:48:00+00:00",
+      "summary": "「国家情報局」を設置する法律の成立を受けて、政府は治安や安全保障に関する情報の収集と分析のさらなる強化を図る方針で、海外で情報収集活動を行う「対外情報庁」の創設などに向け検討を加速させることにしていま…",
+      "summary_zh": "针对\"国家信息局\"的成立,政府拟进一步加强安全保卫信息收集和分析工作,以加快考虑设立\"境外信息局\",开展海外信息采集活动."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "title_zh": "Ebra-Hit DR 刚果面临疾病和冲突的“灾难性碰撞”,",
+      "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T18:50:50+00:00",
+      "summary": "Ongoing conflict in the Democratic Republic of Congo is hampering the Ebola outbreak response, the head of the World Health Organization (WHO) has warned.",
+      "summary_zh": "世界卫生组织(世卫组织)负责人警告说,刚果民主共和国正在发生的冲突正在阻碍埃博拉疫情的应对。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says US 'not satisfied' with Iran deal yet",
+      "title_zh": "特朗普说,美国\"不满意\" 与伊朗的交易还没有。",
+      "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T17:37:33+00:00",
+      "summary": "US President Donald Trump has said he is \"not satisfied\" yet with the terms of the deal being negotiated with Iran.",
+      "summary_zh": "美国总统唐纳德·特朗普表示\"不满意\",然而却对与伊朗谈判的协议条款表示不满."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Moment rescuers find five people trapped in Laos cave",
+      "title_zh": "观察:救援人员发现有5人被困在老挝山洞中",
+      "link": "https://www.bbc.com/news/videos/cewpqy948ero?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T17:07:37+00:00",
+      "summary": "Rescuers in Laos have found five villagers alive inside a flooded cave after they were trapped for a week following heavy rain and landslides.",
+      "summary_zh": "老挝的救援人员在暴雨和山体滑坡后被困了一个星期后,发现有5名村民活活地被困于被淹的洞穴中."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "First Ghanaians evacuated from South Africa over immigration protests land in Accra",
+      "title_zh": "第一批来自南非的加纳人,",
+      "link": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T16:14:34+00:00",
+      "summary": "A flight carrying nearly 300 Ghanaians, repatriated from South Africa amid fears there could be a resurgence of xenophobic violence there, has landed in Ghana's capital city, Accra.",
+      "summary_zh": "一架载有从南非遣返的近300名加纳人的航班降落在加纳首都阿克拉,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
+      "title_zh": "近50万俄罗斯士兵在乌克兰战争中丧生,",
+      "link": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T15:59:57+00:00",
+      "summary": "Almost 500,000 Russian soldiers have been killed since it launched its fullscale invasion of Ukraine in 2022, according to the UK's largest spy agency.",
+      "summary_zh": "据英国最大的间谍机构称,自2022年对乌克兰发动全面入侵以来,俄罗斯有近50万士兵被击毙."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大阪地検特捜部の特別公務員暴行陵虐事件 検事側が無罪主張へ",
+      "title_zh": "大阪地质特别搜索特别公务员虐待事件",
+      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015133471000.html",
+      "published_at": "2026-05-27T14:20:47+00:00",
+      "summary": "大阪地検特捜部で取り調べを担当した検事が、机をたたいて罵倒し続けたなどとして、特別公務員暴行陵虐の罪に問われている事件で、検事側が裁判で無罪を主張する方針を示していることが、関係者への取材でわかりまし…",
+      "summary_zh": "对于在大阪地质特别搜寻部进行的检查等特殊公务员的athes,继续被滥用等,考生声称法庭无罪的政策在与有关方面的面谈中被表述."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why temperature records are being not only broken but smashed",
+      "title_zh": "为什么温度记录 不仅被打破,而且被打碎",
+      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T14:08:50+00:00",
+      "summary": "If you take a look across western Europe at the moment, you'll struggle to find many places escaping the heat.",
+      "summary_zh": "如果你现在对西欧一看, 你会很难找到很多地方 摆脱热。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ghana welcomes Pope's apology over Catholic Church's role in slavery",
+      "title_zh": "加纳欢迎教皇对天主教教会在奴隶制中的作用道歉。",
+      "link": "https://www.bbc.com/news/articles/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T13:17:41+00:00",
+      "summary": "Ghana has welcomed Pope Leo XIV's apology for the Catholic Church's historic role in slavery, describing it as an \"act of moral courage\" that was important in the global pursuit of \"truth, human dignity and justice\".",
+      "summary_zh": "加纳欢迎教宗利奥十四世对天主教会在奴隶制中的历史作用的道歉,称其为\"道德勇气的行为\",对全球追求\"真理,人的尊严和正义\"具有重要意义."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "title_zh": "以色列对加沙城的袭击使哈马斯军事部门的新领导人丧生",
+      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T13:15:26+00:00",
+      "summary": "The commander of Hamas's military wing, Mohammed Odeh, has been killed in a strike in the Gaza Strip on Tuesday - days after his predecessor died in a similar attack.",
+      "summary_zh": "哈马斯军事部门指挥官Mohammed Odeh星期二在加沙地带的一次袭击中被击毙,他的前任也在一次类似的袭击中丧生。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
+      "title_zh": "30年后被抓去的女子 因持械抢劫入狱",
+      "link": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T12:42:43+00:00",
+      "summary": "A former member of the German militant group Red Army Faction (RAF) has been jailed for 13 years for carrying out a string of armed robberies between 1999 and 2016.",
+      "summary_zh": "德国好战团体\"红军分会\"(RAF)前成员因在1999至2016年间实施一连串武装抢劫而入狱13年."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+      "title_zh": "拒绝给游客自来水的酒店是合法行为,意大利法院规则",
+      "link": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T12:25:31+00:00",
+      "summary": "Italy's highest court has ruled a five-star Dolomites hotel was acting lawfully when it refused to provide tap water to a tourist.",
+      "summary_zh": "意大利最高法院裁定,一家五星多洛米特酒店拒绝向游客提供自来水时,其行为是合法的。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
+      "title_zh": "特朗普支持的挑战者在德克萨斯州击败资深参议员",
+      "link": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T11:53:06+00:00",
+      "summary": "Texas Attorney General Ken Paxton easily defeated Senator John Cornyn in a Republican run-off primary on Tuesday night.",
+      "summary_zh": "德克萨斯州司法部长肯·帕克斯顿在周二晚上的一次共和党第二轮初选中轻松地击败了参议员约翰·科宁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five people found alive after week trapped in flooded Laos cave",
+      "title_zh": "5个人被困在被淹没的老挝山洞里",
+      "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T11:52:46+00:00",
+      "summary": "Rescuers in Laos have found five villagers alive inside a flooded cave after they were trapped for a week following heavy rain and landslides.",
+      "summary_zh": "老挝的救援人员在暴雨和山体滑坡后被困了一个星期后,发现有5名村民活活地被困于被淹的洞穴中."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Korea detains dissident who fled China in rubber boat",
+      "title_zh": "韩国拘留了乘橡皮艇逃离中国的持不同政见者",
+      "link": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T11:12:33+00:00",
+      "summary": "A Chinese dissident who fled his country on a rubber boat has been detained in South Korea after spending hours at sea.",
+      "summary_zh": "一名乘橡皮艇逃离祖国的中国持不同政见者出海数小时后被韩国拘留."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Major film union in India calls for boycott of superstar Ranveer Singh",
+      "title_zh": "印度主要电影工会呼吁抵制超级明星兰维尔·辛格",
+      "link": "https://www.bbc.com/news/articles/c0q2y01jqk9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T06:58:08+00:00",
+      "summary": "Fans of Bollywood actor Ranveer Singh are reacting with shock after a major film workers' union asked its members not to work with him over his alleged abrupt exit from the upcoming movie Don 3.",
+      "summary_zh": "宝莱坞演员兰维尔·辛格的粉丝们在一家大型电影工作者工会要求其成员不要与他合作,因为他据称突然退出了即将上映的电影\"唐3\"后,反应十分震惊."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "One killed and nine missing after chemical explosion at US paper mill",
+      "title_zh": "美国造纸厂发生化学爆炸,造成一人死亡,九人失踪",
+      "link": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T03:02:27+00:00",
+      "summary": "At least one person has been killed and nine others are still missing after a major chemical explosion at a paper mill in Washington, authorities said.",
+      "summary_zh": "当局说,华盛顿一家造纸厂发生重大化学爆炸,至少1人被炸死,另有9人仍然失踪。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
+      "title_zh": "YouTuber因涉嫌利用AI诽谤韩国演员而被捕",
+      "link": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T02:54:19+00:00",
+      "summary": "South Korean authorities have arrested a YouTuber who allegedly made defamatory claims about actor Kim Soo-hyun, fuelling a scandal that halted the A-lister's career.",
+      "summary_zh": "韩国当局逮捕了一名YouTuber,据称他诽谤了演员金秀贤,激起一桩丑闻,使A-lister的生涯停顿."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
+      "title_zh": "在孟加拉国,由于麻疹病例激增,数以百计的儿童数月后死亡",
+      "link": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T01:34:42+00:00",
+      "summary": "Akira was always a fast learner, her father Al Amin says with pride.",
+      "summary_zh": "阿基拉总是学得很快,她的父亲阿尔·阿明自豪地说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "title_zh": "欧盟能否找到一个俄罗斯低语者调解乌克兰战争的结束?.",
+      "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T23:15:47+00:00",
+      "summary": "Ukraine is urging the EU to help negotiate an end to the war with Russia, a topic that will be discussed in detail at an informal meeting of European foreign ministers in Cyprus.",
+      "summary_zh": "乌克兰正在敦促欧盟帮助同俄罗斯谈判结束战争,这个问题将在塞浦路斯举行的欧洲外交部长非正式会议上详细讨论。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: UFC arena construction begins at White House ahead of fight",
+      "title_zh": "观察:UFC竞技场建设在白宫开始 战斗前",
+      "link": "https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T23:14:19+00:00",
+      "summary": "Preparations are under way at the White House South Lawn for an upcoming Ultimate Fighting Championship (UFC) event. The cage fight is scheduled to take place 14 June as part of the America 250 celebrations.",
+      "summary_zh": "正在白宫南草坪筹备即将举行的终极格斗锦标赛。 笼子战斗定于6月14日举行,作为美国250个庆祝活动的一部分."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India's communists once ruled millions. What happened to them?",
+      "title_zh": "印度的共产主义者曾经统治过数百万人. 他们怎么了?",
+      "link": "https://www.bbc.com/news/articles/cwy2gr1rpnqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T23:12:59+00:00",
+      "summary": "For the first time since 1957, India no longer has a single communist-led state government.",
+      "summary_zh": "印度自1957年以来首次不再拥有由共产主义领导的单一州政府."
     },
     {
       "source": "BBC News",
@@ -62,76 +302,6 @@
       "published_at": "2026-05-26T20:25:50+00:00",
       "summary": "Nasa has released details of robotic landers, hopping drones and vehicles it aims to send to the Moon as part of US plans to build a lunar base.",
       "summary_zh": "纳萨发布了机器人着陆器,购物无人机和它打算派往月球的车辆的细节,作为美国建造月球基地计划的一部分."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "給付付き税額控除イメージ案 支援額は個人単位 所得に応じ変動",
-      "title_zh": "附加福利的减税草案",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132391000.html",
-      "published_at": "2026-05-26T20:13:57+00:00",
-      "summary": "所得に応じて減税や給付を行う給付付き税額控除の制度設計をめぐり、超党派の「国民会議」の実務者会議で27日にもイメージ案が示される見通しです。支援額は個人単位で所得に応じて変動させるとともに、子育て世帯…",
-      "summary_zh": "根据收入设计减税和应缴税费的制度是2000年的,27天的“全国会议”从业人员会议将展示形象建议。 抚养金额按个人单位收入,家庭抚养子女情况确定."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-      "title_zh": "随着以色列加强打击,11人在黎巴嫩村庄被杀死",
-      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T19:40:35+00:00",
-      "summary": "Israel has launched an intensive wave of strikes across swathes of southern and eastern Lebanon, after vowing to step up military action against Hezbollah.",
-      "summary_zh": "以色列在发誓加紧对真主党的军事行动之后,在黎巴嫩南部和东部地区发动了激烈的进攻。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "兵庫 母娘殺害事件 容疑者は運転免許証やスマホ持たず",
-      "title_zh": "兵库县母亲女儿案疑似驾驶证或智能手机",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132351000.html",
-      "published_at": "2026-05-26T19:15:41+00:00",
-      "summary": "兵庫県たつの市の住宅で親子が殺害された事件で、指名手配されている容疑者が、事件が発覚する3日前に、路上で寝ていて警察に話を聞かれた際、運転免許証やスマートフォンなどを持っていなかったことが、捜査関係者…",
-      "summary_zh": "在兵库县太和市住宅中父母和子女被害的案件中,被指派的可疑人员被要求在事发前3天到街上与警方谈话,调查官员. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Osaka sparkles in golden French Open outfit",
-      "title_zh": "大阪亮出金色法式外衣",
-      "link": "https://www.bbc.com/sport/tennis/articles/cr7ppkp598zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T18:15:04+00:00",
-      "summary": "After walking out in an all-black outfit, Osaka revealed a shimmering gold tennis dress underneath",
-      "summary_zh": "大阪在穿着一身黑衣服出门后 揭穿了一条闪闪发光的金网球裙子"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why temperature records are being not only broken but smashed",
-      "title_zh": "为什么温度记录 不仅被打破,而且被打碎",
-      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T17:57:28+00:00",
-      "summary": "If you take a look across western Europe at the moment, you'll struggle to find many places escaping the heat.",
-      "summary_zh": "如果你现在对西欧一看, 你会很难找到很多地方 摆脱热。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "South African president mounts legal challenge against report that could lead to impeachment",
-      "title_zh": "南非总统对可能导致弹劾的报告提出法律质疑",
-      "link": "https://www.bbc.com/news/articles/cy72213v2elo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T17:24:19+00:00",
-      "summary": "South African President Cyril Ramaphosa has started a legal challenge against a report commissioned by parliament that has paved the way for MPs to once again consider impeachment proceedings against him.",
-      "summary_zh": "南非总统西里尔·拉马福萨(Cyril Ramaphosa)开始对议会委托的一份报告提出法律质疑,该报告为议员们再次考虑对他的弹劾程序铺平了道路."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four killed as school minibus collides with train in Belgium",
-      "title_zh": "比利时有四人因校车撞上火车而丧生",
-      "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T17:11:24+00:00",
-      "summary": "Two children, aged 12 and 15, and two adults have been killed in a collision between a train and a school minibus in Buggenhout, northern Belgium.",
-      "summary_zh": "在比利时北部的Buggenhout,一辆火车和一辆校用小巴相撞,两名12和15岁的儿童和两名成年人被炸死。"
     },
     {
       "source": "BBC News",
@@ -146,42 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Internet starts coming back in Iran after months-long blackout",
-      "title_zh": "网络开始在伊朗恢复,",
-      "link": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T16:38:05+00:00",
-      "summary": "Internet access has started to be restored in Iran after being cut off almost three months ago, the country's first vice-president has said.",
-      "summary_zh": "伊朗第一位副总统说, 在将近三个月前被切断后, 伊朗开始恢复互联网接入。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
       "title_zh": "伊朗谴责美国\"严重违反\"停火",
       "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-26T15:15:29+00:00",
       "summary": "Iran says the US has committed a \"gross violation\" of the ceasefire with new air strikes it launched on the country.",
       "summary_zh": "伊朗说,美国通过向该国发动新的空袭,\"严重违反\"了停火."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
-      "title_zh": "埃博拉需要迅速应对,",
-      "link": "https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T11:22:04+00:00",
-      "summary": "The military governor of the Democratic Republic of Congo's Ituri province, the epicentre of the current Ebola outbreak, has likened the struggle to contain the spread of the virus to a \"war\" for which they are lacking resources to fight.",
-      "summary_zh": "目前埃博拉疫情的震中,刚果民主共和国伊图里省的军事省长将遏制病毒传播的斗争比作他们缺乏战斗资源的\"战争\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Delhi's most exclusive club is under threat of shutdown - can it survive?",
-      "title_zh": "德里最独家俱乐部濒临倒闭 还能活下来吗?",
-      "link": "https://www.bbc.com/news/articles/ce8pp0n5znko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T10:31:24+00:00",
-      "summary": "In India's capital Delhi, power has long circulated through ministries, embassies and the parliament - but also through the shaded verandas of the Gymkhana Club.",
-      "summary_zh": "在印度首都德里,权力通过各部、大使馆和议会长期流传,但也通过Gymkhana俱乐部的阴凉长道而来。"
     },
     {
       "source": "BBC News",
@@ -196,92 +336,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "China executes man for poisoning billionaire gaming tycoon",
-      "title_zh": "中国因毒害亿万富翁而处决了大亨",
-      "link": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T08:55:55+00:00",
-      "summary": "Chinese authorities have executed a man for murdering his associate, billionaire gaming tycoon Lin Qi.",
-      "summary_zh": "中国当局处决了一名谋杀其同伙\"亿万富翁\"大亨林琦."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Drones crash into water after Sydney light show malfunction",
-      "title_zh": "观察:悉尼灯光显示故障后无人机坠入水中",
-      "link": "https://www.bbc.com/news/videos/clyppgdl3xwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T07:11:50+00:00",
-      "summary": "Almost 90 drones fell into the water of Sydney's Darling Harbour during a light festival on Monday.",
-      "summary_zh": "近90架无人机在周一的灯会中坠入悉尼达林港的水中."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-      "title_zh": "澳大利亚证实在数十年最坏的发作中第一次白喉死亡",
-      "link": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T07:09:38+00:00",
-      "summary": "Australia has recorded its first diphtheria death in almost a decade as the country grapples with the worst outbreak of the vaccine-preventable disease in decades.",
-      "summary_zh": "澳大利亚记录了近十年来第一次白喉死亡,因为该国正努力应对几十年来最严重的可预防疫苗疾病的爆发。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "title_zh": "俄罗斯威胁更多的基辅罢工 并让外国人离开",
-      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T03:06:06+00:00",
-      "summary": "Russia has threatened to launch a fresh wave of \"systematic strikes\" against Kyiv, days after carrying out one of its largest attacks on the Ukrainian capital since the start of the war.",
-      "summary_zh": "俄罗斯威胁对基辅发动一波\"系统打击\","
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
-      "title_zh": "救援人员竞相解救被困在被淹老挝山洞中的七人",
-      "link": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-26T01:48:34+00:00",
-      "summary": "Rescuers are racing against time to free seven people who have been trapped for nearly a week in a flooded cave in Laos.",
-      "summary_zh": "救援人员与时间相抗衡 解救被困在老挝一个被淹洞里的七人"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Wave of child abuse cases shakes schools in Paris",
       "title_zh": "在巴黎的学校里,",
       "link": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-05-25T23:01:57+00:00",
       "summary": "Warning: You may find some of the graphic detail in this story disturbing",
       "summary_zh": "警告:你可能会发现这个故事中的一些图形细节令人不安"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Trump to have annual medical exam ahead of 80th birthday",
-      "title_zh": "看:特朗普在80岁生日前进行年度体检",
-      "link": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-25T22:18:43+00:00",
-      "summary": "President Trump is scheduled to visit the Walter Reed National Military Medical Center on Tuesday for an annual medical exam ahead of his 80th birthday on June 14.",
-      "summary_zh": "特朗普总统定于星期二访问沃尔特·里德国家军医中心,在6月14日80岁生日前进行年度体检."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "title_zh": "沙特阿拉伯的支出如何达到终点",
-      "link": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-25T01:08:39+00:00",
-      "summary": "Autocratic monarchs once left an echo of their glory in the ruins of the megaprojects they commanded at the peak of their unchallenged power. Those monumental physical traces are to be found in the fertile plains, mountainsides and deserts of the Middle East. But one of their most prominent modern counterparts may only have a digital footprint to leave behind for some of his most ambitious concepts.",
-      "summary_zh": "专制的君主们曾经在他们不受挑战的权力最高峰时指挥的巨型项目的废墟中留下了他们荣耀的回声. 在中东肥沃的平原、山地和沙漠中可以看到这些巨大的物理痕迹。 但是,他们中最出名的现代同行之一可能只有一个数字足迹来留下一些他最雄心勃勃的概念."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
-      "title_zh": "摩洛哥希望游客访问西撒哈拉. 有人说它正在加紧控制",
-      "link": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-24T23:13:50+00:00",
-      "summary": "Back in March, an email landed in my inbox from Irish airline Ryanair asking me if I was ready for my \"next Moroccan adventure\".",
-      "summary_zh": "3月,爱尔兰航空公司Ryanair的邮件寄到我的收件箱里, 问我是否准备好参加我的\"下个摩洛哥之旅\"。"
     }
   ]
 }
