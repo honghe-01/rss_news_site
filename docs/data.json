@@ -1,397 +1,427 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-04T00:00:17+00:00",
-  "count": 39,
+  "generated_at": "2026-06-04T23:23:08+00:00",
+  "count": 42,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "【地震速報】長野 茅野市で震度3 津波の心配なし",
-      "title_zh": "[地震快报]长野奇野市 三号海啸,不用担心",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015136921000.html",
-      "published_at": "2026-06-03T23:55:37+00:00",
-      "summary": "４日午前８時５０分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は長野県中部で震源の深さは１０キロ、地震の規模を示すマグニチュードは３．１と推定されます。 各市町村の震度は以下…",
-      "summary_zh": "地震发生于4日凌晨8:50左右. 本次地震引发的海啸毫不担心. 长野县中部,震源深度为10千米. 每个市的地震烈度如下."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ヤマダホールディングスとエディオン 経営統合の方向で検討",
-      "title_zh": "QQ 业务一体化方面的控股和Edion审查",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140341000.html",
-      "published_at": "2026-06-03T23:35:56+00:00",
-      "summary": "家電量販店最大手の「ヤマダホールディングス」と同じく大手の「エディオン」が経営統合する方向で検討を進めていることが分かりました。",
-      "summary_zh": "经证实,我们拟以\"EDION\"为主要\"Yamada Holdings\",\"Yamada Holdings\"作为最大的消费电子产品零售商,从管理一体化的方向进行研究."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T23:11:15+00:00",
+      "summary": "The world's coastal mangrove forests, which protect millions of people from storms - and soak up vast amounts of planet-warming gases - are staging an unexpected comeback, scientists find.",
+      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Why Canada has generic Ozempic, and the US doesn't",
-      "title_zh": "为什么加拿大有通用的Ozempic, 而美国没有",
+      "title": "Tough cookies: How pop group Le Sserafim overcame internal conflict and internet trolls",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c7752znyle6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T22:22:56+00:00",
+      "summary": "The pop graveyard is full of bands who fell out, melted down and broke up.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Here's why election results in the second largest US city are so slow",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T22:20:24+00:00",
+      "summary": "Election results are still trickling in for primary races across California, including in Los Angeles, where incumbent Mayor Karen Bass is up against reality-star-turned challenger Spencer Pratt to lead the city.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "スペースX 来週にもナスダック上場へ 調達資金は過去最大規模",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141561000.html",
+      "published_at": "2026-06-04T22:15:56+00:00",
+      "summary": "アメリカの実業家、イーロン・マスク氏が率いる「スペースX」は、来週にも、新規の株式上場を行う見通しだと伝えられています。 調達する資金は日本円にしておよそ12兆円と、過去最大の規模となる見通しで、AI…",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'It looks black' - Americans react to Reflecting Pool's completed paint job",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/videos/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T22:14:12+00:00",
+      "summary": "After weeks of renovation, water has begun flowing back into the Lincoln Memorial Reflecting Pool.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“イスラエルとレバノン停戦履行で合意”米発表も先行き不透明",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141571000.html",
+      "published_at": "2026-06-04T21:43:50+00:00",
+      "summary": "イランとの戦闘終結に向けた協議に関連し、アメリカはイスラエルとレバノンが停戦の履行で合意したと発表しましたが、イスラエルはレバノン南部でイスラム教シーア派組織、ヒズボラに対する軍事作戦を続ける考えを示…",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T21:34:49+00:00",
+      "summary": "The ex-wife of a nephew of the ruler of Dubai has been taken into custody, authorities have said.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T21:34:14+00:00",
+      "summary": "Volodymyr Zelensky has called for a face-to-face meeting between himself and Vladimir Putin in a renewed bid to end the war.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "議員定数削減 自民は“比例のみ削減”で意見集約へ 野党は反発",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141501000.html",
+      "published_at": "2026-06-04T20:42:52+00:00",
+      "summary": "衆議院議員の定数削減をめぐり、自民党は、比例代表のみで削減するとした高市総理大臣の意向を受けて意見集約を行う方針です。 これに対し、野党からは、反対の声が相次いでいて、終盤国会で対立の火種となることも…",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Guide stranded on Everest for six days rescued",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/videos/c4g0gxljjz8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T20:38:43+00:00",
+      "summary": "The survival of a mountain guide who was believed to be missing on Mount Everest for six days is being hailed a \"miracle\".",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T20:37:46+00:00",
+      "summary": "The Lebanese armed group Hezbollah has emphatically rejected the terms of a US-backed ceasefire between Israel and Lebanon.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "栃木強盗殺人事件 最初に確保の高校生をきょう再逮捕へ",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141651000.html",
+      "published_at": "2026-06-04T20:37:32+00:00",
+      "summary": "栃木県上三川町の住宅に強盗が押し入り、親子3人が死傷した事件で、警察はすでに強盗殺人の疑いで逮捕していた6人のうち高校生1人を5日、強盗殺人未遂の疑いで再逮捕することにしています。",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "原発 2040年代までに2～5基建て替えの目標 政府",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141641000.html",
+      "published_at": "2026-06-04T20:07:25+00:00",
+      "summary": "政府は2040年代までに2基から5基の原子力発電所を建て替える目標を掲げることが分かりました。老朽化した原発を新しくすることで、エネルギーの安定供給を実現したいとしています。",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "食料品の消費税減税 外食業界・農業・漁業への支援検討へ 政府",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141521000.html",
+      "published_at": "2026-06-04T20:04:09+00:00",
+      "summary": "超党派の国民会議で議論が進む食料品の消費税減税をめぐり、外食業界や農家、漁業者から売り上げや利益への影響を懸念する声が出ていることから、政府は支援のあり方を検討することにしています。",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "今年度補正予算案 きょう参院で審議 採決に至れば成立の見通し",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141491000.html",
+      "published_at": "2026-06-04T19:54:33+00:00",
+      "summary": "中東情勢を受けた今年度の補正予算案は4日、衆議院を通過し、5日は参議院で審議が行われます。 与党側は、5日中に予算委員会と本会議で採決したいとしていて、採決に至れば、与党と一部の野党の賛成多数で可決・…",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "John Bolton expected to plead guilty in classified documents case, sources confirm",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T19:28:06+00:00",
+      "summary": "John Bolton, a onetime national security advisor to Donald Trump who evolved into one of his most prominent critics, has reached a deal to plead guilty in his federal classified documents case, according to two people familiar with the matter.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why is this teen fashion brand closing its fitting rooms?",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T18:48:29+00:00",
+      "summary": "Brandy Melville, the one-size fashion retailer, is now closing all changing rooms in its stores across the US, multiple employees have confirmed.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T17:50:20+00:00",
+      "summary": "At least 11 Palestinians have been killed, including women and children, and dozens wounded in Israeli air strikes across Gaza City, according to medical sources and eyewitnesses.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dutch police investigate suspected drugging and sexual assault of multiple women",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cp8p8e1gnx7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T17:48:36+00:00",
+      "summary": "Warning: This story contains details some may find distressing",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Marilyn Monroe auction features star's make-up and gowns on 100th birthday",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cvgzgd2xe2zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T16:28:40+00:00",
+      "summary": "An auction with an array of memorabilia from Marilyn Monroe's estate and friends has already brought in thousands of dollars in bids on the 100th anniversary of her birth.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T14:46:36+00:00",
+      "summary": "US President Donald Trump has hit back at lawmakers who voted to send him a rebuke over the war in Iran, calling them \"unpatriotic\".",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kushner-backed luxury resort plan sparks protests in Albania",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T14:33:21+00:00",
+      "summary": "Protests in the centre of Albania's capital, Tirana, are not exactly unusual. The opposition Democratic Party (PD) stage them so often that they could almost be classified as an offbeat tourist attraction.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T14:10:31+00:00",
+      "summary": "Hungarian prosecutors have dropped charges against Budapest Mayor Gergely Karacsony over his role in organising a Pride march last year.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T13:29:05+00:00",
+      "summary": "French-Iranian author, illustrator, director and activist Marjane Satrapi, best known for her graphic novel series and film Persepolis, has died aged 56, the Élysée Palace in Paris has confirmed .",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T12:40:22+00:00",
+      "summary": "Government forces and opposition fighters have exchanged heavy gunfire in Somalia's capital, Mogadishu, as a row over delays to elections has escalated.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine accused of killing four in occupied Crimea",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T11:55:20+00:00",
+      "summary": "Russian-backed authorities in the occupied region of Crimea in Ukraine say at least four people have been killed in the latest wave of Ukrainian strikes on the peninsula.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T11:52:58+00:00",
+      "summary": "The 950-year-old Bayeux Tapestry will be as safe \"as a baby\" when it makes its unprecedented journey to London next month, according to French officials.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bondi Beach shooting hero charged with assault",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cd7p11010g5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T11:22:18+00:00",
+      "summary": "The man who disarmed one of the alleged perpetrators of the deadly Bondi Beach shooting has been charged with assault.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T11:02:17+00:00",
+      "summary": "The Lebanese armed group Hezbollah has rejected the terms of a ceasefire agreement between Israel and Lebanon.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says Eiffel Tower-like UFC structure may stay",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cx21778x81zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T10:28:43+00:00",
+      "summary": "Around 4,300 people are set to watch the event on the White House's South Lawn",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T10:18:49+00:00",
+      "summary": "A Nepali climbing guide thought to have died on Mount Everest has been found crawling down to Base Camp, six days after he was last seen alive.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Can the US, Mexico and Canada set aside their differences as they co-host the World Cup?",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T08:46:23+00:00",
+      "summary": "Think of it as being like a dinner party where the hosts are in the midst of a tense argument when you arrive.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump to nominate Blanche for attorney general on permanent basis",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T08:11:25+00:00",
+      "summary": "US President Donald Trump has said he will nominate Acting Attorney General Todd Blanche to take on the role permanently.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Indian film union drops boycott call against Bollywood star Ranveer Singh",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c3r2g0013xpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T06:28:42+00:00",
+      "summary": "A major Indian film workers' union has withdrawn its appeal asking members not to work with Bollywood actor Ranveer Singh after his alleged abrupt exit from an upcoming film.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Robodogs and helicopters: One Mexican city's approach to World Cup security",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T05:42:34+00:00",
+      "summary": "The BBC's Will Grant got a first-hand look at security preparations in Monterrey, Mexico, ahead of the 2026 Fifa World Cup.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China bans four New Zealand MPs over Taiwan visit",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T05:37:14+00:00",
+      "summary": "In a first, China has banned four New Zealand Members of Parliament for a year over their visit to Taiwan, New Zealand's foreign ministry says.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T05:30:28+00:00",
+      "summary": "New surveillance footage released by Kuwait's Directorate General of Civil Aviation shows the moment Kuwait International Airport was struck by Iranian drones on Wednesday.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Senate Republicans axe $1bn for Trump's new White House ballroom",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T01:18:09+00:00",
+      "summary": "The US Senate has voted to advance a stalled immigration spending bill after Republicans removed $1bn (£745m) in funding for President Donald Trump's new White House ballroom.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+      "title_zh": "（未翻译/翻译失败）",
+      "link": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T01:02:24+00:00",
+      "summary": "Germany's foreign minister says support for Ukraine and Israel may have cost votes after Berlin failed to secure a rotating spot on the UN Security Council.",
+      "summary_zh": "（未翻译/翻译失败）"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why Canadians can now get cheaper generic Ozempic - and Americans can't",
+      "title_zh": "（未翻译/翻译失败）",
       "link": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-03T23:34:48+00:00",
       "summary": "Elizabeth Doran has been taking GLP-1 medications for nearly a year for weight loss to help reverse her prediabetes and high blood pressure. Because she had not yet developed diabetes, the retired 69-year-old was prescribed Wegovy for weight loss rather than its sister drug, Ozempic – both of which contain the active ingredient semaglutide.",
-      "summary_zh": "Elizabeth Doran已经服用了GLP-1药物近一年,以减重来帮助逆转她的前糖尿病和高血压. 因为她还没有发展出糖尿病,所以退休的69岁被开出减重处方的Wegovy,而不是它的姊妹药\"Ozempic\"(Ozempic)——两者都含有活性成份的麻黄素."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain",
-      "title_zh": "昂贵的燃料促使更多的印度人购买电动汽车,但挑战依然存在。",
-      "link": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T23:28:31+00:00",
-      "summary": "Are electric vehicles finally going mainstream in India? A slew of indicators suggests the transition may finally be gathering momentum.",
-      "summary_zh": "电动车辆终于在印度成为主流了吗? 一系列指标表明,过渡可能最终正在形成势头。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US House votes to halt Iran war, in rebuke to Trump",
-      "title_zh": "美国众议院投票阻止伊朗战争,",
-      "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T23:01:07+00:00",
-      "summary": "The US House of Representatives passed a measure that seeks to halt President Donald Trump from taking further military action in Iran.",
-      "summary_zh": "美国众议院通过一项措施,试图阻止唐纳德·特朗普总统在伊朗进一步采取军事行动."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "韓国統一選 革新系与党が主要選挙で多数勝利 政権に弾みも",
-      "title_zh": "韩国统一党赢得重大选举",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140151000.html",
-      "published_at": "2026-06-03T22:41:01+00:00",
-      "summary": "韓国で3日、統一地方選挙の投票が行われ、公共放送KBSは4日午前6時現在、革新系の与党「共に民主党」が主要な16の自治体の選挙のうち12自治体で当選を決めたとしています。首都ソウルの市長選挙は開票作業…",
-      "summary_zh": "韩国3日举行统一地方选举投票,公开广播的KBS决定从4起在16个主要市政选举的12个市政府中获胜. 最近首尔首都选举开幕......"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "兵庫 たつの 母娘殺害事件 川で見つかった遺体は容疑者と確認",
-      "title_zh": "兵库 母女谋杀案 河上发现的遗骸与嫌犯确认",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140301000.html",
-      "published_at": "2026-06-03T22:11:22+00:00",
-      "summary": "3日、兵庫県たつの市の川で見つかった遺体について、警察が調べた結果、DNA鑑定などから、先月母親と娘が殺害された事件で指名手配されていた42歳の男の容疑者と確認されました。警察は容疑者が死亡したいきさ…",
-      "summary_zh": "3日,警方检查了兵库县城河中发现的遗体,DNA鉴定等结果被确认为42岁男子被提名参与母女被害案件的嫌疑人. 警察想死吗?"
+      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Grab what you can while you can: The new reality in the South China Sea",
-      "title_zh": "抓住你所能,而你可以: 南海的新现实",
+      "title_zh": "（未翻译/翻译失败）",
       "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-03T22:00:21+00:00",
       "summary": "Antelope Reef is a small, teardrop-shaped island in the north-western corner of the South China Sea and, until recently, almost entirely underwater.",
-      "summary_zh": "羚羊礁是位于中国南海西北角的一个被撕裂的小岛,直到最近几乎完全被水下."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米・イラン“自衛で攻撃”イスラエルとヒズボラも攻撃応酬続く",
-      "title_zh": "伊朗、美国、以色列和Hysbora继续攻击",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140141000.html",
-      "published_at": "2026-06-03T21:51:52+00:00",
-      "summary": "アメリカのトランプ大統領は、3日に配信されたアメリカメディアの番組でイランとの協議に取り組んでいると改めて強調しましたが、アメリカ軍とイラン側との間では双方が自衛のための攻撃を行ったとしているほか、イ…",
-      "summary_zh": "美国总统特朗普强调,他正在与伊朗就第三天推出的美国媒体节目进行讨论,但美国和伊朗都因自卫而遭到攻击,而我......"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "川口ケアマネ殺害事件受け 複数人での訪問費用助成へ 厚労省",
-      "title_zh": "Kawaguchi MANNE 允许多人访问的责任",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140191000.html",
-      "published_at": "2026-06-03T21:51:00+00:00",
-      "summary": "埼玉県川口市で利用者の住宅を訪問したケアマネージャーの女性が刃物で殺害された事件を受け、厚生労働省は、ケアマネージャーの安全確保のため、複数人で訪問した際に追加でかかった費用を公費で助成すると、全国の…",
-      "summary_zh": "卫生,劳动和福利部接到一个案件,一名护理经理妇女到 Sai玉县川口市一所房子看望时被刀子所杀,卫生,劳动和福利部在他到访时给予额外开支补贴. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "title_zh": "真主党越过边界发射火箭,以色列在黎巴嫩击毙了9人",
-      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T21:19:19+00:00",
-      "summary": "Israeli strikes killed at least nine people in southern Lebanon on Wednesday, authorities said, as the Iran-backed armed group Hezbollah said it fired rockets into northern Israel.",
-      "summary_zh": "据当局说,以色列星期三在黎巴嫩南部至少打死了9人,伊朗支持的武装团体真主党说,它向以色列北部发射了火箭弹。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-      "title_zh": "川普和内塔尼亚胡之间的 '疯狂'电话 使伊朗会谈复杂化",
-      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T20:28:01+00:00",
-      "summary": "Donald Trump has become the latest US president to find himself at odds with Benjamin Netanyahu, after reportedly clashing with the Israeli prime minister over military action in Lebanon that has thrown Washington's Iran diplomacy into crisis.",
-      "summary_zh": "唐纳德·特朗普(Donald Trump)成为最近一位发现自己与本雅明·内塔尼亚胡不和的美国总统,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "title_zh": "伊朗无人驾驶飞机袭击科威特机场,造成一人死亡,数十人受伤",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T20:05:58+00:00",
-      "summary": "One person has been killed and more than 60 injured in Iranian drone strikes on Kuwait's international airport, local officials have said.",
-      "summary_zh": "当地官员说,伊朗无人机袭击了科威特国际机场,造成一人死亡,60多人受伤。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "新しい防災気象情報 専門家“台風6号での伝わり方 検証を”",
-      "title_zh": "新增防灾气象信息专家\"如何与\"一九九二年六月六号\"沟通\".",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140171000.html",
-      "published_at": "2026-06-03T19:43:53+00:00",
-      "summary": "西日本と東日本の太平洋側を中心に6月としては記録的な大雨をもたらした台風6号は、3日に温帯低気圧へ変わりました。この大雨で、5月下旬から運用が始まった防災気象情報が次々に発表されましたが、災害情報に詳…",
-      "summary_zh": "以西日本和东日本相邻的太平洋一带为主,6月是创纪录的暴雨,于第3天改为低气温. 在这场暴雨中,5月下旬开始运营的防灾天气信息已经公布,但详细信息涉及灾害信息."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries",
-      "title_zh": "从蝴蝶到母乳,Uber的丢失物品列表 揭示了野生后座发现",
-      "link": "https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T19:07:19+00:00",
-      "summary": "An ankle monitor, a meat slicer, some breast milk, and a package of live butterflies walk into an Uber...except this is not the setup to a joke.",
-      "summary_zh": "一个脚踝监视器,一个切肉机, 一些母乳, 和包裹活蝴蝶走进Uber..."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The end of Trump's 'anti-weaponisation' fund is another sign Republicans are fighting back",
-      "title_zh": "特朗普的\"反武器化\"基金结束 也是共和党人反击的又一迹象",
-      "link": "https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T19:05:17+00:00",
-      "summary": "President Donald Trump's plan to hand out $1.8bn (£1.3bn) in taxpayer funding to political allies lasted all of two weeks before his Department of Justice (DOJ) abandoned the idea amid an intense backlash from Republicans in Congress.",
-      "summary_zh": "总统唐纳德·特朗普(Donald Trump)计划向政治盟友发放纳税人资金1.8bn (£1.3bn),"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four sentenced to death for killing worshippers at Catholic church in Nigeria",
-      "title_zh": "4人因在尼日利亚天主教会杀害礼拜者被判处死刑",
-      "link": "https://www.bbc.com/news/articles/cj0p57q1m36o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T16:12:05+00:00",
-      "summary": "A court in Nigeria has sentenced four men to death for attacking a church in the south-western Ondo state in 2022 in a case which sent shockwaves across the nation.",
-      "summary_zh": "尼日利亚一家法院以2022年袭击翁多州西南部一教堂为罪名判处了4名男子死刑,该案在全国引起震惊。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man shot dead by FBI after taking hostages at California bank",
-      "title_zh": "在加州银行扣作人质后被FBI枪杀的人",
-      "link": "https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T16:04:05+00:00",
-      "summary": "A man who had been holding several people hostage overnight inside a California bank has been shot dead in a standoff with the FBI, police said.",
-      "summary_zh": "警方说,一个连夜把几个人扣在加州银行里的人 在与联邦调查局的对峙中被枪杀了"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
-      "title_zh": "前联合王国政治助手和拜登内阁秘书领导加利福尼亚州州长初选",
-      "link": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T15:32:30+00:00",
-      "summary": "The California governor's race remains up in the air a day after the primary vote, with British-American former TV host Steve Hilton and onetime Biden cabinet secretary Xavier Becerra at the top of a crowded field.",
-      "summary_zh": "加州州长赛在初选一天后仍保持出场,由英美前电视主持人史蒂夫·希尔顿(Steve Hilton)和一次拜登内阁秘书克萨维尔·贝塞拉(Xavier Becerra)出场,位居拥挤地之首."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Director Wim Wenders withdraws 1975 film over actress's teen topless scene",
-      "title_zh": "导演Wim Wenders取出1975年的电影 取而代之的是女演员的十几岁无上层的场景",
-      "link": "https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T15:30:20+00:00",
-      "summary": "Oscar-nominated German director Wim Wenders has said he will block future access to his 1975 film Wrong Move after appeals from actress Nastassja Kinski, who was filmed topless when she was 13.",
-      "summary_zh": "奥斯卡提名的德国导演Wim Wenders表示,在女演员Nastassja Kinski(她13岁时被拍摄为无顶级电影)发出呼吁后,他将阻止他未来观看他1975年的电影\"错误移动\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
-      "title_zh": "无人机在俄罗斯占领的乌克兰地区撞上公交车后造成8人死亡",
-      "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T15:18:28+00:00",
-      "summary": "Eight people have been killed and 10 others injured after a drone hit a passenger bus travelling through a Russian-occupied part of Ukraine, Russia has said.",
-      "summary_zh": "俄罗斯说,一架无人机撞上一辆在俄罗斯占领的乌克兰地区行驶的客车,造成8人死亡和10人受伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "CBS News fires correspondent Scott Pelley from 60 Minutes",
-      "title_zh": "CBS新闻 记者斯科特·佩利60分钟",
-      "link": "https://www.bbc.com/news/articles/c62rpdkem0mo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T15:15:48+00:00",
-      "summary": "CBS News fired its longtime 60 Minutes anchor Scott Pelley on Tuesday evening, amid an ongoing, tumultuous shakeup of the organisation under new leadership.",
-      "summary_zh": "CBS News于星期二晚间以60分钟为主播,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US announces new tariffs over forced labour concerns",
-      "title_zh": "美国宣布对强迫劳动征收新关税",
-      "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T15:12:28+00:00",
-      "summary": "The US has announced new tariffs of 10-12.5% on dozens of countries accounting for almost all its imports over concerns they are not doing enough to tackle forced labour.",
-      "summary_zh": "美国宣布对数十个国家征收10-12.5%的新关税,几乎占其所有进口品的比重,因为它们没有做出足够的努力来解决强迫劳动问题。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump-backed candidate in Iowa loses primary",
-      "title_zh": "川普支持的艾奥瓦州候选人失去初等",
-      "link": "https://www.bbc.com/news/articles/c4g8nd48jxro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T13:35:04+00:00",
-      "summary": "A candidate hoping to run for governor in the US state of Iowa has lost a closely watched primary contest, despite getting the backing of Donald Trump.",
-      "summary_zh": "尽管得到了唐纳德·特朗普的支持,但希望竞选美国艾奥瓦州州长的候选人却失去了一场密切注视的初选."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Norwegian teen was in UK to 'undertake a hit', court hears",
-      "title_zh": "挪威青少年在英国\"受到打击\",",
-      "link": "https://www.bbc.com/news/articles/cm2pjk8ggrdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T12:55:45+00:00",
-      "summary": "A Norwegian teenager arrived in the UK to \"undertake a hit\" on behalf of a Swedish organised crime group linked to Iran, a jury has heard.",
-      "summary_zh": "一名挪威少年抵达英国,代表一个与伊朗有联系的瑞典有组织犯罪集团\"受到一击\",陪审团已经听到."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Foreign nationals among at least 21 killed in Delhi fire",
-      "title_zh": "至少有21名外国国民死于德里大火",
-      "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T11:54:25+00:00",
-      "summary": "At least 21 people have been killed and dozens injured after a fire tore through a multi-storey building in south Delhi, police in India's capital say.",
-      "summary_zh": "印度首都警方称, 南德里多层楼发生火灾, 造成至少21人死亡、数十人受伤。"
+      "summary_zh": "（未翻译/翻译失败）"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-      "title_zh": "乌克兰无人机在普京旗舰经济论坛开幕之际袭击了圣彼得堡",
+      "title_zh": "（未翻译/翻译失败）",
       "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-03T11:34:07+00:00",
       "summary": "Ukraine has carried out a strike on the outskirts of Russia's St Petersburg, hours before the opening of a major economic forum designed to attract foreign investment into the country.",
-      "summary_zh": "乌克兰在俄罗斯圣彼得堡市郊进行罢工,在旨在吸引外国投资进入该国的主要经济论坛开幕前数小时."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "She watched a wildfire destroy her town, so she's building fire-proof bunkers",
-      "title_zh": "她看到一场野火摧毁了她的城镇 所以她正在建造防火掩体",
-      "link": "https://www.bbc.com/news/articles/c78qgdpwx6eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T09:47:19+00:00",
-      "summary": "Linda Cantey had the sound of her mobile turned off the night the Atlas Wildfire weaved a path of destruction through her section of Napa, California.",
-      "summary_zh": "Linda Cantey的手机声音 关闭当晚 阿特拉斯野火 织出一条毁灭之路 通过她的部分 纳帕,加利福尼亚。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Celine Dion 'heartbroken' by death of Beauty and the Beast singer Peabo Bryson",
-      "title_zh": "Celine Dion\"心碎\"被美人和野兽歌手 Peabo Bryson所杀",
-      "link": "https://www.bbc.com/news/articles/cy826nlp158o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T08:39:43+00:00",
-      "summary": "Celine Dion has said she is \"heartbroken\" by the death of R&B singer Peabo Bryson, with whom she sang the hit theme from 1991 Disney film Beauty and the Beast.",
-      "summary_zh": "席琳·迪翁(Celine Dion)表示她被R&B歌手佩博·布莱森(Peabo Bryson)的去世所\"心碎\",她与她一起演唱了1991年迪士尼电影\"美人与野兽\"(Beauty and the Beast)所出演的命中主题."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-      "title_zh": "尽管有污染证据,壳牌公司通过尼日利亚输油管泵取出石油多年,文件显示",
-      "link": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T05:13:02+00:00",
-      "summary": "British multinational Shell continued operating a major oil pipeline in Nigeria for years even though it knew it was causing widespread pollution - despite a warning from its own staff and its own technical standards, internal documents obtained by the BBC show.",
-      "summary_zh": "英国多国壳牌公司在尼日利亚继续经营一条主要的石油管道多年,尽管它知道这正在造成广泛的污染——尽管它自己的工作人员发出了警告,而且它自己的技术标准,BBC节目获得的内部文件."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indonesia's Prabowo fires head of free meals scheme plagued by poisonings",
-      "title_zh": "印尼Prabowo放火 免费膳食计划头头被中毒所困扰",
-      "link": "https://www.bbc.com/news/articles/cgjp369eqzgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T03:49:53+00:00",
-      "summary": "Indonesia's President Prabowo Subianto has fired the head of the agency responsible for his flagship free meals programme, which has been plagued by mass food poisonings and corruption allegations.",
-      "summary_zh": "印度尼西亚总统普拉博沃·苏比安托(Prabowo Subianto)解雇了负责他旗舰免费膳食计划的机构负责人,该计划被大规模食物中毒和腐败指控所困扰."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Man attacked by bear at steel works in Japan",
-      "title_zh": "观察:日本钢铁工程被熊攻击的人",
-      "link": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-03T01:13:45+00:00",
-      "summary": "Four people have sustained minor to moderate injuries in a bear attack at Fukushima Steel Works in Japan.",
-      "summary_zh": "日本福岛钢铁厂发生熊袭击,4人受轻伤至中伤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "title_zh": "普京仍然对乌克兰毫不妥协,但关于战争的公开言论在俄罗斯是否在改变?",
-      "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-02T23:33:34+00:00",
-      "summary": "If Vladimir Putin's Russia had an official slogan, what would it be?",
-      "summary_zh": "如果弗拉基米尔·普京的俄罗斯有一个官方口号,那会是什么?"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New York police investigate videos of men emerging from city's sewer system",
-      "title_zh": "纽约警方调查 男子在城市下水道系统出现视频",
-      "link": "https://www.bbc.com/news/articles/clyply74z9go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-02T22:29:15+00:00",
-      "summary": "New York police are investigating after multiple videos emerged in recent weeks showing groups of people entering and climbing out of the city's sewer system.",
-      "summary_zh": "纽约警方在最近几周出现多段视频 显示一群人进出城市的下水道系统后 正在进行调查"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "title_zh": "以色列攻击黎巴嫩南部,但与真主党的部分停战似乎维持",
-      "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-02T21:51:20+00:00",
-      "summary": "Israel continued its attacks in southern Lebanon on Tuesday, but did not strike Beirut following a partial ceasefire agreement with the Iran-backed armed group Hezbollah.",
-      "summary_zh": "以色列星期二继续在黎巴嫩南部出击,但在与伊朗支持的武装团体真主党达成部分停火协议后没有出击贝鲁特."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Explosion at fireworks factory in Malta",
-      "title_zh": "观察:在马耳他烟花厂爆炸",
-      "link": "https://www.bbc.com/news/videos/c5y0n0qvkkxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-02T08:06:20+00:00",
-      "summary": "An explosion occurred at a fireworks factory in Naxxar, Malta on Monday, local authorities confirmed.",
-      "summary_zh": "星期一马耳他纳克萨尔一烟花工厂发生爆炸,地方当局证实."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
-      "title_zh": "看着:玻璃门被粉丝撞倒了 看她追上玉星",
-      "link": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-01T11:34:19+00:00",
-      "summary": "Footage from social media shows the moment glass doors outside a shopping centre in Nanning, southern China, shattered as fans waited to see actor Zhang Linghe on Sunday.",
-      "summary_zh": "来自社交媒体的脚印显示了中国南部南宁一个购物中心外的玻璃门一瞬间被粉丝在周日等待见到演员张凌河而打碎."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
-      "title_zh": "Marilyn Monroe\"看起来像\"聚集 庆祝她100岁生日",
-      "link": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-01T06:28:52+00:00",
-      "summary": "Ahead of what would have been Marilyn Monroe's 100th birthday, diehard fans dressed up in her iconic look - a white dress and platinum blonde wig - to celebrate the beloved American actress and model.",
-      "summary_zh": "在Marilyn Monroe100岁生日之前, 德哈德的粉丝们穿着她标志性的外观 -- -- 白色的裙子和白金金发 -- -- 来庆祝所爱的美国女演员和模特儿."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Between celebration and confrontation: Paris after PSG victory",
-      "title_zh": "在庆祝和对抗之间:PSG胜利后巴黎",
-      "link": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-31T20:38:19+00:00",
-      "summary": "The BBC's Paris correspondent, James Waterhouse, described the French capital as \"jubilant\" on Sunday as he reported from the Champ de Mars where fans greeted the Paris St-Germain (PSG) players after their Champions League win.",
-      "summary_zh": "BBC的巴黎通讯员詹姆斯·沃特豪斯(James Waterhouse)星期天将法国首都描述为\"Jubilant\",他从\"Champ de Mars\"中报道,球迷在他们的冠军联盟取胜后向巴黎圣日耳曼(PSG)球员致意."
+      "summary_zh": "（未翻译/翻译失败）"
     }
   ]
 }
