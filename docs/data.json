@@ -1,67 +1,367 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-08T23:24:00+00:00",
-  "count": 38,
+  "generated_at": "2026-06-09T23:42:01+00:00",
+  "count": 49,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "フィリピン沖大地震で30人以上死亡 行方不明者の救助活動続く",
-      "title_zh": "菲律宾近海地震中死亡30人以上.",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144591000.html",
-      "published_at": "2026-06-08T23:03:38+00:00",
-      "summary": "8日、フィリピン南部のミンダナオ島の近くで発生したマグニチュード8.2の地震ではこれまでに30人以上が死亡し、現地では救助活動が続けられています。",
-      "summary_zh": "8日,菲律宾南部棉兰老岛附近发生的8.2级地震有30多人死亡."
+      "title": "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
+      "title_zh": "美国向Mutos-Class AI提供安全措施的Anthropic Starts",
+      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145721000.html",
+      "published_at": "2026-06-09T23:39:00+00:00",
+      "summary": "アメリカのAI新興企業「アンソロピック」は9日、高性能なAIモデル「クロード・ミュトス」と同等のモデルについて、一般の顧客向けに提供を始めたと発表しました。「ミュトス」についてはサイバー攻撃に悪用され…",
+      "summary_zh": "以美国AI为基地的公司Anthropic今天宣布,它已经开始提供与克洛德·穆托斯(Claude Mutos)相同的模型,一个高性能的AI模型. “Mutos”被用于网络......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "カンボジア詐欺拠点運営か リーダー格の邦人をタイ警察が拘束",
-      "title_zh": "柬埔寨的骗局管理 或领头的日本公民受泰国警方约束",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144551000.html",
-      "published_at": "2026-06-08T22:56:38+00:00",
-      "summary": "タイ警察は、カンボジアで特殊詐欺の拠点を運営していたとみられる詐欺グループのリーダー格の男を拘束したと発表しました。",
-      "summary_zh": "泰国警方宣布受骗集团领导人约束,正在柬埔寨经营一个特别骗局基地."
+      "title": "サッカーW杯 日本が初戦で対戦 オランダがキャンプ地に入る",
+      "title_zh": "足球W杯 日本将首次入会",
+      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145711000.html",
+      "published_at": "2026-06-09T23:00:41+00:00",
+      "summary": "今月11日に開幕するサッカーワールドカップ北中米大会、1次リーグの初戦で日本代表と対戦するオランダ代表の選手たちが、キャンプ地となるアメリカ中西部のカンザスシティーに入りました。",
+      "summary_zh": "在北美和中美联赛第1个联赛首轮对阵日本国家队的荷兰球员将在3月11日举行."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“イランに対して自衛のための攻撃を開始” アメリカ中央軍",
+      "title_zh": "“开始攻击自卫部队”攻击伊朗",
+      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145591000.html",
+      "published_at": "2026-06-09T22:55:07+00:00",
+      "summary": "アメリカのトランプ大統領は、ホルムズ海峡の上空でアメリカ軍のヘリコプターがイラン側によって撃墜されたと明らかにしました。操縦士は無事であるとした一方、アメリカ軍はさきほどイランに対する自衛のための攻撃…",
+      "summary_zh": "美国总统特朗普透露,美国军用直升机被伊朗方面击落了霍尔姆斯-克克特上方的天空. 飞行员安全时,美军为了自卫而攻击伊朗. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "経団連会長 “対中 新ビジネス枯渇に懸念” 関係改善探る",
+      "title_zh": "Keidanren主席“关于新商业枯竭的访谈”",
+      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145351000.html",
+      "published_at": "2026-06-09T22:31:59+00:00",
+      "summary": "経団連の筒井会長は、いわゆる「台湾有事」をめぐる国会答弁をきっかけに悪化した日中関係について「中国との新しいビジネスの話が枯渇しかけていることに懸念を強く持っている」と述べ、経済界としても関係の改善を…",
+      "summary_zh": "克丹仁会长鹤井先生说:\"我们担心与中国的新生意的故事已经耗尽\",关于造成克丹仁会的日常关系......"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ひぼう中傷などの投稿削除 SNS事業者によってばらつき",
+      "title_zh": "SNS运营商在清除布多克诽谤后",
+      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145341000.html",
+      "published_at": "2026-06-09T22:17:25+00:00",
+      "summary": "インターネット上のひぼう中傷などの投稿について、SNSを運営する事業者の対応状況が公表されました。利用者からの申し出を受けて削除を行った件数は事業者によってばらつきがあり、専門家は改善点などを検討すべ…",
+      "summary_zh": "已公布了对经营SNS的企业经营者的回应情况,以发表在互联网上的诽谤等文章。 从用户中除名的案件数量由企业经营者不同,专家可以考虑改进点."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "沖縄・奄美 11日にかけて激しい雨のおそれ 落雷や突風にも注意",
+      "title_zh": "冲绳-安曼:11日全天下雨",
+      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145641000.html",
+      "published_at": "2026-06-09T21:55:28+00:00",
+      "summary": "停滞する梅雨前線の影響で、沖縄・奄美では11日にかけて大気の状態が非常に不安定になり、局地的に激しい雨が降るおそれがあります。気象庁は土砂災害や低い土地の浸水などに十分注意するとともに、落雷や突風にも…",
+      "summary_zh": "由于雨季的三分之一,11日冲绳和阿美美的大气状态变得非常不稳定,有可能在当地降雨. 气象局关注土壤和沙地灾害及低地浸润,以及取自取自\"平地\"的\"平地\"和\"平地\"等\"平地\"和\"平地\"等\"平地\"."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "title_zh": "伊朗和以色列说,如果停火再次被违反,它们会暂停攻击,但警告报复。",
-      "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T22:47:29+00:00",
-      "summary": "Iran and Israel say they have halted attacks on each other, after the two countries exchanged fire for the first time since April's truce.",
-      "summary_zh": "伊朗和以色列表示,两国自4月份停战以来首次交火后,已停止了对对方的攻击."
+      "title": "US striking Iran in response to downing of helicopter, military says",
+      "title_zh": "军方说,",
+      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T21:43:25+00:00",
+      "summary": "The US has launched strikes on Iran after President Donald Trump accused the country of shooting down a US helicopter over the Strait of Hormuz and vowed to respond.",
+      "summary_zh": "美国在唐纳德·特朗普总统指责伊朗在霍尔木兹海峡上空击落一架美国直升机并发誓回应后对伊朗发动了打击."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "宇都宮市でクマ1頭の捕獲準備進めるも中止 けさから再捜索",
-      "title_zh": "(原始内容存档于2017-10-21) (中文(中国大陆) ). Utsunomiya City 1 Bear catch ready in Utsunomiya City 取消.",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144651000.html",
-      "published_at": "2026-06-08T22:41:08+00:00",
-      "summary": "クマの目撃情報が相次いでいた宇都宮市の中心部で、8日夜、クマ1頭が市内の雑木林に入り込んだことが分かり、捕獲の準備が進められましたがドローンが飛ばせず、居場所の特定ができないことから中止になりました。…",
-      "summary_zh": "在Utsunomiya市中心,熊的目击信息是se.tial的,显然一头熊进入了市内的木材森林长达8个昼夜,抓捕的准备工作也进行了,但QQ没有跳过,由于无法确定地点而取消了. . . . . . . ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "オープンAI 新規株式公開を申請 AI開発大手の上場相次ぐ見通し",
-      "title_zh": "打开 AI 应用程序以发布新股份",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144701000.html",
-      "published_at": "2026-06-08T22:17:21+00:00",
-      "summary": "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は8日、証券取引委員会に対し、IPO＝新規株式公開の申請を非公開で行ったことを明らかにしました。",
-      "summary_zh": "8日,开发出生成的AI\"ChatGPT\"的美国OpenAI透露,证券交易委员会为IPO = 新股票发行做了一个非公开的申请."
+      "title": "サグラダ・ファミリア メインタワー完成 10日に記念ミサ",
+      "title_zh": "萨格拉达家庭主塔 十周年弥撒",
+      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145581000.html",
+      "published_at": "2026-06-09T21:36:40+00:00",
+      "summary": "未完の傑作として知られるスペイン・バルセロナのサグラダ・ファミリア教会で、170メートルを超える高さのメインタワー「イエスの塔」が完成し、10日、ローマ教皇、レオ14世も訪れて記念のミサが行われる予定…",
+      "summary_zh": "在西班牙巴塞罗那的萨格拉达家庭教堂被称作\"未完成的活地\",高170多米的主塔\"耶稣之塔\"已经完工,10日罗马教宗和利奥十四将举行纪念弥撒. ."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Somali referee Artan barred from entering USA",
-      "title_zh": "禁止索马里裁判Artan进入美国",
-      "link": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T21:42:25+00:00",
-      "summary": "Omar Artan has been a Fifa referee since 2018",
-      "summary_zh": "奥马尔·阿尔坦自2018年起担任菲法裁判."
+      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "title_zh": "在缅甸境内,叛军正在失去根据,因为军队中有人参军。",
+      "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T21:13:17+00:00",
+      "summary": "The four young men in the rebel camp hidden deep in jungle-covered mountains never wanted a part in Myanmar's civil war.",
+      "summary_zh": "反叛营的四名年轻人隐藏在丛林覆盖的山地深处,他们从未想要参与缅甸内战。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The rebels at the front line of Myanmar's civil war",
+      "title_zh": "缅甸内战前线的叛军",
+      "link": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T21:04:20+00:00",
+      "summary": "In the five years since Myanmar's military chief led a coup to overthrow the democratically elected government, civil war has torn the country apart.",
+      "summary_zh": "在缅甸军事长官领导推翻民选政府的政变后五年来,内战使缅甸四分五裂."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
+      "title_zh": "联合王国和盟国制裁西岸定居者暴力的网络",
+      "link": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T20:38:55+00:00",
+      "summary": "The UK, Australia, Canada, France and Norway have imposed sanctions on what they call \"networks\" involved in financing and enabling attacks against Palestinian civilians by Jewish settlers in the Israeli-occupied West Bank.",
+      "summary_zh": "联合王国、澳大利亚、加拿大、法国和挪威对其所谓的“网络”实施制裁,这些网络参与资助以色列占领的西岸的犹太定居者袭击巴勒斯坦平民,并促成他们的袭击。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+      "title_zh": "特朗普和内塔尼亚胡想重塑中东,",
+      "link": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T20:14:12+00:00",
+      "summary": "Donald Trump and Benjamin Netanyahu believed that victory over Iran would reshape the Middle East.",
+      "summary_zh": "唐纳德·特朗普和本雅明·内塔尼亚胡认为,战胜伊朗将会重塑中东."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Williams rolls back the years on return at Queen's",
+      "title_zh": "威廉姆斯回过头来 回到皇后的岁月",
+      "link": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T20:13:18+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "title_zh": "向公众发布的 AI 工具“ 过于强大 ”",
+      "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T18:35:59+00:00",
+      "summary": "A version of an artificial intelligence (AI) tool which the company said was too powerful to be released to the public has just been released to the public.",
+      "summary_zh": "公司称其威力过大的人工智能工具版本刚刚向公众发布."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Does referee case show Fifa has lost control of its own World Cup?",
+      "title_zh": "裁判员案例显示菲法失去了对自身世界杯的控制吗?",
+      "link": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T17:55:45+00:00",
+      "summary": "Fifa president Gianni Infantino has ingratiated himself with US President Donald Trump over the past two years",
+      "summary_zh": "菲法总统Gianni Infantino在过去的两年里 向美国总统唐纳德·特朗普施以厚待"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fifa working to resolve revoked Iran tickets",
+      "title_zh": "Fifa努力解决被吊销的伊朗票",
+      "link": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T17:50:37+00:00",
+      "summary": "Iran are playing at the World Cup for the seventh time after coming through Asian Football Confederation qualifying",
+      "summary_zh": "伊朗通过亚洲足球联合会获得资格后,第七次在世界杯上打进一球."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "title_zh": "尽管伊朗警告停止攻击,但以色列的空袭袭击了黎巴嫩城市提尔",
+      "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T17:47:41+00:00",
+      "summary": "Israel has carried out strikes across southern Lebanon, despite a warning from Iran not to continue attacks in the country.",
+      "summary_zh": "尽管伊朗警告不要继续袭击黎巴嫩南部,但以色列在整个黎巴嫩南部进行了袭击。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nasa names next astronauts for Artemis Moon programme",
+      "title_zh": "纳萨为阿耳忒弥斯月球计划命名下一位宇航员",
+      "link": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T17:46:55+00:00",
+      "summary": "NASA has named its crew for its next major Moon mission, Artemis III, though the astronauts will not walk on the Moon or go anywhere near it.",
+      "summary_zh": "美国国家航空航天局已经为其下一个主要月球任务阿尔忒弥斯三世命名了它的船员,尽管宇航员们不会在月球上行走,也不会去任何靠近月球的地方."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
+      "title_zh": "据报告,两名妇女在阿富汗参加罕见的抗议活动后被杀死。",
+      "link": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T16:44:23+00:00",
+      "summary": "Taliban police used live fire to disperse a rare protest against the detention of women accused of violating strict Islamic dress codes in the western Afghan city of Herat, witnesses and protesters said.",
+      "summary_zh": "塔利班警察用活火驱散了一起罕见的抗议活动,抗议在阿富汗西部城市赫拉特拘留被指控违反严格的伊斯兰着装规范的妇女,目击者和抗议者说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
+      "title_zh": "据报有人向肯尼亚抗议美国埃博拉隔离中心开枪,",
+      "link": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T15:08:50+00:00",
+      "summary": "A demonstrator has been shot during a protest in the Kenyan town of Nanyuki against the construction of an Ebola quarantine centre for US citizens, witnesses have told journalists.",
+      "summary_zh": "一名示威者在肯尼亚Nanyuki镇抗议为美国公民建造埃博拉隔离中心时被枪杀,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Scrapping of Franco-German fighter jet leaves allies at odds on defence future",
+      "title_zh": "炸掉法德战斗机 给盟国带来防御前途的不便",
+      "link": "https://www.bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T14:54:36+00:00",
+      "summary": "Germany has pulled the plug on a joint fighter jet programme with France, in a blow to European defence co-operation.",
+      "summary_zh": "德国已同法国一起在联合喷气式战斗机方案上拔出插头,打击了欧洲国防合作。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
+      "title_zh": "谋杀了11岁的Lyhanna, 激怒了法国,",
+      "link": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T14:27:37+00:00",
+      "summary": "France's government is under mounting pressure over the murder of an 11-year-old girl whose alleged killer had several times been denounced to police as a sex offender.",
+      "summary_zh": "法国政府因一名11岁女孩被谋杀而承受越来越大的压力,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "I have right papers and visa - barred referee Artan",
+      "title_zh": "我有正确的证件和签证 禁止裁判Artan",
+      "link": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T13:43:54+00:00",
+      "summary": "Omar Artan refeered at the 2025 Africa Cup of Nations",
+      "summary_zh": "奥马尔·阿尔坦在2025年非洲国家杯上重温"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Please send help': Crew's distress call after ship hit by US missile",
+      "title_zh": "\"请派援\": 美国导弹袭击后船员的求救信号",
+      "link": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T13:42:26+00:00",
+      "summary": "The Indian crew of a sanctioned oil tanker urged authorities to \"please help\" after the ship was hit by a US missile off Oman on Monday, saying it was on fire and sinking in a distress call shared with BBC Verify.",
+      "summary_zh": "受制裁油轮的印度船员敦促当局\"请帮忙\","
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ariana Grande and Ethan Slater split after three years",
+      "title_zh": "阿丽安娜·格兰德和伊森·斯莱特三年后分手",
+      "link": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T10:37:43+00:00",
+      "summary": "Ariana Grande and Ethan Slater have ended their relationship after nearly three years together.",
+      "summary_zh": "阿丽安娜·格兰德和伊森·斯莱特在交往了近三年后结束了他们的关系."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man accused of killing mother-in-law with poison-laced satay",
+      "title_zh": "被控用毒液杀死婆婆的人",
+      "link": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T10:09:04+00:00",
+      "summary": "A man in Indonesia has been arrested for allegedly murdering his mother-in-law using satay laced with rat poison.",
+      "summary_zh": "在印度尼西亚,一名男子因据称用老鼠毒药用Satay来谋杀其岳母而被捕。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Black bear caught in Japan after days of sightings",
+      "title_zh": "看见日本的黑熊几天后被抓获",
+      "link": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T09:32:53+00:00",
+      "summary": "Japanese authorities have sedated and captured a black bear, days after it was spotted roaming around a city near Tokyo.",
+      "summary_zh": "日本当局在发现一头黑熊在东京附近的一城市游走数天后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+      "title_zh": "特朗普在纽约吹嘘,成为首位参加NBA总决赛的美国总统.",
+      "link": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T08:46:05+00:00",
+      "summary": "Donald Trump has been booed at a basketball match in New York as he became the first sitting US president to attend the NBA Finals.",
+      "summary_zh": "唐纳德·特朗普在纽约的一场篮球比赛中被嘘出声来,因为他成为了第一位出席NBA总决赛的在座美国总统."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+      "title_zh": "数以百计的余震使菲律宾兴奋,",
+      "link": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T07:36:15+00:00",
+      "summary": "Hundreds of aftershocks have jolted southern Philippines after a magnitude 7.8 earthquake left dozens of people dead and hundreds more injured.",
+      "summary_zh": "在7.8级地震后,菲律宾南部发生了数百起余震,造成数十人死亡,数百人受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "ICC suspends top prosecutor after investigating misconduct allegations",
+      "title_zh": "国际刑事法院在调查不当行为指控后暂停高级检察官的职务",
+      "link": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T07:29:55+00:00",
+      "summary": "The International Criminal Court's (ICC) chief prosecutor, Karim Khan, has been suspended with immediate effect while an investigation into misconduct allegations continues.",
+      "summary_zh": "国际刑事法院首席检察官Karim Khan被立即停职,同时对不当行为指控的调查仍在继续。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+      "title_zh": "习近平和金正恩发誓,随着朝鲜的访问结束,关系会更加紧密",
+      "link": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T07:08:52+00:00",
+      "summary": "Chinese President Xi Jinping has wrapped up a two-day visit to Pyongyang, his first official trip to North Korea since 2019.",
+      "summary_zh": "中国国家主席习近平对平壤进行了为期两天的访问,这是他自2019年以来首次正式出访朝鲜."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+      "title_zh": "以色列和伊朗的爆发会加强德黑兰的谈判力量",
+      "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T05:07:44+00:00",
+      "summary": "Israel's tit-for-tat strikes with Iran over the weekend, despite US President Donald Trump's call for Prime Minister Benjamin Netanyahu to hold fire, threatened to thrust the Middle East back into another round of direct confrontation between Tehran and Washington.",
+      "summary_zh": "尽管美国总统唐纳德·特朗普呼吁总理本雅明·内塔尼亚胡起火,但以色列周末与伊朗的\"以牙还牙\"罢工,威胁要将中东推回德黑兰和华盛顿之间的另一轮直接对抗."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
+      "title_zh": "随着乌克兰加紧对被占领土的打击,俄罗斯的燃料危机加剧。",
+      "link": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-08T23:23:15+00:00",
+      "summary": "Ukraine's sustained campaign of drone attacks on Russian-occupied territories is disrupting Moscow's supply lines and intensifying a fuel crisis already triggered by long-range strikes on Russia's oil refineries.",
+      "summary_zh": "乌克兰持续发动无人机袭击俄罗斯占领地的行动正在破坏莫斯科的补给线,并加剧由对俄罗斯炼油厂的远程袭击已经引发的燃料危机."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+      "title_zh": "SpaceX的股市爆炸 可能是穆斯克最大的赌博",
+      "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-08T23:22:17+00:00",
+      "summary": "It's 07:25 am, 13 October 2024, at Starbase, near Boca Chica on the Texas side of the US/Mexico border, and on the launch pad stands the biggest rocket ever made. Its engines fire and it climbs into the skies over the Gulf of Mexico to cheers and screams in the SpaceX control room.",
+      "summary_zh": "2024年10月13日凌晨07:25分,位于美国与墨西哥边境德克萨斯一侧的博卡奇卡附近的斯塔克基地,发射台上矗立了有史以来最大的火箭. 它的引擎起火后爬入了墨西哥湾上空的天空,以在SpaceX控制室进行欢呼和尖叫."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How one of India's most successful female politicians is losing her party",
+      "title_zh": "印度最成功的女政治家之一 是如何失去她的党",
+      "link": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-08T22:44:28+00:00",
+      "summary": "Political parties usually survive defeat. What they often struggle to survive is the sudden loss of power.",
+      "summary_zh": "政党通常在失败后幸存. 他们经常为生存而挣扎的是突然失去权力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump tells BBC Netanyahu did not defy him",
+      "title_zh": "特朗普告诉BBC内塔尼亚胡没有违抗他",
+      "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-08T22:34:25+00:00",
+      "summary": "The BBC’s North America editor Sarah Smith spoke with President Donald Trump in a brief phone call on Monday about his conversations with Israeli Prime Minister Benjamin Netanyahu leading up to strikes on Iran.",
+      "summary_zh": "BBC北美编辑莎拉·史密斯(Sarah Smith)星期一与唐纳德·特朗普总统简短通了电话,谈及他与以色列总理本雅明·内塔尼亚胡的对话导致对伊朗的打击."
     },
     {
       "source": "BBC News",
@@ -72,46 +372,6 @@
       "published_at": "2026-06-08T20:54:29+00:00",
       "summary": "US stock markets recovered some of Friday's sharp losses on Monday, but other markets have fallen amid a sell-off in technology shares.",
       "summary_zh": "美国股票市场在周一恢复了周五的一些锐减,但其他市场在技术股销量下降."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "日銀元総裁 白川方明氏 “日銀もう少し早く利上げするべき”",
-      "title_zh": "Nissin主席Hiroaki Shirakawa先生“争取更快”",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144491000.html",
-      "published_at": "2026-06-08T20:39:41+00:00",
-      "summary": "日銀の元総裁、白川方明氏がNHKのインタビューに応じ、国内の物価状況と今の日銀の政策金利について「現在の経済あるいは物価と、金利水準について見合っていないと思う」と述べ、日銀はもう少し早く利上げすべき…",
-      "summary_zh": "尼辛前总裁白川广树先生说:\"我看不出当前的经济或价格,利率,以及尼辛的政策利率......"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
-      "title_zh": "\"城市会是疯狂的:\" 由于特朗普的出席会锁住了竞技场 尼克斯跑来电击纽约市",
-      "link": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T20:38:31+00:00",
-      "summary": "The hottest ticket in town is drawing New York Mayor Zohran Mamdani, the US president, a parade of celebrities, and fans teeming with excitement despite escalating security and a cancelled watch party.",
-      "summary_zh": "纽约市长Zohran Mamdani、美国总统、名人游行、粉丝们不顾安全升级,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中国海警局の船 与那国島沖の日本のEEZ内を航行し管轄権主張",
-      "title_zh": "中国海警分局的船只,在日本的专属经济区出洋相纳古尼岛并主张管辖权",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144621000.html",
-      "published_at": "2026-06-08T20:28:39+00:00",
-      "summary": "今月、中国海警局の船2隻が、沖縄県の与那国島沖の日本のEEZ＝排他的経済水域内を航行し、海上保安庁の呼びかけに対し「中国の管轄区域だ」と主張していたことがわかりました。海警局の船がこの海域で管轄権を主…",
-      "summary_zh": "本月,两所中国海事警察局在冲绳县约纳古尼岛外的日本EEZ-QQ经济水区出航,并声称是\"中国的管辖范围\"以呼唤海岸警卫队. 海警局的船是这里的主要管辖范围..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "皇位継承 与野党7党 “おおむね賛同” 立民 きょう党内議論",
-      "title_zh": "优野党\"优野宣传\"第七党.",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144601000.html",
-      "published_at": "2026-06-08T20:03:54+00:00",
-      "summary": "安定的な皇位継承をめぐり、衆参両院の議長・副議長は、とりまとめ案に与野党7党がおおむね賛同したことを受けて、10日、正式にとりまとめ、政府に提出したい考えです。一方、立憲民主党は賛否を示さず、9日、党…",
-      "summary_zh": "在平稳的皇帝统治下,森高禄仁的会长和副会长想在正月初十日正式巩固并提交政府,以响应七党的巩固. 另一方面,康斯通的民主党没有表现出赞成和反对,第9,......"
     },
     {
       "source": "BBC News",
@@ -136,22 +396,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "At least 35 dead after major earthquake strikes southern Philippines",
-      "title_zh": "在菲律宾南部大地震后至少35人死亡",
-      "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T17:28:40+00:00",
-      "summary": "At least 35 people have died after a magnitude-7.8 earthquake struck off the coast of Mindanao island in the southern Philippines, officials say.",
-      "summary_zh": "菲律宾南部棉兰老岛近海发生7.8级地震,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-      "title_zh": "被囚禁的密码创始人Sam Bankman-Fried寻求特朗普的赦免",
-      "link": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T17:18:21+00:00",
-      "summary": "Sam Bankman-Fried, the one-time giant in cryptocurrencies currently in prison for fraud, has applied for a pardon from President Donald Trump.",
-      "summary_zh": "山姆·班克曼-弗里德(Sam Bankman-Fried),是目前因诈骗入狱的密码界的一次性巨头,曾向唐纳德·特朗普总统申请赦免."
+      "title": "US truck carrying fireworks catches fire, sparking spectacular display",
+      "title_zh": "美国运载烟花的卡车起火了,引发了壮观的展示",
+      "link": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-08T17:08:31+00:00",
+      "summary": "Onlookers were treated to an early Fourth of July display when a truck hauling fireworks caught fire on 6 June, sending pyrotechnics skyward along a Tennessee highway.",
+      "summary_zh": "6月6日,一辆拖烟花的卡车起火,沿着田纳西州高速公路向上飞去。"
     },
     {
       "source": "BBC News",
@@ -162,36 +412,6 @@
       "published_at": "2026-06-08T16:55:15+00:00",
       "summary": "Footballer Christian Eriksen says he is \"doing well\" at home with his family and has already started his recovery, after collapsing during an international match between Denmark and Ukraine on Sunday.",
       "summary_zh": "足球运动员克里斯蒂安·埃里克森(Christian Eriksen)表示,他与家人在家\"做得很好\",并且已经在周日丹麦与乌克兰的国际比赛中倒闭后开始了康复."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eriksen at home and 'doing well' after collapse",
-      "title_zh": "Eriksen在家 倒塌后表现很好",
-      "link": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T16:29:19+00:00",
-      "summary": "Christian Eriksen has 151 caps for Denmark",
-      "summary_zh": "克里斯蒂安・埃里克森对丹麦有151个帽子"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenya's ex-chief justice arrested at protest against building on national park",
-      "title_zh": "肯尼亚前司法总监因抗议国家公园建设而被捕",
-      "link": "https://www.bbc.com/news/articles/cwyel0kv0zyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T16:11:56+00:00",
-      "summary": "Kenya's former Chief Justice David Maraga has been arrested while protesting against, among other things, what activists are alleging is a plan to build a car park on protected land belonging to a wildlife sanctuary in the capital, Nairobi.",
-      "summary_zh": "肯尼亚前首席大法官大卫·马拉加(David Maraga)在抗议活动人士所指控的,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran's World Cup football team arrives in Mexico amid US visa row",
-      "title_zh": "伊朗世界杯足球赛队在美国签证赛中抵达墨西哥",
-      "link": "https://www.bbc.com/news/videos/cz6vw0deq09o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T15:21:04+00:00",
-      "summary": "The Iranian football sqaud has arrived in Tijuana, Mexico, which will serve as its base for the 2026 World Cup amid a row over US visas.",
-      "summary_zh": "伊朗足球甲级联赛已抵达墨西哥蒂华纳,将在美国签证上连续出场,作为2026年世界杯的基地."
     },
     {
       "source": "BBC News",
@@ -222,36 +442,6 @@
       "published_at": "2026-06-08T12:19:11+00:00",
       "summary": "Pupils could be heard screaming at a school in Digos as a magnitude-7.8 earthquake struck off the coast of Mindanao island in the southern Philippines.",
       "summary_zh": "在菲律宾南部棉兰老岛近海发生的7.8级地震中,学生在迪戈斯的一所学校听到尖叫声。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
-      "title_zh": "马拉维人因仇外心理而从南非遣返",
-      "link": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T11:19:58+00:00",
-      "summary": "A group of 150 Malawians repatriated from South Africa amid growing worries about xenophobia are due to arrive by road in their home country on Monday, the Malawian authorities have said.",
-      "summary_zh": "一群150名从南非遣返的马拉维人,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Armenia's pro-West government wins election despite Russian pressure",
-      "title_zh": "亚美尼亚亲西方政府不顾俄罗斯的压力赢得选举",
-      "link": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T10:28:40+00:00",
-      "summary": "Armenian Prime Minister Nikol Pashinyan's party has won a crucial election billed as being key in deciding whether the country continues to move closer to the West.",
-      "summary_zh": "亚美尼亚总理尼科尔·帕希尼扬的政党赢得了一个至关重要的选举法案,认为它是决定该国是否继续接近西方的关键。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Peru election result close as vote counting continues",
-      "title_zh": "秘鲁选举结果随着计票工作的继续进行而结束",
-      "link": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T08:48:37+00:00",
-      "summary": "Peru's presidential election is stuck in a statistical tie, according to an early tally by the pollster Ipsos, echoing previous elections that have dragged on for days or even weeks.",
-      "summary_zh": "秘鲁的总统选举陷入统计平局,"
     },
     {
       "source": "BBC News",
@@ -296,92 +486,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Zelensky's close European allies set out five conditions for peace talks",
-      "title_zh": "泽连斯基的亲密欧洲盟友提出了和谈的五个条件.",
-      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-07T21:39:43+00:00",
-      "summary": "The leaders of Ukraine and its close European allies - the UK, France and Germany - have set out five conditions for reaching a \"just and lasting\" deal to end the war with Russia.",
-      "summary_zh": "乌克兰及其紧密的欧洲盟国——英国,法国和德国的领导人为达成\"公正而持久\"的协议以结束同俄罗斯的战争提出了五个条件."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-      "title_zh": "特朗普在因选举权问题发生冲突后突然结束了NBC的采访.",
-      "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-07T19:55:49+00:00",
-      "summary": "US President Donald Trump abruptly walked out of an interview with NBC after being repeatedly challenged on several claims by the show's presenter Kristen Welker.",
-      "summary_zh": "美国总统唐纳德·特朗普在节目主持人克莉丝汀·韦克(英语:Kristen Welker)多次质疑多个说法后,突然退出NBC的采访."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eriksen conscious after collapsing in Denmark game",
-      "title_zh": "Eriksen在丹麦游戏中崩溃后意识到了",
-      "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-07T18:31:56+00:00",
-      "summary": "Christian Eriksen has been playing since being fitted with an Implantable Cardioverter Defibrillator (ICD) in 2022",
-      "summary_zh": "克里斯蒂安·埃里克森自2022年被装入可植入的心肌减震器(ICD)后就开始出道."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mexico City attempts record-breaking wave",
-      "title_zh": "墨西哥城尝试破纪录的浪潮",
-      "link": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-07T17:53:32+00:00",
-      "summary": "Copyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
-      "summary_zh": "版权2026 BBC. 版权所有。 BBC不负责对外网站的内容. 读一下我们对外联系的方法"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mexicans chase a world record wave - but is the trend even Mexican?",
-      "title_zh": "墨西哥人追逐世界纪录浪潮,",
-      "link": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-07T16:03:41+00:00",
-      "summary": "It's a tradition repeated in stadiums across the world, with crowds of spectators rising up in a rippling roar.",
-      "summary_zh": "这是一个在世界各地体育场中重复的传统,观众群在一阵叫声中高高起."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hundreds of captives freed from Boko Haram mountain hideout",
-      "title_zh": "数百名俘虏从 \" 博科圣地 \" 山地藏身处获释",
-      "link": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-07T14:00:16+00:00",
-      "summary": "At least 360 people kidnapped by Boko Haram jihadists from a mainly Muslim community in Nigeria's north-eastern Borno state in March have been freed from a remote mountain hideout.",
-      "summary_zh": "3月被博科圣地圣战组织绑架的来自尼日利亚东北部博尔诺州主要穆斯林社区的至少360人已经从一个偏远的山地藏身地中解放出来."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
       "title_zh": "史蒂夫·罗森伯格:俄罗斯被无人机袭击圣彼得堡所掩盖的经济论坛",
       "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-07T07:11:18+00:00",
       "summary": "An evil sorcerer is the last person you'd expect to see at an economic forum.",
       "summary_zh": "一个邪恶的巫师是 你期望在经济论坛上看到的最后一个人。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "title_zh": "秘鲁总统竞选紧张,",
-      "link": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-06T23:17:43+00:00",
-      "summary": "\"If you don't meet our demands, we will kill your drivers.\"",
-      "summary_zh": "\"如果你不满足我们的要求 我们会杀了你的司机\""
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "title_zh": "作为粉丝的谣言和猜测 预测泰勒斯威夫特的婚礼日期",
-      "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-06T02:28:56+00:00",
-      "summary": "Nothing stirs up Taylor Swift's fervent fan base quite like new material.",
-      "summary_zh": "没有什么能像新材料一样 激起泰勒·斯威夫特的狂热粉丝基础"
     }
   ]
 }
