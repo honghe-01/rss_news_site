@@ -1,113 +1,303 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-10T23:49:48+00:00",
-  "count": 50,
+  "generated_at": "2026-06-11T23:53:29+00:00",
+  "count": 42,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "サグラダ・ファミリア教会 「イエスの塔」完成記念のミサ",
-      "title_zh": "萨格拉达家庭教会“耶稣之塔”",
-      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146501000.html",
-      "published_at": "2026-06-10T23:40:50+00:00",
-      "summary": "スペイン・バルセロナのサグラダ・ファミリア教会で、高さ170メートルを超えるメインタワー「イエスの塔」が完成したことを記念するミサが行われ、ローマ教皇レオ14世は、「イエスを信じながら戦争を助長するこ…",
-      "summary_zh": "在西班牙巴塞罗那的萨格拉达家庭教堂中,弥撒被举行来对完成主塔\"耶稣之塔\"进行通融,高度为170米,罗马教宗利奥十四世\"这是在鼓励战争的同时."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "title_zh": "世界杯在墨西哥与Shakira, 跳舞,",
+      "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T23:41:14+00:00",
+      "summary": "The 2026 World Cup has begun in Mexico City with an opening ceremony filled with colour, dancing and a performance by global music star Shakira.",
+      "summary_zh": "2026年世界杯开始于墨西哥城,开幕式上充满了色彩,舞蹈以及全球音乐明星夏基拉的表演."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "アメリカ中央軍「イラン国内の複数の標的に攻撃開始」",
-      "title_zh": "美国中央武装力量:多目标袭击伊朗.",
-      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146671000.html",
-      "published_at": "2026-06-10T23:17:46+00:00",
-      "summary": "この記事は、現在リアルタイムで更新中です。",
-      "summary_zh": "此条正被实时更新."
+      "title": "サッカーW杯 開幕戦 メキシコが南アフリカに勝利",
+      "title_zh": "足球杯开幕式 墨西哥胜南非",
+      "link": "http://www3.nhk.or.jp/news/html/20260612/k10015147921000.html",
+      "published_at": "2026-06-11T23:27:00+00:00",
+      "summary": "サッカーワールドカップ北中米大会が11日、日本時間の12日に開幕し、開幕戦となった1次リーグのグループA、メキシコ対南アフリカはメキシコが2対0で勝ちました。",
+      "summary_zh": "北美和中美洲足球世界杯于日本时间第11天举行,第1个联赛小组赛A组墨西哥对阵南非的比赛是开局比赛,以2比0战胜对手."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "NYダウ 950ドルを超える値下がり 5万ドルを割り込む",
-      "title_zh": "NY Daw 950es 950万美元",
-      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146721000.html",
-      "published_at": "2026-06-10T22:36:52+00:00",
-      "summary": "10日のニューヨーク株式市場では、イラン情勢が再び悪化するとの懸念から幅広い銘柄に売り注文が出て、ダウ平均株価は950ドルを超える値下がりとなり、5万ドルを割り込みました。",
-      "summary_zh": "第10回纽约股票市场,伊朗S-G-G-G-出道于多种标志,道家平均股价也低于950美元."
+      "title": "トランプ氏 一転して攻撃中止明らかに イランとの協議は不透明",
+      "title_zh": "特朗普透露取消与伊朗的攻击",
+      "link": "http://www3.nhk.or.jp/news/html/20260612/k10015147941000.html",
+      "published_at": "2026-06-11T22:50:24+00:00",
+      "summary": "イランに対してさらなる攻撃を行う考えを示していたアメリカのトランプ大統領は協議の内容がイラン側で承認されたなどとして一転して攻撃を中止することを明らかにしました。一方、イラン側は最終的な結論に至ってい…",
+      "summary_zh": "特朗普总统(英语:President Trump, United States)展现了对伊朗采取更多行动的想法,他透露讨论的内容是被伊朗认可的迪斯科. 另一方面,伊朗方面已经达成最终结论. ."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "サッカーW杯日本代表 オランダとの初戦へキャンプ地で本格練習",
-      "title_zh": "在露营区正式练习到与日本国家足球队W杯的首场比赛",
-      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146711000.html",
-      "published_at": "2026-06-10T22:04:01+00:00",
-      "summary": "サッカー日本代表はワールドカップのオランダ戦を4日後に控えた10日、キャンプ地のアメリカ南部ナッシュビルの施設で非公開で練習を行い、初戦に向けた調整を進めました。",
-      "summary_zh": "世界杯荷兰会战第10天,日本国家足球队在南美纳什维尔的设施私下练习."
+      "title": "住居侵入疑いで逮捕の2人 当日に三鷹市の現場も下見か",
+      "title_zh": "当天因涉嫌在米塔卡市居住而被捕的2人",
+      "link": "http://www3.nhk.or.jp/news/html/20260612/k10015147851000.html",
+      "published_at": "2026-06-11T21:33:12+00:00",
+      "summary": "先月中旬、東京・小金井市の住宅に金品を奪うなどの目的で侵入したとして逮捕された20代の容疑者2人が、事件当日に東京・三鷹市の店舗兼住宅にも水道業者を装って訪れていた疑いがあることが捜査関係者への取材で…",
+      "summary_zh": "上个月中旬,20多岁的两名可疑人士因剥夺黄金物品到东京高干内城的房屋而被捕,调查官员在采访中曾到访,怀疑......"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "チョルノービリ原発周辺自治体 事故の復興で双葉町と協定へ",
+      "title_zh": "Churnobyl核电站与富塔巴镇就重建事故达成协议",
+      "link": "http://www3.nhk.or.jp/news/html/20260612/k10015147861000.html",
+      "published_at": "2026-06-11T21:32:02+00:00",
+      "summary": "チョルノービリ原子力発電所、ロシア語ではチェルノブイリ原発で、“史上最悪”と言われる事故が発生してからことしで40年。ウクライナにある原発周辺の自治体は、同じく原発事故を経験した福島県双葉町と、今月下…",
+      "summary_zh": "切尔诺贝利核电站,俄罗斯语,来自切尔诺贝利核电站,事件据说在历史上已经40年. 乌克兰核电站周边地方政府遭遇了同样的核电站事故,本月. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "安定的な皇位継承 男系男子の養子案 法整備のあり方論点に",
+      "title_zh": "稳定公主的继承",
+      "link": "http://www3.nhk.or.jp/news/html/20260612/k10015147841000.html",
+      "published_at": "2026-06-11T20:33:26+00:00",
+      "summary": "安定的な皇位継承をめぐり、政府は「立法府の総意」がとりまとめられたことを受け、必要な法案の作成を進めています。旧皇族の男系男子を養子に迎える案について、政府内に恒久的な制度として皇室典範を改正すべきだ…",
+      "summary_zh": "政府正在努力为继承一个稳定的皇帝制定必要的法案. 我们应该修订帝国家庭标准 作为政府的一个永久制度 关于欢迎前帝国男性的建议..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "サッカー日本代表 遠藤航がけがで離脱 W杯出場せず 町野を招集",
+      "title_zh": "日本国家足球队纳鲁西·远藤无威 W杯",
+      "link": "http://www3.nhk.or.jp/news/html/20260612/k10015147931000.html",
+      "published_at": "2026-06-11T19:55:18+00:00",
+      "summary": "サッカーワールドカップ北中米大会に臨む日本代表のキャプテン、遠藤航選手がけがをした左足の状態が思わしくないとしてチームを離れ、大会に出場しないことになりました。遠藤選手に替わって、町野修斗選手が新たに…",
+      "summary_zh": "面对足球世界杯北美和中美联赛的日本国家队队长远藤娜没有离开球队,因为左脚条件没有被考虑. .."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "失敗からの再起をかけるH3ロケット6号機 きょう打ち上げへ",
+      "title_zh": "H3运载火箭6号 从失败重新开始",
+      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015147721000.html",
+      "published_at": "2026-06-11T17:38:42+00:00",
+      "summary": "去年の打ち上げ失敗からの再起をかける日本の主力ロケット「H3」の6号機が、12日午前、鹿児島県の種子島宇宙センターから打ち上げられる予定で、最終的な準備作業が進められています。",
+      "summary_zh": "日本旗舰火箭H3将于12日从鹿儿岛县种子岛航天中心发射升空."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+      "title_zh": "教宗利奥访问加那利群岛,以突出移民的危险旅程",
+      "link": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T17:04:16+00:00",
+      "summary": "Pope Leo XIV began a two-day visit to the Canary Islands on Thursday by listening to the stories of migrants, who have risked long and perilous journeys across the Atlantic to reach Europe.",
+      "summary_zh": "教宗利奥十四世星期四开始对加那利群岛进行为期两天的访问,听了移民的故事,他们冒着冒险穿越大西洋前往欧洲的漫长而危险的旅程."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "title_zh": "反移民情绪上升,",
+      "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T16:25:17+00:00",
+      "summary": "Nigeria has become the latest African state to repatriate some of its citizens from South Africa following a rise in anti-migrant sentiments in the country.",
+      "summary_zh": "尼日利亚在国内反移民情绪上升之后,已成为从南非遣返其部分公民的最新非洲国家。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Deadly Sudan drone strike targets funeral procession",
+      "title_zh": "致命的苏丹无人机袭击了葬礼队伍",
+      "link": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T15:57:04+00:00",
+      "summary": "A drone strike on a funeral procession at a cemetery in the Sudanese city of el-Obeid has killed at least four people and injured several others, two rights groups, Sudan Doctors Network and Emergency Lawyers, have said.",
+      "summary_zh": "无人机袭击苏丹El-Obeid市一个墓地的一次葬礼游行,造成至少4人死亡,另有数人受伤,苏丹医生网络和紧急律师两个权利团体表示."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+      "title_zh": "四天的暴雨杀死了 世界上最稀有的猩猩的7%",
+      "link": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T15:02:34+00:00",
+      "summary": "Four days of extreme rain and landslides in the Indonesian island of Sumatra have pushed the world's most endangered great apes even closer to extinction, says a study.",
+      "summary_zh": "印度尼西亚苏门答腊岛四天的极端降雨和滑坡,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Artan to referee Uefa Super Cup after losing World Cup role",
+      "title_zh": "阿尔坦在失去世界杯角色后给裁判Uefa超级杯",
+      "link": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T14:24:58+00:00",
+      "summary": "Omar Artan became a Fifa-listed referee in 2018",
+      "summary_zh": "奥马尔·阿尔坦于2018年成为菲法上市裁判."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+      "title_zh": "SpaceX的股票市场爆炸 可能是穆斯克最大的赌博",
+      "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T14:13:32+00:00",
+      "summary": "It's 07:25 am, 13 October 2024, at Starbase, near Boca Chica on the Texas side of the US/Mexico border, and on the launch pad stands the biggest rocket ever made. Its engines fire and it climbs into the skies over the Gulf of Mexico to cheers and screams in the SpaceX control room.",
+      "summary_zh": "2024年10月13日凌晨07点25分,位于美国与墨西哥边境德克萨斯一侧的博卡奇卡附近的星基地,发射台上矗立着有史以来最大的火箭. 它的发动机起火,爬上墨西哥湾上空的天空,在SpaceX控制室中欢呼和尖叫."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "title_zh": "科学家们说,厄尔尼诺正在进行并威胁着极端天气",
+      "link": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T13:26:24+00:00",
+      "summary": "El Niño - the natural Pacific weather pattern that pushes up global temperatures - has officially begun, US scientists say.",
+      "summary_zh": "厄尔尼诺—推动全球气温上升的太平洋自然气候模式,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+      "title_zh": "尼克斯的球迷们疯狂地奔跑 因为纽约队在NBA总决赛史上",
+      "link": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T11:58:14+00:00",
+      "summary": "A star-studded crowd saw the New York Knicks record the biggest comeback in NBA Finals history on Wednesday night, beating the San Antonio Spurs by one point in the last 1.2 seconds of the game, after trailing by 29 points.",
+      "summary_zh": "一名星际迷航的观众看到纽约尼克斯队在星期三晚上的NBA总决赛史上最大的复出纪录,在比赛的最后1.2秒中以1分击败了圣安东尼奥斯普尔斯,仅次于29分."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know about US sea drone used in helicopter crew rescue mission",
+      "title_zh": "我们所知道的美国海面无人机 用于直升机救援任务",
+      "link": "https://www.bbc.com/news/articles/cx2xvnd5eqwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T11:12:44+00:00",
+      "summary": "A sea drone was used to save two crew members of a downed US army helicopter off the coast of Oman earlier this week, according to the US military - making it the first publicly known instance of an unmanned vessel being used to conduct a rescue mission.",
+      "summary_zh": "据美国军方称,本周早些时候,一架海上无人驾驶飞机在阿曼海岸外拯救了一架被击落的美军直升机的两名机组人员,这是首次使用无人驾驶飞机执行救援任务的公开案例。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+      "title_zh": "以色列总理内塔尼亚胡表示,",
+      "link": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T10:26:59+00:00",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu has \"certainly gotten some things wrong\", US Vice-President JD Vance has said, as ties between the two partners in the war against Iran appear to have become strained in recent weeks.",
+      "summary_zh": "以色列总理本雅明·内塔尼亚胡(Benjamin Nativa)表示, 美国副总统旺斯(JD Vance)表示,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French singer Patrick Bruel under formal investigation for rape",
+      "title_zh": "法国歌手Patrick Bruel因强奸接受正式调查",
+      "link": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T08:29:57+00:00",
+      "summary": "One of France's best-known showbusiness stars, Patrick Bruel, has been placed under judicial investigation on several counts of rape and sexual abuse, in the latest fallout from the Me Too movement.",
+      "summary_zh": "法国最知名的演艺界明星帕特里克·布鲁尔(Patrick Bruel)因几起强奸和性虐待罪受到司法调查,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
+      "title_zh": "在世界杯足球赛前,",
+      "link": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T08:08:57+00:00",
+      "summary": "After years undergoing extensive renovations, Mexico City's iconic Azteca Stadium is ready to kick off the World Cup on Thursday.",
+      "summary_zh": "经过多年的大规模翻新,墨西哥城的标志性阿兹特卡体育场准备在星期四踢出世界杯."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+      "title_zh": "曼谷神社爆炸案 判处两人死刑",
+      "link": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T06:45:10+00:00",
+      "summary": "A court in Thailand has found two men guilty of carrying out the country's worst ever terrorist attack and sentenced them to death.",
+      "summary_zh": "泰国一家法院判定两名男子犯有实施该国有史以来最严重的恐怖袭击罪行,并判处他们死刑。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Social media on trial: Four important cases to watch",
+      "title_zh": "接受审判的社交媒体:需要观察的四起重要案件",
+      "link": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T05:02:29+00:00",
+      "summary": "When social media started to take over the internet 20 years ago, it was widely hailed as a game-changing technology that would connect people across divides and make information more accessible.",
+      "summary_zh": "当社交媒体20年前开始接管互联网时,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Family of British toddler criticises police as Australian inquiry into cold case murders begins",
+      "title_zh": "英国幼童家庭批评警方,",
+      "link": "https://www.bbc.com/news/articles/c0rygl7y1l0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T04:13:58+00:00",
+      "summary": "The brother of a British toddler who disappeared from an Australian beach has told an inquiry the family has lived with the consequences of police failure for more than 50 years.",
+      "summary_zh": "一位从澳洲海滩失踪的英国幼童的弟弟告诉调查说,他的家人与警察失败的后果一起生活了50多年。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we learned from Bill Gates' deposition on Epstein",
+      "title_zh": "我们从比尔·盖茨关于爱泼斯坦的证词中得知的",
+      "link": "https://www.bbc.com/news/videos/cly828v3l24o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-11T00:07:41+00:00",
+      "summary": "Billionaire Bill Gates testified in a closed-door hearing before the House Oversight Committee on Wednesday about his relationship with Jeffrey Epstein.",
+      "summary_zh": "亿万富翁比尔·盖茨星期三在众议院监督委员会的一次闭门听证会上就他与杰弗里·爱泼斯坦的关系作证."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
+      "title_zh": "观察:历史悠久的美国-加拿大边境图书馆获得魁北克唯一的新入口",
+      "link": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-10T23:54:51+00:00",
+      "summary": "The Haskell Free Library and Opera House, a landmark community institution built deliberately across the Canada–US border in 1904 so neighbours could share books and performances, has opened a new Canada-only entrance.",
+      "summary_zh": "哈斯凯尔自由图书馆和歌剧院(Haskell Free Library and Opera House)是一个标志性的社区机构, 1904年有意跨越加拿大-美国边境,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "title_zh": "印度航空171号班机坠毁的原因引发的激烈争议",
+      "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-10T23:10:11+00:00",
+      "summary": "It was a hot and dry afternoon on 12 June last year, when Air India Flight 171 left the terminal at Sardar Vallabhbhai Patel Airport in Ahmedabad in the western Indian state of Gujarat. Settling into their seats for the nine-and-a-half-hour journey to London were 230 passengers - including 169 Indian nationals and 53 Britons. Looking after them were 10 cabin crew.",
+      "summary_zh": "去年6月12日,印度航空171号班机离开印度古吉拉特邦西部艾哈迈达巴德的Sardar Vallabhbhai Patel机场, 在前往伦敦的9个半小时的旅程中,有230名乘客,包括169名印度国民和53名布里顿人。 照顾他们的人有10人"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+      "title_zh": "Olivia Rodrigo唱着伤心的歌 但她已经选了自己的婚礼歌",
+      "link": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-10T23:09:25+00:00",
+      "summary": "Olivia Rodrigo should be here any second.",
+      "summary_zh": "奥利维亚・罗德里哥应该随时会来"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "An Everest guide's miraculous survival raises questions for tourism industry",
+      "title_zh": "珠穆朗玛峰指南奇迹般的生存给旅游业带来了问题",
+      "link": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-10T22:17:09+00:00",
+      "summary": "A cleaning team was combing Mount Everest's perilous upper slopes for rubbish last Thursday, after a busy climbing season, when they spotted a man in a bright blue summit suit crawling at the foot of the Khumbu Icefall, widely regarded as one of the most dangerous sections of the world's highest peak.",
+      "summary_zh": "上周四,在繁忙的攀登季节后,一个清洁队正在梳理珠穆朗玛峰危险的上坡垃圾,当时他们发现一名身着明亮蓝色山峰西装的人在昆布冰瀑脚下爬行,被普遍认为是世界最高峰中最危险的部分之一。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
-      "title_zh": "在教宗访问期间,",
+      "title_zh": "在教宗访问期间用烟火照亮巴塞罗那的萨格拉达·法米利亚",
       "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-10T21:52:09+00:00",
       "summary": "Pope Leo XIV has described Barcelona's Sagrada Família as a masterpiece of \"stones, colours and light\" as he inaugurated its newest - and tallest - tower.",
-      "summary_zh": "教宗利奥十四将巴塞罗那的\"萨格拉达·法米利亚\"描述为\"石头,颜色和光芒\"的杰作,当时他正在揭幕其最新高的塔楼."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says US will hit Iran 'hard' again today",
-      "title_zh": "特朗普说,美国今天会再次\"猛烈地\"袭击伊朗",
-      "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T21:49:57+00:00",
-      "summary": "President Donald Trump has said the US will hit Iran \"hard\" on Wednesday, after the two sides exchanged strikes overnight.",
-      "summary_zh": "唐纳德·特朗普总统表示,美国将在周三,双方在一夜之间交换出打击后\"硬\"地打击伊朗."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "FIFA会長 米とイラン対立に「どうにもできない状況がある」",
-      "title_zh": "\"我无能为力\"",
-      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146681000.html",
-      "published_at": "2026-06-10T21:37:13+00:00",
-      "summary": "サッカーワールドカップ、北中米大会の開幕を前にFIFA＝国際サッカー連盟のインファンティーノ会長が10日に会見し、アメリカとイランの対立が続く中での開催について「どうにもできない状況があるが、その中で…",
-      "summary_zh": "在足球世界杯和中北美洲联赛开幕前,FIFA = 国际足球联合会主席Infantino将于10日相会,并存在无法存在的情况."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French singer Patrick Bruel faces rape charges",
-      "title_zh": "法国歌手Patrick Bruel面临强奸指控",
-      "link": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T21:07:01+00:00",
-      "summary": "One of France's best-known showbusiness stars, Patrick Bruel, has been placed under judicial investigation on several counts of rape and sexual abuse, in the latest fallout from the Me Too movement.",
-      "summary_zh": "法国最出名的演艺界明星帕特里克·布鲁尔(Patrick Bruel)因几起强奸和性虐待被司法调查,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "G7サミット 石油備蓄強化支援など3項目提案へ 高市首相",
-      "title_zh": "高一总理提出7国集团首脑会议石油强化支持等3个项目",
-      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146611000.html",
-      "published_at": "2026-06-10T20:19:34+00:00",
-      "summary": "中東情勢をめぐり、高市総理大臣は来週のG7サミットで、世界の原油市場の安定化に向けた3項目の提案を行う方向で調整に入りました。不当な輸出制限への反対や石油備蓄強化の支援などを打ち出す見通しです。",
-      "summary_zh": "关于中东,高一总理将在下星期的七国集团首脑会议上向全球原油市场提出三项建议。 支持反不公平出口,加强石油储备,是一回事。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "芥川賞・直木賞の候補作が発表 オードリー若林さんの作品も",
-      "title_zh": "Akutagawa奖/直木奖候选人宣布了Ordry Wakabayashi的作品",
-      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146391000.html",
-      "published_at": "2026-06-10T20:01:06+00:00",
-      "summary": "第175回芥川賞・直木賞の候補作それぞれ5作品が発表され、このうち、直木賞ではお笑いコンビ「オードリー」の若林正恭さんの初めての小説が候補に選ばれました。",
-      "summary_zh": "第175回\"秋田川\"和\"直木\"等5部作品被公布出道,由Masay出品的第一部小说. . 取笑组合\"奥德利\"的花林被选为候选人."
+      "summary_zh": "教宗利奥十四在揭幕时将巴塞罗那的萨格拉达·法米利亚描述为\"石头,颜色和光芒\"的杰作,他揭幕了它最新的,最高的塔."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
-      "title_zh": "比尔·盖茨说爱泼斯坦想要个人关系 但他\"从来没有回应过\"",
+      "title_zh": "比尔·盖茨说爱泼斯坦想要个人关系 但他\"从未回应过\"",
       "link": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-10T19:31:24+00:00",
       "summary": "Billionaire Bill Gates told a congressional committee on Wednesday that he never had a personal relationship with Jeffrey Epstein, and cut ties with the convicted sex offender when he could not deliver on fundraising for the Microsoft founder's philanthropic efforts.",
@@ -126,162 +316,72 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
-      "title_zh": "三个印度水手失踪了,因为美国说它撞到阿曼湾的油轮",
-      "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T17:48:54+00:00",
-      "summary": "The US military has disabled an oil tanker in the Gulf of Oman that it accused of violating an American blockade by \"attempting to transport oil from Iran\".",
-      "summary_zh": "美国军方在阿曼湾将一艘被其指控为违反美国封锁的油轮致残,\"企图从伊朗运输石油\"."
+      "title": "'I will never get over watching my home burn': Belfast residents reel after night of unrest",
+      "title_zh": "\"我永远也忘不了看着家被烧毁\": 贝尔法斯特居民在动乱的夜里",
+      "link": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-10T18:20:54+00:00",
+      "summary": "Families in Belfast, including one with a two-month-old baby, are counting the cost of Tuesday night's violence after being forced to flee their homes in the face of fires.",
+      "summary_zh": "贝尔法斯特的家庭,包括一个有两个月大的婴儿的家庭,在面对火灾被迫逃离家园后,正在计算星期二晚上暴力的代价。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
-      "title_zh": "巴基斯坦向阿富汗发动致命的空袭,使紧张局势重燃",
+      "title_zh": "巴基斯坦在阿富汗发动致命的空袭,使紧张局势重燃",
       "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-10T15:31:15+00:00",
       "summary": "Pakistan has launched deadly air strikes along its border with Afghanistan, breaking months of relative calm in the restive region.",
-      "summary_zh": "巴基斯坦在同阿富汗接壤的边界沿线发动了致命的空袭,打破了数月来静态地区的相对平静."
+      "summary_zh": "巴基斯坦沿着其与阿富汗的边界发动了致命的空袭,打破了数月来在静态地区相对平静的局面."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
-      "title_zh": "挪威王后的儿子在强奸判决前被拘押,",
+      "title_zh": "挪威王妃的儿子在强奸判决前被拘押,",
       "link": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-10T15:00:45+00:00",
       "summary": "A Norwegian appeal court has rejected a request by Marius Borg Høiby to be released from custody because of his mother's serious illness, ahead of a verdict in a rape trial.",
-      "summary_zh": "挪威的一个上诉法院驳回了Marius Borg Høiby提出的因母亲重病而解除拘留的请求,在此之前,对强奸案作出了判决。"
+      "summary_zh": "挪威一家上诉法院在强奸审判判决之前驳回了Marius Borg Høiby提出的因母亲病重而解除拘留的请求。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Israeli strikes in southern Lebanon kill 17, reports say",
-      "title_zh": "据报道,以色列在黎巴嫩南部的袭击造成17人死亡",
+      "title_zh": "报导说,以色列在黎巴嫩南部的打击造成17人死亡",
       "link": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-10T14:44:49+00:00",
       "summary": "Israeli air strikes have killed at least 17 people in southern Lebanon, Lebanese media say.",
-      "summary_zh": "黎巴嫩媒体称,以色列空袭已造成黎巴嫩南部至少17人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US official claims banned referee had links with 'terror organisations'",
-      "title_zh": "美国官方宣称被禁裁判与恐怖组织有联系。",
-      "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T14:08:28+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Growing backlash in Japan over Trump's use of anime characters",
-      "title_zh": "日本对特朗普使用动画人物的反弹越来越大",
-      "link": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T13:42:23+00:00",
-      "summary": "A backlash is growing in Japan over US President Donald Trump's use of popular anime and manga characters in his posts on social media.",
-      "summary_zh": "日本对美国总统唐纳德·特朗普在社交媒体上发表文章时使用受欢迎的动画和漫画角色表示反感。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "First charges laid over deadly Hong Kong fire",
-      "title_zh": "香港大火的第一桩案子",
-      "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T13:05:34+00:00",
-      "summary": "Hong Kong authorities have laid their first charges over the devastating fire at the Wang Fuk housing complex last November.",
-      "summary_zh": "香港当局对去年11月王福住宅区发生毁灭性火灾,"
+      "summary_zh": "黎巴嫩媒体称以色列空袭在黎巴嫩南部造成至少17人死亡."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Air India crash pilot's father vows to defend son's reputation",
-      "title_zh": "印度空难飞行员的父亲发誓要维护儿子的名声",
+      "title_zh": "印度空难飞行员的父亲发誓要维护儿子的名誉",
       "link": "https://www.bbc.com/news/articles/cj0gj911060o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-10T12:37:19+00:00",
       "summary": "The father of one of the pilots killed in last year's Air India plane crash has said he will continue to defend his son's reputation, days before investigators are expected to release an update on their findings.",
-      "summary_zh": "去年印度航空空难遇难飞行员之一的父亲说,他将继续为他儿子的名声辩护,几天前,预计调查人员会公布他们的最新调查结果。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine says missiles hit military plant deep inside Russia",
-      "title_zh": "乌克兰说,导弹击中了俄罗斯境内的军事工厂",
-      "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T11:43:40+00:00",
-      "summary": "Ukrainian forces have carried out a missile attack deep inside Russia, hitting a major military plant overnight, President Volodymyr Zelensky has said.",
-      "summary_zh": "乌克兰军队在俄罗斯深处发动了导弹袭击,一夜之间击中了一座主要的军工厂,沃洛德米尔·泽连斯基总统说."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-      "title_zh": "在约翰内斯堡大规模枪击中12人被杀死后,南非的Manhunt案正在进行",
-      "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T10:26:54+00:00",
-      "summary": "Police in South Africa have launched a manhunt after 12 people were killed in a mass shooting at an informal settlement in Johannesburg.",
-      "summary_zh": "南非警方在约翰内斯堡一个非正式定居点被大规模枪击后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
-      "title_zh": "泽连斯基迫于压力 与波兰结束一行 超过WW2名称 陆军单位",
-      "link": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T09:57:20+00:00",
-      "summary": "Ukraine is facing a major diplomatic fallout with key ally Poland, after Kyiv decided to name a military unit after controversial World War Two fighters, reopening a painful chapter from the past.",
-      "summary_zh": "乌克兰正面临与关键盟友波兰的重大外交后遗症,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-      "title_zh": "声称坎耶·韦斯特窒息的模特告诉BBC,她感到\"窒息和害怕\".",
-      "link": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T05:02:46+00:00",
-      "summary": "Warning: This story contains details some may find distressing",
-      "summary_zh": "警告: 这个故事包含了一些细节 有些可能觉得很痛苦"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Alleged Bondi Beach gunman charged with another 19 offences",
-      "title_zh": "据称Bondi Beach枪手又被控19起罪行",
-      "link": "https://www.bbc.com/news/articles/ckg0l7g7n9no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-10T03:43:31+00:00",
-      "summary": "The man accused of killing fifteen people in an attack on a Jewish festival at Sydney's Bondi Beach in December has been charged with 19 additional offences.",
-      "summary_zh": "被控于12月在悉尼邦迪海滩一个犹太节日被袭击时杀害了15人的人被另外以19起罪名起诉."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "title_zh": "世界最大的芯片制造者不排除随着成本的上涨而价格上涨",
-      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T22:00:24+00:00",
-      "summary": "The world's largest chipmaker has told the BBC that inflation is pushing up the cost of doing business, and did not rule out price rises.",
-      "summary_zh": "世界最大的芯片制造者告诉BBC,通货膨胀正在推高做生意的成本,不排除价格上涨."
+      "summary_zh": "去年印度航空空难中遇难的飞行员之一的父亲表示,他将继续维护儿子的名誉,几天前,预计调查人员会公布他们的最新调查结果。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-      "title_zh": "在缅甸境内,叛军正在失去根据,因为军队中有人参军。",
+      "title_zh": "在缅甸境内,叛军在军队中逐渐失势",
       "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-09T21:13:17+00:00",
       "summary": "The four young men in the rebel camp hidden deep in jungle-covered mountains never wanted a part in Myanmar's civil war.",
-      "summary_zh": "反叛营的四名年轻人隐藏在丛林覆盖的山地深处,他们从未想要参与缅甸内战。"
+      "summary_zh": "叛军营里的四位年轻人 隐藏在丛林覆盖的山中 从来就不想参与缅甸内战"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
-      "title_zh": "央视:BBC与缅甸内战叛军走入丛林.",
+      "title_zh": "观察:BBC与缅甸内战叛军进入丛林.",
       "link": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-09T21:04:20+00:00",
       "summary": "In the five years since Myanmar's military chief led a coup to overthrow the democratically elected government, civil war has torn the country apart.",
-      "summary_zh": "在缅甸军事长官领导推翻民选政府的政变后五年来,内战使缅甸四分五裂."
+      "summary_zh": "在缅甸军事长官领导推翻民选政府的政变后的五年中,内战使缅甸四分五裂."
     },
     {
       "source": "BBC News",
@@ -296,212 +396,32 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Williams rolls back the years on return at Queen's",
-      "title_zh": "威廉姆斯回过头来 回到皇后的岁月",
-      "link": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T20:13:18+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "title_zh": "向公众发布的 AI 工具“ 过于强大 ”",
-      "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T18:35:59+00:00",
-      "summary": "A version of an artificial intelligence (AI) tool which the company said was too powerful to be released to the public has just been released to the public.",
-      "summary_zh": "公司称其威力过大的人工智能工具版本刚刚向公众发布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Does referee case show Fifa has lost control of its own World Cup?",
-      "title_zh": "裁判员案例显示菲法失去了对自身世界杯的控制吗?",
+      "title_zh": "裁判员案显示菲法 失去了对自身世界杯的控制吗?",
       "link": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-09T17:55:45+00:00",
       "summary": "Fifa president Gianni Infantino has ingratiated himself with US President Donald Trump over the past two years",
-      "summary_zh": "菲法总统Gianni Infantino在过去的两年里 向美国总统唐纳德·特朗普施以厚待"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "title_zh": "尽管伊朗警告停止攻击,但以色列的空袭袭击了黎巴嫩城市提尔",
-      "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T17:47:41+00:00",
-      "summary": "Israel has carried out strikes across southern Lebanon, despite a warning from Iran not to continue attacks in the country.",
-      "summary_zh": "尽管伊朗警告不要继续袭击黎巴嫩南部,但以色列在整个黎巴嫩南部进行了袭击。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nasa names next astronauts for Artemis Moon programme",
-      "title_zh": "纳萨为阿耳忒弥斯月球计划命名下一位宇航员",
-      "link": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T17:46:55+00:00",
-      "summary": "NASA has named its crew for its next major Moon mission, Artemis III, though the astronauts will not walk on the Moon or go anywhere near it.",
-      "summary_zh": "美国国家航空航天局已经为其下一个主要月球任务阿尔忒弥斯三世命名了它的船员,尽管宇航员们不会在月球上行走,也不会去任何靠近月球的地方."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
-      "title_zh": "据报告,两名妇女在阿富汗参加罕见的抗议活动后被杀死。",
-      "link": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T16:44:23+00:00",
-      "summary": "Taliban police used live fire to disperse a rare protest against the detention of women accused of violating strict Islamic dress codes in the western Afghan city of Herat, witnesses and protesters said.",
-      "summary_zh": "塔利班警察用活火驱散了一起罕见的抗议活动,抗议在阿富汗西部城市赫拉特拘留被指控违反严格的伊斯兰着装规范的妇女,目击者和抗议者说."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
-      "title_zh": "据报有人向肯尼亚抗议美国埃博拉隔离中心开枪,",
-      "link": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T15:08:50+00:00",
-      "summary": "A demonstrator has been shot during a protest in the Kenyan town of Nanyuki against the construction of an Ebola quarantine centre for US citizens, witnesses have told journalists.",
-      "summary_zh": "一名示威者在肯尼亚Nanyuki镇抗议为美国公民建造埃博拉隔离中心时被枪杀,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Scrapping of Franco-German fighter jet leaves allies at odds on defence future",
-      "title_zh": "炸掉法德战斗机 给盟国带来防御前途的不便",
-      "link": "https://www.bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T14:54:36+00:00",
-      "summary": "Germany has pulled the plug on a joint fighter jet programme with France, in a blow to European defence co-operation.",
-      "summary_zh": "德国已同法国一起在联合喷气式战斗机方案上拔出插头,打击了欧洲国防合作。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
-      "title_zh": "谋杀了11岁的Lyhanna, 激怒了法国,",
-      "link": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T14:27:37+00:00",
-      "summary": "France's government is under mounting pressure over the murder of an 11-year-old girl whose alleged killer had several times been denounced to police as a sex offender.",
-      "summary_zh": "法国政府因一名11岁女孩被谋杀而承受越来越大的压力,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "I have right papers and visa - barred referee Artan",
-      "title_zh": "我有正确的证件和签证 禁止裁判Artan",
-      "link": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09T13:43:54+00:00",
-      "summary": "Omar Artan refeered at the 2025 Africa Cup of Nations",
-      "summary_zh": "奥马尔·阿尔坦在2025年非洲国家杯上重温"
+      "summary_zh": "菲法总统吉安尼·因凡迪诺在过去两年里对美国总统唐纳德·特朗普施以厚待。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-      "title_zh": "以色列和伊朗的爆发会加强德黑兰的谈判力量",
+      "title_zh": "以色列和伊朗的爆发可以加强德黑兰的谈判力量",
       "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-09T05:07:44+00:00",
       "summary": "Israel's tit-for-tat strikes with Iran over the weekend, despite US President Donald Trump's call for Prime Minister Benjamin Netanyahu to hold fire, threatened to thrust the Middle East back into another round of direct confrontation between Tehran and Washington.",
-      "summary_zh": "尽管美国总统唐纳德·特朗普呼吁总理本雅明·内塔尼亚胡起火,但以色列周末与伊朗的\"以牙还牙\"罢工,威胁要将中东推回德黑兰和华盛顿之间的另一轮直接对抗."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-      "title_zh": "SpaceX的股市爆炸 可能是穆斯克最大的赌博",
-      "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T23:22:17+00:00",
-      "summary": "It's 07:25 am, 13 October 2024, at Starbase, near Boca Chica on the Texas side of the US/Mexico border, and on the launch pad stands the biggest rocket ever made. Its engines fire and it climbs into the skies over the Gulf of Mexico to cheers and screams in the SpaceX control room.",
-      "summary_zh": "2024年10月13日凌晨07:25分,位于美国与墨西哥边境德克萨斯一侧的博卡奇卡附近的斯塔克基地,发射台上矗立了有史以来最大的火箭. 它的引擎起火后爬入了墨西哥湾上空的天空,以在SpaceX控制室进行欢呼和尖叫."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How one of India's most successful female politicians is losing her party",
-      "title_zh": "印度最成功的女政治家之一 是如何失去她的党",
-      "link": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T22:44:28+00:00",
-      "summary": "Political parties usually survive defeat. What they often struggle to survive is the sudden loss of power.",
-      "summary_zh": "政党通常在失败后幸存. 他们经常为生存而挣扎的是突然失去权力."
+      "summary_zh": "尽管美国总统唐纳德·特朗普呼吁总理本雅明·内塔尼亚胡开火,但以色列周末与伊朗的猛攻仍威胁要将中东推回德黑兰和华盛顿之间的另一轮直接对抗."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump tells BBC Netanyahu did not defy him",
-      "title_zh": "特朗普告诉BBC内塔尼亚胡没有违抗他",
+      "title_zh": "川普说BBC内塔尼亚胡没有违抗他",
       "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-08T22:34:25+00:00",
       "summary": "The BBC’s North America editor Sarah Smith spoke with President Donald Trump in a brief phone call on Monday about his conversations with Israeli Prime Minister Benjamin Netanyahu leading up to strikes on Iran.",
-      "summary_zh": "BBC北美编辑莎拉·史密斯(Sarah Smith)星期一与唐纳德·特朗普总统简短通了电话,谈及他与以色列总理本雅明·内塔尼亚胡的对话导致对伊朗的打击."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Has Trump lost control of the Iran war?",
-      "title_zh": "特朗普是否失去了对伊朗战争的控制?.",
-      "link": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T19:44:06+00:00",
-      "summary": "The US and Israel's war with Iran is now 101 days old. For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes, despite Donald Trump claiming he urged Israel to hold off. So, has Trump lost control of the Iran war?",
-      "summary_zh": "美国和以色列同伊朗的战争现在已经是101天了. 自两个月前开始不稳定停火以来,以色列和伊朗首次交换了导弹打击,尽管唐纳德·特朗普声称他敦促以色列停止. 那么,特朗普是否失去了对伊朗战争的控制?"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Southern Lights timelapse filmed from space",
-      "title_zh": "观察:从太空拍摄出南方之光",
-      "link": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T18:58:57+00:00",
-      "summary": "A spectacular Southern Lights display has been captured on camera from space.",
-      "summary_zh": "一部壮观的\"南方之光\"展出被从太空拍摄到."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US truck carrying fireworks catches fire, sparking spectacular display",
-      "title_zh": "美国运载烟花的卡车起火了,引发了壮观的展示",
-      "link": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T17:08:31+00:00",
-      "summary": "Onlookers were treated to an early Fourth of July display when a truck hauling fireworks caught fire on 6 June, sending pyrotechnics skyward along a Tennessee highway.",
-      "summary_zh": "6月6日,一辆拖烟花的卡车起火,沿着田纳西州高速公路向上飞去。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How Eriksen's heart device kicked into action",
-      "title_zh": "Eriksen的心脏装置是如何被开动的",
-      "link": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T16:55:15+00:00",
-      "summary": "Footballer Christian Eriksen says he is \"doing well\" at home with his family and has already started his recovery, after collapsing during an international match between Denmark and Ukraine on Sunday.",
-      "summary_zh": "足球运动员克里斯蒂安·埃里克森(Christian Eriksen)表示,他与家人在家\"做得很好\",并且已经在周日丹麦与乌克兰的国际比赛中倒闭后开始了康复."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
-      "title_zh": "友谊或杠杆:习近平为何在朝鲜?.",
-      "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T14:22:38+00:00",
-      "summary": "The Chinese President Xi Jinping has vowed to strengthen his relationship with North Korea's Kim Jong Un in a rare state visit to Pyongyang.",
-      "summary_zh": "中国国家主席习近平在平壤罕见国事访问中誓言加强与朝鲜金正恩的关系."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
-      "title_zh": "伊朗对以色列的打击表明,该政权的抗御感正在增强。",
-      "link": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T14:11:22+00:00",
-      "summary": "When Iran launched missiles and drones at Israel overnight in response to Israeli attacks on Hezbollah in Lebanon, the immediate military significance of the attack appeared to be limited. The political significance, however, may be far greater.",
-      "summary_zh": "当伊朗因以色列在黎巴嫩袭击真主党而一夜之间向以色列发射导弹和无人机时,这次袭击的直接军事意义似乎有限. 然而,政治意义可能要大得多。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Schoolchildren run from collapsing roof as ground shakes in Philippines quake",
-      "title_zh": "当菲律宾发生地震时,学生们从屋顶倒塌而来",
-      "link": "https://www.bbc.com/news/videos/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-08T12:19:11+00:00",
-      "summary": "Pupils could be heard screaming at a school in Digos as a magnitude-7.8 earthquake struck off the coast of Mindanao island in the southern Philippines.",
-      "summary_zh": "在菲律宾南部棉兰老岛近海发生的7.8级地震中,学生在迪戈斯的一所学校听到尖叫声。"
+      "summary_zh": "BBC北美编辑莎拉·史密斯(Sarah Smith)星期一与唐纳德·特朗普总统通了电话,"
     }
   ]
 }
