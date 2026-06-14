@@ -1,37 +1,227 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-13T23:21:28+00:00",
-  "count": 31,
+  "generated_at": "2026-06-14T23:37:22+00:00",
+  "count": 29,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ドジャース山本 9回先頭に本塁打許し記録達成ならずも7勝目",
-      "title_zh": "山本7号的道奇队赢了 即使9次比赛没有成功",
-      "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149541000.html",
-      "published_at": "2026-06-13T23:03:30+00:00",
-      "summary": "大リーグ、ドジャースの山本由伸投手が13日、ホワイトソックス戦に先発登板し、ノーヒットノーランまであとアウト3つと迫った9回、先頭バッターにソロホームランを打たれ、記録達成はなりませんでした。",
-      "summary_zh": "13日,大联盟的山本由之,道奇出道后在首个击球手上跑出一发独跑全垒打,后出道出道出道出道出道出道出道出道出道."
+      "title": "イランメディア「ホルムズ海峡は19日覚書署名後に通航再開へ」",
+      "title_zh": "伊朗媒体 “霍尔姆斯号将在签署第19号备忘录后恢复航行”。",
+      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150051000.html",
+      "published_at": "2026-06-14T23:23:47+00:00",
+      "summary": "イランの革命防衛隊とつながりのあるタスニム通信は15日、情報筋の話として、ホルムズ海峡について今月19日に覚書の署名が行われたあと、通航が再開される見通しだと伝えました。",
+      "summary_zh": "伊朗革命防卫部队于15日将TasQQ通讯连结起来,"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "W杯 カタール対スイスは引き分け カタールは大会初勝ち点",
-      "title_zh": "W Cup 卡塔尔 v 瑞士 Draw 卡塔尔 第一场取胜",
-      "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149521000.html",
-      "published_at": "2026-06-13T22:49:46+00:00",
-      "summary": "サッカーワールドカップ北中米大会の1次リーグのグループB、カタール対スイスは1対1で引き分け、前回大会の開催国のカタールはワールドカップで初めて勝ち点を獲得しました。",
-      "summary_zh": "卡塔尔对阵瑞士,是世界杯足球赛中北美和中美联赛的首个联赛,以一比一被分出,最后一场联赛的卡塔尔是世界杯首个夺冠."
+      "title": "W杯 日本 初戦はオランダと引き分け 2度追いつく【詳しく】",
+      "title_zh": "W Cup Japan的首场比赛与荷兰2度取出[更]",
+      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015149851000.html",
+      "published_at": "2026-06-14T23:23:15+00:00",
+      "summary": "サッカーワールドカップ北中米大会、優勝を目標に掲げる日本代表が注目の1次リーグ初戦で強豪オランダと対戦し、2対2で引き分けました。 後半開始早々に先制された日本はすぐに同点に追いつきましたが、その後、…",
+      "summary_zh": "日本国家队以打入足球世界杯北美和中美洲为入球,在一等联赛对阵大不列颠出场,并出战了两对. 在下半场,日本立即赶上了同一点,之后,......"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "NY原油市場 80ドル台に下落 米イラン合意で供給回復に期待感",
+      "title_zh": "纽约原油市场跌至80美元. 《美国伊朗协定》对恢复供应的预期",
+      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015149981000.html",
+      "published_at": "2026-06-14T22:27:45+00:00",
+      "summary": "14日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝80ドル台まで下落しました。先週末と比べると5％あまり下落した形です。アメリカのトランプ大統領がイランと…",
+      "summary_zh": "14日纽约原油市场,作为国际退货指标的WTI期货价格已暂时降至80美元. 与上个周末相比,它的形状没有下降。 美国特朗普总统伊朗和."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【速報】トランプ大統領 「合意完了」イラン側「覚書が完成」",
+      "title_zh": "特朗普总统“协议完成”伊朗方面“醒来”",
+      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015149921000.html",
+      "published_at": "2026-06-14T22:18:09+00:00",
+      "summary": "この記事は、現在リアルタイムで更新中です。",
+      "summary_zh": "此条正被实时更新."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日銀 きょうから金融政策決定会合 利上げを最終判断へ",
+      "title_zh": "尼辛完成金融政策决定会议",
+      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015149881000.html",
+      "published_at": "2026-06-14T20:55:44+00:00",
+      "summary": "日銀は15日から2日間、金融政策決定会合を開きます。植田総裁が入院中のため欠席する異例の会合となりますが、イラン情勢の影響で原油高や円安傾向が続く中、物価上昇への対応を急ぐ必要があるとして、利上げに踏…",
+      "summary_zh": "NISHIN将在15至2日期间举行两天的财务政策决定会。 由于住院,上田会长将失踪,这将是一次不寻常的会议,但由于受伊朗局势所影响,原油和日元趋势仍在继续,因此必须对价格上涨作出反应."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "高市首相 きょう日伊首脳会談 経済安保など連携強化へ",
+      "title_zh": "加强合作,如首相高一一脑会议",
+      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015149871000.html",
+      "published_at": "2026-06-14T20:52:44+00:00",
+      "summary": "ヨーロッパを歴訪中の高市総理大臣は、日本時間の15日未明、2か国目のイタリアに到着しました。15日夜にメローニ首相との首脳会談に臨み、重要鉱物の安定確保などの経済安全保障分野や科学技術分野での連携の強…",
+      "summary_zh": "欧洲总理高一先生第二次抵达意大利。 15日同夜,梅洛尼先生会见了..."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
-      "title_zh": "票师说尼克斯的球迷不会在最后一刻惊慌失措后被锁出场",
-      "link": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T22:17:08+00:00",
-      "summary": "Ticketmaster is seeking to reassure Knicks fans that they can still attend Saturday's Game 5 of the NBA finals in Texas, despite its limits on ticket purchases.",
-      "summary_zh": "票手正寻求让尼克斯的球迷放心,他们仍然可以参加德克萨斯州NBA总决赛的周六比赛5,尽管其购票受到限制."
+      "title": "UK and Japan agree £18bn investment deal",
+      "title_zh": "英国和日本同意18英镑的投资交易",
+      "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T20:29:15+00:00",
+      "summary": "The UK and Japan have agreed a multi-billion pound investment deal which UK Prime Minister Sir Keir Starmer said will build a \"new era of co-operation\" between the two nations.",
+      "summary_zh": "英国首相基尔·斯塔默爵士(Keir Starmer)表示, 两国将建立\"合作新时代\"。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Protesters clash with police ahead of G7 summit in Geneva",
+      "title_zh": "抗议者在日内瓦七国集团峰会前与警方发生冲突",
+      "link": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T19:46:36+00:00",
+      "summary": "Protesters clashed with police forces during a demonstration against the upcoming G7 summit in Geneva.",
+      "summary_zh": "抗议者与警方发生冲突,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Swiss voters reject 10 million population cap",
+      "title_zh": "瑞士选民拒绝1 000万人口上限",
+      "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T18:23:52+00:00",
+      "summary": "Voters in Switzerland have rejected a proposal to limit the country's population to 10 million.",
+      "summary_zh": "瑞士选民拒绝了将该国人口限制在一千万的提议."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+      "title_zh": "\"朋友的职责\"特鲁多在跳过加拿大比赛后说",
+      "link": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T14:52:35+00:00",
+      "summary": "Former Canadian Prime Minister Justin Trudeau has responded to criticism for skipping his country's first World Cup match to attend a USA game, where his girlfriend, pop superstar Katy Perry, performed.",
+      "summary_zh": "加拿大前总理贾斯丁·特鲁多(英语:Justin Trudeau)回应批评他省略了本国首个参加美国比赛的世界杯比赛,他女友流行超级明星卡蒂·佩里在比赛中出场."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+      "title_zh": "在历史上的NBA为尼克斯队取胜后,在曼哈顿被青少年射杀并被公交车点燃",
+      "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T14:08:03+00:00",
+      "summary": "A teenager was shot and buses destroyed during chaotic scenes in New York City that marred jubilant celebrations for the Knicks' historic NBA championship win.",
+      "summary_zh": "在纽约市混乱的场景中,一名青少年被枪杀并被公交车摧毁,这些场景破坏了尼克斯队历史性的NBA锦标赛胜利的庆典."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+      "title_zh": "在Cártama tapas节期间,旅游火车翻车并造成17人受伤",
+      "link": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T12:04:54+00:00",
+      "summary": "Seventeen people have been injured after the wagon of a tourist train overturned in the Spanish town of Cártama.",
+      "summary_zh": "在西班牙Cártama镇一辆被推翻的旅游列车的车厢后有17人受伤。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ゼレンスキー大統領 G7サミット「無意味にしてはいけない」",
+      "title_zh": "泽莱总统七国集团首脑会议“毫无意义”",
+      "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149811000.html",
+      "published_at": "2026-06-14T10:21:03+00:00",
+      "summary": "ウクライナのゼレンスキー大統領は、G7サミット＝主要7か国首脳会議など一連の外交日程を前に「こうした会合を無意味にしてはならない」と述べ、ロシアへの制裁強化やウクライナへのさらなる軍事支援など実効性の…",
+      "summary_zh": "乌克兰泽连斯基总统说,七国集团首脑会议是一系列的外交日期,例如七位主要国家领导人,“不要让这样无意义的会议,”说,制裁俄罗斯和进一步军事支持乌克兰等效力......"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "title_zh": "菲法向索马里裁判阿尔坦支付全部世界杯比赛费用",
+      "link": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T09:00:08+00:00",
+      "summary": "Omar Artan has been a Fifa referee since 2018",
+      "summary_zh": "奥马尔·阿尔坦自2018年起担任菲法裁判."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Armed men kidnap high-ranking security official in Haiti",
+      "title_zh": "在海地绑架高级安全官员",
+      "link": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T08:07:55+00:00",
+      "summary": "Armed men in Haiti have kidnapped the defence minister's chief of staff, the highest-ranking official to be kidnapped in the violence-wracked Caribbean country in recent years.",
+      "summary_zh": "海地的武装人员绑架了国防部长的参谋长,他是近年来在暴力肆虐的加勒比国家被绑架的最高级别官员。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+      "title_zh": "特朗普说,",
+      "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T06:39:29+00:00",
+      "summary": "The US military has killed the leader of the Venezuelan gang Tren de Aragua in an air strike in the country, President Donald Trump has announced.",
+      "summary_zh": "美国军方在委内瑞拉空袭中杀害了委内瑞拉帮派\"特伦·德·阿拉瓜\"(Tren de Aragua)领导人,总统唐纳德·特朗普宣布."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+      "title_zh": "\"我一生中最伟大的一天\" -- 尼克斯球迷在圣安东尼奥庆祝",
+      "link": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T06:34:11+00:00",
+      "summary": "The New York Knicks won the NBA championship on Saturday night, clinching the fifth game in the best-of-seven series against the San Antonio Spurs. The Knicks secured the title, 94-90, while playing in Texas.",
+      "summary_zh": "纽约尼克斯队于周六晚上获得NBA联赛冠军,在最佳七连胜圣安东尼奥斯普尔斯的比赛中打入了第五局. 尼克斯队在德克萨斯州打球时获得了94-90的头衔."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why the US economy keeps defying the odds",
+      "title_zh": "为何美国经济总是不惜一切代价",
+      "link": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T05:14:17+00:00",
+      "summary": "In Dresden, in east Germany late last year, the final car rolled off the assembly line at Volkswagen's \"Transparent Factory\", built to showcase the pinnacle of European industrial power. Thousands of miles away in Spartanburg, South Carolina, a different German giant, BMW, is running its biggest plant in the world.",
+      "summary_zh": "去年晚些时候,在德累斯顿,最后一辆汽车在大众汽车的\"透明工厂\"上从装配线上滚出,建造这辆汽车是为了展示欧洲工业实力的顶峰. 在南卡罗来纳州斯巴丹堡的数千英里外,一个不同的德国巨头宝马正在经营其世界上最大的植物."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
+      "title_zh": "作者奇马曼达 Adichie指控医院拖延审查儿子的死因",
+      "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T01:08:20+00:00",
+      "summary": "Prominent Nigerian author Chimamanda Ngozi Adichie has accused a hospital in Lagos of obstructing an inquest into the circumstances surrounding her baby son's death.",
+      "summary_zh": "尼日利亚著名作家Chimamanda Ngozi Adichie指控拉各斯一家医院阻碍对其婴儿死亡情况进行调查。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
+      "title_zh": "由于特朗普已经80岁了,作为一个八面体主义者到底有什么感觉?",
+      "link": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-13T23:22:52+00:00",
+      "summary": "In February, Arthur Rose stepped into his office as an internist doctor for the last time after practising medicine for over 65 years.",
+      "summary_zh": "2月,亚瑟·罗斯在执教了超过65年的医学后最后一次出任内科医生."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "title_zh": "俄罗斯家庭利用AI\"复活\"在乌克兰被杀害的亲人",
+      "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-13T23:19:52+00:00",
+      "summary": "Rousing orchestral music plays over a video of a snowy Moscow street dotted with billboards celebrating an end to the war in Ukraine.",
+      "summary_zh": "Rousing 管弦乐在一则视频上播放,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
+      "title_zh": "挪威王后儿子Høiby被强奸案判决",
+      "link": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-13T23:11:28+00:00",
+      "summary": "When three judges in courtroom 250 deliver their verdict at Oslo District Court early on Monday, Marius Borg Høiby - the son of the crown princess of Norway - will find out the extent of his sentence.",
+      "summary_zh": "当250号审判室的三名法官星期一早些时候在奥斯陆地区法院作出判决时,挪威王储之子Marius Borg Høiby将查明他判刑的程度。"
     },
     {
       "source": "BBC News",
@@ -44,116 +234,6 @@
       "summary_zh": "吃饭期间,上海科技工作者文森特·张有鞭打出手机检查\"虚拟父母\"的习惯:一对中年夫妇在线上,用无尽一流的温暖的词来表达他们想象中的孩子."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "サッカーＷ杯北中米大会 日本が会場のある米ダラスで最終調整",
-      "title_zh": "足球世界杯 北美巡回赛 美国达拉斯决赛",
-      "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149481000.html",
-      "published_at": "2026-06-13T21:56:59+00:00",
-      "summary": "サッカーワールドカップ北中米大会に臨む日本代表は13日、翌日に迫った初戦のオランダ戦に向けて、試合会場のあるアメリカのダラスで最終調整しました。",
-      "summary_zh": "13日,日本足球世界杯国家队出战北美和中美运动会,最终的比赛在美国达拉斯举行,这是第一次在荷兰出战."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ大統領 覚書に「14日署名」イラン側「14日ではない」",
-      "title_zh": "特朗普总统的备忘录\"14天签名\" 伊朗方面\"不是14天\".",
-      "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149471000.html",
-      "published_at": "2026-06-13T21:14:52+00:00",
-      "summary": "アメリカのトランプ大統領は、イランとの戦闘終結に向けた覚書について、14日に署名されるという見通しを示しました。一方、イラン側は、この投稿に先立って、署名は14日ではないものの、数日中に行われる可能性…",
-      "summary_zh": "[永久失效連結] 美国总统特朗普展示在14日签署\"与伊朗结束战斗\"备忘录. 另一方面,伊朗方面并非14天的签名,而是几天后可能发生的."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ウクライナ ロシアのエネルギー施設への攻撃続ける",
-      "title_zh": "继续攻击俄罗斯能源设施",
-      "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149301000.html",
-      "published_at": "2026-06-13T20:55:53+00:00",
-      "summary": "ウクライナは、ロシアとの和平案をめぐる協議が進まない中、ロシアのエネルギー施設への攻撃を続け、戦闘を継続する能力を低下させるねらいがあるとみられます。",
-      "summary_zh": "虽然乌克兰没有同俄罗斯进行协商,但据信难以继续攻击俄罗斯的能源设施并降低继续作战的能力."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "高市首相 英に到着 首脳会談へ 経済安保の成果文書発表で調整",
-      "title_zh": "高一总理 A ves to the United Kingdom. 介绍\"ACD\"经济成果.",
-      "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149251000.html",
-      "published_at": "2026-06-13T19:35:00+00:00",
-      "summary": "高市総理大臣は日本時間の14日朝、イギリスに到着しました。14日夜スターマー首相との首脳会談に臨み、重要鉱物の備蓄などの協力を盛り込んだ経済安全保障分野の成果文書を発表する方向で調整しています。",
-      "summary_zh": "高一首相于日本时间14:00抵达英国. 我们正同斯塔马总理一起为第14个晚上讨论经济安全领域的成果,其中包括重要矿物的合作。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "title_zh": "特朗普说美国和伊朗的交易将于星期日签署,",
-      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T18:39:26+00:00",
-      "summary": "President Donald Trump has said a deal to end fighting between the US and Iran is scheduled to be signed on Sunday, after Iran cast doubt on the timing.",
-      "summary_zh": "总统唐纳德·特朗普(Donald Trump)表示,在伊朗对时机表示怀疑后,美国和伊朗将周日签署结束战事的协议."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "天皇皇后両陛下 公式訪問先のオランダに到着",
-      "title_zh": "皇上和太后抵达荷兰",
-      "link": "http://www3.nhk.or.jp/news/html/20260614/k10015149271000.html",
-      "published_at": "2026-06-13T18:31:12+00:00",
-      "summary": "オランダとベルギーを公式訪問するため日本を出発した天皇皇后両陛下は、最初の訪問国オランダに到着されました。",
-      "summary_zh": "离开日本前往荷兰和比利时进行正式访问的Maje-Empress抵达荷兰进行第一次访问。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump's name removed from Kennedy Center after court order",
-      "title_zh": "特朗普的名字在法院下令后从肯尼迪中心取出",
-      "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T17:00:23+00:00",
-      "summary": "US President Donald Trump's name has been taken down from the front of the Kennedy Center in Washington DC, after a judge ordered its removal.",
-      "summary_zh": "美国总统唐纳德·特朗普的名字被从华盛顿特区肯尼迪中心前方取下,此前一名法官下令将其取出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Anthropic suspends new AI tools over US government security concerns",
-      "title_zh": "Anthropic针对美国政府的安全问题暂停了新的AI工具.",
-      "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T16:28:38+00:00",
-      "summary": "Anthropic has suspended its powerful new AI model after US authorities raised security concerns just days following its public release.",
-      "summary_zh": "在Anthropic公开发布几天后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kidnapped Nigerian retired general dies in captivity",
-      "title_zh": "被绑架的尼日利亚退休将军在囚禁中死亡",
-      "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T15:25:09+00:00",
-      "summary": "A retired Nigerian army general who had been kidnapped by gunmen in the country's north-west has died while being held captive, the military has said.",
-      "summary_zh": "军方说,一名在尼日利亚西北被枪手绑架的尼日利亚退役陆军将领被俘后死亡。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Woman seriously injured in shark attack at Sydney beach",
-      "title_zh": "悉尼海滩被鲨鱼袭击而受重伤的妇女",
-      "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T15:24:25+00:00",
-      "summary": "A woman has been seriously injured after being bitten by a shark at a beach in Sydney, police have said.",
-      "summary_zh": "一名妇女在悉尼海滩被鲨鱼咬后受了重伤,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Switzerland to vote on plan to cap population at 10 million",
-      "title_zh": "瑞士将投票决定把人口限制在一千万以下的计划",
-      "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T11:47:42+00:00",
-      "summary": "Can a country put a fixed limit on its population? That is the question Switzerland will be answering on Sunday when voters go the polls to decide on a proposal to cap their population at 10 million, a move that has exposed divisions about immigration in the Alpine nation.",
-      "summary_zh": "一个国家能否对其人口实行固定的限制? 这就是瑞士将在星期日回答的问题,当选民们去投票时,决定把人口限制在一千万左右的建议,这一举动暴露了高山国家移民问题上的分歧。"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "The costs and challenges facing the 2026 World Cup",
@@ -162,46 +242,6 @@
       "published_at": "2026-06-13T06:21:43+00:00",
       "summary": "The World Cup officially kicked off this week - but alongside the football, there are questions around heat, cost, the environmental impact and travel restrictions.",
       "summary_zh": "世界杯本周正式起跑——但和足球赛一样,围绕热能,成本,环境影响和出行限制,也存在问题."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-      "title_zh": "在澳大利亚第一影视公司结婚 没有告诉伴侣有毒品和暴力定罪",
-      "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T05:00:04+00:00",
-      "summary": "Married at First Sight Australia stars say the show left them feeling unsafe and unprotected because their on-screen partners had criminal pasts which they were not told about, a BBC investigation can reveal.",
-      "summary_zh": "在《第一视觉澳大利亚》的明星们结婚后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-      "title_zh": "特朗普说,",
-      "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T04:09:07+00:00",
-      "summary": "The US military has killed the leader of the Venezuelan gang Tren de Aragua in an airstrike, President Donald Trump has announced.",
-      "summary_zh": "美国军方在空袭中杀害了委内瑞拉帮派\"特伦·德·阿拉瓜\"的领导人,总统唐纳德·特朗普宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
-      "title_zh": "Warner Bros 111bn 出售给派拉蒙公司,由美国司法部批准",
-      "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T03:28:25+00:00",
-      "summary": "Paramount Skydance's $111bn (£82.8bn) acquisition of Warner Bros Discovery has been approved by the US Department of Justice.",
-      "summary_zh": "派拉蒙·斯克丹斯(Paramount Skydance)的111bn(82.8bn)收购\"华纳兄弟发现\"获得美国司法部批准."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
-      "title_zh": "大卫·霍克尼描绘了一个\"和平的,同性恋的天堂\" 当同性恋是一种犯罪",
-      "link": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-13T01:14:00+00:00",
-      "summary": "One of David Hockney's early paintings depicts a couple wrapped in an embrace.",
-      "summary_zh": "大卫·霍克尼(David Hockney)的一幅早期画作描绘了一对被抱住的夫妇."
     },
     {
       "source": "BBC News",
@@ -236,36 +276,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "title_zh": "随着SpaceX在股市的起跑,伊隆·穆斯克成为了世界上第一个万亿富翁",
-      "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-12T22:00:52+00:00",
-      "summary": "Elon Musk on Friday became the world's first trillionaire after shares in his SpaceX rocket company soared during the biggest-ever stock market debut.",
-      "summary_zh": "周五的埃隆·穆斯克(Elon Musk)成为世界上第一个万亿富翁,因为他的SpaceX火箭公司的股份在有史以来最大的股市上市时猛增."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fans on concourses instead of in seats, claims Fifa",
-      "title_zh": "球迷们在座席上而不是在座席上,声称菲法",
-      "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-12T20:26:23+00:00",
-      "summary": "South Korea came from behind to beat Czech Republic 2-1",
-      "summary_zh": "韩国从后方赶来击败捷克2-1"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French town buries murdered child as questions mount over police failings",
-      "title_zh": "法国小镇在警察的失败面前 杀害了孩子",
-      "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-12T16:19:12+00:00",
-      "summary": "An 11-year-old girl called Lyhanna, murdered two weeks ago in south-western France, has been buried amid persistent public anger at failings that left her suspected killer at large.",
-      "summary_zh": "一位名叫Lyhanna的11岁女孩两周前在法国西南部被谋杀,她被埋在公众持续愤怒的阴影下,致使她涉嫌杀害她的人逍遥法外。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: Four UFO videos newly declassified by US government",
       "title_zh": "看:美国政府新解密的四部UFO影片",
       "link": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
@@ -276,42 +286,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'I will come home safely': Indian sailor's last words to wife before a US strike killed him",
-      "title_zh": "\"我会平安回家\":印度水手在美国罢工前对妻子的遗言将他杀死.",
-      "link": "https://www.bbc.com/news/articles/cx24vlj2nvyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-12T08:52:36+00:00",
-      "summary": "\"He told me he would be home soon. I never imagined he would return like this,\" says Patnala Bhargavi, whose husband Patnala Suresh, an Indian sailor, was killed in a US strike near the Gulf of Oman this week.",
-      "summary_zh": "\"他告诉我他很快就会回家. 我从未想过他会像这样回来,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What do Puerto Ricans think of the viral song about their homeland?",
-      "title_zh": "波多黎各人如何看待关于祖国的病毒歌曲?",
-      "link": "https://www.bbc.com/news/articles/cwy0v85ldyjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-12T05:34:56+00:00",
-      "summary": "\"First time in San Juan, mi hijo. Capital of Puerto Rico…\"",
-      "summary_zh": "\"第一次在圣胡安,我的hijo。 波多黎各首都\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why the economics make this the craziest World Cup ever",
       "title_zh": "为什么经济学会让这成为有史以来最疯狂的世界杯",
       "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-11T23:07:52+00:00",
       "summary": "Football World Cups are rarely completely politics-free but never has the beautiful game navigated a geopolitical high-wire act of this kind. The main host is at war with a participant, whose team must commute in on match days from another country.",
       "summary_zh": "足球世界杯很少完全没有政治因素, 主要东道主与参与者交战,其团队必须在比赛日从另一个国家通勤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-      "title_zh": "还是故意的? - 解开特朗普对伊朗的策略",
-      "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-11T20:22:16+00:00",
-      "summary": "President Donald Trump cancelled strikes on Iran after earlier threatening that the US would strike the country on Thursday night. He cited negotiations for cancelling the strikes.",
-      "summary_zh": "总统唐纳德·特朗普在此前威胁美国将在星期四晚上袭击伊朗后,取消了对伊朗的罢工. 他列举了取消罢工的谈判。"
     }
   ]
 }
