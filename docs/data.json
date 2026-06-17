@@ -1,17 +1,317 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-16T23:47:42+00:00",
-  "count": 33,
+  "generated_at": "2026-06-17T23:50:31+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米FRB 政策金利据え置き ウォーシュ議長「物価安定を実現」",
+      "title_zh": "Warsch先生,财政部政策利率委员会主席",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152921000.html",
+      "published_at": "2026-06-17T23:39:59+00:00",
+      "summary": "アメリカのFRB＝連邦準備制度理事会はトランプ大統領に指名されたウォーシュ新議長のもとで初めての会合を開き、17日、政策金利を据え置くと発表しました。ウォーシュ議長は、会合後の記者会見でイラン情勢を背…",
+      "summary_zh": "美国FRB=美联储董事会今天宣布,这将是沃尔什主席提名为特朗普总统的首次会议. 17日,将设定政策利率. 在会后记者会上,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ホワイトハウス “覚書に電子的に署名 すでに効力生じている”",
+      "title_zh": "白宫“Elecly签署备忘录”",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153101000.html",
+      "published_at": "2026-06-17T22:59:33+00:00",
+      "summary": "アメリカのホワイトハウスは、17日、アメリカとイランが戦闘終結に向けた覚書に電子的に署名し、すでに効力が生じていると明らかにしました。",
+      "summary_zh": "17日,美国白宫透露美国和伊朗通过电子方式签署了\"结束战斗的备忘录\",此事已经发生."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+      "title_zh": "美伊协议没有解决核心问题,",
+      "link": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T22:57:46+00:00",
+      "summary": "The US-Iran memorandum of understanding announced on Wednesday amounts to a reopening of the Strait of Hormuz, and a deal to try to reach a final agreement on almost everything else.",
+      "summary_zh": "美国-伊朗星期三宣布的谅解备忘录相当于重新开放霍尔木兹海峡,并达成一项协议,试图就几乎所有其它问题达成最后协议。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "”介護殺人”加害者7割超が心身不調も相談は3人に1人 NHK分析",
+      "title_zh": "超过70%的人谈论身心障碍,",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152831000.html",
+      "published_at": "2026-06-17T22:23:13+00:00",
+      "summary": "介護疲れなどから家族の命を奪う、いわゆる「介護殺人」について、過去5年間に全国で起きたおよそ50の事件をNHKが分析したところ、介護や介助をしていた加害者の7割以上が心身に不調を抱えていたことが分かり…",
+      "summary_zh": "NHK分析了所谓的\"护理杀人\",剥夺了家庭生命的护理疲劳等,近五年来全国共发生50起左右的事件,发现70%以上的护理和援助受害者是心智和身体意外. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ニデック きょう株主総会 新たな経営体制などに理解得られるか",
+      "title_zh": "能否理解Nidec股东大会的新管理制度等?.",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152801000.html",
+      "published_at": "2026-06-17T21:53:57+00:00",
+      "summary": "不正な会計処理が明らかになった、電子部品大手のニデックの株主総会が、18日、開かれます。一連の問題の起点になったとされた創業者の永守重信氏に依存する経営からの脱却に向けて、新たな経営体制に関する議案が…",
+      "summary_zh": "大型电子组件公司尼德克股东大会于18日举行. 关于新管理制度的建议要从管理层中剔除,这取决于创始人长森志玄先生,他被认为是一系列问题的起点. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "天皇皇后両陛下 オランダで歓迎の晩さん会に",
+      "title_zh": "皇上和皇后们",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153121000.html",
+      "published_at": "2026-06-17T21:39:10+00:00",
+      "summary": "国賓としてオランダを公式訪問している天皇皇后両陛下は、アムステルダム王宮で歓迎の晩さん会に臨まれました。",
+      "summary_zh": "他作为国家嘉宾正式访问荷兰的Maje-Queen是阿姆斯特丹皇家宫廷的欢迎晚宴。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "G7サミット閉幕 仏マクロン大統領 “協力実現 大きな転換点”",
+      "title_zh": "7国集团首脑会议主席“实现合作:重大转折点”",
+      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152391000.html",
+      "published_at": "2026-06-17T20:12:22+00:00",
+      "summary": "フランスで開かれていたG7サミット＝主要7か国首脳会議はイランやウクライナ情勢に関するものなど9つの成果文書を発表し、17日閉幕しました。マクロン大統領は、ウクライナへの支援などをめぐり各国が結束を確…",
+      "summary_zh": "在法国举行的七国集团峰会于17日闭幕. 马克龙总统确认支持乌克兰的各国债券......"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "食料品の消費税減税 来年4月1％案 野党から批判や懸念も",
+      "title_zh": "明年4月粮食消费税减税1%",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152871000.html",
+      "published_at": "2026-06-17T19:55:52+00:00",
+      "summary": "食料品の消費税減税をめぐり、超党派の「国民会議」の実務者会議で、税率を2027年4月から2年間、1％に引き下げるなどとした議長案が示されました。野党からは批判や懸念も出ていて、夏前の中間とりまとめに向…",
+      "summary_zh": "在超党派集团的\"全国会议\"(Constitutional Constitution)中,主席计划从2027年4月降低税率至2月1分. 有批评和担忧的由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来由来相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
+      "title_zh": "前尼日利亚石油部长在联合王国受贿案审理中获批准",
+      "link": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T19:03:10+00:00",
+      "summary": "A former Nigerian oil minister has been cleared of taking bribes from wealthy oil executives in the form of luxury home stays and lavish spending sprees in the UK.",
+      "summary_zh": "一名尼日利亚前石油部长被免去向富裕的石油高管行贿,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
+      "title_zh": "连环杀手谋杀了长岛镇的八名女性 被终生监禁",
+      "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T17:45:54+00:00",
+      "summary": "Rex Heuermann, known as the Gilgo Beach serial killer, who admitted to brutally murdering eight women, received the maximum sentence on Wednesday.",
+      "summary_zh": "被称作\"吉尔戈海滩连环杀手\"的雷克斯·海尔曼(Rex Heuermann)承认残忍地谋杀了8名女性,他于星期三获得最高刑罚."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+      "title_zh": "寻找6岁埃博拉病患,",
+      "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T16:50:42+00:00",
+      "summary": "Authorities in eastern Democratic Republic of Congo are searching for a six-year-old Ebola patient and her mother after armed men stormed the hospital where they were being treated.",
+      "summary_zh": "刚果民主共和国东部当局正在寻找一名6岁的埃博拉病人及其母亲,当时武装人员袭击了他们接受治疗的医院。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+      "title_zh": "亚马逊创始人Bezos说,",
+      "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T16:37:41+00:00",
+      "summary": "AI will lead to more need for workers rather than make people redundant, Amazon founder Jeff Bezos predicted during an appearance at a tech conference in Paris.",
+      "summary_zh": "Amazon创始人Jeff Bezos在巴黎科技会议上出现时,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mangione's lawyers plan psychiatric defence in state murder trial",
+      "title_zh": "曼吉奥内的律师计划在国家谋杀案审判中 为精神病辩护",
+      "link": "https://www.bbc.com/news/articles/c1lym76jyymo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T15:52:47+00:00",
+      "summary": "Lawyers for Luigi Mangione, the man accused of gunning down UnitedHealthcare Chief Executive Brian Thompson, will argue a psychiatric defence at his state murder trial, a judge said on Wednesday.",
+      "summary_zh": "Luigi Mangione的律师, 被控枪杀United Health Care首席执行官Brian Thompson的人, 将在他的国家谋杀案审判中提出精神辩护。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigerian man jailed for storing human faeces outside his home",
+      "title_zh": "尼日利亚人因将人粪放出家门而入狱",
+      "link": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T14:33:39+00:00",
+      "summary": "A man in northern Nigeria has been sentenced to two weeks in prison after neighbours complained that he was storing bags of human faeces outside his home, which they said made life unbearable.",
+      "summary_zh": "尼日利亚北部一名男子因邻居抱怨自己在家中外存放了人类粪便袋而被判处两周监禁,他们说这让生活无法忍受。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Leader of South Africa's second biggest party wants his predecessor sacked as minister",
+      "title_zh": "南非第二大党领袖希望他的前任被解职为部长",
+      "link": "https://www.bbc.com/news/articles/ce8jg660r73o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T14:17:19+00:00",
+      "summary": "The leader of the second biggest party in South Africa's governing coalition has asked President Cyril Ramaphosa to sack his predecessor, one of the country's best-known politicians.",
+      "summary_zh": "南非执政联盟第二大政党领导人要求总统西里尔·拉马福萨解雇其前任,他是该国最有名的政治家之一."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "title_zh": "英国调查报告 俄罗斯军舰在英吉利海峡游艇附近鸣枪警告",
+      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T13:41:21+00:00",
+      "summary": "A retired British couple who were on a yacht which had warning shots fired near it by a Russian warship in the English Channel have told the BBC the experience was \"surreal\".",
+      "summary_zh": "英国的一对退休夫妇在一艘游艇上,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "title_zh": "美军封锁后伊朗派来油罐车",
+      "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T13:27:47+00:00",
+      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+      "summary_zh": "装有原油的三艘伊朗油轮已过美国阿曼湾封锁线 船舶跟踪数据显示."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bystanders smash windows of private jet to rescue passengers after crash",
+      "title_zh": "旁观者打碎了私人飞机的窗户来救援坠机后的乘客",
+      "link": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T12:53:27+00:00",
+      "summary": "Nearly a dozen bystanders and first responders rushed to the scene of a private jet crash on a Texas motorway on Tuesday to help free trapped passengers.",
+      "summary_zh": "近一打旁观者和第一应答者于星期二赶到德克萨斯州一跑道上发生私人喷气式飞机相撞事故的现场,以帮助解冻被困乘客."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
+      "title_zh": "玻利维亚与美国签下20亿美元交易,",
+      "link": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T12:01:04+00:00",
+      "summary": "Bolivia says it has signed a new co-operation deal with the US to combat drug trafficking.",
+      "summary_zh": "玻利维亚表示已与美国签署打击贩毒的新合作协议."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
+      "title_zh": "挪威的王后 肺移植成功 宫殿说",
+      "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T10:15:08+00:00",
+      "summary": "Norway's Crown Princess Mette-Marit has undergone a successful lung transplant in Oslo, the country's royal household has said.",
+      "summary_zh": "挪威王室公主梅特-马里特在奥斯陆成功进行了肺移植,该国皇室人士表示."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "title_zh": "以色列不顾特朗普的批评,对黎巴嫩发动了新的打击.",
+      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T10:01:42+00:00",
+      "summary": "Israeli forces have carried out new strikes in southern Lebanon, state media say, despite renewed criticism from US President Donald Trump of Israel's actions in the country.",
+      "summary_zh": "国家媒体称,尽管美国总统唐纳德·特朗普再次批评了以色列在该国的行动,但以色列军队在黎巴嫩南部实施了新的打击."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "title_zh": "\"他们带着砍刀来了\" \"移民离开南非的最后期限快到了\"",
+      "link": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T09:56:40+00:00",
+      "summary": "South Africa has become a hostile place for undocumented migrants, as a deadline set by protesters for them to leave the country approaches.",
+      "summary_zh": "南非已成为无证移民的敌对地,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Equatorial Guinea government resigns after failing to meet targets",
+      "title_zh": "赤道几内亚政府未能实现目标而辞职",
+      "link": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T09:52:52+00:00",
+      "summary": "Equatorial Guinea's government has resigned after failing to meet its objectives, Vice-President Teodoro Nguema Obiang Mangue said.",
+      "summary_zh": "赤道几内亚政府未能实现目标后辞职,副总统特奥多罗·恩圭马·奥比昂·曼格表示."
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
       "title_zh": "联邦调查局说,",
       "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T23:17:46+00:00",
+      "published_at": "2026-06-17T09:46:31+00:00",
       "summary": "The FBI thwarted a plot targeting Sunday's UFC event at the White House and has arrested five men, the US justice department said on Tuesday.",
       "summary_zh": "联邦调查局挫败了一起针对周日UFC在白宫的活动的阴谋,并逮捕了五个人,美国司法部星期二说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "title_zh": "由于以色列民族主义者藐视规则,耶路撒冷最神圣的圣地的现状受到威胁",
+      "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T09:13:34+00:00",
+      "summary": "\"The whole land of Israel was promised to the children of God… and this is where we are going to build a new Temple for the entire humanity to come and pray together.\"",
+      "summary_zh": "\"整个以色列的土地是向上帝的子孙许诺的\" \"这就是我们要在这里建造一座新的圣殿\" \"让全人类一起来祈祷\""
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japan raids ice cream giants over price-fixing allegations",
+      "title_zh": "日本突袭了冰激凌巨头的定价指控",
+      "link": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T07:33:39+00:00",
+      "summary": "Japan's competition watchdog has raided some of the country's biggest ice cream makers for allegedly forming a cartel to raise the price of their products.",
+      "summary_zh": "日本的竞争监督员突袭了该国一些最大的冰淇淋制造商,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Telegram challenges India ban over exam paper leak fears",
+      "title_zh": "Telegram挑战印度禁止考试纸泄露恐惧",
+      "link": "https://www.bbc.com/news/articles/c4gy40q8wz0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T06:56:27+00:00",
+      "summary": "Telegram has taken the Indian government to court over its decision to temporarily ban the messaging platform days before millions of students retake a crucial medical entrance examination.",
+      "summary_zh": "Telegram将印度政府告上法庭, 在数百万学生重新参加关键的医学入学考试之前,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australian shock jock wins A$12m payout after radio station tore up contract",
+      "title_zh": "澳大利亚休克运动员在电台撕毁合同后赢得1200万美元的报酬",
+      "link": "https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T04:08:29+00:00",
+      "summary": "Australian shock jock Kyle Sandilands will pocket A$12m ($8.5m; £6.3m) after agreeing to settle a lawsuit against his former employer who cancelled his ten-year A$100m contract early.",
+      "summary_zh": "澳大利亚休克运动员凯尔·桑迪兰斯(Kyle Sandilands)在同意解决对其前雇主的诉讼后,将口出1200万澳元(850万澳元;630万英镑),该雇主提前取消了他为期十年的一亿美元合同."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brazil convicts Jair Bolsonaro's son of pursuing US help in father's legal battle",
+      "title_zh": "巴西将Jair Bolsonaro的儿子判定有罪,",
+      "link": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T00:31:35+00:00",
+      "summary": "The son of jailed former Brazilian President Jair Bolsonaro has been convicted by Brazil's highest court of pursuing US intervention during his father's coup trial last year.",
+      "summary_zh": "巴西最高法院已判定巴西前总统贾伊尔·博尔索纳罗之子在去年对父亲的政变审判中,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan",
+      "title_zh": "摩托车手为了走私伊朗燃料到巴基斯坦, 对抗极端热浪和武装冲突",
+      "link": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T23:52:37+00:00",
+      "summary": "Mazaar's small motorbike is so laden with plastic canisters filled with petrol that there's barely room for him to sit.",
+      "summary_zh": "马扎尔的小摩托车上装满了装满了汽油的塑料罐子,几乎没有地方让他坐."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India: Why a country of 1.4 billion is not in the football World Cup",
+      "title_zh": "印度:为什么14亿国家没有参加足球世界杯.",
+      "link": "https://www.bbc.com/news/articles/ce95gvpn535o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T23:09:45+00:00",
+      "summary": "Will India ever play at the Fifa World Cup?",
+      "summary_zh": "印度会参加菲法世界杯吗?"
     },
     {
       "source": "BBC News",
@@ -22,126 +322,6 @@
       "published_at": "2026-06-16T22:01:34+00:00",
       "summary": "Retired British couple Jane and Alan Kelvey spoke to BBC's Newsnight after coming into close contact with Russian frigate the Admiral Grigorovich on Tuesday morning.",
       "summary_zh": "退休的英国夫妇简和艾伦·凯尔维在星期二早上与\"格里戈罗维奇\"上将号俄国护卫舰密切接触后,与BBC的\"新闻之夜\"进行了交谈."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "title_zh": "英国调查报告 俄罗斯军舰在英吉利海峡游艇附近鸣枪警告",
-      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T21:44:25+00:00",
-      "summary": "A British retired couple who were on a yacht which had warning shots fired near it by a Russian warship in the English Channel on Tuesday have described the \"surreal\" experience to BBC Newsnight.",
-      "summary_zh": "一名英国退休夫妇在一艘游艇上, 星期二一艘俄国军舰在英吉利海峡附近鸣枪警告,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "スペースX 一時時価総額世界4位に マイクロソフト抜く",
-      "title_zh": "Space X T 市场Cap 全球第4名微软",
-      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152021000.html",
-      "published_at": "2026-06-16T21:35:54+00:00",
-      "summary": "先週、アメリカで上場した宇宙開発などを手がける「スペースX」の株価が大きく上昇し、一時、時価総額でIT大手の「マイクロソフト」を抜いて世界で第4位となりました。個人投資家を中心に資金を投じる動きが続い…",
-      "summary_zh": "上星期在美国上市的\"Space X\"的股价大幅上市,并凭借在市场价格上市的大IT公司\"微软\"而成为世界第四. 继续推进以个人投资者为中心的资金转移."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "高市首相 石油備蓄支援強化など3項目提案 G7サミット",
-      "title_zh": "高一首相七国峰会",
-      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151951000.html",
-      "published_at": "2026-06-16T21:13:51+00:00",
-      "summary": "フランスで開かれているG7サミットに出席している高市総理大臣は、中東情勢をテーマにした議論の中で、エネルギー安全保障の強化に向けて、不当な輸出制限への反対や石油備蓄強化の支援など3項目の提案を行いまし…",
-      "summary_zh": "出席在法国举行的七国集团首脑会议的高一先生提出了三个项目,例如,在讨论中东问题时,对不可出口的立场和支持加强石油储存。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "G7サミット 中東やウクライナ情勢への対応を議論",
-      "title_zh": "7国集团首脑会议辩论对中东和乌克兰的反应",
-      "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151271000.html",
-      "published_at": "2026-06-16T20:53:11+00:00",
-      "summary": "フランスで開かれているG7サミット＝主要7か国首脳会議は16日、中東やウクライナ情勢への対応を議論しました。中東情勢をめぐる議論には湾岸諸国の一部の国の首脳らも参加し、アメリカとイランの戦闘終結に向け…",
-      "summary_zh": "在法国举行的7国集团首脑会议已经于16日讨论,以处理中东和乌克兰局势。 参与海湾国家的一部分讨论中东场景,并前往美国和伊朗的尽头. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ホワイトハウスのイベント狙い攻撃計画か 未然に防ぐ FBI長官",
-      "title_zh": "白宫事件目标攻击计划或不阻止联邦调查局秘书",
-      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152031000.html",
-      "published_at": "2026-06-16T20:50:05+00:00",
-      "summary": "アメリカのFBI＝連邦捜査局は、ホワイトハウスでの総合格闘技のイベントを狙った攻撃が計画されていたと明らかにしました。計画は未然に防いだとしていますが、このイベントにはトランプ大統領も出席していて、ア…",
-      "summary_zh": "美国联邦调查局=联邦调查局透露,此次袭击是白宫一般武术活动所策划. 虽然计划史无前例,特朗普总统也参加了这次活动. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "日銀 利上げに踏み切るも円安傾向続く 物価抑制で難しい対応も",
-      "title_zh": "尼辛:即使加高了利息,也继续倾向于日元.",
-      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151901000.html",
-      "published_at": "2026-06-16T20:47:23+00:00",
-      "summary": "日銀は16日まで開いた金融政策決定会合で去年12月以来となる利上げに踏み切りました。イラン情勢の悪化で生じた物価上昇への対応を急ぐねらいですが、外国為替市場では物価の押し上げにつながる円安が進むなど、…",
-      "summary_zh": "尼辛曾是一次金融政策决策会,开放至16日,自去年12月起成为盈利. 很难应对由伊朗局势恶化所引发的价格上涨,但在外汇市场中,日元低价导致物价飞出. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "アイス価格カルテル疑い 各社幹部クラスが定期的に情報交換か",
-      "title_zh": "怀疑冰价卡特尔 每个公司的执行班定期交流信息",
-      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151931000.html",
-      "published_at": "2026-06-16T20:45:53+00:00",
-      "summary": "アイスの価格を引き上げるカルテルを結んでいた疑いで、公正取引委員会は16日、大手食品メーカーなど6社の立ち入り検査を行いました。各社の幹部クラスが定期的に会合を開いて値上げ幅などについて情報交換してい…",
-      "summary_zh": "16日,QQ交易委员会对六大食品制造商等进行了独立检查. 各公司执行级定期就增值宽度等交换信息."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "消費税減税 実務者会議で案提示へ 来年4月から1％軸に調整",
-      "title_zh": "减税 在执业者会议上提交一个建议 。",
-      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151881000.html",
-      "published_at": "2026-06-16T19:26:56+00:00",
-      "summary": "食料品の消費税減税をめぐり、17日の「国民会議」の実務者会議に中間とりまとめに向けた案が示される見通しで、来年4月から2年間1％に引き下げる案を軸に調整が行われています。また、1％分を中低所得者に重き…",
-      "summary_zh": "为降低食品消费税,17日全国人大执业人员会议临时会议提案调整为今后4年减税1%提案轴心. 此外,1%分与中低收入相重叠. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
-      "title_zh": "德国广播公司在Elon Musk采取法律行动后取消电视直播",
-      "link": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T17:57:00+00:00",
-      "summary": "German public broadcaster ZDF has removed part of a report that claimed tech trillionaire Elon Musk had called for migrants to be hunted in Northern Ireland.",
-      "summary_zh": "德国公共广播公司ZDF删除了一份报告的部分内容,其中声称科技万亿富翁埃隆·穆斯克呼吁在北爱尔兰追捕移民."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian artist and Putin critic shot dead in Poland",
-      "title_zh": "俄罗斯艺术家和普京批评家在波兰被枪杀",
-      "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T17:33:50+00:00",
-      "summary": "Police in Poland are investigating the murder of a Russian artist and vocal critic of President Vladimir Putin.",
-      "summary_zh": "波兰警方正在调查一名俄罗斯艺术家和弗拉基米尔·普京总统的声优被谋杀."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says",
-      "title_zh": "数百只猫在越南被警方抢走吃东西,",
-      "link": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T17:17:55+00:00",
-      "summary": "More than 400 cats destined for slaughter have been rescued in Vietnam after authorities dismantled an alleged feline theft ring, an animal welfare group has said.",
-      "summary_zh": "一个动物福利团体表示, 在越南当局拆除了据称的偷食圈后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-      "title_zh": "在黎巴嫩,由于美国和伊朗的停战协议留下了未解的问题,黎巴嫩的脆弱平静",
-      "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T16:20:33+00:00",
-      "summary": "On Monday, hours after the announcement of a ceasefire agreement between the US and Iran, families that had been displaced because of the war began to return to communities in southern Lebanon, despite warnings from the authorities that it was not safe yet.",
-      "summary_zh": "美国和伊朗宣布停火协议后数小时后,尽管当局警告说尚不安全,因战争而流离失所的家庭开始返回黎巴嫩南部的社区."
     },
     {
       "source": "BBC News",
@@ -166,102 +346,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
-      "title_zh": "委内瑞拉与美国能源巨头合作重建电网",
-      "link": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T15:19:52+00:00",
-      "summary": "Venezuela's interim president has signed an agreement with US energy giant General Electric to rebuild the country's electricity grid.",
-      "summary_zh": "委内瑞拉临时总统与美国能源巨头通用电气签署协议重建国家电网."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
-      "title_zh": "法国最年长的女囚79人 正在因内奸谋杀案受审",
-      "link": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T14:46:35+00:00",
-      "summary": "France's oldest female detainee has gone on trial for murder at a court in Versailles, in a cold case centring on a dismembered body found 31 years ago.",
-      "summary_zh": "法国最年长的女被拘留者在凡尔赛的一所法院因谋杀罪受审,在一个冷酷的案件中集中在31年前发现的一具被肢解的尸体上。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
-      "title_zh": "索马里兰在以色列承认独立后开设耶路撒冷大使馆",
-      "link": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T14:34:39+00:00",
-      "summary": "The breakaway state of Somaliland has opened an embassy in Jerusalem, six months after Israel became the first country to recognise it as an independent nation.",
-      "summary_zh": "分离的索马里兰在以色列成为第一个承认其为独立国家的国家后六个月在耶路撒冷开设了大使馆。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three reasons ships are not going through the Strait of Hormuz yet",
-      "title_zh": "三个原因 船还没有经过霍尔木斯海峡",
-      "link": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T14:11:30+00:00",
-      "summary": "When President Donald Trump announced the US deal with Iran on Sunday and declared the \"opening\" of the Strait of Hormuz, his Truth Social post ended with the words \"Ships of the World, start your engines. Let the oil flow!\"",
-      "summary_zh": "当唐纳德·特朗普总统星期天宣布美国与伊朗的交易并宣布霍尔木兹海峡\"开通\"时,他的\"真理社会\"(Treal Social)文章以\"飞船出行\"(Ships of the World, start your engines)等字样结束. 就让石油流入吧!\""
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Swedish man jailed for four years for coercing wife into sex with 120 men",
-      "title_zh": "瑞典男子因强迫妻子与120名男子发生性关系而入狱四年",
-      "link": "https://www.bbc.com/news/articles/crlwxg721eeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T12:46:03+00:00",
-      "summary": "A 61-year-old Swedish man has been sentenced to four years and five months in prison for coercing his wife into providing sexual services to more than 120 men.",
-      "summary_zh": "一名61岁的瑞典男子因强迫妻子向120多名男子提供性服务而被判处四年零五个月的监禁。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
-      "title_zh": "匈牙利议员阻止Orbán回归,",
-      "link": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T12:42:15+00:00",
-      "summary": "The Hungarian parliament has backed a change to the constitution that limits a prime minister's term in office to eight years, fulfilling a promise by Péter Magyar to prevent Viktor Orbán becoming prime minister again.",
-      "summary_zh": "匈牙利议会支持修改宪法,将总理任期限制为八年,履行佩特·马吉亚尔关于防止维克多·奥尔班再次出任总理的承诺."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cuba tourism collapses as US pressure campaign bites",
-      "title_zh": "随着美国压力运动的侵袭,古巴旅游业崩溃",
-      "link": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T11:16:59+00:00",
-      "summary": "The number of foreign travellers visiting Cuba has plummeted since the beginning of the year amid tightened US sanctions, figures released by Cuba's national statistics agency suggest.",
-      "summary_zh": "古巴国家统计局公布的数字显示,自今年年初以来,美国加紧制裁以来,访问古巴的外国旅客人数急剧下降。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: California wildfires rage near passing vehicles",
       "title_zh": "加州野火在经过的车辆附近肆虐",
       "link": "https://www.bbc.com/news/videos/cn8q909jld2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-16T09:30:13+00:00",
       "summary": "Wildfires burning through the night in southern California covered over 2,000 acres, according to the California Department of Forestry and Fire Protection (Cal Fire).",
       "summary_zh": "根据加利福尼亚州林业和消防局(英语:Cal Fire (California))的统计,加利福尼亚州南部的野火通宵燃烧所覆盖了2000多英亩."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "India temporarily bans Telegram over exam paper leak concerns",
-      "title_zh": "印度暂时禁止Telegram因考试纸漏报而引起关注.",
-      "link": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T09:23:06+00:00",
-      "summary": "India has temporarily blocked the Telegram app over concerns it may be used for cheating, days before a crucial medical entrance exam is set to be reheld.",
-      "summary_zh": "印度暂时封锁了Telegram应用程序, 因为它可能被用于作弊,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
-      "title_zh": "\"舞女\"赤裸的躯干在反弹后在印度教科书中被恢复",
-      "link": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T07:05:54+00:00",
-      "summary": "The \"covered-up\" image of a nude artefact has been withdrawn from an Indian school textbook after it sparked a massive backlash from historians and educationists.",
-      "summary_zh": "裸体美术的\"被掩盖\"形象在印度学校教科书上被取出,这引起了历史学家和教育家的强烈反弹."
     },
     {
       "source": "BBC News",
@@ -276,52 +366,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
-      "title_zh": "美国空军B-52轰炸机在加利福尼亚坠毁后 有8人死亡",
-      "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T01:49:03+00:00",
-      "summary": "Eight people, including two Boeing employees, have been killed after a US Air Force B-52 bomber crashed immediately after take-off from Edwards Air Force Base in southern California.",
-      "summary_zh": "美国空军一架B-52轰炸机从加利福尼亚州南部爱德华兹空军基地起飞后立即坠毁后,包括两名波音公司雇员在内的8人被炸死."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "What one country's experiment says about attempts to boost birth rates",
       "title_zh": "一个国家的实验说 试图提高出生率",
       "link": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-15T23:56:47+00:00",
       "summary": "Sitting on a park bench in the eastern Hungarian city of Debrecen, Barbara Elek is nervously refreshing her emails. She and her husband Levi are waiting to find out if Barbara is pregnant, after their third round of IVF 10 days ago.",
       "summary_zh": "坐在匈牙利东部城市德布勒森的公园长椅上, 她和丈夫莱维正在等待发现芭芭拉是否怀孕,在他们10天前的第三轮IVF之后."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
-      "title_zh": "埃博拉病人的康复为爆发中心提供了难得的快乐时刻",
-      "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-15T23:26:39+00:00",
-      "summary": "It is strange to witness singing and dancing in a place which has seen so much death but the successful treatment of an Ebola patient is cause for celebration at a hospital in the north-east of the Democratic Republic of Congo.",
-      "summary_zh": "令人感到奇怪的是,在刚果民主共和国东北部的一家医院里,目睹了如此多的死亡地点的歌舞,但一名埃博拉病人的成功治疗值得庆祝。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A year on, six questions still haunt the Air India crash investigation",
-      "title_zh": "一年过去了,六个问题仍然困扰着印度空难调查",
-      "link": "https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-15T23:09:10+00:00",
-      "summary": "A year after Air India Flight 171 to London crashed into a medical college campus moments after take-off from the western Indian city of Ahmedabad, killing 260 people, investigators still cannot say with certainty why one of the world's most advanced passenger jets fell from the sky.",
-      "summary_zh": "印度航空171号班机飞往伦敦一年后从印度西部城市艾哈迈达巴德起飞后坠入医科大学校园,造成260人死亡,调查人员仍然不能肯定地说为什么世界上最先进的客机之一从天而降."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
-      "title_zh": "加州的Gavin Newsom声称司法部正在调查他的妻子和前工作人员",
-      "link": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-15T23:06:58+00:00",
-      "summary": "California Governor Gavin Newsom has alleged that the US Department of Justice is investigating people in his orbit due to his political opposition to President Donald Trump.",
-      "summary_zh": "加利福尼亚州州长加文·纽索姆(Gavin Newsom)指控美国司法部正在调查在其轨道上的人,因为他在政治上反对总统唐纳德·特朗普."
     },
     {
       "source": "BBC News",
