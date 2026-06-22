@@ -1,77 +1,307 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-21T23:44:19+00:00",
+  "generated_at": "2026-06-22T23:43:47+00:00",
   "count": 50,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "天皇皇后両陛下 ベルギーの国王夫妻や子どもたちと夕食",
-      "title_zh": "皇后皇后,比利时皇后,与妻儿共进晚餐",
-      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155971000.html",
-      "published_at": "2026-06-21T22:51:57+00:00",
-      "summary": "ベルギーを公式訪問している天皇皇后両陛下は、滞在先の城で国王夫妻や子どもたちと夕食をともにされました。",
-      "summary_zh": "正式访问比利时的王后与妻子和孩子在城堡共进晚餐。"
+      "title": "米 イラン 覚書めぐる協議 実務レベルでの協議の行方が焦点に",
+      "title_zh": "美国伊朗在实际层面的谅解备忘录",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156631000.html",
+      "published_at": "2026-06-22T23:31:43+00:00",
+      "summary": "アメリカとイランの戦闘終結に向けた覚書に基づく高官協議が行われ、ホルムズ海峡の安全な航行の確保に向けた連絡体制の構築などで合意しました。一方、アメリカ側はイランがIAEA＝国際原子力機関の査察官の受け…",
+      "summary_zh": "我们同意建立一个通信系统,确保霍姆斯-克特斯的安全航行。 另一方面,伊朗接受原子能机构......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "英スターマー首相 22日にも辞意表明か 複数の英メディア伝える",
-      "title_zh": "Starmar总理22天,",
-      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155931000.html",
-      "published_at": "2026-06-21T22:32:46+00:00",
-      "summary": "イギリスのスターマー首相は22日にも辞意を表明する見通しだと複数の地元メディアが伝えました。首相はこれまで続投への意欲を示してきましたが、先週行われた議会下院の補欠選挙の結果を受けて党内では辞任を求め…",
-      "summary_zh": "英国首相斯塔玛报道了多家地方媒体在22日出现. 总理已表明希望继续,但针对上星期议会的次常选举结果,他......"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米とイラン 覚書後初の協議 イランがトランプ大統領に反発",
-      "title_zh": "美国和伊朗将伊朗叛乱备忘录给特朗普总统后的第一次磋商",
-      "link": "http://www3.nhk.or.jp/news/html/20260621/k10015155881000.html",
-      "published_at": "2026-06-21T22:00:26+00:00",
-      "summary": "アメリカとイランの戦闘終結に向けた覚書の署名後、初めての協議が21日スイスで行われました。ただ、イランメディアは、トランプ大統領の発言などにイラン側が強く反発したと伝えていて今後、協議が順調に進むのか…",
-      "summary_zh": "在签署美国和伊朗结束战斗的备忘录后,于21日在瑞士举行了第一次磋商. 然而,伊朗媒体报道说,伊朗方面有强烈的叛乱,如特朗普总统的言论,讨论将来会顺利进行吗?"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "“書店の減少に歯止めを” 15社が収益改善に向け共同声明",
-      "title_zh": "15家公司联合申报,以改善收入",
-      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155861000.html",
-      "published_at": "2026-06-21T20:40:52+00:00",
-      "summary": "書店の数が減少する中、各地で書店を展開する15社は、共同で物流の効率化などを進め、収益の改善に取り組むとする声明を発表しました。直接、出版社から本を仕入れるなどして利益の改善につなげ、書店の減少に歯止…",
-      "summary_zh": "随着书店数量的减少,我们宣布,我们将努力通过各地区15个书店联合提高物流效率来提高收入。 由出版商直接购买图书等,提高利润并减少书店. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "北海道 旭川 高校生殺害事件の裁判 23歳被告にきょう判決",
-      "title_zh": "北海道浅川 高中学生谋杀案审判",
-      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155831000.html",
-      "published_at": "2026-06-21T20:36:33+00:00",
-      "summary": "おととし、当時17歳の高校生を北海道旭川市の渓谷にある橋から川に落下させて殺害した罪などに問われた23歳の被告に22日、判決が言い渡されます。被告は「橋から落下させていない」と、殺意や殺人の実行行為を…",
-      "summary_zh": "另一方面,判决是在23岁忏悔的第22天表达的,当时北海道浅川市谷地的桥边有\"一\"字,17岁的中学生被杀死. 被告是\"不从桥上倒下\",杀人和杀人的行为......"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "国会会期末まで1か月切る 与野党 法案めぐる調整が本格化へ",
-      "title_zh": "1个月至一九六三年年末 约诺党的法案调整为全比例",
-      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155921000.html",
-      "published_at": "2026-06-21T20:15:36+00:00",
-      "summary": "今の国会の会期末まで1か月を切る中、与党は、皇族数の確保などに向けた皇室典範の改正案の成立を図るほか、連立合意に盛り込まれた政策の実現を目指す方針です。一方、野党からは「与党の都合ありきではなく丁寧に…",
-      "summary_zh": "双方将在一九六三年末制定\"帝国家庭标准\"修正案,以保障帝国数量,并力争实现合并协议所包括的政策. 另一方面,从\"党\"党来看,谨慎的不是党的方便."
+      "title": "沖縄戦から81年の慰霊の日 平和への願いを新たにする1日に",
+      "title_zh": "从冲绳之战到恢复和平的81年慰藉之日",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156581000.html",
+      "published_at": "2026-06-22T23:27:42+00:00",
+      "summary": "この記事は、現在リアルタイムで更新中です。",
+      "summary_zh": "此条正被实时更新."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
-      "title_zh": "特朗普和伊朗谈判方的贸易警告作为在瑞士举行的会谈",
-      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-21T19:33:09+00:00",
-      "summary": "President Donald Trump has exchanged warnings with Iran's lead negotiator Mohammad Bagher Ghalibaf as a first round of direct talks was held in Switzerland after the countries signed an initial agreement to end the war.",
-      "summary_zh": "唐纳德·特朗普总统与伊朗首席谈判代表穆罕默德·巴盖尔·加利巴夫交换了警告,两国签署结束战争的初步协议后,在瑞士举行了第一轮直接会谈."
+      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "title_zh": "美国放宽了石油制裁,因为伊朗否认了万斯对核视察员的主张.",
+      "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T23:07:45+00:00",
+      "summary": "Iran has denied a claim by Vice-President JD Vance that it will allow nuclear inspectors back into the country, after the first round of talks between Washington and Tehran to reach a final deal to end the war.",
+      "summary_zh": "伊朗否认副总统万斯(JD Vance)声称,在华盛顿和德黑兰进行第一轮会谈后,伊朗将允许核武检查人员返回该国,以达成结束战争的最后协议。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "title_zh": "克莱夫·戴维斯 惠特尼·休斯敦和布鲁斯·斯普林斯廷背后的音乐怪人 享年94岁",
+      "link": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T22:04:41+00:00",
+      "summary": "Clive Davis, one of the most influential music executives in the history of rock and pop, has died at the age of 94.",
+      "summary_zh": "克列夫·戴维斯是摇滚乐和流行乐史上最有影响力的音乐高管之一,逝世于94岁."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イスラエル軍 ガザ地区で支配拡大 避難を強いられる住民相次ぐ",
+      "title_zh": "加沙地区的以色列军队。",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156651000.html",
+      "published_at": "2026-06-22T21:05:09+00:00",
+      "summary": "パレスチナのガザ地区では、イスラエル軍の支配地域が人口の多い市街地にも広がり始める中、家を追われる住民が増えていて、住民からは人道状況の改善に向けて国際社会の関与を求める声が出ています。",
+      "summary_zh": "在加沙地区,越来越多的居民在开始向该市蔓延,人口众多时住在家中,居民要求国际社会参与改善人道主义局势。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "英首相が辞意表明 “次の首相 バーナム下院議員の可能性高い”",
+      "title_zh": "英国首相辞职,“下任首相很可能是布拉姆邦的成员。”",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156691000.html",
+      "published_at": "2026-06-22T20:01:13+00:00",
+      "summary": "イギリスのスターマー首相が辞任する意向を表明したことを受けて、次の首相候補に名前が挙がるバーナム下院議員が与党・労働党の党首選挙に立候補する意向を示し、イギリスのメディアはバーナム氏が次の首相になる可…",
+      "summary_zh": "针对英国首相斯塔马的辞职,下列首相候选人由邦院议员提名,他们的意图是成为该党和\"回教\"党选举的候选人."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "円相場 約39年半ぶりの円安水準に迫る 市場介入の警戒も",
+      "title_zh": "三十九岁半",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156751000.html",
+      "published_at": "2026-06-22T18:04:24+00:00",
+      "summary": "22日のニューヨーク外国為替市場では、アメリカのFRB＝連邦準備制度理事会による利上げ観測などを背景に円売りドル買いの動きが進み、円相場は一時、1ドル＝161円90銭台まで値下がりし、およそ39年半ぶ…",
+      "summary_zh": "在第22届纽约福克斯市场上,美国FRB=联邦储备系统理事会理事会将在背景中继续出售美元,日元市场会被临时定价为1美元=161日元90. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+      "title_zh": "前肯尼亚司法部长被禁止进入乌干达,",
+      "link": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T17:19:16+00:00",
+      "summary": "Leading Kenyan lawyer and former Justice Minister Martha Karua has been blocked from entering Uganda and ordered to return home, according to the Uganda Law Society.",
+      "summary_zh": "据乌干达法律协会称,肯尼亚主要律师和前司法部长Martha Karua被禁止进入乌干达,并被命令回家。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+      "title_zh": "法国、意大利和西班牙发布的40C温度预报红色发热警报",
+      "link": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T16:42:23+00:00",
+      "summary": "Red heat alerts have been issued in France, Spain and other nations across western and central Europe as heatwave conditions are forecast to intensify in the coming days with highs of more than 40C.",
+      "summary_zh": "法国、西班牙和西欧和中欧的其他国家已发出红色热警报,因为热浪条件预计在未来几天会加剧,高发超过40C."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya minister found in contempt of court over US-backed Ebola centre",
+      "title_zh": "肯尼亚部长因美国支持的埃博拉中心被藐视法庭",
+      "link": "https://www.bbc.com/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T16:34:39+00:00",
+      "summary": "Kenya's Health Minister Aden Duale has been found guilty of contempt of court over his handling of the construction of a controversial US-funded Ebola quarantine facility.",
+      "summary_zh": "肯尼亚卫生部长亚丁·杜阿莱(Aden Duale)因他处理建造有争议的由美国资助的埃博拉隔离设施而被判藐视法庭罪."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "片山財務相 米ベッセント財務長官と会談 為替動向を意見交換か",
+      "title_zh": "卡塔山金融集团与贝斯森特国务秘书举行会议,就交流趋势交换意见",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156761000.html",
+      "published_at": "2026-06-22T16:14:29+00:00",
+      "summary": "片山財務大臣が22日夜、アメリカのベッセント財務長官とオンラインで会談を行ったことが分かりました。外国為替市場で39年半ぶりとなる円安ドル高水準が迫る中、為替の動向について意見を交わした可能性がありま…",
+      "summary_zh": "财政部长克塔山在傍晚与美国财政部长贝斯康特进行在线讨论. 作为日元和美元高位,这是39年半以来福克斯市场第一次出现这种情况,我有可能就兑换趋势交换意见. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Twins marry twins in joyous Nigerian joint wedding",
+      "title_zh": "双胞胎在欢快的尼日利亚联合婚礼上结婚",
+      "link": "https://www.bbc.com/news/articles/cvglvkxwxj8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T16:01:07+00:00",
+      "summary": "When guests gathered at a church in the south-west Nigerian city of Ibadan at the weekend, they knew they were witnessing something rare.",
+      "summary_zh": "当周末客人聚集在尼日利亚西南部城市伊巴丹的一座教堂时,他们知道自己正在目睹一些罕见的事情."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+      "title_zh": "Will Cathcart退后 由印度创业创始人领导什么",
+      "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T15:57:46+00:00",
+      "summary": "WhatsApp boss Will Cathcart has announced that he is leaving his role.",
+      "summary_zh": "威尔・卡斯卡特的老板宣布他要离开他的角色"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "神戸 冷凍庫から発見の遺体 部屋の元住人で2011年ごろに死亡か",
+      "title_zh": "从神户的冰箱中发现的文物. 该室前住客于2011年左右去世.",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156711000.html",
+      "published_at": "2026-06-22T15:34:01+00:00",
+      "summary": "今月20日、神戸市中央区にあるマンションの部屋の冷凍庫から見つかった男性の遺体について、警察は、死亡したのは現場の部屋の元住人で、遺体が損壊されるなどした疑いがあるとして捜査を始めました。男性は201…",
+      "summary_zh": "本月20日,警方开始调查从神户市 Chu口区同室冷藏所发现的男子遗物. 男性201号..."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "title_zh": "缅甸军队在六个月内杀害了700多名平民,",
+      "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T15:31:55+00:00",
+      "summary": "Myanmar's military was responsible for more than 700 civilian deaths over the six-month election period last year, the UN says.",
+      "summary_zh": "缅甸军方在去年六个月选举期间造成700多平民死亡,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "title_zh": "卡塔尔瓦斯爆炸后,至少13人死亡,数十人受伤",
+      "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T15:15:42+00:00",
+      "summary": "At least 13 people have been killed and 66 injured after an explosion at Qatar's largest gas facility.",
+      "summary_zh": "在卡塔尔最大燃气设施发生爆炸后,至少有13人被炸死,66人受伤."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Guinea bans exports of raw gold to boost local refining",
+      "title_zh": "几内亚禁止出口生金来推动当地提炼",
+      "link": "https://www.bbc.com/news/articles/cjegydvzpzqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T13:41:22+00:00",
+      "summary": "Guinea has banned the export of unrefined gold in an effort to promote domestic processing of the precious metal.",
+      "summary_zh": "几内亚禁止出口未经精炼的黄金,以努力促进贵金属的国内加工。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+      "title_zh": "美国现代经济建筑师艾伦·格林斯潘活活了100岁",
+      "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T11:55:36+00:00",
+      "summary": "Former US Federal Reserve chair Alan Greenspan has died aged 100, his wife has said.",
+      "summary_zh": "前美联储主席艾伦·格林斯潘已逝世 他妻子说"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
+      "title_zh": "已故歌手奥利弗·特克的尸体在直升机坠毁后返回美国",
+      "link": "https://www.bbc.com/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T10:19:25+00:00",
+      "summary": "The body of US singer-songwriter Oliver Tree has been returned home to California, with an Instagram post on his account saying \"he can finally rest\".",
+      "summary_zh": "美国歌手-作曲家奥利弗·特克(Oliver Tree)的遗体已经回到了家乡加利福尼亚州,在他的账号上贴有\"他终于可以休息\"的Instagram一篇文章."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three dead in Philippines high school shooting over bullying 'grudge'",
+      "title_zh": "3人死亡在菲律宾高中,",
+      "link": "https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T09:45:52+00:00",
+      "summary": "Three students have been killed and more injured after two of their peers opened fire at a high school in central Philippines, police say.",
+      "summary_zh": "警方称,两名同学向菲律宾中部的一所高中开火后,三名学生被炸死并多人受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China's import of custard apples is sparking fears in Taiwan",
+      "title_zh": "中国进口奶油苹果引发了台湾的恐惧",
+      "link": "https://www.bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T04:37:27+00:00",
+      "summary": "A scaly, heart-shaped fruit could become the latest cause of friction between China and Taiwan, as the latter warned farmers against Beijing's plan to step up imports of the crop.",
+      "summary_zh": "出产一粒有斑状心形的果实会成为中国同台湾发生摩擦的最新原因,因为后者警告农民,北京计划要加大收成进口."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Japan quintuples visa fees in first price hike since 1978",
+      "title_zh": "日本自1978年以来第一次涨价的五等分签证费",
+      "link": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T03:45:51+00:00",
+      "summary": "Japan has implemented a five-fold increase to visa fees for all foreigners, marking the first price hike in nearly 50 years.",
+      "summary_zh": "日本对所有外国人的签证费增加了五倍,标志着近50年来第一次价格上涨。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+      "title_zh": "特朗普支持的政治外出者赢得哥伦比亚大选,",
+      "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T03:31:40+00:00",
+      "summary": "Right-wing candidate Abelardo de la Espriella has narrowly won Colombia's presidential election, an initial vote count shows, marking a dramatic shift in how the government will tackle the country's internal armed conflict and violence.",
+      "summary_zh": "右翼候选人Abelardo de la Espriella在哥伦比亚总统选举中获胜,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
+      "title_zh": "警方突袭地堡后 澳洲最大的可卡因暴发",
+      "link": "https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T01:40:00+00:00",
+      "summary": "Australian police have seized 2.7 tonnes of cocaine - the country's largest ever such bust - from an underground bunker system in western Sydney.",
+      "summary_zh": "澳大利亚警方从悉尼西部的地下掩体系统缴获了2.7吨可卡因,这是该国有史以来最大的一次。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says repairs to algae-plagued Reflecting Pool will begin immediately",
+      "title_zh": "川普说,修复藻类平面反射池的工作将立即开始",
+      "link": "https://www.bbc.com/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T00:54:43+00:00",
+      "summary": "US President Donald Trump says he has \"inspected\" the Reflecting Pool in Washington DC, and that \"work will begin immediately\" to repair the American landmark.",
+      "summary_zh": "美国总统唐纳德·特朗普表示已经\"检查\"了华盛顿特区的\"反射池\",并称\"将立即开始工作\"来修复美国地标."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+      "title_zh": "俄军的集结威胁着被视为夺取乌克兰顿巴斯的关键城市",
+      "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-21T23:57:59+00:00",
+      "summary": "Russian troops have infiltrated the strategic city of Kostyantynivka in eastern Ukraine and are now trying to surround it.",
+      "summary_zh": "俄军已经潜入了乌克兰东部的战略城市克斯季扬特尼夫卡,目前正在试图包围."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+      "title_zh": "佛得角粉丝在BBC新闻上狂野地直播 他的国家得分",
+      "link": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-21T23:53:13+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war",
+      "title_zh": "BTS粉丝输了上千个骗局 在回来的巡回演出票战中兑现",
+      "link": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-21T23:44:31+00:00",
+      "summary": "When Vevee logged in to Ticketmaster on 9 June, she hoped her years-long wait to see supergroup BTS was finally drawing to an end.",
+      "summary_zh": "6月9日Vevee登录到出道券主机时,她希望她等了多年才能看到超级组合BTS终于走向了收场."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Is Germany looking again at coal-powered electricity?",
+      "title_zh": "德国又在看煤电了?",
+      "link": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-21T23:27:11+00:00",
+      "summary": "They have a word for it in German – kohleausstieg, which means \"coal phase out\".",
+      "summary_zh": "他们用德文写出一个单词 – Kohleausstieg,意思是\"煤炭淘汰\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Currency crash and visa crackdowns force Indian students to rethink studying abroad",
+      "title_zh": "货币崩溃和签证镇压迫使印度学生重新思考出国学习",
+      "link": "https://www.bbc.com/news/articles/c8x2gd9lkxzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-21T21:55:43+00:00",
+      "summary": "After many years of careful planning, Pragati Priya, a 29-year-old content creator from the eastern Indian state of Jharkhand, finally decided to enrol in a master's programme abroad this year.",
+      "summary_zh": "经过多年的精心规划后,来自印度东部贾坎德邦的29岁内容创作者普拉加蒂·普里亚最终决定今年在国外报名参加硕士生计划."
     },
     {
       "source": "BBC News",
@@ -86,42 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Half of France under red heat alert as alcohol banned at street music festival",
-      "title_zh": "一半的法国人在红色的热量警报下 在街头音乐节禁止喝酒",
-      "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-21T15:22:14+00:00",
-      "summary": "France has issued red heatwave alerts for around half the country including Paris for Monday as a heatwave pushes temperatures towards record levels.",
-      "summary_zh": "法国已针对包括巴黎在内的全国一半地区发布红色热浪警报,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
       "title_zh": "埃塞俄比亚总理的政党赢得了滑坡,",
       "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-21T15:01:28+00:00",
       "summary": "Ethiopian Prime Minister Abiy Ahmed is the big winner following the country's general election as his party has retained its overwhelming parliamentary majority, despite the poll being overshadowed by conflict, accusations of repression and little participation by opposition parties.",
       "summary_zh": "埃塞俄比亚总理阿比·艾哈迈德(Abby Ahmed)是该国大选之后的大赢家, 尽管这场民意调查被冲突、镇压指控和反对党很少参与,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Low-key funeral held for giant of the art world David Hockney",
-      "title_zh": "为艺术界巨头大卫·霍克尼举行低调葬礼",
-      "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-21T13:08:49+00:00",
-      "summary": "The funeral of David Hockney, widely regarded as Britain's best-known artist, has already taken place, his publicist has confirmed.",
-      "summary_zh": "大卫·霍克尼被广泛认为是英国最有名的艺术家的葬礼已经举行,他的公关家已经确认."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "W杯 日本がチュニジアに勝利 鎌田 上田 伊東ゴール【詳しく】",
-      "title_zh": "W Cup Japan赢得了突尼斯上田伊藤(Kamata Ueda Ito)入球[详情].",
-      "link": "http://www3.nhk.or.jp/news/html/20260621/k10015155351000.html",
-      "published_at": "2026-06-21T11:42:09+00:00",
-      "summary": "サッカーワールドカップ北中米大会で日本は20日（日本時間21日）、1次リーグの第2戦でチュニジアに4対0で快勝しました。日本がワールドカップで1試合に4得点をあげたのは初めてです。この結果、日本は1次…",
-      "summary_zh": "日本在20日(日本时间21日)足球世界杯中北美锦标赛上以第2轮第2顺位以4比0取胜突尼斯. 这是日本首次在世界杯上打入一球打入4球. 这个结果在日本是第一次..."
     },
     {
       "source": "BBC News",
@@ -226,52 +426,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-      "title_zh": "黎巴嫩海龟保护者Mona Khalil被以色列袭击所杀害",
-      "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-20T17:40:43+00:00",
-      "summary": "Lebanese environmental activist Mona Khalil, whose work helped turn a stretch of coastline in southern Lebanon into one of the eastern Mediterranean's most important nesting sites for endangered sea turtles, has died after being wounded in an Israeli strike.",
-      "summary_zh": "黎巴嫩环保活动家莫娜·哈利勒(Mona Khalil)的工作帮助将黎巴嫩南部的海岸线变成地中海东部濒危海龟最重要的巢穴地之一,他在被以色列袭击后被打伤而死."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tourist dies in Dominican Republic luxury resort fire",
-      "title_zh": "在多米尼加共和国,游客死于豪华度假地火灾",
-      "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-20T17:33:25+00:00",
-      "summary": "A huge fire at a luxury beach resort in the Dominican Republic killed one woman and forced nearly 1,700 guests to be evacuated on Friday.",
-      "summary_zh": "多米尼加共和国一豪华海滩度假村发生大火,造成一名妇女死亡,并迫使近1700名客人于星期五撤离."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
       "title_zh": "BBC看到被以色列占领的黎巴嫩南部被摧毁的村庄",
       "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-20T16:37:03+00:00",
       "summary": "The BBC has been given rare access to the part of southern Lebanon that is under Israeli occupation, as part of a humanitarian convoy of the Order of Malta distributing aid to Christian villages that have been isolated because of the war.",
       "summary_zh": "英国广播公司作为马耳他骑士团人道主义车队的一部分,很少进入被以色列占领的黎巴嫩南部地区,向因战争被孤立的基督教村庄提供援助。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zelensky returns highest Polish honour after award stripped",
-      "title_zh": "泽连斯基在被剥去奖项后 恢复波兰最高荣誉",
-      "link": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-20T16:34:15+00:00",
-      "summary": "Ukraine President Volodymyr Zelensky says he has returned Poland's highest honour after his Polish counterpart Karol Nawrocki said he was stripping him of the award.",
-      "summary_zh": "乌克兰总统沃洛德米尔·泽连斯基(Volodemyr Zelensky)表示,他在波兰的同僚卡罗尔·纳沃罗基(Karol Nawrocki)表示自己正在剥去他的奖项后,已经归还了波兰的最高荣誉."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bolivian president declares state of emergency",
-      "title_zh": "玻利维亚总统宣布紧急状态",
-      "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-20T15:27:09+00:00",
-      "summary": "Bolivian President Rodrigo Paz has declared a state of emergency after weeks of protests demanding his resignation.",
-      "summary_zh": "玻利维亚总统罗德里戈·帕兹(Rodrigo Paz)在数周的抗议要求辞职后宣布进入紧急状态."
     },
     {
       "source": "BBC News",
@@ -286,32 +446,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
-      "title_zh": "澳大利亚确诊首例H5N1禽流感病例,",
-      "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-20T03:12:47+00:00",
-      "summary": "The H5N1 strain of bird flu has for the first time been found in Australia, the country's agriculture ministry confirmed. It means the highly contagious variant has now reached every continent.",
-      "summary_zh": "澳大利亚首次发现H5N1禽流感菌株,该国农业部确认. 意思是高度传染的变体现在已经到达每个大陆."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
       "title_zh": "非洲和加勒比国家呼吁为跨大西洋奴隶制正式道歉",
       "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-20T02:33:30+00:00",
       "summary": "African and Caribbean countries have called for a formal apology and reparations from countries that benefited from the transatlantic slave trade.",
       "summary_zh": "非洲和加勒比国家呼吁从跨大西洋奴隶贸易中受益的国家作出正式道歉和赔偿。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "title_zh": "James Burrows, 传奇导演 干杯和朋友,死亡85岁",
-      "link": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-20T00:23:46+00:00",
-      "summary": "James Burrows, legendary director of some of America's most-loved sitcoms, has died aged 85.",
-      "summary_zh": "James Burrows是美国一些最受喜爱的情景喜剧的传奇导演,已经去世了85岁."
     },
     {
       "source": "BBC News",
@@ -326,16 +466,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US to stop funding HIV programmes in South Africa",
-      "title_zh": "美国停止资助南非的艾滋病毒方案",
-      "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T23:35:07+00:00",
-      "summary": "The US government says it will stop funding programmes in South Africa intended to tackle the spread of HIV and Aids.",
-      "summary_zh": "美国政府表示将停止在南非资助旨在应对艾滋病毒和艾滋病蔓延的方案。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Would you choose to take a 22-hour non-stop flight?",
       "title_zh": "你会选择搭乘22小时不间断的航班吗?",
       "link": "https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
@@ -346,92 +476,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Pétanque player, 68, dies after being 'hit in head with metal boule'",
-      "title_zh": "68岁的Pétanque玩家在被\"被金属硼击中\"后死亡.",
-      "link": "https://www.bbc.com/news/articles/cvgmny9v14no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T17:30:24+00:00",
-      "summary": "A 68-year-old pétanque player has died after allegedly being hit with a metal boule during a dispute with a rival team in the French Atlantic resort of Mimizan.",
-      "summary_zh": "一名68岁的佩坦克球员据称在法国大西洋度假地米米赞与一对对手球队的争执中被一金属花被击中后死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-      "title_zh": "刚果DR医院的6岁埃博拉病人被发现,",
-      "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T14:45:57+00:00",
-      "summary": "A six-year-old Ebola patient, who Congolese authorities were searching for after armed men stormed the hospital where she was being treated, has been found and is \"doing well\", a local health official has told the BBC.",
-      "summary_zh": "一名当地卫生官员告诉英国广播公司, 一名6岁的埃博拉病患(刚果当局在武装男子冲入她接受治疗的医院后正在搜寻他)被发现,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
-      "title_zh": "摩洛哥队长Achraf Hakimi因强奸罪受审",
-      "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T10:28:22+00:00",
-      "summary": "Achraf Hakimi made his Morocco debut in 2016 at the age of 17",
-      "summary_zh": "Achraf Hakimi在2016年17岁时在摩洛哥出道"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-      "title_zh": "12岁的孩子,在试图检查生病的鸡入住埃塞俄比亚医院后,赢得心脏",
-      "link": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T10:25:30+00:00",
-      "summary": "Growing up in rural Ethiopia, 12-year-old Markos Abaye developed a deep affection for animals.",
-      "summary_zh": "在埃塞俄比亚农村长大,12岁的马尔科斯·阿巴耶对动物产生了深厚的感情."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zimbabwe MPs pass bill to extend president's time in power",
-      "title_zh": "津巴布韦议员通过法案延长总统执政时间",
-      "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T08:03:32+00:00",
-      "summary": "Zimbabwe's lower house of parliament has passed a bill to extend presidential terms from five to seven years, which would allow President Emmerson Mnangagwa to remain in power until 2030.",
-      "summary_zh": "津巴布韦下议院已经通过一项法案,将总统任期从5年延长到7年,这将使埃默森·姆南加格瓦总统能够继续执政到2030年."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
       "title_zh": "数以千计的死于美以美军对伊朗的战争,",
       "link": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-19T05:33:59+00:00",
       "summary": "Thousands of people have been killed across the Middle East since the US-Israeli war with Iran began in February, official figures show, with a deal now agreed to end the war.",
       "summary_zh": "官方数字显示,自从2月美以战争开始以来,中东各地有上千人被杀死,现在达成协议结束战争。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-      "title_zh": "在家里做,女人告诉日本球迷 谁清理世界杯球场",
-      "link": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T04:30:47+00:00",
-      "summary": "For years, Japanese football fans have won praise for cleaning up stadiums after World Cup matches. But this time, they're catching heat at home.",
-      "summary_zh": "多年来,日本足球迷在世界杯比赛后清理体育场馆而赢得了好评. 但这次,他们正赶回家去取暖"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK actress charged with importing meth worth almost A$300m into Australia",
-      "title_zh": "英国女演员被控将价值近3亿美元的冰毒进口到澳大利亚",
-      "link": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T01:04:14+00:00",
-      "summary": "A British actress, who appeared in an Eastenders spin-off and a Jason Statham movie, has been charged with trying to smuggle 320kg of meth into Australia from West Africa.",
-      "summary_zh": "一名英国女演员出演了一部Eastenders spin-off和一部杰森·斯塔特姆(Jason Statham)电影,他被指控试图从西非将320克冰毒偷运入澳大利亚."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
-      "title_zh": "曼吉奥内的律师在州内谋杀案审判中逆向进行精神辩护",
-      "link": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-19T00:13:45+00:00",
-      "summary": "Lawyers for the defendant accused of gunning down UnitedHealthcare Chief Executive Brian Thompson will no longer argue a psychiatric defence at his state murder trial.",
-      "summary_zh": "被告律师 被控枪杀联合保健 首席执行官布莱恩・汤普森 将不再为他的州谋杀案辩护"
     },
     {
       "source": "BBC News",
@@ -452,56 +502,6 @@
       "published_at": "2026-06-18T14:45:11+00:00",
       "summary": "The UK is imposing a social media ban for children under the age of 16. British politicians say they will provide an update on further restrictions like potential curfews and curbing of \"addictive\" features like infinite scroll and AI chatbots, in July.",
       "summary_zh": "联合王国正在对16岁以下儿童实施社交媒体禁令。 英国政治人物表示,他们会在7月提供进一步限制的最新情况,如潜在的宵禁,并遏制\"附加\"特征,如无限卷轴和AI聊天人等."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Weapons, money and ships: How is this Iran deal different from others?",
-      "title_zh": "武器、金钱和船只: 伊朗与他国有何不同?",
-      "link": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-18T14:16:42+00:00",
-      "summary": "President Donald Trump has formally signed a deal with Iran to end the conflict that began on 28 February when the US and Israel launched air strikes against Tehran and across the country.",
-      "summary_zh": "唐纳德·特朗普总统已正式与伊朗签署协议以结束从2月28日美以双方对德黑兰和全国各地发动空袭起的冲突."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Will Putin change tactics after Ukrainian drone attacks?",
-      "title_zh": "乌克兰无人机攻击后普京是否会改变战术?",
-      "link": "https://www.bbc.com/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-18T10:52:38+00:00",
-      "summary": "Moscow has come under the largest Ukrainian attack since the start of the full-scale war, with close to 200 drones hitting targets around the Russian capital and setting columns of thick smoke billowing high into the sky.",
-      "summary_zh": "莫斯科受到乌克兰自全面战争开始以来最大的攻击,近200架无人机击中了俄罗斯首都周围的目标,并设置了高空飘来飘去的浓烟柱."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment Trump signs US-Iran agreement at Palace of Versailles",
-      "title_zh": "特朗普在凡尔赛宫签署美伊协议",
-      "link": "https://www.bbc.com/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-18T01:59:38+00:00",
-      "summary": "US President Donald Trump has signed an agreement to extend the ceasefire with Iran in France's Palace of Versailles, just outside Paris.",
-      "summary_zh": "美国总统唐纳德·特朗普在巴黎外的凡尔赛宫与伊朗签署延长停火协议."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
-      "title_zh": "美伊协议没有解决核心问题,",
-      "link": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-18T01:29:32+00:00",
-      "summary": "The US-Iran memorandum of understanding announced on Wednesday amounts to a reopening of the Strait of Hormuz, and a deal to try to reach a final agreement on almost everything else.",
-      "summary_zh": "美国-伊朗星期三宣布的谅解备忘录相当于重新开放霍尔木兹海峡,并达成一项协议,试图就几乎所有其它问题达成最后协议。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
-      "title_zh": "\"警告火势上升\": 乘坐游艇的夫妇描述与俄国军舰相遇",
-      "link": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-16T22:01:34+00:00",
-      "summary": "Retired British couple Jane and Alan Kelvey spoke to BBC's Newsnight after coming into close contact with Russian frigate the Admiral Grigorovich on Tuesday morning.",
-      "summary_zh": "退休的英国夫妇简和艾伦·凯尔维在星期二早上与\"格里戈罗维奇\"上将号俄国护卫舰密切接触后,与BBC的\"新闻之夜\"进行了交谈."
     }
   ]
 }
