@@ -1,77 +1,257 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-23T23:21:53+00:00",
-  "count": 42,
+  "generated_at": "2026-06-24T23:21:56+00:00",
+  "count": 32,
   "items": [
     {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【地震速報】青森県で震度6強 津波被害の心配なし",
+      "title_zh": "[地震速度报]. 不用担心海啸的破坏",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015158201000.html",
+      "published_at": "2026-06-24T23:19:30+00:00",
+      "summary": "午前7時半ごろ、青森県で震度6強の揺れを観測する地震がありました。この地震で沿岸では若干の海面変動があるかもしれませんが被害の心配はありません。",
+      "summary_zh": "上午7:30左右,青森县发生地震,观测到烈度为6级的地级地震. 无需担心可能存在略为出海面的破坏,因为本次地震导致海岸地貌变形."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "青森 東通村 東通原発異常確認されず 宮城 女川原発 異常なし",
+      "title_zh": "Aomori Higashidori 村 Higashidori 核异常未经证实 Miyagi Megawara 离开 没有异常",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159031000.html",
+      "published_at": "2026-06-24T23:19:03+00:00",
+      "summary": "東北電力によりますと青森県東通村にある東通原子力発電所は長期間運転を停止していますが、これまでのところ、地震による異常は確認されていないということです。また、周辺の放射線量を測定するモニタリングポスト…",
+      "summary_zh": "据东莞电力局,东莞核电站,东莞-浦口电站,青森县长期停止运营,但至今尚未证实地震所引发的异常. 此外,监测站监测周围辐射剂量..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【震度6強】木原官房長官 午前8時半から臨時の記者会見予定",
+      "title_zh": "[赛事强度6强]克博·纪原先生将于上午8:30举行新闻发布会.",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159111000.html",
+      "published_at": "2026-06-24T23:10:55+00:00",
+      "summary": "今回の地震を受けて、政府は木原官房長官が午前8時半をメドに臨時の記者会見を行うと発表しました。",
+      "summary_zh": "为了应对本次地震,政府宣布纪原秘书长将于上午8:30举行特别记者招待会."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "東北新幹線 東京～新青森の上下線と秋田新幹線で運転見合わせ",
+      "title_zh": "东京都真坎森-新青森线与秋田真坎森",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159011000.html",
+      "published_at": "2026-06-24T23:07:33+00:00",
+      "summary": "JR東日本によりますと、先ほどの地震の影響で、東北新幹線は東京駅と新青森駅の間の上下線で運転を見合わせているということです。",
+      "summary_zh": "据JR东日本称,东京站至新奥莫里站之间的上下行线上,都看到了\"东站\"的行驶."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【青森で震度6強】東北 北海道で長周期地震動 階級2観測",
+      "title_zh": "[6] Aomori强烈地震烈度]北海道2级观测台地地震运动.",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159091000.html",
+      "published_at": "2026-06-24T23:06:06+00:00",
+      "summary": "青森県で震度6強の揺れを観測した地震で、青森県と北海道、岩手県、宮城県、秋田県では長くゆっくりとした揺れ、長周期地震動の「階級2」が観測されました。",
+      "summary_zh": "在青森县、北海道、岩上县、宫城县和秋田县观测到了6级地震强度。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "震度6強 気象庁が午前9時半から記者会見へ",
+      "title_zh": "地震烈度 6气象局9:30访问新闻发布会.",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159051000.html",
+      "published_at": "2026-06-24T23:01:37+00:00",
+      "summary": "青森県で震度6強の揺れを観測した地震について気象庁は、午前9時半から記者会見を開き、今後の注意点や地震活動の状況などについて説明することにしています。",
+      "summary_zh": "日本气象厅将于上午9:30就青森县已观测到6级烈度的地震举行新闻发布会."
+    },
+    {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Stanford was their golden ticket - could AI help or hinder that?",
-      "title_zh": "斯坦福是他们的金票 AI能帮助还是阻碍?",
+      "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+      "title_zh": "法国、联合王国和西班牙的温度创下纪录,因为热浪占据了西欧。",
+      "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T21:39:18+00:00",
+      "summary": "Tourists with umbrellas outside the Pyramid of the Louvre museum as it closes early due to the heatwave",
+      "summary_zh": "卢浮宫博物馆的金字塔外有伞的游客 由于热波而提前关闭"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "九州北部で非常に激しい雨 昼前にかけ線状降水帯発生おそれ",
+      "title_zh": "北九州很暴雨的",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015158771000.html",
+      "published_at": "2026-06-24T21:38:05+00:00",
+      "summary": "停滞する梅雨前線の影響で九州北部では非常に激しい雨が降っていて、「レベル4土砂災害危険警報」が発表されている地域があります。九州北部では25日昼前にかけて線状降水帯が発生して、災害の危険度が急激に高ま…",
+      "summary_zh": "九州北部因雨季相去甚远而有\"四级沙地灾害风险预警\"发布区域. 九州北部有线性降水区,下午至少25天,灾害风险突然上升. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "title_zh": "联合国核总监说,作为战争交易的一部分,视察员将访问伊朗。",
+      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T17:31:48+00:00",
+      "summary": "Rafael Grossi said the IAEA was working on dates, procedures and places for the inspections",
+      "summary_zh": "Rafael Grossi说,原子能机构正在制订视察的日期、程序和地点。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Colombia's left-wing presidential candidate concedes defeat",
+      "title_zh": "哥伦比亚左翼总统候选人承认失败",
+      "link": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T15:50:22+00:00",
+      "summary": "Iván Cepeda was narrowly beaten by Abelardo de la Espriella in a run-off with a record turn-out",
+      "summary_zh": "伊凡·塞佩达被阿贝拉尔多·德·拉·埃斯普里耶拉以创纪录的出场率在跑道上被打得微弱."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France confirms first Ebola case",
+      "title_zh": "法国确认第一个埃博拉病例",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T15:00:52+00:00",
+      "summary": "Healthcare workers are at high risk of contracting Ebola",
+      "summary_zh": "保健工作者感染埃博拉病毒的风险很高"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "title_zh": "国会首次通过战争权力措施,",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T14:57:21+00:00",
+      "summary": "The Republican-controlled US Senate has approved a measure demanding that President Donald Trump halt the war in Iran or seek congressional approval before continuing military action.",
+      "summary_zh": "共和党控制的美国参议院批准了一项措施,要求唐纳德·特朗普总统停止伊朗战争或在继续军事行动前寻求国会批准."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya to charge students with murder over deadly school fire",
+      "title_zh": "肯尼亚指控学生因校园大火而杀人",
+      "link": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T14:36:42+00:00",
+      "summary": "Eight students are still in police custody following their arrest last month",
+      "summary_zh": "八名学生上个月被捕后仍被警方拘留"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Air conditioning creates political divide after France records hottest day",
+      "title_zh": "空调在法国最热的一天之后 造成了政治分歧",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T13:51:24+00:00",
+      "summary": "Only about 25% of homes in France have an air-con unit",
+      "summary_zh": "在法国,只有大约25%的住户拥有空调机。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "title_zh": "纽约民主党初选时,",
+      "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T13:03:35+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Biggest city in Crimea without power after Ukraine strikes",
+      "title_zh": "乌克兰罢工后克里米亚最大的无能城市",
+      "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T09:48:24+00:00",
+      "summary": "Buildings pictured in Yevpatoria, Crimea on Tuesday during what authorities previously described as a temporary power outage",
+      "summary_zh": "星期二在克里米亚Yevpatoria的建筑物被描绘为当局先前描述的临时停电"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why are there holiday delay warnings over the EU's new border system?",
+      "title_zh": "为什么欧盟新边境系统会有节假日延迟警告?.",
+      "link": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T09:47:35+00:00",
+      "summary": "The new system applies to non-EU citizens entering and leaving the Schengen Area",
+      "summary_zh": "新制度适用于出入申根地区的非欧盟公民。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
+      "title_zh": "据称在巴基斯坦被丈夫囚禁12年的法国妇女",
+      "link": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T08:29:06+00:00",
+      "summary": "Yasmina claims her husband had \"effectively imprisoned\" her and their children since 2014",
+      "summary_zh": "Yasmina声称她的丈夫自2014年起\"有效地监禁\"她和他们的孩子."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+      "title_zh": "Bondi海滩枪击英雄 对攻击他父亲的指控不认罪",
+      "link": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T04:06:51+00:00",
+      "summary": "Ahmed al Ahmed wrestled a gun from one of the alleged attackers during the shooting in Sydney",
+      "summary_zh": "Ahmed al Ahmed在悉尼枪击案期间从一名据称袭击者手中摔出一把枪"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+      "title_zh": "悉尼女人在鲨鱼袭击一周后 被诱发的昏迷唤醒",
+      "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T01:42:43+00:00",
+      "summary": "Leah Stewart was bitten by a shark at Sydney's Coogee Beach about ten days ago",
+      "summary_zh": "莉娅·斯图尔特十天前在悉尼的\"库吉海滩\"被鲨鱼咬了"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+      "title_zh": "8人因反天主教组织暴乱而被判450年徒刑,警察被枪杀",
+      "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T00:00:06+00:00",
+      "summary": "Eight people who US prosecutors say have ties to Antifa have collectively been sentenced to 450 years in prison for their roles in a riot outside an immigration detention centre in Texas.",
+      "summary_zh": "美国检察官称与安提法有关系的8人因在德克萨斯州移民拘留中心外的骚乱中扮演的角色被集体判处450年监禁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+      "title_zh": "德国铁路网因信息技术故障而在全国短暂停顿",
+      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T23:46:01+00:00",
+      "summary": "A DB Deutsche Bahn passenger train is seen at a standstill with passengers waiting on the platform.",
+      "summary_zh": "一辆DB德乙客运列车在站台上等待乘客时出现停滞."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+      "title_zh": "中国电子商务巨头阿里巴巴以国防黑名单告美国政府",
+      "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T23:25:07+00:00",
+      "summary": "Chinese e-commerce and technology giant Alibaba has launched a high-stakes legal challenge against the US government, suing to get off a Pentagon blacklist that claims it is linked to the Chinese military.",
+      "summary_zh": "中国电子商务与科技巨头阿里巴巴对美国政府发起高额法律挑战,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Stanford graduates rethink their futures as AI transforms tech",
+      "title_zh": "斯坦福大学毕业生们重新思考他们的前途,因为AI改造技术",
       "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-23T23:16:37+00:00",
-      "summary": "Stanford was their golden ticket - could AI help or hinder that?",
-      "summary_zh": "斯坦福是他们的金票 AI能帮助还是阻碍?"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "線状降水帯 九州北部で発生おそれ 長崎県南部には「直前予測」",
-      "title_zh": "九州北部为线性降水区. 长崎南部的“最后预测”",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157571000.html",
-      "published_at": "2026-06-23T23:07:02+00:00",
-      "summary": "停滞する梅雨前線の影響で九州北部では非常に激しい雨が降り、長崎県では「レベル4土砂災害危険警報」が発表されている地域があります。九州北部では24日昼すぎにかけて線状降水帯が発生するおそれがあり、特に長…",
-      "summary_zh": "在九州北部,由于雨季的三分之一,长崎县有一个地区宣布了\"四级沙地灾害风险警报\". 九州北部有24天通宵出现线性降水区的可能性,特别是长. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "群馬 高崎の駐車場 女性が血を流して死亡 殺人事件で捜査",
-      "title_zh": "Gunma Takasaki 停车女士死于谋杀案的血案调查",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157771000.html",
-      "published_at": "2026-06-23T23:03:11+00:00",
-      "summary": "24日未明、群馬県高崎市のJR高崎駅近くの駐車場で女性が血を流して倒れているのが見つかり、搬送先の病院で死亡しました。女性は10代から20代くらいで、現場には凶器とみられる刃物のようなものが残されてい…",
-      "summary_zh": "24日,我发现在冈玛县高崎市高崎站附近的停车场,女性被血淋淋倒地,死在了医院. 女性是青少年和青少年,她们不会像刀片一样被留在战场上被视为武器......"
+      "summary": "Stanford graduates rethink their futures as AI transforms tech",
+      "summary_zh": "斯坦福大学毕业生们重新思考他们的前途,因为AI改造技术"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
-      "title_zh": "德国铁路网因IT故障在全国全面停运",
-      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T22:44:57+00:00",
-      "summary": "German rail company Deutsche Bahn has paused its train services across the country due to a nationwide IT disruption.",
-      "summary_zh": "德国铁路公司德意志邦因全国IT中断而暂停了全国的列车服务."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "欧州 熱波続く フランス気象当局「23日は観測史上最も暑い日」",
-      "title_zh": "观察领域最热的一天",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157601000.html",
-      "published_at": "2026-06-23T22:44:22+00:00",
-      "summary": "ヨーロッパでは各地で40度以上を記録する熱波が続いていて、フランスではこれまでに水の事故で40人が亡くなりました。フランスの気象当局は、23日は観測史上最も暑い日だったとしています。",
-      "summary_zh": "欧洲有40人死于水上事故. 法国气象主管机构说观测史上最热的一天."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "E-commerce giant Alibaba sues US government over defence blacklist",
-      "title_zh": "电子商务巨头阿里巴巴控告美国政府 将国防黑名单",
-      "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T22:10:50+00:00",
-      "summary": "E-commerce giant Alibaba has launched a high-stakes legal challenge against the US government, suing to get off a Pentagon blacklist that claims it is linked to the Chinese military.",
-      "summary_zh": "电子商务巨头阿里巴巴(Alibaba)对美国政府提出了高度法律挑战,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "長崎市 市内全域に避難指示",
-      "title_zh": "长崎市的疏散指示",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157761000.html",
-      "published_at": "2026-06-23T21:47:50+00:00",
-      "summary": "長崎市はレベル4の土砂災害危険警報と大雨危険警報が発表されたため、24日午前5時36分に市内全域の20万5479世帯、38万3274人に避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報…",
-      "summary_zh": "长崎市已宣布4级土地危险预警和大雨危险预警,全市20万5479户居民于24日凌晨5:36发布疏散指令. 5级警示等级4级信息. ."
+      "title": "From startups to global spotlight - Indian entrepreneur takes charge of WhatsApp",
+      "title_zh": "从初创到全球关注 - 印度企业家负责WhatsApp",
+      "link": "https://www.bbc.co.uk/news/articles/c0my4n38myjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T21:57:05+00:00",
+      "summary": "Kunal Shah, founder of Indian fintech start-up Cred, has taken over as head of WhatsApp",
+      "summary_zh": "印度Fintech创始人Kunal Shah 已接任WhatsApp的负责人"
     },
     {
       "source": "BBC News",
@@ -84,84 +264,14 @@
       "summary_zh": "此视频无法播放"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "天皇皇后両陛下 ベルギーで歓迎の晩さん会に",
-      "title_zh": "比利时皇后和女王陛下",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157581000.html",
-      "published_at": "2026-06-23T21:09:01+00:00",
-      "summary": "国賓としてベルギーを公式訪問している天皇皇后両陛下は、首都ブリュッセルにある王宮で歓迎の晩さん会に臨まれました。",
-      "summary_zh": "女王作为国家嘉宾正式访问比利时,访问了布鲁塞尔的皇家宫殿。"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "title_zh": "联合国表示将撤离困在霍尔木兹海峡的水手,",
-      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T21:04:11+00:00",
-      "summary": "Secretary of State Marco Rubio speaking to reporters after landing in Abu Dhabi",
-      "summary_zh": "国务卿马可·鲁比奥在阿布扎比登陆后跟记者讲话"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "線状降水帯直前予測 長崎県南部で発生おそれ",
-      "title_zh": "长崎南部线性降水前的预测",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157721000.html",
-      "published_at": "2026-06-23T20:26:33+00:00",
-      "summary": "気象庁は長崎県南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前5時8分「線状降水帯直前予測」の気象防災速報を発表しました。",
-      "summary_zh": "日本气象厅在5点宣布了 \" 线性降水区之前的火警 \" 的天气灾害预防报告,因为长崎省南部未来三个小时发送线性降水区的可能性正在增加。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "佐賀 鹿島 一部地域に避難指示",
-      "title_zh": "部分地区的佐贺岛疏散指示",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157711000.html",
-      "published_at": "2026-06-23T19:40:27+00:00",
-      "summary": "佐賀県鹿島市はレベル4土砂災害危険警報の発表に伴い、24日午前4時9分、能古見地区の1159世帯3125人、古枝地区の988世帯2605人、七浦地区の909世帯2354人に避難指示を出しました。5段階…",
-      "summary_zh": "佐贺县嘉岛市发布4级土沙灾害风险警报后,向诺克米地区909户2354人,诺克米地区988户2605人,诺克米地区909户2354人发出疏散指示. 5个步骤"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
-      "title_zh": "Ransom Note声称Nancy Guthrie被绑架后死亡,",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T17:59:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
-      "title_zh": "赞比亚前总统的家人最近因他的身体遭遇而赢得了法律上的争斗",
-      "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T17:30:44+00:00",
-      "summary": "Edgar Lungu was reported to have said he did not want his successor at his funeral or \"anywhere near\" his body",
-      "summary_zh": "Edgar Lungu据说说他不想在葬礼上 或\"任何靠近\"他的遗体的地方"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "title_zh": "以军在南黎巴嫩战事平息后杀死了两人,",
-      "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T16:47:45+00:00",
-      "summary": "There has been a lull in the fighting between Israel and Hezbollah since Sunday",
-      "summary_zh": "自从星期天以来,以色列和真主党之间的战斗已经平息"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Have World Cup changes made final group stage games unfair?",
-      "title_zh": "世界杯的改变让最终的团体阶段比赛不公平吗?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T16:44:13+00:00",
-      "summary": "Scotland fans could face an anxious and extended wait to discover if their World Cup adventure will continue",
-      "summary_zh": "苏格兰的球迷们可能会急于等待 发现他们的世界杯冒险是否会继续"
+      "title": "Blood ties and opportunity: Why more World Cup players than ever are not representing their birth nations",
+      "title_zh": "血缘关系与机会:为什么比以往更多的世界杯球员不代表出世国家.",
+      "link": "https://www.bbc.co.uk/news/articles/cz9lj5k7lp1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T20:15:31+00:00",
+      "summary": "Switzerland's Breel Embolo chose not to celebrate after scoring against his country of birth, Cameroon, in the 2022 World Cup",
+      "summary_zh": "瑞士的Breel Embolo在2022年世界杯对阵其出生国喀麦隆后选择不庆祝."
     },
     {
       "source": "BBC News",
@@ -172,26 +282,6 @@
       "published_at": "2026-06-23T16:41:44+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "title_zh": "溺死在法国 成为热浪最高峰的欧洲扣子",
-      "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T16:27:17+00:00",
-      "summary": "France's sports minister Marina Ferrari warned that too many people were heading for reservoirs and rivers without taking the risks into account",
-      "summary_zh": "法国体育部长玛丽娜·法拉利(Marina Ferrari)警告说,太多人前往水库和河流时没有考虑风险."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
-      "title_zh": "美国最高法庭说,Rastafarian人不能起诉割下他恐怖锁的狱警。",
-      "link": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T15:57:29+00:00",
-      "summary": "Growing uncut, uncombed hair into dreadlocks is a symbol of devotion and spiritual growth for Rastafarians",
-      "summary_zh": "长出未剪接的发型 变成恐怖的发型 对拉斯塔法里人来说 是奉献和精神成长的象征"
     },
     {
       "source": "BBC News",
@@ -216,202 +306,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Irish government to contribute £197m to cross-border rail services",
-      "title_zh": "爱尔兰政府向跨境铁路服务捐款1.97亿英镑",
-      "link": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T13:39:03+00:00",
-      "summary": "The Irish government is to contribute €228m (£197m) towards improving rail services between Northern Ireland and the Republic of Ireland.",
-      "summary_zh": "爱尔兰政府将出资22.8亿欧元(19.7万英镑)来改善北爱尔兰和爱尔兰共和国之间的铁路服务."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "title_zh": "伊朗表示,凡斯说要邀请视察员回来之后,没有就核场地作出新的承诺。",
-      "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T12:14:58+00:00",
-      "summary": "Iran has denied a claim by Vice-President JD Vance that it will allow nuclear inspectors back into the country, after the first round of talks between Washington and Tehran to reach a final deal to end the war.",
-      "summary_zh": "伊朗否认副总统万斯(JD Vance)声称,在华盛顿和德黑兰进行第一轮会谈后,伊朗将允许核武检查人员返回该国,以达成结束战争的最后协议。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenya minister halts construction of US-backed Ebola quarantine centre",
-      "title_zh": "肯尼亚部长停止建造美国支持的埃博拉隔离中心",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T11:50:36+00:00",
-      "summary": "Health Minister Aden Duale apologised to the court",
-      "summary_zh": "卫生部长Aden Duale向法院道歉"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "title_zh": "联合国调查委员会说,以色列蓄意以儿童为目标,在加沙犯下种族灭绝罪行。",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T11:10:06+00:00",
-      "summary": "About 30% of those killed in the Gaza war have been children, according to the UN commission of inquiry",
-      "summary_zh": "据联合国调查委员会称,在加沙战争中被打死的人中,约30%是儿童。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump anticipates better relationship with Colombia under new leader",
-      "title_zh": "特朗普预计在新领导人的领导下与哥伦比亚建立更好的关系.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T10:27:04+00:00",
-      "summary": "Abelardo de la Espriella has a lead of around 250,000 votes, according to the preliminary count",
-      "summary_zh": "根据初步统计,阿贝拉尔多·德拉埃斯普列拉领先约25万票."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spider which uses spring trap to capture prey discovered in Australia",
-      "title_zh": "蜘蛛利用春季陷阱捕捉在澳大利亚发现的猎物",
-      "link": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T10:05:53+00:00",
-      "summary": "The spider has been nicknamed the \"ballista\" for the speed and force with which it flings prey into its web",
-      "summary_zh": "蜘蛛被昵称为\"球星\" 因为它将猎物投入网络的速度和力量"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Montreal shooting leaves officer, civilian and suspect dead",
-      "title_zh": "蒙特利尔枪叶官员,平民和疑似已死亡",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T08:36:38+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
-      "title_zh": "Dettol在广告后道歉,",
-      "link": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T08:05:07+00:00",
-      "summary": "The advert sparked an uproar on the Chinese internet, with some users saying it objectifies women",
-      "summary_zh": "广告引起中国网民的轰动,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inquiry ordered after building fire kills 15 in north India city",
-      "title_zh": "印度北部城市起火后下令进行调查,造成15人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T06:37:24+00:00",
-      "summary": "Firefighters douse the flame in a building that killed 15 in India's Lucknow city",
-      "summary_zh": "消防员在印度勒克瑙市一栋 造成15人死亡的建筑里喷出火焰"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
       "title_zh": "为什么万斯在瑞士豪华度假地与伊朗会谈?",
       "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-23T05:38:36+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
-      "title_zh": "百所医院如何改用笔和纸来击败国家网络攻击",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T23:31:21+00:00",
-      "summary": "Surgeon Oana Goidescu was on shift when her hospital was hit by the cyber attack",
-      "summary_zh": "外科医生Oana Goidescu被网络攻击击中时正在值班"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tesla crash that killed a woman under US federal investigation",
-      "title_zh": "特斯拉坠机事件 在美国联邦调查下造成一人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T22:20:07+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-      "title_zh": "克莱夫·戴维斯 惠特尼·休斯敦和布鲁斯·斯普林斯廷背后的音乐怪人 享年94岁",
-      "link": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T22:04:41+00:00",
-      "summary": "Clive Davis is one of the few music industry executives who became a well-known figure outside the boardroom",
-      "summary_zh": "克莱夫·戴维斯(Clive Davis)是少数音乐行业高管之一,成为董事会外的知名人物."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A brutal gang rape in India revives painful memories of 2012 Delhi assault",
-      "title_zh": "印度残酷的轮奸行为,唤起2012年德里袭击的痛苦记忆",
-      "link": "https://www.bbc.co.uk/news/articles/cewqyn2p1lno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T22:03:54+00:00",
-      "summary": "The mother of four young children was attacked in her own home and gang-raped by a group of men",
-      "summary_zh": "4名幼儿的母亲在自己家中被一群男子轮奸。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-      "title_zh": "法国、意大利和西班牙发布的40C温度预报红色发热警报",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T16:42:23+00:00",
-      "summary": "The heatwave will be \"widespread, long-lasting and intense\", France's forecaster warned",
-      "summary_zh": "法国的预报员警告说,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
-      "title_zh": "缅甸军队在六个月内杀害了700多名平民,",
-      "link": "https://www.bbc.co.uk/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T15:31:55+00:00",
-      "summary": "Min Aung Hlaing, the general who launched the 2021 military coup, is now president",
-      "summary_zh": "明·昂莱是2021年军事政变的发动者,现在是总统"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "title_zh": "卡塔尔瓦斯爆炸后,至少13人死亡,数十人受伤",
-      "link": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T15:15:42+00:00",
-      "summary": "AFPTV video footage frame of an explosion at Qatar's Ras Laffan industrial zone",
-      "summary_zh": "卡塔尔Ras Laffan工业区爆炸的AFPTV录像"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "title_zh": "特朗普支持的政治外出者赢得哥伦比亚大选,",
-      "link": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T03:31:40+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
-      "title_zh": "警方突袭地堡后 澳洲最大的可卡因暴发",
-      "link": "https://www.bbc.co.uk/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-22T01:40:00+00:00",
-      "summary": "Two men, aged 21 and 25, were arrested at the scene",
-      "summary_zh": "2名21岁和25岁男子在现场被捕"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-      "title_zh": "俄军的集结威胁着被视为夺取乌克兰顿巴斯的关键城市",
-      "link": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-21T23:57:59+00:00",
-      "summary": "Ukraine's commanders say the situation in Kostyantynivka is still under control, but accept Russian troops are active in the city",
-      "summary_zh": "乌克兰的指挥官说,科斯季扬特尼夫卡的局势仍在控制之中,但接受俄罗斯军队在城市中活动."
     },
     {
       "source": "BBC News",
