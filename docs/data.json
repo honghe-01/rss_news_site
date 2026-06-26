@@ -1,107 +1,347 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-25T23:44:25+00:00",
-  "count": 36,
+  "generated_at": "2026-06-26T23:22:51+00:00",
+  "count": 44,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "【速報中】W杯 日本×スウェーデン 序盤は両チーム無得点",
-      "title_zh": "[查询]W Cup Japan×瑞典 两支球队的初始分数",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160411000.html",
-      "published_at": "2026-06-25T23:40:05+00:00",
-      "summary": "この記事は、現在リアルタイムで更新中です。",
-      "summary_zh": "此条正被实时更新."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "title_zh": "美国在攻击货船后袭击伊朗",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T22:57:30+00:00",
+      "summary": "Stock photo of cargo ships near the Strait of Hormuz",
+      "summary_zh": "霍尔木兹海峡附近货船库存照片"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "title_zh": "以色列和黎巴嫩在美国调解后签署框架协定",
+      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T22:55:28+00:00",
+      "summary": "Israel and Lebanon have signed a framework agreement in Washington after several days of negotiations brokered by the US.",
+      "summary_zh": "以色列和黎巴嫩在美国斡旋下进行了数天谈判后,在华盛顿签署了框架协定。"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "俳優の村上虹郎さんを傷害疑いで書類送検 交際相手に暴行か",
-      "title_zh": "演员村上次郎先生 可疑的可疑的可疑的可疑的可疑的对口方",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160771000.html",
-      "published_at": "2026-06-25T23:36:21+00:00",
-      "summary": "ドラマや映画に出演している俳優の村上虹郎さん（29）が都内の自宅で当時、交際していた女性に暴行を加えて大けがをさせたなどとして傷害の疑いで書類送検されたことが捜査関係者への取材で分かりました。",
-      "summary_zh": "Kojiro Murakami先生(29人)是一名演员,曾在戏剧和电影中出演过,他向调查人员报告说,他被送到东京的家中被交叉并受了重伤的妇女那里。"
+      "title": "台風8号 関東に最接近 関東 静岡で雨強まる 土砂災害厳重警戒",
+      "title_zh": "八号喇叭 静冈关东雨最好的",
+      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162281000.html",
+      "published_at": "2026-06-26T22:43:18+00:00",
+      "summary": "台風8号はこの時間、関東に最も接近していて、関東と静岡県では雨が強まり、レベル4土砂災害危険警報が発表されている地域があります。このあと台風7号も西日本と東日本へ近づくため、総雨量が多くなるおそれがあ…",
+      "summary_zh": "八号洪是关东地区受灾最严重的地区,关东和静冈也有降雨增加的地区,4级土壤和沙子危险预警发布. 7号炮也接近西日本和东日本 所以..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "台風7号と8号接近 各地レベル4危険警報 厳重警戒",
-      "title_zh": "7号和8号4级风险警告",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160621000.html",
-      "published_at": "2026-06-25T23:33:20+00:00",
-      "summary": "停滞する梅雨前線の影響で近畿や中国・四国、九州でレベル4の危険警報が発表されている地域があり土砂災害や川の氾濫、低い土地の浸水に厳重に警戒が必要です。また、沖縄県には台風7号がかなり近づいていて、暴風…",
-      "summary_zh": "有个地区,由于雨季已到来,中国金基,石家庄,九州宣布了四级危害预警,必须严防被淹入地表和河流及地表低沉. 在冲绳县,七号炮已经接近了,暴风雨..."
+      "title": "【交通影響】鉄道の運休区間 高速道路 空の便は",
+      "title_zh": "[运输效果] 铁路暂停段 高速公路",
+      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162221000.html",
+      "published_at": "2026-06-26T22:33:25+00:00",
+      "summary": "台風8号と7号の接近に伴って局地的に雨が強まっています。 27日の交通への影響をまとめています。",
+      "summary_zh": "8号和7号的麦松龙有当地降雨量. 交通对27日的影响."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "京都 精華町東畑地区に緊急安全確保 命助かる可能性高い行動を",
-      "title_zh": "京都 Seika-cho Higashihata区紧急安全",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160751000.html",
-      "published_at": "2026-06-25T23:27:47+00:00",
-      "summary": "京都府精華町は、土砂災害が発生しているとして、午前8時15分に、東畑地区の239世帯、529人を対象に「緊急安全確保」を出しました。",
-      "summary_zh": "京都赛卡-乔被定为\"紧急安全\",在上午8:15,托巴塔地区共有239户和529人."
+      "title": "ゼレンスキー大統領 ロシアに対する「40日間作戦」を承認",
+      "title_zh": "泽莱总统批准对俄罗斯实施为期40天的行动",
+      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015161801000.html",
+      "published_at": "2026-06-26T22:24:40+00:00",
+      "summary": "ウクライナのゼレンスキー大統領はウクライナ保安庁がロシアに対して40日間の作戦を行うことを承認したと明らかにし、一定の期間、作戦を強化することでロシアに戦闘の終結に向かうよう圧力をかけるねらいがあると…",
+      "summary_zh": "乌克兰总统泽连斯基说,乌克兰安全局已经批准俄罗斯执行为期40天的战略,需要施加压力,通过在一定时间内加强战略来结束战斗."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "北京の高層ビルに小型機衝突か 当局発表なく詳細不明",
+      "title_zh": "北京摩天大楼的小型飞机碰撞事件或细节不明,未经官方公告",
+      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162151000.html",
+      "published_at": "2026-06-26T22:23:57+00:00",
+      "summary": "中国の首都・北京の中心部で26日、小型機が高層ビルに衝突したとみられると複数の香港メディアが伝えました。ビルの周辺では多くの警察官が警戒に当たっていましたが、これまでのところ中国当局の発表はなく、詳し…",
+      "summary_zh": "中国首都北京市中心26日,多家香港媒体报道小飞机坠毁于摩天大楼. 大楼附近曾有多名警察,但至今没有公告中国当局. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "山口 平生町 住宅の裏山崩れ1人行方不明 3人けが",
+      "title_zh": "山口平井先生不幸失踪了3个人",
+      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162131000.html",
+      "published_at": "2026-06-26T21:49:09+00:00",
+      "summary": "26日夜、山口県平生町で住宅の裏山が崩れて家の中に土砂が流れ込み、1人の行方が分からなくなっているほか、3人がけがをしました。 山口県は救助活動のため、陸上自衛隊に災害派遣要請を行ったということです。…",
+      "summary_zh": "26日晚,山口县平井町房屋后部坍塌,泥土流入房屋,一人之道失守,3人受伤. 山口县向运动员自卫队请求救援 . . . . ...."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
+      "title_zh": "委内瑞拉最受打击的地区之一La Guaira的报导",
+      "link": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T21:44:54+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米軍“イラン軍事施設を攻撃” 前日の貨物船への攻撃受け",
+      "title_zh": "美国陆军攻击伊朗军事设施",
+      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162291000.html",
+      "published_at": "2026-06-26T21:27:12+00:00",
+      "summary": "中東地域を管轄するアメリカ中央軍は26日、イランのミサイルや無人機の保管施設、それに沿岸部にあるレーダー施設を航空機で攻撃したと発表しました。",
+      "summary_zh": "拥有中东地区管辖权的美国中央军队于26日宣布,飞机袭击伊朗的中世纪设施, et 储存设施和沿海设施."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "title_zh": "委内瑞拉地震造成920人死亡,",
+      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T21:15:37+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【被害まとめ】山梨で震度6弱 各地の被害状況は",
+      "title_zh": "亚马纳希的损失",
+      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161971000.html",
+      "published_at": "2026-06-26T21:02:43+00:00",
+      "summary": "山梨県富士河口湖町で震度6弱の揺れを観測した地震によって、各地で被害が確認されています。",
+      "summary_zh": "亚马纳希县藤川口町的地震震动强度为6级,这些地震造成了破坏。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Lightning strikes seen across UK",
+      "title_zh": "观察:闪电袭击全英国",
+      "link": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T19:26:58+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Debris falls after plane hits Beijing's tallest building",
+      "title_zh": "飞机撞到北京最高的建筑后 碎片掉下来了",
+      "link": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T18:36:42+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "title_zh": "母亲死在委内瑞拉地震中救女儿",
+      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T18:36:32+00:00",
+      "summary": "The mother reportedly died saving her daughter's life",
+      "summary_zh": "据报道,母亲是救了女儿一命而死的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "title_zh": "欧洲致命的热浪打破了德国纪录,停止了公共活动",
+      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T18:14:36+00:00",
+      "summary": "Extreme temperatures were recorded across Germany, but Saarbrücken saw the highest",
+      "summary_zh": "整个德国都有极端气温记录 但萨尔布吕肯是最高的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "title_zh": "刚果在数十年的冲突中将卢旺达提交国际法院",
+      "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T17:05:22+00:00",
+      "summary": "The M23 rebels have captured huge tracts of DR Congo's east",
+      "summary_zh": "“3·23”运动叛军在刚果东部夺取了大片土地。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "title_zh": "前特朗普顾问约翰·博尔顿(John Bolton)对处理不当机密文件表示认罪.",
+      "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T16:45:21+00:00",
+      "summary": "John Bolton, a former national security adviser to Donald Trump, has pleaded guilty to mishandling classified security information as part of notes he compiled for a book.",
+      "summary_zh": "唐纳德·特朗普的前国家安全顾问约翰·博尔顿(John Bolton)作为他为一本书汇编的笔记的一部分,对错误处理机密安全信息表示认罪."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "title_zh": "塞拉利昂有4名因童婚而被拘留的男子出现在具有里程碑意义的法庭案件中",
+      "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T15:34:39+00:00",
+      "summary": "Eighteen is now the minimum age to wed but cases of forced marriages of underage girls persist",
+      "summary_zh": "现在18岁是结婚的最低年龄,但强迫未成年女孩结婚的案件仍然存在。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Canada eligible to join Eurovision competition",
+      "title_zh": "加拿大有资格参加欧洲视界比赛",
+      "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T13:41:36+00:00",
+      "summary": "Canadian singer Céline Dion, competed for Switzerland - and won - in Eurovision in the 1980s",
+      "summary_zh": "加拿大歌手席琳·迪翁(英语:Céline Dion),1980年代在Eurovision为瑞士参赛并获得冠军."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+      "title_zh": "美国制裁卢旺达黄金炼油厂 被控走私刚果黄金",
+      "link": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T12:54:18+00:00",
+      "summary": "The sanctions target Rwanda's Gasabo Gold Refinery",
+      "summary_zh": "制裁对象是卢旺达的加萨博炼金厂。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "title_zh": "圣诞市场袭击者因在德国谋杀六人被判终身监禁",
+      "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T10:49:11+00:00",
+      "summary": "51-year-old Taleb Al-Abdulmohsen pictured attending court on Friday",
+      "summary_zh": "51岁的Taleb Al-Abdulmohsen在星期五出庭"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+      "title_zh": "乌克兰高级情报官员因为俄罗斯进行间谍活动被判处无期徒刑",
+      "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T10:38:37+00:00",
+      "summary": "Ukraine's intelligence boss Vasyl Malyuk (R) was pictured alongside Col Kozyura after his arrest in February 2025",
+      "summary_zh": "乌克兰的情报头目瓦西尔·马柳克(R)在2025年2月被捕后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "title_zh": "你脚下丰富的但昂贵的能源",
+      "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T10:12:42+00:00",
+      "summary": "Geysers show us there's plenty of heat in the earth's crust",
+      "summary_zh": "Geysers告诉我们地壳里有很多热量"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Moment woman pulled from rubble alive after Venezuela earthquake",
+      "title_zh": "委内瑞拉地震后,从废墟中活下来的女士",
+      "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T10:06:11+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+      "title_zh": "房屋委员会投票决定冻结纽约的租金,",
+      "link": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T09:42:26+00:00",
+      "summary": "Members of tenant rights groups celebrated after the New York City Rent Guidelines Board approved the rent freeze",
+      "summary_zh": "纽约市租房准则理事会批准冻结租金后庆祝的租户权利团体成员"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Asia stock markets slide as tech shares slump",
+      "title_zh": "亚洲股票市场随着科技股暴跌而滑落",
+      "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T07:33:10+00:00",
+      "summary": "Asian stock markets fell sharply on Friday, led by a sell-off in technology firms as investors worried that recent jumps in share prices had gone too far.",
+      "summary_zh": "亚洲股票市场在星期五急剧下跌,由技术公司出售导致,投资者担心最近股价暴跌已经过大。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "title_zh": "国家公园服务署表示,",
+      "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T06:16:01+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Aerial footage reveals destruction in coastal Venezuela",
+      "title_zh": "空中画面显示委内瑞拉沿海的破坏情况",
+      "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T05:13:22+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+      "title_zh": "最高法院允许特朗普终止海地和叙利亚移民的保护地位.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T02:18:04+00:00",
+      "summary": "The ruling will directly impact hundreds of thousands of Haitian immigrants",
+      "summary_zh": "该裁决将直接影响数十万海地移民"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "title_zh": "地震对委内瑞拉造成毁灭性打击,",
+      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T02:12:07+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Row over alleged theft of donations from India's landmark Ram temple",
+      "title_zh": "对印度标志性拉姆神庙捐赠被盗的指控进行起诉",
+      "link": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T01:02:36+00:00",
+      "summary": "The Ram temple in Ayodhya has become one of India's most important pilgrimage centres",
+      "summary_zh": "阿约迪亚的拉姆神庙已经成为印度最重要的朝圣中心之一"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "title_zh": "巴黎限制酒精消费和销售 随着欧洲的热浪向东移动",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T00:06:45+00:00",
+      "summary": "French authorities have announced public alcohol consumption and sales bans in Paris, in a bid to ease pressure on the capital's hospitals during the heatwave.",
+      "summary_zh": "法国当局在巴黎宣布了公共酒精消费和销售禁令,以缓解热浪期间对首都医院的压力."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Why the trail went cold in Nancy Guthrie case",
-      "title_zh": "Nancy Guthrie案的线索怎么凉了",
+      "title_zh": "南希·古斯里的案子 线索怎么凉了",
       "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T23:12:22+00:00",
       "summary": "There's a different kind of depth to the darkness at nighttime in the upscale Catalina Foothills neighbourhood of Tucson, Arizona.",
-      "summary_zh": "在亚利桑那州图克森的上层卡塔琳娜·福特希尔斯街区,夜间对黑暗有不同的深度."
+      "summary_zh": "在亚利桑那州图森的Catalina Foothills上层街区,夜间对黑暗有不同的深度."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-      "title_zh": "一场中国票房大战引发了新加坡对身份的辩论",
+      "title_zh": "一个中国的票房引发了一场关于新加坡身份的争论",
       "link": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T22:19:08+00:00",
       "summary": "The Chinese movie Dear You was filmed almost entirely in Teochew, a dialect from China's Chaoshan region",
-      "summary_zh": "中国电影\"亲爱的你\"几乎全取自中国韶山地区方言\"特奥奇\""
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で",
-      "title_zh": "纽约道·T·800 交易时间最高价格更新",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160551000.html",
-      "published_at": "2026-06-25T21:51:52+00:00",
-      "summary": "25日のニューヨーク株式市場では、建設機械や金融といった銘柄に買い注文が広がって、ダウ平均株価は一時、前日から800ドルあまり値上がりして取り引き時間中の最高値を更新しました。",
-      "summary_zh": "纽约股市25日,定购单向建筑机械和融资等连锁店铺分出,道家平均股价从前一天起临时上涨至800美元,取货时间最高的股价已经更新."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-      "title_zh": "当欧洲的热浪向东移动时,法国甚至警告年轻人健康受到威胁",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T21:27:06+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ベネズエラ M7超地震 首都周辺被害深刻も全容不明",
-      "title_zh": "委内瑞拉M7超地地震 首都周边破坏不明",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160641000.html",
-      "published_at": "2026-06-25T21:17:57+00:00",
-      "summary": "南米ベネズエラで24日、2度発生したマグニチュード7を超える地震で、これまでに188人が死亡、1500人余りがけがをしました。特に首都カラカスや隣接する州では、建物の倒壊が相次ぐなど深刻な被害となって…",
-      "summary_zh": "南美委内瑞拉发生24和2级地震,188人死亡,1500多人死亡. 特别是在首都的Caracass和相邻的S,它成为了建筑倒塌等严重破坏......"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "title_zh": "在货船被袭击后联合国暂停霍尔木兹海峡撤离计划",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T19:19:12+00:00",
-      "summary": "The UN's International Maritime Organization (IMO) has paused the planned evacuation of more than 11,000 sailors stranded in the Strait of Hormuz after a cargo ship passing through the waterway was attacked.",
-      "summary_zh": "联合国国际海事组织(海事组织)在经过水道的一艘货船被袭击后,暂停了对滞留在霍尔木兹海峡的11 000多名水手的撤离计划。"
+      "summary_zh": "中国电影\"亲爱的你\"几乎全用中国庐山地区方言\"特奥丘\"拍摄."
     },
     {
       "source": "BBC News",
@@ -111,47 +351,27 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T18:50:12+00:00",
       "summary": "Ex-BBC producer Lisa Brinkworth claims she was sexually assaulted while working undercover to expose abuse in the fashion industry",
-      "summary_zh": "前BBC制片人Lisa Brinkworth声称她在卧底工作时遭到性侵犯,以揭露时尚界的虐待行为."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-      "title_zh": "最高法院允许特朗普终止海地和叙利亚移民的保护地位.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T18:43:14+00:00",
-      "summary": "The ruling will directly impact hundreds of thousands of Haitian immigrants",
-      "summary_zh": "该裁决将直接影响数十万海地移民"
+      "summary_zh": "前BBC制片人Lisa Brinkworth声称她在卧底工作时遭到性攻击以揭露时尚行业的虐待"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
-      "title_zh": "麦迪逊广场花园婚礼 会不会是泰勒·斯威夫特最疯狂梦想的爱情故事?",
+      "title_zh": "麦迪逊广场花园的婚礼 能成为泰勒·斯威夫特最疯狂梦想的爱情故事吗?",
       "link": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T17:00:51+00:00",
       "summary": "Rumours continue to swirl about whether pop queen Taylor Swift will marry NFL star Travis Kelce at New York City's Madison Square Garden over the 4 July Independence Day weekend, after city officials confirmed someone applied for a street closure permit nearby.",
-      "summary_zh": "在7月4日独立日周末,在城市官员证实有人申请附近街道关闭许可后,继续有传言说流行女王泰勒·斯威夫特是否会在纽约市麦迪逊广场花园与NFL明星特拉维斯·凯尔斯结婚."
+      "summary_zh": "在7月4日独立日周末纽约市麦迪逊广场花园与NFL明星Travis Kelce结婚,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "title_zh": "有刺铁丝网的屏障上放花,",
+      "title_zh": "在致命的肯尼亚抗议活动周年纪念日,",
       "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T16:53:51+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "スクールバスが反対車線へ 6台絡む事故で5人けが 運転手を逮捕",
-      "title_zh": "5人在事故中被捕 校车向对面车道行驶",
-      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015160481000.html",
-      "published_at": "2026-06-25T16:47:56+00:00",
-      "summary": "25日夕方、大阪・河内長野市の国道の交差点で中高生が乗ったスクールバスが反対車線にはみ出して乗用車などと衝突し、あわせて6台が絡む事故があり、5人がけがをしました。警察は、スクールバスの運転手をその場…",
-      "summary_zh": "25日晚,初中生所乘校车在大阪市川chi-N. 6.oo市国道交叉口与客车等相撞相撞相撞,并出事6辆相撞. 警察局是校车司机..."
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -161,7 +381,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T15:32:04+00:00",
       "summary": "The price of oil has fallen to levels not seen since before the Iran war as traffic through the key Strait of Hormuz shipping route gradually resumes.",
-      "summary_zh": "随着主要霍尔木兹海峡航运路线的交通逐步恢复,石油价格已降至伊朗战争前所未见的水平。"
+      "summary_zh": "石油价格已降至伊朗战争前所未见的水平,因为途经霍尔木兹重要海峡的运输路线逐渐恢复。"
     },
     {
       "source": "BBC News",
@@ -176,52 +396,32 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "title_zh": "地震对委内瑞拉造成毁灭性打击,",
-      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T13:09:58+00:00",
-      "summary": "Relatives of people trapped in the rubble are anxiously waiting for news",
-      "summary_zh": "被困在瓦砾中的人的亲戚们急于等待消息"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
       "title_zh": "Ryanair说不要求父母坐在孩子旁边",
       "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T12:08:33+00:00",
       "summary": "Ryanair has changed its family seating policy to allow parents to sit next to their young children without paying a seat reservation fee, after an investigation was opened.",
-      "summary_zh": "Ryanair改变了其家庭座位政策,允许父母在开始调查后坐在孩子旁边而无需支付座位预订费."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "People flee as building collapses on Caracas outskirts",
-      "title_zh": "人们在加拉加斯郊区的建筑物倒塌时逃走",
-      "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T12:08:30+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "Ryanair改变了其家庭座位政策,允许父母在调查结束后坐在年幼子女旁边,不支付座位预订费."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "title_zh": "IBM为超小芯片设计突破了新的\"平地块\"",
+      "title_zh": "IBM为超小芯片设计突破了新的\"平板块\"",
       "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T10:04:43+00:00",
       "summary": "IBM's new sub-1 nm chip crams almost 100 billion transistors onto a surface the size of a fingernail",
-      "summary_zh": "IBM的新子-1纳米芯片 几乎1000亿个晶体管 放在一个像指甲大小的表面"
+      "summary_zh": "IBM的新子-1纳米芯片 近千亿个晶体管 在一个像指甲大小的表面"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "title_zh": "特朗普在与共和党关系紧张后,向国会要求数十亿美元用于伊朗战争.",
+      "title_zh": "特朗普在与共和党关系紧张后,向国会索取数十亿美元用于伊朗战争.",
       "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T09:06:59+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -231,137 +431,17 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-25T03:12:17+00:00",
       "summary": "Anthropic CEO Dario Amodei",
-      "summary_zh": "雅典首席执行官达里奥·阿莫代"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Independent MPs launch new Australian centrist party",
-      "title_zh": "独立议员发起新的澳大利亚中间派政党",
-      "link": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T02:41:28+00:00",
-      "summary": "Allegra Spender (left) and Zali Steggall say their new party will offer 'reason over rage'",
-      "summary_zh": "Allegra Spender(左翼)和Zali Steggall说,他们的新党会提出“理性战胜愤怒”。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The ICE raids are over, but some Minnesotans say they still live in fear",
-      "title_zh": "ICE突袭已经结束 但明尼苏达州人说 他们仍然生活在恐惧之中",
-      "link": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T02:40:13+00:00",
-      "summary": "People demonstrate against Immigration and Customs Enforcement (ICE) during the Cinco de Mayo parade in Saint Paul, Minnesota, on 2 May",
-      "summary_zh": "5月2日在明尼苏达州圣保罗举行的游行示威中,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "This Indian state is trying to ensure no one grows old alone",
-      "title_zh": "这个印地安邦试图确保没有人孤独地老去",
-      "link": "https://www.bbc.co.uk/news/articles/cg74dj4xev5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T02:38:03+00:00",
-      "summary": "The Dominics have two sons - both of whom left home in search of better employment opportunities",
-      "summary_zh": "多米尼克人有两个儿子 -- -- 两人为了寻找更好的就业机会离家出走。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How to cope in a heatwave - according to you",
-      "title_zh": "如何在热浪中应付 - 根据你",
-      "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-25T00:18:35+00:00",
-      "summary": "As the UK swelters through some of its hottest June nights on record, people have been looking for more creative ways to stay cool.",
-      "summary_zh": "英国在六月最热的夜晚 记录下来, 人们一直在寻找更有创意的方式保持冷静。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-      "title_zh": "观察:加拉加斯的机场和建筑物发生地震",
-      "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-24T23:40:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "雅典首席执行官 达里奥·阿莫代"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Philippines bans video game played by alleged high school shooter",
-      "title_zh": "菲律宾禁止高中枪手玩电子游戏",
+      "title_zh": "菲律宾禁止被控高中射手玩电子游戏",
       "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-24T22:14:12+00:00",
       "summary": "Gorebox is a game where \"creativity meets unrestrained destruction\", according to its Google Play listing",
-      "summary_zh": "Gorebox是一款\"创造力满足无限制破坏\"的游戏,根据其Google Play上市情况"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "title_zh": "联合国核总监说,作为战争交易的一部分,视察员将访问伊朗。",
-      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-24T17:31:48+00:00",
-      "summary": "Rafael Grossi said the IAEA was working on dates, procedures and places for the inspections",
-      "summary_zh": "Rafael Grossi说,原子能机构正在制订视察的日期、程序和地点。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Air conditioning creates political divide after France records hottest day",
-      "title_zh": "空调在法国最热的一天之后 造成了政治分歧",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-24T13:51:24+00:00",
-      "summary": "Only about 25% of homes in France have an air-con unit",
-      "summary_zh": "在法国,只有大约25%的住户拥有空调机。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "title_zh": "纽约民主党初选时,",
-      "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-24T13:03:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
-      "title_zh": "乌克兰罢工后克里米亚最大的无能城市",
-      "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-24T09:48:24+00:00",
-      "summary": "Buildings pictured in Yevpatoria, Crimea on Tuesday during what authorities previously described as a temporary power outage",
-      "summary_zh": "星期二在克里米亚Yevpatoria的建筑物被描绘为当局先前描述的临时停电"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Temperatures hit record levels in western Europe",
-      "title_zh": "西欧的温度达到创纪录的水平",
-      "link": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T21:46:34+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
-      "title_zh": "萨凡纳·古斯里请求帮助,",
-      "link": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T16:41:44+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
-      "title_zh": "为什么万斯在瑞士豪华度假地与伊朗会谈?",
-      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-23T05:38:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "Gorebox是一款\"创造力满足无限制破坏\"的游戏,根据其Google Play的上市内容"
     }
   ]
 }
