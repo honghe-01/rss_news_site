@@ -1,57 +1,237 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-27T23:16:43+00:00",
-  "count": 33,
+  "generated_at": "2026-06-28T23:17:38+00:00",
+  "count": 31,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "【地震情報】青森県 岩手県で震度5弱 津波の心配なし",
-      "title_zh": "[地震资讯]. 青森县,岩上县,地震烈度小于5级.",
+      "title": "近鉄京都線 京都駅の構内で脱線 乗員や乗客にけが人なし",
+      "title_zh": "腾讯网 腾讯网 腾讯网 腾讯网 腾讯网 腾讯网 腾讯网 腾讯网 腾讯网 腾讯网.",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163381000.html",
+      "published_at": "2026-06-28T22:30:09+00:00",
+      "summary": "29日午前5時すぎ、近鉄京都線の京都駅の構内で、4両編成の始発の普通列車が脱線しました。乗員や乗客にけが人はいないということです。",
+      "summary_zh": "双向列车首列车在京津冀线京津冀站出轨. 乘客或乘客没有受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "title_zh": "两名男孩在被困几天后从委内瑞拉地震废墟中获救",
+      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T21:58:45+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "7月発表の短観予測 イラン情勢影響で悪化予測多く",
+      "title_zh": "对7月的宣布的简短预测",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163221000.html",
+      "published_at": "2026-06-28T21:53:21+00:00",
+      "summary": "7月1日に公表される日銀の短観＝企業短期経済観測調査について、民間の調査会社の間では、イラン情勢が悪化して以降の石油関連製品の価格上昇や物流コストの上昇が収益を押し下げているとして、注目される大企業・…",
+      "summary_zh": "7月1日公布的NISSHIN短视:随着石油价格上涨和物流成本上升而引起关注的大型企业. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大分 別府ひき逃げ事件から4年 新映像公開し情報提供呼びかけ",
+      "title_zh": "4年后的hiki越狱事件 新的视频发布电话",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163331000.html",
+      "published_at": "2026-06-28T21:52:32+00:00",
+      "summary": "大分県別府市で大学生が車にひき逃げされて死亡し、八田與一容疑者が殺人などの疑いで重要指名手配されている事件は、29日で発生から4年です。警察は事件の直前に、現場近くで撮影された防犯カメラの映像を新たに…",
+      "summary_zh": "在大田县的贝浦市,一名大学生死于汽车上,雅田洋一疑似重要提名的案件是发生在29天后的4年. 警方重新打开了一段录像,记录了事件发生前在现场附近拍摄的预防犯罪摄像机. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "“アメリカ・イランが攻撃停止で合意 30日に協議”米報道",
+      "title_zh": "“美国伊朗同意30天”美国新闻",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163371000.html",
+      "published_at": "2026-06-28T21:26:55+00:00",
+      "summary": "中東のホルムズ海峡をめぐるアメリカとイランの攻撃の応酬が続くなか、アメリカのメディアは28日、アメリカとイランが互いに攻撃を停止することで合意し、30日に仲介国のカタールで協議を行う見通しだと伝えまし…",
+      "summary_zh": "美国和伊朗在中东继续攻击霍尔姆号的峡号,美国媒体同意于28日停止攻击对方,并报道预计30日会在中间国卡塔尔进行讨论. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "サッカーW杯 日本代表がブラジル戦に向け最終調整",
+      "title_zh": "足球世界杯 日本决赛巴西",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163361000.html",
+      "published_at": "2026-06-28T21:24:29+00:00",
+      "summary": "サッカーワールドカップ北中米大会の日本代表は決勝トーナメント1回戦のブラジル戦を翌日に控え、アメリカのヒューストンで最終調整しました。",
+      "summary_zh": "日本国家足球世界杯北美和中美洲巡回赛球队在美国休斯敦定下最后一轮."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ベネズエラ地震から4日 各国救助チームの活動本格化",
+      "title_zh": "委内瑞拉地震发生4天后",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163301000.html",
+      "published_at": "2026-06-28T20:49:40+00:00",
+      "summary": "南米ベネズエラの地震では、発生から4日がたった28日までに1450人の死亡が確認されました。建物への被害が集中しているラ・グアイラ州などで各国の救助チームの活動が本格化しています。",
+      "summary_zh": "在南美洲委内瑞拉地震中,1450人自发生之日起28天死亡. 救援队在各国的活动已在安提瓜全面展开。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "title_zh": "欧洲的热波与1300人死亡有关,",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T19:37:07+00:00",
+      "summary": "Poland recorded an all-time record temperature of 40.5C on Sunday as the heatwave move eastwards",
+      "summary_zh": "波兰在周日的热浪向东移动时记录了40.5C的创纪录温度"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "title_zh": "在法国东部搭载空难的飞机坠毁后,11人丧生",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T18:34:07+00:00",
+      "summary": "A pilot and ten skydivers died after a light aircraft crashed in Tomblaine, eastern France, on Sunday",
+      "summary_zh": "一名飞行员和十名潜水员于星期天在法国东部的通布赖恩坠毁后死亡"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+      "title_zh": "看:委内瑞拉乡村俱乐部内部现在是临时医院",
+      "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T17:32:30+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "title_zh": "三名消防员在科罗拉多-乌塔边境 与巨大的野火搏斗而死",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T16:33:50+00:00",
+      "summary": "A crew working to contain the Cottonwood Fire, one of several active blazes across Colorado and Utah",
+      "summary_zh": "科罗拉多州和犹他州的几座大火之一"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "title_zh": "14人死于沙特阿拉伯直升机坠毁事件",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T15:42:01+00:00",
+      "summary": "The helicopter crashed in Ras Tanura, home to oil giant Aramco's major refinery",
+      "summary_zh": "这架直升机在Ras Tanura坠毁,是石油巨头Aramco的主要炼油厂所在地。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Uganda's leading media outlets shut down by army chief",
+      "title_zh": "乌干达主要媒体被军方关闭",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T15:19:53+00:00",
+      "summary": "Gen Muhoozi Kainerugaba is widely seen as a potential successor to his father as president",
+      "summary_zh": "穆胡齐·凯纳鲁加巴将军被广泛视为他父亲作为总统的潜在继任者"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "title_zh": "澳大利亚男子被控谋杀 死女孩被发现在泰国手提箱",
+      "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T14:30:05+00:00",
+      "summary": "Simon Peter Carman was arrested at Bangkok's Suvarnabhumi Airport in the early hours of Saturday, police said",
+      "summary_zh": "警察说,西蒙·彼得·卡曼星期六凌晨在曼谷的苏瓦尔纳布胡米机场被捕。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "title_zh": "美国和伊朗相互攻击,指责对方违反停火",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T04:54:50+00:00",
+      "summary": "The US has conducted new strikes on Iran, following a drone attack on a Panama-flagged vessel in the Strait of Hormuz on Saturday.",
+      "summary_zh": "美国星期六在霍尔穆兹海峡对一艘悬挂巴拿马国旗的船只发动无人机袭击后,对伊朗进行了新的袭击。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を",
+      "title_zh": "[地震信息]青森县岩田县,地震烈度不足5周.",
       "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162811000.html",
-      "published_at": "2026-06-27T22:56:27+00:00",
-      "summary": "28日午前5時21分ごろ岩手県沖で地震があり、青森県と岩手県で震度5弱の強い揺れを観測しました。この地震による津波の心配はありません。岩手県沖では今月25日にマグニチュード7.2の地震があり、気象庁は…",
-      "summary_zh": "28日凌晨5点21分左右,岩手县附近发生地震. 本次地震引发的海啸毫不担心. 在岩手县近海 25号发生7.2级地震..."
+      "published_at": "2026-06-28T03:43:24+00:00",
+      "summary": "28日 朝早く岩手県沖で地震があり、青森県と岩手県で震度5弱の強い揺れを観測しました。今月25日に発生したマグニチュード7.2の地震の活動域で起きていて、気象庁は、1週間程度、最大震度6強程度の地震に…",
+      "summary_zh": "28 地震发生于岩手县沿海清晨. 在本次25日发生的7.2级地震活动区,气象局约有一周......"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ベネズエラ大地震 1430人死亡 3238人けが 発生から72時間経過",
-      "title_zh": "委内瑞拉地震1430人死亡 3238人受伤 发生72小时后",
-      "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162791000.html",
-      "published_at": "2026-06-27T22:07:14+00:00",
-      "summary": "南米ベネズエラで24日に2度発生したマグニチュード7を超える地震では、これまでに1430人の死亡が確認されました。生存率が急激に下がるとされる地震発生から72時間が過ぎる中、倒壊した建物などに取り残さ…",
-      "summary_zh": "在委内瑞拉,南美洲每天两次发生的7级地震中,有1430人死亡. 地震发生72小时后,生存率突然下降. ."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bad Bunny lights up London with history-making stadium show",
+      "title_zh": "坏兔子点亮了伦敦的历史 体育场秀",
+      "link": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T01:46:24+00:00",
+      "summary": "Bad Bunny is reaching the end of his huge Debí Tirar Más Fotos world tour",
+      "summary_zh": "Bad Bunny 已经到了他的Debí Tirar Más Fotos世界巡回演唱会的尽头"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "豪 16歳未満のSNS禁止法 規制を強化へ 罰金 最大110億円余に",
-      "title_zh": "澳大利亚SNS禁止16岁以下者加强管制法",
-      "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162771000.html",
-      "published_at": "2026-06-27T22:01:04+00:00",
-      "summary": "16歳未満の子どものSNS利用を禁止したオーストラリアの政府は、運営会社の対策が十分ではないとして、対策を怠った場合の罰金を、最大で今の2倍にあたる日本円で110億円余りに引き上げるなど、規制を強化す…",
-      "summary_zh": "澳大利亚政府主张对16岁以下儿童使用SNS,加强了在疏忽的情况下增加罚款等规定,最高增加日元,现在增加两次. ."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
+      "title_zh": "整理你的生活:最常见的4个纠错和如何纠正它们",
+      "link": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T00:32:07+00:00",
+      "summary": "Tidying expert Dilly Carter started her profession while working as a personal assistant",
+      "summary_zh": "迪迪宁专家迪利·卡特在做私人助理时 开始了她的职业"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中国とロシアの爆撃機 日本周辺を共同飛行 防衛省が警戒と監視",
-      "title_zh": "中俄轰炸机在日本周边的联合飞行 国防部警戒和监测",
-      "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162781000.html",
-      "published_at": "2026-06-27T21:58:58+00:00",
-      "summary": "中国軍とロシア軍の爆撃機が27日、東シナ海上空から四国沖の太平洋上空にかけてなど日本周辺を共同で飛行したことが確認されました。防衛省は外交ルートを通じて重大な懸念を伝えるとともに警戒と監視を続けていま…",
-      "summary_zh": "中国军队和俄罗斯军队的轰炸机发生于27日,与日本合作,从中国东海岸到太平洋岸的石嘴山. 国防部通过`外交路线'来表达严重关切,并继续保持警惕和监督......"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "title_zh": "在加州的\"无杀\"动物营救中发现117只死狗 许多狗身上有枪伤",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-28T00:06:19+00:00",
+      "summary": "Investigators search for animal remains as part of an active investigation into alleged animal cruelty, fraud and theft in Fortuna, California.",
+      "summary_zh": "调查者寻找动物遗骸,作为加利福尼亚州福尔图纳市涉嫌虐待动物,诈骗和盗窃案件积极调查的一部分."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "山梨の震度6弱地震 地震調査委“同程度の規模の地震に注意を”",
-      "title_zh": "亚马纳希地震调查",
-      "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162751000.html",
-      "published_at": "2026-06-27T21:52:17+00:00",
-      "summary": "26日に山梨県で最大震度6弱を観測した地震について、政府の地震調査委員会は臨時の会合を開き、2つのプレートが衝突することに起因する地震と考えられるとする評価をまとめました。小原一成委員長は「もともと地…",
-      "summary_zh": "26日,政府地震调查委员会就此次地震召开特别会议,在亚马纳希县观测到最大6级地震烈度,两块板块被认为是碰撞引起的地震. Kazunari Kohara先生的“原始土地”主席"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What news reports from 1600s tell us about life in Mughal India",
+      "title_zh": "1600年代的新闻报道告诉我们莫卧儿印度的生活",
+      "link": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-27T23:40:43+00:00",
+      "summary": "Aurangzeb, carried on a palanquin in this 1775 painting, was the Mughal emperor whose reign remains among the most debated and controversial in Indian history",
+      "summary_zh": "Aurangzeb在1775年的这幅画中 搭载着一辆轿子 是莫卧儿皇帝 统治至今仍是印度历史上 争论最激烈和争议最大的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
+      "title_zh": "米莉·鲍比·布朗和路易斯·帕特里奇在肚皮上大笑,兄弟情调和埃诺拉·福尔摩斯",
+      "link": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-27T23:11:14+00:00",
+      "summary": "Millie Bobby Brown and Louis Partridge return as Enola and Tewkesbury in Enola Holmes 3",
+      "summary_zh": "米莉·鲍比·布朗和路易·帕特里奇在埃诺拉·福尔摩斯3中以埃诺拉和特沃克斯伯里的身份回归."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "title_zh": "为什么金钟 从来没有谈论过他的母亲 或她有争议的血脉",
+      "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-27T23:10:39+00:00",
+      "summary": "Among the many mysteries shrouding North Korean leader Kim Jong Un, the secrecy around his mother stands out.",
+      "summary_zh": "朝鲜领导人金正恩所隐藏的许多秘密中,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
+      "title_zh": "澳大利亚将违反社交媒体禁令的平台的最高处罚增加一倍",
+      "link": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-27T22:34:11+00:00",
+      "summary": "The Australian government has announced it will double the maximum penalty for breaches of the nation's social media minimum age law to $99m (£51.7m).",
+      "summary_zh": "澳洲政府已宣布将违反国家社交媒体最低年龄法的最高处罚翻一番,达到9900万美元(5170万英镑)."
     },
     {
       "source": "BBC News",
@@ -76,12 +256,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-      "title_zh": "\"每个人都是奇迹\": 在委内瑞拉地震肆虐的地区,",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T21:12:51+00:00",
-      "summary": "People search through the rubble unprotected, using whatever they can",
-      "summary_zh": "人们在废墟中寻找无防护物,利用一切手段"
+      "title": "Budapest's first Pride since Orban left power",
+      "title_zh": "布达佩斯自奥尔班下台以来的第一个荣耀",
+      "link": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-27T21:28:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -92,16 +272,6 @@
       "published_at": "2026-06-27T20:48:16+00:00",
       "summary": "The Czech Republic was among the countries hit by record temperatures",
       "summary_zh": "捷克共和国是受创纪录温度打击的国家之一。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「ボイスフィッシング」か 不正送金が相次ぎ約13億円被害",
-      "title_zh": "\"声音钓鱼\"或\"未经授权的汇款\"",
-      "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162761000.html",
-      "published_at": "2026-06-27T20:17:13+00:00",
-      "summary": "インターネットバンキングを利用する企業に銀行をかたる自動音声の電話をかけるなどして社員にパソコンを遠隔操作できるソフトをインストールさせた上で、口座から不正送金を行う手口の被害が先月から相次ぎ、被害額…",
-      "summary_zh": "在安装了员工远程操作个人计算机的软件后,例如使用自动语音呼叫给使用互联网银行业务的公司,手部的损伤."
     },
     {
       "source": "BBC News",
@@ -136,200 +306,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Burkina Faso severs diplomatic ties with France",
-      "title_zh": "布基纳法索断绝与法国的外交关系",
-      "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T14:21:31+00:00",
-      "summary": "Capt Ibrahim Traore has been ruling Burkina Faso since seizing power in 2022",
-      "summary_zh": "自2022年夺取政权后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Newborn baby rescued from Venezuela earthquake rubble",
       "title_zh": "从委内瑞拉地震废墟中救出的新生婴儿",
       "link": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-27T12:51:25+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US strikes Iran after attack on cargo ship",
-      "title_zh": "美国攻击伊朗货船",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T10:40:38+00:00",
-      "summary": "Vessels at the Strait of Hormuz, as seen from Musandam, Oman",
-      "summary_zh": "从阿曼穆桑达姆看到霍尔木兹海峡的船只"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "title_zh": "委内瑞拉地震造成920人死亡,",
-      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T08:56:30+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
-      "title_zh": "亿万富翁莱昂·布莱克走出爱泼斯坦调查听证会",
-      "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T03:07:46+00:00",
-      "summary": "Billionaire investor Leon Black walked out of a closed-door hearing with the congressional committee investigating late sex offender Jeffrey Epstein after refusing to answer questions on non-disclosure agreements (NDAs), say lawmakers.",
-      "summary_zh": "亿万富翁投资者莱昂·布莱克(Leon Black)在拒绝回答不披露协议(NDAs)的问题后,与调查晚期性罪犯杰弗里·爱泼斯坦的国会委员会一起走出了闭门听证会,他说立法者们."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "title_zh": "前特朗普顾问约翰·博尔顿(John Bolton)对处理错误的机密文件表示认罪.",
-      "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T02:57:20+00:00",
-      "summary": "John Bolton, a former national security adviser to Donald Trump, has pleaded guilty to mishandling classified security information as part of notes he compiled for a book.",
-      "summary_zh": "唐纳德·特朗普的前国家安全顾问约翰·博尔顿(John Bolton)作为他为一本书编写的笔记的一部分,对错误处理机密安全信息表示认罪."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Just how much trouble is Canada's economy in?",
-      "title_zh": "只是加拿大的经济有多麻烦?",
-      "link": "https://www.bbc.co.uk/news/articles/c70y1y909pdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T01:58:40+00:00",
-      "summary": "Prime Minister Mark Carney has promised to reboot Canada's economy, building it into the \"strongest in the G7\".",
-      "summary_zh": "总理马克·卡尼承诺重启加拿大经济,将其建设成为\"七大集团中最强大的\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pete Buttigieg briefly separated from children after false police report",
-      "title_zh": "Pete Buttigieg在警方报告不实后,",
-      "link": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T00:40:44+00:00",
-      "summary": "Buttigieg is a potential White House contender",
-      "summary_zh": "Buttigieg是一个潜在的白宫竞争者"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Religion row as Texas makes Bible stories required reading in schools",
-      "title_zh": "德克萨斯州的宗教行 圣经故事需要在学校阅读",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-27T00:31:42+00:00",
-      "summary": "A copy of the Ten Commandments is displayed in a Texas classroom",
-      "summary_zh": "德克萨斯州的一个教室里 展示了十诫的复制品"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
-      "title_zh": "GTA 6将仅作为下载发布 - 这意味着碟片死了吗?",
-      "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T23:03:04+00:00",
-      "summary": "Rockstar revealed that the price of GTA 6 will be £70 for a standard edition and £90 for its more premium edition",
-      "summary_zh": "Rockstar透露,GTA 6的价格将达到标准版70英镑,其更优惠版90英镑."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hit South African show gets the world talking about polygamy and cheating",
-      "title_zh": "打南非的节目让世界谈论一夫多妻和作弊",
-      "link": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T23:02:23+00:00",
-      "summary": "The show opens at the funeral of Jonasi Gomora, with two of his wives as chief mourners",
-      "summary_zh": "节目在乔纳斯·戈莫拉的葬礼上开幕 他的两位妻子是首席哀悼者"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
-      "title_zh": "你能处理20小时以上的航班吗? 这家航空公司在银行里",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T23:02:15+00:00",
-      "summary": "The non-stop London to Sydney flight would enter new frontiers in aviation",
-      "summary_zh": "伦敦飞往悉尼的航班将进入航空领域"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
-      "title_zh": "他们为了俄国的传统价值观退出了西方,但这不是他们所期望的",
-      "link": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T23:02:05+00:00",
-      "summary": "Ben, from Derby, moved to Russia in 2023 on a private family visa and says he feels safer living there",
-      "summary_zh": "Ben,来自德比,于2023年以私人家庭签证移居俄罗斯,并说在那里生活更安全"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "title_zh": "梅洛尼和特朗普:一个非常公开的倒台 事实证明很难解决",
-      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T23:01:50+00:00",
-      "summary": "Relations between Italy's prime minister and President Trump have worsened considerably since 2025",
-      "summary_zh": "意大利总理与特朗普总统的关系自2025年以来严重恶化."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
-      "title_zh": "委内瑞拉最受打击的地区之一La Guaira的报导",
-      "link": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T21:44:54+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "title_zh": "母亲死在委内瑞拉地震中拯救女儿",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T18:36:32+00:00",
-      "summary": "The mother reportedly died saving her daughter's life",
-      "summary_zh": "据报道,母亲是救了女儿一命而死的"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "title_zh": "刚果在数十年的冲突中将卢旺达提交国际法院",
-      "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T17:05:22+00:00",
-      "summary": "The M23 rebels have captured huge tracts of DR Congo's east",
-      "summary_zh": "\"3·23\"运动叛军在刚果东部夺取了大片土地"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "W杯 日本 次戦はブラジル グループ2位で決勝トーナメントへ",
-      "title_zh": "W杯 日本 下一轮进入巴西小组赛 第2轮决赛",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160411000.html",
-      "published_at": "2026-06-26T11:48:04+00:00",
-      "summary": "サッカーワールドカップ北中米大会で、日本は、1次リーグの第3戦でスウェーデンと対戦し、1対1で引き分けました。この結果、日本は1次リーグを1勝2引き分けで勝ち点を「5」とし、オランダに次ぐグループFの…",
-      "summary_zh": "日本在足球世界杯南北美洲联赛第1轮第3轮对阵瑞典. 因此,日本将在1胜2平2负,\"5\"和荷兰旁边的F组联赛中取得首个联赛冠军. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The abundant but expensive energy source that's under your feet",
-      "title_zh": "你脚下的丰富但昂贵的能源",
-      "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T10:12:42+00:00",
-      "summary": "Geysers show us there's plenty of heat in the earth's crust",
-      "summary_zh": "Geysers告诉我们地壳里有很多热量"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "title_zh": "地震对委内瑞拉造成毁灭性打击,",
-      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-26T02:12:07+00:00",
       "summary": "This video can not be played",
       "summary_zh": "无法播放此视频"
     }
