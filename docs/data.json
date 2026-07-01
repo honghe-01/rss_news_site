@@ -1,8 +1,308 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-06-30T23:38:17+00:00",
-  "count": 33,
+  "generated_at": "2026-07-01T23:41:58+00:00",
+  "count": 39,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "九州北部で線状降水帯発生 土砂災害・浸水などに厳重警戒",
+      "title_zh": "九州北部出现线性降水区.",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166571000.html",
+      "published_at": "2026-07-01T23:10:47+00:00",
+      "summary": "梅雨前線や低気圧の影響で九州北部では大雨となり、2日未明から相次いで線状降水帯が発生し、熊本県では川の水が堤防を越えて氾濫が発生しているところもあります。大分県ではレベル4の土砂災害危険警報が発表され…",
+      "summary_zh": "在九州北部由于雨季和低气压而成为暴雨. 在奥伊塔县,宣布了4级泥土和沙地危险预警. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ベネズエラ地震発生1週間 救助活動続くも食料など支援が課題に",
+      "title_zh": "委内瑞拉地震 1周",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166531000.html",
+      "published_at": "2026-07-01T22:34:28+00:00",
+      "summary": "南米ベネズエラでマグニチュード7を超える地震が起きて1週間となり、死亡が確認された人は2295人となりました。被災地では、救助活動が続く一方、食料や水の不足を訴える被災者も多く、支援が課題になっていま…",
+      "summary_zh": "委内瑞拉南美发生7多起规模地震 2295人遇难. 在灾区,有许多人抱怨缺乏食物和水,支持正在成为挑战. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "京都 長岡京 金ケ原谷田と高台西の一部 16世帯29人に避難指示",
+      "title_zh": "京都长冈京 田原和高代西 16户29人疏散指令",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166731000.html",
+      "published_at": "2026-07-01T22:17:26+00:00",
+      "summary": "京都府長岡京市はため池の水があふれるおそれがあるとして、午前6時半ごろ金ケ原谷田と高台西の一部のあわせて16世帯29人に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所…",
+      "summary_zh": "由于有可能发生大火, 京畿道永冈京市, 一个危险的地方 信息开始于五级警戒等级的第四级..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "長野 東御の住宅で親子3人死傷 逮捕の父親は自殺図ったか",
+      "title_zh": "3名父母和子女在长野平美家中死亡",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166511000.html",
+      "published_at": "2026-07-01T22:12:08+00:00",
+      "summary": "1日、長野県東御市の住宅で母親と12歳の長女が死亡し、長男が刃物で切りつけられてけがをした事件で、長男に対する殺人未遂の疑いで逮捕された父親は事件後に現場から車で逃走して自殺を図った可能性があり、1日…",
+      "summary_zh": "一天,母亲和十二岁的女婴在长野县平桥市的家中相继死亡,长子被刀刃砍伤,长子被谋杀而被捕的父亲在事发后可以逃离现场并自杀,1天. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "title_zh": "委内瑞拉男孩的姨妈从瓦砾上拉出,",
+      "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T21:27:04+00:00",
+      "summary": "Andreína Sarmiento says when a friend told her of Kleiber's rescue she fell to the floor and wept, before heading to meet her nephew",
+      "summary_zh": "Andreína Sarmiento说,当一个朋友告诉她Kleiber的营救时,她倒倒在地上并哭了,然后去见她侄子。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整",
+      "title_zh": "日印标志经济安全会等协作发展.",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
+      "published_at": "2026-07-01T20:33:10+00:00",
+      "summary": "インドを訪問中の高市総理大臣は、2日にモディ首相との首脳会談に臨むことにしています。経済安全保障分野などを中心にインドとの具体的な協力の進展を図りたい考えで、共同声明に加え、経済安全保障とAIの分野で…",
+      "summary_zh": "经济、贸易和工业部长高一先生于第二天访问了印度。 除联合声明外,我们的目标是主要在经济安全等领域同印度推进具体合作。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "皇室典範改正案 与野党が協議へ 与党は定数削減法案成立も図る",
+      "title_zh": "经皇室条例Yono党修订讨论,该党还缔结了固定数量削减法",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166521000.html",
+      "published_at": "2026-07-01T20:26:21+00:00",
+      "summary": "国会で与野党の対立が続く中、森衆議院議長が皇室典範改正案の成立を最優先とするよう要請したことを受けて、与野党は取り扱いなどについて協議することにしています。自民・維新両党は、衆議院議員の定数削減法案な…",
+      "summary_zh": "由于约诺党在国会上继续对抗,为响应莫里参议院主席主导建立帝国宫的拟议修正案的要求,约诺党会讨论处理等事宜. 自定再生党是减少众议院议员人数的法案. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "「スロースリップ」活発な領域 東北沖で拡大か 地震への備えを",
+      "title_zh": "\"慢滑\"活动区在德湖外扩展或准备地震",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166431000.html",
+      "published_at": "2026-07-01T20:16:03+00:00",
+      "summary": "先月25日、岩手県沖で発生したマグニチュード7.2の地震について専門家が分析したところ、プレート境界がゆっくりずれ動く「スロースリップ」が地震前から活発に起きていたとみられることがわかりました。専門家…",
+      "summary_zh": "在上月25日,专家们分析了岩上县附近发生的7.2级地震,发现板块边界减速的\"缓慢滑倒\"在地震发生前是活跃的. 专家"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four die in Mexico City World Cup celebrations",
+      "title_zh": "四人死在墨西哥城世界杯的庆祝活动中",
+      "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T20:15:59+00:00",
+      "summary": "More than one million people took to the streets of Mexico City following Mexico's win over Ecuador in the World Cup knockout stages, the city government said",
+      "summary_zh": "超过一百万人走上墨西哥城街头,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US blocks long-term renewal of North American trade deal",
+      "title_zh": "美国街区 北美贸易长期续约",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T18:56:36+00:00",
+      "summary": "US President Donald Trump speaks about the United States - Mexico - Canada agreement, known as USMCA, during a visit to Dana Incorporated, an auto supplier manufacturer, in Warren, Michigan, January 30, 2020.",
+      "summary_zh": "美国总统唐纳德·特朗普在2020年1月30日访问密歇根州沃伦的汽车供应商制造商达纳公司时谈到美国-墨西哥-加拿大协议,称为USMCA."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Greek politician's mother dies of wounds after arson attack",
+      "title_zh": "希腊政治家的母亲在被纵火袭击后被伤而死",
+      "link": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T18:52:22+00:00",
+      "summary": "The mother of a politician from Greece's ruling New Democracy party has died of injuries sustained in one of a series of suspected arson attacks targeting party officials.",
+      "summary_zh": "希腊执政的新民主党政治人物之母因在一系列针对党内官员的纵火袭击中受伤而死."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "title_zh": "乌克兰人因北流爆炸在德国充电",
+      "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T18:19:32+00:00",
+      "summary": "A gas leak at sea after the attacks",
+      "summary_zh": "袭击后海上有气体泄漏"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+      "title_zh": "尼日利亚就逃离南非的公民遗弃的财产要求赔偿",
+      "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T17:40:29+00:00",
+      "summary": "Thousands of foreign nationals from across Africa fled South Africa in recent weeks fearing anti-migrant violence",
+      "summary_zh": "数以千计的非洲外国国民最近几周逃离南非,担心受到反移民暴力"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
+      "title_zh": "圣经,\"孤家寡人\"和\"香水\":特朗普2025年财务的六起外卖",
+      "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T17:22:25+00:00",
+      "summary": "Nearly 1,000 pages detailing US President Donald Trump's financial information have been released, showing how much he made and what he invested in during his first year back in the White House.",
+      "summary_zh": "详细介绍美国总统唐纳德·特朗普财务信息的近1000页已经发布,表明他在白宫的第一年里赚了多少钱和投入了多少."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Businessman goes on trial over murder of Maltese journalist",
+      "title_zh": "商人因谋杀马耳他记者而受审",
+      "link": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T17:15:47+00:00",
+      "summary": "The murder of Daphne Caruana Galizia triggered anger in Malta and across the world",
+      "summary_zh": "Daphne Caruana Galizia被谋杀在马耳他和世界各地引发了愤怒"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Two people climb to highest point of Empire State Building",
+      "title_zh": "监视 : 两个人爬到帝国大厦的最高点",
+      "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T17:08:56+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man guilty of attempted murder of three children in Dublin",
+      "title_zh": "在都柏林企图谋杀三个孩子的人",
+      "link": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T16:59:59+00:00",
+      "summary": "A court sketch of Riad Bouchaker during Wednesday's proceedings",
+      "summary_zh": "周三庭审期间 里亚德·布查克的法庭草图"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
+      "title_zh": "叙利亚总统提名70名立法者加入阿萨德后的新议会",
+      "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T16:44:58+00:00",
+      "summary": "Election official Mohammed Taha al-Ahmed said 15 of the president's appointees were women",
+      "summary_zh": "选举官员穆罕默德·塔哈·艾哈迈德(Mohammed Taha al-Ahmed)说,总统任命的15名候选人是妇女。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fire kills five at Antwerp apartment block",
+      "title_zh": "安特卫普公寓区有五起火灾",
+      "link": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T16:12:18+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+      "title_zh": "作为教宗的争议主教 警告天主教会的\"教会\"",
+      "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T16:10:38+00:00",
+      "summary": "Four priests from Switzerland, the US and France were ordained during a ceremony in the Alpine village of Écône",
+      "summary_zh": "来自瑞士、美国和法国的四位神父 在埃克内阿尔卑斯山村的仪式上受命"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "title_zh": "特朗普在上任第一年从密码赚了超过一美元",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T16:04:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+      "title_zh": "卡罗尔呼吁特朗普在总统上诉失败后支付五百万美元。",
+      "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T15:48:02+00:00",
+      "summary": "Carroll, a former magazine columnist, accused Trump of attacking her in the mid-1990s in a Bergdorf Goodman department store dressing room",
+      "summary_zh": "前杂志专栏作家Carroll指责特朗普于1990年代中期在贝格多夫古德曼百货公司更衣室袭击她."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Canada to make Eurovision Song Contest debut in 2027",
+      "title_zh": "加拿大于2027年出道,",
+      "link": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T12:30:56+00:00",
+      "summary": "Canadian singer Céline Dion, competed for Switzerland - and won - in Eurovision in the 1980s",
+      "summary_zh": "加拿大歌手席琳·迪翁(Céline Dion),1980年代在Eurovision为瑞士出赛并取胜."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
+      "title_zh": "苏丹无国界记者在法希尔犯下了危害人类罪,",
+      "link": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T06:29:31+00:00",
+      "summary": "More than 6,000 people were killed in el-Fasher last year, the UN says",
+      "summary_zh": "联合国说,去年法希尔有6 000多人死亡。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two-year-old rescued and taken to hospital six days after Venezuela quake",
+      "title_zh": "委内瑞拉地震6天后,2岁被救出并送往医院",
+      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T06:03:08+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "title_zh": "美国最高法院维护出生权公民权 打击特朗普",
+      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T05:32:26+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "title_zh": "Anthropic说,美国解除了对其高级AI工具的出口禁令",
+      "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-01T03:39:44+00:00",
+      "summary": "Anthropic boss Dario Amodei",
+      "summary_zh": "雅典的老大达里奥·阿莫代"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "title_zh": "随着紧张局势升级,阿富汗塔利班对与巴基斯坦接壤的边境发动了袭击",
+      "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-30T23:49:19+00:00",
+      "summary": "Several people were reportedly injured in Pakistan's southwestern Balochistan province.",
+      "summary_zh": "据报道,巴基斯坦俾路支省西南部有多人受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "title_zh": "卡塔尔说,",
+      "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-30T23:41:11+00:00",
+      "summary": "US envoys Jared Kushner and Steve Witkoff took part at the first round of talks with Iran in Switzerland",
+      "summary_zh": "美国特使贾里德·库什纳和史蒂夫·维特克夫参加了在瑞士同伊朗的第一轮会谈."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "title_zh": "北京有架飞机撞上塔楼 但中国没说发生了什么",
+      "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-30T23:24:05+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
@@ -14,56 +314,6 @@
       "summary_zh": "此视频无法播放"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "瀬戸内海に2本の海底活断層 産総研の調査で新たに確認",
-      "title_zh": "塞多内陆海的两层潜艇",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165171000.html",
-      "published_at": "2026-06-30T22:20:19+00:00",
-      "summary": "能登半島地震では海底の活断層がずれ動いたとみられていますが、これまで日本の沿岸で調査の空白域とされてきた愛媛や香川に面する瀬戸内海を産業技術総合研究所が詳しく調べた結果、2本の海底の活断層が見つかった…",
-      "summary_zh": "在野都半岛地震中,据说海底活性断层被急剧移动. 然而,经过对日本海岸所调查的\"調査\"和\"面临川川河的濑户\"内陆海的详细调查,发现有两起海底活断层. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "“出国税” きょうから引き上げ 1人当たり1000円が3000円に",
-      "title_zh": "“离境税”从今天起每人1000日元",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165101000.html",
-      "published_at": "2026-06-30T21:53:31+00:00",
-      "summary": "日本を出国する際に課される「国際観光旅客税」いわゆる出国税が、7月1日から引き上げられます。これまでは1人当たり1000円でしたが3000円となり、各地で課題となるオーバーツーリズムの対策などに充てら…",
-      "summary_zh": "\"国际旅游旅客税\"为im. 离开日本时将从7月1日起提高. 直到现在,这是每人1000日元,但是是3000日元,它适合过度旅游措施,这将是个问题. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "title_zh": "委内瑞拉地震6天后,3岁被救出并送往医院",
-      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T21:30:52+00:00",
-      "summary": "The Jordanian team released footage of Tuesday's rescue",
-      "summary_zh": "约旦队公布了星期二的救援录像"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
-      "title_zh": "美国最高法院在女子学校和大学体育中禁止变性运动员",
-      "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T21:24:15+00:00",
-      "summary": "Women hold placards as they celebrate the US Supreme Court's ruling",
-      "summary_zh": "女性在庆祝美国最高法院的裁决时持有牌照"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
-      "title_zh": "1元=单位下半行减162日元等.",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165311000.html",
-      "published_at": "2026-06-30T21:15:59+00:00",
-      "summary": "30日のニューヨーク外国為替市場では円を売ってドルを買う動きが進み、円相場は一時、1ドル＝162円台後半まで値下がりしました。およそ39年半ぶりの円安ドル高水準で、アメリカのFRB＝連邦準備制度理事会…",
-      "summary_zh": "纽约福克斯市场30日,购买美元的运动正在取得进展,日元市场被暂时降为美元后半部分=162日元. FRB=联邦储备系统委员会."
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Firefighters struggle to contain deadly Greek wildfire",
@@ -72,56 +322,6 @@
       "published_at": "2026-06-30T20:25:53+00:00",
       "summary": "More than100 firefighters were dispatched to an area near Thessaloniki on Tuesday",
       "summary_zh": "星期二向塞萨洛尼基附近地区派出了100多名消防员"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "国会 与野党対立 衆院議長と各党が協議し打開策模索か",
-      "title_zh": "国民议会 众议院议长和各方讨论并寻找公开措施",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165141000.html",
-      "published_at": "2026-06-30T20:21:05+00:00",
-      "summary": "国会は、与党側が野党との合意がないまま、衆議院議員の定数削減法案などの審議を進めていることに野党側が反発を強めています。1日は、森衆議院議長と与野党の幹事長らが協議する見通しで、事態の打開につながるか…",
-      "summary_zh": "工发党通过众议院的固定数量削减法案等审议工作,而该党与工发党没有协议。 一日由森家董事长和同野党首席执行官讨论的\"事態\",导致."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "企業に義務づけの障害者雇用率 民間企業2.7％に引き上げ",
-      "title_zh": "有义务向公司提供服务的残疾人就业率",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015164981000.html",
-      "published_at": "2026-06-30T20:16:59+00:00",
-      "summary": "企業に義務づけられている障害者の雇用率が1日から2.7％に引き上げられました。しかし、去年の時点で、雇用率を達成した企業は46％にとどまっていて、厚生労働省は就労や職場の定着などに向けた支援を進めるこ…",
-      "summary_zh": "公司要求的残疾人比例从第一天起提高到2.7%。 然而,在去年,达到.率的公司仍然保持在46%,卫生、劳动和福利部支持工作和建立工作.。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "皇室典範改正案 養子の男の子に皇位継承資格 審議で論点に",
-      "title_zh": "由皇帝办公室修订.",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165151000.html",
-      "published_at": "2026-06-30T20:12:45+00:00",
-      "summary": "皇族数の確保に向けた皇室典範の改正案について、政府・与党はいまの国会での成立を目指す方針です。野党側からは、養子に迎えた旧皇族の男系男子に男の子が生まれた場合、皇位継承資格を有するとした規定に異論も出…",
-      "summary_zh": "政府和政党致力于为保证皇帝人数制定皇帝标准. 对于一个生于旧帝国人的男孩被从党党方面收养来迎接,也有人反对皇帝继承资格的规定. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
-      "title_zh": "美国总统关于审查“证据”的法令",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165281000.html",
-      "published_at": "2026-06-30T19:39:32+00:00",
-      "summary": "アメリカで生まれた子どもに国籍を与える「出生地主義」を見直すとしてトランプ大統領が署名した大統領令について、連邦最高裁判所は30日、認めないとする判断を示しました。アメリカに不法に滞在、あるいは一時的…",
-      "summary_zh": "美国最高法院决定30天内不接受特朗普总统的签名,让其看到给予儿童国籍的\"取消主义\". 在美国保持非法或暂时状态..."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "title_zh": "数以千计的反移民抗议者在南非大批警察出行",
-      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T19:39:29+00:00",
-      "summary": "Co-ordinated protests have taken place across the country with a heavy security presence in most cities",
-      "summary_zh": "全国各地发生了协调一致的抗议活动,大多数城市都有大量安全人员"
     },
     {
       "source": "BBC News",
@@ -142,116 +342,6 @@
       "published_at": "2026-06-30T19:36:48+00:00",
       "summary": "Fourteen children died after the roof of a building near Lahore collapsed on top of them, officials say.",
       "summary_zh": "拉合尔附近一栋建筑的屋顶倒塌后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-      "title_zh": "\"绝对疯狂\":在柏林下摧毁纳粹地堡的计划上划上平地",
-      "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T19:19:42+00:00",
-      "summary": "Dietmar Arnold of the Berlin Underworlds Association last visited the bunker in 2007",
-      "summary_zh": "柏林地下世界协会的迪特玛·阿诺德最后一次访问地堡是在2007年"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "title_zh": "澳大利亚控告亚马逊与订户订立不公平合同",
-      "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T18:59:19+00:00",
-      "summary": "Amazon's Prime Video streaming service is under government scrutiny",
-      "summary_zh": "亚马逊的Prime视频流媒体服务受到政府监督"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-      "title_zh": "美国和日本士兵在澳洲灌木丛中间干什么?.",
-      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T18:37:59+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-      "title_zh": "美国最高法院维护出生权公民权 打击特朗普",
-      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T18:28:41+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What to know about the looming deadline on North American free trade",
-      "title_zh": "北美自由贸易即将到来的期限是什么?",
-      "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T17:44:15+00:00",
-      "summary": "The US, Canada and Mexico are staring down a 1 July deadline to decide the future of a long-standing North American free trade pact. All signs point to them blowing past that date without a clear resolution.",
-      "summary_zh": "美国、加拿大和墨西哥正盯着7月1日的最后期限来决定一项长期存在的北美自由贸易协定的未来。 所有迹象都表明,它们在没有明确解决的情况下过了那个日期。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Missing US congressman explains mysterious four-month absence",
-      "title_zh": "失踪的美国国会议员解释 神秘地缺席了四个月",
-      "link": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T17:01:02+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
-      "title_zh": "德国近6万极右翼极端分子 情报机构说",
-      "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T16:12:25+00:00",
-      "summary": "Right-wing extremists remain the greatest threat to German democracy and their number increased significantly to 58,700 last year, the country's domestic intelligence service says.",
-      "summary_zh": "右翼极端分子仍然是对德国民主的最大威胁,据该国国内情报部门说,他们的人数去年大幅增加到58,700人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-      "title_zh": "卡塔尔说,",
-      "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T15:40:50+00:00",
-      "summary": "US envoys Jared Kushner and Steve Witkoff took part at the first round of talks with Iran in Switzerland",
-      "summary_zh": "美国特使贾里德·库什纳和史蒂夫·维特克夫参加了在瑞士同伊朗的第一轮会谈."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Supreme Court's birthright ruling is major blow to Trump",
-      "title_zh": "最高法院对天生权利的裁决是特朗普的重大打击",
-      "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T14:37:54+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Senegalese MPs move to clip presidential powers as tensions mount",
-      "title_zh": "随着紧张局势的加剧,塞内加尔议员开始削减总统权力。",
-      "link": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T14:35:03+00:00",
-      "summary": "Protesters accuse the ruling party of using the reforms to shift power away from the presidency",
-      "summary_zh": "抗议者指责执政党利用改革转移权力,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-      "title_zh": "乌克兰摩纳哥寡头在被炸弹炸后被追捕",
-      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T13:22:15+00:00",
-      "summary": "The front of a residential building in Monaco was damaged in the blast",
-      "summary_zh": "摩纳哥一幢住宅楼的正面在爆炸中被损坏"
     },
     {
       "source": "BBC News",
@@ -286,42 +376,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "title_zh": "余震令许多委内瑞拉人神经受损,",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T04:21:58+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
-      "title_zh": "愤怒的委内瑞拉人指责政府对地震反应的疏忽",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T03:53:48+00:00",
-      "summary": "Deilisbeth Herreira's two teenage daughters were at home when the earthquakes hit",
-      "summary_zh": "地震发生时 Deilisbeth Herreira的两个十几岁的女儿在家"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why $20 durians are now being sold at half price - or given away for free",
       "title_zh": "为何20块榴弹花现在以半价出售,",
       "link": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-29T23:17:19+00:00",
       "summary": "Durian prices have plunged because of oversupply",
       "summary_zh": "因为供过于求,杜里安的价格下跌了"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "title_zh": "\"不许动!\" 委内瑞拉救援人员倾听幸存者的声音,",
-      "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-29T21:19:28+00:00",
-      "summary": "Zuly Marín does not believe she will find her niece and brother-in-law alive",
-      "summary_zh": "Zuly Marín不相信她会发现她的侄女和姐夫还活着"
     },
     {
       "source": "BBC News",
