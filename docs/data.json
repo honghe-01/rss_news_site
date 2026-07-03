@@ -1,57 +1,287 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-02T23:21:44+00:00",
-  "count": 39,
+  "generated_at": "2026-07-03T23:18:23+00:00",
+  "count": 50,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "テスラ 欧州や中国で需要回復か ガソリン価格高騰も追い風に",
-      "title_zh": "欧洲和中国的特斯拉需求恢复或汽油价格过高",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167681000.html",
-      "published_at": "2026-07-02T21:55:34+00:00",
-      "summary": "アメリカのEV＝電気自動車メーカー「テスラ」は、先月までの3か月間の世界での新車販売台数を発表し、前の年の同じ時期より24.9％増えました。中東情勢によるガソリン価格の高騰などがEVの需要の拡大につな…",
-      "summary_zh": "美国QQ-电动车辆制造商特斯拉宣布了前三个月世界新车销量,比上年同期销量24.9%. 由于中东局势导致QQ价格上涨,导致需求扩大."
+      "title": "日英伊共同開発の次期戦闘機 合弁企業と契約延長 開発本格化へ",
+      "title_zh": "日英合资共同开发.",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168621000.html",
+      "published_at": "2026-07-03T22:15:58+00:00",
+      "summary": "日本とイギリス、イタリアが共同で開発する次期戦闘機をめぐり、3か国でつくる国際機関は設計などを担う合弁企業との契約を来年末まで延長しました。イギリスの財政難による計画への影響も懸念されていましたが、今…",
+      "summary_zh": "我们延长了与一家合资公司的合同,该公司负责设计等等。 我担心英国财政困难对计划的影响 但现在..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "アメリカ建国250年 トランプ大統領実績強調 政治利用批判も",
+      "title_zh": "250多岁的特朗普总统... ...强调波兰使用批评",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168551000.html",
+      "published_at": "2026-07-03T22:13:19+00:00",
+      "summary": "アメリカは4日、建国250年の節目となる独立記念日を迎えます。全米各地で記念の行事が行われ祝賀ムードが広がる一方、トランプ大統領が一連の行事を政治利用しているという批判の声も相次いでいて、アメリカで進…",
+      "summary_zh": "美国庆祝建国250周年独立日. 在美国各地都会举行纪念活动,而\"逗号\"的传播,也有人批评特朗普总统使用一系列活动. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "九州北部と山口県 きょう夕方にかけ 線状降水帯発生のおそれ",
+      "title_zh": "北九州和山口县",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168601000.html",
+      "published_at": "2026-07-03T22:11:11+00:00",
+      "summary": "梅雨前線の活動が活発になる影響で、西日本を中心に大雨となる見込みで、特に九州北部と山口県では、4日夕方にかけて線状降水帯が発生するおそれがあります。気象庁は、土砂災害に厳重に警戒するとともに低い土地の…",
+      "summary_zh": "由于降水线活动的影响,预计以西日本为主会降下暴雨. 特别是在九州北部和山口省,晚间有可能有线性降水区. 气象局为地势低洼,对土壤和沙地灾害有严格的预警. ."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
-      "title_zh": "在刚果民主共和国开始埃博拉治疗试验",
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "title_zh": "在临时停尸房发现委内瑞拉的地震受害者",
+      "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T21:00:53+00:00",
+      "summary": "Families face long waits at a port facility transformed into a morgue in La Guaira",
+      "summary_zh": "家人在La Guaira的港口设施里等待了很长时间。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イラン ハメネイ師の葬儀準備進む 各国の要人も次々に到着",
+      "title_zh": "伊朗哈梅尼的葬礼准备",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168431000.html",
+      "published_at": "2026-07-03T20:33:36+00:00",
+      "summary": "殺害されたイランの前の最高指導者、ハメネイ師の葬儀が始まるのを前に、首都テヘランには参列する外国の要人が次々に到着し、複数のイランメディアは中東の各国や中国などおよそ100か国から要人などが訪れている…",
+      "summary_zh": "在遇害的伊朗最高领导人葬礼前,出席首都德黑兰的外国需要,以及来自中东和中国等约100个国家的多家伊朗媒体. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "猛暑のフランス エアコン設置めぐり政策論争にも発展",
+      "title_zh": "在法国空调安装的争议中发展起来的",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168511000.html",
+      "published_at": "2026-07-03T19:56:25+00:00",
+      "summary": "ヨーロッパは、この夏、記録的な熱波に見舞われていますが、エアコンの普及率が24％にとどまるフランスでは、設置の是非が政策論争にも発展しています。",
+      "summary_zh": "欧洲是今年夏天创纪录的热浪,但在空调的传播率为24%的法国,安装也在政策争议中发展."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "熊本豪雨から6年 安心して住み続けられる環境づくり課題",
+      "title_zh": "熊本暴雨6年后",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168161000.html",
+      "published_at": "2026-07-03T19:51:01+00:00",
+      "summary": "災害関連死を含め67人が犠牲となり、今も2人の行方が分かっていない熊本豪雨から4日で6年です。被災した地域で人口減少が一段と進む中、安心して住み続けられる環境づくりが大きな課題となっています。",
+      "summary_zh": "有67人被牺牲,其中包括与灾害有关的死亡,距熊本暴雨有6年时间,至今还没有两人知道. 随着灾区人口进一步减少,创造一个能够继续和平相处的环境已成为一个重大问题。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "南米ペルー大統領選 フジモリ元大統領長女ケイコ氏勝利宣言",
+      "title_zh": "Keiko先生,南美洲秘鲁总统藤森前总统",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168561000.html",
+      "published_at": "2026-07-03T19:27:10+00:00",
+      "summary": "南米ペルーで先月行われた大統領選挙の決選投票について選挙管理当局は3日、フジモリ元大統領の長女のケイコ・フジモリ氏が当選したと正式に発表し、ケイコ氏は勝利を宣言しました。",
+      "summary_zh": "第三日,上月在秘鲁举行的总统选举选举投票的选举管理机构,南美正式宣布由藤森前主席藤森开子先生取胜."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran begins public mourning for Ayatollah killed in February",
+      "title_zh": "伊朗开始公开哀悼2月被杀害的阿亚图拉。",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T19:03:45+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "title_zh": "面对俄国的威胁,",
+      "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T16:41:00+00:00",
+      "summary": "Polish and Lithuanian forces carried out a joint military exercise in late June",
+      "summary_zh": "波兰和立陶宛部队于6月底进行了联合军事演习"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
+      "title_zh": "祖玛给南非的\"中指\",",
+      "link": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T16:39:00+00:00",
+      "summary": "Jacob Zuma has reportedly said he wants to stand for election again",
+      "summary_zh": "据报道Jacob Zuma说他想再次参选"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
+      "title_zh": "香港书商Lam Wing-kee死于70岁",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T16:31:40+00:00",
+      "summary": "Bookseller Lam Wing-kee marches during a protest in Hong Kong to demand authorities scrap a proposed extradition bill with China. Photo: March 2019.",
+      "summary_zh": "Bookseller Lam Wing-kee在香港抗议时游行, 图片:2019年3月."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "title_zh": "乌克兰嫌犯在摩纳哥炸弹袭击后被警方追捕,",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T15:20:57+00:00",
+      "summary": "Interpol released an image of 39-year-old Anastasiia Berezovska",
+      "summary_zh": "国际刑警发布了39岁的Anastasiia Berezovska的照片"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "title_zh": "在印度,",
+      "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T15:01:27+00:00",
+      "summary": "Warning: This story contains descriptions of abuse",
+      "summary_zh": "警告: 这个故事包含了虐待的描述"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "German row over plan for workers to need sick note on first day of illness",
+      "title_zh": "德国一行计划 工人生病第一天需要病纸",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T14:56:30+00:00",
+      "summary": "Chancellor Friedrich Merz said the number of sick days in Germany was \"too high\" (generic photo)",
+      "summary_zh": "总理弗里德里希·默兹说,德国的病日数\"太高\"(相片)."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US withdraws troops from Nigeria after Islamic State mission",
+      "title_zh": "美国在伊斯兰国执行任务后从尼日利亚撤军",
+      "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T14:00:50+00:00",
+      "summary": "The US said the operation had \"significantly degraded\" IS leadership in Nigeria",
+      "summary_zh": "美国说这次行动在尼日利亚的IS领导地位\"严重退化\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
+      "title_zh": "在土耳其镇压埃尔多安和伊斯兰教时,",
+      "link": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T12:28:43+00:00",
+      "summary": "Deniz Göktaş is seen as one of Turkey's most popular stand-up comics",
+      "summary_zh": "Deniz Göktaş被视为土耳其最受欢迎的站立漫画之一。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nasa launches mission to save falling space telescope",
+      "title_zh": "Nasa发射飞行任务,以挽救坠落的空间望远镜",
+      "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T10:28:17+00:00",
+      "summary": "Artist's impression of the Swift observatory which was built to study the cosmos",
+      "summary_zh": "艺术家对斯威夫特天文台的印象 是用来研究宇宙的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "title_zh": "法国记录了2,025起热浪高峰时的多发死亡事件,",
+      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T10:23:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ebola treatments trial begins in DR Congo",
+      "title_zh": "埃博拉治疗试验在刚果开始",
       "link": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-02T21:21:36+00:00",
-      "summary": "The current outbreak of Ebola in the DRC and Uganda began in May",
-      "summary_zh": "刚果民主共和国和乌干达目前爆发的埃博拉疫情始于5月"
+      "published_at": "2026-07-03T10:11:14+00:00",
+      "summary": "The current outbreak of Ebola in DR Congo began in May",
+      "summary_zh": "目前刚果的埃博拉疫情始于5月"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "プロ野球 西武 長谷川信哉 左手骨折で登録抹消 交流戦MVP",
-      "title_zh": "田川信也为了取消注册而左手骨折",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167571000.html",
-      "published_at": "2026-07-02T21:16:14+00:00",
-      "summary": "プロ野球の西武で交流戦のMVP＝最優秀選手を獲得するなどチームを支えてきた長谷川信哉選手が、1日の試合の打撃で左手を痛めて骨折と診断され、出場選手登録を外れました。",
-      "summary_zh": "曾入选球队的长谷川信谷,如在职业棒球的塞布(Seibu)中以入球取胜的MVP等被打入了季后赛中被左手打出被打出骨折的地盘."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
+      "title_zh": "在巴基斯坦,",
+      "link": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T09:56:57+00:00",
+      "summary": "At least 32 people were killed and 16 others injured after an overcrowded passenger bus plunged into a ravine in south-western Pakistan.",
+      "summary_zh": "在巴基斯坦西南部一辆拥挤不堪的客车被撞入峡谷后,至少32人被炸死,16人受伤."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ダウ平均株価 最高値を更新 FRBの利上げ観測後退で",
-      "title_zh": "Dow平均股价 更新最高值 由FRB 增益观察再收",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167731000.html",
-      "published_at": "2026-07-02T21:09:57+00:00",
-      "summary": "2日のニューヨーク株式市場ではアメリカのFRB＝連邦準備制度理事会が早期の利上げに踏み切るとの観測が後退したことで買い注文が広がり、ダウ平均株価は前日から600ドル近く値上がりして最高値を更新しました…",
-      "summary_zh": "纽约股票市场第二日,美国FRB=联邦储备系统董事会由于观察显示其步入了早期利息的衰退而扩充了定购单,道家的平均股价也从前一天增加到了600美元并更新了最高. ."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
+      "title_zh": "叙利亚国家媒体说,",
+      "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T06:42:14+00:00",
+      "summary": "The bombing was the deadliest in Damascus since a suicide attack on a church in June 2025",
+      "summary_zh": "爆炸是大马士革自2025年6月 一起对教堂的自杀式袭击以来 最致命的一次"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "28人犠牲 熱海土石流から5年 復興遅れ避難生活続ける住民も",
-      "title_zh": "28人牺牲了5年 从田米道石路",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
-      "published_at": "2026-07-02T21:02:18+00:00",
-      "summary": "静岡県熱海市で28人が犠牲になった大規模な土石流から3日で5年です。被災地では河川や道路の整備といった復興事業が当初の計画より2年遅れ、今も避難生活を続ける住民がいて、地域の再建が課題となっています。…",
-      "summary_zh": "距静冈县阿特米市28人所牺牲的大石流已相去5年. 恢复和公路养护等重建项目从最初计划起拖延了两年,现在仍有居民继续撤离,而当地重建是一个挑战. . . . . . . ."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "title_zh": "委内瑞拉地震幸存者在8天后活生生地撤离",
+      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T06:38:45+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
+      "title_zh": "俄国对基辅的\"最大规模\"攻击至少杀死了30人",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-03T04:41:05+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What will guests wear to Taylor Swift's wedding?",
+      "title_zh": "客人在泰勒斯威夫特的婚礼上穿什么?",
+      "link": "https://www.bbc.co.uk/news/articles/c75ykv0k1pzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-02T23:24:15+00:00",
+      "summary": "As rumors swirl about her imminent New York City nuptials, megastar Taylor Swift - a master at controlling her public image - has kept any details under wraps.",
+      "summary_zh": "巨星泰勒·斯威夫特是控制她公众形象的大师,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "title_zh": "在霍尔穆兹海峡,英国广播公司发现被扣押的船舶和鲨鱼渔民不安地返回",
+      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-02T23:15:22+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "After 250 years the American Dream is surviving, but only just",
+      "title_zh": "\"美国梦\"在250年后存活了下来 但只是",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-02T23:14:29+00:00",
+      "summary": "After 250 years the American Dream is surviving, but only just",
+      "summary_zh": "\"美国梦\"在250年后存活了下来 但只是"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A mayor in Japan announced her maternity leave - and got the whole country talking",
+      "title_zh": "日本一位市长宣布休产假,",
+      "link": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-02T22:00:11+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -66,42 +296,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 27",
-      "title_zh": "俄国对基辅的\"最大规模\"攻击至少杀死了27人",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-02T20:18:14+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中国当局に拘束された香港の書店の元店長 台湾で死去",
-      "title_zh": "香港书店前店主被中国当局捆绑后 在台湾去世",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167701000.html",
-      "published_at": "2026-07-02T20:06:47+00:00",
-      "summary": "香港で中国共産党に批判的な本を販売する書店の店長を務め、中国当局に長期間、拘束された林栄基さんが拠点を移した台湾で亡くなりました。台湾の頼清徳総統はSNSに「林さんが残した勇気は消えることはない」と投…",
-      "summary_zh": "曾是书店主厨,向香港中华民国党卖批判性书籍的林相平先生在台湾逝世,长期将基地转移给中国当局. \" 林先生留下的* 不会消失 \""
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Killers of British couple in South Africa sentenced to life",
       "title_zh": "南非英国夫妇被判处死刑的凶手",
       "link": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-02T18:43:07+00:00",
       "summary": "The couple were killed in South Africa in 2018",
       "summary_zh": "两人于2018年在南非被害"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-      "title_zh": "叙利亚国家媒体称,",
-      "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-02T17:56:18+00:00",
-      "summary": "The bombing was the deadliest in Damascus since a suicide attack on a church in June 2025",
-      "summary_zh": "爆炸是大马士革自2025年6月 一起对教堂的自杀式袭击以来 最致命的一次"
     },
     {
       "source": "BBC News",
@@ -116,42 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ryanair warns of 'queue chaos' from new EU border system",
-      "title_zh": "Ryanair警告欧盟新边境系统的“秩序混乱”",
-      "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-02T17:17:36+00:00",
-      "summary": "Ryanair and the boss of Berlin Airport have warned of severe disruption to summer travel because of the new digital EU border check system.",
-      "summary_zh": "Ryanair和柏林机场的老板警告说,由于新的数字化的欧盟边境检查系统,暑假出行受到严重干扰."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "title_zh": "委内瑞拉地震幸存者在8天后活生生地撤离",
-      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-02T16:11:24+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths",
       "title_zh": "埃塞俄比亚城镇的居民在狂犬病死后被迫杀死了数百只自己的狗",
       "link": "https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-02T15:13:29+00:00",
       "summary": "In most cases, unvaccinated dogs cannot survive rabies (file photo)",
       "summary_zh": "在大多数情况下,未接种疫苗的狗无法活过狂犬病(档案照片)"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "サッカー日本代表 今後は監督の人選が焦点に",
-      "title_zh": "日本国家足球队.",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167691000.html",
-      "published_at": "2026-07-02T15:05:23+00:00",
-      "summary": "サッカー日本代表はワールドカップ北中米大会の戦いを終え、森保一監督の2期目が区切りを迎えました。今後は監督の人選が焦点となります。",
-      "summary_zh": "日本足球队继世界杯北美和中美洲之战后,第二次被德乙主教练森喜一. 今后将集中选拔董事."
     },
     {
       "source": "BBC News",
@@ -192,16 +362,6 @@
       "published_at": "2026-07-02T12:37:02+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東京 小学校火事 電気ストーブは音楽教諭の私物 私服など干す",
-      "title_zh": "东京小学火电炉是音乐教师的个人服装等.",
-      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167441000.html",
-      "published_at": "2026-07-02T12:12:16+00:00",
-      "summary": "東京 北区の小学校で児童や教職員合わせて11人が重軽傷を負った火事について、2日夜、区と学校が会見を開き、火元とみられる音楽準備室に音楽教諭の私物の電気ストーブなどがあり、教諭が私服を干していたことを…",
-      "summary_zh": "东京北九地有11名儿童和员工,讲述了有严重出血的火灾,两昼夜,病房和学校开会,音乐准备室被看做是起火了,有一个音乐老师的私人电炉,老师正在干我的衣服. ."
     },
     {
       "source": "BBC News",
@@ -336,60 +496,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US blocks long-term renewal of North American trade deal",
-      "title_zh": "美国街区 北美贸易长期续约",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-01T18:56:36+00:00",
-      "summary": "US President Donald Trump's administration declined to renew the free-trade agreement",
-      "summary_zh": "美国总统唐纳德·特朗普政府拒绝延长自由贸易协定"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukrainian charged in Germany over Nord Stream blasts",
-      "title_zh": "乌克兰人因北流爆炸在德国充电",
-      "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-01T18:19:32+00:00",
-      "summary": "A gas leak at sea after the attacks",
-      "summary_zh": "袭击后海上有气体泄漏"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
       "title_zh": "北京有架飞机撞上塔楼 但中国没说发生了什么",
       "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-06-30T23:24:05+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Americans react to Supreme Court upholding birthright citizenship",
-      "title_zh": "美国人对最高法院维护出生权公民权的反应",
-      "link": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T19:36:51+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Canadians share hopes and wishes for America's 250th birthday",
-      "title_zh": "加拿大人对美国250岁生日抱有同样的希望和祝愿",
-      "link": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T12:21:38+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why are South Korean fans so angry at their football coach?",
-      "title_zh": "韩国球迷为何对足球教练如此愤怒?.",
-      "link": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-30T08:26:11+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     }
