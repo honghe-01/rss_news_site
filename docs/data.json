@@ -1,147 +1,297 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-05T23:16:54+00:00",
-  "count": 31,
+  "generated_at": "2026-07-06T23:22:29+00:00",
+  "count": 33,
   "items": [
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "群馬 伊勢崎 住宅で6歳の長女と3歳の長男死亡 父親を逮捕",
-      "title_zh": "冈玛·岩崎6岁 三岁长子",
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169611000.html",
-      "published_at": "2026-07-05T23:05:44+00:00",
-      "summary": "群馬県伊勢崎市の住宅で6歳の長女と3歳の長男が死亡しているのが見つかり、警察は、このうち長女を殺害した疑いで42歳の父親を逮捕しました。長男の殺害もほのめかしているということで、警察が詳しいいきさつを…",
-      "summary_zh": "警方逮捕42岁父亲涉嫌杀害长女. 这是因为杀死一个美人也是在欢呼 所以警察知道..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "サッカーW杯 ノルウェーがブラジルに勝って初の準々決勝進出",
-      "title_zh": "足球杯 挪威夺得巴西首个半决赛冠军",
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169621000.html",
-      "published_at": "2026-07-05T23:03:55+00:00",
-      "summary": "サッカーワールドカップ北中米大会のベスト8をかけた決勝トーナメント2回戦、ブラジル 対 ノルウェーは、ノルウェーがエースのハーランド選手が2得点を挙げる活躍で2対1で勝ち、初めての準々決勝進出を果たし…",
-      "summary_zh": "将举办足球世界杯中北美和中美联赛最佳8场决赛的两场决赛,巴西对阵挪威的比赛由王牌哈兰德以2比1取胜."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ベネズエラ地震 死者3000人超 住宅・インフラ被害6兆円近くに",
-      "title_zh": "委内瑞拉地震3 000多人死亡 住房和基础设施损失近6万亿日元",
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169651000.html",
-      "published_at": "2026-07-05T23:03:02+00:00",
-      "summary": "南米ベネズエラで先月発生したマグニチュード7を超える地震でベネズエラ政府は死者の数が3000人を超えたと発表しました。さらに増える可能性が指摘されているほか、住宅を失った人が1万7000人余りに上り、…",
-      "summary_zh": "委内瑞拉政府宣布本次地震死亡人数已超过3000人, 注意到有进一步停放的可能,失去房屋的一万七千多人,......"
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why a Diljit Dosanjh film vanished from streaming after two days",
+      "title_zh": "为什么一个Diljit Dosanjh的电影在两天后消失了?",
+      "link": "https://www.bbc.co.uk/news/articles/cly99z1w4gdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T22:06:29+00:00",
+      "summary": "Diljit Dosanjh plays human rights activist Jaswant Singh Khalra in Satluj",
+      "summary_zh": "Diljit Dosanjh在萨特卢日饰演人权活动家Jaswant Singh Khalra"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-      "title_zh": "超级台风\"巴维\"让美国太平洋岛国遭遇了巨大的风潮",
-      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T21:39:12+00:00",
-      "summary": "Stores boarded up with plywood are seen as super typhoon Bavi approaches Guam",
-      "summary_zh": "贴有胶合板的仓库被视为超级台风巴维逼近关岛"
+      "title": "Can China repeat its EV success with robotaxis?",
+      "title_zh": "中国能否用机器人轴来重复EV成功?.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T22:01:07+00:00",
+      "summary": "Chinese companies are testing out robotaxis in several Chinese cities",
+      "summary_zh": "中国公司正在中国多个城市测试机器人轴"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出",
-      "title_zh": "大阪胜东进入世界首个半决赛",
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169581000.html",
-      "published_at": "2026-07-05T21:17:11+00:00",
-      "summary": "テニスの四大大会、ウィンブルドン選手権の女子シングルス4回戦で大坂なおみ選手が世界ランキング1位のサバレンカ選手にセットカウント2対0のストレートで勝って準々決勝に進みました。",
-      "summary_zh": "纳奥米·大阪在Wumbledon锦标赛女子单打第4轮比赛中以2比0平平平平平平分,获得世界排名第1名."
+      "title": "ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し",
+      "title_zh": "道家的平均股价是最高的 买回半导体,有AI的预期",
+      "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html",
+      "published_at": "2026-07-06T21:40:55+00:00",
+      "summary": "連休明け6日のニューヨーク株式市場ではAI関連の銘柄を買い戻す動きが出て、ダウ平均株価は前の営業日と比べて150ドル余り値上がりし、終値は初めて5万3000ドル台に乗せました。2営業日連続の最高値更新…",
+      "summary_zh": "在连续6天放假的纽约股市,购买了AI相关符号,道平均股价与上个营业日相比上涨到150美元,最终价值为53000美元. 更新最高..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "九州北部で非常に激しい雨が降るおそれ 土砂災害に厳重警戒を",
-      "title_zh": "九州北部的雨量非常大",
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169491000.html",
-      "published_at": "2026-07-05T20:56:56+00:00",
-      "summary": "活発な梅雨前線の影響で、九州北部では5日線状降水帯が発生するなど大雨となり、6日も非常に激しい雨が降るおそれがあります。これまでの雨で各地で地盤が緩んでいるため、土砂災害に厳重な警戒が必要です。",
-      "summary_zh": "由于雨季有活泼的降水,成为了九州北部5天瀑布区等地的暴雨,可能降下很强的雨量达6天. 由于至今由于降下雨水,各地地势松散,因此需要严防泥沙灾害."
+      "title": "NBA八村 クリッパーズと“２年契約に合意”米複数メディア",
+      "title_zh": "NBA Yamura Criにs和“两年协议协议协议”",
+      "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170491000.html",
+      "published_at": "2026-07-06T21:37:53+00:00",
+      "summary": "NBA＝アメリカプロバスケットボールで、レイカーズからフリーエージェントとなっていた八村塁選手が、クリッパーズとの2年契約に合意したとアメリカの複数のメディアが伝えました。",
+      "summary_zh": "NBA-U.S.媒体报道说,Yamura先生是来自雷彻斯的自由代理人,他同意与克利珀斯签订一份为期两年的合同."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ",
-      "title_zh": "*** 政府党党聚会",
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169481000.html",
-      "published_at": "2026-07-05T20:06:05+00:00",
-      "summary": "国会の会期末が来週に迫る中、与党は皇族数の確保に向けた皇室典範改正案の会期内成立を目指し、早期に審議入りさせたい考えです。",
-      "summary_zh": "随着一九六三年末期接近下一周,该党旨在建立一九六三年皇帝修正年,以确保皇帝人数."
+      "title": "台風9号 非常に強い勢力で10日以降 沖縄に接近する可能性",
+      "title_zh": "第9号 10天后 强力冲击冲绳",
+      "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170321000.html",
+      "published_at": "2026-07-06T21:14:58+00:00",
+      "summary": "大型で猛烈な台風9号は、今週の10日・金曜日から11日・土曜日ごろにかけて非常に強い勢力で沖縄県に接近する可能性があり、最新の情報を確認するようにしてください。また、7日は西日本を中心に気温が上がる見…",
+      "summary_zh": "从本周的10日,星期五,11日和星期六开始,大型而密集的\"九号\"(\"九号\")会以非常强大的力量影响冲绳,所以请检查最新消息. 此外,气温主要在西部上升. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "title_zh": "乌克兰警告说,在基辅地区有23人被击毙。",
+      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T21:02:37+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "滋賀県知事選 現職の三日月大造氏が新人3人抑え4回目の当選",
-      "title_zh": "由滋贺县县长选取.",
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015167281000.html",
-      "published_at": "2026-07-05T19:47:47+00:00",
-      "summary": "5日投票が行われた滋賀県知事選挙は、現職の三日月大造氏（55）が3人の新人を抑えて4回目の当選を果たしました。",
-      "summary_zh": "世嘉县县长选举 第5天投票,戴相美相先生(55人)以压制三名新人的方式获得第4名."
+      "title": "参議院 法案審議再開へ 衆議院では与野党対立続く",
+      "title_zh": "访问众议院恢复法律诉讼",
+      "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170351000.html",
+      "published_at": "2026-07-06T20:45:52+00:00",
+      "summary": "国会では、参議院で与党側が予算委員会の集中審議などの開催に応じたことを受けて、7日から法案審議が再開されます。一方、衆議院では、皇族数の確保に向けた皇室典範改正案の審議入りなどをめぐって対立が続いてい…",
+      "summary_zh": "在国会中,党将在接到会议按照预算委员会的会议进行后7天恢复对法案的审议. 另一方面,在众议院,对抗继续进入对帝国修正案提案的审议."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 FIFA会長に再検討求めるも「指示はせず」",
+      "title_zh": "川普总统向国际足联主席反思,",
+      "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170451000.html",
+      "published_at": "2026-07-06T20:35:30+00:00",
+      "summary": "サッカーワールドカップ北中米大会で、アメリカ代表の選手がレッドカードで退場になったものの次の試合の出場停止が猶予されたことをめぐり、アメリカのトランプ大統領はFIFA＝国際サッカー連盟の会長に電話し、…",
+      "summary_zh": "在北美和中美足球世界杯联赛中,美国代表球员被迫停止下一场比赛,但美国总统特朗普称FIFA=为国际足球联合会会长. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ハマス ガザ地区の行政当局解散と発表も和平計画進展は不透明",
+      "title_zh": "哈马斯加沙地区行政当局的孤立和介绍",
+      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015170241000.html",
+      "published_at": "2026-07-06T19:58:23+00:00",
+      "summary": "パレスチナのガザ地区を実効支配するイスラム組織ハマスは、みずからが運営するガザ地区の行政当局を解散したと発表しました。ただ和平計画に盛り込まれている武装解除には言及しておらず、計画の進展につながるかは…",
+      "summary_zh": "哈马斯是一个强调加沙地区的伊斯兰组织,它宣布从米苏解散了加沙地区的行政当局。 然而,它并没有提到\"瓦平计划\"所包括的武器的取消,并导致计划的进展."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+      "title_zh": "尼安德特人和现在的人类 在土耳其山洞中进行文化交流或发现",
+      "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
+      "published_at": "2026-07-06T19:56:23+00:00",
+      "summary": "トルコ南部の洞窟で、ネアンデルタール人と、現在の人類、ホモ・サピエンスの間に文化的な交流があった可能性を示す貝が見つかったと、京都大学などの研究グループが発表しました。",
+      "summary_zh": "在土耳其南部的洞穴中,有外壳显示尼安德特人和现在的人类和同为萨平斯的文化交流的可能性."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump thanks Fifa for spending USA striker's ban",
-      "title_zh": "特朗普感谢菲法花掉美国罢工者的禁令",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T19:36:11+00:00",
-      "summary": "Folarin Balogun has scored three goals for co-hosts United States at this World Cup",
-      "summary_zh": "福拉林·巴洛贡在本届世界杯上为联合东道主美国打入了三球"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
-      "title_zh": "八架从在曼哈顿河\"硬着陆\"的 海上飞机上救出",
-      "link": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T18:35:23+00:00",
-      "summary": "At least eight people have been rescued from a seaplane that landed in New York City's East River, authorities say.",
-      "summary_zh": "当局说,至少有8人从一架降落在纽约市东江的海平面上被救出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
-      "title_zh": "三角洲飞机在芝加哥降落时被烟火击中",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T18:18:40+00:00",
-      "summary": "The incident happened while the plane was preparing to land in Chicago (file image)",
-      "summary_zh": "事件发生在飞机准备降落芝加哥时(档案影像)"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "title_zh": "伊朗最高领导人因高级官员出席Ayatollah葬礼而缺席",
-      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T17:58:01+00:00",
-      "summary": "Iran's Supreme Leader Mojtaba Khamenei was conspicuously absent from his father's funeral, as senior regime figures joined thousands paying their respects to the late ayatollah on Sunday.",
-      "summary_zh": "伊朗最高领导人莫伊塔巴·哈梅内伊显然缺席了父亲的葬礼,因为高级政权人物在星期天与数千人一起向已故阿亚图拉致敬。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-      "title_zh": "观看:Lyse Doucet在德黑兰前最高领导人葬礼上讲述情感和政治",
-      "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T17:54:47+00:00",
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "title_zh": "特朗普证实他要求菲法审查巴洛贡禁令",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T19:06:34+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "title_zh": "尼日利亚说,两名南非国民在南非遭到反移民攻击后被杀害。",
-      "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T17:30:45+00:00",
-      "summary": "Anti-migrant sentiment has been rising in South Africa",
-      "summary_zh": "南非的反移民情绪不断上升"
+      "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+      "title_zh": "查理·柯克的家人 出席涉嫌谋杀他的审讯",
+      "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T19:06:26+00:00",
+      "summary": "Charlie Kirk's parents, Robert W. Kirk and Kathryn Kirk, arrive at a Utah courthouse on 6 May 2026",
+      "summary_zh": "查理·柯克的父母罗伯特·W·柯克和凯瑟琳·柯克于2026年5月6日抵达犹他州的一个法院."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "title_zh": "大批民众涌入德黑兰街头,",
+      "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T18:50:44+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
+      "title_zh": "1 000多名被捕者是全球人口贩运镇压的一部分",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T17:24:31+00:00",
+      "summary": "Brazilian authorities carried out patrols along open-border areas",
+      "summary_zh": "巴西当局在边境地区巡逻"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "title_zh": "奥地利法院判定前叙利亚情报主管犯有酷刑和性虐待罪",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T17:22:38+00:00",
+      "summary": "Khaled al-H. (C) was head of Syria's ​General Intelligence Directorate in Raqqa from 2011 until 2013.",
+      "summary_zh": "Khaled al-H.(C)从2011年到2013年在拉卡担任叙利亚情报总局局长."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
+      "title_zh": "超级台风\"巴维\"袭击了美国太平洋岛国",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T16:44:54+00:00",
+      "summary": "Bavi comes after Guam and the Northern Mariana Islands were hit by another super typhoon in April",
+      "summary_zh": "巴维是继关岛和北马里亚纳群岛 于4月被另一场超级台风袭击之后"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'It's a very sad day' - Mexican fans react to loss to England",
+      "title_zh": "\"这是一个非常悲伤的一天\" - 墨西哥球迷对输给英国的反应",
+      "link": "https://www.bbc.co.uk/news/videos/cn5999n95epo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T16:43:51+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+      "title_zh": "伊朗希望全世界都能看到:",
+      "link": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T16:23:44+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+      "title_zh": "斯里兰卡监狱骚乱造成26人死亡,100多人受伤",
+      "link": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T14:19:26+00:00",
+      "summary": "Riots at a prison in western Sri Lanka have killed 26 people, seven of them guards, and injured more than 100.",
+      "summary_zh": "斯里兰卡西部一所监狱的骚乱已造成26人死亡,其中7名是警卫,100多人受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "title_zh": "法国南部的野火 迫使一万人撤离",
+      "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T13:08:23+00:00",
+      "summary": "Thousands of people have been evacuated from towns and villages in the French Pyrenees region due to a wildfire",
+      "summary_zh": "法国比利牛斯大区有上千人因野火被从城镇和村庄疏散"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
+      "title_zh": "观察:俄罗斯袭击基辅住宅大楼出洞",
+      "link": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T13:07:23+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Is this a breakthrough moment for soccer in the US?",
+      "title_zh": "这是美国足球的突破时刻吗?",
+      "link": "https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T11:19:47+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
+      "title_zh": "观察:为什么澳大利亚总理为\"不当\"的Kylie评论道歉?",
+      "link": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T10:00:08+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Girl trapped in Venezuela quake 'survived on ketchup and cheese'",
+      "title_zh": "被困在委内瑞拉的女孩 震撼\"活在番茄酱和起司上\"",
+      "link": "https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T07:17:57+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
+      "title_zh": "为何乌克兰打击被吞并的克里米亚,",
+      "link": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T06:00:05+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+      "title_zh": "\"我吃了番茄酱和起司\" 委内瑞拉女孩被困在地震瓦砾下32小时",
+      "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T05:04:28+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thousands of forgotten WW1 soldiers recognised for first time",
+      "title_zh": "数以千计被遗忘的一战士兵 第一次被认出来",
+      "link": "https://www.bbc.co.uk/news/articles/cgqjpqjgxzgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T05:04:06+00:00",
+      "summary": "Some 1.4 million people from the subcontinent – now India, Pakistan and Bangladesh – served in the British Indian Army in WW1",
+      "summary_zh": "来自次大陆的大约140万人 — — 现为印度、巴基斯坦和孟加拉国 — — 在一战中在英属印度军队服役。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia space agency has found 'likely source' of mystery space balls",
+      "title_zh": "澳大利亚航天局发现了神秘太空球的\"可能来源\"",
+      "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T02:49:15+00:00",
+      "summary": "Queensland authorities warned local residents that the spheres could be \"potentially hazardous objects\"",
+      "summary_zh": "昆士兰州当局警告当地居民,这些球场可能是\"潜在的危险物体\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+      "title_zh": "澳大利亚总理对Kylie Minogue的评论表示歉意。",
+      "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T01:46:29+00:00",
+      "summary": "Australian PM Anthony Albanese (left) apologised after remarks he made about Kylie Minogue were labelled 'disrespectful'",
+      "summary_zh": "澳大利亚总理Anthony Albanese(左翼)道歉,"
     },
     {
       "source": "BBC News",
@@ -149,167 +299,37 @@
       "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
       "title_zh": "从\"美丽的夜晚\"到\"世界最伟大的宿醉\" 客人们对泰勒和特拉维斯的婚礼的反应",
       "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T15:48:20+00:00",
-      "summary": "It's been two days since Taylor Swift's wedding to Travis Kelce, and some of their superstar friends have started giving us tantalising glimpses into what it was like.",
-      "summary_zh": "泰勒斯·斯威夫特与特拉维斯·凯尔斯的婚礼已经两天了,他们的一些超级明星朋友也开始给我们看一看它是什么样子。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
-      "title_zh": "千人欢迎佛得角足球运动员们出道",
-      "link": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T14:59:10+00:00",
-      "summary": "Thousands turned out to welcome the players home",
-      "summary_zh": "千人欢迎球员回家"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australia probes mystery space balls that washed up on beach",
-      "title_zh": "澳大利亚探险神秘太空球被冲上海滩",
-      "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T12:55:58+00:00",
-      "summary": "Queensland authorities warned local residents that the spheres could be \"potentially hazardous objects\"",
-      "summary_zh": "昆士兰州当局警告当地居民,这些球场可能是\"潜在的危险物体\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Scorching heat and delays: How Washington DC marked America 250",
-      "title_zh": "高温和延迟:华盛顿如何标记美国 250",
-      "link": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T07:19:08+00:00",
+      "published_at": "2026-07-06T01:20:47+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "title_zh": "中国地下教会人物晋明里出狱.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T05:58:21+00:00",
-      "summary": "Jin Mingri, founder of the Zion church, was detained in Beijing in October 2025",
-      "summary_zh": "锡安会创始人金明理于2025年10月在北京被拘."
+      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "title_zh": "Marine Le Pen的上诉判决:为什么这一时刻对法国很重要",
+      "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-05T23:31:04+00:00",
+      "summary": "Marine Le Pen has steered her National Rally to electoral success and now her fate is in the hands of the Paris appeal court",
+      "summary_zh": "Marine Le Pen带领她的国家竞选成功 现在她的命运掌握在巴黎上诉法院"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "How Iran's new regime is very different to what came before",
-      "title_zh": "伊朗的新政权如何与以前大相径庭",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T05:40:07+00:00",
-      "summary": "How Iran's new regime is very different to what came before",
-      "summary_zh": "伊朗的新政权如何与以前大相径庭"
+      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+      "title_zh": "假奢侈品全球中心 越南黑市崩溃",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-05T22:01:43+00:00",
+      "summary": "Bags from French designer label Louis Vuitton are among the most popular in the fake designer market",
+      "summary_zh": "法国设计师Louis Vuitton的口袋 在假设计师市场上最受欢迎"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-      "title_zh": "法国在巴拉圭的\"丑陋\"和\"黑暗艺术\"中幸存下来",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-05T01:53:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
-      "title_zh": "牛仔、战斗机和美国边境巡逻队-在特朗普的大招募运动中",
-      "link": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-04T23:33:27+00:00",
-      "summary": "Professional Bull Riders (PBR) staged an event at the US Air Force Academy in conjunction with Space Force to celebrate America 250",
-      "summary_zh": "职业斗牛士(PBR)在美国空军学院与太空部队联合举办活动以庆祝美国 250"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "title_zh": "命运的一瞬间 法国的勒庞决赛决定了她在总统竞选中的未来",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-04T23:17:24+00:00",
-      "summary": "Last year a Paris court found Marine Le Pen guilty of misusing European parliamentary funds, a case now before the court of appeal",
-      "summary_zh": "去年,巴黎法院判定Marine Le Pen犯有滥用欧洲议会资金罪,目前上诉法院正在审理此案。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
-      "title_zh": "伊朗前最高领导人的葬礼上,",
-      "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-04T21:46:43+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
-      "title_zh": "戴尔的裙子,亚当·桑德勒和一位荣誉人士: 关于泰勒和崔维斯的婚礼 我们知道的",
-      "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-04T17:51:04+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
-      "title_zh": "在德黑兰的英国广播公司 哀悼者聚集在前最高领袖的葬礼上",
-      "link": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-04T16:49:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
-      "title_zh": "看:泰勒·斯威夫特和特拉维斯·凯尔斯在纽约市结了婚——今天是这样展开的.",
-      "link": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-04T04:50:06+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-      "title_zh": "欧洲新气候在7个图表中",
-      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-04T00:57:05+00:00",
-      "summary": "Outdoor workers can be particularly vulnerable to the effects of extreme heat, such as that seen in the UK and Europe last month",
-      "summary_zh": "室外工人尤其容易受到极端高温的影响,例如上个月在英国和欧洲出现的情况。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
-      "title_zh": "肯尼亚农村大规模关闭学校背后是什么?",
-      "link": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-04T00:51:44+00:00",
-      "summary": "Kaliluni Primary School has lost most of its pupils over the last three years",
-      "summary_zh": "卡利卢尼小学在过去三年里失去了大部分学生"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cheers and applause as security guard rescued from rubble",
-      "title_zh": "欢呼和掌声,作为保安从废墟中解救出来",
-      "link": "https://www.bbc.co.uk/news/videos/c0lye4xr651o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-02T14:09:49+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Did this AI anti-drug video make drugs look appealing?",
-      "title_zh": "这段AI反毒品的视频让毒品看起来很有吸引力吗?",
-      "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-02T01:54:26+00:00",
+      "title": "Emotion and politics merge in Tehran at funeral of former supreme leader",
+      "title_zh": "在德黑兰前最高领导人的葬礼上,情感和政治融合",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-05T17:54:47+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     }
