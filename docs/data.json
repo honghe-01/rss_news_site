@@ -1,17 +1,217 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-09T23:36:09+00:00",
-  "count": 36,
+  "generated_at": "2026-07-10T23:13:20+00:00",
+  "count": 27,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "title_zh": "苹果公司起诉OpenAI公司 员工声称窃取商业秘密",
+      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T22:54:16+00:00",
+      "summary": "Apple CEO Tim cook is leaving the role later this year.",
+      "summary_zh": "苹果总裁 蒂姆·库克今年晚些时候将离开这个角色."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+      "title_zh": "DHS说,在休斯敦被ICE致命枪击的人不是预定目标",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T22:38:03+00:00",
+      "summary": "A family member holds an image of Lorenzo Salgado Araujo, who was fatally shot in Houston on Tuesday",
+      "summary_zh": "一名家庭成员持有洛伦佐·萨尔加多·阿劳霍(Lorenzo Salgado Araujo)的相片,他星期二在休斯敦被致命枪杀."
+    },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "カブス 鈴木誠也 15号ホームランなど2打点の活躍",
-      "title_zh": "Kabusu鈴木也ya 第15回\"家跑\"等.",
-      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173321000.html",
-      "published_at": "2026-07-09T23:23:12+00:00",
-      "summary": "大リーグ、カブスの鈴木誠也選手はオリオールズ戦で15号ホームランを打つなど3安打2打点と活躍しました。",
-      "summary_zh": "主要联赛球员铃木鈴木先生以2比3的入球表现活跃,例如打入奥运会第15个全垒打."
+      "title": "W杯 スペインが4大会ぶりベスト4へ ベルギーとの接戦制す",
+      "title_zh": "W Cup 西班牙入选比利时最佳4个联赛",
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174131000.html",
+      "published_at": "2026-07-10T22:29:09+00:00",
+      "summary": "サッカーワールドカップ北中米大会の準々決勝、スペイン 対 ベルギーは、スペインが2対1で接戦を制しました。",
+      "summary_zh": "西班牙对阵比利时,是世界杯足球赛中北美和中美洲联赛的半决赛,以2比1不敌比利时."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Inside the 30-hour dating retreat run by monks",
+      "title_zh": "看着:在僧侣们30小时的约会后退",
+      "link": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T22:02:42+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "【台風9号最新情報】沖縄 先島諸島に最接近 厳重警戒を",
+      "title_zh": "[第9号台风最新消息]冲绳同岛群岛发出最严重的警告.",
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174261000.html",
+      "published_at": "2026-07-10T21:57:16+00:00",
+      "summary": "大型で強い台風9号は、沖縄県の先島諸島にこの時間最も接近していて、沖縄県では非常に強い風が吹いています。先島諸島では11日夜にかけて長時間暴風となるほか、夕方にかけて線状降水帯が発生して災害の危険度が…",
+      "summary_zh": "大而强的\"九号\"是冲绳群岛最受欢迎的时代,而\"冲绳\"中强风吹起. 另一方面,11日晚间有长风暴. 晚上有灾难的危险..."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "title_zh": "只要在泰国发现有板球球的恐龙新品种",
+      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T21:30:57+00:00",
+      "summary": "Artwork by Pakorn Chotchaiyaporn",
+      "summary_zh": "Pakorn Chotchaiyaporn的艺术作品"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大谷翔平 左ひざ違和感でオールスター辞退 11日の先発登板回避",
+      "title_zh": "{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}Shohei Otani 离开膝盖不适 全明星辞职 {\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}提前11天爬上避让板",
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174271000.html",
+      "published_at": "2026-07-10T21:17:16+00:00",
+      "summary": "大リーグのドジャースは10日、大谷翔平選手について、先月痛めた左ひざに違和感があるとして、日本時間の11日に予定されていたダイヤモンドバックス戦での先発登板を回避するとともに、来週14日、日本時間15…",
+      "summary_zh": "戴-莱格赛事第10天,上月发作后左膝有不适之感,我将在原定于日本时间11日进行的\"钻石后背\"比赛中准备前身,而下14日日本时间15. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "西・東日本できょうも気温上昇 九州は危険な暑さのおそれ",
+      "title_zh": "日本西部和东部的气温上升. 九州是危险之地",
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174241000.html",
+      "published_at": "2026-07-10T21:10:05+00:00",
+      "summary": "11日も西日本と東日本で気温が上がり、九州では最高気温が38度と危険な暑さになるおそれがあります。エアコンを適切に使用し、こまめに水分を補給するなど、熱中症対策を徹底してください。",
+      "summary_zh": "西日本和东日本11日气温上升. 正确彻底地使用空调水合物."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "アメリカは状況次第で攻撃する考え イランは対抗する姿勢",
+      "title_zh": "美国对伊朗的Agg Vive思想",
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174231000.html",
+      "published_at": "2026-07-10T20:28:59+00:00",
+      "summary": "イラン情勢をめぐって、アメリカのトランプ大統領は、イランとの協議の継続に応じる姿勢を示しながらも、状況次第でイランを攻撃する考えを示唆しています。一方、イランのガリバフ議長は、アメリカから攻撃を受けれ…",
+      "summary_zh": "在伊朗局势下,美国总统特朗普建议根据情况攻击伊朗,同时表现出继续与伊朗讨论的姿态. 另一方面,伊朗主席加利巴夫从美国得到..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "皇室典範改正案 今国会で成立の見通し 参議院審議の日程調整へ",
+      "title_zh": "由帝国家庭机构修订,供本次会议确定",
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174171000.html",
+      "published_at": "2026-07-10T20:04:40+00:00",
+      "summary": "皇族数の確保に向けた皇室典範改正案は、10日、衆議院を通過し、今の国会で成立する見通しとなりました。国会の会期末が来週に迫る中、政府・与党が参議院での審議を急ぎ、会期内で確実に成立させたいとしているの…",
+      "summary_zh": "10日,通过众议院,预计国会将成立. 由于会议即将于下星期结束,各国政府和政党正试图由议会院作出决定,并确保会议期间建立."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Superb Sinner ends Djokovic's latest bid for history",
+      "title_zh": "Superb 罪人结束了乔科维奇的最新历史竞价",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T18:36:13+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+      "title_zh": "观察:摩纳哥的炸弹与乌克兰的枪击有什么联系?",
+      "link": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T18:04:39+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "title_zh": "乘客说,在瑞安机场的飞机上 人差点被吸出窗户",
+      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T16:42:24+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zulu king expresses regret after video captures tirade against his wife",
+      "title_zh": "Zulu King在影片中拍到他妻子的画面后表示遗憾。",
+      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T16:42:11+00:00",
+      "summary": "King Misuzulu's role within South Africa may only be ceremonial but he remains hugely influential",
+      "summary_zh": "弥祖鲁国王在南非的作用可能只是礼仪,但他仍然影响很大"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
+      "title_zh": "诺兰·威尔斯的家人要求美国青少年在出行后死亡的答案",
+      "link": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T15:50:49+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Boxy forms and odd lights: US declassifies more UFO files",
+      "title_zh": "箱形和奇光:美国将更多UFO文件解密",
+      "link": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T15:28:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
+      "title_zh": "矢山区宫子岛 第11天黎明-晚间",
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015174141000.html",
+      "published_at": "2026-07-10T14:51:42+00:00",
+      "summary": "沖縄県の宮古島地方と八重山地方では、11日明け方から夕方にかけて、線状降水帯が発生して、災害の危険度が急激に高まる可能性があり、気象庁が厳重に警戒するよう呼びかけています。",
+      "summary_zh": "在冲绳县的宫子町和横山地区,由于从11日拂晓到晚间出现一线性降水区,灾害的危险可能突然上升."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "title_zh": "西班牙南部的野火 造成至少12人死亡23人失踪",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T14:08:26+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "title_zh": "由于菲律宾有15人因滑坡而丧生,",
+      "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T13:53:11+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+      "title_zh": "我们用与陌生人互换的家 节省了六千英镑",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T08:26:00+00:00",
+      "summary": "The Vanderpumps on holiday",
+      "summary_zh": "渡假的范德普斯人"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China lands reusable rocket for first time, state media says",
+      "title_zh": "中国首次登陆可再使用火箭,",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T06:44:21+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -22,26 +222,6 @@
       "published_at": "2026-07-09T23:07:47+00:00",
       "summary": "American rapper Cardi B attends the Robert Wun Haute Couture Fall/Winter 2026/2027 show",
       "summary_zh": "美国说唱歌手Cardi B参加罗伯特·温·上克图雷·法尔/温特2026/2027节目"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "独首相 巡航ミサイル「トマホーク」取得で米政府と合意",
-      "title_zh": "与美国政府达成协议,获得托马霍克总理",
-      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173301000.html",
-      "published_at": "2026-07-09T23:07:22+00:00",
-      "summary": "ドイツのメルツ首相は、アメリカ製の巡航ミサイル「トマホーク」を取得し、国内に配備することでアメリカ政府と合意したと明らかにしました。トランプ大統領はヨーロッパ各国に対し、防衛力の強化を求めて圧力をかけ…",
-      "summary_zh": "德国总理梅尔茨通过获得\"托马霍克\"一艘船在美国所制造,同意了美国政府. 特朗普总统向欧洲国家施压,要求加强防御. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US and Iran trade attacks as Khamenei is buried",
-      "title_zh": "美国和伊朗的贸易攻击随着哈梅内伊被埋葬",
-      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T23:02:18+00:00",
-      "summary": "Two verified videos show damage to the control tower at a major port in the south-eastern Iranian city of Chabahar following US strikes",
-      "summary_zh": "经核实的两段录像显示,在美国袭击之后,伊朗东南部Chabahar市一主要港口的控制塔被损坏。"
     },
     {
       "source": "BBC News",
@@ -56,36 +236,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "We saved £6,000 on holidays by swapping homes with strangers",
-      "title_zh": "我们省了六千英镑的假期 和陌生人换了房子",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T23:00:38+00:00",
-      "summary": "The Vanderpump family on holiday in Denmark last year",
-      "summary_zh": "去年在丹麦度假的范德普克家族"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side",
-      "title_zh": "母亲并非都是温暖和模糊的:宝莱坞演员的戏剧更吸引了混乱的一面",
-      "link": "https://www.bbc.co.uk/news/articles/c04yxnlkdxzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T22:41:08+00:00",
-      "summary": "Belly of the Beast is adapted from the 2021 book by Bollywood actor Kalki Koechlin (second from left)",
-      "summary_zh": "\"野兽之Belly\"由宝莱坞演员克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "W杯 フランスがモロッコ破り準決勝進出 エムバペは8得点目",
-      "title_zh": "W Cup France 进入摩洛哥半决赛 M Bape 第8名",
-      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173311000.html",
-      "published_at": "2026-07-09T22:22:37+00:00",
-      "summary": "サッカーワールドカップ北中米大会の準々決勝、フランス対モロッコは、フランスのエムバペ選手の今大会トップに並ぶ8得点目のゴールなどで2対0で勝ち、1番乗りで準決勝進出を決めました。",
-      "summary_zh": "足球世界杯北美和中甲联赛以2比0不敌赛会头号种子,法国M巴佩球员以2比0不敌赛会头号种子."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "How an app in South Korea will let victims track their stalkers",
       "title_zh": "韩国的应用程序会让受害者跟踪跟踪跟踪者",
       "link": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss",
@@ -94,92 +244,12 @@
       "summary_zh": "此视频无法播放"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "台風9号 沖縄 先島諸島へ 暴風高波など厳重警戒 空の便欠航も",
-      "title_zh": "(原始内容存档于2018-07-21) (英语). hoon No.9 Sunchone To Be Into Beshima Islands.",
-      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173061000.html",
-      "published_at": "2026-07-09T21:53:37+00:00",
-      "summary": "大型で非常に強い台風9号が近づくため、沖縄県の先島諸島では、10日夕方ごろから暴風となり、11日にかけては一部の住宅が倒壊するような猛烈な風が吹くおそれがあります。また、11日にかけて雷を伴った猛烈な…",
-      "summary_zh": "由于大而非常强的\"正九号\"(\"正九号\")逼近,从十日傍晚左右起,冲绳县各岛屿都出现了一股狂风. 此外,这是... 与,在第11天..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米イラン攻撃応酬 ハメネイ師葬儀後の協議再開予断許さず",
-      "title_zh": "伊朗进攻 抵抗到葬礼后",
-      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015167661000.html",
-      "published_at": "2026-07-09T21:38:59+00:00",
-      "summary": "アメリカとイランとの間で再び攻撃の応酬となるなか、イランのアラグチ外相は周辺国の外相らと相次いで電話会談を行い、外交活動を活発化させています。イランでは国営メディアが9日、前の最高指導者、ハメネイ師の…",
-      "summary_zh": "伊朗的阿拉基外长们与周边国家的对外交流, 在伊朗,国家 - 媒体是9天,前领导人,..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大阪地検特捜部の特別公務員暴行陵虐事件 10日初公判",
-      "title_zh": "大阪地理学研究 (1999年)",
-      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173071000.html",
-      "published_at": "2026-07-09T21:31:46+00:00",
-      "summary": "大阪地検特捜部の取り調べで机をたたきながら「検察なめんなよ」などと迫り、罵倒し続けたなどとして、特別公務員暴行陵虐の罪に問われている検事の初公判が10日から大阪地方裁判所で始まります。",
-      "summary_zh": "大阪地方法院第一公共法院从10起至10起,是第一个受到\"特别公务员\"(Salence)质疑的公诉人,例如\"起诉-面条\",同时在调查\"大阪地理学\"(Geo-QQ Special Search)时担任案头."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "title_zh": "巴勒斯坦人哀悼在以色列罢工中丧生的加沙世界杯组织者",
-      "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T21:04:09+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "title_zh": "乌克兰特工被控谋杀摩纳哥炸弹嫌犯 改编故事",
-      "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T20:47:41+00:00",
-      "summary": "Security was tight inside the courtroom in Kyiv on Thursday",
-      "summary_zh": "星期四基辅法庭内部的安保很紧"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "What's next for Iran after the funeral of their late supreme leader?",
       "title_zh": "在他们已故最高领导人的葬礼后,",
       "link": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-09T20:16:13+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "皇室典範改正案 10日衆議院通過へ 中道は質疑を見極め判断",
-      "title_zh": "修改了皇上办公室,通过十院",
-      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173031000.html",
-      "published_at": "2026-07-09T20:10:59+00:00",
-      "summary": "皇族数の確保に向けた皇室典範改正案は10日、衆議院で質疑と採決が行われ与党と一部の野党の賛成多数で可決され参議院に送られる見通しです。衆議院で野党第1党の中道改革連合は質疑の内容を見極めて賛否を判断す…",
-      "summary_zh": "10日,皇帝的修道院将在众议院举行,并由各党派和多数议员通过议会。 党的第一中途岛改革联盟在众议院确定可疑的内容."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-      "title_zh": "前奥运会成员对反映池子破坏财产罪表示不认罪",
-      "link": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T17:01:15+00:00",
-      "summary": "Former Olympian David Hearn, left, has said he only touched a piece of liner already \"delaminated\"",
-      "summary_zh": "前奥运会选手大卫·赫恩(David Hearn, left)说,他只碰了一块已经\"抹去\"的衬垫"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "title_zh": "希腊F-16战斗机坠毁地 在繁忙的Zakynthos机场",
-      "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T16:15:10+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -196,170 +266,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Factory fire kills at least 28 in China's 'shoe capital'",
-      "title_zh": "工厂火灾在中国\"鞋之都\"造成至少28人死亡.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T15:14:35+00:00",
-      "summary": "A fire at a shoe factory in the south-eastern Chinese city of Jinjiang has killed at least 28 people, according to the state news agency.",
-      "summary_zh": "[永久失效連結] 中国东南晋江市一鞋厂起火,据国家新闻社报道已造成至少28人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-      "title_zh": "重新出击后,坐上美国后援的荷尔穆兹航道的石油、天然气和货轮大跌",
-      "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T14:41:54+00:00",
-      "summary": "Traffic through the Strait of Hormuz has fallen steeply after a series of tit-for-tat strikes by the US and Iran following an attack on three tankers earlier this week.",
-      "summary_zh": "本周早些时候,美国和伊朗对三艘油轮发动了攻击,经过霍尔穆兹海峡的交通急剧下降。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "title_zh": "民主党人格雷厄姆·普拉特纳(Graham Platner)在攻击指控后暂停美国参议院关键种族的竞选活动.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T14:37:19+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
-      "title_zh": "11岁被强奸并被谋杀后,印度邦的紧张局势爆发",
-      "link": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T11:09:17+00:00",
-      "summary": "A protest in Kolkata against the rape and murder of the 11-year-old in Baruipur",
-      "summary_zh": "在加尔各答就Baruipur发生的强奸和谋杀11岁儿童的事件举行抗议"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "title_zh": "国际法庭告诉英国广播公司苏丹战争罪调查的突破",
-      "link": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-09T08:49:45+00:00",
-      "summary": "Tens of thousands of people fled el-Fasher after the city was seized by the Rapid Support Forces (RSF)",
-      "summary_zh": "数万人被快速支援部队攻占后逃离法希尔"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
-      "title_zh": "这是\"初见之爱\" 他们收养的孩子。 然后他们被告知他可能是被贩卖的",
-      "link": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T23:31:53+00:00",
-      "summary": "Many of the babies have by now spent most of their lives in Singapore (Stock image of a family with toddler)",
-      "summary_zh": "许多婴儿在新加坡度过了大部分生活(一个有幼儿的家庭的斯托克形象)."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "title_zh": "财富的人工智能工人让旧金山的房价飙升",
-      "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T23:11:35+00:00",
-      "summary": "The top half of the house in the middle, a three-bedroom apartment, was on sale for almost $3m",
-      "summary_zh": "中间房子的上半部 一个三间房的公寓 卖了近三百万美元"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A country that made huge progress on measles now reports 120,000 cases",
-      "title_zh": "一个在麻疹方面取得巨大进展的国家现在报告了120 000起病例",
-      "link": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T22:03:05+00:00",
-      "summary": "Nearly 750 people, including baby Arafat pictured here, have died from measles in Bangladesh in the past four months",
-      "summary_zh": "在过去四个月里,孟加拉国有近750人死于麻疹,其中包括这里描述的阿拉法特婴儿。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
-      "title_zh": "贾斯汀·比伯加盟麦当娜,沙基拉和BTS出战菲法世界杯决赛半场.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T20:58:21+00:00",
-      "summary": "Justin Bieber has joined the star-studded list of half-time performers who will close out the 2026 World Cup in New York.",
-      "summary_zh": "贾斯汀·比伯已入选明星排行榜 半场表演者将结束纽约2026年世界杯."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-      "title_zh": "土耳其总统在纳托的星际礼物枪和弹药",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T20:40:11+00:00",
-      "summary": "Sir Keir's revolver has not been brought back to the UK",
-      "summary_zh": "Keir爵士的左轮手枪没有带回英国"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Arizona toddler found alive in morgue after being declared dead from drowning",
-      "title_zh": "亚利桑那小孩在被宣布溺死后 在停尸房里被发现还活着",
-      "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T20:18:13+00:00",
-      "summary": "A US toddler who was found unresponsive in an Arizona pool and declared dead was later discovered to be alive in the hospital's \"cold room\", a newly released police report shows.",
-      "summary_zh": "一名在亚利桑那州游泳池被发现无反应并被宣布死亡的美国幼童后来被发现在医院\"冷室\"活了下来,新出狱的警方报告显示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
       "title_zh": "观察:纳托酋长问纳托是否真的\"团结\"",
       "link": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-08T18:56:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-      "title_zh": "乌克兰获得生产爱国者导弹的许可证,特朗普说:",
-      "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T17:18:14+00:00",
-      "summary": "Zelensky confirmed in May that Ukraine had formally asked the US to authorise licensed production of Patriots",
-      "summary_zh": "Zelensky在5月证实,乌克兰已正式要求美国授权特许生产爱国者"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-      "title_zh": "两名13岁女孩在德国学校袭击中受重伤,",
-      "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T15:09:08+00:00",
-      "summary": "Police said the suspect was carrying a knife and a firearm",
-      "summary_zh": "警察说嫌犯带着刀和枪"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Gaza football fans watch World Cup from rubble",
-      "title_zh": "观察:加沙足球迷从瓦砾上看世界杯",
-      "link": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T07:26:49+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nato allies announce £37bn for new missile project",
-      "title_zh": "纳托盟宣布37bn英镑的新导弹计划",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-08T05:57:53+00:00",
-      "summary": "Yvette Cooper and Sir Keir Starmer arriving in Turkey on Tuesday",
-      "summary_zh": "伊维特·库珀和基尔·斯塔默爵士于星期二抵达土耳其"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
-      "title_zh": "新的录像显示,在查理·柯克开枪之前 据信是泰勒·罗宾逊",
-      "link": "https://www.bbc.co.uk/news/videos/cn59ne3vqeno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-07T20:20:24+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     }
