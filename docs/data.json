@@ -1,97 +1,267 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-11T23:08:45+00:00",
-  "count": 37,
+  "generated_at": "2026-07-12T23:07:58+00:00",
+  "count": 35,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "【速報中】W杯 ノルウェーが先制 イングランド追いつく 延長へ",
-      "title_zh": "W杯 挪威赴英国的前身",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015173741000.html",
-      "published_at": "2026-07-11T23:05:11+00:00",
-      "summary": "この記事は、現在リアルタイムで更新中です。",
-      "summary_zh": "此文章正在实时更新."
+      "title": "佐々木麟太郎はマーリンズが8巡目で指名 大リーグ・ドラフト",
+      "title_zh": "马林斯提名的八大联盟草案",
+      "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175361000.html",
+      "published_at": "2026-07-12T23:01:10+00:00",
+      "summary": "大リーグのドラフト会議で、スタンフォード大学の佐々木麟太郎選手がマーリンズに8巡目、全体235位で指名されました。佐々木選手は去年、プロ野球のドラフト会議でソフトバンクから1位指名を受けていて、進路が…",
+      "summary_zh": "斯坦福大学的Rintaro Sasaki先生在大联盟会议草案中被提名为马林斯第8名和第235名。 去年,佐佐木先生在职业棒球会议草案上被提名为第一名,课程是."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 27 killed in Bangkok bar fire",
+      "title_zh": "曼谷酒吧起火中至少27人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T22:57:20+00:00",
+      "summary": "A woman, whose older sister died in the fire at a bar in Bangkok, near the scene, in Thailand, on 13 July 2026.",
+      "summary_zh": "2026年7月13日,一名妇女,其姐姐被烧死在泰国曼谷一家酒吧的火灾中。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "タイ バンコクの飲食店で火災 AP通信“少なくとも27人が死亡”",
+      "title_zh": "“至少27人死亡”",
+      "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175291000.html",
+      "published_at": "2026-07-12T22:19:25+00:00",
+      "summary": "タイの首都バンコクにある飲食店で13日未明、大規模な火災があり、AP通信によりますとこれまでに少なくとも27人が死亡したということです。",
+      "summary_zh": "据说至少有27人死于泰国首都曼谷的餐厅."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "title_zh": "美国坚持霍尔木兹海峡是开放的,因为它与伊朗交换",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T22:17:40+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "アメリカ中央軍 “イランへの追加攻撃を開始した”",
+      "title_zh": "美国中央陆军“伊朗发动攻击”",
+      "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175301000.html",
+      "published_at": "2026-07-12T22:13:25+00:00",
+      "summary": "中東地域を管轄するアメリカ中央軍は12日、SNSへの投稿で、日本時間の13日6時、アメリカ東部時間の12日午後5時からイランへの追加攻撃を開始したと明らかにしました。 イランの革命防衛隊がホルムズ海峡…",
+      "summary_zh": "在对中东地区拥有管辖权的美国中央陆军第12天,SNS上的文章透露,它从美国东部时间12日晚上13点开始向伊朗发动了额外的进攻. 伊朗革命防卫团..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "金塊購入させる詐欺の手口 被害60億円で業界に協力要請",
+      "title_zh": "要求与该行业合作,赔偿6 000亿日元的损失",
+      "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175231000.html",
+      "published_at": "2026-07-12T22:08:50+00:00",
+      "summary": "金の価格が高騰する中、警察官になりすまし、「資産を調査する必要がある」などと言って金塊を購入させる手口の特殊詐欺が急増し、被害が年間60億円近くにのぼっていることから、警察庁は、金の取り引きの業界団体…",
+      "summary_zh": "随着黄金价格的上涨,警察往往成为一名警察,而\"需要调查资产\"等\"手买黄金\"等特别骗局正在紧急增加,而警察厅每年大约为6000亿日元."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "title_zh": "美国参议员和特朗普盟友Lindsey Graham死后,",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T22:08:07+00:00",
+      "summary": "Republican Senator Lindsey Graham, a close ally of US President Donald Trump, has died at the age of 71. He died on Saturday evening following a \"brief and sudden illness\", according to his office.",
+      "summary_zh": "美国总统唐纳德·特朗普的亲密盟友共和党参议员林西·格雷厄姆已逝世,享年71岁. 根据他的办公室,他于星期六晚间死于\"突然发作和突发疾病\"."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "南シナ海仲裁判断10年 14か国共同声明に中国が反論",
+      "title_zh": "中国造反派对南海仲裁判决14项联合声明",
+      "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175211000.html",
+      "published_at": "2026-07-12T21:18:57+00:00",
+      "summary": "南シナ海の領有権をめぐる中国の主張を退けた国際的な仲裁裁判の判断から10年となり、日本など14か国が中国に判断を順守するよう共同声明を出したことに対し、中国外務省は判断は「拘束力のない紙くずだ」などと…",
+      "summary_zh": "中国外务省表示,自国际仲裁审判判决\"中国对南海领事权的主张\"起10年中,日本等14个国家发表联合声明,遵守了中国的判决."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "西日本では連日の「危険な暑さ」予想 熱中症対策の徹底を",
+      "title_zh": "在西日本,“H&dous热量”预想的热量措施",
+      "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175321000.html",
+      "published_at": "2026-07-12T21:10:13+00:00",
+      "summary": "13日も西日本を中心に気温が上がり、九州では最高気温が38度と危険な暑さが予想されています。エアコンを適切に使い、こまめに水分補給するなど、熱中症対策を徹底してください。",
+      "summary_zh": "气温主要在西日本13日升高,九州最高气温为38度. 正确彻底地使用空调水合物."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ドジャース 大谷翔平 22号ホームラン 日米通算350号に到達",
+      "title_zh": "狗Shohei Otani 第22个家庭跑道达到350个",
+      "link": "http://www3.nhk.or.jp/news/html/20260713/k10015175311000.html",
+      "published_at": "2026-07-12T20:34:53+00:00",
+      "summary": "大リーグ、ドジャースの大谷翔平選手が12日、オールスターゲーム前最後の試合となるダイヤモンドバックス戦に1番・指名打者で先発出場し、1回の第1打席で初球を振り抜いて2試合ぶりとなる22号のソロホームラ…",
+      "summary_zh": "12日,奥塔尼·肖平出道,大贾斯出道后在\"钻石后卫\"比赛中先出道于全明星赛前,并出道于第一棒. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "title_zh": "Anthony Zurcher:从特朗普评论家到盟友 林西·格雷厄姆是马加时代的政治幸存者",
+      "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T19:42:26+00:00",
+      "summary": "Lindsey Graham, who has died aged 71, was a political survivor.",
+      "summary_zh": "已经去世的71岁的林西·格雷厄姆是一名政治幸存者."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "title_zh": "南非说,超过53 000名外国人在移民运动中被驱逐出境。",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T18:57:17+00:00",
+      "summary": "Protests have been held across South Africa as thousands demand that all undocumented migrants leave the country",
+      "summary_zh": "南非各地都举行抗议活动,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "title_zh": "前卡塔尔埃米尔谢赫·哈马德·本·哈利法·阿勒萨尼逝世,享年74岁",
+      "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T16:35:50+00:00",
+      "summary": "Sheikh Hamad during a two-day visit to Bulgaria as part of a European tour in 2009",
+      "summary_zh": "作为2009年欧洲巡演的一部分,谢赫·哈马德对保加利亚进行了为期两天的访问"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
+      "title_zh": "\"这个地貌是彻头彻尾的\": 在西班牙野火中心的一个村庄里",
+      "link": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T15:33:27+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "title_zh": "英国广播公司梵蒂冈记者David Willey93岁去世",
+      "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T15:22:52+00:00",
+      "summary": "David Willey with Pope John Paul II during a flight from Bulgaria to Rome in 2002",
+      "summary_zh": "大卫·威利与教宗约翰·保罗二世同在2002年从保加利亚飞往罗马的一架飞机上."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "title_zh": "在西班牙野火中被救出峡谷的英国夫妇被严重烧伤,",
+      "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T13:35:01+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "People flee as Russian strike hits near Ukraine coffee shop",
+      "title_zh": "俄国罢工时,",
+      "link": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T09:03:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "title_zh": "中国疏散了近两百万人 因为强台风会登陆",
+      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T07:39:45+00:00",
+      "summary": "Typhoon Bavi has passed through the coastal village of Diaocaocun in Zhejiang province",
+      "summary_zh": "台风\"巴维\"经过了浙江省丽水县海滨村."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "title_zh": "阿尔迪如何对待美国超市 和它的杏花黄油",
+      "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T05:00:15+00:00",
+      "summary": "Mary Porter shops at Aldi's new Manhattan location in New York City for the first time",
+      "summary_zh": "玛丽·波特在纽约市阿尔迪的新曼哈顿地点首度购物"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least two killed in Toronto street festival shooting",
+      "title_zh": "在多伦多街头节日的枪击中 至少有两人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T03:56:02+00:00",
+      "summary": "At least two people have been killed in gunfire at a street festival in Toronto.",
+      "summary_zh": "至少有两人在多伦多的街头节日被枪毙."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "title_zh": "印度的穆斯林法官在判决「牛头义警」后,",
+      "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-12T00:49:24+00:00",
+      "summary": "The abuse directed at Tabassum Khan attacks her religion and not the legal reasoning behind her judgment",
+      "summary_zh": "对Tabassum Khan的虐待攻击了她的宗教,而不是她判决背后的法律推理。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "title_zh": "T. Rex可能会成为有史以来最昂贵的化石 但对于科学家来说这是一个问题",
+      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-11T23:58:40+00:00",
+      "summary": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "summary_zh": "T. Rex可能会成为有史以来最昂贵的化石 但对于科学家来说这是一个问题"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How men with female surnames are standing up to ridicule in Kenya",
+      "title_zh": "在肯尼亚,有女性姓氏的男子是如何站出来嘲笑的",
+      "link": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-11T23:27:45+00:00",
+      "summary": "Simon Macharia Wangũi says he is proud to have chosen his mother's name as his surname",
+      "summary_zh": "西蒙·马查里亚·旺奎说,他很自豪地选择了母亲的名字作为他的姓"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "title_zh": "睾丸上的冰块和献出血液 - 传说出售给试图提升精子的人",
+      "link": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-11T23:27:31+00:00",
+      "summary": "Simon, 28, performs a multi-step routine in a bid to protect his fertility",
+      "summary_zh": "28岁的Simon 为了保护他的生育力"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "title_zh": "波兰总理为二战“乌克兰民族主义者种族灭绝”的受害者举行纪念仪式。",
+      "title_zh": "波兰总理为二战“乌克兰民族主义者种族灭绝”的受害者举行纪念会。",
       "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-11T21:56:52+00:00",
       "summary": "A commemorative ceremony was held on Saturday in Poland's capital Warsaw and other cities across the country",
-      "summary_zh": "星期六在波兰首都华沙和全国其他城市举行了纪念仪式"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "九州で危険な暑さ予想 熱中症対策を 北日本では発達した雨雲",
-      "title_zh": "日本北部的一片雨云",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174761000.html",
-      "published_at": "2026-07-11T21:47:26+00:00",
-      "summary": "12日も西日本を中心に気温が上がり、九州では最高気温が39度と危険な暑さが予想されていて、熱中症対策を徹底してください。一方、北日本では発達した雨雲がかかっていて、土砂災害に厳重な警戒が必要です。",
-      "summary_zh": "气温主要在西日本12日升高,预计九州最高气温为39度,所以请采取彻底措施防止热量10.ke. 另一方面,北日本发展出一片雨云,必须严防泥沙灾害."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "“イランに海峡開放宣言求める”米報道 モジタバ師は対決姿勢",
-      "title_zh": "\" 伊朗宣言 \" 。",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174741000.html",
-      "published_at": "2026-07-11T20:34:26+00:00",
-      "summary": "アメリカの複数のメディアは政府高官の話として、アメリカはイランに対し、ホルムズ海峡を開放し、船舶も攻撃しないとする声明を発表するよう求めていると伝えました。こうした中、イランの最高指導者モジタバ師は声…",
-      "summary_zh": "美国媒体作为政府官员的故事报道,美国呼吁伊朗释放霍尔姆斯·奥尔赫特号,并宣布该舰不攻击的声明. 这样,伊朗最好的领导人莫吉塔巴..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米大統領専用機めぐる報道で記者に召喚状 新聞社は非難",
-      "title_zh": "在只有美国总统的媒体上向媒体发出呼吁",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174731000.html",
-      "published_at": "2026-07-11T20:00:09+00:00",
-      "summary": "アメリカの有力紙ニューヨーク・タイムズは、トランプ大統領が使用する新たな大統領専用機に、ミサイル攻撃に対応する機能が備わっていないなどと報じた自社の記者に対し、連邦検事が、大陪審での証言を求める召喚状…",
-      "summary_zh": "美国主要报纸\"纽约时报\"召见其记者,报道称特朗普新专任总统的飞机尚未装备游戏攻击等."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "首都モスクワでもガソリン不足で行列 ロシア政府に危機感も",
-      "title_zh": "在首都莫斯科,",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174671000.html",
-      "published_at": "2026-07-11T19:54:27+00:00",
-      "summary": "ロシアではウクライナによる石油精製施設への攻撃でガソリンの供給不足が起きていて、首都モスクワでは人々から不満の声も出ています。エネルギー政策担当のロシアの副首相は「状況は依然として厳しい」と述べ、危機…",
-      "summary_zh": "在俄罗斯,由于乌克兰石油提炼设施受到攻击,供应不足,在首都莫斯科,人们抱怨。 俄罗斯负责能源政策的副总理表示,\"S配制仍然很严重\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "新型コロナ後遺症 体内のヘルペスウイルス活性化が原因か",
-      "title_zh": "是什么原因导致病毒在体内激活的?",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015173931000.html",
-      "published_at": "2026-07-11T19:51:54+00:00",
-      "summary": "新型コロナの後遺症とされるけん怠感などの症状は、体内に潜伏していた別のウイルスが新型コロナの感染によって活性化することで起きるとする研究成果を、東京慈恵会医科大学などのグループがまとめました。新しい治…",
-      "summary_zh": "疏忽等症状被认为是在新类型子宫之后,由东京吉凯医科大学等团体总结. 新泽西..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "台風9号 中国東部浙江省に上陸 警戒呼びかけ 各地で交通影響",
-      "title_zh": "第9号hoon 登陆中国 18省",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174711000.html",
-      "published_at": "2026-07-11T19:37:07+00:00",
-      "summary": "中国では、台風9号が日本時間の12日未明、東部・浙江省に上陸し、交通などに影響が出ていて、気象当局は警戒を呼びかけています。",
-      "summary_zh": "在中国,日本时间12日前所未见的\"九号七号炮\",登陆东方省与江省,交通发生,气象主管机构发出警告."
+      "summary_zh": "周六在波兰首都华沙和全国其他城市举行了纪念仪式."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iran supreme leader calls for revenge for father's killing",
-      "title_zh": "伊朗最高领导人呼吁为杀害父亲而复仇",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T19:30:36+00:00",
-      "summary": "Mojtaba Khamenei has not been seen in public since the conflict started in February",
-      "summary_zh": "莫伊塔巴·哈梅内伊自2月冲突开始以来没有公开出现过"
+      "title": "How a viral seal called Neil caused mayhem in Australia",
+      "title_zh": "一个叫做\"尼尔\"的病毒封印 如何在澳大利亚引发了混乱",
+      "link": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-11T21:19:05+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -101,17 +271,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-11T18:00:09+00:00",
       "summary": "Ro Khanna pictured during a visit to Turmus Ayya, near Ramallah in the occupied West Bank on Thursday",
-      "summary_zh": "Ro Khanna在星期四访问被占领西岸拉马拉附近的Turmus Ayya时所描绘的情况"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China's second typhoon in a week makes landfall",
-      "title_zh": "中国一周内第二次台风登陆",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T17:41:56+00:00",
-      "summary": "Japanese islands like Ishigaki have borne the brunt of Typhoon Bavi as it powers through the Pacific",
-      "summary_zh": "像石崎这样的日本岛屿 承受了台风巴维的重创 因为它在太平洋上的力量"
+      "summary_zh": "Ro Khanna星期四在访问被占领的西岸拉马拉附近的Turmus Ayya时所描绘的情况"
     },
     {
       "source": "BBC News",
@@ -121,17 +281,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-11T16:11:33+00:00",
       "summary": "Several New York Times journalists were summoned to testify under oath after they reported alleged security concerns involving President Donald Trump's new Air Force One plane, the US newspaper said.",
-      "summary_zh": "\"纽约时报\"的多位记者在报道唐纳德·特朗普总统的新空军一号飞机涉嫌安全隐患后,被传唤宣誓作证,美国报纸称."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "title_zh": "西班牙为控制其最致命的野火而战 至少12人阵亡",
-      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T15:03:45+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "数名\"纽约时报\"记者在报道美国报纸所报道的唐纳德·特朗普总统新一号空军飞机涉嫌安全隐患后被传唤宣誓作证."
     },
     {
       "source": "BBC News",
@@ -141,7 +291,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-11T14:47:47+00:00",
       "summary": "Adams featured in all three group games for South Africa at the World Cup",
-      "summary_zh": "亚当斯在世界杯上为南非举办的所有三场团体赛中都表现出色."
+      "summary_zh": "亚当斯在世界杯上为南非举办的所有三场团体赛中都表现出色"
     },
     {
       "source": "BBC News",
@@ -151,13 +301,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-11T14:19:34+00:00",
       "summary": "\"No teacher should die at work,\" said a banner at a recent protest in Oyo state",
-      "summary_zh": "最近在奥约州的抗议活动中,"
+      "summary_zh": "在奥约州最近抗议时,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-      "title_zh": "15名印度游客在越战中丧生",
+      "title_zh": "15名印度游客在越南因快艇翻船而丧生",
       "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-11T13:44:03+00:00",
       "summary": "Ambulances line up on a pier to help victims after a tourist vessel capsized off Phu Quoc island in southern Vietnam",
@@ -166,212 +316,42 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Landmark US housing bill becomes law despite Trump protest",
-      "title_zh": "尽管特朗普抗议,",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T13:35:09+00:00",
-      "summary": "President Donald Trump allowed landmark housing legislation to become law overnight on Friday without his signature.",
-      "summary_zh": "唐纳德·特朗普总统允许里程碑式的住房立法在星期五一夜之间成为法律,没有他的签名."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-      "title_zh": "美国向秘密哈瓦那综合症 受害者支付300万美元 由间谍报告",
-      "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T13:11:52+00:00",
-      "summary": "Symptoms of the intriguing illness were first reported by diplomats at the US embassy in Cuba in 2016",
-      "summary_zh": "2016年,美国驻古巴大使馆的外交官首次报告了令人惊奇的疾病症状。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
-      "title_zh": "\"我们逃过了西班牙的野火 但我们的朋友失去了生命\"",
+      "title_zh": "\"我们逃出西班牙野火, 但我们的朋友失去了他们的生命\"",
       "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-11T11:45:55+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Newly-released video shows Peter Falconio's killer questioned",
-      "title_zh": "新上映的视频显示 彼得·法尔科尼奥的凶手被问到",
+      "title_zh": "新上映的视频显示 彼得·法尔科尼奥的凶手被审问了",
       "link": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-11T08:35:33+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "title_zh": "只要在泰国发现了板球球 新的恐龙物种",
-      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T08:23:45+00:00",
-      "summary": "Artwork by Pakorn Chotchaiyaporn",
-      "summary_zh": "Pakorn Chottchaiyaporn的艺术作品"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australian killer's final police interview footage released",
-      "title_zh": "澳大利亚杀手最后的警方采访录像",
-      "link": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T08:00:27+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Will Trump Accounts deliver for American children?",
-      "title_zh": "特朗普账户会给美国儿童带来好处吗?.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T07:41:18+00:00",
-      "summary": "The launch of Trump Accounts, the new savings scheme aimed at encouraging investing among American children, was marked with an historic ringing of the Wall Street opening bell in the Oval Office this week.",
-      "summary_zh": "特朗普账户(Trump Accounts)的推出是旨在鼓励美国儿童投资的新储蓄计划,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Small plane crash in Bahamas kills 10 people",
-      "title_zh": "巴哈马小型飞机坠毁事件造成10人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T04:47:37+00:00",
-      "summary": "The Flamingo Air plane had taken off from Lynden Pindling International Airport",
-      "summary_zh": "火烈鸟飞机从林登平德林国际机场起飞"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "title_zh": "Meta 在数天后拖动新的 AI 图像特性",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T01:45:59+00:00",
-      "summary": "An AI-altered image generated using Muse Image",
-      "summary_zh": "使用 Muse 图像生成的 AI 修改图像"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
-      "title_zh": "在尼日利亚,假总统委员会的预算是多少?",
-      "link": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T00:46:15+00:00",
-      "summary": "Prince Adeniyi Adeyemi Matthew, PFIPC's director general, denies any wrongdoing",
-      "summary_zh": "Adeniyi Adeyemi Matthew亲王,PFIPC的总监,否认任何不当行为"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "title_zh": "在加拿大最大的牛仔赛上,开始的枪是在艾伯塔分离的战斗中发射的",
-      "link": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-11T00:00:42+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "title_zh": "来见见密码亿万富翁 打造一个有钱买票的世界",
+      "title_zh": "来见见地下亿万富翁 建立一个有钱买票的世界",
       "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-10T23:03:11+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "The photo that shows who's really on top in Le Pen's party",
-      "title_zh": "这张照片显示谁是真正的顶级 在勒庞的派对",
+      "title_zh": "照片显示谁真正在勒庞的派对上登顶",
       "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-10T23:02:59+00:00",
       "summary": "Many noted Bardella's muted enthusiasm when he appeared this week alongside Marine Le Pen",
-      "summary_zh": "很多人都注意到巴德拉本周和Marine Le Pen一起出现时, 他的热情微弱。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
-      "title_zh": "俄罗斯在乌克兰繁忙城市的学校、办公室和公交车上开火车",
-      "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-10T23:02:35+00:00",
-      "summary": "Russian attacks on Zaporizhzhia intensified dramatically in June",
-      "summary_zh": "6月,俄罗斯对Zaporizhzhia的袭击急剧加剧"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "title_zh": "苹果公司起诉OpenAI公司 员工声称窃取商业秘密",
-      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-10T22:54:16+00:00",
-      "summary": "Apple CEO Tim cook is leaving the role later this year.",
-      "summary_zh": "苹果总裁 蒂姆·库克今年晚些时候将离开这个角色."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "title_zh": "DHS说,在休斯敦被ICE致命枪击的人不是预定目标",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-10T22:38:03+00:00",
-      "summary": "A family member holds an image of Lorenzo Salgado Araujo, who was fatally shot in Houston on Tuesday",
-      "summary_zh": "一名家庭成员持有洛伦佐·萨尔加多·阿劳霍(Lorenzo Salgado Araujo)的照片,星期二在休斯顿被致命枪击身亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Inside the 30-hour dating retreat run by monks",
-      "title_zh": "看着:在僧侣们30小时的约会后退",
-      "link": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-10T22:02:42+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dating can be hard in South Korea - so the monks stepped in",
-      "title_zh": "约会在韩国很困难,所以僧侣走进来了",
-      "link": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-10T22:02:09+00:00",
-      "summary": "Dating can be hard in South Korea - so the monks stepped in",
-      "summary_zh": "约会在韩国很困难,所以僧侣走进来了"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
-      "title_zh": "以佛得角守门员Vozinha命名的新物种",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-10T19:30:06+00:00",
-      "summary": "Vozinha made seven saves against Spain to preserve a clean sheet",
-      "summary_zh": "Vozinha为了保住干净的床单 对西班牙省了七笔钱"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
-      "title_zh": "观察:摩纳哥的炸弹与乌克兰的枪击有什么联系?",
-      "link": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-10T18:04:39+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Boxy forms and odd lights: US declassifies more UFO files",
-      "title_zh": "箱形和奇数灯:美国解密更多UFO文件",
-      "link": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-10T15:28:17+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "很多人都注意到巴德拉本周和Marine Le Pen一起出现时,他很虚弱的热情"
     }
   ]
 }
