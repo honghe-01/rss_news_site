@@ -1,117 +1,347 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-15T23:11:58+00:00",
-  "count": 40,
+  "generated_at": "2026-07-16T23:10:37+00:00",
+  "count": 37,
   "items": [
     {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Argentina face fine for Falklands banner in semi-final win",
-      "title_zh": "阿根廷在半决赛中面对Falks的旗帜",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T22:49:47+00:00",
-      "summary": "Argentina's players display their controversial banner after their win over England",
-      "summary_zh": "阿根廷的球员在战胜了英格兰后 展示出有争议的旗帜"
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "JR外房線 大原～安房鴨川で運転見合わせ 大雨の影響",
+      "title_zh": "JR外房線:",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178911000.html",
+      "published_at": "2026-07-16T22:25:59+00:00",
+      "summary": "JR東日本によりますと、外房線は大雨の影響で千葉県いすみ市の大原駅と鴨川市の安房鴨川駅の間の上下線で運転を見合わせています。",
+      "summary_zh": "根据日本东部JR,外浴线由位于千叶县池田市的奥哈拉站和阿波加莫川站之间的上下行线运营."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US military to start testosterone testing, Hegseth says",
-      "title_zh": "美国军方开始测试睾丸激素 Hegseth说",
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "title_zh": "德克萨斯州洪水中至少有一人死亡 同一地段的露营者死亡",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T22:08:13+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "北日本～西日本で猛暑日予想 関東甲信など大気の状態不安定",
+      "title_zh": "北日本-西日本热天气预报 干藤克信等.",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178661000.html",
+      "published_at": "2026-07-16T22:04:30+00:00",
+      "summary": "17日も、北日本から西日本の各地で猛暑日が予想され、熱中症への対策を徹底するようにしてください。 一方、湿った空気が流れ込んでいる影響で、関東甲信などでは大気の状態が不安定になっていて、局地的に非常に…",
+      "summary_zh": "17日,预计从北日本到西日本会迎来炎热的日子,所以请务必采取防热中风的措施. 另一方面,由于湿气流出的影响,相克克申等地的大气状态不稳定,当地非常. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno",
+      "title_zh": "我想我们一起变老了 乐队领袖说,他的女朋友死于泰国酒吧地狱",
+      "link": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T22:01:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
+      "title_zh": "随着热浪的袭来,欧洲人转而喜欢中国的空调",
+      "link": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T22:01:29+00:00",
+      "summary": "Recent heatwaves have brought Europe to a turning point with air-conditioners",
+      "summary_zh": "最近的热浪使欧洲进入了空调器的转折点"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "title_zh": "伊朗的爆炸报道是美国发射的新一波打击",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T21:44:37+00:00",
+      "summary": "The US launched strikes for the sixth night in a row, as fighting over control of the Strait of Hormuz continues",
+      "summary_zh": "美国连续第6个晚上发动了攻击,因为争夺霍尔木兹海峡控制权的战斗仍在继续"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+      "title_zh": "JD Vance指责以色列“操纵”美国舆论,",
+      "link": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T21:22:09+00:00",
+      "summary": "US Vice-President JD Vance has accused some members of the Israeli government of trying to influence Americans' opinions to prolong the Iran war.",
+      "summary_zh": "美国副总统JD·万斯(JD Vance)指责以色列政府的一些成员试图影响美国人的观点来延长伊朗战争."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "米が6日連続攻撃 イランはバーブルマンデブ海峡封鎖を要請か",
+      "title_zh": "伊朗请求Burbleman Deb ohnit链条",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178751000.html",
+      "published_at": "2026-07-16T21:11:51+00:00",
+      "summary": "アメリカ軍が連日、イランへの攻撃を続けるなか、ロイター通信は、イランがイエメンの反政府組織フーシ派に対し、ホルムズ海峡の代替ルートにもなっているバーブルマンデブ海峡を封鎖する態勢をとるよう要請したと報…",
+      "summary_zh": "当美国军队继续攻击伊朗时,路透社报道伊朗曾要求伊朗将布尔布尔曼德(Burblemandeb)-克特(Burblemandeb)-克特(英语:Burblemandeb-134it),这也是霍尔姆斯-克特(英语:Holms-134it)的替代路线,去向反政府胡什. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ニチレイ きょう業務再開予定 物流網正常化できるかが焦点",
+      "title_zh": "Nichirei 计划恢复业务 关注后勤网络能否正常化",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178791000.html",
+      "published_at": "2026-07-16T21:04:24+00:00",
+      "summary": "サイバー攻撃によるシステム障害が続く冷凍食品大手の「ニチレイ」は17日、安全が確認された倉庫や工場から業務を再開させることにしています。他社の製品の保管や運搬も手がけるなど、物流面で主要な役割を果たし…",
+      "summary_zh": "Nichirei是一家主要制冷食品公司,由于网络攻击导致系统故障,17日正在重新开放安全仓库和商业设施. 它在物流中起主要作用,如储存和运输其他产品."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "イギリス労働党 新党首にバーナム氏選出へ 新首相就任の見込み",
+      "title_zh": "日本新首相被任命为英国副总统",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178741000.html",
+      "published_at": "2026-07-16T20:27:56+00:00",
+      "summary": "イギリスの与党・労働党の党首選挙は16日、立候補の受け付けが締め切られ、公式の発表はありませんが、イギリスメディアによりますと、マンチェスターの前市長で下院議員のバーナム氏が、無投票で新たな党首に選出…",
+      "summary_zh": "在英国党和QQ党选举的16日,QQ候选人将被关闭,没有正式公告,但被英国媒体,众议院议员伯纳姆先生被选为新人. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kris Jenner's mother Mary Jo dies aged 91",
+      "title_zh": "Kris Jenner的母亲Mary Jo去世91岁",
+      "link": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T20:24:54+00:00",
+      "summary": "Mary Jo Campbell, the mother of the Kardashian-Jenner \"momager\" Kris Jenner, has died aged 91.",
+      "summary_zh": "卡尔达希安-让纳\"莫马格\"克丽斯·延纳的母亲玛丽·乔·坎贝尔已经去世,享年91岁."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "消費税減税 隔たり埋まる見通し立たず 与党に首相判断必要の声",
+      "title_zh": "减少消费税",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178701000.html",
+      "published_at": "2026-07-16T20:09:27+00:00",
+      "summary": "超党派の「国民会議」の実務者会議は、給付付き税額控除をめぐり、所得に連動した給付を行う新たな制度を2029年度に導入することで大筋合意しました。一方、食料品の消費税減税については、各党の主張の隔たりが…",
+      "summary_zh": "超级党集团全国会议从业人员会议已同意在2029财政年度实行新的制度,以提高与收入挂钩的报酬。 另一方面,杂货品的消费减税分为各方的债权."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "皇室典範改正案成立へ 与党 会期延長し「副首都」法案成立図る",
+      "title_zh": "为了建立帝国办公室拟议修正案,该党延长了期限并制定了\"子首都\"法案.",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178691000.html",
+      "published_at": "2026-07-16T20:08:01+00:00",
+      "summary": "国会は17日に会期末を迎え、皇族数の確保に向けた皇室典範の改正案などが成立する見通しです。与党は、会期を延長し「副首都」構想の関連法案など残された法案の確実な成立を図る方針です。",
+      "summary_zh": "17日,国会在会后召开. 党政是延长会议会期,制定\"副首都\"理念相关议案等剩余议案的政策."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
+      "title_zh": "随着烟雾向南扩散,数百起加拿大野火引发美国空气质量警报",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T19:58:55+00:00",
+      "summary": "More than 800 wildfires are burning across Canada, with air quality alerts now extending south into multiple US states.",
+      "summary_zh": "800多起野火正在加拿大各地燃烧,空气质量警报现在向南延伸到多个美国州。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "title_zh": "白宫电讯快讯运营商被控从特朗普的演讲下注100美元",
+      "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T18:52:35+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: What to know as Genoa bridge disaster trial ends",
+      "title_zh": "观察:热那亚桥灾难审判结束时该知道什么",
+      "link": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T18:52:01+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fifa 'assessing match reports' over Falklands banner",
+      "title_zh": "Fifa在Falks旗下\"评估匹配报告\"",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T18:44:43+00:00",
+      "summary": "Argentina have previously been fined for holding a banner with the same message",
+      "summary_zh": "阿根廷以前曾因持有同样信息而遭罚款"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "title_zh": "意大利官员因热那亚桥梁灾难被判入狱 43人丧生",
+      "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T17:22:31+00:00",
+      "summary": "Relatives of the victims hugged each other after the verdicts were read out",
+      "summary_zh": "受害人的亲属在判决宣读后互相拥抱"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
+      "title_zh": "乌干达释放埃博拉病人后,",
+      "link": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T17:15:32+00:00",
+      "summary": "Uganda introduced tightened screening and other protocols as soon as the Ebola outbreak was declared in May",
+      "summary_zh": "一旦5月宣布埃博拉疫情爆发,乌干达就加强筛查和其他程序"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+      "title_zh": "Zelensky罢免了大众国防部长 引发了乌克兰的抗议",
+      "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T16:36:21+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Children among dead at Algeria foster care home blaze - president",
+      "title_zh": "阿尔及利亚寄养之家死亡儿童-总统",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T16:14:45+00:00",
+      "summary": "The fire service arrived at the scene in the early hours",
+      "summary_zh": "消防队凌晨抵达现场"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What to know about the Canadian and US wildfires and their impact",
+      "title_zh": "加拿大和美国的野火及其影响",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T16:08:40+00:00",
+      "summary": "Wildfire smoke is expected to continue affecting air quality in Toronto and US cities throughout the week",
+      "summary_zh": "野火会继续影响多伦多和美国城市的空气质量"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "JD Vance says Welsh castle was 'coolest thing I've ever seen'",
+      "title_zh": "JD Vance说威尔士城堡是我见过的最酷的东西",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8g5z83glo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T16:08:28+00:00",
+      "summary": "The US Vice-President says his visit to Wales encouraged him and his wife to \"get off the beaten path\"",
+      "summary_zh": "美国副总统说,他访问威尔士鼓励他和他的妻子\"走出被打的道路\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "title_zh": "被控在波兰为俄罗斯进行破坏行动的青少年",
+      "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T13:08:28+00:00",
+      "summary": "Poland's Internal Security Agency (ABW) said the aim of the sabotage was to provoke tensions with Ukraine (file pic)",
+      "summary_zh": "波兰国内安全局(ABW)说,破坏的目的是挑起与乌克兰的紧张关系(file pic)."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting",
+      "title_zh": "\"命运的真正奇迹\"——梅西和拉明·亚马尔不可思议的首次相会.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T12:52:08+00:00",
+      "summary": "Lionel Messi and Lamine Yamal's history goes back almost two decades",
+      "summary_zh": "莱昂内尔·梅西和拉明·亚马尔的历史可以追溯到近20年"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+      "title_zh": "被怀疑开始破坏法国森林的志愿消防员",
+      "link": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T12:44:26+00:00",
+      "summary": "Some 10% of the historic forest south of Paris has been burned",
+      "summary_zh": "巴黎南部约10%的历史森林被烧毁"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US strikes first tanker with missiles as it enforces new blockade",
+      "title_zh": "美国首先用导弹攻击油轮,因为它实施了新的封锁",
+      "link": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T12:09:26+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned",
+      "title_zh": "对加纳身份证的欺诈镇压规定必须进行数字检查----禁止复印",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n9q538z2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T11:18:51+00:00",
+      "summary": "The Ghana national ID card contains biometric data such as fingerprints, iris scans as well as a photograph and signature",
+      "summary_zh": "加纳国家身份证载有指纹、虹膜扫描等生物鉴别数据以及照片和签名。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Chip giant TSMC pledges another $100bn to expand US production",
+      "title_zh": "芯片巨型TSMC为扩大美国产量又承诺了100美元",
+      "link": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T10:23:00+00:00",
+      "summary": "TSMC boss CC Wei (left) poses with Nvidia's Jensen Huang. TSMC is a key chip supplier for Nvidia",
+      "summary_zh": "TSMC老板CC Wei (左)与Nvidia的Jensen Huang相接相接. TSMC是Nvidia的关键芯片供应商"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "title_zh": "美国军方开始检查睾丸酮缺乏症,赫克塞斯说",
       "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T22:46:02+00:00",
-      "summary": "Defense Secretary Pete Hegseth has announced the US military will start testing testosterone levels of service members in an initiative aimed at \"restoring and optimizing\" their capabilities.",
-      "summary_zh": "国防部长Pete Hegseth宣布,美国军方将在一项旨在“恢复和优化”其能力的倡议中开始测试睾丸酮含量。"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "W杯 アルゼンチン 2大会連続決勝へ メッシ2アシスト【速報中】",
-      "title_zh": "W Cup Argentinian 第2次连续决赛 第2名",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177261000.html",
-      "published_at": "2026-07-15T22:35:16+00:00",
-      "summary": "この記事は、現在リアルタイムで更新中です。",
-      "summary_zh": "此条正被实时更新."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
-      "title_zh": "日本86岁首届诺贝尔生理学和医学奖",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178081000.html",
-      "published_at": "2026-07-15T22:28:37+00:00",
-      "summary": "体を守る免疫の一種「抗体」ができる仕組みを解明し1987年に日本人で初めてノーベル生理学・医学賞を受賞したアメリカのマサチューセッツ工科大学教授の利根川進さんが、今月11日亡くなりました。86歳でした…",
-      "summary_zh": "2017年,马萨诸塞理工大学教授通内川博士首次以日语获得诺贝尔生理学和医学奖,本月11日逝世. 86岁"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米軍 イランに5日連続の攻撃 イラン「国益を最後まで守る」",
-      "title_zh": "美军伊朗连续第5天出击伊朗\"保卫国家利益到底\".",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178061000.html",
-      "published_at": "2026-07-15T22:24:15+00:00",
-      "summary": "アメリカ軍は日本時間の16日朝からイランに対する追加攻撃を開始したと発表しました。一方、イラン側はガリバフ議長が国民向けの声明で「国の安全と国益を最後まで守る覚悟を持たなければならない」と呼びかけ、対…",
-      "summary_zh": "[永久失效連結] 美军宣布于日本时间16日清晨开始再出击伊朗. 另一方面,伊朗方面说,加利巴夫主席必须在一份声明中有保护国家安全和利益的雄心壮志. ."
+      "published_at": "2026-07-16T09:10:38+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "title_zh": "当特朗普警告德黑兰“最好的行为”时,",
-      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T21:55:04+00:00",
-      "summary": "Iran's state-run broadcaster reported that the country's army had carried out attacks on US targets",
-      "summary_zh": "伊朗国营广播公司报道,该国军队已经对美国目标发动了攻击."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "きょうも各地で気温上昇 猛烈な暑さに 熱中症対策の徹底を",
-      "title_zh": "气温升起于出世.",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177931000.html",
-      "published_at": "2026-07-15T21:44:16+00:00",
-      "summary": "16日も北日本から西日本の各地で気温が上がり、猛烈な暑さとなる見込みです。エアコンを適切に使い、こまめに水分補給するなど、熱中症対策を徹底してください。一方、北海道を中心に発達した雨雲がかかり、土砂災…",
-      "summary_zh": "预计气温由日本北向西上升,会发热. 正确彻底地使用空调水合物. 另一方面也出现了以北海道为主发展而成的雨云,土壤和沙地灾害. ."
+      "title": "Actor Sam Neill died from pneumonia, agent confirms",
+      "title_zh": "演员山姆·尼尔死于肺炎 特工证实",
+      "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T04:28:22+00:00",
+      "summary": "Neill had been treated for cancer in recent years, but was 'cancer free' at the time of his death, his family said",
+      "summary_zh": "Neill近年来曾因癌症接受治疗,但是在他去世时是\"癌症免费的\",他的家人说"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-      "title_zh": "俄军袭击造成14人死亡,乌克兰击落黑海油轮",
-      "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T21:21:19+00:00",
-      "summary": "Russian attacks overnight into Wednesday hit a residential building in Odesa",
-      "summary_zh": "俄罗斯袭击周三 袭击了奥德萨的一栋住宅楼"
+      "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
+      "title_zh": "来自加拿大的橙色雾霾 安大略和美国北部的野火",
+      "link": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T00:33:23+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "消費税減税「国民会議」中間とりまとめで方向性出せるか不透明",
-      "title_zh": "减少消费税 \"全国会议\"临时和不透明",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177901000.html",
-      "published_at": "2026-07-15T21:14:59+00:00",
-      "summary": "食料品の消費税減税をめぐり、高市総理大臣は来月はじめごろまでに超党派の「国民会議」で議論がまとまれば法整備などに向けた作業は間に合うという考えを示しました。ただ「国民会議」に参加する各党の意見の隔たり…",
-      "summary_zh": "根据\"食品消费减税\"的说法,高shi的经济,贸易和工业部长表示,如果下月初在超级党的\"全国会议\"上进行讨论,那么法律维护工作就能够及时进行. 参加\"全国会议\"的各方意见."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+      "title_zh": "冷战时期的地堡可以换上豪华的公寓",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T23:35:39+00:00",
+      "summary": "\"From here to anywhere\" is the motto of Debert's business park, but it feels like the middle of nowhere.",
+      "summary_zh": "\"从这里到任何地方\"是德伯特商业公园的座右铭,但感觉就像无所事事."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "ニチレイ サイバー攻撃 影響の広がりや原因究明など焦点",
-      "title_zh": "Nichirei 网络攻击焦点是传播影响和原因",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177911000.html",
-      "published_at": "2026-07-15T20:32:07+00:00",
-      "summary": "冷凍食品大手の「ニチレイ」は、サイバー攻撃でシステム障害が発生し、外食チェーンのほか、流通大手や宅配サービスなどにも影響が広がっています。会社では17日から順次、業務を再開するとしていますが、攻撃を受…",
-      "summary_zh": "Nichirei是一家主要的冷冻食品制造商,它增加了由于网络原因对系统故障的影响,以及对食品和饮料链以及分销和交付服务的影响。 公司会从17号恢复运营."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "皇室典範改正案 与党 会期末の成立図る 会期延長も検討",
-      "title_zh": "皇上办公室和末后时期修订",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177891000.html",
-      "published_at": "2026-07-15T20:24:46+00:00",
-      "summary": "皇族数の確保に向けた皇室典範改正案について、与党は会期末の17日に成立させたい考えです。一方「副首都」構想の関連法案などは17日までに成立させるめどが立っておらず会期を延長する方向で検討しています。 …",
-      "summary_zh": "主张在会议结束后的17日成立\"帝国家庭标准\"修正案,以确保\"帝国\"的数量. 另一方面,\"分都市区\"概念的相关法案则被考虑为将年度会议延长了17天的方向. . . . . . . ."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "title_zh": "橙色嘴唇的新猴种在DR刚果森林中发现\"藏\"出\".",
+      "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T23:02:49+00:00",
+      "summary": "The monkey, known locally as 'Likweli', has distinctive pinkish-orange lips",
+      "summary_zh": "猴子在当地被称为\"Likweli\" 有独特的粉红色橙色嘴唇"
     },
     {
       "source": "BBC News",
@@ -126,16 +356,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "title_zh": "经过多年的争论,法国议员们以严格的规则批准协助死亡的法律",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T17:29:26+00:00",
-      "summary": "People hold signs reading 'I am not a reason to die' and 'Before a dignified death, I want to see a dignified life' during a protest against the assisted dying bill",
-      "summary_zh": "人们在抗议死亡法案时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "More people around the world now favour China over the US, Pew study suggests",
       "title_zh": "现在全世界更多的人 偏爱中国 而不是美国,皮尤的研究显示",
       "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
@@ -146,262 +366,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Five arrested after Hong Kong police raid independent bookshops",
-      "title_zh": "香港警方搜查独立书店后 逮捕了五人",
-      "link": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T16:51:07+00:00",
-      "summary": "Officers were seen loading confiscated items into the back of a van",
-      "summary_zh": "有人看到警官把被没收的物品装入一辆面包车后座"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
-      "title_zh": "调查在南非杀害一名反移民领导人的特别警察小组",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T15:33:30+00:00",
-      "summary": "Demonstrators had set an unofficial deadline of 30 June for all undocumented migrants to leave South Africa",
-      "summary_zh": "示威者将6月30日定为所有无证移民离开南非的非正式最后期限"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Dramatic video shows wildfire surround freight train in Canada",
       "title_zh": "戏剧性影片显示,",
       "link": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-15T15:11:00+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "title_zh": "在西班牙野火中遇难的7个英国人",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T12:21:32+00:00",
-      "summary": "Firefighters worked for days to contain the fires that spread through the region",
-      "summary_zh": "消防员工作了好几天,以遏制在该地区蔓延的火灾"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Venezuela government to launch formal talks with opposition members",
-      "title_zh": "委内瑞拉政府发起与反对派成员的正式会谈",
-      "link": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T12:21:21+00:00",
-      "summary": "Jorge Rodríguez, who is representing the government, has already held a meeting with opposition ex-lawmaker Dinorah Figuera",
-      "summary_zh": "代表政府的Jorge Rodríguez已经与反对派前律师Dinorah Figuera会面。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-      "title_zh": "意大利的梅洛尼在对选举改革的近距离投票中遭遇出人意料的挫折.",
-      "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T11:44:28+00:00",
-      "summary": "Giorgia Meloni described the narrow defeat in the chamber of deputies as a \"missed opportunity for Italians\"",
-      "summary_zh": "乔治娅·梅洛尼(Giorgia Meloni)将众议员院的狭义败局描述为\"意大利人失去的机会\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
-      "title_zh": "塞拉利昂放弃对前总统的叛国指控,因为未遂政变",
-      "link": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T11:43:15+00:00",
-      "summary": "Ernest Bai Koroma was been living in exile in Nigeria since January 2024",
-      "summary_zh": "欧内斯特·巴伊·科罗马自2024年1月起流亡尼日利亚."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
-      "title_zh": "热波提示 意大利的送货员为了争取更多权利",
-      "link": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T11:38:37+00:00",
-      "summary": "Delivery riders are to strike in several Italian cities on Wednesday, calling for better working conditions in the intense summer heat.",
-      "summary_zh": "送货员将在星期三在意大利几个城市罢工,呼吁在炎热的夏季改善工作条件。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
-      "title_zh": "前街头小混混是南非警方腐败调查的关键",
-      "link": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T11:19:52+00:00",
-      "summary": "Vusimusi \"Cat\" Matlala addressed some of the accusations against him when he spoke to lawmakers about corruption in the police force last year",
-      "summary_zh": "武斯穆西·\"卡特\"·马特拉拉去年在与立法者谈论警察腐败时, 谈到了对他的一些指控。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
-      "title_zh": "肯尼亚的拉斯塔法里人未能争取为宗教目的将大麻合法化",
-      "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T10:50:09+00:00",
-      "summary": "The Rastafarian community says the ban on smoking cannabis infringes on their rights to religious freedom",
-      "summary_zh": "Rastafarian社区表示禁用大麻侵犯了他们的宗教自由权。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China economic growth falls sharply, missing target",
-      "title_zh": "中国经济增长急剧下降,缺少目标",
-      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T10:21:48+00:00",
-      "summary": "China's economic growth slowed sharply between the start of April and end of June as weak domestic demand and the Iran war's impact on oil prices overshadowed the country's strong exports.",
-      "summary_zh": "中国的经济增长从4月初到6月底急剧放缓,因为国内需求疲软和伊朗战争对石油价格的影响使该国强劲的出口蒙上阴影."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Celebrations as Gibraltar-Spain border fence removed",
-      "title_zh": "庆祝直布罗陀-西班牙边界围栏被拆除",
-      "link": "https://www.bbc.co.uk/news/videos/cpd3d0d6zqzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T10:19:34+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Air India crash report likely to be ready in October, say investigators",
-      "title_zh": "印度空难报告可能将于10月完成 调查人员说",
-      "link": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T09:45:21+00:00",
-      "summary": "The Air India plane to London crashed shortly after taking off from the Ahmedabad airport last June",
-      "summary_zh": "印度航空公司飞往伦敦的飞机 在去年六月从艾哈迈达巴德机场起飞后不久坠毁"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
-      "title_zh": "假政府机关的老板 在尼日利亚被捕 数周后的逃亡",
-      "link": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T09:42:09+00:00",
-      "summary": "Adeniyi Adeyemi Matthew was in hiding for weeks before his arrest",
-      "summary_zh": "阿德尼伊·阿代耶米 马修被捕前躲了几周"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China detains US scientist who studied North Korea nuclear tests",
-      "title_zh": "中国拘留了研究朝鲜核试验的美国科学家",
-      "link": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-15T02:14:37+00:00",
-      "summary": "Chen Youlin (right) specialises in using seismological data to track nuclear tests",
-      "summary_zh": "陈有林(右)用地震数据跟踪核试验的特长."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "title_zh": "特朗普在荷尔穆兹的伤亡中撤退 说明他正在努力结束伊朗战争",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-14T23:17:27+00:00",
-      "summary": "Donald Trump's latest Iran war demand lasted all of 24 hours and suggests a president searching for unorthodox ways out of a difficult position.",
-      "summary_zh": "唐纳德·特朗普最新的伊朗战争要求持续了整整24小时,他建议总统寻找非正统的方法来摆脱困境."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-      "title_zh": "从温布尔登毛巾到苏格兰:印度-英国的贸易交易对购物者可能意味着什么",
-      "link": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-14T22:17:43+00:00",
-      "summary": "The trade deal could give a fillip to India's garment exports which face stiff competition from Bangladesh and Pakistan",
-      "summary_zh": "贸易协议可以给印度的服装出口带来一丝希望,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
-      "title_zh": "监视 : 美国和伊朗为控制霍尔木兹海峡而发生的冲突",
-      "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-14T21:13:12+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-      "title_zh": "霍尔木兹海峡的\"断层\"暴露出美伊交易的弱点.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-14T19:13:49+00:00",
-      "summary": "The fragile \"no war, no peace\" situation since the US and Iran signed a tentative deal last month now seems to have tipped into war.",
-      "summary_zh": "自美国和伊朗上个月签署临时协议以来,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "title_zh": "以色列袭击加沙北部的警所,",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-14T17:13:27+00:00",
-      "summary": "The Israeli military has continued to carry out regular strikes in Gaza despite the ceasefire with Hamas",
-      "summary_zh": "尽管与哈马斯停火,但以色列军队继续在加沙进行定期袭击"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "title_zh": "特朗普向作家E Jean Carroll支付5百万美元的性虐待和诽谤赔偿金",
-      "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-14T17:07:42+00:00",
-      "summary": "US President Donald Trump has paid writer E Jean Carroll more than $5m (£3.7m) in damages three years after he was found liable for sexually abusing and defaming her in a civil case, her lawyers confirmed.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)在一名民事案件中因性虐待和诽谤她而被裁定应负赔偿责任三年后,向作家E Jean Carroll支付了超过5百万美元(370万英镑)的赔偿金,她的律师确认."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
-      "title_zh": "钻石巨头德比尔斯停止在南非旗舰矿区的工作,因为需求急剧下降",
-      "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-14T13:22:09+00:00",
-      "summary": "Sales are falling as some buyers switch to lab-grown diamonds",
-      "summary_zh": "随着一些买家转而使用实验室出产的钻石,销售额正在下降"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
-      "title_zh": "印度主的胜利如何回响了 其开拓性女子板球运动员的遗产",
-      "link": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-14T08:12:32+00:00",
-      "summary": "Yastika Bhatia celebrates her century during day three of the Test match at Lord's",
-      "summary_zh": "Yastika Bhatia在主的测试赛中庆祝她的世纪"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "title_zh": "布里顿说,在西班牙野火中幸存下来 因为妻子和朋友为了安全而死",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-13T17:31:54+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-      "title_zh": "一个多才多艺的演员,其角色远远超出了侏罗纪公园——萨姆·尼尔逝世于78岁.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-13T12:10:38+00:00",
-      "summary": "Sam Neill, the New Zealand actor who has died aged 78, will forever be most associated with the film that made him an international star: Jurassic Park.",
-      "summary_zh": "萨姆·尼尔(英语:Sam Neill)是已逝去的78岁新西兰演员,将永远与使他成为国际明星的电影\"侏罗纪公园\"最为相关."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "title_zh": "SpaceX IPO创造历史. 一个月后它失去了动力吗?",
-      "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-13T11:45:25+00:00",
-      "summary": "SpaceX investors have swung from celebration to apparent concern in its first month as a publicly traded company.",
-      "summary_zh": "SpaceX投资者在作为一家公开交易公司的第一个月里,从庆祝变成了明显的关切。"
     }
   ]
 }
