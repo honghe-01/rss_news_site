@@ -1,37 +1,237 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-20T23:14:14+00:00",
-  "count": 50,
+  "generated_at": "2026-07-21T23:11:04+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "千葉 八街で住宅火災 4人が遺体で見つかる 警察",
+      "title_zh": "千叶八区房屋起火 4人从尸体里找到警察",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182281000.html",
+      "published_at": "2026-07-21T22:44:08+00:00",
+      "summary": "警察と消防によりますと、22日午前0時すぎ、千葉県八街市の住宅から火が出て、火は40分ほどでほぼ消し止められましたが、この家から4人が遺体で見つかったということです。",
+      "summary_zh": "被警察放火后从千叶县雅知石家庄出火,火几乎在40分钟后消失."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ウクライナ 国防相に続き軍総司令官も交代 異例の事態",
+      "title_zh": "乌克兰国防部队指挥官兼任候补",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182271000.html",
+      "published_at": "2026-07-21T21:46:52+00:00",
+      "summary": "ウクライナのゼレンスキー大統領は21日、軍のシルスキー総司令官を解任し、後任にドラパティ統合軍司令官を起用すると発表しました。ウクライナでは、ロシアによる軍事侵攻が続く中、国防相と軍のトップが相次いで…",
+      "summary_zh": "21日,乌克兰的泽莱总统宣布将撤销陆军总司令西尔斯基. 在乌克兰,俄罗斯的军事入侵仍在继续,国家最高和军队. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "関東と東海「酷暑日」予想 熱中症に厳重警戒 東北では激しい雨",
+      "title_zh": "关东和东海\"T热天\" 严防东莞的热克雨",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182151000.html",
+      "published_at": "2026-07-21T21:14:38+00:00",
+      "summary": "21日は、岐阜県と愛知県で最高気温が40度以上となり、気象庁が運用を始めてから初めての「酷暑日」となりましたが、22日も関東と東海で「酷暑日」が予想されています。熱中症に厳重に警戒してください。一方、…",
+      "summary_zh": "21日,吉福县和爱知县最高气温达到40多度,气象局也首次开通运营,但22日预计为干藤和通凯\"热日\". 当心中暑. 内容"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "「津波注意報で広域避難指示」は信頼性損なうおそれ 国通知",
+      "title_zh": "\"广域疏散指令中的海啸警告\"可能不可靠. 国家通知",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182141000.html",
+      "published_at": "2026-07-21T21:00:56+00:00",
+      "summary": "6月、フィリピン付近で発生した大地震では各地に津波注意報が発表されましたが、自治体の中には、避難指示を最大クラスの津波で浸水が想定される範囲に出したところもありました。内閣府などは、広い範囲に避難指示…",
+      "summary_zh": "6月,海啸警告报告在菲律宾大地震中被宣布,但一些地方政府有疏散指示假设最大海啸. 向广泛的柜子等发布疏散指示."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日英伊の次期戦闘機開発計画 カナダのオブザーバー参加決定",
+      "title_zh": "日本-英国参加加拿大奥布的第二个作战发展计划",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182091000.html",
+      "published_at": "2026-07-21T20:20:50+00:00",
+      "summary": "日本、イギリス、イタリア、カナダの4か国による防衛相会談がイギリスで行われ、次期戦闘機の共同開発をめぐる計画に、新たにカナダがオブザーバーとして参加することになりました。",
+      "summary_zh": "日本、英国、意大利和加拿大的四国防御会议在英国举行,加拿大计划共同发展下个学期。 将加入为观察员。"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ケンタッキー きょうから全店舗で通常営業を再開",
+      "title_zh": "肯图恢复所有商店的正常业务",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182251000.html",
+      "published_at": "2026-07-21T20:03:32+00:00",
+      "summary": "ファストフードチェーンの「ケンタッキーフライドチキン」は、冷凍食品大手の「ニチレイ」で発生したシステム障害の影響で、一部の店舗で営業時間を短縮するなどの対応をとっていましたが、22日からすべての店舗で…",
+      "summary_zh": "快速食品链的\"Kentaky Fried Chicken\"(Kentaky Freed Chicken)一直在应对由于大量被\"Nichirei\"冷冻的食品而导致系统故障而导致一些店铺工作时间缩短等问题. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
+      "title_zh": "Nichirei Hacker集团攻击\"兰斯姆软件\"",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182261000.html",
+      "published_at": "2026-07-21T20:01:00+00:00",
+      "summary": "システム障害が発生し、出荷などの業務に影響が出た冷凍食品大手「ニチレイ」へのサイバー攻撃について、ハッカー集団が21日夜、犯行声明を出したことがセキュリティー会社への取材で分かりました。このハッカー集…",
+      "summary_zh": "黑客集团于21日晚向保安公司提供犯罪声明,向被冻结的食品巨头Nichirei进行网络攻击,系统故障和航运业务发生. 这个黑客..."
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump imposes 50% tariff on Canadian imports",
-      "title_zh": "特朗普对加拿大进口商品征收50%的关税",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "title_zh": "Zelensky在数日的抗议之后,",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T19:57:38+00:00",
+      "summary": "Oleksandr Syrskyi was praised by President Zelensky for successfully defending Ukraine's capital Kyiv in 2022",
+      "summary_zh": "奥列克桑德·锡尔斯基于2022年被泽连斯基总统称赞为成功保卫了乌克兰首都基辅."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "title_zh": "黎巴嫩军队说,在以色列撤出后,部队部署在“试验区”。",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T18:07:34+00:00",
+      "summary": "Lebanese army engineering units entered the village of Zawtar al-Gharbiyeh on Tuesday morning",
+      "summary_zh": "黎巴嫩陆军工程部队星期二上午进入Zawtar al-Gharbiyeh村"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+      "title_zh": "随着特朗普宣布对加拿大征收50%关税,",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T22:26:34+00:00",
-      "summary": "US President Donald Trump (L), Canada's Prime Minister Mark Carney (R).",
-      "summary_zh": "美国总统唐纳德·特朗普 (L),加拿大总理马克·卡尼 (R."
+      "published_at": "2026-07-21T17:33:22+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "生産地 備蓄米の早期買い戻し求める声強まる 政府は慎重に検討",
-      "title_zh": "在政府需要购买前饭的地方",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181311000.html",
-      "published_at": "2026-07-20T21:59:44+00:00",
-      "summary": "コメ価格の値下がりを受けて、生産地からは、新米が本格的に出回る前に備蓄米の買い戻しを行い、価格を下支えするよう政府に求める声が強まっています。一方で政府内には、物価の上昇が続く中でコメが値上がりするこ…",
-      "summary_zh": "针对价格的下行,政府要求政府支持价格,在新稻开始完全成熟之前重新购买所储存的大米. 另一方面,在政府中,物价上涨. ."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+      "title_zh": "两名法国消防员死在波尔多机场附近",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T16:44:30+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トヨタ 近健太社長 “開発や生産の効率化進め 稼ぐ力強化を”",
-      "title_zh": "Kenta先生“关于提高发展和生产效率的方案”",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181321000.html",
-      "published_at": "2026-07-20T21:45:42+00:00",
-      "summary": "トヨタ自動車の近健太社長は、報道各社のインタビューに応じ、新興メーカーを含めて競争が激しくなる中、部品の種類の削減などで開発や生産の効率化を進め、会社の稼ぐ力を一段と強化する考えを示しました。",
-      "summary_zh": "丰田汽车有限公司总裁Kenta Konishi先生宣布,公司有能力通过减少零部件种类来提高开发和生产效率来提高公司业绩,同时竞争竞争也日益激烈,包括QQ制造商."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "title_zh": "美国对伊朗发动了新的打击,因为特朗普警告要报复士兵的死亡.",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T16:10:56+00:00",
+      "summary": "The US military says it launched another round of strikes against Iran to \"further degrade\" its capabilities to attack ships in the Strait of Hormuz.",
+      "summary_zh": "美国军方称,它又向伊朗发动了一轮出击,以\"进一步削弱\"其攻击霍尔木兹海峡船只的能力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "title_zh": "巴西亚马逊州2025年被烧毁面积急剧下降",
+      "link": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T15:57:29+00:00",
+      "summary": "The low figures for 2025 are welcome news after a peak in areas burned in 2024",
+      "summary_zh": "2025年的低数字在2024年被烧毁地区达到顶峰后,是值得欢迎的消息."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "title_zh": "以色列在加沙的袭击杀死了12人,包括6个家庭,医生说",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T15:54:11+00:00",
+      "summary": "A relative buries Amira al-Masri, who was killed along with her three siblings and parents",
+      "summary_zh": "一名亲戚Amira al-Masri,与她的三个兄弟姐妹和父母一起被害"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch Texas police officer pull man from burning car",
+      "title_zh": "德克萨斯州警察把人从烧车里拉出来",
+      "link": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T13:01:09+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "title_zh": "数十人在被警察限制死亡后在博洛尼亚抗议中受伤",
+      "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T12:48:37+00:00",
+      "summary": "Prosecutors have opened an investigation into manslaughter after the man's death in Bologna",
+      "summary_zh": "检察官对博洛尼亚的杀人案进行了调查"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+      "title_zh": "加纳最高政治人物因非法采矿被判处20年徒刑,",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T12:02:47+00:00",
+      "summary": "Along with the jail sentence,\"Chairman Wontumi\" was fined more than $10,000 (£7,450)",
+      "summary_zh": "元通董事长被罚款超过一万元(7,450英镑)"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
+      "title_zh": "警方因涉嫌向尼日利亚反腐头目寻求路边贿赂而被捕",
+      "link": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T11:40:53+00:00",
+      "summary": "The officers are now facing an internal police disciplinary procedure",
+      "summary_zh": "警官现在面临警察内部纪律程序"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+      "title_zh": "观察:智利被暴雨所淹没的城镇和疏散",
+      "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T11:21:47+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why are thousands protesting for education reform in India?",
+      "title_zh": "为什么数千人抗议印度的教育改革?",
+      "link": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T10:01:59+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India's 'cockroach' protest continues a day after police crackdown",
+      "title_zh": "印度在警方镇压后一天,",
+      "link": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T08:44:43+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+      "title_zh": "\"反ICE\"的老兵在曼哈顿联邦大楼外起火,",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T02:16:05+00:00",
+      "summary": "A former US Army soldier has been arrested after igniting a fire in front of a federal building in New York City, says the FBI.",
+      "summary_zh": "一名前美国陆军士兵在纽约市联邦大楼前起火后被捕,联邦调查局说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 41 dead after ferry capsizes off Guyana",
+      "title_zh": "至少有41人死在圭亚那出海后",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T02:07:48+00:00",
+      "summary": "A search and rescue operation for dozens of missing people continued on Sunday",
+      "summary_zh": "星期天继续搜救数十名失踪人员"
     },
     {
       "source": "BBC News",
@@ -44,46 +244,6 @@
       "summary_zh": "Houthis说,禁运是对沙特封锁也门港口和机场的反应。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行",
-      "title_zh": "负责危险驾驶致命伤害的QQ标准所颁布的修正法",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181341000.html",
-      "published_at": "2026-07-20T21:19:19+00:00",
-      "summary": "飲酒運転や高速度での走行に危険運転致死傷罪を適用する数値基準を盛り込んだ改正自動車運転処罰法が21日、施行されました。飲酒運転は呼気1リットルにつき0.5ミリグラム以上で適用されます。",
-      "summary_zh": "21日,修改后的\"汽车行驶处罚法\"包含\"醉酒行驶和高速行驶的21个标准\". . . ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "与党 「副首都」法案成立目指す 野党 衆院超える審議時間を",
-      "title_zh": "副党\"副首都\" 花生党 众议院以外的审议时间",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181391000.html",
-      "published_at": "2026-07-20T21:14:59+00:00",
-      "summary": "「副首都」構想の関連法案をめぐり、与党側は22日、参議院で審議入りさせ、今週24日の成立を目指す方針です。これに対し野党側は「『大阪ありき』の法案だ」などと批判し衆議院を超える審議時間を確保するよう求…",
-      "summary_zh": "22日,双方在众议院议决,本周24日成立. 另一方面,该党试图批评\"大坂一基\"的法案,并确保众议院以外的审议时间. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "title_zh": "美国对伊朗发动了新的打击,因为特朗普警告要报复士兵的死亡.",
-      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T21:09:31+00:00",
-      "summary": "The US military says it has begun a new round of strikes against Iran to \"further degrade\" its capabilities to attack ships in the Strait of Hormuz.",
-      "summary_zh": "美军方称已对伊朗展开新一轮出击,以\"进一步削弱\"其攻击霍尔木兹海峡船只的能力."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "広い範囲で気温上昇 埼玉県では酷暑日予想 熱中症に厳重警戒",
-      "title_zh": "Sai玉县境内气温大幅上升.",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181481000.html",
-      "published_at": "2026-07-20T21:04:38+00:00",
-      "summary": "21日も東日本から西日本にかけての広い範囲で気温が上がり、埼玉県では40度と命に関わる危険な暑さが予想されています。熱中症に厳重に警戒し、より一層、対策を心がけてください。",
-      "summary_zh": "21日气温从东向西上升. 小心点,加热,小心点"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
@@ -92,36 +252,6 @@
       "published_at": "2026-07-20T21:03:24+00:00",
       "summary": "Zambada being taken into custody in July 2024",
       "summary_zh": "Zambada于2024年7月被拘押"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "W杯優勝 スペイン代表が凱旋",
-      "title_zh": "W 杯冠军 西班牙代表",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181471000.html",
-      "published_at": "2026-07-20T20:59:11+00:00",
-      "summary": "サッカーワールドカップ北中米大会で優勝したスペイン代表チームが20日、帰国して優勝パレードを行い、大勢の人たちから熱狂的に迎えられました。",
-      "summary_zh": "第20天,西班牙队在北美和中美洲运动会中夺得足球世界杯冠军."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Merger deal between Paramount and Warner Bros paused by judge",
-      "title_zh": "派拉蒙和华纳兄弟之间的合并交易 法官暂停",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T19:48:13+00:00",
-      "summary": "A US federal judge has temporarily blocked the proposed $110bn (£85bn) merger between media giants Paramount Skydance and Warner Bros Discovery.",
-      "summary_zh": "一名美国联邦法官暂时封锁了媒体巨头派拉蒙·斯克丹斯和华纳·布罗斯发现公司(英语:Warner Bros Discovery)之间拟议中的110bn (£85bn)并购."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
-      "title_zh": "中船列车入日本EEZ保护发动机枪.",
-      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
-      "published_at": "2026-07-20T19:44:47+00:00",
-      "summary": "防衛省は、中国海軍の艦艇が19日、小笠原諸島の沖ノ鳥島周辺の日本のEEZ＝排他的経済水域の内側で機関銃の射撃訓練を実施したのを確認したと発表しました。付近にはロシア海軍の艦艇も確認され、防衛省が警戒と…",
-      "summary_zh": "19日,国防部宣布中国海军舰只已就奥加拉群岛上奥克诺托里岛一带的日本EEZ-QQ经济水域内地进行第三炮训练. 俄罗斯海军的船只也在附近得到确认,国防部警告. ."
     },
     {
       "source": "BBC News",
@@ -136,16 +266,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
-      "title_zh": "\"如果人们知道一头虱子能做什么\" - 被虱子叮咬导致的致命肉类过敏",
-      "link": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T18:01:00+00:00",
-      "summary": "Jeremy Webb died of anaphylaxis triggered by tick-induced mammalian meat allergy",
-      "summary_zh": "Jeremy Webb死于由虱子引起的哺乳动物肉类过敏症"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
       "title_zh": "「我只想到她」: 由于尼日利亚的船灾不断发生,",
       "link": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
@@ -156,112 +276,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "title_zh": "警方封锁了数千名抗议者,",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T16:26:40+00:00",
-      "summary": "Tens of thousands of people attended Monday's protests",
-      "summary_zh": "成千上万的人参加了周一的抗议活动"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
       "title_zh": "俄国对黑海商船的袭击加剧,造成10人死亡",
       "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-20T16:10:38+00:00",
       "summary": "Attacks on cargo ships in the Black Sea have increased as Russia seeks to disrupt the last maritime export corridor outside of Ukraine",
       "summary_zh": "对黑海货船的袭击有所增加,因为俄罗斯试图破坏乌克兰境外的最后海上出口走廊"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Newcastle, Liverpool and England legend Keegan dies",
-      "title_zh": "纽卡斯尔、利物浦和英格兰传奇凯根都死了",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T14:38:28+00:00",
-      "summary": "Keegan both captained and managed England",
-      "summary_zh": "基根是英国的船长和管理者"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hamas names Khalil al-Hayya as new overall leader",
-      "title_zh": "哈马斯将Khalil al-Hayya命名为新的全面领导人",
-      "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T14:02:31+00:00",
-      "summary": "Khalil al-Hayya survived an Israeli assassination attempt in Qatar in September 2025",
-      "summary_zh": "Khalil al-Hayya于2025年9月在卡塔尔的一次以色列暗杀未遂事件中幸存"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
-      "title_zh": "拉明·亚马尔庆祝世界杯冠军 与吸引球迷的弟弟",
-      "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T13:13:29+00:00",
-      "summary": "Spanish footballer Lamine Yamal may have lifted the World Cup but it is his little brother Keyne who appears to have stolen the spotlight.",
-      "summary_zh": "西班牙足球运动员拉明·亚马尔(Lamine Yamal)可能已经解除了世界杯,但似乎是他小弟凯恩偷走了聚光灯."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rare identical quadruplets born in Australia",
-      "title_zh": "在澳大利亚出生的很少的相同四胞胎",
-      "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T12:57:32+00:00",
-      "summary": "An Australian woman has given birth to rare, naturally-conceived identical quadruplets after a pregnancy described as \"extremely high risk\" by the Royal Brisbane and Women's Hospital.",
-      "summary_zh": "一名澳大利亚妇女在被英国皇家布里斯班和女子医院称为\"极其高风险\"的怀孕后,生下了稀有的,自然构思的等同四胞胎."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why are thousands of people protesting in Delhi?",
-      "title_zh": "为什么成千上万人在德里抗议?",
-      "link": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T12:33:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Utah firefighter and four family members killed in flash flooding",
-      "title_zh": "犹他州消防员和4名家庭成员在洪水中丧生",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T12:13:58+00:00",
-      "summary": "Five members of a Utah family were killed in a flash flood over the weekend after going out for a day of hiking in the southern part of the US state, according to law enforcement officials.",
-      "summary_zh": "据执法人员称,一个犹他州家庭的5名成员在美国州南部出走一天后,在周末的一次山洪中丧生。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
-      "title_zh": "数以千计的人担心在乘客渡船 驶出圭亚那后会死",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T11:37:32+00:00",
-      "summary": "A search and rescue operation for dozens missing people continued on Sunday",
-      "summary_zh": "星期日,对数十名失踪人员的搜救行动继续进行"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-      "title_zh": "JD Vance说妻子Usha和儿子生下第四个孩子后“幸福而健康”",
-      "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T11:28:30+00:00",
-      "summary": "US Vice-President JD Vance has announced the birth of his fourth child, a boy, with his wife Usha Vance.",
-      "summary_zh": "美国副总统JD·万斯(JD Vance)宣布生下第四个孩子,一个男孩,和他的妻子Usha Vance在一起."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-      "title_zh": "Ryanair公司利润下降,因为伊朗战争使乘客停运并抬起燃料成本",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T10:12:36+00:00",
-      "summary": "Ryanair's profits have fallen sharply as war in the Middle East sent jet fuel prices soaring and customers reluctant to book flights.",
-      "summary_zh": "Ryanair的利润急剧下降,因为中东的战争使喷气式燃油价格飞涨,顾客不愿意预订航班。"
     },
     {
       "source": "BBC News",
@@ -296,60 +316,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Spanish and Argentinian fans react outside World Cup final",
-      "title_zh": "西班牙和阿根廷球迷在世界杯决赛之外的反应",
-      "link": "https://www.bbc.co.uk/news/videos/czxqr9rl9r0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T04:47:17+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Food delivery rider wins China's top literary prize",
-      "title_zh": "送饭车赢得了中国最优秀文学奖",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T03:53:07+00:00",
-      "summary": "Wang Jibing, a food delivery rider, posted his poems and essays on social media for years before going viral",
-      "summary_zh": "王继平是一位送饭的骑手,在社交媒体上张贴了多年的诗作和散文,然后才开始传播"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Test that found source of US explosive diarrhoea outbreak was false positive",
-      "title_zh": "发现美国爆炸性腹泻爆发源的试验是假阳性",
-      "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T02:35:04+00:00",
-      "summary": "Tests of an iceberg lettuce sample for the parasite that has caused an explosive diarrhoea outbreak affecting thousands of people in the US produced a false positive, officials have now said.",
-      "summary_zh": "对寄生虫的冰山生菜样本进行测试, 导致美国数千人爆发了爆炸性腹泻,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Norway opens new memorial for victims of 2011 massacre",
-      "title_zh": "挪威为2011年大屠杀受害者开辟了新的纪念碑",
-      "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T01:11:08+00:00",
-      "summary": "A large artwork features a bird native to Utoeya island, where most of the 2011 attack victims died",
-      "summary_zh": "2011年袭击受害者多半死于乌托亚岛,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
       "title_zh": "『人人不敢死』: 在乌克兰招募士兵的斗争演变为暴力",
       "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-20T00:19:12+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment fans in Madrid celebrate World Cup win",
-      "title_zh": "马德里的球迷们庆祝世界杯胜利",
-      "link": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T23:48:36+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -372,86 +342,6 @@
       "published_at": "2026-07-19T22:16:39+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-      "title_zh": "纽约和新泽西引发山洪暴发",
-      "link": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T21:43:54+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US soldier killed and one injured after Iranian attack in Iraq",
-      "title_zh": "在伊朗袭击伊拉克后,美国士兵被炸死,一人受伤",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T19:45:12+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "title_zh": "俄罗斯向乌克兰城市发射大型弹道导弹攻击.",
-      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T18:25:40+00:00",
-      "summary": "The latest Russian strikes hit both residential and non-residential buildings, Kyiv's mayor said",
-      "summary_zh": "基辅市长说,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-      "title_zh": "1975年的Matty Healy在洛杉矶和模特Gabbriette Bechtel结婚",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T14:50:11+00:00",
-      "summary": "Matty Healy and Gabbriette Bechtel married in a private ceremony on Saturday",
-      "summary_zh": "Matty Healy和Gabbriette Bechtel星期六在私人仪式上结婚"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "title_zh": "塔特兄弟在美国被捕,因为进一步指控联合王国共达59起。",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T12:53:20+00:00",
-      "summary": "Tristan and Andrew Tate pictured sitting together at a UFC match in April",
-      "summary_zh": "特里斯坦和安德鲁·塔特四月份一起坐在UFC比赛上"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Neighbours actor Terence Donovan dies aged 90",
-      "title_zh": "邻居演员特伦斯·多诺万活了90岁",
-      "link": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T08:18:32+00:00",
-      "summary": "Terence Donovan in Melbourne, Australia on 18 August 2004",
-      "summary_zh": "特伦斯·多诺万,澳大利亚墨尔本,2004年8月18日"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "title_zh": "古巴异议人士Luis Manuel Otero Alcántara流亡美国",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T07:47:02+00:00",
-      "summary": "Luis Manuel Otero Alcántara speaks to journalists at Miami airport",
-      "summary_zh": "路易斯·曼努埃尔·奥特罗·阿尔坎塔拉在迈阿密机场对记者讲话"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "title_zh": "新的欧盟边境系统 护照管制时间三倍,机场老板说",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-19T01:47:59+00:00",
-      "summary": "People in queue for the Entry Exit System process after landing at Fuimicino Airport in Rome, Italy, in mid-July",
-      "summary_zh": "7月中旬在意大利罗马富米契诺机场降落后排队参加入境出境系统进程的人"
     },
     {
       "source": "BBC News",
@@ -492,16 +382,6 @@
       "published_at": "2026-07-17T23:56:08+00:00",
       "summary": "It has been a blisteringly hot summer for much of the US and Europe.",
       "summary_zh": "对于美国和欧洲的大部分地区来说,这是一个炎热的夏天。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How these twins' rare growth disorder could provide the key to preventing cancer",
-      "title_zh": "这些双胞胎罕见的生长障碍 如何提供预防癌症的关键",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-17T23:24:37+00:00",
-      "summary": "Sisters María Luisa and María del Cisne say sharing their experiences helps them cope with their challenges",
-      "summary_zh": "María Luisa和María del Cisne修女说,分享经验有助于他们应对挑战。"
     }
   ]
 }
