@@ -1,57 +1,307 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-22T23:16:06+00:00",
-  "count": 32,
+  "generated_at": "2026-07-23T23:11:21+00:00",
+  "count": 36,
   "items": [
     {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What we know about the US-Saudi nuclear deal",
-      "title_zh": "监视 : 我们对美沙特核协议的了解",
-      "link": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T22:45:08+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ政権 新追加関税を発動へ 日本は既存税率あわせ12.5％",
+      "title_zh": "川普政府 对日本新增关税12.5%。",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
+      "published_at": "2026-07-23T22:11:26+00:00",
+      "summary": "アメリカのトランプ政権は、日本を含む主要な60の貿易相手の国や地域を対象に新たな追加関税を日本時間の24日午後1時すぎに発動すると発表しました。日本からの輸入品には、既存の関税率とあわせて12.5％の…",
+      "summary_zh": "美国特朗普政府宣布将在日本时间下午24点内,在包括日本在内的60个贸易伙伴的国家和地区推出新的附加关税. 从日本进口的货物是12.5%..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "名古屋 岐阜 京都 甲府で「酷暑日」予想 熱中症に厳重警戒",
-      "title_zh": "Gifu 京都 Kofu\"T热天\"预报",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183051000.html",
-      "published_at": "2026-07-22T22:44:12+00:00",
-      "summary": "22日は三重県と静岡県、それに岐阜県で最高気温が40度以上と「酷暑日」となりました。23日は東海に加え、京都市や甲府市でも「酷暑日」が予想されています。熱中症で救急搬送される人は全国で急増していて厳重…",
-      "summary_zh": "22日,密县和静冈县,吉福县最高气温为40多度. 除了23日的\"通凯\"外,预计在京和高福城也会出现\"热\". 热中风运送的TQQ在全国突然增加,而且严格..."
+      "title": "きょうも危険な暑さ予想 40度に迫るところも 厳重な警戒を",
+      "title_zh": "天气预报非常危险.",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184721000.html",
+      "published_at": "2026-07-23T21:50:02+00:00",
+      "summary": "23日は、静岡県で41.1度を観測するなど、東海の各地で最高気温が40度以上の「酷暑日」となりました。24日は名古屋市や京都市などで40度に迫る危険な暑さが予想されていて、エアコンを使用しこまめに水分…",
+      "summary_zh": "23日,托凯地区最高气温超过40度. 24日,预计名古屋市和京都市等地会有40度的危险热量,使用空调轻度湿度. ."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "title_zh": "特朗普威胁要攻击伊朗的桥梁和发电厂,",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T22:17:54+00:00",
-      "summary": "President Donald Trump has threatened that the US would destroy an Iranian bridge or power plant any time its forces attack a ship in the Strait of Hormuz.",
-      "summary_zh": "唐纳德·特朗普总统已威胁美国将随时摧毁伊朗的一座桥梁或发电厂,其部队会袭击霍尔穆兹海峡的一艘船."
+      "title": "India activist ends hunger strike after 26 days",
+      "title_zh": "26天后印度活动家结束绝食",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T21:27:04+00:00",
+      "summary": "The activist had set a number of conditions for ending the strike including a pledge by the authorities not to use force against protesters",
+      "summary_zh": "这名活动人士为结束罢工设定了一些条件,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "台風12号が発生 フィリピンの東の海上 船舶に注意呼びかけ",
+      "title_zh": "○六二洪十二号出生.",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184711000.html",
+      "published_at": "2026-07-23T21:08:00+00:00",
+      "summary": "24日午前、フィリピンの東で台風12号が発生しました。気象庁は、付近を通る船舶に注意するよう呼びかけています。",
+      "summary_zh": "QQHOON 第12期于24日上午在菲律宾东部完成. 气象局呼吁注意附近的船只."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "「日本赤軍」 岡本公三容疑者死亡 空港乱射事件で国際手配",
+      "title_zh": "\"日本红军\"小佐3·本在机场虐待中的死亡国际安排",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184681000.html",
+      "published_at": "2026-07-23T20:54:23+00:00",
+      "summary": "1972年、イスラエルの空港で銃を乱射し、殺人などの疑いで国際手配されていた「日本赤軍」のメンバー岡本公三容疑者が、亡命先のレバノンで死亡したと過激派組織、PFLP＝パレスチナ解放人民戦線が発表しまし…",
+      "summary_zh": "1972年,\"日本红军\"成员,负责在以色列机场谋杀和怀疑枪械等嫌疑,阵亡者在黎巴嫩死亡时宣布了解放国阵的内战线. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "日中外相が接触 中国側の出方を慎重に見極めへ 日本政府",
+      "title_zh": "日中外受波及,仔细看中方如何出局",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184421000.html",
+      "published_at": "2026-07-23T20:52:44+00:00",
+      "summary": "茂木外務大臣は訪問先のフィリピンで日中関係が悪化して以降初めて王毅外相とことばを交わしました。日本政府内では関係改善のきっかけになるのではないかと期待する声がある一方、状況の打開は容易ではないという指…",
+      "summary_zh": "莫吉的外务大臣是第一次在菲律宾互换坚定的外务大臣的话语. 虽然有一种声音有望成为日本政府改善关系的导火索,但情况并不容易开始. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets",
+      "title_zh": "Google和Tesla的股权随着AI花销扰乱市场而下跌",
+      "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T20:42:33+00:00",
+      "summary": "Google and its parent company Alphabet have spent huge amounts on AI",
+      "summary_zh": "Google及其母公司Alphabet在AI上花费了巨款"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "国会 あす会期末 「副首都」法案の採決めぐりギリギリの調整",
+      "title_zh": "会议结束时取消无名资本券",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184641000.html",
+      "published_at": "2026-07-23T20:33:45+00:00",
+      "summary": "25日の国会の会期末を前に、24日、与党側は残る「副首都」構想の関連法案を採決し、成立させたい考えです。これに対して野党側は、特別区の設置を問う住民投票と関係自治体の選挙が同じ期間に行えることは問題だ…",
+      "summary_zh": "一九六三年五月二十五日结束的第二十四天,双方决定建立\"副首都\"概念的相关议案,尚存. 另一方面,立场一方是一个问题,即有关市镇的QQ选举和相关市镇的选举将在同一时期举行."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領 “フーシ派が再攻撃ならイラン含め攻撃”",
+      "title_zh": "特朗普的总统“如果霍希是反攻,",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184491000.html",
+      "published_at": "2026-07-23T20:16:51+00:00",
+      "summary": "イラン情勢をめぐり、アメリカのトランプ大統領は、中東イエメンの反政府勢力フーシ派がさらなる攻撃を行えば、支援するイランも含めて攻撃する考えを示しました。こうした中、原油の供給に一段と悪影響が及ぶとの見…",
+      "summary_zh": "美国总统川普(Trump)在伊朗发表伊朗宣言时, 由此可见,原油的供应产生了负面影响......"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "title_zh": "随着西南野火的蔓延,法国撤离了两万人",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T19:17:42+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "title_zh": "沙特人必须承认以色列为核协议,",
+      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T17:58:02+00:00",
+      "summary": "US President Donald Trump, seen with his Saudi counterpart Mohammed bin Salman, says Saudi Arabia will not be able to enrich uranium under the deal",
+      "summary_zh": "美国总统唐纳德·特朗普与沙特总统穆罕默德·本·萨勒曼(Mohammed bin Salman)表示,根据协议,沙特阿拉伯将无法浓缩铀。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "title_zh": "乌克兰被罢免的国防部长坚持要复职",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T17:37:59+00:00",
+      "summary": "The battle of wills between Fedorov (left) and Zelensky (right) remains unresolved - at least for now",
+      "summary_zh": "Fedorov(左)和Zelensky(右)之间的遗嘱之战至今仍未解决——至少现在"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "title_zh": "胡塞族的袭击使人们对更广泛的中东冲突和更多的全球经济破坏产生恐惧",
+      "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T17:06:08+00:00",
+      "summary": "Attacks launched from Yemen could disrupt the vital Bab El Mandeb Strait shipping route, further restricting global trade",
+      "summary_zh": "从也门发动的袭击可能破坏重要的Bab El Mandeb海峡航线,进一步限制全球贸易"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "title_zh": "也门Houthis攻击沙特油轮,",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T16:50:59+00:00",
+      "summary": "Saudi state media said the tanker Encelia was hit in the Red Sea, resulting in a fire on board",
+      "summary_zh": "沙特州媒体称,\"恩斯利亚\"号油轮在红海中弹,导致船上起火."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
+      "title_zh": "在几内亚因考试作弊而入狱的青少年,",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T16:26:49+00:00",
+      "summary": "Mamadou Djouma Bah, 17, was accused of using his phone during Guinea's national school-leaving exam earlier in July",
+      "summary_zh": "17岁的Mamadou Djouma Bah被控在7月初几内亚全国离校考试期间使用手机。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
+      "title_zh": "肯尼亚前省长因谋杀一名怀孕学生被定罪",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T16:07:24+00:00",
+      "summary": "Vigils were held for Sharon Otieno and other women who had been killed",
+      "summary_zh": "为Sharon Otieno和其他被杀害的妇女举行了维吉尔仪式"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nicaragua's legislature debates barring opposition from elections",
+      "title_zh": "尼加拉瓜立法辩论,",
+      "link": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T15:54:41+00:00",
+      "summary": "Nicaragua's government-controlled National Assembly is debating whether to bar opposition parties from running in elections and will vote on the matter in the first week of August.",
+      "summary_zh": "尼加拉瓜政府控制的国民议会正在辩论是否禁止反对党参选,并将在8月的第一个星期就此事进行表决。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Oil prices hit $100 for the first time since May",
+      "title_zh": "油价自5月以来第一次跌到100美元",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T15:31:00+00:00",
+      "summary": "Oil prices hit $100 a barrel for the first time since May as the escalating conflict in the Middle East reignited fears over global energy supplies.",
+      "summary_zh": "自5月以来,随着中东冲突升级,对全球能源供应的担忧再次爆发,石油价格首次达到每桶100美元。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+      "title_zh": "南非说,",
+      "link": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T13:44:19+00:00",
+      "summary": "Some South African protesters have been going door-to-door checking people's legal status",
+      "summary_zh": "一些南非抗议者挨家挨户地检查人们的法律地位。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "title_zh": "特朗普与沙特的核交易 美国的长期要求",
+      "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T12:58:40+00:00",
+      "summary": "The Trump administration's nuclear agreement with Saudi Arabia reversed a years-long stance toward a key Middle East ally.",
+      "summary_zh": "特朗普政府与沙特阿拉伯的核协议扭转了对中东关键盟友多年的立场."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Liquor store employee narrowly escapes leopard attack",
+      "title_zh": "酒店员工微弱逃脱豹攻击",
+      "link": "https://www.bbc.co.uk/news/videos/cly893zrjgdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T12:49:55+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+      "title_zh": "伊隆·穆斯克说:\"让我们享受这段旅程吧\"",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T11:39:11+00:00",
+      "summary": "As AI continues to evolve at breakneck speed, and developers warn of models going rogue, Elon Musk says people should simply \"enjoy the ride\".",
+      "summary_zh": "随着AI继续以突破速度进化,以及开发者警告模型会变得无赖,埃隆·穆斯克表示人们应该简单地\"享受旅程\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Korea woman acquitted of murdering newborn after hospital delivery",
+      "title_zh": "韩国妇女在医院分娩后被判谋杀新生儿无罪",
+      "link": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T10:04:56+00:00",
+      "summary": "The case shocked South Korea in 2024, when the woman posted a YouTube video about terminating her pregnancy at 36 weeks (file image)",
+      "summary_zh": "案件在2024年令韩国震惊,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "title_zh": "俄国企业承受着乌克兰袭击野莓的压力",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T06:15:35+00:00",
+      "summary": "Four Wildberries warehouses have been targeted, including this one in Nevinnomyssk early on Wednesday",
+      "summary_zh": "四座野莓仓库被袭击 包括这个在Nevinnomyssk的仓库"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+      "title_zh": "被审查员封锁,中国的动物爱好者在网络上和海外进行反虐待的斗争.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T05:46:09+00:00",
+      "summary": "From Taiwan to the US, activists are lobbying for China to pass laws against animal cruelty",
+      "summary_zh": "从台湾到美国,活动家正在游说中国通过反对虐待动物的法律。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "title_zh": "他们犯了什么罪? BBC访问伊朗学校,",
+      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T04:49:24+00:00",
+      "summary": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "summary_zh": "他们犯了什么罪? BBC访问伊朗学校,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "title_zh": "加拿大的\"强力\"乳品部门在特朗普的贸易中",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T00:15:12+00:00",
+      "summary": "Canada's dairy industry policy is among the most politically sacrosanct in the country. It has also long been a thorn in the side of Donald Trump.",
+      "summary_zh": "加拿大的乳制品工业政策是该国政治上最神圣的。 长期以来,它也是唐纳德·特朗普一边的刺."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+      "title_zh": "连骆驼都应付不了:非洲沙漠的船只受到气温上升的影响",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-22T23:22:53+00:00",
+      "summary": "Livestock herders in the Horn of Africa and North Africa have switched to camels over the years because of their famed resilience",
+      "summary_zh": "非洲之角和北非的畜牧者多年来因有名的适应力而转向骆驼"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: What we know about the US-Saudi nuclear deal",
+      "title_zh": "观察: 我们对美沙特核协议的了解",
+      "link": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-22T22:45:08+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
-      "title_zh": "印度警方对\"鸡叫\"的抗议者进行了镇压. 他们回家,做了一些纪念品",
+      "title_zh": "印度警方对\"鸡尾酒\"抗议者进行了镇压. 他们回家,做了一些纪念品",
       "link": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-22T22:13:24+00:00",
-      "summary": "CJP protesters are responding to Monday's police violence with memes online",
-      "summary_zh": "CJP的抗议者对星期一的警方暴力事件,"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "風力発電事業めぐる詐欺事件 “外資系企業が興味”と伝えたか",
-      "title_zh": "风能发电业务的骗局事件“外国公司的兴趣”",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183021000.html",
-      "published_at": "2026-07-22T22:10:19+00:00",
-      "summary": "北海道の風力発電所の事業権を譲渡するとうその説明を行い、都内の会社から現金あわせて2億円をだまし取ったとして3人が逮捕された事件で、容疑者らが会社の担当者に対し「外資系企業が事業に興味を示し、契約直前…",
-      "summary_zh": "北海道风电所经营权转移案嫌犯被北海道风电所经营权转移案3人作为本市公司现金被捕."
+      "summary": "India's young coackroach protesters are using memes and satire of every colour to express themselves",
+      "summary_zh": "印度年轻柯克罗的抗议者 利用各种颜色的迷因和讽刺来表达自己"
     },
     {
       "source": "BBC News",
@@ -66,102 +316,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
-      "title_zh": "中国的动物爱好者在被审查者封锁的情况下, 与网络外和海外的虐待作斗争",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T22:03:43+00:00",
-      "summary": "From Taiwan to the US, activists are lobbying for China to pass laws against animal cruelty",
-      "summary_zh": "从台湾到美国,活动家们都在游说中国通过反对虐待动物的法律"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "グーグル親会社 4～6月期決算 営業利益は6兆6400億円余",
-      "title_zh": "谷歌母公司4至6个财务结果 运营利润为664亿日元.",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183101000.html",
-      "published_at": "2026-07-22T21:43:46+00:00",
-      "summary": "アメリカのIT大手グーグルの親会社「アルファベット」は22日、先月までの3か月間の決算を発表し、売り上げが前の年の同じ時期と比べて24％増えて1197億9600万ドル、日本円でおよそ19兆5200億円…",
-      "summary_zh": "22日,美国IT巨头Google的母公司\"QQ\"宣布了3个月至上月的财务结果,与上一年同期相比,占24%. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "トランプ氏「船舶攻撃ならインフラ破壊」イランは報復の構え",
-      "title_zh": "特朗普的\"为攻击船只而破坏基础设施\"",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183211000.html",
-      "published_at": "2026-07-22T21:41:57+00:00",
-      "summary": "アメリカとイランの攻撃の応酬が続く中、トランプ大統領は今後ホルムズ海峡で船舶が攻撃されるたびに、イランの発電所などのインフラを破壊すると主張しました。イラン側は実行されれば報復としてアメリカが関係する…",
-      "summary_zh": "随着美国和伊朗袭击的继续,特朗普声称,今后每逢一艘船在霍尔姆斯-克奥尔克(英语:Holms-XXXit)被袭击,都会摧毁伊朗的发电厂和其他基础设施. 当伊朗被处决时,美国作为报告参与其中......"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "title_zh": "美国与沙特阿拉伯签署具有里程碑意义的核协议",
-      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T21:31:25+00:00",
-      "summary": "Under the deal, US President Donald Trump has reportedly not required his Saudi counterpart Mohammed bin Salman to give diplomatic recognition to Israel",
-      "summary_zh": "根据协议,美国总统唐纳德·特朗普(Donald Trump)据报道没有要求他的沙特同事穆罕默德·本·萨勒曼(Mohammed bin Salman)对以色列给予外交承认."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Fire kills 10 members of same family in Peru, police say",
-      "title_zh": "警方说,秘鲁有10个同家人被烧死",
+      "title_zh": "警方表示,",
       "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-22T20:56:26+00:00",
       "summary": "Police said they would maintain a significant presence in the area to protect the property from \"criminal acts\"",
-      "summary_zh": "警方说,他们会在该地区保持大量人员,以保护财产免遭\"犯罪行为\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "関税措置めぐる日米合意から1年 なお不透明な状況続く",
-      "title_zh": "美日达成避关税协议一年后",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183011000.html",
-      "published_at": "2026-07-22T20:50:57+00:00",
-      "summary": "アメリカの関税措置をめぐる日米合意から日本時間の23日で1年です。日米合意で税率の一定の引き下げは実現した一方で、幅広い品目に課されている関税は二転三転し、なお不透明な状況が続いています。",
-      "summary_zh": "美日协议是日本时间23天内的一年. 在\"美日协定\"中,税率已经确定,但各种物品的关税却翻了一番并增加了三倍,不透明度也继续存在."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「副首都」法案 採決めぐり大詰めの調整へ 会期末を前に",
-      "title_zh": "调整抽样大额的\"副资本\"账单",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183041000.html",
-      "published_at": "2026-07-22T20:34:21+00:00",
-      "summary": "「副首都」構想の関連法案について、与党は24日に成立させたい考えです。これに対し、野党6党は法案の理念が明確でないなどとして反対する方針で、会期末を前に採決をめぐる調整が大詰めを迎えます。",
-      "summary_zh": "一种想法是,该党将在24日内为\"第二资本\"概念的相关法案而成立. 另一方面,QQposition 6 党是一项持有法案原则的政策,尚不明确等,在会议结束前做出决定的调整也很大."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "食料品消費税減税 方向性打ち出し困難の見方 各党主張記載も",
-      "title_zh": "粮食消费税减税 如何找到方向困难.",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183031000.html",
-      "published_at": "2026-07-22T20:31:18+00:00",
-      "summary": "食料品の消費税減税をめぐり、超党派の「国民会議」の実務者会議では各党の意見の隔たりが埋まっておらず、方向性を打ち出すのは難しいという見方が強まっています。今後、中間とりまとめ案に各党の主張を記載するこ…",
-      "summary_zh": "人们强烈地认为,尽管由于食品消费减税,各方的意见并没有被埋藏在超党集团\"全国会议\"的执业会中,但很难表达方向. 今后,我们将在中间和总结提案中阐述各方的主张."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Police formally investigate woman after Brit stabbed to death in French village",
-      "title_zh": "在法国村庄被Brit刺死后,警方正式调查女性",
-      "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T19:03:08+00:00",
-      "summary": "Karen Carter, who was found dead in 2025, is pictured with her husband Alan who described her as someone with a \"good heart\" who loved to have fun",
-      "summary_zh": "2025年被发现已死亡的凯伦·卡特被她的丈夫艾伦描绘成一个\"心地善良\"并喜欢玩乐的人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Modelling scout linked to Epstein found dead in Paris",
-      "title_zh": "与爱泼斯坦有关的模特探子在巴黎被发现死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T18:21:55+00:00",
-      "summary": "A modelling scout linked to the late convicted sex offender Jeffrey Epstein has been found dead at his home.",
-      "summary_zh": "一个与已故的性罪犯杰弗里·爱泼斯坦有关的建模侦察员被发现死在了家中."
+      "summary_zh": "警方表示,他们将在该地区维持大量人员,以保护财产免遭\"犯罪行为\"的侵害."
     },
     {
       "source": "BBC News",
@@ -171,157 +331,37 @@
       "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-22T17:54:57+00:00",
       "summary": "New York City Mayor Zohran Mamdani, who previously pledged to arrest Benjamin Netanyahu if he visited the city, now says he does not have the \"authority\" to do so.",
-      "summary_zh": "纽约市市长佐赫兰·马姆达尼(英语:Zohran Mamdani)此前曾保证,如果本雅明·内塔尼亚胡访问该市,他将逮捕他,现在却说他没有\"授权\"这样做."
+      "summary_zh": "纽约市市长佐赫兰·马姆达尼(英语:Zohran Mamdani)此前曾承诺如果本雅明·内塔尼亚胡访问该市,就会逮捕他,现在却说他没有\"授权\"这样做."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Louvre reopens gallery after jewellery heist",
-      "title_zh": "观看:卢浮宫在抢走珠宝后重新开放画廊",
+      "title_zh": "观看:卢浮宫在抢珠宝后重新开放画廊",
       "link": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-22T16:54:33+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
-      "title_zh": "两名俄罗斯人在安哥拉犯有恐怖主义和间谍罪",
-      "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T16:34:35+00:00",
-      "summary": "(From left to right) Russians Lev Lakshtanov and Igor Ratchin were on trial with two Angolans, Amor Carlos Tomé and Francisco Oliveira",
-      "summary_zh": "(从左到右)俄罗斯人列夫·拉克什塔诺夫和伊戈尔·拉钦被两名安哥拉人阿莫尔·卡洛斯·托梅和弗朗西斯科·奥利维拉审判."
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-      "title_zh": "影响航空安全的泛美飞机坠毁事件",
+      "title_zh": "泛美飞机坠毁 形成航空安全发现74年",
       "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-22T15:50:17+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-      "title_zh": "乌克兰新任总司令Mykhailo Drapatyi是谁?",
-      "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T15:19:48+00:00",
-      "summary": "Mykhailo Drapatyi, 43, is seen as a \"humane and strong\" military leader",
-      "summary_zh": "Mykhailo Drapatyi,43岁,被视为一个\"人道而坚强\"的军事领袖"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-      "title_zh": "乌克兰无人机第二次袭击了俄罗斯在线巨型零售商Wildberry",
-      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T14:52:25+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mysterious white foam draws crowds on Nigerian highway",
-      "title_zh": "神秘的白色泡沫在尼日利亚高速公路上吸引了人群",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g14lzy17o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T14:47:32+00:00",
-      "summary": "Laboratory tests are under way to establish what is the substance",
-      "summary_zh": "正在进行实验室测试,以确定物质是什么"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tankers make sharp U-turns after Houthi shipping threat",
-      "title_zh": "油轮在呼和浩特船运威胁后急转直下",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T14:42:49+00:00",
-      "summary": "At least seven oil tankers have made U-turns close to Yemen since the Iran-linked Houthi group announced a \"maritime embargo\" against Saudi Arabia on Monday, ship-tracking data shows.",
-      "summary_zh": "至少有7艘油轮在与伊朗有联系的呼和浩特集团周一宣布对沙特阿拉伯实施\"海上禁运\"后,使U-turn接近也门,船只跟踪数据显示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-      "title_zh": "英国女人在香港控告银行家强奸后 以敲诈勒索罪入狱",
-      "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T14:14:16+00:00",
-      "summary": "A British woman has been jailed for six years in Hong Kong for blackmail and perverting the course of justice after a court found she made a false allegation of rape.",
-      "summary_zh": "一名英国女子在香港因讹诈和扭曲司法过程而入狱六年,此前法庭发现她曾提出强奸的虚假指控."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
-      "title_zh": "警察局在希特勒出生地开张 以争取摆脱纳粹的链接",
-      "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T12:32:13+00:00",
-      "summary": "Police were stationed outside the refurbished building as it opened on Wednesday",
-      "summary_zh": "星期三在翻修的大楼外开业时,警察驻扎在大楼外"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-      "title_zh": "印度莫迪政府受到越来越大的压力,",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T08:02:04+00:00",
-      "summary": "Despite heavy rains, thousands of protesters have continued to gather at Jantar Mantar in Delhi",
-      "summary_zh": "数以千计的抗议者继续聚集在德里的Jantar Mantar,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "title_zh": "Zelensky在数日的抗议之后,",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T05:37:43+00:00",
-      "summary": "Oleksandr Syrskyi was praised by President Zelensky for successfully defending Ukraine's capital Kyiv in 2022",
-      "summary_zh": "奥列克桑德·锡尔斯基于2022年被泽连斯基总统称赞为成功保卫了乌克兰首都基辅."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "title_zh": "叛逆者威尔逊在她自己的电影中 提起的诽谤案中被清除",
-      "link": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T05:33:04+00:00",
-      "summary": "Rebel Wilson has been cleared of defaming a young actress who starred in her film The Deb",
-      "summary_zh": "叛逆的威尔逊被清除 诽谤一名年轻女演员 她主演的电影 The Deb"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Beluga whales travel by plane and lorry to US from closed Canadian marine park",
-      "title_zh": "观察:Beluga鲸从封闭的加拿大海洋公园乘飞机和卡车去美国",
+      "title_zh": "观察:Beluga鲸从封闭的加拿大海洋公园乘飞机和卡车前往美国",
       "link": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-22T05:03:42+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "title_zh": "伊朗战争至今已耗资37.5美元,",
-      "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T02:15:05+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch Texas police officer pull man from burning car",
-      "title_zh": "德克萨斯州警察把人从烧车里拉出来",
-      "link": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-21T13:01:09+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     }
   ]
 }
