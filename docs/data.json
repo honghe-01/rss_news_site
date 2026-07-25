@@ -1,47 +1,217 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-24T23:15:52+00:00",
+  "generated_at": "2026-07-25T23:09:38+00:00",
   "count": 32,
   "items": [
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "インドで教育相辞任 “ゴキブリ人民党” デモ収束に向かうか",
+      "title_zh": "你会去印度的示范聚会吗?",
+      "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186321000.html",
+      "published_at": "2026-07-25T22:43:51+00:00",
+      "summary": "インドで大学の入試問題の漏えい疑惑から発展した政府への抗議デモが拡大する中、25日、教育相が「学生たちが学業に専念できるよう考慮する」として辞任を表明しました。これを受けて、デモを主催した団体側は、抗…",
+      "summary_zh": "25天后,印度的教育阶段因“认为学生应专注于学术工作”而辞职。 对此,该演示是由该团体组织反."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ドイツ “性的少数者のイベントに車 死傷者も” 海外メディア",
+      "title_zh": "德国“性少数群体事件中的车辆”",
+      "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186341000.html",
+      "published_at": "2026-07-25T22:31:52+00:00",
+      "summary": "AFP通信などによりますと、ドイツの首都ベルリンで現地時間の25日夜、車が群衆に突っ込み1人が死亡し、およそ15人がけがをしたということです。",
+      "summary_zh": "在AFP通信案件中,据说这辆车在德国首都柏林的人群中死亡了25个昼夜."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "トランプ大統領がイラン攻撃しないよう指示か 米報道",
+      "title_zh": "川普总统攻击伊朗的指示",
+      "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
+      "published_at": "2026-07-25T22:29:29+00:00",
+      "summary": "アメリカとイランの間では、およそ2週間にわたって攻撃の応酬が続きましたが、25日から26日朝にかけていずれも直接の攻撃は伝えられていません。アメリカのメディアはトランプ大統領が24日、新たにイランを攻…",
+      "summary_zh": "QQ为美国和伊朗,袭击已持续了近两周,但25至26日早晨之间没有直接袭击的报道. 美国媒体于24日向伊朗出击. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "西日本など危険な暑さに 北陸や新潟で非常に激しい雨のおそれ",
+      "title_zh": "西日本等地的热量非常大,",
+      "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186311000.html",
+      "published_at": "2026-07-25T22:27:32+00:00",
+      "summary": "25日、東海と山梨県では最高気温が40度以上を観測し、国内で5日連続の「酷暑日」となって記録を更新しました。26日も東海と近畿、四国、九州では危険な暑さが予想され、引き続き熱中症への対策を徹底してくだ…",
+      "summary_zh": "25日,东开和亚马纳希都道府县的最高气温观测到40度或以上,纪录被延续为日本连续5天的\"热日\". 26日,预计东开,金基,石口,九州等地会出现危险热,并会继续采取措施取暖. ."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
+      "title_zh": "粉碎出击:亚历克·埃拉的\"温布尔登\"是如何让菲律宾人每天都爱上网球的",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T22:15:14+00:00",
+      "summary": "Alex Eala is the Philippines' newest sports star",
+      "summary_zh": "Alex Eala是菲律宾最新的体育明星"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか",
+      "title_zh": "何为“标志”表示存在“超级背景神经元”?",
+      "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186081000.html",
+      "published_at": "2026-07-25T21:26:14+00:00",
+      "summary": "素粒子の1つ「ニュートリノ」は、宇宙の歴史を通じて星の爆発によって放出され、今も宇宙に蓄積されていると考えられていますが、その存在を示す“兆候”を初めて捉えたと、東京大学などの国際研究グループが発表し…",
+      "summary_zh": "一个粒子\"中微子\"由恒星通过宇宙历史的爆炸而释放出,据信它仍然被积累在宇宙中,但第一个表示存在性的\"信号\"是由东京大学等国际研究小组提出的. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "「飛鳥・藤原の宮都」きょう世界文化遺産に登録決定の見通し",
+      "title_zh": "\"相克和藤原宫\"",
+      "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186101000.html",
+      "published_at": "2026-07-25T20:51:27+00:00",
+      "summary": "韓国で開かれているユネスコの世界遺産委員会で、26日、日本が推薦している奈良県内の飛鳥時代の遺跡群、「飛鳥・藤原の宮都」の世界遺産への登録が決まる見通しです。登録されれば、日本国内では27件目の世界遺…",
+      "summary_zh": "联合国教科文组织世界遗产委员会(UNESCO World Heritage Committee)在韩国举行, 第27个世界仍在日本..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "相模原 障害者施設殺傷事件からきょうで10年",
+      "title_zh": "坂原自残废设施被屠杀起已十年",
+      "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186241000.html",
+      "published_at": "2026-07-25T20:35:08+00:00",
+      "summary": "相模原市の知的障害者施設で19人が殺害された事件から、26日で10年です。施設ではことしも一般の献花を受け付け、犠牲者を追悼することにしています。",
+      "summary_zh": "距坂原市一智残所19人被害案26天已过去了10年. 在设施中,我们还接受普遍的奉献精神并哀悼受害者。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "title_zh": "教育部长辞职后,",
+      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T17:44:46+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "title_zh": "25万多人逃离了法国和西班牙的野火",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T17:13:40+00:00",
+      "summary": "Firefighters battle flames in Lège-Cap-Ferret, south-western France",
+      "summary_zh": "法国西南部Lège-Cap-Ferret的消防员战斗火焰"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "title_zh": "特朗普在白宫记者晚宴上 以刷相报",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T13:51:07+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Protesters celebrate resignation of India's education minister",
+      "title_zh": "印度教育部长辞职,",
+      "link": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T13:44:01+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "CJP protest: The youth movement India's Modi didn't see coming",
+      "title_zh": "CJP抗议:印度的Modi青年运动没有预见到来。",
+      "link": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T13:26:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "title_zh": "我们该怎么担心OpenAI黑客?",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T10:14:41+00:00",
+      "summary": "This week the tech world was gripped by a story that has it all - and which started like a sci-fi thriller.",
+      "summary_zh": "这个星期,科技世界 被一个故事所困住, 故事的开始就像一个科幻惊悚片。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "title_zh": "伊朗支持的Houthis对沙特阿拉伯的导弹攻击",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T06:34:40+00:00",
+      "summary": "There have been protests in recent days in support of the Houthi-imposed naval blockade in the Yemeni capital of Sana'a",
+      "summary_zh": "也门首都萨那(Sana'a)遭海禁,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "title_zh": "特朗普命令史密森尼安发布警告,",
+      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T02:23:09+00:00",
+      "summary": "The Immokalee Statue of Liberty by Kat Rodriguez inside the Smithsonian American History Museum",
+      "summary_zh": "史密森美国历史博物馆内 由Kat Rodriguez出品的自由女神像"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "title_zh": "短信显示14岁被歌手D4vd谋杀 怀孕堕胎",
+      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T02:14:50+00:00",
+      "summary": "WARNING: Readers may find details in this article distressing.",
+      "summary_zh": "警告:读者可能会在本篇文章中找到令人不安的细节."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "title_zh": "俄国攻击基辅附近的无人机展览 造成10人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T00:06:53+00:00",
+      "summary": "Emergency services clear through the rubble following the Russian missile strike just outside Kyiv",
+      "summary_zh": "俄罗斯导弹袭击后在基辅外的瓦砾中清除了紧急服务"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
+      "title_zh": "流行乐队从为救狗演奏到卖竞技场",
+      "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T23:01:10+00:00",
+      "summary": "Muna's concert for rescue dogs didn't go according to plan",
+      "summary_zh": "穆纳的救狗演唱会没有按计划进行"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "title_zh": "Zelensky试图解决解除国防部长职务的危机并计算费用",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T23:01:06+00:00",
+      "summary": "Protesters in Ukrainian cities have welcomed the change of commander-in-chief but continue to call for the return of Mykhailo Fedorov",
+      "summary_zh": "乌克兰各城市的抗议者欢迎总司令的更迭,但仍呼吁Mykhailo Fedorov回国。"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "title_zh": "在西岸枪击中打死4名巴勒斯坦人和2名以色列人",
+      "title_zh": "在西岸枪击中有4名巴勒斯坦人和2名以色列人被炸死",
       "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T22:49:59+00:00",
       "summary": "It was the deadliest incident of its kind in the West Bank for months",
       "summary_zh": "这是几个月来西岸最致命的事件"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米大統領“大規模攻撃の準備万端もイラン側と話し合っている”",
-      "title_zh": "美国总统“我们正在与伊朗方面讨论大规模筹备工作”。",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185821000.html",
-      "published_at": "2026-07-24T22:34:18+00:00",
-      "summary": "アメリカのトランプ大統領は24日、ホワイトハウスで、イランに対する大規模な攻撃を検討していると発言していたことに関連して「現在、イラン側と話し合っている。引き金となるような出来事が起きないかもしれない…",
-      "summary_zh": "美国总统特朗普24日在白宫与伊朗方面讨论. 可能没有任何事件可以撤销..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東北や新潟県 非常に激しい雨のおそれ 各地で危険な暑さも",
-      "title_zh": "东北和北美极端暴雨.",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185701000.html",
-      "published_at": "2026-07-24T22:14:09+00:00",
-      "summary": "停滞する前線の影響などで、東北南部や新潟県では雨雲が発達しています。東北や新潟県では25日、激しい雨や非常に激しい雨が降るおそれがあり、土砂災害、低い土地の浸水、川の増水や氾濫に警戒が必要です。 一方…",
-      "summary_zh": "东莞东南部和中东因三庚化前线而发展出雨云. 在东莞和塞塔加雅,有暴雨或非常暴雨的可能,必须警惕泥沙灾害,低地浸水,河水和洪水."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "title_zh": "法国和西班牙有14万多人撤离,",
-      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T21:47:16+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -51,113 +221,43 @@
       "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T21:02:30+00:00",
       "summary": "Karim Khan denies all the allegations against him",
-      "summary_zh": "卡里姆·汗否认对他的指控"
+      "summary_zh": "Karim Khan否认对他的所有指控"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump vows to investigate EU over fining of US tech companies",
-      "title_zh": "特朗普发誓调查欧盟对美国科技公司的罚款",
+      "title_zh": "特朗普发誓要调查欧盟对美国科技公司的罚款",
       "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T20:23:58+00:00",
       "summary": "US President Donald Trump has taken issue with European regulators in the past.",
       "summary_zh": "美国总统唐纳德·特朗普过去对欧洲监管者持异议."
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "フィギュアスケート女子シングル 島田麻央がシニアデビュー",
-      "title_zh": "图 Skate 女子单人毛岛田初一毕业",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185711000.html",
-      "published_at": "2026-07-24T20:17:25+00:00",
-      "summary": "フィギュアスケートの世界ジュニア選手権、女子シングルで史上初の4連覇を達成した17歳の島田麻央選手がシニアデビューとなる国内の大会に臨み、前半のショートプログラムで大きなミスのない演技で高得点をマーク…",
-      "summary_zh": "花样滑冰世界少年锦标赛,17岁的毛岛田在女子单打史上连续获得前4次冠军,进入了全国锦标赛,成为高级首秀,在短节目的前半段以大错误标志着高分. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "インド 若者抗議デモ 約7週間続く 混乱収束の見通し立たず",
-      "title_zh": "印度青年抗争运动",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185691000.html",
-      "published_at": "2026-07-24T20:13:48+00:00",
-      "summary": "インドでは、大学の入試問題の漏えい疑惑から発展した、若者たちの政府への抗議デモがおよそ7週間にわたって続き、混乱が収束する見通しは立っていません。",
-      "summary_zh": "在印度,因怀疑大学入学考试而发展起来的年轻人向政府提出的抗议持续了大约7周,并且没有混淆的状态."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "「全東信」経営破綻 経産省と金融庁が調査を開始",
-      "title_zh": "经济、贸易和工业部及金融服务局",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185721000.html",
-      "published_at": "2026-07-24T20:08:39+00:00",
-      "summary": "クレジットカードの決済代行サービスを行う「全東信」が経営破綻し、利用していた飲食店を中心に影響が広がっていることを受けて、経済産業省と金融庁は、決済代行サービスの実態や、この会社に融資していた金融機関…",
-      "summary_zh": "经济产业部和金融局针对信用卡\"All Toshin\"的支付代理服务被拆解,被使用的餐厅影响力扩大等情况."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "福岡県議会 正副議長ポストめぐる問題 調査の透明性確保が焦点",
-      "title_zh": "最近颁布的《议会法令》侧重于确保调查的透明度。",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185681000.html",
-      "published_at": "2026-07-24T20:04:49+00:00",
-      "summary": "正副議長ポストをめぐり、金銭授受があったと指摘されている福岡県議会では24日、中尾正幸副議長が、県政の混乱を招いたなどとして議員辞職しました。県議会の中からは、事実関係を明らかにするため、第三者委員会…",
-      "summary_zh": "24日,中野正树辞去国会议员职务,被指有货币拨款. 第三方委员会 澄清事实 在乡村前议会..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "国会が事実上閉会 合意形成どう図るかが次の国会でも課題に",
-      "title_zh": "国民议会实际上已经关闭。 下列国家协会也面临问题。",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185731000.html",
-      "published_at": "2026-07-24T20:02:31+00:00",
-      "summary": "国会は24日夜、「副首都」構想の関連法などが成立し、事実上閉会しました。最終盤では、与野党の対立が先鋭化して審議が停滞する場面もみられ、参議院で与党が過半数に達しない状況が続く中、合意形成をどう図るか…",
-      "summary_zh": "24日晚,国会完成了\"副首都\"概念的相关法律,关闭. 在最后阶段,有些场景使约诺党的对峙更加尖锐,审议也十分激烈,还存在党在众议院没有达到多数的情况,如何找出共识的形成. ."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "title_zh": "俄罗斯攻击基辅附近的无人机展览 造成10人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T18:51:17+00:00",
-      "summary": "Emergency services clear through the rubble following the Russian missile strike just outside Kyiv",
-      "summary_zh": "俄罗斯导弹袭击后在基辅外的废墟上清除了紧急服务"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "title_zh": "美国和伊朗在海湾进行更多的袭击,因为对升级的恐惧增加",
-      "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T18:13:02+00:00",
-      "summary": "Vessels sighted in the Strait of Hormuz from Oman on 23 July",
-      "summary_zh": "7月23日从阿曼在霍尔木兹海峡看到的船只"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
-      "title_zh": "印度蟑螂抗议:视频显示官员发射\"弹丸枪\".",
+      "title_zh": "印度蟑螂抗议:视频显示,",
       "link": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T16:12:34+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "World chess chief faces endgame after EU announces Russia war sanctions",
-      "title_zh": "在欧盟宣布俄罗斯战争制裁后,世界国际象棋棋长面临终局",
+      "title_zh": "在欧盟宣布俄罗斯战争制裁后,世界国际象棋棋长面临结束游戏",
       "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T16:08:51+00:00",
       "summary": "Arkady Dvorkovich has overseen the chess federation during one of the most turbulent periods in the history of the game",
-      "summary_zh": "Arkady Dvorkovich在赛事史上最动荡的时期 监督过国际象棋联合会"
+      "summary_zh": "Arkady Dvorkovich在游戏史上最动荡的时期 监督了国际象棋联合会"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Nigeria's president approves largest military expansion in recent times",
-      "title_zh": "尼日利亚总统批准近代最大的军事扩张",
+      "title_zh": "尼日利亚总统最近批准最大的军事扩张",
       "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T15:22:56+00:00",
       "summary": "The new army divisions will lead to better co-ordination and faster response times, the government says",
@@ -171,37 +271,27 @@
       "link": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T15:13:46+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "title_zh": "印尼婴儿被贩卖到新加坡. 他们现在怎么了?",
+      "title_zh": "印度尼西亚婴儿被贩卖到新加坡。 他们现在怎么了?",
       "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T13:33:06+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
-      "title_zh": "坦桑尼亚讲师因被控恐怖主义的反政府抗议被捕",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T12:55:58+00:00",
-      "summary": "Melkisedek Kaijage was among more than 130 people arrested earlier this month",
-      "summary_zh": "Melkizek Kaijage是本月早些时候被捕的130多人之一。"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "US hits dozens of countries with new wave of tariffs",
-      "title_zh": "美国以新一轮关税打击了数十个国家",
+      "title_zh": "美国以新一波关税打击了几十个国家",
       "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T12:40:44+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -211,17 +301,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T11:53:49+00:00",
       "summary": "Ramaphosa has been haunted by the theft of large sums of cash from his private farm in 2020",
-      "summary_zh": "Ramaphosa在2020年私家农场大量现金被盗后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "India's 'cockroach' protesters hold talks with government as stalemate continues",
-      "title_zh": "印度的「胆小鬼」抗议者与政府举行会谈,",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T10:31:10+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "Ramaphosa在2020年从私人农场偷来一大笔现金,"
     },
     {
       "source": "BBC News",
@@ -231,97 +311,17 @@
       "link": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T10:21:31+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-      "title_zh": "Tech Titan下令支付前妻6.44亿美元离婚偿金",
-      "link": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T08:30:58+00:00",
-      "summary": "Chey Tae-won, chairman of SK Group",
-      "summary_zh": "SK集团董事长谢泰元"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Families still search for bodies a month after Venezuela earthquakes",
-      "title_zh": "委内瑞拉地震发生一个月后,",
+      "title_zh": "委内瑞拉地震发生后一个月,",
       "link": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-24T05:47:11+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "title_zh": "胡塞族的袭击使人们对更广泛的中东冲突和更多的全球经济破坏产生恐惧",
-      "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T01:59:49+00:00",
-      "summary": "Attacks launched from Yemen could disrupt the vital Bab El Mandeb Strait shipping route, further restricting global trade",
-      "summary_zh": "从也门发动的袭击可能破坏重要的Bab El Mandeb海峡航线,进一步限制全球贸易。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Driver dressed as Spider-Man whisks man in a wheelchair across busy road",
-      "title_zh": "驾驶员穿着蜘蛛侠的长须 坐在轮椅上",
-      "link": "https://www.bbc.co.uk/news/videos/c4gv311jr01o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T01:39:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "CJP protest: The youth movement India's Modi didn't see coming",
-      "title_zh": "CJP抗议:印度的莫迪青年运动没有预见到来,",
-      "link": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-23T23:41:32+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "title_zh": "特朗普与沙特的核交易 抛弃了美国的长期要求",
-      "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-23T12:58:40+00:00",
-      "summary": "The Trump administration's nuclear agreement with Saudi Arabia reversed a years-long stance toward a key Middle East ally.",
-      "summary_zh": "川普政府与沙特阿拉伯的核协议扭转了对中东关键盟友长达多年的立场."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-      "title_zh": "他们犯了什么罪? BBC访问伊朗学校,",
-      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-23T04:49:24+00:00",
-      "summary": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-      "summary_zh": "他们犯了什么罪? BBC访问伊朗学校,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
-      "title_zh": "连骆驼都应付不了:非洲沙漠的飞船受到气温上升的打击",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T23:22:53+00:00",
-      "summary": "Livestock herders in the Horn of Africa and North Africa have switched to camels over the years because of their famed resilience",
-      "summary_zh": "非洲之角和北非的畜牧者多年来因有名的适应力而转向骆驼"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
-      "title_zh": "在孟加拉国学校坠毁一年后,",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-22T22:04:07+00:00",
-      "summary": "Families of victims say they are still waiting for answers about the deadly jet crash",
-      "summary_zh": "遇难者家属表示仍在等待致命喷气式飞机坠毁的答案."
+      "summary_zh": "此视频无法播放"
     }
   ]
 }
