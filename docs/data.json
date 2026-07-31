@@ -1,97 +1,217 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-07-30T23:18:22+00:00",
-  "count": 38,
+  "generated_at": "2026-07-31T23:15:38+00:00",
+  "count": 46,
   "items": [
     {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "39度予想 熊本被災地でも猛暑日に できるかぎりの対策を",
+      "title_zh": "第39次预测熊本地震灾害预防措施,可以在炎热的一天采取",
+      "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193191000.html",
+      "published_at": "2026-07-31T22:10:50+00:00",
+      "summary": "西日本と東日本では1日、広い範囲で38度以上の危険な暑さとなり、熊本県の地震の被災地でも31日より気温が高くなると予想されています。熱中症を防ぐためにできるかぎりの対策を行ってください。一方、前線や湿…",
+      "summary_zh": "预计即使在熊本地震灾区,气温也会高于31天. 请采取措施防止中暑. 另一方面,前线和湿..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "熊本で震度7 同程度の地震注意 猛暑予想 熱中症対策を",
+      "title_zh": "熊本地震烈度7地震预警.",
+      "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193161000.html",
+      "published_at": "2026-07-31T22:09:38+00:00",
+      "summary": "先月28日、最大震度7の揺れを観測した熊本県ではその後も地震活動が続いていて、気象庁は1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。熊本県では来週にかけて危険な暑さが予想されていて、…",
+      "summary_zh": "熊本县上月观测到高达7次地震烈度的动荡,此后地震活动仍在继续,气象局呼吁关注每周高达7次的地震. 在熊本县,预计下周会有危险..."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "円相場 再び急激な円買い 米財務省が市場介入の可能性伝達",
+      "title_zh": "转移市场干预的可能性",
+      "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193171000.html",
+      "published_at": "2026-07-31T21:35:27+00:00",
+      "summary": "外国為替市場では日本時間の31日夕方からけさ早くにかけて短時間で急激に円が買われる場面が相次ぎ、一時、1ドル＝157円台前半とおよそ2か月半ぶりの円高水準をつけました。アメリカ財務省が複数の銀行に対し…",
+      "summary_zh": "在外汇市场上,从日本时间31日晚起,在很短的时间内突然可以买到日元的场景,加上了约2个月前半期的日元高水平. 美国财政部致多家银行"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "大手銀行 8月の住宅ローン固定金利引き上げ 長期金利上昇で",
+      "title_zh": "8月增加mgage固定利率",
+      "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193091000.html",
+      "published_at": "2026-07-31T21:22:31+00:00",
+      "summary": "長期金利の上昇傾向が続く中、大手銀行は、8月から適用する住宅ローンの固定金利を引き上げることを決めました。",
+      "summary_zh": "随着长期利率的上升,各大银行决定将mgage固定利率提高8."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "消費税減税 自民党内に慎重意見も根強く 週明けも議論継続へ",
+      "title_zh": "减少消费税 在私党中,谨慎的意见也根植于内心.",
+      "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193121000.html",
+      "published_at": "2026-07-31T21:08:11+00:00",
+      "summary": "食料品の消費税減税をめぐり、政府は、来年4月から2年間、税率を1％に引き下げるなどとした基本方針案を来週中にも閣議決定したい考えです。ただ、自民党内には慎重な意見も根強く、週明けも意見集約に向けた議論…",
+      "summary_zh": "政府打算决定从明年4月到2月将税率降低到1%的基本政策计划. 然而,这些意见在私党中非常重要,周初关于巩固意见的讨论."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "熊本地震 避難生活の長期化も見据え環境改善進める 政府",
+      "title_zh": "熊本地震通过长期外延改善环境",
+      "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193101000.html",
+      "published_at": "2026-07-31T21:03:04+00:00",
+      "summary": "今回の地震で、政府は、避難生活が長引くことも想定し、車中泊をしている人へのガソリンの供給強化や、被災地の外にあるホテルの空室の活用など、猛暑の中での避難環境の改善を進めることにしています。",
+      "summary_zh": "在这次地震中,政府打算改善炎热天气中的疏散环境,比如加强对留在车内的人的供应,并利用灾区以外的空缺."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "熊本地震 関連調査中含め36人死亡 9500人余りが避難 県発表",
+      "title_zh": "熊本地震调查中36人死亡 9500人被疏散",
+      "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193131000.html",
+      "published_at": "2026-07-31T20:52:48+00:00",
+      "summary": "熊本県は、7月31日午後7時時点で、今回の地震で県内では災害との関連を調査している2人を含めて36人が死亡し、9500人余りが避難していることなどを発表しました。",
+      "summary_zh": "熊本县,截至7月31日晚7时,调查县内灾害联动的36人,包括2人,9500多人撤离."
+    },
+    {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
-      "title_zh": "特朗普说和平委员会已经就哈马斯解除武装达成协议",
-      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-30T23:08:51+00:00",
-      "summary": "US President Donald Trump says the Board of Peace has reached an agreement for the \"complete disarmament\" of Hamas and other armed groups in Gaza in what he says was \"a critical step towards Gaza finally being governed by a new Palestinian government\".",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)说,和平委员会已经达成协议,将哈马斯和加沙的其他武装团体\"彻底解除武装\",他说,这是\"朝着加沙最终由巴勒斯坦新政府统治迈出的关键一步\"."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "米中の経済貿易担当高官がオンライン会談 習主席訪米の調整か",
-      "title_zh": "美国-日本经贸官员讨论如何调整美国.",
-      "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191501000.html",
-      "published_at": "2026-07-30T22:10:45+00:00",
-      "summary": "アメリカと中国の経済貿易協議を担当する高官が30日夜オンラインで会談しました。中国側の発表では最近のアメリカの措置に強い懸念を示したとする一方、経済や貿易での協力拡大で合意したとしていて、9月に予定さ…",
-      "summary_zh": "负责美中经贸磋商的高野先生在线会面30昼夜. 在中国的介绍中,我们强烈地关注美国的全球环境,但我们已同意扩大经济和贸易方面的合作,我们计划在9月. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
-      "title_zh": "阿昂·马勒·熊本 有没有留下一个人? 警察继续搜查",
-      "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191471000.html",
-      "published_at": "2026-07-30T22:10:12+00:00",
-      "summary": "地震後に大規模な爆発が起きた熊本県嘉島町の「イオンモール熊本」では31日も、取り残された人がいないかを確認するため、警察による捜索が行われています。",
-      "summary_zh": "警方进行了搜查,以确认在熊本县的上岛町是否有人被留下了31天,地震后发生了大爆炸."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "【被害状況】熊本地震 関連調査中含め34人死亡 熊本県発表",
-      "title_zh": "[受害者状况] 34起死亡,包括在调查熊本地震期间死亡",
-      "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191421000.html",
-      "published_at": "2026-07-30T22:06:08+00:00",
-      "summary": "熊本県は30日の災害対策本部会議で、今回の地震で亡くなったかどうか調査中の人も含めて34人が死亡したと発表しました。",
-      "summary_zh": "熊本县宣布有34人死亡,包括正在接受调查的人是否在地震中死亡."
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "title_zh": "美国登山者的尸体,巴基斯坦雪崩之后的最新发现",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T20:22:46+00:00",
+      "summary": "The remains of US climber Mallory Geis have been found by rescuers following an avalanche on one of the world's highest mountains, a local government body says.",
+      "summary_zh": "美国登山者Mallory Geis的遗骨 已被救援人员发现 在世界上最高的山上遭遇雪崩 地方政府机构说"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "title_zh": "数百名移民从摩洛哥游到西班牙休达飞地",
-      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-30T21:24:31+00:00",
+      "title": "What triggered the mass migrant crossings into Ceuta?",
+      "title_zh": "是什么导致大规模移民越境进入休达?",
+      "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T18:29:04+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "東～西日本中心に危険な暑さ 熊本県内も猛烈な暑さ予想",
-      "title_zh": "东到西熊本市中心的热量很大",
-      "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191291000.html",
-      "published_at": "2026-07-30T21:09:15+00:00",
-      "summary": "31日も東日本と西日本を中心に危険な暑さになる見込みです。熊本県の地震の被災地では30日より気温が高く猛烈な暑さになると予想されていて、熱中症を防ぐためにできるかぎりの対策を行ってください。",
-      "summary_zh": "预计它将会是以东日本和西日本为中心的危险热能. 在熊本地震灾区,预计从30天起气温会高而剧烈地发热,所以请采取措施防止发热.ke."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "熊本で震度7 同程度の地震に注意 きょうは猛烈な暑さに",
-      "title_zh": "熊本7号的地震强度 当心同一起地震",
-      "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191461000.html",
-      "published_at": "2026-07-30T20:42:46+00:00",
-      "summary": "28日に最大震度7の揺れを観測し、大きな被害が出ている熊本県では地震活動が活発な状態が続いています。気象庁は1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。 また、熊本県では31日は各…",
-      "summary_zh": "在熊本县,地震活动十分活跃。 日本气象厅呼吁注意每周最多7次的地震. 在熊本县,每人31天..."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "消費税減税 自民 高市首相指示受け意見集約急ぐ 党内異論も",
-      "title_zh": "减税 高一总理自授",
-      "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191271000.html",
-      "published_at": "2026-07-30T20:05:47+00:00",
-      "summary": "食料品の消費税減税をめぐり、高市総理大臣が来年4月から2年間、税率を1％に引き下げる方針を表明したことを受けて、自民党執行部は意見集約を急ぐ方針です。ただ、党内では「財源が明確でない」などと異論も表面…",
-      "summary_zh": "经济、贸易和工业部表示,明年4月至2月将税率降至1%。 然而,\"货物来源不明确\"的异议也是表面的."
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-      "title_zh": "在西班牙飞地Ceuta的边界围栏周围游来游去的移民",
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "title_zh": "西班牙首相指责60,000名移民从摩洛哥来到休达后,",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T17:03:47+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What's in the Gaza peace deal roadmap?",
+      "title_zh": "加沙和平协议的路线图是什么?",
+      "link": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T16:00:56+00:00",
+      "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms - a decision US President Donald Trump has described as \"a monumental step toward lasting peace and security\".",
+      "summary_zh": "哈马斯表示接受加沙的解除武装计划,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+      "title_zh": "观察:数万移民从摩洛哥进入西班牙休达",
       "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-30T19:16:18+00:00",
+      "published_at": "2026-07-31T15:48:34+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "title_zh": "Bowen:哈马斯解除武装的计划面临巨大障碍,但给加沙带来了罕见的希望。",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T15:18:31+00:00",
+      "summary": "There are many reasons why it might not work.",
+      "summary_zh": "有许多原因可能行不通。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "title_zh": "数百人在海上逃过希腊的野火 纵火横扫欧洲",
+      "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T14:26:07+00:00",
+      "summary": "Hundreds of people in central Greece are being evacuated by sea after the coastal town they were in became hemmed in by one of the many wildfires raging across the country.",
+      "summary_zh": "希腊中部的数百人在海边撤离,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title_zh": "秘鲁前总统因腐败罪名被推翻被判15年徒刑",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T10:32:17+00:00",
+      "summary": "Peru's constitutional court has overturned a 15-year jail sentence handed to the country's former president after he was found guilty of corruption.",
+      "summary_zh": "秘鲁宪法法院推翻了前总统因贪污罪被判入狱15年的判决."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anthropic's Claude AI escapes to hack into three organisations",
+      "title_zh": "Anthropic的Claude AI逃到黑客三个组织",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T10:18:54+00:00",
+      "summary": "Anthropic chief executive Dario Amodei",
+      "summary_zh": "雅典首席执行官达里奥·阿莫代"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fifa says 'nobody selling football' as plan continues",
+      "title_zh": "菲法说\"没有人卖橄榄球\" 计划继续",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T08:21:37+00:00",
+      "summary": "Gianni Infantino has been Fifa president since 2016",
+      "summary_zh": "Gianni Infantino自2016年起担任菲法总裁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "title_zh": "西班牙派出数千人从摩洛哥进入休达飞地",
+      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T08:09:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "title_zh": "英国说唱歌手Yung Filly在澳大利亚选秀后被判强奸女性无罪",
+      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T05:21:18+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What could happen to Fifa if Uefa boycotts World Cup?",
+      "title_zh": "如果乌埃法抵制世界杯,菲法会怎么样?.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T05:14:17+00:00",
+      "summary": "Uefa president Aleksander Ceferin (left) has been firmly against many changes driven by Fifa counterpart Gianni Infantino (right)",
+      "summary_zh": "Uefa总裁Aleksander Ceferin(左翼)坚决反对Fifa对手Gianni Infantino(右翼)推动的许多变化。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India wants to join the strawberry superpowers",
+      "title_zh": "印度想加入草莓超级大国",
+      "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-30T22:04:09+00:00",
+      "summary": "India relies on strawberry varieties from the US and Europe",
+      "summary_zh": "印度依靠美国和欧洲的草莓品种"
     },
     {
       "source": "BBC News",
@@ -101,7 +221,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T17:55:24+00:00",
       "summary": "The level of the water of the Danube is so low that the nuclear power plant's suction nozzles cannot reach it",
-      "summary_zh": "多瑙河的水位太低,以至于核电站的吸管喷嘴无法到达"
+      "summary_zh": "多瑙河水位太低 核电站的吸积喷嘴无法到达"
     },
     {
       "source": "BBC News",
@@ -111,7 +231,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T17:33:41+00:00",
       "summary": "The father of a teenage boy who shot and killed four people at a high school in the US state of Georgia has been sentenced to 15 years in prison for murder, manslaughter and other charges.",
-      "summary_zh": "一名十几岁男孩的父亲在美国乔治亚州一所高中开枪打死了4人,他因谋杀、过失杀人和其他罪名被判处15年监禁。"
+      "summary_zh": "在美国乔治亚州一所高中开枪打死4人的十几岁男孩的父亲因谋杀、过失杀人和其他罪名被判处15年监禁。"
     },
     {
       "source": "BBC News",
@@ -131,27 +251,17 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T16:47:40+00:00",
       "summary": "Winners Spain were one of six European teams to reach the quarter-finals of this summer's World Cup",
-      "summary_zh": "胜出者西班牙是六支欧洲球队之一 进入本届夏季世界杯四分之一决赛"
+      "summary_zh": "赢得冠军的西班牙是欧洲六支队伍之一 达到本届夏季世界杯的四分之一决赛"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "title_zh": "成千上万人撤离克里特,因为野火威胁了旅游胜地",
+      "title_zh": "由于野火威胁旅游胜地,数千人撤离克里特",
       "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T16:04:53+00:00",
       "summary": "Residents and tourists have been evacuated from several villages in Crete",
       "summary_zh": "居民和游客已从克里特的几个村庄撤离"
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
-      "title_zh": "纽约市场 1美元=157日元升至下半个市场干预观察",
-      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
-      "published_at": "2026-07-30T15:54:59+00:00",
-      "summary": "30日のニューヨーク外国為替市場では、ドルを売って円を買う動きが急激に進み、円相場が一時、1ドル＝157円台後半まで値上がりしました。およそ5円、円高ドル安が急速に進行した形で、金融市場では政府・日銀…",
-      "summary_zh": "在\"纽约福克斯\"30日市场上,卖出美元和买入圈子的运动突然有进展,而日元市场正被暂时上升到美元=157日元的后半部分. 在金融市场,政府和汞是."
     },
     {
       "source": "BBC News",
@@ -161,23 +271,23 @@
       "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T15:47:09+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "title_zh": "留在波兰深处的导弹 很可能是俄罗斯 - 波兰首相",
+      "title_zh": "波兰深处留下弹坑的导弹可能是俄罗斯 - 波兰首相",
       "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T15:35:50+00:00",
       "summary": "The missile landed close to the village of Tarnawa Kolonia deep inside Polish territory",
-      "summary_zh": "导弹落在波兰境内深处的Tarnawa Koronia村附近"
+      "summary_zh": "导弹落在波兰境内深处的Tarnawa Kolovia村附近"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "title_zh": "Zelensky说,在俄罗斯导弹袭击中,至少五名同家人丧生。",
+      "title_zh": "Zelensky说,至少5名同家人在俄罗斯导弹袭击中丧生",
       "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T15:20:19+00:00",
       "summary": "Five members of the Voronov family were killed, Zelensky said, with others missing",
@@ -187,11 +297,11 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "Dashcam captures tornado toppling power lines onto car",
-      "title_zh": "Dashcam捕捉到龙卷风 把电线推到车上",
+      "title_zh": "Dashcam捕捉到龙卷风 将电力线推到车上",
       "link": "https://www.bbc.co.uk/news/videos/cj631p14gpjo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T13:44:23+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -201,43 +311,33 @@
       "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T12:14:00+00:00",
       "summary": "It is estimated that more than 2,000 elephants roam in and around Amboseli National Park",
-      "summary_zh": "估计有2000多头大象在安博塞利国家公园内和周围游走"
+      "summary_zh": "估计有两千多头大象在安博塞利国家公园内和周围游荡"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Giant iceberg turns over near Greenland's coast",
-      "title_zh": "观察:巨型冰山翻过格陵兰海岸",
+      "title_zh": "观察:巨型冰山在格陵兰海岸附近翻转",
       "link": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T10:54:36+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "title_zh": "美国对伊朗发动\"猛烈\"攻击 试图攻击美军",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-30T10:49:14+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "title_zh": "尼加拉瓜领导人提议将总统任期再延长一年",
+      "title_zh": "尼加拉瓜领导人建议将总统任期再延长一年",
       "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T10:34:07+00:00",
       "summary": "Daniel Ortega, 80, has been in power since 2007",
-      "summary_zh": "丹尼尔·奥尔特加(Daniel Ortega,80岁)自2007年起执政."
+      "summary_zh": "丹尼尔·奥尔特加,80岁,自2007年起执政."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "title_zh": "乌干达老兵反对派领袖在法庭倒塌,",
+      "title_zh": "乌干达老兵反对派领袖在法庭和伊斯兰法院联盟中崩溃,",
       "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T09:34:00+00:00",
       "summary": "Kizza Besigye has been in detention since November 2024",
@@ -251,7 +351,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T07:23:11+00:00",
       "summary": "The Trump administration has taken a more hands-off approach to AI.",
-      "summary_zh": "特朗普政府对于AI采取了更不动手的做法."
+      "summary_zh": "特朗普政府对AI采取了更不动手的做法."
     },
     {
       "source": "BBC News",
@@ -267,21 +367,11 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-      "title_zh": "新加坡对法国青少年施以罚款 465美元 用于刺激病毒吸管",
+      "title_zh": "新加坡对法国青少年施罚465美元,",
       "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-30T02:54:54+00:00",
       "summary": "Didier Gaspard Owen Maximilien is 'truly sorry' for causing trouble, his lawyer says",
       "summary_zh": "迪迪尔·加斯帕德·欧文·马克西米林对制造麻烦表示\"非常抱歉\" 他的律师说"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Japanese mall explodes after magnitude 6.8 earthquake",
-      "title_zh": "央视:日本商场6.8级地震后爆炸.",
-      "link": "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-29T23:29:53+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -291,17 +381,17 @@
       "link": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-29T22:50:14+00:00",
       "summary": "There were countrywide protests against question paper leaks in July",
-      "summary_zh": "7月,全国民众抗议问题文件泄露,"
+      "summary_zh": "7月,全国都抗议问题文件泄露"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-      "title_zh": "值五百万吗? 参观者对翻新过的华盛顿马像的反应",
+      "title_zh": "值五百万吗? 游客对翻新过的华盛顿马像的反应",
       "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-29T22:23:08+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -317,37 +407,37 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "The Chinese robot army transforming the UK's retail industry",
-      "title_zh": "中国机器人军改造英国零售业",
+      "title_zh": "改造英国零售业的中国机器人军",
       "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-29T22:08:29+00:00",
       "summary": "Two thousand Geek+ robots are deployed across 10 sites in the UK",
-      "summary_zh": "在联合王国10个地点部署了2 000个Geek+机器人"
+      "summary_zh": "在联合王国的10个地点部署了2 000个Geek+机器人"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Four women accuse Jared Leto of criminal sexual conduct",
-      "title_zh": "四位妇女指控Jared Leto犯有性犯罪行为",
+      "title_zh": "4名妇女指控Jared Leto犯有性犯罪行为",
       "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-29T21:36:06+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "title_zh": "Zendaya在《蜘蛛侠》中与Tom Holland合作:“当你是最好的朋友时,",
+      "title_zh": "Zendaya在《蜘蛛侠》中与Tom Holland合作,",
       "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-29T20:21:46+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "title_zh": "沙特阿拉伯试图避开美伊战争的两难境地",
+      "title_zh": "沙特阿拉伯试图避开美伊战争的困境",
       "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-29T18:41:31+00:00",
       "summary": "Saudi Arabia's Crown Prince has embarked the country on a course known as Vision 2030",
@@ -361,27 +451,17 @@
       "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-29T16:49:41+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "title_zh": "奥斯卡获奖作曲家格伦·汉萨德坠机身亡",
+      "title_zh": "奥斯卡获奖歌曲作家格伦·汉萨德坠机身亡",
       "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-29T15:33:14+00:00",
       "summary": "Glen Hansard was the lead singer of The Frames and an Oscar-winning songwriter",
-      "summary_zh": "Glen Hansard是The Frames的主唱 也是奥斯卡获奖作曲家"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-      "title_zh": "超过100起余震袭击了日本,",
-      "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-29T11:47:05+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "Glen Hansard是The Frames的主唱 也是奥斯卡奖得主"
     }
   ]
 }
