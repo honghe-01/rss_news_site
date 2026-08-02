@@ -1,217 +1,287 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-01T23:09:17+00:00",
-  "count": 34,
+  "generated_at": "2026-08-02T23:09:30+00:00",
+  "count": 31,
   "items": [
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "岡山 矢掛町 行方不明の2歳男児 祖母の家近くの山で無事発見",
-      "title_zh": "冈山相和 在外婆家附近的山上安全发现的两岁男子",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194021000.html",
-      "published_at": "2026-08-01T23:04:13+00:00",
-      "summary": "1日、岡山県矢掛町で祖母の家に帰省していた2歳の男の子の行方が分からなくなっていましたが、警察によりますと、2日午前7時半前、祖母の家の近くの山にいるのが見つかりました。男の子は無事だということです。…",
-      "summary_zh": "有一天,我迷失了去神奈川县Yakage-cho我祖母家的路,但第二天早上7:30,警察在祖母家附近发现了一座山。 这孩子很安全 . . . . . . ."
+      "title": "日米の協調介入 ことし5月の日米財務相会談から本格調整",
+      "title_zh": "日本-美国合作干预:5月日本-美国金融会议全面隔离",
+      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194421000.html",
+      "published_at": "2026-08-02T22:59:45+00:00",
+      "summary": "歴史的な円安に歯止めをかけるため、日本とアメリカの通貨当局は、先週、協調して円買いの市場介入に踏み切りました。ことし5月中旬に東京で行われた日米財務相会談で協調介入についての調整が本格化し、その後、入…",
+      "summary_zh": "日本和美国货币当局与前一周合作,介入日元购买的市场干预. 5月中旬,在东京召开的日美金融会议中,全面进行了交涉. 之后,我进入..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "米報道“週末にも攻撃計画” イランもけん制 攻撃応酬に懸念",
-      "title_zh": "美国新闻 \" 反对周末计划 \" 伊朗和伊朗",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193951000.html",
-      "published_at": "2026-08-01T23:03:23+00:00",
-      "summary": "アメリカのメディアは、トランプ政権がこの週末にもイスラエルとともにイランへの攻撃を計画していると報じました。一方、イラン側も「アメリカの盾となる国は戦火で焼かれることになる」などと強くけん制し、攻撃の…",
-      "summary_zh": "美国媒体报道特朗普计划本周末与以色列一起攻击伊朗. 另一方面,伊朗方面强烈反对将成为美国盾牌的国家被放火烧毁."
+      "title": "【地震速報】熊本 南区で震度3 津波の心配なし",
+      "title_zh": "[地震速度报告]熊本震3海啸.",
+      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194371000.html",
+      "published_at": "2026-08-02T22:11:00+00:00",
+      "summary": "3日午前6時58分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+      "summary_zh": "3日早上6点58分左右,熊本县发生地震,观测到烈度3的震级. 本次地震引发的海啸毫不担心."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "非常に強い台風13号 小笠原で高波厳重警戒 その後沖縄・奄美へ",
+      "title_zh": "极其强壮 13号炮 高浪猛烈警告冲绳和阿迈米",
+      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194591000.html",
+      "published_at": "2026-08-02T21:55:52+00:00",
+      "summary": "大型で非常に強い台風13号は日本の南の海上を西寄りに進んでいて、小笠原諸島では5日にかけて波や風が強まり、高波に厳重に警戒が必要です。6日木曜日ごろには強い勢力で沖縄・奄美に接近して大荒れの天気になる…",
+      "summary_zh": "大型且非常强壮的 13号(風13号)位于日本南海岸的西侧,大加群岛的海浪和阵风将在五天内增加. 由冲绳的强大力量,"
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "熊本 地震活動続く 酷暑日予想も 屋外での作業控えて",
+      "title_zh": "熊本地震活动继续在室外热天气预报中进行",
+      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
+      "published_at": "2026-08-02T21:54:25+00:00",
+      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけています。被災地の熊本県では、最高気温がところによっ…",
+      "summary_zh": "熊本县于7月28日观测到非常强烈的动荡,震级高达7级,地震活动活跃,气象局继续提请人们注意高达7级地震烈度的动荡. 在熊本县,温度最高..."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "title_zh": "女高音明星Vincent Pastore已经80岁了",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T22:57:55+00:00",
-      "summary": "US actor Vincent Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit show The Sopranos, has died aged 80, according to several US outlets.",
-      "summary_zh": "美国演员文森特·帕斯克(Vincent Pastore)在\"The Sopranos\"的热播节目中出演了萨尔瓦托尔\"大猫\"·邦彭西罗,据多家美国媒体报道,他已经去世了80岁."
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "title_zh": "希腊消防直升机相撞 两名机组人员遇难 英国飞行员幸存下来",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T20:36:37+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
-      "title": "ゼレンスキー大統領”迎撃したミサイル1発のみ” 欧米は支援を",
-      "title_zh": "Zerensky 总统的“仅1”支持",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193941000.html",
-      "published_at": "2026-08-01T22:51:14+00:00",
-      "summary": "ウクライナでロシア軍による弾道ミサイルなどを使った大規模な攻撃があり、首都キーウではこれまでに9人が死亡しました。ゼレンスキー大統領は弾道ミサイルのうち迎撃できたのは1発のみだったとして、欧米諸国など…",
-      "summary_zh": "在乌克兰,俄罗斯军队使用轨迹导弹发动了大规模攻击,在首都克尤有9人死亡. Zele的总裁只是弹道导弹的主要人物之一,例如."
+      "title": "羽田空港 荷物預け入れ締め切りを出発30分前に 出発の遅れ増え",
+      "title_zh": "羽田机场:出发前30分钟",
+      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194531000.html",
+      "published_at": "2026-08-02T20:24:28+00:00",
+      "summary": "羽田空港を発着する国内線の空の便で出発の遅れが増えるなど定時運航が課題となっています。こうしたなか、9月から全日空や日本航空など各社が、羽田空港で乗客が荷物を預ける際の締め切り時刻を10分前倒しして出…",
+      "summary_zh": "耗时运营是一个问题,例如国内航班的起飞和抵达羽田机场的延误。 通过这种方式,所有日本航空公司和其他航空公司在乘客在羽田机场卸下行李前从9号到10分钟. ."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」",
+      "title_zh": "高中生在平川周家去世 地震7号 父亲\"我还不能相信\"",
+      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194551000.html",
+      "published_at": "2026-08-02T20:10:49+00:00",
+      "summary": "震度7を観測した熊本県氷川町で、地震直後、高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後、死亡したことが家族への取材でわかりました。 地震により亡くなったとみられ2日夜の通夜で取材に…",
+      "summary_zh": "在观察地震烈度7的熊本平川秋,发现家中有一位高中一年级学生在房间里被击败. 之后,死亡发生在对家属的采访中. 因地震迷路,晚上接受采访两天."
+    },
+    {
+      "source": "NHKニュース",
+      "source_lang": "ja",
+      "title": "ゴルフ 全英女子オープン 桑木志帆が優勝 海外メジャー初制覇",
+      "title_zh": "高尔夫全英女子公开Kuwagi Shiho Wins第一海外少校",
+      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194471000.html",
+      "published_at": "2026-08-02T19:39:29+00:00",
+      "summary": "女子ゴルフの海外メジャー、今シーズン最終戦の全英女子オープンは最終ラウンドが行われ、23歳の桑木志帆選手がドイツの選手とのプレーオフを制して優勝しました。桑木選手は海外メジャー大会初制覇です。",
+      "summary_zh": "女子高尔夫国际主力,本赛季英格兰女子公开赛最后一轮举行,23岁的希霍·库瓦吉与德国球员赢得冠军. 库瓦吉先生是首届海外大赛."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "title_zh": "秘鲁的旅游飞机坠毁,13人丧生",
-      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T22:34:20+00:00",
-      "summary": "Image of gigantic geoglyphs, known as the Nazca lines, built by people belonging to the Nazca culture, around 1600 years ago in Nazca, Peru",
-      "summary_zh": "巨大的地格文字图案,被称作\"纳斯卡线\"(Nazca line),由属于纳斯卡文化的人所建造,大约在1600年前的秘鲁纳斯卡."
+      "title": "At the scene of deadly Moscow bomb blast",
+      "title_zh": "在莫斯科爆炸现场",
+      "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T16:52:35+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "熊本 地震活動が活発 震度7程度に注意 危険な暑さ熱中症対策を",
-      "title_zh": "熊本地震活动为活性地震烈度约7级.",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193991000.html",
-      "published_at": "2026-08-01T22:13:31+00:00",
-      "summary": "先月28日に最大震度7の非常に激しい揺れを観測した熊本県では、1日夜も宇城市で震度5弱の強い揺れを観測するなど地震活動が活発になっていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけてい…",
-      "summary_zh": "熊本县在上月28日观测到非常剧烈的动荡,震级可达7级. . . ."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "title_zh": "乌干达为在恩德培救援行动中牺牲的以色列总理兄弟揭幕",
+      "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T16:37:02+00:00",
+      "summary": "Uganda has unveiled a statue of Yonatan Netanyahu, the older brother of Israel's prime minister, who was killed during the Entebbe hostage rescue mission 50 years ago.",
+      "summary_zh": "乌干达为50年前在恩德培人质救援任务中丧生的以色列总理的哥哥约纳坦·内塔尼亚胡揭幕。"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "大分 日田で40度の酷暑日予想 東北は土砂災害に厳重警戒を",
-      "title_zh": "Oita Hita的第40回热天气预报 东莞对泥土和沙子的灾害非常警惕",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193981000.html",
-      "published_at": "2026-08-01T21:31:15+00:00",
-      "summary": "西日本と東日本は2日も気温が上がり、大分県日田市では40度と酷暑日が予想されているほか、熊本県の地震の被災地でも危険な暑さとなる見込みで、引き続き熱中症への対策を徹底してください。一方、低気圧などの影…",
-      "summary_zh": "西日本和东日本的气温升高了两天,在大田县的日田市,预计气温会为40度并严重发热日,预计会成为熊本地震灾区的危险热. 另一方面,低压等道活..."
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "title_zh": "在哈马斯同意解除武装协议后,至少有13人在以色列对加沙的袭击中丧生",
+      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T15:50:59+00:00",
+      "summary": "Officials say two people were killed in the attack on Gaza City",
+      "summary_zh": "官员说,有两人在袭击加沙市时丧生。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "title_zh": "乌克兰说,俄罗斯主要的炼油厂和机场遭到袭击,莫斯科报告有8人死亡。",
+      "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T15:48:00+00:00",
+      "summary": "President Zelensky described the latest Ukrainian strikes as \"our long-range sanctions\" against Russian facilities he says finance Moscow's war",
+      "summary_zh": "塞连斯基总统将乌克兰最近的罢工描述为\"我们对俄罗斯设施的远程制裁\",他说莫斯科的金融战争."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
+      "title_zh": "印尼渡轮起火后,5人死亡,41人失踪",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T11:49:40+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "title_zh": "特朗普取消伊朗罢工,",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T11:12:00+00:00",
+      "summary": "Trump at a cabinet meeting at Camp David on Friday",
+      "summary_zh": "特朗普星期五在戴维营的内阁会议上"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fastest runner to cross the Alps says it was an incredible experience",
+      "title_zh": "穿越阿尔卑斯山最快的跑步者说这是一次不可思议的经历",
+      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T10:59:55+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "title_zh": "莫斯科餐厅炸弹爆炸后3人死亡 州媒体说",
+      "title_zh": "莫斯科餐厅爆炸后3人死亡 国家媒体说",
       "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T21:13:17+00:00",
-      "summary": "At least three people have been killed and 21 injured after a homemade explosive device was detonated at an Italian restaurant in Moscow, Russian state media quotes security officials as saying.",
-      "summary_zh": "在莫斯科一家意大利餐厅引爆自制爆炸装置后,俄罗斯国家媒体引述安全官员的话,至少有3人被炸死,21人受伤."
+      "published_at": "2026-08-02T10:54:44+00:00",
+      "summary": "At least three people have been killed and 21 injured after a homemade explosive device was detonated at an Italian restaurant in Moscow, Russian state media reports, quoting security officials.",
+      "summary_zh": "在俄罗斯国家媒体报道的莫斯科一家意大利餐馆引爆自制爆炸装置后,至少有3人死亡,21人受伤。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
-      "title_zh": "澳大利亚如何将现代科技和本土知识结合起来去灭火",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "title_zh": "西班牙移民危机如何制造政治风暴-被社交媒体鞭打",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T10:32:28+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+      "title_zh": "数以千计的华盛顿州被疏散 并宣布进入紧急状态",
+      "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T10:20:10+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "title_zh": "巴基斯坦雪崩后,Nirmal Purja的尸体得到恢复",
+      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T10:11:26+00:00",
+      "summary": "Nirmal Purja became known internationally following a 2021 Netflix documentary",
+      "summary_zh": "2021年Netflix纪录片之后,Nirmal Purja在国际上名声大噪"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "title_zh": "姜色的头发肖像 显示出乎意料的\"金线\"连接美国人",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T07:58:51+00:00",
+      "summary": "Rosalie Moore is one of hundreds of ginger-haired subjects Kieran has photographed",
+      "summary_zh": "罗莎莉・摩尔是数百个 姜毛的实验对象之一 基兰已经拍摄"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "title_zh": "秘鲁的旅游飞机坠毁,造成13人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-02T00:29:55+00:00",
+      "summary": "Fire officers attended the scene of the crash over the Nazca Lines archaeological site",
+      "summary_zh": "消防人员参加了纳兹卡线考古遗址坠毁现场"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "title_zh": "孤独是一种新的渴望的生活方式:\"我们不是孤独的\"",
+      "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-01T23:56:19+00:00",
+      "summary": "Content creators sharing the peace of solo living is making the rounds on social media",
+      "summary_zh": "内容创造者分享独居的安宁,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "title_zh": "雇佣的青年枪 - 被征召到欧洲各地杀人的少年杀手",
+      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-01T23:03:35+00:00",
+      "summary": "Atilla Azimov posing with a gun three months before he killed Murad Abdelkader",
+      "summary_zh": "阿提拉·阿齐莫夫在杀死穆拉德·阿卜杜勒卡德尔三个月前用枪装扮"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why Uganda is winning the battle against Ebola as virus spreads in DR Congo",
+      "title_zh": "为什么乌干达在抗埃博拉的战斗中获胜,",
+      "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-01T23:03:15+00:00",
+      "summary": "Uganda said previous outbreaks have taught the authorities how to respond efficiently to Ebola",
+      "summary_zh": "乌干达说,以前爆发的疫情已教会当局如何有效应对埃博拉"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "title_zh": "24小时的瘀伤 Fifa和低压的Infantino接下来怎么办?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-01T22:23:20+00:00",
+      "summary": "Gianni Infantino was elected Fifa president in 2016",
+      "summary_zh": "吉安尼·英凡蒂诺2016年当选菲法总统."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
+      "title_zh": "澳大利亚如何将现代科技和土著知识结合起来,以对抗野火",
       "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-01T21:03:42+00:00",
       "summary": "Spain declared a national state of emergency as it grapples with several major wildfires",
       "summary_zh": "西班牙宣布进入全国紧急状态,"
     },
     {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "モスクワで爆発 3人死亡 15人けが 原因や背景を捜査",
-      "title_zh": "在莫斯科被爆炸 3人死亡 15人调查原因和背景",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193971000.html",
-      "published_at": "2026-08-01T20:31:37+00:00",
-      "summary": "ロシアの首都モスクワ中心部で爆発があり、現地のメディアによりますと、これまでに3人が死亡し、15人がけがをしました。ロシアでは、ウクライナへの軍事侵攻開始以降、軍の幹部が爆発によって殺害される事件が相…",
-      "summary_zh": "俄罗斯首都莫斯科市中心有当地媒体爆料,有3人死亡,15人受伤. 在俄罗斯,有一次军队干线在乌克兰开始被军事入侵后被爆炸炸死. ."
-    },
-    {
-      "source": "NHKニュース",
-      "source_lang": "ja",
-      "title": "熊本地震 関連調査中含め36人死亡 避難所の熱中症対策を強化へ",
-      "title_zh": "36起死亡,包括在熊本地震调查期间死亡,以加强收容所的中暑措施",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193881000.html",
-      "published_at": "2026-08-01T20:26:50+00:00",
-      "summary": "先月28日の大地震で熊本県によりますと、県内ではこれまでに災害との関連を調査している2人を含めて36人が死亡し、9000人余りが避難しています。県内は暑さが続く見込みで、県は避難所での熱中症への対策を…",
-      "summary_zh": "上月28日,熊本县有36人死亡,包括2名已调查与灾情关系的人,9000多人撤离. 预计 prefecture县会持续发热, prefecture县会是."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "title_zh": "欧盟召开紧急会议讨论休达移民过境问题",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T20:09:27+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Crowds line Amsterdam's canals for Pride boat parade",
-      "title_zh": "人群线 阿姆斯特丹的\"自豪之船\"",
+      "title_zh": "人群线 阿姆斯特丹的一条运河 用于骄傲的船游行",
       "link": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-01T19:39:48+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Italy putting nearly all major cities on highest heat alert",
-      "title_zh": "意大利几乎所有大城市都处于最高的热能警报状态",
+      "title_zh": "意大利几乎所有大城市都处于最高的热量警报状态",
       "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-01T17:51:46+00:00",
-      "summary": "Italian health officials urge residents in the affected areas to avoid exposure to heat direct sunlight by staying indoors and drinking plenty of fluids",
-      "summary_zh": "意大利卫生官员敦促灾区居民通过待在室内并喝下大量液体来避免直接受热阳光照射."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "title_zh": "特朗普政府放弃了“反映池”恶意破坏指控,",
-      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T17:16:51+00:00",
-      "summary": "US prosecutors have dropped charges against a former Olympian who had been accused of vandalising the Reflecting Pool in Washington DC, saying the damage is now believed to be \"the result of flawed installation by the contractor\".",
-      "summary_zh": "美国检察官撤销了对一名被指破坏华盛顿特区反射池的前奥运员的指控,称现在认为损害是\"承包商安装有缺陷的结果\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Call for 'full review' as pressure grows on Infantino",
-      "title_zh": "随着Infantino的压力增加,呼吁进行“全面审查”",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T17:07:46+00:00",
-      "summary": "Infantino has been the president of Fifa since February 2016",
-      "summary_zh": "伊凡蒂诺自2016年2月起出任菲法总裁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-      "title_zh": "目前埃博拉疫情在刚果DR最严重,",
-      "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T16:16:16+00:00",
-      "summary": "The Ebola outbreak in the Democratic Republic of Congo is the biggest in the country's history, the World Health Organization (WHO) has said.",
-      "summary_zh": "刚果民主共和国的埃博拉疫情是该国历史上最大的疫情,世界卫生组织(世卫组织)已经指出."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "title_zh": "山地人Nirmal Purja在巴基斯坦被雪崩杀害 他的公司说",
-      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T15:25:30+00:00",
-      "summary": "Nirmal Purja became known internationally following a 2021 Netflix documentary",
-      "summary_zh": "2021年Netflix纪录片后,Nirmal Purja在国际上出名"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "title_zh": "印度的\"口红\"抗议者身上的伤口与弹丸枪口相符合,",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T15:00:07+00:00",
-      "summary": "The face and body of Sahil Lochab, who appeared with opposition leader Rahul Gandhi at a press conference, are peppered with tiny holes",
-      "summary_zh": "与反对派领袖Rahul Gandhi一起出席记者招待会的Sahil Lochab的面部和身体被小孔所打出胡椒."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "title_zh": "在基辅被击毙九人,因为乌克兰沉没了俄罗斯集装箱船",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T13:35:39+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-      "title_zh": "观察:数以万计的移民从摩洛哥进入西班牙休达",
-      "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T12:04:46+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary": "Italian health officials urge residents in the affected areas to avoid exposure to heat and direct sunlight by staying indoors and drinking plenty of fluids",
+      "summary_zh": "意大利卫生官员敦促灾区居民通过在室内停留和饮用大量液体避免受热和直接阳光照射."
     },
     {
       "source": "BBC News",
@@ -221,127 +291,27 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-01T10:02:43+00:00",
       "summary": "Fifa president Gianni Infantino arrives for the World Cup final on 19 July",
-      "summary_zh": "菲法总统吉安尼·范蒂诺于7月19日抵达世界杯决赛"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "title_zh": "以色列西岸定居者说,英国广播公司对巴勒斯坦人的袭击是报复。",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T05:01:56+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "菲法总裁吉安尼·范蒂诺7月19日抵达世界杯决赛"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
-      "title_zh": "观察:为什么菲法放弃了在世界杯中卖出股份的计划.",
+      "title_zh": "观察:为什么菲法放弃了在世界杯上卖股票的计划",
       "link": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-01T02:44:09+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "title_zh": "秘鲁前总统因腐败被推翻15年有期徒刑后出狱",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-01T02:21:29+00:00",
-      "summary": "Former Peruvian President Ollanta Humala speaks with the media after his release from jail",
-      "summary_zh": "秘鲁前总统奥兰塔·胡马拉出狱后与媒体交谈"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Police in the US are making their own true crime podcasts - will it help catch killers?",
-      "title_zh": "美国的警察正在制作他们自己的真正的犯罪播客,",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T23:42:32+00:00",
-      "summary": "Peter Chadwick with the wife he killed, Quee Choo Chadwick",
-      "summary_zh": "彼得·查德威克和他杀的妻子克·乔·查德威克"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-      "title_zh": "死囚急于在沙特阿拉伯越狱,",
+      "title_zh": "在沙特阿拉伯渴望越狱处决的死囚 叫BBC",
       "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-07-31T23:41:10+00:00",
       "summary": "Some Ethiopian inmates got hold of the number for the BBC Tigrinya service and called from a prison phone to tell their stories",
-      "summary_zh": "一些埃塞俄比亚囚犯接到BBC提格里尼亚服务电话,从监狱电话打电话讲述他们的故事。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What we know about the Pakistan avalanche and missing climbers",
-      "title_zh": "关于巴基斯坦雪崩和失踪的登山者 我们知道的",
-      "link": "https://www.bbc.co.uk/news/videos/c8rny08xnpyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T23:20:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
-      "title_zh": "随着新西兰赛车禁令生效,前往澳大利亚的灰狗",
-      "link": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T21:09:39+00:00",
-      "summary": "New Zealand has outlawed greyhound racing, but neighbouring Australia has not",
-      "summary_zh": "新西兰禁止了灰狗赛车 但邻国澳大利亚没有"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What triggered the mass migrant crossings into Ceuta?",
-      "title_zh": "是什么导致大规模移民越境进入休达?",
-      "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T18:29:04+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "title_zh": "Bowen:哈马斯解除武装的计划面临巨大障碍,但它为加沙带来了罕见的希望",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T15:18:31+00:00",
-      "summary": "There are many reasons why it might not work.",
-      "summary_zh": "有许多原因可能行不通。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "title_zh": "英国说唱歌手Yung Filly在澳大利亚选秀后 被判强奸女性无罪",
-      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T05:21:18+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "India wants to join the strawberry superpowers",
-      "title_zh": "印度想加入草莓超级大国",
-      "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-30T22:04:09+00:00",
-      "summary": "India relies on strawberry varieties from the US and Europe",
-      "summary_zh": "印度依靠美国和欧洲的草莓品种"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "title_zh": "为什么与美国的有限战争可能比和平更适合伊朗",
-      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-30T17:26:01+00:00",
-      "summary": "Hostilities between the two countries have flared up again in recent days",
-      "summary_zh": "最近几天,两国之间的敌对行动再次爆发"
+      "summary_zh": "一些埃塞俄比亚囚犯接到BBC Tigrinya服务电话,"
     }
   ]
 }
