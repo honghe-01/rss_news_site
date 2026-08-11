@@ -1,15 +1,215 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-10T22:55:30+00:00",
-  "count": 26,
+  "generated_at": "2026-08-11T23:00:27+00:00",
+  "count": 32,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+      "title_zh": "哥伦比亚兄弟的安吉什 在建筑的废墟上 搜索地震幸存者",
+      "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T21:34:55+00:00",
+      "summary": "At the scene of the rescue, workers and volunteers hold their hands in air in a symbol for silence, allowing survivors to be heard",
+      "summary_zh": "在救援现场,工人和志愿者用象征沉默的手握起空气,让幸存者听到声音"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "title_zh": "美国说直升机发射导弹 摧毁突破伊朗封锁的船只",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T21:14:56+00:00",
+      "summary": "Centcom says its helicopter fired two hellfire missiles on the Panama-flagged ship",
+      "summary_zh": "Centcom说,它的直升机向悬挂巴拿马国旗的飞船发射了两枚地狱之火导弹"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "title_zh": "在特勤局的\"贝壳游戏\"里隐藏美国总统的目光",
+      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T20:39:42+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Luigi Mangione murder trial to have anonymous jury",
+      "title_zh": "路易吉·曼吉奥内谋杀案审判 匿名陪审团",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T19:12:54+00:00",
+      "summary": "The jury in the New York state trial of Luigi Mangione will remain anonymous, the judge overseeing the case ruled on Tuesday.",
+      "summary_zh": "纽约州审判路易吉·曼吉奥内案的陪审团将保持匿名,监督案件的法官于星期二作出裁决."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "title_zh": "救援人员为180名在哥伦比亚地震中死亡的生还者出逃",
+      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T19:09:52+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former judge removed by Orbán elected Hungarian president",
+      "title_zh": "前法官被奥班罢免 匈牙利当选总统",
+      "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T18:34:39+00:00",
+      "summary": "András Baka served for 17 years as the Hungarian judge at the European Court of Human Rights in Strasbourg",
+      "summary_zh": "András Baka在斯特拉斯堡欧洲人权法院担任匈牙利法官17年"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia releases former US Marine reported in poor health",
+      "title_zh": "俄罗斯释放了前美国海军陆战队人员 报告健康状况不佳",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T17:02:22+00:00",
+      "summary": "President Donald Trump said a former US Marine held in a Russian prison, whose health was reportedly in extremely poor condition, has been released.",
+      "summary_zh": "总统唐纳德·特朗普(Donald Trump)说,一名被关押在俄罗斯监狱的前美国海军陆战队队员,据说他的健康状况极差,现已获释."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "title_zh": "俄罗斯使用朝鲜导弹袭击乌克兰 Zelensky说",
+      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T16:19:44+00:00",
+      "summary": "Ukraine and Russia have continued striking each other overnight, with President Volodymyr Zelensky accusing Moscow of using North Korean missiles.",
+      "summary_zh": "乌克兰和俄罗斯在一夜之间继续互相攻击,沃洛德米尔·泽连斯基总统指责莫斯科使用朝鲜导弹."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Tide of rubbish blankets Philippines river",
+      "title_zh": "观察:垃圾毯潮:菲律宾河",
+      "link": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T16:10:55+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
+      "title_zh": "央视:特朗普是否在餐车中被从空军一号走私出?.",
+      "link": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T15:53:53+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "title_zh": "黎巴嫩议会投票赞成废除死刑",
+      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T15:24:07+00:00",
+      "summary": "Protesters hold cardboard figures with ropes round their necks during a rally against the death penalty in Beirut, Lebanon in October 2013.",
+      "summary_zh": "2013年10月在黎巴嫩贝鲁特举行反对死刑的集会时,抗议者用绳子缠住脖子的纸板人物。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thailand suspends new gun permits after mass shooting",
+      "title_zh": "泰国在大规模射击后暂停发放新的枪支许可证",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T15:11:54+00:00",
+      "summary": "Mourners pray for the 12-year-old who died after being shot at the school outside Bangkok",
+      "summary_zh": "为曼谷外的学校被枪杀的12岁老人祈祷"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "title_zh": "乌斯泰德叙利亚独裁者巴沙尔·阿萨德缺席被判处死刑",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T14:50:10+00:00",
+      "summary": "A Syrian court has sentenced ousted dictator Bashar al-Assad to death in absentia, after convicting him of committing war crimes and crimes against humanity during the country's civil war.",
+      "summary_zh": "叙利亚一家法院判处被推翻的独裁者巴沙尔·阿萨德缺席死刑,此前他在该国内战期间犯下了战争罪和危害人类罪。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France bans unsolicited telemarketing calls",
+      "title_zh": "法国禁止主动电话推销",
+      "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T14:19:45+00:00",
+      "summary": "France has banned unsolicited telemarketing phone calls, in what a consumer group is hailing as a \"small revolution\" for the sales industry.",
+      "summary_zh": "法国禁止非主动电话营销电话,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Drone captures devastating aftermath of Spokane wildfires",
+      "title_zh": "无人机捕捉了斯波坎野火的毁灭性后果",
+      "link": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T14:02:07+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "title_zh": "特朗普签署限制儿童疫苗的命令,",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T21:33:25+00:00",
+      "published_at": "2026-08-11T10:00:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Libyan authorities battle big blaze at major oil refinery",
+      "title_zh": "利比亚当局在主要炼油厂打起大火",
+      "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T08:28:24+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
+      "title_zh": "澳洲PM被炒作,",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T07:55:22+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Young girl finds whale stranded on Australian beach",
+      "title_zh": "年轻姑娘发现鲸鱼被困在澳大利亚海滩",
+      "link": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T01:31:10+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "title_zh": "Jackie 著名的加州秃鹰 几周后就死了",
+      "link": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-10T22:40:23+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The lonely Chinese men being conned by fake brides",
+      "title_zh": "孤独的中国男人被假新娘骗了",
+      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-10T22:02:21+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -26,132 +226,22 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "title_zh": "\"我们接了很多电话\": 加拿大野火疏散者想知道他们是否还有家",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T19:17:11+00:00",
+      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "title_zh": "监视 : 关于图帕克谋杀案的线索 疑犯Duane 'Keffe D' Davis",
+      "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-10T20:45:29+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "New train service connects Finland and Sweden for first time in decades",
-      "title_zh": "新列车服务几十年来首次连接芬兰和瑞典",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T18:28:11+00:00",
-      "summary": "Train services between Haparanda and Oulu were suspended in the late 1980s and early 1990s",
-      "summary_zh": "哈帕兰达和奥卢之间的列车服务于1980年代末和1990年代初暂停"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "title_zh": "监视 : 关于疑犯头目丹尼尔·基纳汉的线索",
-      "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T18:24:45+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "title_zh": "俄罗斯法院只禁止反战政党参加议会选举",
-      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T18:19:41+00:00",
-      "summary": "Yabloko chairman Nikolai Rybakov was at the hearing in Moscow",
-      "summary_zh": "雅布洛克主席尼古拉·雷巴科夫在莫斯科出席听证会"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "title_zh": "我们正追逐埃博拉病毒 - 它在我们前面,世卫组织警告",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T17:50:29+00:00",
-      "summary": "Health workers need to be fully protected as the virus can spread from touching bodily fluids.",
-      "summary_zh": "需要充分保护保健工作者,因为病毒能够从接触体液中传播。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "title_zh": "30年后,一名前帮派成员将因图帕克被谋杀受审",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T16:52:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "title_zh": "内塔尼亚胡拒绝特朗普的15分加沙计划不太可能是最终的言论.",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T14:43:08+00:00",
-      "summary": "Benjamin Netanyahu is facing an uphill contest in a general election scheduled for October",
-      "summary_zh": "本雅明·内塔尼亚胡在定于10月举行的大选中面临一场艰难的竞争。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "title_zh": "至少有13人死于乌克兰无人机 深入俄罗斯",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T14:34:25+00:00",
-      "summary": "A refining and petrochemical plant in Nizhnekamsk (stock photo)",
-      "summary_zh": "Nizhnekamsk炼油和石油化工厂(库存相片)"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "World's oceans hit record-high July temperatures",
-      "title_zh": "世界海洋七月高温创纪录",
-      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-10T10:24:46+00:00",
-      "summary": "The world's oceans hit their hottest ever recorded temperatures for July, partly fuelled by developing El Niño conditions in the Pacific , according to the EU's climate monitoring service.",
-      "summary_zh": "根据欧盟的气候监测服务, 世界上的海洋在7月份遭遇了史上最热的温度,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "title_zh": "南非特种部队谋杀高级侦探的证据与BBC分享",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-09T23:05:29+00:00",
-      "summary": "Lt Col Frans Mathipa was a respected detective and father of five",
-      "summary_zh": "法兰斯·马蒂帕中校是一位受人尊敬的侦探 父亲是五人"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-      "title_zh": "Kinahan的听力在都柏林的法庭里展开",
-      "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-09T21:26:56+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "title_zh": "学校老师的儿子如何成为克什米尔第一位印度测试板球运动员",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-09T03:00:44+00:00",
-      "summary": "Auqib replaced Jasprit Bumrah in the squad for the series against Sri Lanka beginning 15 August",
-      "summary_zh": "Auqib从8月15日起接替Jasprit Bumrah参加对斯里兰卡的系列赛"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-      "title_zh": "尼日利亚的大规模婚礼, 以及如何告诉爱人 从欺诈者 证明是微妙的",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-09T01:10:50+00:00",
-      "summary": "All the new wedding outfits are paid for by the Kano state government",
-      "summary_zh": "所有新婚服都由卡诺州政府支付"
+      "title": "The transgender controversy surrounding the WNBA",
+      "title_zh": "围绕WNBA的变性人争议",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-10T15:34:56+00:00",
+      "summary": "Enes Kanter Freedom played 11 seasons in the NBA",
+      "summary_zh": "埃内斯·坎特自由在NBA出场11个赛季."
     },
     {
       "source": "BBC News",
@@ -162,26 +252,6 @@
       "published_at": "2026-08-08T23:59:23+00:00",
       "summary": "An emergency response to major wildfires was launched in the Gironde region in late July",
       "summary_zh": "7月下旬,在吉隆德地区启动了重大野火应急行动"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "title_zh": "澳大利亚是地球的灭绝热点 但一只动物带来了一线希望",
-      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-08T19:00:22+00:00",
-      "summary": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "summary_zh": "澳大利亚是地球的灭绝热点 但一只动物带来了一线希望"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "title_zh": "观察:反对运动的议员向科索沃的代理总理投掷鸡蛋",
-      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-08T15:59:37+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
     },
     {
       "source": "NHKニュース",
@@ -252,16 +322,6 @@
       "published_at": "2026-08-08T09:38:23+00:00",
       "summary": "韓国のサッカー協会が、代表チームの国際試合を担当した日本を含む外国の審判員などに「性的な接待を行っていた」と複数のメディアが伝え、協会は8日、組織運営に批判が高まっていることなどを含め、一連の騒動を謝…",
       "summary_zh": "韩国足协报道多家媒体称\"他有性娱乐\"给包括负责代表队国际比赛的日本在内的外国裁判,协会对一连串的噪音表示歉意,包括该组织在8天的运营中受到越来越多的批评."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-      "title_zh": "观察:BBC问Infantino是否会辞去菲发会长职务.",
-      "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-07T21:24:17+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
     }
   ]
 }
