@@ -1,17 +1,197 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-13T23:00:22+00:00",
-  "count": 44,
+  "generated_at": "2026-08-14T22:38:45+00:00",
+  "count": 36,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "title_zh": "克罗地亚野火造成数十人受伤并有数千人撤离",
+      "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T20:22:56+00:00",
+      "summary": "At least one person has died and around 40 others have been injured after a severe wildfire tore through cities on Croatia's coastline on Thursday night and Friday morning.",
+      "summary_zh": "在周四晚上和周五上午克罗地亚海岸线上发生严重的野火,造成至少一人死亡,约40人受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "title_zh": "特朗普要求最高法院允许舞厅工作继续下去",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T19:05:22+00:00",
+      "summary": "The US president argues that a ballroom is necessary for large events and enhanced security at the White House.",
+      "summary_zh": "美国总统认为,在白宫举行大型活动和加强安全需要一间舞厅。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "title_zh": "阿富汗妇女告诉英国广播公司,在塔利班统治了五年之后,她们的生活是无法辨认的。",
+      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T18:25:38+00:00",
+      "summary": "Five years on from the Taliban takeover in Afghanistan, women and girls have told the BBC their lives are unrecognisable under the rule of the regime.",
+      "summary_zh": "阿富汗塔利班接管五年后,妇女和女童告诉英国广播公司,在政权统治下,她们的生活是无法辨认的。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "title_zh": "活动分子试图向被以色列定居者围困的房屋中的巴勒斯坦人提供援助",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T17:03:17+00:00",
+      "summary": "Access to the homes has been blocked by settlers since Sunday",
+      "summary_zh": "自星期起,定居者就一直不准进入这些房屋"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "title_zh": "驻布宜诺斯艾利斯的英国外交官不再领取艰苦津贴",
+      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T17:00:46+00:00",
+      "summary": "Buenos Aires hosts the official workplace of the Argentinian president, shown here in front of Plaza de Mayo square",
+      "summary_zh": "布宜诺斯艾利斯是阿根廷总统的办公场所,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why is Selena Gomez being sued?",
+      "title_zh": "为什么塞琳娜·戈麦斯被起诉?",
+      "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T16:59:53+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France's top court blocks social media ban for under-15s",
+      "title_zh": "法国最高法庭禁止15岁以下者使用社交媒体",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T16:35:06+00:00",
+      "summary": "France's top court has struck down a ban on social media for under-15s, saying it infringed upon freedom of expression.",
+      "summary_zh": "法国最高法庭取消了对15岁以下社交媒体的禁令,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "title_zh": "赞比亚的计票因据称对投票工作人员的袭击而暂停后恢复计票",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T16:28:59+00:00",
+      "summary": "Counting began on Thursday evening as soon as polls had closed",
+      "summary_zh": "投票结束后,星期四晚上就开始计票"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Moment €9m worth of art stolen from Italy museum",
+      "title_zh": "意大利博物馆被盗价值900万欧元的艺术品",
+      "link": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T14:56:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "title_zh": "在比利时财产墙上被封存的900万欧元黄金",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T13:18:08+00:00",
+      "summary": "Local police shared images of the hoard, discovered earlier this week",
+      "summary_zh": "当地警方分享了这个囤积物的影像 本周早些时候发现的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "title_zh": "通过有偿咨询帮助跨越休达危机的Instagram账户",
+      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T12:19:21+00:00",
+      "summary": "Many migrants have attempted to swim from Morocco to the Spanish enclave Ceuta",
+      "summary_zh": "许多移民试图从摩洛哥到西班牙飞地休达"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "title_zh": "巴西警方追回被窃的马蒂斯艺术品",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T10:55:39+00:00",
+      "summary": "The Henri Matisse illustrations were estimated to be worth a combined $200,000 (£148,000)",
+      "summary_zh": "Henri Matisse的插画估计价值共计20万美元(148,000英镑)."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "title_zh": "日本的\"史无前例\"雨会杀死8个人",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T10:36:14+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "title_zh": "美国传教士在尼日尔被绑架后获释,",
+      "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T10:18:02+00:00",
+      "summary": "Kevin Rideout was kidnapped outside his home in Niger's capital Niamey (file photo)",
+      "summary_zh": "Kevin Rideout在尼日尔首都尼亚美的家中被绑架(档案照片),"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "title_zh": "美国说有几十个国家帮助中国躲避特朗普的关税",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T08:39:46+00:00",
+      "summary": "The White House said in a report on Thursday that more than 40 countries had helped China sidestep US tariffs by routing exports through nations that face lower American import duties.",
+      "summary_zh": "白宫在星期四的一份报告中说,有40多个国家帮助了中国绕过美国的关税,通过面临较低美国进口关税的国家来引导出口."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+      "title_zh": "哥伦比亚发生另一起灾难后逃离委内瑞拉的青少年",
+      "link": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T08:02:35+00:00",
+      "summary": "Deivi (left) with Winder and their father Deivid",
+      "summary_zh": "Deivi(左)与温德和他们的父亲Deivid"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "title_zh": "印度太阳任务的新发现 揭示了恒久的太阳奥秘",
+      "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T02:13:27+00:00",
+      "summary": "Scientists say the temperature variations in different regions of the Sun defy the laws of physics",
+      "summary_zh": "科学家说太阳不同地区的温度变化 违背了物理定律"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: What happens if Luigi Mangione pleads guilty today?",
+      "title_zh": "观察:如果路易吉·曼吉奥内今天认罪会怎样?.",
+      "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-14T01:19:19+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "title_zh": "250多天的美国海上航空母舰状况引起警报",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T22:02:54+00:00",
-      "summary": "Thousands of US military members who have lived aboard an aircraft carrier for more than 250 days are reportedly contending with food shortages, broken plumbing and exhaustion, leading lawmakers to demand answers from the Pentagon and pressuring the Trump administration over the Iran war.",
-      "summary_zh": "数以千计的美国军人在航空母舰上生活了250多天,据报道他们与食物短缺、管道断裂和疲惫相争,导致立法者要求五角大楼做出答复,并对特朗普政府施加了伊朗战争的压力。"
+      "published_at": "2026-08-13T23:06:23+00:00",
+      "summary": "Thousands of US military members who have lived aboard an aircraft carrier for more than 250 days are reportedly contending with food shortages, broken plumbing and exhaustion, leading lawmakers to demand answers from the Pentagon and pressure the Trump administration over the Iran war.",
+      "summary_zh": "数以千计的美国军人在航空母舰上生活了250多天,据报道他们与食物短缺、管道断裂和疲惫相争,导致立法者要求五角大楼做出答复,并对川普政府对伊朗战争施加压力。"
     },
     {
       "source": "BBC News",
@@ -20,6 +200,16 @@
       "title_zh": "引擎部件砸了Ryanair的窗户 他的头被吸出,报告说",
       "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-13T21:43:47+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+      "title_zh": "BBC 校对: 拍摄了ICE探员 用枪指着她的女人",
+      "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-13T20:37:14+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -46,26 +236,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
-      "title_zh": "爱尔兰飞机失事受害者家属获赔2 900万美元",
-      "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T19:08:49+00:00",
-      "summary": "Michael Ryan was among the 157 people killed on board the Ethiopian Airlines plane",
-      "summary_zh": "迈克尔·瑞安是埃塞俄比亚航空公司飞机上157名遇难者之一"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "title_zh": "曼吉奥内律师与联邦检察官会面 被告认罪协议的报告",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T18:45:51+00:00",
-      "summary": "Attorneys for Luigi Mangione, who is accused of killing United Healthcare CEO Brian Thompson in New York, are meeting federal prosecutors on Friday amid US media reports of a potential plea agreement.",
-      "summary_zh": "Luigi Mangione的律师被控在纽约杀害联合医疗保健CEOBrian Thompson,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Air India to test all pilots for banned substances",
       "title_zh": "印度航空公司测试所有被禁物质的飞行员",
       "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
@@ -76,22 +246,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "title_zh": "总统赦免被控策划马里政变的法国间谍",
-      "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T15:50:49+00:00",
-      "summary": "President Assimi Goïta (pictured) has pardoned French national Yann Vezilier",
-      "summary_zh": "阿西米·戈伊塔总统(图尔德)赦免了法国国民扬·维齐利埃"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Person fined after using foghorn to wake sleeping polar bear",
       "title_zh": "利用雾号唤醒沉睡的北极熊后被罚款",
       "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-13T15:30:57+00:00",
-      "summary": "A person has been fined for using a foghorn to wake a sleeping polar bear in Norway's Svalbard archipelago, a local official said.",
-      "summary_zh": "当地官员说,有人因使用雾号在挪威斯瓦尔巴群岛唤醒一只睡着的北极熊被罚款。"
+      "summary": "A person has been fined for using a foghorn to wake a sleeping polar bear in Norway's Svalbard archipelago, a local official has said.",
+      "summary_zh": "一位当地官员说,有人因使用雾号来唤醒挪威斯瓦尔巴群岛一头睡着的北极熊被罚款。"
     },
     {
       "source": "BBC News",
@@ -106,130 +266,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-      "title_zh": "四名加拿大曲棍球明星在性攻击被判无罪后仍被停职",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T14:51:44+00:00",
-      "summary": "L-R: Michael McLeod, Alex Formenton, Carter Hart, Dillon Dube and Cal Foote",
-      "summary_zh": "L-R:迈克尔·麦克利奥德,亚历克斯·福门通,卡特·哈特,迪伦·杜贝和卡尔·福特"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three men will be executed on the same day as death penalties rise in US",
-      "title_zh": "在美国死刑增加的同一天,",
-      "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T13:27:00+00:00",
-      "summary": "L-R: Anthony Darrell Hines, Carlos Cuesta-Rodriguez and Jeremy Williams are all set to be put to death on the same day",
-      "summary_zh": "L-R:安东尼·达雷尔·海因斯,卡洛斯·奎斯塔-罗德里格斯和杰里米·威廉姆斯都定于同日被处死."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
-      "title_zh": "\" 正当的 \" 或 \" 没有业务存在 \" ? 田纳西州弹药镇忠于特朗普 但伊朗分裂",
-      "link": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T13:20:55+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "title_zh": "2027年欧洲视歌大赛将在保加利亚布尔加斯举行",
-      "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T11:10:31+00:00",
-      "summary": "The 71st Eurovision final will take place on 15 May 2027 in Burgas, Bulgaria after singer Dara's win last time out",
-      "summary_zh": "第71届欧视决赛将于2027年5月15日在保加利亚布尔加斯举行,赛后歌手达拉最后一次出道取胜."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "title_zh": "Twitch 用户愤怒,因为 Amazon 使用内容培训 AI 的 选择退出功能",
-      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T10:39:02+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "title_zh": "日本首相表示普京访问有争议岛屿“绝对不能接受”。",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T09:54:03+00:00",
-      "summary": "Russia's President Vladimir Putin tastes caviar as he visits Iturup, known in Japan as Etorofu",
-      "summary_zh": "俄罗斯总统弗拉基米尔·普京访问伊图鲁普时尝到鱼子酱,在日本被称作\"伊多罗福\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "title_zh": "法国驻中非共和国大使被控在官邸有不当行为,将受到纪律处分",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T08:15:10+00:00",
-      "summary": "Bruno Foucher has served in CAR since 2023",
-      "summary_zh": "布鲁诺·福彻从2023年起在CAR服役"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "title_zh": "印度演员的视频 濒临灭绝的Gibbon引发了调查",
-      "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T07:05:35+00:00",
-      "summary": "Vikram, an actor from Tamil Nadu, posted a clip of him playing with the endangered animal",
-      "summary_zh": "Vikram是泰米尔纳德邦的演员,他张贴了他和濒危动物玩耍的片段"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
       "title_zh": "诺贝尔和平奖得主告诉英国广播公司",
       "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-13T04:55:58+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "title_zh": "俄罗斯主要谷物出口站被击中乌克兰 黑海港口袭击",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T03:28:56+00:00",
-      "summary": "The Russian agriculture ministry announced it was working to redirect cargo flows to alternative ports following a barrage of Ukrainian drones",
-      "summary_zh": "俄罗斯农业部宣布,在乌克兰无人机袭击后,正努力将货物流向其他港口。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "title_zh": "澳大利亚军方的告密者在入狱两年多后获得假释",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T02:23:39+00:00",
-      "summary": "David McBride pleaded guilty to leaking military secrets to the media in 2023",
-      "summary_zh": "大卫·麦克布莱德于2023年向媒体透露军事秘密认罪."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "title_zh": "特拉维斯·凯尔斯首先分享他的婚礼给泰勒·斯威夫特的详情:\"我一生中最好的夜晚\"",
-      "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-13T01:19:23+00:00",
-      "summary": "American football player Travis Kelce has reflected on his wedding to Taylor Swift, telling US media that their nuptials were \"the best night of my life\".",
-      "summary_zh": "美国足球运动员特拉维斯·凯尔斯(Travis Kelce)在与泰勒·斯威夫特(Taylor Swift)的婚礼上反思,告诉美国媒体,他们的婚礼是\"我一生中最好的夜晚\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran has shaken Trump's support - is his loyal base sticking with him?",
-      "title_zh": "伊朗动摇了特朗普的支持——他忠心的基地与他站在一起吗?",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T23:26:21+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -246,132 +286,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Why Japanese firms are being so slow to use AI",
-      "title_zh": "日本公司为什么这么慢地使用AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T23:00:47+00:00",
-      "summary": "Studies show that Japanese firms are dragging their feet when it comes to using AI",
-      "summary_zh": "研究显示,日本公司在使用AI时拖了脚步"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "title_zh": "特朗普说白宫新闻秘书卡洛琳·莱维特要离职",
-      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T22:58:45+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "title_zh": "成千上万的加拿大人要求驱逐美国大使",
-      "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T22:56:44+00:00",
-      "summary": "More than 70,000 Canadians have signed a petition calling for the US ambassador in Ottawa to be expelled for undermining diplomatic relations between the two neighbours.",
-      "summary_zh": "7万多加拿大人签署请愿书,呼吁美国驻渥太华大使因破坏两个邻国的外交关系被驱逐出境."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "title_zh": "哥伦比亚地震后36小时,妇女从废墟中活活拉起",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T22:41:46+00:00",
-      "summary": "Rescue workers carry Daniela Largo, wrapped in a blue sheet, to an ambulance after freeing her from beneath the rubble",
-      "summary_zh": "救援人员将Daniela Largo带入一辆救生车,她从废墟下救出"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why are 'human fridges' being sold in Japan?",
-      "title_zh": "为什么日本卖\"人类冰箱\"?",
-      "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T22:07:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Australia's game-changing disability support is in crisis – what went wrong?",
       "title_zh": "澳大利亚改变游戏的残疾支持陷入危机 — — 出了什么问题?",
       "link": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-12T19:56:41+00:00",
       "summary": "Annabelle Shaw relies on NDIS funding to support activities that help her live a normal life",
       "summary_zh": "Annabelle Shaw依靠NDIS的资助来支持帮助她过上正常生活的活动"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "title_zh": "以色列定居者围住西岸村庄的巴勒斯坦家庭",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T16:14:08+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
-      "title_zh": "津巴布韦的卡里巴湖至少有44人死于渡口下沉",
-      "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T13:55:56+00:00",
-      "summary": "Lake Kariba, which sits on Zimbabwe's border with Zambia, is one of the world's largest man-made reservoirs",
-      "summary_zh": "位于津巴布韦与赞比亚接壤的卡里巴湖是世界上最大的人造水库之一."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-      "title_zh": "朱荣基帮助将中国变成贸易巨头,在97岁就死了",
-      "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T12:10:45+00:00",
-      "summary": "Former Chinese Premier Zhu Rongji, who spearheaded China's entry into global trade and laid the foundation for its explosive growth, has died at the age of 97.",
-      "summary_zh": "中国前总理朱荣基率先入股全球贸易,为其爆炸性增长打下基础,享年97岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-      "title_zh": "多瑙河的低水位 揭示出二战士兵和摩托车的遗骸",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T11:28:05+00:00",
-      "summary": "A German army Wehrmacht motorcycle was found alongside the soldiers' bodies",
-      "summary_zh": "在士兵尸体旁边发现了德国军队的摩托车"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Baby Shark boy set to make K-pop debut",
-      "title_zh": "宝贝 鲨鱼男孩准备出道了",
-      "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-12T03:26:32+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What is it like to travel on Air Force One with Trump?",
-      "title_zh": "监视 : 和特朗普一起乘坐\"空军一号\"是什么感觉?.",
-      "link": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-11T21:49:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "In shattered Cali, residents search for loved ones and signs of hope",
-      "title_zh": "在破碎的卡利,居民寻找亲人和希望",
-      "link": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-11T19:15:48+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
     },
     {
       "source": "NHKニュース",
@@ -430,8 +350,8 @@
       "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
-      "summary": "",
-      "summary_zh": "（未翻译/翻译失败）"
+      "summary": "ラグビーリーグワンの2部にあたるディビジョン2の「九州電力キューデンヴォルテクス」は、チームに所属するサイモニ・ヴニランギ選手が熱中症の疑いで病院に搬送され、その後、死亡したと発表しました。",
+      "summary_zh": "橄榄球联盟一分会第二分会的\"克尤修电能C-X-en Voltex\"宣布,球队属于西蒙尼·武尼朗吉(英语:Simoni Vunilangi),并有中暑和死亡的问题."
     },
     {
       "source": "NHKニュース",
