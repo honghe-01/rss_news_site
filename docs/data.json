@@ -1,67 +1,197 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-15T22:36:48+00:00",
-  "count": 41,
+  "generated_at": "2026-08-16T22:35:20+00:00",
+  "count": 38,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "title_zh": "三十四年来夏威夷可能第一次直接受到飓风袭击",
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "title_zh": "川普说,美国在韩国退出伊朗战争后,应该缩减与韩国的军事演习。",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T22:34:10+00:00",
+      "summary": "President Donald Trump has said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with North Korea's leader Kim Jong Un.",
+      "summary_zh": "总统唐纳德·特朗普表示,美国将\"大幅削减\"与韩国的联合军事演习,并援引他与朝鲜领导人金正恩的\"非常好的关系\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thailand has a gun problem - 10 million of them",
+      "title_zh": "泰国有枪械问题,1000万",
+      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T22:09:04+00:00",
+      "summary": "Chalong Riewrang told reporters he had \"not intended to shoot his friend\"",
+      "summary_zh": "Chalong Riewrang告诉记者他\"无意杀他的朋友\""
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "title_zh": "美国指挥官说精神卫生是林肯号的\"优先\"",
+      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T21:04:27+00:00",
+      "summary": "The top US military commander in the Middle East has said mental health is a \"priority\" on the warship USS Lincoln, following reports of difficult conditions on board the long-deployed ship.",
+      "summary_zh": "美国中东最高军事指挥官曾表示\"精神卫生是\"军舰\"\"林肯号\"(USS Lincoln)的\"优先事项\",此前有报道称该舰在长期部署的舰上存在困难条件."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "title_zh": "比利时野火第三天翻了一番 穿过自然保护区",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T20:01:51+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "title_zh": "特朗普特使库什纳会见哈马斯领导人,推动加沙和平计划",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T19:58:14+00:00",
+      "summary": "The UN estimates that about 1.9 million people - 90% of Gaza's population - have been displaced since the war started",
+      "summary_zh": "联合国估计,自战争开始以来,约有190万人(占加沙人口的90%)流离失所。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "title_zh": "希腊岛发生双子火后 两人死亡 数百人疏散",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T19:50:36+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "title_zh": "俄罗斯说,在2026年乌克兰最大规模的进攻中,至少七人死亡.",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T19:03:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "title_zh": "弗吉尼亚州校园的少年嫌犯开枪 藏在衣柜里",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T19:00:23+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "title_zh": "在夏威夷飓风拉拉被鞭打后,",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T21:56:10+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "published_at": "2026-08-16T18:46:12+00:00",
+      "summary": "Hawaii is facing flash floods and mudslides that have swept away some homes after category one Hurricane Lala skirted Big Island, leaving one person dead in a car accident.",
+      "summary_zh": "夏威夷面临山洪暴发和泥石流,在一等飓风\"拉拉\"卷起\"大岛\"后,一些房屋被冲走,造成一人死亡出车祸."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "title_zh": "救援人员搜寻印度尼西亚地震幸存者",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "title_zh": "四个\"异常\" 从意大利博物馆被偷走的文艺复兴画",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T13:34:38+00:00",
+      "summary": "Three of the five surviving panels of the Polyptych of San Gregorio were taken",
+      "summary_zh": "圣格雷戈里奥波利普蒂奇5个幸存地板中的3个被取走"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "title_zh": "数千人因印度尼西亚地震而流离失所,因为救援工作仍在继续",
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T21:49:12+00:00",
+      "published_at": "2026-08-16T12:37:21+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Australian state to launch gun buyback after Bondi Beach attack",
-      "title_zh": "澳大利亚州在邦迪海滩袭击后发动枪械回购",
-      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T21:41:43+00:00",
-      "summary": "Mourners placed tributes after 15 people were murdered near Bondi Beach",
-      "summary_zh": "在邦迪海滩附近15人被谋杀后,"
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "title_zh": "BBC在俄罗斯罢工后访问基辅市场",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T12:18:09+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "title_zh": "欧洲最高的圣母玛利亚雕像 在波兰农村揭幕",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T11:35:25+00:00",
+      "summary": "The 55.6-metre (182ft) concrete figure is nearly 18m taller than Rio de Janeiro's Christ the Redeemer",
+      "summary_zh": "55.6米(182英尺)的混凝土数字比里约热内卢基督再解放者高近18米"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "title_zh": "12人因波兰公交车在匈牙利出道而丧生",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T10:53:50+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "title_zh": "卡塔尔否认在击落战斗机后抓获三名伊朗飞行员",
+      "title_zh": "卡塔尔否认在击落战斗机后抓获了三名伊朗飞行员",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T21:03:57+00:00",
-      "summary": "Iran said two Su-24 fighter jets were used in the mission on a Qatari military base on 2 March 2026 (file photo)",
-      "summary_zh": "伊朗表示2026年3月2日在卡塔尔军事基地使用两架苏-24战斗机(档案照片),"
+      "published_at": "2026-08-16T09:27:58+00:00",
+      "summary": "Iran said two Su-24 warplanes were used in the mission on a Qatari military base on 2 March 2026 (File photo of the aircraft type in Russian service)",
+      "summary_zh": "伊朗说,2026年3月2日在卡塔尔军事基地使用了两架苏-24战斗机(俄罗斯服役的飞机类型的传单照片)"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "BBC seeks to subpoena family members in Panorama lawsuit",
+      "title_zh": "BBC试图在全景官司中传唤家庭成员",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T00:11:03+00:00",
+      "summary": "The BBC has sought to subpoena members of Donald Trump's family for documents and testimony in the US president's $10bn (£7.4bn) defamation lawsuit against the broadcaster.",
+      "summary_zh": "BBC试图传唤唐纳德·特朗普的家人在美国总统10bn(7.4bn英镑)针对广播公司的诽谤诉讼中提供文件和证词."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "title_zh": "澳大利亚州在邦迪海滩出击后发动回购",
+      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-15T21:41:43+00:00",
+      "summary": "Fifteen people were shot dead at a Jewish festival on Bondi Beach",
+      "summary_zh": "在邦迪海滩的犹太节日 15人被枪杀"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "title_zh": "据报道,摩洛哥拘留了数十名试图进入休达的移民",
+      "title_zh": "摩洛哥拘留了数十名试图进入休达的移民,",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-15T20:58:31+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "title_zh": "当局说,在以色列对黎巴嫩南部的袭击中,有11人死亡。",
+      "title_zh": "当局说,在以色列对黎巴嫩南部的袭击中,有11人被炸死。",
       "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-15T20:21:14+00:00",
       "summary": "Among those killed in the strike on the outskirts of Ansar were three children and two women, state media reports",
-      "summary_zh": "在安萨尔郊区的罢工中被杀的有3名儿童和2名妇女,国家媒体报道"
+      "summary_zh": "在安萨尔郊区的罢工中遇害的有3名儿童和2名妇女,国家媒体报道"
     },
     {
       "source": "BBC News",
@@ -76,68 +206,38 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "title_zh": "警察说,在弗吉尼亚州立大学中了5枪之后,有多名嫌犯在逃",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T19:34:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why is Australia's mushroom killer back in court this week?",
-      "title_zh": "为什么这个星期澳大利亚的蘑菇杀手会回到法庭?",
+      "title_zh": "为什么澳大利亚的蘑菇杀手 本周会回到法庭?",
       "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-15T18:02:30+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "title_zh": "消防员在比利时自然保护区与野火战斗",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T17:47:42+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "South Korea proposes talks to officially end war with North",
-      "title_zh": "韩国提议正式结束与北韩的战争",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T14:40:15+00:00",
-      "summary": "South Korean President Lee Jae Myung said talks could yield \"peaceful coexistence\"",
-      "summary_zh": "韩国总统李载明表示会谈可以产生\"和平共处\"."
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "title_zh": "泰国喷气式滑雪机坠毁后,家人在海上搁浅16小时",
+      "title_zh": "泰国喷气式滑雪机坠入海底16小时后,",
       "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-15T13:41:09+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "World's Ugliest Dog contest crowns 2026 winner",
-      "title_zh": "世界Ugliest狗大赛2026冠亚军",
+      "title_zh": "世界最优等狗大赛2026冠亚军",
       "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-15T13:41:08+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Secondhand book sales are booming. Is it because of AI?",
-      "title_zh": "二手书销量大增. 是因为AI吗?",
+      "title_zh": "二手书销量兴起. 是因为AI吗?",
       "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-15T11:25:32+00:00",
       "summary": "Something mysterious has been happening in the world of secondhand books.",
@@ -147,51 +247,31 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
-      "title_zh": "16小时后在泰国外的喷气式滑雪机上被救出",
+      "title_zh": "16小时后在泰国外的滑雪机上被救出",
       "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-15T09:29:31+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-      "title_zh": "夏季热浪后从太空看到的欧洲的焦景",
+      "title_zh": "夏季热浪后从太空看到的欧洲的焦燥地貌",
       "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-15T05:01:13+00:00",
       "summary": "The impact of the heat has been noticeable in satellite imagery",
-      "summary_zh": "热量的影响在卫星图像中是明显的"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-      "title_zh": "贝拉·拉姆齐说,我希望我更叛逆",
-      "link": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T00:10:47+00:00",
-      "summary": "Ramsey, 22, is best known for their role as Lyanna Mormont in Game of Thrones",
-      "summary_zh": "拉姆齐,22岁,以在王座游戏中扮演莱安娜·莫尔蒙(Lyanna Mormont)的角色而闻名."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-      "title_zh": "BBC试图传唤特朗普的家人 在全景诉讼",
-      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-15T00:01:53+00:00",
-      "summary": "The BBC has sought to subpoena members of Donald Trump's family for documents and testimony as it defends against the US president's $10bn (£7.4bn) defamation lawsuit against the broadcaster.",
-      "summary_zh": "BBC试图传唤唐纳德·特朗普的家人提供文件和证词,因为BBC为美国总统10bn(7.4bn英镑)对广播公司的诽谤诉讼辩护."
+      "summary_zh": "热能的影响在卫星图像中是显著的"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "The Polygamist's author says women see themselves reflected in her Netflix hit",
-      "title_zh": "多配偶制的作者说,女性看到自己在她的Netflix打击中被反映出来",
+      "title_zh": "多配偶制的作者说,妇女看到自己在她的Netflix被打中",
       "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-14T23:17:22+00:00",
       "summary": "Sue Nyathi says people call her an overnight success but \"the work has been put in over many years\"",
-      "summary_zh": "Sue Nyathi说人们称她一夜之间成功,"
+      "summary_zh": "Sue Nyathi说人们称她一夜成功,"
     },
     {
       "source": "BBC News",
@@ -201,7 +281,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-14T23:16:43+00:00",
       "summary": "Kent Truscott (left) cancelled a planned trip to Texas and opted to explore Canada's Atlantic provinces instead",
-      "summary_zh": "肯特·特鲁斯科特(左翼)取消了计划前往德克萨斯州的旅行,选择了探索加拿大的大西洋省份."
+      "summary_zh": "肯特·特鲁斯科特(左翼)取消了计划去德克萨斯州的旅行,选择去探索加拿大的大西洋省份取而代之."
     },
     {
       "source": "BBC News",
@@ -211,47 +291,17 @@
       "link": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-14T23:08:13+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-      "title_zh": "\"我向汤普森先生开枪\" 当曼吉奥内认罪时,法庭内部是什么感觉?",
+      "title_zh": "\"我向汤普森先生开枪\" 当曼吉奥内认罪时,法庭内部的情况是什么?",
       "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-14T18:54:58+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "title_zh": "阿富汗妇女告诉英国广播公司,在塔利班统治了五年之后,她们的生活是无法辨认的。",
-      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T18:25:38+00:00",
-      "summary": "Five years on from the Taliban takeover in Afghanistan, women and girls have told the BBC their lives are unrecognisable under the rule of the regime.",
-      "summary_zh": "塔利班接管阿富汗五年后,妇女和女童告诉英国广播公司,在政权统治下,她们的生活是无法辨认的。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "title_zh": "美国航空母舰正在赶往林肯号 船上报告问题后",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T17:36:27+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "title_zh": "活动分子试图向被以色列定居者围困的房屋中的巴勒斯坦人提供援助",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T17:03:17+00:00",
-      "summary": "Access to the homes has been blocked by settlers since Sunday",
-      "summary_zh": "自星期日以来,定居者一直不准进入这些房屋"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -264,86 +314,6 @@
       "summary_zh": "塔利班掌权五年后,西方有影响力吗?"
     },
     {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is Selena Gomez being sued?",
-      "title_zh": "为什么塞琳娜·戈麦斯被起诉?",
-      "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T16:59:53+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "France's top court blocks social media ban for under-15s",
-      "title_zh": "法国最高法庭禁止15岁以下者使用社交媒体",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T16:35:06+00:00",
-      "summary": "France's top court has struck down a ban on social media for under-15s, saying it infringed upon freedom of expression.",
-      "summary_zh": "法国最高法院已经废除了对15岁以下社交媒体的禁令,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-      "title_zh": "赞比亚的计票因据称袭击投票工作人员而暂停后恢复计票",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T16:28:59+00:00",
-      "summary": "Counting began on Thursday evening as soon as polls had closed",
-      "summary_zh": "投票结束后,星期四晚上就开始计票"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment €9m worth of art stolen from Italy museum",
-      "title_zh": "意大利博物馆被盗价值900万欧元的艺术品",
-      "link": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T14:56:04+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "title_zh": "比利时财产墙上封存的900万欧元黄金",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T13:18:08+00:00",
-      "summary": "Local police shared images of the hoard, discovered earlier this week",
-      "summary_zh": "当地警方分享了本周早些时候发现的囤积物的照片"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "title_zh": "Instagram 账户为休达危机火上浇油 提供有偿咨询帮助渡过",
-      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T12:19:21+00:00",
-      "summary": "Many migrants have attempted to swim from Morocco to the Spanish enclave Ceuta",
-      "summary_zh": "许多移民试图从摩洛哥游到西班牙飞地休达"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Unprecedented' rain in Japan kills eight people",
-      "title_zh": "日本的\"前所未有的\"雨 造成8人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T10:36:14+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What happens if Luigi Mangione pleads guilty today?",
-      "title_zh": "观察:如果路易吉·曼吉奥内今天认罪会怎样?.",
-      "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-14T01:19:19+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
@@ -351,13 +321,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,北日本至西日本的气势非常不稳定,\"评分短时暴雨\"天气灾害预防报告等当地暴雨将7次宣布. 9号的大气层非常不稳定..."
+      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两人死亡",
+      "title_zh": "爱知县两起死亡案",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -367,37 +337,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "大型且非常坚固的13号喇叭位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
+      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手比赛中的乐趣",
+      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
+      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "熊本地震发生于十年前的地震附近",
+      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
+      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
