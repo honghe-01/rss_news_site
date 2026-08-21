@@ -1,17 +1,217 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-20T22:43:58+00:00",
-  "count": 35,
+  "generated_at": "2026-08-21T22:39:11+00:00",
+  "count": 32,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "title_zh": "巴基斯坦前总理伊姆兰·汗被送入医院治疗",
+      "title": "One killed in sword attack at Swedish school",
+      "title_zh": "一名在瑞典学校被击剑打死",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T21:03:24+00:00",
+      "summary": "Police respond to the scene in Fagersta",
+      "summary_zh": "警方回应法格斯塔的场景"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "title_zh": "俄罗斯双塔克无人机袭击 乌克兰商场15人死亡 官员说",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T19:49:56+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "title_zh": "以色列如何扩大定居点以重塑西岸",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T19:31:47+00:00",
+      "summary": "It was during a ceremony at a settlement in the occupied West Bank last September that Israel's prime minister made his intentions clear. \"We are going to fulfill our promise that there will be no Palestinian state,\" said Benjamin Netanyahu. \"This place belongs to us.\"",
+      "summary_zh": "去年9月在被占领的西岸的一个定居点举行的仪式上,以色列总理阐明了他的意图。 “我们将兑现承诺, \"这个地方属于我们\""
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "title_zh": "Meghan在Netflix系列中扮演的角色 先生们,英国广播公司理解",
+      "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T18:29:31+00:00",
+      "summary": "The Duchess of Sussex is in talks to return to acting with a role in Netflix series The Gentlemen, the BBC has learned.",
+      "summary_zh": "苏塞克斯公爵夫人正在会谈中 回到Netflix系列中的角色 先生们 BBC已经知道了"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "title_zh": "加拿大锡克教寺庙被刺伤2人",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T18:27:15+00:00",
+      "summary": "A man has been arrested after two people were injured in an early morning stabbing attack at a Sikh temple in Edmonton, Canada, police said.",
+      "summary_zh": "警方说,在加拿大埃德蒙顿的锡克教寺庙发生的一次清晨被刺伤事件中有两人被打伤后,一名男子被拘捕."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "title_zh": "图帕克被谋杀的被告在2008年告诉警方 他的侄子开了一枪",
+      "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T18:09:38+00:00",
+      "summary": "Duane \"Keffe D\" Davis is on trial in Las Vegas",
+      "summary_zh": "Duane \"Keffe D\" Davis在拉斯维加斯受审"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "title_zh": "德国调查俄罗斯与森林中发现的武器储藏处的联系,",
+      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T16:26:53+00:00",
+      "summary": "German intelligence believes a cache of guns found in the woods near Berlin last year was for carrying out assassinations on behalf of Russia, reports say.",
+      "summary_zh": "德国情报部门认为,去年在柏林附近的树林里 发现的一批枪 是为了代表俄罗斯进行暗杀"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+      "title_zh": "埃塞俄比亚提格雷圣母玛利亚节取消无人机袭击恐惧",
+      "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T16:20:55+00:00",
+      "summary": "The Ashenda festival is eagerly anticipated by girls and young women in northern Ethiopia",
+      "summary_zh": "埃塞俄比亚北部女孩和年轻妇女热切期待阿申达节"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "title_zh": "英国、加拿大和澳大利亚谴责以色列拒绝对加沙援助人员被害事件进行刑事调查",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T15:58:57+00:00",
+      "summary": "Seven World Central Kitchen humanitarian workers were killed in Israeli strikes in April 2024",
+      "summary_zh": "七名世界中央厨房人道主义工作人员在2024年4月的以色列罢工中被炸死"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tornadoes touch down in New York and Delaware",
+      "title_zh": "纽约和特拉华的\"龙卷风\"",
+      "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T14:35:50+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "title_zh": "埃博拉疫苗试验将在刚果民主共和国开始,以示对感染速度的警告",
+      "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T13:44:43+00:00",
+      "summary": "The Ervebo vaccine, known to protect against the Zaïre species of Ebola, will now be tested for the one causing the current outbreak",
+      "summary_zh": "埃博拉病毒(Ervebo)是已知的防疫疫苗,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+      "title_zh": "普里扬卡·肖普拉·乔纳斯主演一部关于爱情和种姓不平等的电影",
+      "link": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T13:32:28+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "title_zh": "瑞士高山镇火灾后失踪了5人",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T13:10:39+00:00",
+      "summary": "Local police said they were called just after midnight local time to a fire at a restaurant with apartments",
+      "summary_zh": "当地警方说,当地时间午夜刚过 他们被叫到一家有公寓的餐馆起火"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "title_zh": "罗森伯格:由于俄罗斯人感到战争的影响越来越大,汽油短缺,但不是爱国主义.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T13:07:00+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Peru earthquake damages buildings and causes power cuts",
+      "title_zh": "秘鲁地震破坏建筑物并造成停电",
+      "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T11:14:38+00:00",
+      "summary": "Dust filled the air in Pausa, Peru, about 46 miles (74km) from the earthquake's epicentre",
+      "summary_zh": "在距地震震中约46英里(74公里)的秘鲁保萨,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "title_zh": "巴基斯坦前总理伊姆兰·汗在医院检查后返回监狱",
       "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T22:42:30+00:00",
-      "summary": "Imran Khan has been jailed since 2023",
+      "published_at": "2026-08-21T10:46:09+00:00",
+      "summary": "Imran Khan has been in prison since 2023",
       "summary_zh": "伊姆兰·可汗自2023年起入狱"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "title_zh": "香港天安门人士在国家安全审判中有罪",
+      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T05:47:32+00:00",
+      "summary": "Chow Hang-tung had also seperately been arrested in June 2021 for \"inciting\" the public to take part in a Tiananmen vigil",
+      "summary_zh": "周杭通也在2021年6月因\"煽动\"公众参加天安门守夜会而被捕"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "title_zh": "以色列不顾日益增加的国际抗议,重建了封闭的西岸定居点",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T05:00:57+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What happened to Harry and Meghan's American dream?",
+      "title_zh": "哈利和梅根的美国梦怎么了?",
+      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T02:57:34+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+      "title_zh": "破烂的厕所,漏出屋顶:为什么印度的\"cockroach\"派对想要修复学校",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T00:04:10+00:00",
+      "summary": "Many schools, especially in rural India, are starved of funding and in disrepair",
+      "summary_zh": "许多学校,特别是印度农村的学校,缺乏资金并失修。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "title_zh": "特朗普的\"经济D-Day\"会伤害伊朗多少?.",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T23:16:45+00:00",
+      "summary": "Nearly six months after US President Donald Trump vowed a swift victory over Iran, the conflict appears to be at a standstill, with prospects of a military victory or negotiated settlement growing dimmer.",
+      "summary_zh": "在美国总统唐纳德·特朗普宣誓迅速战胜伊朗后近六个月,冲突似乎处于停滞状态,军事胜利或谈判解决的前景日益暗淡."
     },
     {
       "source": "BBC News",
@@ -20,56 +220,6 @@
       "title_zh": "注意:渔民在冷箱中漂流了五天后获救",
       "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-20T20:41:31+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dozens dead after boat capsizes in north-western Nigeria",
-      "title_zh": "尼日利亚西北部船只翻船后数十人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T20:27:36+00:00",
-      "summary": "Farm workers rely on boats to get to rice fields and to transport goods",
-      "summary_zh": "农场工人依靠船只去稻田和运输货物"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "title_zh": "Como市长被电动自行车撞倒,",
-      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T20:08:29+00:00",
-      "summary": "Como sits alongside several other historic towns overlooking the famous lake",
-      "summary_zh": "科莫与其它几个历史名镇相邻,俯瞰着著名的湖泊"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "title_zh": "美国说,制裁将“扭曲”伊朗的经济,“崩溃”其政权。",
-      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T19:52:48+00:00",
-      "summary": "Bessent believes international sanctions will 'minimise the need' to return to war with Iran",
-      "summary_zh": "贝森特认为国际制裁会\"减轻与伊朗重新开战的需要\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "title_zh": "联合王国、法国、德国、意大利和加拿大谴责以色列的西岸定居点项目",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T18:55:14+00:00",
-      "summary": "File photo of the Israeli settlement of Maale Adumim in the occupied West Bank next to the so-called E1 project in East Jerusalem, taken in February 2026",
-      "summary_zh": "2026年2月拍摄的在东耶路撒冷所谓的E1项目旁的被占领西岸Maale Adumim以色列定居点档案照片"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "title_zh": "基辅市长表示,",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T17:14:55+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -86,170 +236,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Togo charges two French journalists over incorrect documents, rights group says",
-      "title_zh": "多哥指控两名法国记者不正确文件,",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T16:00:27+00:00",
-      "summary": "The two filmmakers were arrested while working in Kara, in northern Togo, last month",
-      "summary_zh": "上个月在多哥北部的卡拉工作时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Landslide at unlicensed Colombian gold mine kills 13",
-      "title_zh": "哥伦比亚无证金矿山体滑坡致13人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T15:07:57+00:00",
-      "summary": "The landslide happened at a mine in Policarpa, in the south of the country",
-      "summary_zh": "山体滑坡发生在该国南部Policarpa的一个矿山上"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "title_zh": "德国新纳粹怀疑1970年犹太人退休之家发生致命火灾",
-      "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T13:04:15+00:00",
-      "summary": "The arson attack has long been seen as one of the worst attacks targeting Germany's post-war Jewish community",
-      "summary_zh": "纵火攻击被长期视为针对德国战后犹太人社区最恶劣的攻击之一."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "title_zh": "阿萨德军官首次被以战争罪被引渡到叙利亚",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T12:38:35+00:00",
-      "summary": "At least half a million people are estimated to have been killed in the war in Syria",
-      "summary_zh": "估计至少有50万人在叙利亚战争中丧生"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "title_zh": "被指控从事贩毒调查的前利比里亚副总统",
-      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T11:08:19+00:00",
-      "summary": "Jewel Howard-Taylor served as vice-president of Liberia from 2018 to 2024",
-      "summary_zh": "朱厄尔·霍华德-泰勒从2018年至2024年出任利比里亚副总统."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four workers dead after being hit by train in Japan",
-      "title_zh": "在日本被火车撞死四个工人",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T10:32:31+00:00",
-      "summary": "The train involved in the accident was a limited express train - one of the fastest in Japan",
-      "summary_zh": "事故涉及的列车是有限的特快列车——日本速度最快的列车之一."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "title_zh": "在以色列决定不对在加沙杀害援助人员的行为展开刑事调查后,",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T07:33:11+00:00",
-      "summary": "Zomi Frankcom was an aid worker with World Central Kitchen",
-      "summary_zh": "Zomi Frankcom是世界中央厨房的援助人员"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Canadian marathon route was 674m too long",
-      "title_zh": "加拿大马拉松路线是674m太长了",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T07:15:48+00:00",
-      "summary": "The Edmonton Marathon is often used as a way to qualify for the hugely popular Boston Marathon",
-      "summary_zh": "埃德蒙顿马拉松经常被用作获得波士顿马拉松盛会资格的手段."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "title_zh": "蘑菇杀手必须永远关在监狱里 因为\"非常可怕的\"罪行,上诉法院告诉",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T07:08:35+00:00",
-      "summary": "Erin Patterson attended the Court of Appeal via video link from prison",
-      "summary_zh": "Erin Patterson通过视频链接从监狱到上诉法院"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "title_zh": "倒塌的中国财产的创始人 巨头Evergrande被判终身监禁",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T06:08:02+00:00",
-      "summary": "Hui Ka Yan, centre, the founder of China's Evergrande Group",
-      "summary_zh": "惠家燕,中相,中国永高集团创始人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "title_zh": "失踪的少年徒步者在澳洲丛林中 搜了八天就死了",
-      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T05:45:53+00:00",
-      "summary": "Lily Hooper, 18, was found dead after an eight-day search in the Australian bush",
-      "summary_zh": "18岁的Lily Hooper在澳洲灌木丛中搜出8天后被发现已死亡"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "title_zh": "抓获了乌克兰出生的士兵 告诉BBC他们为什么为俄国而战",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T05:01:24+00:00",
-      "summary": "Some of the prisoners of war were born in Ukraine but consider themselves to be Russian",
-      "summary_zh": "有些战俘出生在乌克兰,但认为自己是俄罗斯人"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "title_zh": "以色列确认士兵向Hind Rajab被杀死的汽车开火并开始刑事调查",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T04:17:53+00:00",
-      "summary": "The Israeli military has confirmed for the first time that it opened fire on a car carrying five-year-old Palestinian girl Hind Rajab, who was killed along with six relatives in Gaza in 2024.",
-      "summary_zh": "以色列军方首次证实,它向一辆载有5岁巴勒斯坦女孩Hind Rajab的汽车开火,她与加沙的6名亲属于2024年被杀死。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "title_zh": "巨鲸进入格陵兰水域 随着冰的消失",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T02:05:20+00:00",
-      "summary": "Fin whales feed in ice-free East Greenland waters, as scientists observe from their boats",
-      "summary_zh": "正如科学家从他们的船上观测到的 东格陵兰海域的无冰鲸鱼"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-      "title_zh": "关键特朗普助手娜塔莉·哈普(Natalie Harp)在多年的幕后之后突然出现在聚光灯下",
-      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T23:11:14+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
       "title_zh": "24小时内以色列在加沙的多起致命袭击",
       "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-19T17:46:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trial of mum accused of killing her three children puts postpartum psychosis on the map",
-      "title_zh": "审判被控杀害她三个孩子的妈妈 把产后精神错乱放在地图上",
-      "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T16:30:55+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -262,26 +252,6 @@
       "published_at": "2026-08-19T15:38:38+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Families' agonising search for answers as thousands still missing in Gaza",
-      "title_zh": "由于加沙仍有数千人失踪,",
-      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T05:04:00+00:00",
-      "summary": "Ahmed al Madhoun, who has Down's syndrome, has been missing since May 2025",
-      "summary_zh": "自2025年5月起,患有唐氏综合征的艾哈迈德·马德洪就失踪了"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "title_zh": "法国公务员给我们下药,让我们撒尿, 指控者说",
-      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T05:00:39+00:00",
-      "summary": "Anaïs de Vos suspects a cup of coffee that Nègre gave her was drugged",
-      "summary_zh": "Anaïs de Vos怀疑Nègre给她的一杯咖啡被下药"
     },
     {
       "source": "NHKニュース",
