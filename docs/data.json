@@ -1,8 +1,178 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-21T22:39:11+00:00",
-  "count": 32,
+  "generated_at": "2026-08-22T22:37:12+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "title_zh": "卡尼称特朗普的新关税在贸易谈判破裂后是\"错算\".",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T20:10:00+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "title_zh": "卡尼在离开特朗普的交易后面临关键考验",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T20:02:46+00:00",
+      "summary": "The United States and Canada have entered into uncharted territory.",
+      "summary_zh": "美国和加拿大已进入未知领土。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+      "title_zh": "观察:动人机器人击败了乌森·博尔特100米纪录",
+      "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T17:02:06+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "title_zh": "美国军事报纸编辑在被炒后 发出审查的恐惧",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T16:57:19+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "title_zh": "父亲把7岁的儿子一个人留在富士山继续远行",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T14:35:11+00:00",
+      "summary": "The boy was found alone on Japan's highest mountain",
+      "summary_zh": "在日本最高的山上发现了这个男孩"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "title_zh": "14人被缅甸修道院所杀",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T13:48:06+00:00",
+      "summary": "The monastery said to have been targeted in the village of Chhay Hoe O",
+      "summary_zh": "据说修道院是Chay Hoe O村的目标"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "title_zh": "救援人员通过乌克兰商场残骸挖掘,",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T13:13:16+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "title_zh": "机器人马和骑手偷中国会议的聚光灯",
+      "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T10:01:18+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "title_zh": "悉尼马拉松奖章错误地描绘了慕尼黑体育场",
+      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T07:53:57+00:00",
+      "summary": "The medal design appears to show Munich's Allianz Arena on the bottom-right",
+      "summary_zh": "奖牌设计显示慕尼黑的\"Allianz Arena\"位于右下角"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "title_zh": "Lindsay Clancy在杀死孩子时遭受“指挥幻觉”,",
+      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T03:43:26+00:00",
+      "summary": "Warning: This story contains distressing details and discussion of attempted suicide",
+      "summary_zh": "警告: 这个故事包含了令人不安的细节 和关于自杀未遂的讨论"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "title_zh": "安静,安静,安静! 什么触发特朗普关闭记者?.",
+      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T02:39:10+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "title_zh": "当他们回到英国时,哈里和梅根 寻找一个粘住的品牌",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T00:03:10+00:00",
+      "summary": "In late July, the Duchess of Sussex's lifestyle range, called As ever, launched a \"rich, vibrant\" blackberry spread alongside a softly lit video of her picking the fruit.",
+      "summary_zh": "7月下旬,苏塞克斯公爵夫人的生活方式范围被称作\"一如既往\"(\"As ever\"),在她摘取水果的柔软放出视频的同时,推出了\"富饶而活泼\"的\"黑莓\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+      "title_zh": "指尖处的药物 强烈的压力:为什么童星会成瘾",
+      "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T23:41:33+00:00",
+      "summary": "Hayden Panettiere's death at the age of 36 was announced earlier this week",
+      "summary_zh": "海登·帕内蒂埃尔36岁时去世 本周早些时候宣布"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "title_zh": "加拿大锡克教寺庙被刺伤2人",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T22:45:01+00:00",
+      "summary": "A man has been arrested after injuring two people in an early morning stabbing attack at a Sikh temple in Edmonton, Canada, police said.",
+      "summary_zh": "警方说,一名男子在加拿大埃德蒙顿的锡克教寺庙被刺伤2人后被捕。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "title_zh": "TikTok向美国支付4亿美元,",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T22:36:12+00:00",
+      "summary": "TikTok has been under pressure in the US since 2024.",
+      "summary_zh": "TikTok自2024年起在美国受到压力."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "These bookshops let Chinese readers question their country - now the doors are closing",
+      "title_zh": "这些书店让中国读者质疑自己的国家 现在门关上了",
+      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T22:26:25+00:00",
+      "summary": "The owner of Hunter bookstore, pictured here, was arrested in late June",
+      "summary_zh": "猎人书店的店主在6月下旬被捕"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
+      "title_zh": "莫迪花了好几年造出他强壮的形象——他为什么现在要制作\"Gen Z相机\"?.",
+      "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T22:15:32+00:00",
+      "summary": "Many among India's Gen Z may not see Narendra Modi as a friend. But the Indian prime minister is trying to talk to them like one.",
+      "summary_zh": "印度的\"Gen Z\"中许多人可能并不认为纳伦德拉·莫迪是朋友. 但印度总理想跟他们说话"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
@@ -12,16 +182,6 @@
       "published_at": "2026-08-21T21:03:24+00:00",
       "summary": "Police respond to the scene in Fagersta",
       "summary_zh": "警方回应法格斯塔的场景"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "title_zh": "俄罗斯双塔克无人机袭击 乌克兰商场15人死亡 官员说",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T19:49:56+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -46,16 +206,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "title_zh": "加拿大锡克教寺庙被刺伤2人",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T18:27:15+00:00",
-      "summary": "A man has been arrested after two people were injured in an early morning stabbing attack at a Sikh temple in Edmonton, Canada, police said.",
-      "summary_zh": "警方说,在加拿大埃德蒙顿的锡克教寺庙发生的一次清晨被刺伤事件中有两人被打伤后,一名男子被拘捕."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
       "title_zh": "图帕克被谋杀的被告在2008年告诉警方 他的侄子开了一枪",
       "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
@@ -72,16 +222,6 @@
       "published_at": "2026-08-21T16:26:53+00:00",
       "summary": "German intelligence believes a cache of guns found in the woods near Berlin last year was for carrying out assassinations on behalf of Russia, reports say.",
       "summary_zh": "德国情报部门认为,去年在柏林附近的树林里 发现的一批枪 是为了代表俄罗斯进行暗杀"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "title_zh": "埃塞俄比亚提格雷圣母玛利亚节取消无人机袭击恐惧",
-      "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T16:20:55+00:00",
-      "summary": "The Ashenda festival is eagerly anticipated by girls and young women in northern Ethiopia",
-      "summary_zh": "埃塞俄比亚北部女孩和年轻妇女热切期待阿申达节"
     },
     {
       "source": "BBC News",
@@ -126,16 +266,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Five missing after fire in Swiss Alpine town",
-      "title_zh": "瑞士高山镇火灾后失踪了5人",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T13:10:39+00:00",
-      "summary": "Local police said they were called just after midnight local time to a fire at a restaurant with apartments",
-      "summary_zh": "当地警方说,当地时间午夜刚过 他们被叫到一家有公寓的餐馆起火"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
       "title_zh": "罗森伯格:由于俄罗斯人感到战争的影响越来越大,汽油短缺,但不是爱国主义.",
       "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
@@ -152,16 +282,6 @@
       "published_at": "2026-08-21T11:14:38+00:00",
       "summary": "Dust filled the air in Pausa, Peru, about 46 miles (74km) from the earthquake's epicentre",
       "summary_zh": "在距地震震中约46英里(74公里)的秘鲁保萨,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "title_zh": "巴基斯坦前总理伊姆兰·汗在医院检查后返回监狱",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T10:46:09+00:00",
-      "summary": "Imran Khan has been in prison since 2023",
-      "summary_zh": "伊姆兰·可汗自2023年起入狱"
     },
     {
       "source": "BBC News",
@@ -186,72 +306,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What happened to Harry and Meghan's American dream?",
-      "title_zh": "哈利和梅根的美国梦怎么了?",
-      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T02:57:34+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-      "title_zh": "破烂的厕所,漏出屋顶:为什么印度的\"cockroach\"派对想要修复学校",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T00:04:10+00:00",
-      "summary": "Many schools, especially in rural India, are starved of funding and in disrepair",
-      "summary_zh": "许多学校,特别是印度农村的学校,缺乏资金并失修。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "How much could Trump's 'economic D-Day' hurt Iran?",
       "title_zh": "特朗普的\"经济D-Day\"会伤害伊朗多少?.",
       "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-20T23:16:45+00:00",
       "summary": "Nearly six months after US President Donald Trump vowed a swift victory over Iran, the conflict appears to be at a standstill, with prospects of a military victory or negotiated settlement growing dimmer.",
       "summary_zh": "在美国总统唐纳德·特朗普宣誓迅速战胜伊朗后近六个月,冲突似乎处于停滞状态,军事胜利或谈判解决的前景日益暗淡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Fishermen rescued after five days adrift in cool box",
-      "title_zh": "注意:渔民在冷箱中漂流了五天后获救",
-      "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T20:41:31+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
-      "title_zh": "观察:哈利归来对于他与威廉断裂的关系意味着什么?.",
-      "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T16:54:51+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-      "title_zh": "24小时内以色列在加沙的多起致命袭击",
-      "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T17:46:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "title_zh": "乌克兰前国防部长为何呼吁战时选举?.",
-      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T15:38:38+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
     },
     {
       "source": "NHKニュース",
