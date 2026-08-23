@@ -1,17 +1,197 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-22T22:37:12+00:00",
-  "count": 38,
+  "generated_at": "2026-08-23T22:37:01+00:00",
+  "count": 45,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "title_zh": "卡尼称特朗普的新关税在贸易谈判破裂后是\"错算\".",
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "title_zh": "特朗普挥起绿旗 开始英迪汽车赛跑穿过华盛顿街道",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T20:19:36+00:00",
+      "summary": "US President Donald Trump was among hundreds of people who gathered to see the IndyCar race through the streets of Washington DC on Sunday, marking the culmination of a series of summer events to celebrate the country's 250th birthday.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)是数百名周日聚集在华盛顿特区街头观看英迪汽车赛事的人之一,标志着一系列庆祝该国250岁生日的夏季活动的高潮."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "title_zh": "特朗普说,加拿大希望在贸易谈判破裂后成为美国国家的\"好处\".",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T20:10:00+00:00",
+      "published_at": "2026-08-23T19:11:30+00:00",
+      "summary": "Trump has repeatedly mentioned making Canada the \"51st state\" of America since returning to office",
+      "summary_zh": "特朗普在复职后再三提到使加拿大成为美国的\"第51个州\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "title_zh": "几内亚垃圾填埋场倒塌造成30人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T18:17:37+00:00",
+      "summary": "There are fears the death toll could rise further as a number of people may be buried under the rubbish",
+      "summary_zh": "很多人被埋在垃圾堆里,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France links sharp rise in drownings to heatwaves",
+      "title_zh": "法国将溺水的急剧上升与热浪联系起来",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T17:39:33+00:00",
+      "summary": "France has seen 301 drownings since 19 June, a government minister has said, linking the sharp rise in deaths compared to last year to the prolonged heatwaves .",
+      "summary_zh": "与去年相比, 死亡人数急剧上升与长期热浪有关。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Frustration builds in Indiana town struggling without power for 12 days",
+      "title_zh": "印第安纳州城内建设了12天的失落,",
+      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T15:54:32+00:00",
+      "summary": "Nearly two weeks after a damaging storm struck her town in Indiana, Terry Dubois is one of tens of thousands of people still without power.",
+      "summary_zh": "在一次破坏性风暴袭击她位于印第安纳州的城镇近两周后,特里·杜波依斯(Terry Dubois)是数以万计仍然没有权力的人之一."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+      "title_zh": "Kejelcha以29秒打破了男子半马拉松世界纪录",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T13:35:06+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "title_zh": "Zelensky应该被问到他知道什么 关于政府腐败,被解雇的部长告诉BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:56:43+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "title_zh": "DR 刚果和 \" 3·23 \" 运动反叛分子商定和平谈判路线图",
+      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:52:08+00:00",
+      "summary": "M23 rebels seen in Goma in March after an air strike on the territory",
+      "summary_zh": "3月在戈马看到3·23 \" 3·23 \" 运动反叛分子在对该领土进行空袭后"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Wicker Man director's sons complete their late father's film trilogy",
+      "title_zh": "威克曼导演的儿子们完成了他们已故父亲的电影三部曲",
+      "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:51:15+00:00",
+      "summary": "Dominic and Justin Hardy embraced the legacy of their father's film The Wicker Man",
+      "summary_zh": "多米尼克和贾斯汀哈地 继承了他们父亲的电影《威克人》"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Robot boxing, football and sprinting at World Humanoid Games",
+      "title_zh": "世界人文运动会机器人拳击、足球和短跑",
+      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:47:06+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'New season, new trim' - Haaland reveals buzzcut",
+      "title_zh": "\"新季节,新修剪\" \"Haaland 揭示出出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"出\"",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:36:54+00:00",
+      "summary": "Erling Haaland - before and after",
+      "summary_zh": "埃林·哈兰 - 前后"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Golf brand apologises for advert that shows woman being pushed over",
+      "title_zh": "高尔夫品牌为广告道歉 显示女性被推倒",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:25:40+00:00",
+      "summary": "Good Good has been creating golf content on its own YouTube channel since 2020",
+      "summary_zh": "Good Good从2020年开始在自己的YouTube频道创建高尔夫球内容."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "title_zh": "泰国南部遭到数十起协同纵火袭击",
+      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T11:50:59+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man completes 2,800 mile scoot across Australia",
+      "title_zh": "整个澳大利亚有2800英里跑道",
+      "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T06:01:16+00:00",
+      "summary": "Bob Brown embarked on the challenge in July and finished on Monday",
+      "summary_zh": "Bob Brown在7月开始挑战,星期一结束"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "title_zh": "'我们不会逃出它':悉尼·马拉松笑出奖牌错误",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T03:44:19+00:00",
+      "summary": "The medal design appears to show Munich's Allianz Arena on the bottom-right",
+      "summary_zh": "奖牌设计显示慕尼黑的\"Allianz Arena\"位于右下角"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "title_zh": "女孩,17岁,死于瑞典的剑袭击,警察说",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T01:34:15+00:00",
+      "summary": "Swedish Prime Minister Ulf Kristersson and Social Democratic Party leader Magdalena Andersson visit the makeshift memorial.",
+      "summary_zh": "瑞典首相乌尔夫·克里斯特森和社会民主党领袖马格达莱纳·安德森参观了临时纪念碑."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "title_zh": "特朗普·莫比特(Trump Mobile)推广了美国手机的\"Made\"——但细节不断改变.",
+      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T23:45:01+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "title_zh": "山羊牧民的幸运200块金币 在肯尼亚西部引发了淘金热吗?",
+      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T23:22:02+00:00",
+      "summary": "Manasse Lomachar would like the discovery of gold to improve life in his village",
+      "summary_zh": "玛纳斯·洛玛查尔希望金子的出土能改善他村子的生活"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "title_zh": "叙利亚说,以色列袭击大马士革附近,违反了国际法。",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T21:42:42+00:00",
+      "summary": "The village of Beit Jinn is southwest of Syria's capital Damascus",
+      "summary_zh": "Beit Jinn村位于叙利亚首都大马士革的西南部"
     },
     {
       "source": "BBC News",
@@ -20,8 +200,18 @@
       "title_zh": "卡尼在离开特朗普的交易后面临关键考验",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-22T20:02:46+00:00",
-      "summary": "The United States and Canada have entered into uncharted territory.",
-      "summary_zh": "美国和加拿大已进入未知领土。"
+      "summary": "Carney said the fresh tariffs were a miscalculation designed to \"hurt and divide us\"",
+      "summary_zh": "卡尼说新关税是用来\"伤害和分裂我们\"的误判"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "title_zh": "酒店预订的混账 可能释放蘑菇杀手",
+      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-22T19:03:03+00:00",
+      "summary": "Erin Patterson is trying to overturn her convictions",
+      "summary_zh": "艾琳·帕特森试图推翻她的信念"
     },
     {
       "source": "BBC News",
@@ -86,16 +276,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "title_zh": "悉尼马拉松奖章错误地描绘了慕尼黑体育场",
-      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T07:53:57+00:00",
-      "summary": "The medal design appears to show Munich's Allianz Arena on the bottom-right",
-      "summary_zh": "奖牌设计显示慕尼黑的\"Allianz Arena\"位于右下角"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
       "title_zh": "Lindsay Clancy在杀死孩子时遭受“指挥幻觉”,",
       "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
@@ -136,16 +316,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "title_zh": "加拿大锡克教寺庙被刺伤2人",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T22:45:01+00:00",
-      "summary": "A man has been arrested after injuring two people in an early morning stabbing attack at a Sikh temple in Edmonton, Canada, police said.",
-      "summary_zh": "警方说,一名男子在加拿大埃德蒙顿的锡克教寺庙被刺伤2人后被捕。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "title_zh": "TikTok向美国支付4亿美元,",
       "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
@@ -176,12 +346,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "One killed in sword attack at Swedish school",
-      "title_zh": "一名在瑞典学校被击剑打死",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T21:03:24+00:00",
-      "summary": "Police respond to the scene in Fagersta",
-      "summary_zh": "警方回应法格斯塔的场景"
+      "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
+      "title_zh": "观看:拿起180mph回旋 环绕美国生日大奖赛跑道",
+      "link": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T21:50:27+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -196,70 +366,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-      "title_zh": "Meghan在Netflix系列中扮演的角色 先生们,英国广播公司理解",
-      "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T18:29:31+00:00",
-      "summary": "The Duchess of Sussex is in talks to return to acting with a role in Netflix series The Gentlemen, the BBC has learned.",
-      "summary_zh": "苏塞克斯公爵夫人正在会谈中 回到Netflix系列中的角色 先生们 BBC已经知道了"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "title_zh": "图帕克被谋杀的被告在2008年告诉警方 他的侄子开了一枪",
-      "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T18:09:38+00:00",
-      "summary": "Duane \"Keffe D\" Davis is on trial in Las Vegas",
-      "summary_zh": "Duane \"Keffe D\" Davis在拉斯维加斯受审"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-      "title_zh": "德国调查俄罗斯与森林中发现的武器储藏处的联系,",
-      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T16:26:53+00:00",
-      "summary": "German intelligence believes a cache of guns found in the woods near Berlin last year was for carrying out assassinations on behalf of Russia, reports say.",
-      "summary_zh": "德国情报部门认为,去年在柏林附近的树林里 发现的一批枪 是为了代表俄罗斯进行暗杀"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "title_zh": "英国、加拿大和澳大利亚谴责以色列拒绝对加沙援助人员被害事件进行刑事调查",
-      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T15:58:57+00:00",
-      "summary": "Seven World Central Kitchen humanitarian workers were killed in Israeli strikes in April 2024",
-      "summary_zh": "七名世界中央厨房人道主义工作人员在2024年4月的以色列罢工中被炸死"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Tornadoes touch down in New York and Delaware",
       "title_zh": "纽约和特拉华的\"龙卷风\"",
       "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-21T14:35:50+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "title_zh": "埃博拉疫苗试验将在刚果民主共和国开始,以示对感染速度的警告",
-      "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T13:44:43+00:00",
-      "summary": "The Ervebo vaccine, known to protect against the Zaïre species of Ebola, will now be tested for the one causing the current outbreak",
-      "summary_zh": "埃博拉病毒(Ervebo)是已知的防疫疫苗,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
-      "title_zh": "普里扬卡·肖普拉·乔纳斯主演一部关于爱情和种姓不平等的电影",
-      "link": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T13:32:28+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -272,46 +382,6 @@
       "published_at": "2026-08-21T13:07:00+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Peru earthquake damages buildings and causes power cuts",
-      "title_zh": "秘鲁地震破坏建筑物并造成停电",
-      "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T11:14:38+00:00",
-      "summary": "Dust filled the air in Pausa, Peru, about 46 miles (74km) from the earthquake's epicentre",
-      "summary_zh": "在距地震震中约46英里(74公里)的秘鲁保萨,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "title_zh": "香港天安门人士在国家安全审判中有罪",
-      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T05:47:32+00:00",
-      "summary": "Chow Hang-tung had also seperately been arrested in June 2021 for \"inciting\" the public to take part in a Tiananmen vigil",
-      "summary_zh": "周杭通也在2021年6月因\"煽动\"公众参加天安门守夜会而被捕"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "title_zh": "以色列不顾日益增加的国际抗议,重建了封闭的西岸定居点",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-21T05:00:57+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "title_zh": "特朗普的\"经济D-Day\"会伤害伊朗多少?.",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T23:16:45+00:00",
-      "summary": "Nearly six months after US President Donald Trump vowed a swift victory over Iran, the conflict appears to be at a standstill, with prospects of a military victory or negotiated settlement growing dimmer.",
-      "summary_zh": "在美国总统唐纳德·特朗普宣誓迅速战胜伊朗后近六个月,冲突似乎处于停滞状态,军事胜利或谈判解决的前景日益暗淡."
     },
     {
       "source": "NHKニュース",
