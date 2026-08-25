@@ -1,37 +1,217 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-24T22:42:24+00:00",
+  "generated_at": "2026-08-25T22:43:31+00:00",
   "count": 36,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "title_zh": "伊朗面临有史以来最大的金融攻势,",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T19:12:35+00:00",
-      "summary": "The US announced a host of sanctions against Iran and threatened its supporters in what Treasury Secretary Scott Bessent said was \"the single greatest financial offensive ever\".",
-      "summary_zh": "美国宣布对伊朗实施一系列制裁,并在财政部长斯科特·贝森特所言的\"有史以来最伟大的金融攻势\"中威胁其支持者."
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "title_zh": "加拿大宣布对美国征收高达50%的\"一美元一美元\"报复性关税.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T19:50:57+00:00",
+      "summary": "Canada described its counter-tariffs on the US as \"proportionate\" and \"strategic\".",
+      "summary_zh": "加拿大将其在美国的反关税描述为\"相称\"和\"战略\"."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "title_zh": "英国首相伯纳姆发誓支持乌克兰,",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T17:29:59+00:00",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "title_zh": "中央情报局负责人前往莫斯科 进行不事先通知的谈话 美国媒体报道",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T19:48:14+00:00",
+      "summary": "John Ratcliffe reportedly travelled to the Russian capital on board a military plane on Tuesday",
+      "summary_zh": "据报道,John Ratcliffe星期二乘坐一架军用飞机前往俄罗斯首都。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "title_zh": "在全球镇压西非网络犯罪网络过程中的大规模逮捕",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T19:30:37+00:00",
+      "summary": "Interpol says Operation Jackal IV demonstrates the power of international co-operation",
+      "summary_zh": "国际刑警说\"杰克四世行动\"展现出国际合作的力量"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "title_zh": "宾夕法尼亚州有两名未接种疫苗的人死于麻疹",
+      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T16:43:08+00:00",
+      "summary": "Two people who were not vaccinated against measles have died of the virus in Pennsylvania, health officials said.",
+      "summary_zh": "两名没有接种麻疹疫苗的人在宾夕法尼亚州因病毒而死亡,卫生官员说."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+      "title_zh": "尼日利亚总统在绑匪上传受害者视频后下令搜捕",
+      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T16:40:11+00:00",
+      "summary": "The kidnappers uploaded a video showing some of those they said they had abducted",
+      "summary_zh": "绑匪上传了一段视频 显示一些他们说他们绑架的人"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "title_zh": "欧洲权利法院命令土耳其释放被监禁的商人",
+      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T15:58:20+00:00",
+      "summary": "The court said Kavala's case had exposed a \"systemic problem\" in Turkey",
+      "summary_zh": "法院说卡瓦拉的案子暴露了土耳其的\"系统问题\""
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "title_zh": "瑞典军方试图占领俄罗斯在海军基地附近的地产",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T15:18:50+00:00",
+      "summary": "Muskö island, a scenic location, is also home to a major naval base",
+      "summary_zh": "穆斯克岛是一个风景优美的地方,也是海军基地的所在地"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "title_zh": "死亡的NFL球员的脑病\"比以前显示的要高\".",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T11:54:40+00:00",
+      "summary": "Brain scans of a former NFL player who was diagnosed with CTE",
+      "summary_zh": "被诊断为CTE的前NFL球员的脑扫描"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "title_zh": "洛克比爆炸案的审判推迟了几天才开始",
+      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T11:54:03+00:00",
+      "summary": "Pan Am Flight 103 was brought down on 21 December 1988",
+      "summary_zh": "泛美103号班机于1988年12月21日降落"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "title_zh": "中国热衷于美国对伊朗和贸易伙伴的新制裁",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T11:53:36+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Outrage in Nepal over rape and murder of three-year-old girl",
-      "title_zh": "强奸和谋杀三岁女孩在尼泊尔的愤怒",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T17:24:25+00:00",
-      "summary": "Protesters hold a banner showing the face of the child who was killed",
-      "summary_zh": "抗议者举起一面旗帜,"
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "title_zh": "索尼娅·梅西的凶手肖恩·格雷森死在美国监狱",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T09:50:42+00:00",
+      "summary": "Sean Grayson, the white US police officer convicted of murdering a black woman, Sonya Massey, during an incident at her home in 2024, has died in prison at age 32.",
+      "summary_zh": "西恩·格雷森(英語:Sean Grayson),美国白人警察,2024年在家中出事时被判定谋杀了一名黑人女性索尼娅·梅西(英语:Sonya Massey),32岁时死于狱中."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US firefighters say major blaze near Reno about a quarter contained",
+      "title_zh": "美国消防员说,雷诺附近有大火 大约四分之一的内燃",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T09:49:02+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "title_zh": "龙卷风眼泪从法国村落流出 造成数十人受伤 房屋被破坏",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T08:52:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "title_zh": "基特·哈林顿(Kit Harington)在HBO的\"哈利·波特\"系列中取代了尼古拉斯·胡尔特(Nicholas Hoult).",
+      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T07:39:25+00:00",
+      "summary": "Kit Harington's casting marks his third role in a HBO series after Game of Thrones and the financial drama Industry",
+      "summary_zh": "基特·哈林顿的出演标志着他在HBO系列中继\"王座游戏\"和\"金融剧\"之后的第三作."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "title_zh": "新西兰宗教教派领袖因中国追随者的死亡而入狱",
+      "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T03:07:34+00:00",
+      "summary": "New Zealand police released a picture of Shulai Wang",
+      "summary_zh": "新西兰警方公布了王修来的照片"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "title_zh": "加拿大怎么会回击来伤害美国经济?",
+      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T02:49:22+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "title_zh": "法国游客被困在泥地后会死在死亡谷",
+      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T02:08:57+00:00",
+      "summary": "The 68-year-old was found dead around the salt flats of Death Valley",
+      "summary_zh": "68岁的人被发现死在死亡谷的盐地附近"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "title_zh": "美国将叙利亚从支持恐怖主义的国家名单中删除",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T00:17:25+00:00",
+      "summary": "US President Donald Trump welcomed his Syrian counterpart Ahmed al-Sharaa to the White House last year",
+      "summary_zh": "美国总统唐纳德·特朗普去年在白宫欢迎叙利亚总统艾哈迈德·沙雷阿。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Moment tornado tears through southern France",
+      "title_zh": "龙卷风流出法国南部",
+      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T00:16:35+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Caste divide makes summer more scorching in dry Indian region",
+      "title_zh": "种姓的分化使印度干燥地区的夏季更加炎热",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T23:36:58+00:00",
+      "summary": "Mamta, from the Dalit (formerly untouchable) community, says access to water in her village becomes harder in the summers",
+      "summary_zh": "Mamta来自Dalit(原不可接触)社区,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "title_zh": "中国人造机器人之外,宁静的机器革命正在展开",
+      "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T22:13:20+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -46,72 +226,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "title_zh": "由于选举请愿期限临近,赞比亚法院无法进入",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T14:02:17+00:00",
-      "summary": "Opposition candidate Brian Mundubile said he would challenge the presidential election result in court",
-      "summary_zh": "反对党候选人Brian Mundubile表示,他将在法庭上质疑总统选举结果。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Israel warns of 'forceful' response to kites flown from Gaza",
       "title_zh": "以色列警告说,对从加沙飞来的风筝“强烈”反应。",
       "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-24T13:56:22+00:00",
       "summary": "A Palestinian boy holds up a kite at a camp for displaced people in Gaza City on Sunday",
       "summary_zh": "一名巴勒斯坦男孩星期天在加沙市一个流离失所者营地举起风筝"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "title_zh": "索尼娅·梅西的凶手肖恩·格雷森死在美国监狱",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T13:14:10+00:00",
-      "summary": "Sean Grayson, the white US police officer convicted of murdering a black woman, Sonya Massey, during an incident at her home in 2024, has died in prison at age 32.",
-      "summary_zh": "西恩·格雷森(英語:Sean Grayson),美国白人警察,2024年在家中出事时被判定谋杀了一名黑人女性索尼娅·梅西(英语:Sonya Massey),32岁时死于狱中."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New Zealand to introduce bill for under-16s social media ban",
-      "title_zh": "新西兰推出16岁以下社交媒体禁令法案",
-      "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T12:17:34+00:00",
-      "summary": "The proposed ban would apply to platforms like Instagram, Snapchat and TikTok",
-      "summary_zh": "拟议禁令将适用于Instagram、Snapchat和TikTok等平台"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Guinea rubbish landfill collapse kills 31",
-      "title_zh": "几内亚垃圾填埋场倒塌造成31人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T11:26:19+00:00",
-      "summary": "Residents near the dumpsite were evacuated after the collapse",
-      "summary_zh": "垃圾场附近的居民在倒塌后被疏散"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "title_zh": "4人因肯尼亚疑似大象中毒而被捕",
-      "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T11:08:27+00:00",
-      "summary": "The remains of Genghis Khan, an 11-year-old bull elephant, lay near the outskirts of Amboseli National Park",
-      "summary_zh": "成吉思汗的遗体是一头11岁的公牛大象,位于安博塞利国家公园外郊."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "title_zh": "俄罗斯第二大网络零售商在乌克兰罢工中成为目标",
-      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T10:40:22+00:00",
-      "summary": "Warehouses belonging to Russia's second-largest online retailer have been hit by a wave of Ukrainian drone strikes.",
-      "summary_zh": "俄罗斯第二大网上零售商所属仓库被乌克兰无人机袭击."
     },
     {
       "source": "BBC News",
@@ -136,62 +256,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Four arrested over boxing champion's murder in South Africa",
-      "title_zh": "四人因为拳击冠军在南非被谋杀被捕",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T08:32:46+00:00",
-      "summary": "Zolani Tete was in training for a comeback fight when he was killed",
-      "summary_zh": "苏拉尼 泰特被杀时正在训练回击"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "King of Norway's health has worsened, palace says",
       "title_zh": "挪威国王的健康恶化了 宫殿说",
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-24T08:31:55+00:00",
       "summary": "King Harald V of Norway's health has worsened, the palace has said, as he remains in hospital receiving antibiotics for a bacterial infection in his bloodstream.",
       "summary_zh": "挪威国王哈拉德五世的健康状况恶化了,宫廷说,由于他仍在医院接受血液中细菌感染的抗生素."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "title_zh": "马拉多纳的\"上帝之手\"球卖出250万英镑",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T06:55:06+00:00",
-      "summary": "The 'Hand of God' football was previously sold in 2022",
-      "summary_zh": "\"上帝之手\"足球在2022年发售"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
-      "title_zh": "中国探测器使用醛来保持白菜新鲜",
-      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T05:40:48+00:00",
-      "summary": "China is the world's largest producer of cabbages",
-      "summary_zh": "中国是世界上最大的卷心菜生产国"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
-      "title_zh": "澳大利亚鲨鱼袭击受害者 感谢\"第二次生命机会\"",
-      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T05:31:53+00:00",
-      "summary": "Leah Stewart was bitten by a shark at Sydney's Coogee Beach during a morning swim",
-      "summary_zh": "莉亚·斯图尔特在雪梨的库吉海滩游泳时被鲨鱼咬了"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "title_zh": "近300万特斯拉斯在中国召回了隐藏的门把手",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T05:01:17+00:00",
-      "summary": "Minimalistic door handles became a signature feature of electric vehicles (EVs), but the controversial designs are now at the centre of China's biggest car recall, affecting more than 4 million vehicles.",
-      "summary_zh": "最小门把手成为了电动车辆(EVs)的标志特征,但有争议的设计如今已居于中国最大汽车召回的中心,影响了400多万辆汽车."
     },
     {
       "source": "BBC News",
@@ -216,80 +286,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "title_zh": "前板球队长催促伊姆兰汗\"适当的医疗\"",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T03:55:35+00:00",
-      "summary": "Imran Khan, shown here in 2022, has been in jail since 2023 on corruption charges which he denies",
-      "summary_zh": "2022年在这里展示的伊姆兰·可汗,自2023年起因贪污罪入狱,他否认了这一指控."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The formidable challenges facing new Tata boss",
-      "title_zh": "新的塔塔老板面临的巨大挑战",
-      "link": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T22:35:00+00:00",
-      "summary": "Tata Sons chairman N Chandrasekaran resigned on 12 August following alleged differences with Tata Trusts board",
-      "summary_zh": "与塔塔信托公司董事长N Chandrasekaran据称有分歧后于8月12日辞职"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "title_zh": "特朗普说,加拿大希望在贸易谈判破裂后成为美国国家的\"好处\".",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T19:11:30+00:00",
-      "summary": "Trump has repeatedly mentioned making Canada the \"51st state\" of America since returning to office",
-      "summary_zh": "特朗普在复职后再三提到使加拿大成为美国的\"第51个州\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Robot boxing, football and sprinting at World Humanoid Games",
-      "title_zh": "世界人文运动会机器人拳击、足球和短跑",
-      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T12:47:06+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "title_zh": "特朗普·莫比特(Trump Mobile)推广了美国手机的\"Made\"——但细节不断改变.",
-      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T23:45:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
       "title_zh": "观察:动人机器人击败了乌森·博尔特100米纪录",
       "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-22T17:02:06+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Robot horse and rider steal the spotlight at Chinese conference",
-      "title_zh": "机器人马和骑手偷中国会议的聚光灯",
-      "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T10:01:18+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-      "title_zh": "安静,安静,安静! 什么触发特朗普关闭记者?.",
-      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T02:39:10+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
