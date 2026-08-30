@@ -1,7 +1,7 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-08-29T03:44:06+00:00",
-  "count": 35,
+  "generated_at": "2026-08-30T00:18:28+00:00",
+  "count": 40,
   "items": [
     {
       "source": "BBC News",
@@ -9,55 +9,145 @@
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "title_zh": "特朗普称赞美国控制65桶委内瑞拉石油的历史交易",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-29T02:42:27+00:00",
-      "summary": "The US has reached a deal with Venezuela to control more than 65 billion barrels of its proven oil reserves, President Donald Trump announced.",
-      "summary_zh": "美国与委内瑞拉达成协议,控制其已证实的石油储备超过650亿桶,总统唐纳德·特朗普宣布."
+      "published_at": "2026-08-29T22:40:51+00:00",
+      "summary": "The US has struck a deal with Venezuela to control more than 65 billion barrels of its proven oil reserves, Donald Trump announced.",
+      "summary_zh": "美国与委内瑞拉达成协议,控制已证实的650多亿桶石油储备,唐纳德·特朗普宣布."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "title_zh": "在基辅武器库遭到袭击后,至少37人死亡,数百人撤离",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T20:13:16+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "title_zh": "厄瓜多尔前总统因腐败而入狱",
+      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T19:44:54+00:00",
+      "summary": "Lenín Moreno will serve his sentence at home and has indicated he will appeal against the ruling",
+      "summary_zh": "列宁·莫雷诺将在国内服刑,并表示将对裁决提出上诉。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "title_zh": "挪威新国王第一次讲话时记得\"我亲爱的父亲\"",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T19:06:28+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "title_zh": "澳洲通常举办全球最盛大的 cut鱼交配会-今年不是.",
+      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T18:30:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "title_zh": "右翼评论家米洛·扬诺普洛斯被从美国驱逐到英国",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T17:52:42+00:00",
+      "summary": "The Department of Homeland Security released a mugshot of Yiannopoulos",
+      "summary_zh": "国土安全部发布了一张关于Yiannopoulos的相片"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "title_zh": "基辅仓库遭到致命袭击,",
+      "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T13:55:55+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "title_zh": "荷兰卫生研究院对特朗普形状的摇头丸发出\"红色警报\"",
+      "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T08:48:34+00:00",
+      "summary": "\"Do not use this pill under any circumstance,\" the institute warned",
+      "summary_zh": "\"在任何情况下都不要用这药丸\" 研究所警告"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "title_zh": "前白宫电信快报运营商 下令支付17.2万美元特朗普演讲赌注",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T07:11:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
+      "title_zh": "别管\"星巴克\"的咖啡了,Gen Z喜欢他们的饮品冰冷",
+      "link": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T04:30:27+00:00",
+      "summary": "Elaine Ling splits her time between New York and California, but wherever she is and needs a coffee, she doesn't visit a Starbucks.",
+      "summary_zh": "伊莲玲把时间分在纽约和加利福尼亚州之间,但无论她身在何处需要一杯咖啡,她都不去看\"星巴克\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "title_zh": "西藏洪灾的脚印在中国没有出现,",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-29T03:54:11+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-      "title_zh": "索马里海盗活动随美伊战争波及而激增",
+      "title_zh": "随着美国-伊朗战争波及外部,索马里海盗活动激增",
       "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-29T01:14:13+00:00",
       "summary": "Pirates manage to board ships operating a long way from the coast and then guide them closer to the shore",
-      "summary_zh": "海盗们设法登上远离海岸的船 然后引导他们更靠近岸边"
+      "summary_zh": "海盗们设法登上远离海岸的船只,然后引导他们更靠近岸边。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "title_zh": "冰岛对是否重新开始加入欧盟谈判投票时的近距离竞争",
+      "title_zh": "冰岛对是否重新开始加入欧盟谈判投下选票,",
       "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-29T00:56:19+00:00",
       "summary": "Latest opinion polls have been so close that the result is impossible to call",
-      "summary_zh": "最近的民意调查已经非常接近,结果无法调用"
+      "summary_zh": "最近的民意测验已经非常接近,结果无法调用"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "title_zh": "被ICE拘留的右翼评论员Milo Yiannopoulos",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-29T00:46:02+00:00",
-      "summary": "Yiannopoulos seen holding a news conference in 2017",
-      "summary_zh": "2017年扬诺普洛斯看到举行新闻发布会"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
-      "title_zh": "\"书皇后\"多莉·帕顿如何以阅读的天赋激励数百万儿童",
+      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
+      "title_zh": "Dolly Parton的爸爸不识字 她把书寄给无数孩子",
       "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-29T00:35:04+00:00",
       "summary": "Dolly Parton first launched Imagination Library in her home county in Tennessee",
-      "summary_zh": "Dolly Parton在田纳西州她的家乡 首次推出想象图书馆"
+      "summary_zh": "Dolly Parton在田纳西州的家乡 首次推出想象图书馆"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "title_zh": "911劫机案的女房东 透露了与沙特间谍的联系",
+      "title_zh": "911劫机案的房东 透露了他们与沙特间谍的联系",
       "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-29T00:32:17+00:00",
       "summary": "Holly Ratchford has decided to speak out publicly for the first time",
@@ -67,31 +157,21 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "What tariffs will really cost Canadians and Americans",
-      "title_zh": "什么关税会真正使加拿大人和美国人付出的代价",
+      "title_zh": "什么关税会让加拿大人和美国人付出真正的代价",
       "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-29T00:15:19+00:00",
       "summary": "Donald Trump and Mark Carney have both declared tariffs on each other's country",
-      "summary_zh": "唐纳德·特朗普和马克·卡尼都对对方国家宣布关税"
+      "summary_zh": "唐纳德·特朗普和马克·卡尼 都对对方国家宣布关税"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Canada poaches dozens of top US researchers for its universities",
-      "title_zh": "加拿大的大学有数十名美国顶尖研究员",
+      "title_zh": "加拿大为其大学培养了数十名顶尖的美国研究人员",
       "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T23:47:38+00:00",
       "summary": "Seth Guikema, a climate resiliency researcher, will be moving from the University of Michigan to the University of Western Ontario",
-      "summary_zh": "Seth Guikema,一位气候抗御力研究者,将从密歇根大学搬到西安大略大学"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "title_zh": "西藏洪灾的脚印在中国没有出现,",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-28T22:05:41+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "Seth Guikema,一位气候抗御力研究者,将从密歇根大学搬到西安大略大学."
     },
     {
       "source": "BBC News",
@@ -101,17 +181,17 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T21:29:01+00:00",
       "summary": "Berlin Mayor Kai Wegner said the German capital would not cave to the ransom demand",
-      "summary_zh": "柏林市长凯·韦格纳说 德国首都不会屈服于赎金要求"
+      "summary_zh": "柏林市长Kai Wegner说,德国首都不会屈服于赎金要求"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "title_zh": "尼泊尔水灾后获救97岁女性,",
+      "title_zh": "尼泊尔洪水后获救的97岁女性,",
       "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T21:17:54+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -121,7 +201,7 @@
       "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T19:57:50+00:00",
       "summary": "Greenlandic Justice Minister Marianne Paviasen said the government could not say whether there had been a genocide through forced contraception",
-      "summary_zh": "格陵兰司法部长玛丽安·帕维亚森(Marianne Paviasen)说,政府不能说是否通过强制避孕而发生了种族灭绝事件。"
+      "summary_zh": "格陵兰司法部长玛丽安·帕维亚森(Marianne Paviasen)说,政府不能说是否通过强制避孕手段发生了种族灭绝事件。"
     },
     {
       "source": "BBC News",
@@ -136,22 +216,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "title_zh": "挪威哀悼哈拉尔国王 当哈孔八世登上王位",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-28T19:40:45+00:00",
-      "summary": "Norwegians are grieving the death of the beloved King Harald V, as a period of national mourning begins and his son Haakon VIII assumes the throne.",
-      "summary_zh": "挪威人正在哀悼敬爱的国王哈拉尔五世的去世,因为一个民族哀悼时期开始,他的儿子哈孔八世登基."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
       "title_zh": "俄罗斯夸夸其谈,但希望避免与纳托的战争,西方官员说",
       "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T19:05:23+00:00",
       "summary": "Russian President Vladimir Putin wants to avoid a direct military confrontation with Nato, despite increasingly hostile rhetoric aimed at the UK and other allies over their support for Ukraine, Western officials believe.",
-      "summary_zh": "俄罗斯总统弗拉基米尔·普京希望避免与纳托直接的军事对抗,尽管针对英国和其他盟国支持乌克兰的敌对言论越来越激烈,西方官员相信."
+      "summary_zh": "俄罗斯总统弗拉基米尔·普京想避免同纳托的直接军事对抗,尽管针对英国和其他盟国支持乌克兰的敌对言论越来越激烈,西方官员相信."
     },
     {
       "source": "BBC News",
@@ -161,27 +231,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T17:36:54+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "title_zh": "小偷在光天化日之下从维也纳博物馆偷600块钻石项链",
+      "title_zh": "小偷在光天化日之下 从维也纳博物馆偷600个钻石项链",
       "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T17:29:16+00:00",
       "summary": "Vienna police released CCTV images of the suspects",
-      "summary_zh": "维也纳警方公布了嫌犯的闭路电视照片"
+      "summary_zh": "维也纳警方发布了嫌犯的闭路电视图像"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "title_zh": "随着移民危机的持续,休达暴发暴力事件",
+      "title_zh": "随着移民危机的持续,休达爆发了暴力",
       "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T16:30:59+00:00",
       "summary": "Clashes have broken out in Ceuta, with protesters setting fire to migrant belongings on the beach",
-      "summary_zh": "在休达爆发冲突,"
+      "summary_zh": "休达爆发了冲突,"
     },
     {
       "source": "BBC News",
@@ -191,17 +261,17 @@
       "link": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T14:18:53+00:00",
       "summary": "People who had fled the war two years ago have started returning to Khartoum",
-      "summary_zh": "两年前逃离战争的人 已经开始回到喀土穆"
+      "summary_zh": "两年前逃离战争的人开始返回喀土穆"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-      "title_zh": "BBC追踪以色列定居者在西岸被占领地区一周的暴力事件",
+      "title_zh": "BBC追踪一周以色列定居者在西岸被占领地段的暴力行为",
       "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T14:06:13+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -216,32 +286,22 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Shootings surge as drug gangs torment Brussels",
-      "title_zh": "随着毒品团伙的折磨,枪声激增 布鲁塞尔",
-      "link": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-28T13:41:18+00:00",
-      "summary": "Last Monday night, drug gangs turned Salvatore's pizzeria in Brussels into a crime scene.",
-      "summary_zh": "上周一晚上,毒品团伙将布鲁塞尔的萨尔瓦托尔的披萨变成了犯罪现场."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse",
-      "title_zh": "观赏:世界各地的星舰 俯瞰着月球月蚀",
+      "title_zh": "观赏:世界各地的星舰 俯瞰\"血月\"月蚀",
       "link": "https://www.bbc.co.uk/news/videos/ce3rykzvevno?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T12:49:55+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "World's youngest reigning traditional monarch dies aged 34",
-      "title_zh": "世界最年轻的 统治传统君主死亡 34岁",
+      "title_zh": "世界上统治传统君主的最年轻者 年龄为34岁",
       "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T11:13:24+00:00",
       "summary": "King Oyo ascended to the throne at the age of three but was crowned on reaching adulthood at 18 in 2010",
-      "summary_zh": "大雄王3岁就登上王位 但2010年18岁就登上了王位"
+      "summary_zh": "大雄王3岁就登上王位 但2010年18岁就登上王位"
     },
     {
       "source": "BBC News",
@@ -251,37 +311,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T10:37:21+00:00",
       "summary": "King Haakon VIII has adopted his father's motto \"Everything for Norway\"",
-      "summary_zh": "哈孔八世国王采纳了父亲的格言\"挪威的一切\"."
+      "summary_zh": "哈康八世国王采纳了父亲的口号\"挪威的一切\"."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "title_zh": "观察: 为什么救援人员担心新的屏障湖会引发尼泊尔-西藏的洪水?",
+      "title_zh": "监视 : 为什么救援人员担心新的屏障湖会引发又一起尼泊尔-西藏洪水?",
       "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T10:35:06+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-      "title_zh": "\"不够远\"——美国父母和青少年在Meta对年轻用户的新限制上表示:",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-28T09:32:14+00:00",
-      "summary": "Julianna (left), Paige (centre) and mother Elizabeth Cardner",
-      "summary_zh": "朱利安娜(左)、佩奇(中心)和母亲伊丽莎白·卡德纳"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Norway's King Harald dies aged 89: A beloved monarch buffeted by family crises",
-      "title_zh": "挪威国王哈拉尔德逝世 享年89岁:一位受家庭危机冲击的敬爱君主",
+      "title_zh": "挪威国王哈拉尔德去世 享年89岁:一位受家庭危机冲击而心爱的君主",
       "link": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-08-28T09:27:17+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary": "Norway's King Harald V has died at the age of 89, after he was taken to hospital last week for treatment for a rare blood condition.",
+      "summary_zh": "挪威国王哈拉尔德五世于上星期因罕见出血病被送往医院治疗后于89岁去世."
     },
     {
       "source": "NHKニュース",
@@ -291,13 +341,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
+      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两人死亡",
+      "title_zh": "爱知县两起死亡案",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -307,37 +357,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
+      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手比赛中的乐趣",
+      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
+      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "熊本地震发生于十年前的地震附近",
+      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
+      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
