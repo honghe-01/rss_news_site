@@ -1,47 +1,247 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-09-04T00:04:03+00:00",
-  "count": 36,
+  "generated_at": "2026-09-05T00:02:40+00:00",
+  "count": 33,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "title_zh": "德国极右方的AFD竞价 在东部的投票中首次获得权力",
+      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T23:07:23+00:00",
+      "summary": "The AfD's Ulrich Siegmund is leading the polls in Sunday's Saxony-Anhalt state election",
+      "summary_zh": "阿联酋的乌尔里希·西格蒙德在星期日的萨克森-安哈尔特州选举中领导投票"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "title_zh": "在陪审团陷入僵局后,Lindsay Clancy谋杀案被宣布审判不当",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T22:48:38+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "title_zh": "尼泊尔几乎把一切都赌在水力发电上,",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T22:02:52+00:00",
+      "summary": "Until eight years ago, Nepal used to struggle with lengthy power cuts",
+      "summary_zh": "直到八年前,尼泊尔一直与长期的断电斗争"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "title_zh": "川普和平特使周末访问莫斯科和基辅",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T20:03:52+00:00",
+      "summary": "Jared Kushner, Donald Trump's son-in-law (left), and Steve Witkoff are expected to hold separate meetings with the presidents of Russia and Ukraine",
+      "summary_zh": "贾里德·库什纳,唐纳德·特朗普的女婿(左)和史蒂夫·维特克夫预计将分别与俄罗斯和乌克兰总统举行会谈."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "title_zh": "联合国投票通过新的世界地图,以反映非洲的真正规模",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T19:44:40+00:00",
+      "summary": "The Mercator projection is the map widely used across the globe but inaccurately depicts the sizes of countries and continents",
+      "summary_zh": "Mercator投影是全球各地广泛使用的地图,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "title_zh": "阿根廷一对把纳粹的油画还给合法主人",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T17:14:21+00:00",
+      "summary": "The artwork was first spotted in an estate agent's photo advertising a property near Buenos Aires, Argentina",
+      "summary_zh": "艺术品最早出现在一个房地产经纪人的照片中 广告是在阿根廷布宜诺斯艾利斯附近"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "title_zh": "欧洲被螺旋式破坏运动所攻击 俄罗斯是主要嫌疑人",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T16:49:15+00:00",
+      "summary": "Germany said the attack at Leipzig airport was part of a pattern of \"Russian hybrid operations\" in Europe",
+      "summary_zh": "德国表示莱比锡机场被袭击是欧洲\"俄罗斯混合作战\"模式的一部分."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "title_zh": "Zelensky表示,",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T16:02:32+00:00",
+      "summary": "A Russian drone has hit the headquarters of the Security Service of Ukraine (SBU) during a strike in the heart of Kyiv, Ukrainian President Volodymyr Zelensky has said.",
+      "summary_zh": "乌克兰总统瓦洛德米尔·泽连斯基在基辅市中心遭到袭击时,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "title_zh": "尼泊尔隧道救援为更多洪水幸存者带来了希望。",
+      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T14:40:00+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "title_zh": "世界最年轻的传统国王身体在接连一行中回到乌干达",
+      "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T13:00:44+00:00",
+      "summary": "Family members and other officials came to receive the coffin at Entebbe airport",
+      "summary_zh": "家属和其他官员来到恩德培机场接受棺材"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "title_zh": "\"我们期望我们的儿子被杀死\" \"十几岁的父亲在西岸被枪杀\"",
+      "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T12:39:05+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "title_zh": "英国支持福克兰群岛,",
+      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T11:54:51+00:00",
+      "summary": "In a televised speech, Argentina's President Javier Milei said \"the Falklands are our future\".",
+      "summary_zh": "阿根廷总统哈维尔·米莱在电视讲话中表示\"福克兰群岛是我们的未来\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US diesel prices hit an all-time-high",
+      "title_zh": "美国柴油价格创历史新高",
+      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T10:52:56+00:00",
+      "summary": "Drivers in the US are paying more than ever for diesel at the pump as the US-Israel war with Iran continues to hit Americans' wallets.",
+      "summary_zh": "随着美以战争继续袭击美国钱包,美国司机在油泵上为柴油付出的代价比以往任何时候都多."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "title_zh": "美国-伊朗冲突怎么会结束? 三位专家发表意见",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T09:14:57+00:00",
+      "summary": "Iran has suffered from the war, but its leaders remain defiant",
+      "summary_zh": "伊朗遭受了战争之苦,但其领导人依然不服从"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
+      "title_zh": "尼泊尔救援顾问告诉英国广播公司,",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T08:23:05+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+      "title_zh": "百名影响者被邀请参加美国公开的关于“tennis礼仪”的火花辩论。",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T07:16:07+00:00",
+      "summary": "Arthur Ashe Stadium, the US Open's main arena, has a capacity above 23,000",
+      "summary_zh": "阿瑟·阿什体育场,美国公开赛的主场,容量超过23,000人."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "title_zh": "大众汽车董事会批准再削减50 000个工作的计划",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T07:00:10+00:00",
+      "summary": "The board of German car giant Volkswagen has approved a plan to cut another 50,000 jobs as part of the biggest restructuring in the group's almost nine-decade history.",
+      "summary_zh": "德国汽车巨头大众汽车的董事会批准了再削减5万个工作岗位的计划,作为集团近九十年历史中最大规模的结构调整的一部分."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Moment workers are rescued from Nepal tunnel",
+      "title_zh": "观察:尼泊尔隧道救出动工",
+      "link": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T04:45:54+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "title_zh": "史蒂夫·欧文的家人 庆祝\"超级英雄\"的父亲 休克后20年",
+      "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T04:06:41+00:00",
+      "summary": "Steve Irwin's daughter Bindi was named after his favourite crocodile",
+      "summary_zh": "史蒂夫·欧文的女儿宾迪 以他最喜欢的鳄鱼的名字命名"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+      "title_zh": "尼泊尔说,在山洪爆发后重建需要数十亿的资金。",
+      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T02:20:37+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+      "title_zh": "当Lindsay Clancy的律师要求法官罢免陪审员时,",
+      "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T00:55:45+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
+      "title_zh": "肯尼亚的柴花情人不高兴 因为全国的奶牛都干枯了",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T00:28:56+00:00",
+      "summary": "Chai, made by boiling tea in generous amounts of milk, is sometimes flavoured with ginger and spices",
+      "summary_zh": "柴用沸茶煮出大量牛奶,有时会用生姜和香料来调味"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
+      "title_zh": "Katseye女团少了两个成员 但他们的巡演还是很惊艳",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-04T00:19:53+00:00",
+      "summary": "Only two-thirds of the girl band made it to London, but fans seemed thrilled nonetheless (L-R: Megan, Yoonchae, Lara and Daniela)",
+      "summary_zh": "女子乐队只有三分之二入选了伦敦,但球迷似乎还是很兴奋(L-R:Megan,Yonchae,Lara和Daniela)."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
-      "title_zh": "移植猪肾在美国人体内工作271天",
+      "title_zh": "移植猪肾在美国男子体内工作271天",
       "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-03T22:31:23+00:00",
       "summary": "Patient Tim Andrews (centre) with Dr Tatsuo Kawai (left) and Dr Leonardo Riella (right)",
-      "summary_zh": "患者蒂姆·安德鲁斯(中心)与川井大夫(左)和莱昂纳多·里耶拉(右)."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "title_zh": "美国调查导弹是否击中伊朗婚礼 Vance说",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T22:19:59+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-      "title_zh": "ICE特工被控在镇压期间对委内瑞拉人开枪的谎言",
-      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T20:49:05+00:00",
-      "summary": "A US Immigration and Customs Enforcement (ICE) agent has been charged with lying about the non-fatal shooting of a Venezuelan migrant in the state of Minnesota.",
-      "summary_zh": "一名美国移民和海关执法人员被控在明尼苏达州对一名委内瑞拉移民进行非致命枪击。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
-      "title_zh": "尼泊尔隧道救援人员用木筏和无人机猎杀幸存者",
-      "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T19:56:34+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "病人:蒂姆·安德鲁斯(中心)与川井正夫(左)和列奥纳多·里耶拉(右)"
     },
     {
       "source": "BBC News",
@@ -51,247 +251,17 @@
       "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-03T18:32:03+00:00",
       "summary": "Locals in the Sydney suburb of Lane Cove are concerned about the planned construction of four new data centres",
-      "summary_zh": "Lane Cove的悉尼郊区的当地人对计划建造四个新的数据中心感到关切。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US billionaire Leon Black defies summons and sues Epstein panel",
-      "title_zh": "美国亿万富翁莱昂·布莱克(英语:Leon Black defies) 传票和起诉爱泼斯坦小组",
-      "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T18:14:57+00:00",
-      "summary": "Billionaire investor Leon Black has failed to appear before a US congressional committee investigating the late sex offender Jeffrey Epstein - instead filing a lawsuit challenging the committee's efforts to summon him.",
-      "summary_zh": "亿万富翁投资家利昂·布莱克(Leon Black)未能到美国国会调查已故性罪犯杰弗里·爱泼斯坦(Jeffrey Epstein)的委员会出庭,反而提起诉讼,质疑委员会传唤他的努力."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-      "title_zh": "女权活动家和记者Gloria Steinem死亡,92岁",
-      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T18:04:34+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
-      "title_zh": "观察:格洛丽亚·斯泰因姆毕生致力于争取女性平等",
-      "link": "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T17:35:31+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
-      "title_zh": "特朗普暗示美国不会在福克兰群岛上空支持英国,",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T16:16:49+00:00",
-      "summary": "Previous US administrations have taken a neutral position on the islands' sovereignty",
-      "summary_zh": "美国前几届政府对群岛的主权采取了中立的立场。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
-      "title_zh": "大约两千人在吃免费学校餐后生病",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T15:48:06+00:00",
-      "summary": "Around 2,000 students and teachers across Indonesia have fallen ill with food poisoning over the past three days linked to the government's free school meals programme.",
-      "summary_zh": "在过去三天里, 印尼全国约有2 000名学生和教师因食物中毒而患病,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "title_zh": "特朗普一美元硬币使他在一百年里 首次以美国货币为总统",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T15:35:47+00:00",
-      "summary": "Donald Trump's portrait has made its way on to a US coin - the latest move by the president to put his personal stamp on American institutions.",
-      "summary_zh": "唐纳德·特朗普的肖像已经成功铸造美国硬币——总统最近为美国机构贴上个人邮票的举动."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "title_zh": "定居者攻击西岸村落时被杀的巴勒斯坦青少年,",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T15:05:57+00:00",
-      "summary": "The deaths in al-Mughayyir come amid a recent surge in settler violence in the occupied West Bank",
-      "summary_zh": "在al-Mughayyir的死亡是最近被占领西岸定居者暴力激增的结果"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "title_zh": "Anthony Joshua的司机试图在坠机前超机 审判听到",
-      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T13:54:49+00:00",
-      "summary": "Adeniyi Mobolaji Kayode, right, leaves court with his lawyer on Thursday",
-      "summary_zh": "Adeniyi Mobolaji Kayode,对,星期四与律师离开法庭"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "title_zh": "他的朋友告诉英国广播公司,",
-      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T13:07:02+00:00",
-      "summary": "Recent remarks by US Vice-President JD Vance about the Antichrist and \"the end times\" are a \"very, very common belief\", one of his friends says.",
-      "summary_zh": "美国副总统旺斯(JD Vance)最近关于\"反基督\"和\"末日\"的言论是\"非常,非常普遍的信念\",他的一个朋友说."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "title_zh": "在休达危机之前,",
-      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T12:18:07+00:00",
-      "summary": "Pedro Sánchez is under considerable pressure from opposition parties and tens of thousands of Spaniards protested on Wednesday night",
-      "summary_zh": "Pedro Sánchez受到反对党的巨大压力,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
-      "title_zh": "夏普维尔屠杀幸存者在南非展开正义斗争",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T11:49:50+00:00",
-      "summary": "Abraham Mofokeng was 20 when he joined a peaceful protest in Sharpeville",
-      "summary_zh": "亚伯拉罕·莫福肯20岁时,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
-      "title_zh": "美国水手去购物 在250天的航行之后,去泰国的酒吧",
-      "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T11:33:09+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "Lane Cove的悉尼郊区的当地人对计划建造四个新的数据中心感到关切"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "How Gloria Steinem changed the lives of generations of women",
-      "title_zh": "Gloria Steinem如何改变妇女世代的生活",
+      "title_zh": "Gloria Steinem如何改变几代妇女的生活",
       "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-03T11:26:07+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
-      "title_zh": "肯尼亚总统下令镇压经营小企业的外国人",
-      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T10:59:14+00:00",
-      "summary": "President Ruto said foreigner traders were welcome but only if they created jobs and expanded opportunities for Kenyans",
-      "summary_zh": "鲁托总统说,外国商人受到欢迎,但只有他们为肯尼亚人创造就业机会和扩大机会,他们才会受到欢迎。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "title_zh": "80多名移民害怕在从加那利群岛救出的船只后死亡",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T10:37:06+00:00",
-      "summary": "More than 80 people, including a baby, are feared to have died in a boat which was adrift in the Atlantic Ocean for 27 days.",
-      "summary_zh": "包括婴儿在内的80多人担心在一艘在大西洋漂流27天的船上丧生。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US man struck by lightning describes 'horrific' experience",
-      "title_zh": "被闪电击中的美国男子描述了\"可怕的\"经历",
-      "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T10:01:33+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "title_zh": "\"美丽,充满活力\"的迪士尼明星卡拉·杰夫里去世,享年33岁.",
-      "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T09:37:34+00:00",
-      "summary": "One Zombies co-star said Jeffery \"made every day better and brighter with your infectious positivity\"",
-      "summary_zh": "一只僵尸同星说杰夫里 \"用你的感染力 使天天变得更好更亮\""
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Another White House renovation? A look at Trump's new helipad",
-      "title_zh": "白宫又装修了? 看看特朗普的新直升机停机坪",
-      "link": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T08:14:16+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "title_zh": "联合国警告各国“超大”厄尔尼诺,",
-      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T06:01:54+00:00",
-      "summary": "Countries in East Africa, like Kenya, experienced intense rainfall during the last El Niño event",
-      "summary_zh": "东非国家,如肯尼亚,在上一次厄尔尼诺事件中降下暴雨"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
-      "title_zh": "\"群众大喊我们偷了别人的生殖器\" \"致命的谣言在社交媒体上传播\"",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T00:58:50+00:00",
-      "summary": "Boniface Mgala and a friend were pulled out of a restaurant and attacked by a mob that accused them of stealing a man's genitals",
-      "summary_zh": "博尼法斯·姆加拉和一个朋友被拉出一家餐馆,被一群暴徒袭击,他们指责他们偷了一个人的生殖器."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why Nepal floods should worry India",
-      "title_zh": "为何尼泊尔洪水会让印度担忧?",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-03T00:58:44+00:00",
-      "summary": "The death toll in Nepal from devastating floods on the border with Tibet has crossed 1,000",
-      "summary_zh": "尼泊尔与西藏交界的洪水死亡人数已超过1000人,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-      "title_zh": "谁是Alejandro Betancourt, 美委内瑞拉石油交易背后的多彩石油男爵?",
-      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-02T23:53:28+00:00",
-      "summary": "Alejandro Betancourt's name is familiar to many Venezuelans",
-      "summary_zh": "Alejandro Betancourt的名字对许多委内瑞拉人来说是熟悉的。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
-      "title_zh": "臭老板和零钱:要给办公室多少鞭子?.",
-      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-02T23:25:50+00:00",
-      "summary": "Office collections for colleagues are a tradition but can raise awkward questions",
-      "summary_zh": "同事的办公室收藏是一种传统,但会引起一些尴尬的问题。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why US troops have a history in this raucous Thai city",
-      "title_zh": "为什么美军有历史 在泰国这个城市",
-      "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-02T07:18:39+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "NHKニュース",
@@ -301,13 +271,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
+      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两人死亡",
+      "title_zh": "爱知县两起死亡案",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -317,37 +287,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
+      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手比赛中的乐趣",
+      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
+      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "熊本地震发生于十年前的地震附近",
+      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
+      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
