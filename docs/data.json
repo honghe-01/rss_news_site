@@ -1,17 +1,207 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-09-10T00:12:49+00:00",
-  "count": 38,
+  "generated_at": "2026-09-11T00:08:10+00:00",
+  "count": 30,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-      "title_zh": "BBC访问以色列指定定居点地区的西岸村庄",
+      "title": "Coach crash kills several people in Swiss Alps",
+      "title_zh": "在瑞士阿尔卑斯州,教练坠机导致数人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T20:44:51+00:00",
+      "summary": "The coach was carrying dozens of Dutch nationals",
+      "summary_zh": "教练载了几十名荷兰国民"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "title_zh": "在法国村庄威胁要杀儿子的老师后,",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T20:10:51+00:00",
+      "summary": "The father was given a fast-tracked hearing in Toulouse",
+      "summary_zh": "父亲在图卢兹接受了快速听证"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More than 20 children killed in DR Congo school fire",
+      "title_zh": "20多名儿童在刚果民主共和国学校大火中丧生",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T19:16:24+00:00",
+      "summary": "The fire appears to have been put out but smouldering ruins remain",
+      "summary_zh": "火似乎已经扑灭了 但残骸依然残存"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "title_zh": "据报道,也门胡塞人占领了具有战略意义的红海港口Mokha。",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T18:15:47+00:00",
+      "summary": "Footage from Houthi-run Al Masirah TV purportedly showed Houthi fighters in Mocha",
+      "summary_zh": "来自Houthi经营的Al Masirah电视台的脚印,据称显示Houthi战士在Mocha"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "title_zh": "\"我们从未找到他\": 寻找零号地上的遗骸",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T17:13:53+00:00",
+      "summary": "Juliette Scauso was four, the youngest of four children, when her father, firefighter Dennis Scauso, was killed in 9/11",
+      "summary_zh": "Juliette Scauso是四个孩子中最小的一个, 当她的父亲,消防员Dennis Scauso在911被杀死时"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "title_zh": "特朗普真的能给每个美国成年人5000美元吗?",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T16:48:37+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "title_zh": "飞行员警告亚马逊货机在坠机前飞得太快 数据显示",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T16:31:30+00:00",
+      "summary": "A pilot onboard an Amazon cargo plane that crashed in Miami, Florida, on Sunday noted it was going too fast before it overshot a runway, crashed into other vehicles and burst into flames, new flight data shows.",
+      "summary_zh": "一架坠毁在佛罗里达州迈阿密的亚马逊货运飞机上的一名飞行员星期天注意到飞机飞得过快,然后才击中跑道,撞入了其他车辆并爆发出火焰,新的飞行数据显示."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "title_zh": "以色列内塔尼亚胡控告报纸声称阿联酋警告他10月7日的攻击",
+      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T15:54:17+00:00",
+      "summary": "Netanyahu's office said the report was part of a \"sinister plot\"",
+      "summary_zh": "内塔尼亚胡的办公室说这份报告是\"姊妹计划\"的一部分"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "title_zh": "在受欢迎的电视新闻主持人 接任乌干达国王后 皇室家族破裂",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T13:12:40+00:00",
+      "summary": "UBC TV news presenter Prince Edward Rukidi Kijanangoma has been selected as the new Tooro monarch",
+      "summary_zh": "UBC电视台新闻主持人 Edward Rukidi Kijanangoma王子被选为新一任图罗君主"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "title_zh": "中国东部货轮起火后25人死亡.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T12:24:54+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "title_zh": "伊朗战争不会结束,",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T10:43:53+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+      "title_zh": "\"人们在践踏我\": 菲律宾渡轮火灾幸存者回忆起狭长的出逃",
+      "link": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T09:35:46+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "title_zh": "Apple的新老板开始赌1 999英镑 第一次折叠iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T09:32:34+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "title_zh": "央视:特朗普5000美元选举承诺合法吗?.",
+      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T07:12:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "title_zh": "俄罗斯的新型喷气动力无人机 每日发射超过乌克兰的防空系统",
+      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T04:43:54+00:00",
+      "summary": "Russia fired its new rapid, jet-powered drones against Ukraine every day throughout August, BBC Verify analysis of Ukrainian Air Force data has found, escalating its use of a weapon that Kyiv's air defences are struggling to deal with.",
+      "summary_zh": "俄罗斯每天向乌克兰发射新的快速喷气动力无人机, BBC核查乌克兰空军数据分析发现,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four key takeaways from Republican midterms convention",
+      "title_zh": "共和党中期会议四起关键外卖案",
+      "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T04:07:44+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Do Republicans blame Trump for high oil prices?",
+      "title_zh": "观察:共和党人是否将高油价归咎于特朗普?.",
+      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T01:37:31+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why some experts increasingly fear AI will take over",
+      "title_zh": "为什么有些专家越来越害怕AI会接手",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-09T23:17:33+00:00",
+      "summary": "Why some experts increasingly fear AI will take over",
+      "summary_zh": "为什么有些专家越来越害怕AI会接手"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Inside Thailand's school shooter drills following recent attacks",
+      "title_zh": "最近袭击后,泰国的学校枪手演习",
+      "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-09T22:32:07+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
+      "title_zh": "监视 : 根据以色列拆除令生活的社区如何看待联合王国的制裁",
       "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-09T22:17:22+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -21,57 +211,7 @@
       "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-09T21:23:45+00:00",
       "summary": "Spanish intelligence services warned of social media calls for a mass migrant crossing into Ceuta the day before tens of thousands of people entered the territory, newly released government documents show.",
-      "summary_zh": "西班牙情报部门警告社交媒体在数万人进入休达的前一天呼吁大规模移民过境,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "title_zh": "俄乌无人机战争爆发,",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T20:28:04+00:00",
-      "summary": "The border link between Ukraine and Moldova has been closed following an attack",
-      "summary_zh": "袭击后,乌克兰和摩尔多瓦之间的边界联系被关闭"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran referred to UN Security Council for nuclear non-compliance",
-      "title_zh": "伊朗将核违约问题提交联合国安全理事会",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T20:22:51+00:00",
-      "summary": "A Vantor satellite image shows tunnel construction activity and road infrastructure near the Natanz nuclear facility in Iran. Photo: September 2025",
-      "summary_zh": "一张Vantor卫星图像显示伊朗纳坦兹核设施附近的隧道建设活动和道路基础设施。 照片:2025年9月"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-      "title_zh": "特朗普向娜塔莉·哈普和另外两位助手赠送了45 000美元现金礼物,公开记录显示",
-      "link": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T18:27:35+00:00",
-      "summary": "Natalie Harp (left) and Walt Nauta have both been at Donald Trump's side for many years.",
-      "summary_zh": "娜塔莉·哈普(左翼)和沃尔特·瑙塔都站在唐纳德·特朗普一边多年."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "title_zh": "谷歌选择芬兰在欧洲最大的单一投资",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T17:06:48+00:00",
-      "summary": "Google will buy up to half the electricity produced by one of Finland's nuclear power plants as part of a record €13bn (£11bn; $15bn) investment in the country's AI infrastructure, the company announced.",
-      "summary_zh": "作为创纪录的13bn(£11bn;$15bn)投资国家AI基础设施的一部分,Google将购买芬兰核电厂之一生产的高达一半的电力,该公司宣布."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "title_zh": "7月美国和胡塞罢工后,石油首次每桶100美元",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T16:46:53+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "西班牙情报部门警告社交媒体在数以万计的人进入休达的前一天呼吁大规模移民出入境,新发布的政府文件显示."
     },
     {
       "source": "BBC News",
@@ -81,237 +221,17 @@
       "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-09T16:36:45+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-      "title_zh": "母亲要求答案 黑色女人被发现被吊在密西西比树上几周后",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T16:33:49+00:00",
-      "summary": "Christy Spivey told the BBC she was angered by the investigative hold-ups over the death of her daughter, Tasia Fortune",
-      "summary_zh": "克里斯蒂·斯皮维告诉BBC,她因为她女儿塔西娅·福图恩的死被调查搁置而愤怒."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "title_zh": "欧洲王室向挪威国王哈拉尔五世致敬",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T16:30:28+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "title_zh": "乌干达退出哈里王子的Invictus游戏,",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T15:01:58+00:00",
-      "summary": "Prince Harry announced in July that Uganda was joining the Invictus Games",
-      "summary_zh": "7月哈里王子宣布乌干达将参加因维克图斯运动会"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "title_zh": "德国默兹在极右选举获胜后的暴风雨辩论中攻击AfD",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T13:29:33+00:00",
-      "summary": "Merz and Weidel faced off for the first time since Sunday's AfD election victory",
-      "summary_zh": "默兹和魏德尔自周日AfD选举胜利以来 第一次面对外遇"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-      "title_zh": "白宫在版权关注后,拉动俄罗斯方块风格的“建造长城”游戏",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T12:06:40+00:00",
-      "summary": "The White House has taken down a Tetris-style game on its website called \"Build The Wall\", days after The Tetris Company raised concerns over its use of the game's likeness.",
-      "summary_zh": "白宫在其名为\"建造长城\"的网站上下架了一款俄罗斯方块风格的游戏,在俄罗斯方块公司对其使用游戏相似性提出担忧后几天."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "title_zh": "韩国建造了两层铀浓缩设施,",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T11:29:59+00:00",
-      "summary": "North Korea declared itself a nuclear power in 2022 and vowed never to relinquish its weapons",
-      "summary_zh": "朝鲜在2022年宣布成为核大国,并发誓永远不放弃武器"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Colombia's new president loosens gun control rules",
-      "title_zh": "哥伦比亚新总统放宽枪支管制规则.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T11:01:41+00:00",
-      "summary": "Abelardo de la Espriella won the presidential election in June on a promise to be tough on crime",
-      "summary_zh": "阿贝拉多·德拉埃斯普列拉在6月的总统选举中获胜,承诺严厉打击犯罪"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "title_zh": "美国禁止进口一些加拿大酒精、奶制品和摩托车",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T10:20:40+00:00",
-      "summary": "The US will ban imports of a range of Canadian products, including alcoholic spirits, some dairy goods and motorbikes, after its neighbour's retaliatory tariffs on American goods came into force.",
-      "summary_zh": "美国将在邻国对美国商品征收的报复性关税生效后,禁止进口一系列加拿大产品,包括酒鬼、一些奶制品和摩托车。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Family of killed teen call for death penalty in D4vd trial",
-      "title_zh": "D4vd审判中被害青少年家属要求死刑",
-      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T09:58:48+00:00",
-      "summary": "Celeste Rivas Hernandez's remains were found in September 2025 in a Tesla registered to D4vd's address",
-      "summary_zh": "Celeste Rivas Hernandez的遗体于2025年9月在D4vd地址注册的Tesla中被发现."
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
-      "title_zh": "臭洞出现在马里布家外面 被认为是属于尼古拉·凯奇的",
+      "title_zh": "臭洞出现在马里布家外 被认为是尼可拉斯凯奇的家",
       "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-09T09:49:08+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-      "title_zh": "大亨付前妻1.87bn 创纪录的韩国离婚协议",
-      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T08:21:39+00:00",
-      "summary": "Kwon Hyuk-bin founded South Korea's third-largest video game company",
-      "summary_zh": "权赫斌创办韩国第三大电子游戏公司"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-      "title_zh": "印度森林火花贩运调查中发现的猩猩宝宝",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T07:44:20+00:00",
-      "summary": "Orangutans are critically endangered species and not native to India",
-      "summary_zh": "猩猩是濒危物种,不是印度的原生物种"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "title_zh": "\"你不孤单在黑暗中\": 冈比亚总统敦促在暴力停电抗议后保持平静。",
-      "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T06:42:01+00:00",
-      "summary": "Police used tear gas to disperse hundreds of protesters who took to the streets on Monday over prolonged power cuts",
-      "summary_zh": "警察用催泪瓦斯驱散数百名抗议者,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hong Kong's first leader after British handover dies",
-      "title_zh": "香港在英国交接后的第一个领袖",
-      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-09T04:24:30+00:00",
-      "summary": "Tung Chee-hwa was the first chief executive of Hong Kong following the 1997 handover",
-      "summary_zh": "1997年交接后,董彻华是香港首任行政长官."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "title_zh": "Meta继续在印度播放宣传儿童性虐待材料的广告----报告",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-08T23:27:23+00:00",
-      "summary": "Tech Transparency Project (TTP) says it found 332 adverts with CSAM that ran on Facebook and Instagram",
-      "summary_zh": "科技透明计划(TTP)表示,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "title_zh": "赫格塞斯把五角大楼震撼成美国工资战争——但代价如何?",
-      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-08T23:11:41+00:00",
-      "summary": "The United States military is at the centre of a fight on two fronts.",
-      "summary_zh": "美国军方是两条战线战斗的中心。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "title_zh": "\"持续在我脑海中\" \"911事件的痛苦持续了25年\"",
-      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-08T23:11:32+00:00",
-      "summary": "John Resta and his wife Sylvia",
-      "summary_zh": "约翰·瑞斯塔和他的妻子西尔维娅"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "British-Israeli relations at lowest ebb in decades",
-      "title_zh": "英国-以色列关系几十年来最低",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-08T21:46:31+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
-      "title_zh": "以色列提出的西岸定居点在联合王国反对的地方?",
-      "link": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-08T16:45:32+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "title_zh": "阿根廷对在福克兰群岛经营的石油公司提起刑事诉讼",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-08T11:09:54+00:00",
-      "summary": "Argentine President Javier Milei said that oil companies drilling off the Falklands would face sanctions",
-      "summary_zh": "阿根廷总统哈维尔·米莱说,石油公司钻探福克兰群岛将面临制裁。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "title_zh": "AI将治疗癌症 在我们的一生, 声称老板英国芯片巨头",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-08T09:17:48+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
-      "title_zh": "学生返回西岸学校后用铁丝网保护定居者免受侵害",
-      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-08T06:58:02+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A food safety officer has become a social media star in India - why?",
-      "title_zh": "食品安全官员在印度成为社交媒体明星-为什么?.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-07T23:40:39+00:00",
-      "summary": "Since taking charge as Maharashtra's food commissioner in May, Mundhe has overseen thousands of inspections of cafes and restaurants",
-      "summary_zh": "自从5月担任马哈拉施特拉的食品专员以来,蒙德对咖啡馆和餐馆进行了数千次检查。"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "NHKニュース",
@@ -321,13 +241,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
+      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两人死亡",
+      "title_zh": "爱知县两起死亡案",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -337,37 +257,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
+      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手比赛中的乐趣",
+      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
+      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "熊本地震发生于十年前的地震附近",
+      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
+      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
