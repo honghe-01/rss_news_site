@@ -1,57 +1,177 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-09-14T00:10:32+00:00",
-  "count": 30,
+  "generated_at": "2026-09-15T00:36:41+00:00",
+  "count": 40,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "title_zh": "瑞典政党集团在星期日投票后捆绑,",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-13T22:27:54+00:00",
-      "summary": "Magdalena Andersson is seeking to return as prime minister - a job she held from 2021 to 2022",
-      "summary_zh": "Magdalena Andersson正寻求回国担任总理,"
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "title_zh": "传说中的服装设计师Bob Mackie死于87岁",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T21:29:12+00:00",
+      "summary": "Bob Mackie at a red carpet event in Los Angeles in January",
+      "summary_zh": "鲍勃·麦基1月在洛杉矶的红地毯活动"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "title_zh": "特朗普说,他会取消所有爱尔兰威士忌的关税 当他结束两天的访问时",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-13T19:34:36+00:00",
-      "summary": "Donald Trump was at Trump International Golf Links in Doonbeg, County Clare, for the Irish Open during the second day of his visit to Ireland",
-      "summary_zh": "唐纳德·特朗普在特朗普国际高尔夫林克(英语:Trump International Golf Links)在Clare县多恩贝格为爱尔兰公开赛效力,他在访问爱尔兰的第二天."
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "title_zh": "被困在佛罗里达州Alcatraz 'Alligator Alcatraz'小户外笼子里的移民 调查人员发现",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T16:48:10+00:00",
+      "summary": "Immigrants held at \"Alligator Alcatraz\", a now-shuttered detention centre in Florida, were kept in small metal cages for hours, according to a report from the US Department of Homeland Security's watchdog.",
+      "summary_zh": "根据美国国土安全部的监控报告, 关押在佛罗里达州一个现在已经荡然无存的拘留中心Alcatraz的移民,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "title_zh": "非洲最富有的人 推出非洲最大的股权",
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T16:23:42+00:00",
+      "summary": "Nigerian billionaire Aliko Dangote has launched Africa's largest ever share sale, offering a stake in his oil refinery to the general public in a deal that could raise as much as $2.1bn (£1.6bn).",
+      "summary_zh": "尼日利亚亿万富翁Aliko Dangote发起了非洲有史以来最大的股份销售,向大众提供他炼油厂的股权,这笔交易可筹集高达2.1 bn(1.6 bn英镑)。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "title_zh": "闪电淹没打断半马拉松,淹没汽车",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T15:01:28+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Body of missing runner found in South Africa",
+      "title_zh": "在南非发现的失踪逃犯尸体",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T14:58:48+00:00",
+      "summary": "South African police have confirmed the death of a jogger, who went missing during a routine run last week, sparking a nationwide appeal for help finding her.",
+      "summary_zh": "南非警方已确认一名慢跑者死亡,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "title_zh": "野狗记录了2500英里的旅程 在赞比亚寻找伴侣",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T14:08:12+00:00",
+      "summary": "African wild dogs are extraordinary long-distance travellers",
+      "summary_zh": "非洲野狗是非凡的长途旅行者"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "title_zh": "俄罗斯在鲍里斯·约翰逊和欧洲顶级官员出站后不久就击中了乌克兰列车.",
+      "title_zh": "俄罗斯在鲍里斯·约翰逊和欧洲高级官员离开火车站后不久就撞到了乌克兰火车",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-13T19:14:21+00:00",
+      "published_at": "2026-09-14T12:18:13+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "title_zh": "特朗普淡化AI风险警告,",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-13T18:49:37+00:00",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "title_zh": "赞比亚民众警告说, 炭疽杀死数十只动物后,",
+      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T11:35:08+00:00",
+      "summary": "Anthrax mainly affects grazing animals and can lead to sudden death (file photo)",
+      "summary_zh": "炭疽主要影响放牧动物,并可能导致突然死亡(档案照片)"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "title_zh": "中国批评说,",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T11:31:39+00:00",
+      "summary": "Xi Jinping at the World AI Conference, which was held in China in July",
+      "summary_zh": "习近平出席7月在中国举行的世界AI大会"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "title_zh": "数以千计的墨西哥卡特尔热点地区停止暴力的需求",
+      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T11:28:36+00:00",
+      "summary": "Relatives of people who have been reported missing joined in the march",
+      "summary_zh": "据报失踪人员的亲属参加了游行"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "title_zh": "Hyrox为允许运动员在土壤后继续比赛道歉",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T11:20:07+00:00",
+      "summary": "International athletics brand Hyrox has issued an apology after it came under fire for allowing an athlete to complete a race in Beijing despite soiling herself midway through the event.",
+      "summary_zh": "国际田径品牌Hyrox在遭到枪击后,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "title_zh": "马来西亚男孩以精神错乱为由谋杀女学生被判无罪",
+      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T08:58:27+00:00",
+      "summary": "Yap Shing Xuen was found fatally stabbed multiple times in her school's toilet",
+      "summary_zh": "叶胜旭在学校的厕所里 被人捅了好几刀"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "title_zh": "瑞典左翼集团在选举前的距离太近,",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T08:36:09+00:00",
+      "summary": "Magdalena Andersson is seeking to return as prime minister - a job she held from 2021 to 2022",
+      "summary_zh": "Magdalena Andersson正寻求回归总理职位,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "title_zh": "巴厘警方在发现澳大利亚男人和孩子在家中死亡后进行调查",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T07:15:35+00:00",
+      "summary": "Police officer and investigators in Bali examined the crime scene",
+      "summary_zh": "巴厘的警察和调查人员检查了犯罪现场"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "title_zh": "观察:俄罗斯为何在靠近乌克兰波兰边境的火车上发动攻击,",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T01:12:20+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "title_zh": "特朗普说,当他结束两天的访问时,他将取消所有爱尔兰威士忌关税.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-13T19:34:36+00:00",
+      "summary": "Donald Trump was at Trump International Golf Links in Doonbeg, County Clare, for the Irish Open during the second day of his visit to Ireland",
+      "summary_zh": "唐纳德·特朗普在特朗普国际高尔夫林克斯(英语:Trump International Golf Links)在Clare县杜恩贝格为爱尔兰公开赛效力,他在访问爱尔兰的第二天."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Questions mount over what an AI 'slowdown' would look like",
-      "title_zh": "问起AI的\"慢下来\"是什么样子",
+      "title_zh": "问起一个AI“慢下来”的样子",
       "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T18:20:22+00:00",
-      "summary": "Anthropic CEO Dario Amodei has called for the pace of development to be slowed down",
-      "summary_zh": "Anthropic CEO Dario Amodei呼吁减速发展"
+      "summary": "There has been no shortage of warnings from AI's top bosses about existential threats over the years.",
+      "summary_zh": "多年来,AI的高层老板对存在威胁的警告不乏不足."
     },
     {
       "source": "BBC News",
@@ -61,17 +181,17 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T15:30:43+00:00",
       "summary": "Wisconsin Congressman Tom Tiffany has said he sustained minor injuries after a plane he was on landed on a lake, forcing him and the pilot to swim to safety.",
-      "summary_zh": "威斯康辛州众议员汤姆·蒂凡尼(Tom Tiffany)表示,他乘坐的一架飞机降落在湖上后受了轻伤,迫使他和飞行员游泳到安全的地方."
+      "summary_zh": "威斯康辛州众议员汤姆·蒂凡尼(Tom Tiffany)表示,他乘坐的飞机降落在湖上后受轻伤,迫使他和飞行员游泳到安全的地方."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "title_zh": "土耳其警方在袭击同性恋酒吧和男女同性恋、双性恋和变性者活动者的住所时拘留了数十人。",
+      "title_zh": "土耳其警方在袭击同性恋酒吧和LGBTQ活动家的家中拘留了数十人",
       "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T14:25:56+00:00",
       "summary": "Riot police have regularly chased LGBT activists during previous attempts to gather for pride parades",
-      "summary_zh": "暴动警方在之前的游行中,"
+      "summary_zh": "暴动警察经常追赶LGBT活动人士,"
     },
     {
       "source": "BBC News",
@@ -81,17 +201,17 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T14:01:44+00:00",
       "summary": "Canadian boxer George Chuvalo, a five-time national heavyweight champion, has died at the age of 89.",
-      "summary_zh": "加拿大拳击手乔治·丘瓦洛(英语:George Chuvalo)是五届全国重量级冠军,享年89岁."
+      "summary_zh": "加拿大拳击手乔治·丘瓦洛(英语:George Chuvalo),曾5次获得全国重量级冠军,享年89岁."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "title_zh": "六人死亡,130人失踪 印尼渡口在爪哇海翻船",
+      "title_zh": "六人死亡,130人失踪 印尼渡轮在爪哇海翻船",
       "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T13:30:38+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -101,43 +221,53 @@
       "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T11:23:42+00:00",
       "summary": "(From left) Russian President Vladimir Putin, Indian Prime Minister Narendra Modi and Chinese President Xi Jinping pose for a photo at the Brics summit in Delhi",
-      "summary_zh": "(自左而下) 俄罗斯总统弗拉基米尔·普京,印度总理纳伦德拉·莫迪和中国总统习近平在德里布里克峰会上为一张照片作姿势."
+      "summary_zh": "(左)俄罗斯总统普京,印度总理纳伦德拉·莫迪和中国总统习近平在德里布里奇峰会上摆出一张照片."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "title_zh": "人工智能的内幕警告 和硅谷的一些人平地",
+      "title_zh": "AI上空的雷达内幕警报 与硅谷的一些人平地坠落",
       "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T09:05:10+00:00",
       "summary": "Each September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs.",
-      "summary_zh": "每年9月,一个来自硅谷一带的行政主管的人会来到旧金山的\"宫殿酒店\",在投资银行高盛主办的一次会议上吸引投资者."
+      "summary_zh": "每年9月,一个来自硅谷两岸的主管人物来到旧金山的宫廷酒店,在投资银行高盛主办的一次会议上吸引投资者."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris",
+      "title_zh": "'她回来了': 在席琳·迪恩在巴黎的演唱会后 粉丝们跳舞,唱歌和哭泣",
+      "link": "https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-13T02:59:29+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "title_zh": "批评者在巴黎庆祝席琳·迪翁的\"高考\"复出秀",
+      "title_zh": "批评者在巴黎庆祝席琳·迪翁的\"高考\"回归表演",
       "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T02:41:51+00:00",
       "summary": "Iconic Canadian pop singer Céline Dion has kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "summary_zh": "加拿大偶像流行歌手席琳·迪翁(Céline Dion)因健康问题而中断了6年时间后,她于星期六在巴黎踢出她期待已久的复出秀."
+      "summary_zh": "加拿大偶像流行歌手席琳·迪翁(Céline Dion)因健康问题中断6年,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "title_zh": "他们把查理·柯克的事贴上后就丢了工作 但有些人没有遗憾",
+      "title_zh": "他们把查理・柯克的事贴上后就丢了工作 但有些人没有遗憾",
       "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-13T00:49:08+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "title_zh": "在乌克兰2024年入侵后, 俄国人寻找数百个失踪的答案",
+      "title_zh": "俄国人在乌克兰2024年入侵后 寻找数百个失踪的答案",
       "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-12T23:51:05+00:00",
       "summary": "Russian families complain their government did little to help locate the missing",
@@ -147,17 +277,17 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "title_zh": "数十年来最好的朋友,直到DNA检测显示 他们是姐妹",
+      "title_zh": "几十年来最好的朋友 - 直到DNA测试显示他们是姐妹",
       "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-12T22:00:28+00:00",
       "summary": "Meena Geltink and Minal Tijssen met in August after a DNA test revealed they were biological sisters",
-      "summary_zh": "Meena Geltink和Minal Tijssen在8月见面 一次DNA测试显示 他们是生物姐妹"
+      "summary_zh": "Meena Geltink和Minal Tijssen在8月见面 一次DNA测试显示他们是生物姐妹"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "title_zh": "特朗普关于统一爱尔兰的评论可能针对整个大西洋的观众",
+      "title_zh": "特朗普关于统一爱尔兰的评论可能针对整个大西洋的观众.",
       "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-12T21:25:28+00:00",
       "summary": "US President Donald Trump is visiting Ireland",
@@ -167,71 +297,41 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "title_zh": "阿富汗妇女被美国驱逐出境,",
+      "title_zh": "阿富汗妇女被从美国驱逐出境,",
       "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-12T21:19:11+00:00",
       "summary": "An Afghan woman living in Texas with legal US permanent residency has been deported from the country in the first-ever use of a secretive court.",
-      "summary_zh": "一名居住在德克萨斯州、拥有合法美国永久居留权的阿富汗妇女首次利用秘密法庭被驱逐出境。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "title_zh": "席琳·迪翁的粉丝们准备在巴黎的回归音乐会",
-      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-12T17:36:20+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "一名居住在德克萨斯州且拥有合法美国永久居留权的阿富汗妇女首次利用秘密法庭被驱逐出境。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "How global trade and oil prices could be hit by Houthi advance",
-      "title_zh": "胡塞先行计划如何打击全球贸易和石油价格",
+      "title_zh": "胡塞先锋如何打击全球贸易和石油价格",
       "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-11T16:13:39+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Has Trump won over voters with his midterm convention?",
-      "title_zh": "特朗普是否以中期大会战胜选民?.",
+      "title_zh": "川普是否以中期大会战胜选民?.",
       "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-11T06:16:54+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Brother of Muslim police cadet killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
-      "title_zh": "穆斯林警察的哥哥在911\"失望\"中被杀死,",
-      "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-11T04:10:24+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Americans remember what they were doing on 9/11",
-      "title_zh": "看:美国人记得他们在9/11上做了什么",
+      "title_zh": "观察:美国人记得他们在9/11上做了什么",
       "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-11T02:48:43+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Drone display recreates the Twin Towers over New York City",
-      "title_zh": "无人机展出在纽约市重现双塔",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-10T14:19:26+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "NHKニュース",
@@ -241,13 +341,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -257,37 +357,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
