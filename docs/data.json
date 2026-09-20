@@ -1,15 +1,155 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-09-19T00:17:56+00:00",
-  "count": 33,
+  "generated_at": "2026-09-20T00:09:30+00:00",
+  "count": 31,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "title_zh": "特朗普说他禁止CNN和Politico进入白宫",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T23:26:48+00:00",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "title_zh": "Houthis说他们用弹道导弹攻击沙特首都",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:49:26+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "title_zh": "文化财富被战争所破坏 人们想要正义",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:18:18+00:00",
+      "summary": "Cultural treasures are being destroyed by war, and people want justice",
+      "summary_zh": "文化财富被战争所破坏 人们想要正义"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "title_zh": "妈妈的病毒赤脚比赛引发了印度教育危机的争论.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:18:06+00:00",
+      "summary": "Rambai Ranveer took on a 3km sprint, hoping to win enough prize money to buy books for her daughter",
+      "summary_zh": "Rambai Ranveer 跑了3公里的跑道 希望赢得足够的奖金 买书给她的女儿"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "title_zh": "不是所有人工智能工人都认为技术可以杀死所有人",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:01:57+00:00",
+      "summary": "Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+      "summary_zh": "并非所有从事人工智能工作的主要公司的员工都认为技术对人类来说是末日。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "title_zh": "\"我甚至不知道我父母是否还活着\" 25年前被关进监狱的战争英雄",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:01:45+00:00",
+      "summary": "Aster Yohannes and Petros Solomon fought in Eritrea's war of independence",
+      "summary_zh": "阿斯特·约汉内斯和彼得罗斯·所罗门参加了厄立特里亚独立战争"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "title_zh": "我们的校长是个虐待者 我们联手争取正义 现在我们结婚了",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:01:38+00:00",
+      "summary": "Zia and Yusron were both star pupils at a boarding school in Lombok",
+      "summary_zh": "Zia和Yusron都是伦博克寄宿学校的明星学生"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "title_zh": "纳托欢迎格陵兰协议,",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:00:27+00:00",
+      "summary": "Greenlanders protested against Trump's ambitions for the territory in the country's capital, Nuuk, earlier this year",
+      "summary_zh": "格陵兰人抗议特朗普今年早些时候对国家首都努克领土的野心."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "title_zh": "特朗普说美国将组建\"AI Force\"并任命人工智能沙皇.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T21:01:56+00:00",
+      "summary": "US President Donald Trump has announced that he will form an \"AI Force\" and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
+      "summary_zh": "美国总统唐纳德·特朗普宣布将组建\"AI Force\",并任命人工智能沙皇,同时警告新兴技术."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "title_zh": "在特朗普取缔了部分媒体后,记者拒绝白宫进入.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T19:13:49+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "title_zh": "反弹后反向拉出“ 严重扰乱” 广告",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T14:05:01+00:00",
+      "summary": "A photo posted on Converse's Instagram account was described as evoking KKK imagery",
+      "summary_zh": "Converse的Instagram帐号上的一张照片被描述为引用了KKK图像"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "title_zh": "Google的双子座AI在安全测试中黑了三家公司",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T13:39:32+00:00",
+      "summary": "Google's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.",
+      "summary_zh": "Google的AI模型双子星在测试其网络安全能力时自主地黑入了三家公司,该公司说,这被认为是它实施这种行为的第一个已知案例."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
+      "title_zh": "\"够了\": 在约翰内斯堡一连串谋杀案发生后,",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T11:50:50+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "title_zh": "鲨鱼攻击引发了西澳大利亚罕见的杀令 受害者的名字",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T11:50:22+00:00",
+      "summary": "Greg O'Neill, 63, was killed in a shark attack at Sorrento Beach on Friday",
+      "summary_zh": "Greg O'Neill,63岁,星期五在索伦托海滩被鲨鱼袭击身亡"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "title_zh": "数百万人没有电力,古巴最近遭遇了重大停电",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T10:27:37+00:00",
+      "summary": "Millions in Cuba were left without power on Friday as the country was plunged into yet another major blackout.",
+      "summary_zh": "古巴数百万人星期五失去电力,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "title_zh": "Kerry Kennedy:如果Kennedy中心被拆除,那将是一场悲剧。",
+      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T00:03:53+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -56,12 +196,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "title_zh": "在特朗普吞并威胁后,美国和丹麦在格陵兰达成交易",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T22:58:55+00:00",
-      "summary": "The US and Denmark have announced a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force.",
-      "summary_zh": "美国和丹麦宣布了格陵兰安全协议,解决了由唐纳德·特朗普总统威胁以武力夺取领土的外交争端."
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "title_zh": "特朗普标志横扫俄罗斯制裁法案",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T22:05:47+00:00",
+      "summary": "US President Donald Trump signed the bill on Friday",
+      "summary_zh": "美国总统唐纳德·特朗普星期五签署法案"
     },
     {
       "source": "BBC News",
@@ -96,170 +236,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "title_zh": "Macron说,俄罗斯对欧洲的混合攻击不断加剧",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T18:04:38+00:00",
-      "summary": "French President Emmanuel Macron has warned that the threat of hybrid attacks by Russia against Europe and France has intensified.",
-      "summary_zh": "法国总统埃马纽埃尔·马克龙曾警告说,俄罗斯对欧洲和法国的混合攻击威胁已经加剧."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "title_zh": "\"我们只是不知道\" - JP 摩根因特朗普与伊朗的战争而挣扎于预测油价.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T17:57:30+00:00",
-      "summary": "Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that \"we simply don't know how to model the endgame\".",
-      "summary_zh": "投资银行巨头摩根(JP Morgan)表示, 很难预测油价会如何受美伊战争影响,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "title_zh": "朝鲜国歌在亚运会中为韩国出道",
-      "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T17:18:09+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "title_zh": "沃伦·巴菲特在伯克郡待了六十年 终于下台了",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T17:15:02+00:00",
-      "summary": "Howard Buffett's main duty as chairman will be guarding the firm's \"culture and values.\"",
-      "summary_zh": "霍华德·巴菲特作为董事长的主要职责是保卫公司的\"文化与价值观\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-      "title_zh": "Ryanair老板 Michael O'Leary为强奸犯的言论道歉",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T17:10:58+00:00",
-      "summary": "O'Leary had previously refused to apologise to a rape crisis centre which criticised him for the comments",
-      "summary_zh": "O'Leary曾拒绝向强奸危机中心道歉,该中心批评他的评论。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "title_zh": "数十名被怀疑为非法采矿者的人被尼日利亚拘留后死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T15:47:28+00:00",
-      "summary": "Families gathered outside the hospital, where the bodies have been taken",
-      "summary_zh": "家人聚集在医院外,尸体被带走"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-      "title_zh": "罗纳尔多自世界杯以来在葡萄牙第一分队取名——41岁",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T12:45:25+00:00",
-      "summary": "Ronaldo has scored 146 goals in 233 appearances for Portugal",
-      "summary_zh": "罗纳尔多在为葡萄牙出场的233场比赛中打入146球."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "title_zh": "警察开始从休达海滩移出移民时听到枪声",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T11:59:42+00:00",
-      "summary": "Police officers struggled to manage the chaos at the migrant camp in the port area",
-      "summary_zh": "警方为管理港口地区移民营地的混乱而挣扎"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "title_zh": "林赛克兰西坚持陪审员说他毫无疑问 她故意杀害她的孩子",
-      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T11:49:46+00:00",
-      "summary": "The lone holdout juror in the trial of Lindsay Clancy has said he \"didn't have any doubts\" that she was criminally responsible for killing her three children.",
-      "summary_zh": "在Lindsay Clancy的审判中孤独地被拒的陪审员说他\"没有怀疑\",认为她要为杀害她的三个孩子负起刑事责任."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three dead and eight injured in Philippines school shooting",
-      "title_zh": "菲律宾学校枪击案3死8伤",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T11:01:46+00:00",
-      "summary": "Philippine Red Cross workers and local rescue personnel were on the scene",
-      "summary_zh": "菲律宾红十字会工作人员和当地救援人员在场"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "title_zh": "为何美国计划向沙特阿拉伯出售F-35战机,",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T01:31:43+00:00",
-      "summary": "President Trump and Crown Prince Mohammed bin Salman in the Oval Office",
-      "summary_zh": "特朗普总统和总统办公室的穆罕默德·本·萨勒曼王储"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-      "title_zh": "加拿大人梦想着欧洲,",
-      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T01:23:10+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-      "title_zh": "这条奥运河里有500个鳄鱼 但这不是主要关切",
-      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-17T23:29:17+00:00",
-      "summary": "Queensland's Fitzroy River, home to saltwater crocodiles, has been approved as an Olympics rowing venue for 2032",
-      "summary_zh": "昆士兰的菲茨罗伊河 盐水鳄鱼的故乡 被批准为2032年奥运会划船场地"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "title_zh": "\"这是我们的公司\": 尼日利亚人在购买股权后炫耀石油财富",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-17T23:24:07+00:00",
-      "summary": "Aliko Dangote wanted all Nigerians to get involved in the share offer",
-      "summary_zh": "Aliko Dangote希望所有尼日利亚人都参与股权交易"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Is Canada about to join the EU?",
       "title_zh": "加拿大即将加入欧盟吗?",
       "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-17T16:18:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
-      "title_zh": "新加坡国内的\"诺克斯堡\" 为城市的2bn脏钱拍卖",
-      "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-16T22:13:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
-      "title_zh": "观察:漏出的照片揭示了美国海湾基地的巨大破坏.",
-      "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-16T21:24:24+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
