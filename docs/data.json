@@ -1,47 +1,217 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-09-23T00:28:59+00:00",
-  "count": 31,
+  "generated_at": "2026-09-24T00:30:06+00:00",
+  "count": 29,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
-      "title_zh": "美国法官阻止驱逐被ICE枪杀的DoorDash司机",
-      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T23:36:12+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "title_zh": "澳洲政府网站,",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T00:28:46+00:00",
+      "summary": "Albanese said it took \"too long\" for OpenAI to inform Australian officials of the breach in June",
+      "summary_zh": "Albanese说OpenAI在6月向澳大利亚官员通报违规事件需要\"太久\"."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
-      "title_zh": "观察:在联合国大会活动中的威胁、交易和热情演讲",
-      "link": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T22:33:44+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "title_zh": "在俄罗斯占领的城市里吃花园杂草的居民断绝了食物和水",
+      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T23:58:50+00:00",
+      "summary": "Oleshky has been under Russian occupation since 2022 and its people are now trapped",
+      "summary_zh": "奥列什基从2022年起 一直被俄国占领 其人民现在被困住了"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-      "title_zh": "特朗普威胁要\"取消\" 伊朗在联合国的演讲,作为官员的会外会",
-      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T21:50:31+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "title_zh": "\"让女人感觉被看见\": 为什么荷兰人对大肠杆菌有新词",
+      "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T23:42:38+00:00",
+      "summary": "Shari Klein spoke at a recent march celebrating the new word",
+      "summary_zh": "沙里克莱因在最近庆祝新词的游行中发言"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "title_zh": "美国在格陵兰建立两个军事基地 与丹麦签订新协议",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T21:36:55+00:00",
-      "summary": "US President Donald Trump signed the deal alongside Danish Prime Minister Mette Frederiksen",
-      "summary_zh": "美国总统唐纳德·特朗普与丹麦总理梅特·弗雷德里克森签署协议"
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "title_zh": "印地安人发现 购物的刺激 不付钱",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T23:14:10+00:00",
+      "summary": "FoodNeverComes calls itself a 'dopamine kitchen'",
+      "summary_zh": "食物永远不会来 自称是\"多巴胺厨房\""
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "title_zh": "红毯和军用飞过-特朗普如何欢迎习近平.",
+      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T23:03:56+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "title_zh": "随着特朗普和习近平的相遇 AI超能力野心占据了中心位置",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T22:01:17+00:00",
+      "summary": "The US and China are locked in a race to develop AI",
+      "summary_zh": "美中陷入发展AI的争霸"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: The arms race in space and how the UK is defending itself",
+      "title_zh": "监视 : 空间军备竞赛以及联合王国如何自卫",
+      "link": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T21:29:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "title_zh": "川普和平委员会揭晓 2.45bn计划开始加沙重建.",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T21:26:14+00:00",
+      "summary": "US President Donald Trump's Board of Peace has announced a Gaza recovery plan worth $2.45bn (£1.85bn) during a meeting on the sidelines of the UN General Assembly.",
+      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)的和平委员会在联合国大会会外的一次会议上宣布了一项价值2.45bn(1.85bn)的加沙收复计划."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "title_zh": "加拿大毒贩的英国幸存者说他利用了她的绝望",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T21:16:00+00:00",
+      "summary": "Law, a former chef, sold about 1,200 packages of toxic substances to recipients whom he met in online suicide forums",
+      "summary_zh": "Law,一位前厨师,向他在网上自杀论坛上认识的接受者出售了大约1 200包有毒物质"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "title_zh": "哈维·温斯坦因性侵犯被判处15年监禁",
+      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T18:51:12+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "title_zh": "伊朗总统告诉特朗普,",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T18:15:31+00:00",
+      "summary": "President Masoud Pezeshkian has said Iran will never \"bend the knee\" after almost seven months of war with the US and Israel, but is ready for a diplomatic solution to the conflict.",
+      "summary_zh": "马苏德·佩泽克扬总统表示,伊朗在同美国和以色列进行了近七个月的战争后,永远不会\"割下膝盖\",但准备通过外交手段解决冲突."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "title_zh": "埃塞俄比亚和提格雷分别指责他们发动了进攻,助长了对新战争的恐惧。",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T16:53:37+00:00",
+      "summary": "TPLF fighters were patrolling the streets of Mekelle on Wednesday",
+      "summary_zh": "蒂格雷人阵战斗人员星期三在Mekelle街上巡逻"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+      "title_zh": "观察:野火的有毒烟雾如何让印尼人生病",
+      "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T15:46:28+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "title_zh": "波兰指责俄罗斯军用直升机侵犯其领空",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T15:37:20+00:00",
+      "summary": "Poland said a Russian military Mi-8 helicopter - like the one seen in this archive photo - stayed in Polish airspace for 42 seconds",
+      "summary_zh": "波兰说,一架俄罗斯Mi-8型军用直升机,就像这张照片中看到的,在波兰领空停留了42秒。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "title_zh": "11人在南非家中被大规模枪击致死",
+      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T14:02:55+00:00",
+      "summary": "South Africa has one of the world's highest murder rates",
+      "summary_zh": "南非是世界上谋杀率最高的国家之一"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "title_zh": "87岁妇女遭到大规模驱逐,这突出显示了西班牙住房短缺的情况。",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T12:31:31+00:00",
+      "summary": "Maricarmen had to leave the flat she had lived in for 70 years on Wednesday",
+      "summary_zh": "马里卡门不得不离开她周三住过70年的公寓"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "title_zh": "多莉·帕通的经理指责她的侄子\"威胁和恐吓\".",
+      "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T12:22:53+00:00",
+      "summary": "Dolly Parton died in August at the age of 80",
+      "summary_zh": "多莉·帕通于8月去世,享年80岁"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+      "title_zh": "央视:特朗普和习近平在美国本土相会-利害关系如何?.",
+      "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T11:00:09+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Reports of violence against women in Gaza surge, UN agency finds",
+      "title_zh": "关于加沙暴力侵害妇女的报告激增,联合国机构发现",
+      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T05:02:26+00:00",
+      "summary": "There has been a sharp rise in reports of violence against women and girls in the Gaza Strip, including early and forced marriage, according to a series of recent reports from the UN Population Fund (UNFPA).",
+      "summary_zh": "根据联合国人口基金(人口基金)最近的一系列报告,关于加沙地带暴力侵害妇女和女孩行为,包括早婚和强迫婚姻的报告急剧增加。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+      "title_zh": "在巴士上放响亮的音乐? 那在新加坡要花你几百块",
+      "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T00:05:34+00:00",
+      "summary": "Bus passengers caught committing serious offences will face a fine of up to $5,000, such as \"the soiling of any part of a public bus, bus interchange, or terminal\"",
+      "summary_zh": "被抓获的巴士乘客将面临最高可达5000美元的罚款,如\"弄脏公共汽车的任何部分,公共汽车换乘,或终点站\"等."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "title_zh": "庞大的数据中心以\"中国速度\"崛起 为其AI野心提供动力",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-22T22:04:31+00:00",
+      "summary": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "summary_zh": "庞大的数据中心以\"中国速度\"崛起 为其AI野心提供动力"
     },
     {
       "source": "BBC News",
@@ -54,196 +224,6 @@
       "summary_zh": "摩洛哥选民将在选票上找到27个政党的候选人"
     },
     {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "title_zh": "斯里兰卡法院宣判15名男子犯有致命复活节星期日爆炸事件",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T19:47:44+00:00",
-      "summary": "Dozens of police and commandos were deployed to the courtroom before the verdicts were announced",
-      "summary_zh": "在宣布判决之前,数十名警察和突击队员被部署到法庭"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What is the White House pool and why is it in a row with Trump?",
-      "title_zh": "白宫游泳池是什么,为什么和特朗普排队?.",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T19:25:16+00:00",
-      "summary": "The row over the White House pool affected live TV coverage of Trump's ribbon-cutting event on Monday",
-      "summary_zh": "白宫游泳池上方的一行影响了周一特朗普剪彩活动的电视直播"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Burnham 'gets it' says Trump, as the two leaders meet for first time",
-      "title_zh": "伯纳姆说特朗普 两位领导人第一次见面",
-      "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T19:15:57+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "title_zh": "乌克兰愤怒,因为欧盟将俄罗斯寡头从制裁名单上删除",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T19:06:06+00:00",
-      "summary": "Usmanov is described as having particularly close ties to President Putin",
-      "summary_zh": "乌斯马诺夫据说与普京总统关系特别密切。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-      "title_zh": "穿成男子汉躲避塔利班 赢得银牌",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T16:57:55+00:00",
-      "summary": "Hashimi fled Afghanistan in 2021",
-      "summary_zh": "哈希米于2021年逃离阿富汗."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Top South African policeman charged with sexual offences",
-      "title_zh": "南非最高警官被控性犯罪",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T16:54:41+00:00",
-      "summary": "Lt Gen Shadrack Sibiya, seen here giving evidence at an inquiry into police corruption, made no comment in court",
-      "summary_zh": "沙德拉克·西比亚中士在警方腐败调查中作证时在法庭上没有发表评论"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "title_zh": "在尼日利亚33个狱友死亡时,",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T16:42:23+00:00",
-      "summary": "Usman Muhammad survived but 33 others died in the cell and four others died later in hospital",
-      "summary_zh": "Usman Muhammad幸存下来,但另有33人死于牢房,另有4人后来死于医院。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "title_zh": "解剖显示Hayden Panettiere死于吸毒过量",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T15:17:37+00:00",
-      "summary": "Actress Hayden Panettiere died from the toxic effects of fentanyl, Xanax and several other drugs in her system, according to an autopsy completed by the Greenville County Coroner's Office in South Carolina.",
-      "summary_zh": "根据南卡罗莱纳州格林维尔县验尸官办公室完成的尸检结果,女演员海登·帕内蒂埃雷死于芬塔尼尔,香奈斯和她体内其他几种药物的毒性影响."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "title_zh": "中立的场所和不\"离开\"的粉丝——以色列诉爱尔兰共和国如何变得如此争议",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T14:23:39+00:00",
-      "summary": "Israel have not played a fixture on home soil for three years, since the beginning of the Gaza war, and have used Hungary as a home base for 10 fixtures in that time",
-      "summary_zh": "自从加沙战争开始以来,以色列已有三年没有在家园土地上装设固定装置,当时将匈牙利作为10个固定装置的基地。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "title_zh": "BBC非洲记者Mark Doyle逝世67岁",
-      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T14:16:42+00:00",
-      "summary": "British journalist Mark Doyle, best known for his reporting on conflicts in Africa in the 1990s and 2000s, has died aged 67 after a short illness.",
-      "summary_zh": "英国记者马克·道尔(Mark Doyle)以报道1990年代和2000年代非洲冲突而闻名,在短暂患病后去世,享年67岁."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-      "title_zh": "Lindsay Clancy的律师要求法官 调查陪审员和检查他的电话",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T13:58:42+00:00",
-      "summary": "Lindsay Clancy attorney Kevin Reddington made several attempts to convince the judge not to declare a mistrial",
-      "summary_zh": "Lindsay Clancy律师Kevin Reddington多次试图说服法官不要宣布审判无效"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "title_zh": "立陶宛准备“反击”,",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T13:49:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "title_zh": "伊朗必须停止在也门武装胡塞人,",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T13:39:09+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is the Bab al-Mandab Strait so important?",
-      "title_zh": "为什么Bab al-Mandab海峡如此重要?",
-      "link": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T12:57:59+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "title_zh": "发展厄尔尼诺现象在预期高峰前几周成为创纪录的最强者",
-      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T12:54:14+00:00",
-      "summary": "Wildfires fuelled by El Niño are affecting around 12.5 million people across Indonesia, according to the country's health ministry.",
-      "summary_zh": "据印度尼西亚卫生部称,由厄尔尼诺引起的野火正在影响印度尼西亚全国约1 250万人。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eleven injured in shooting outside Turkish school",
-      "title_zh": "11人在土耳其学校外开枪受伤",
-      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T10:42:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-      "title_zh": "伯纳姆期望在第一次会面中找到与特朗普的“共同点”",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T06:03:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What to expect as world leaders descend on New York - and who won't be there",
-      "title_zh": "当世界领袖来到纽约时 期待着什么?",
-      "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T04:05:58+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
-      "title_zh": "为何宝莱坞名人经理2020年死亡案重审?",
-      "link": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-21T23:32:04+00:00",
-      "summary": "Disha Salian was Bollywood actor Sushant Singh Rajput's manager",
-      "summary_zh": "迪莎·萨利安是宝莱坞演员 苏尚特·辛格·拉杰普特的经理"
-    },
-    {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
@@ -251,13 +231,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,北日本至西日本的气势非常不稳定,\"评分短时暴雨\"天气灾害预防报告等当地暴雨将7次宣布. 9号的大气层非常不稳定..."
+      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两人死亡",
+      "title_zh": "爱知县两起死亡案",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -267,37 +247,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "大型且非常坚固的13号喇叭位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
+      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手比赛中的乐趣",
+      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
+      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "熊本地震发生于十年前的地震附近",
+      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
+      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
