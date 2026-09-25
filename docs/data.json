@@ -1,23 +1,223 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-09-24T00:30:06+00:00",
-  "count": 29,
+  "generated_at": "2026-09-25T00:33:49+00:00",
+  "count": 42,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "title_zh": "澳洲政府网站,",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-24T00:28:46+00:00",
-      "summary": "Albanese said it took \"too long\" for OpenAI to inform Australian officials of the breach in June",
-      "summary_zh": "Albanese说OpenAI在6月向澳大利亚官员通报违规事件需要\"太久\"."
+      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "title_zh": "从那加兰到奥斯卡奖之路:印度电影给全球电影院带来少见的世界",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T23:41:10+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
-      "title_zh": "在俄罗斯占领的城市里吃花园杂草的居民断绝了食物和水",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "title_zh": "内塔尼亚胡为以色列军事行动辩护,",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T23:32:51+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "title_zh": "巴黎有数十万人期待教皇来访",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T23:17:00+00:00",
+      "summary": "Pope Leo begins his visit in the French capital, before moving on to Lourdes and Metz",
+      "summary_zh": "教皇利奥开始访问法国首都,然后前往卢尔德和默兹"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "title_zh": "意大利部长同意禁止校内穿布袍和尼卡布,",
+      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T19:32:59+00:00",
+      "summary": "The Italian government has approved a ban on the burqa and niqab in schools, along with a limit on the share of pupils who speak little Italian in any one class.",
+      "summary_zh": "意大利政府批准禁止学校使用布袍和尼卡布,同时限制在任何一个班级中说小意大利语的学生的比例。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "title_zh": "波兰修道院被用刀袭击,神父被炸死,四人受伤",
+      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T19:18:12+00:00",
+      "summary": "Polish police have sealed off the area around the abbey",
+      "summary_zh": "波兰警方封锁了修道院附近"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "title_zh": "塔利班说,",
+      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T19:02:36+00:00",
+      "summary": "Flames and smoke rise from an area struck by an air strike in Kandahar on Thursday",
+      "summary_zh": "星期四从坎大哈被空袭的地区冒出火焰和烟雾"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: UN delegates walk out of Netanyahu speech",
+      "title_zh": "观察:联合国代表走出内塔尼亚胡演讲",
+      "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T18:29:29+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "title_zh": "澳大利亚为何选择世界最大的政治舞台 揭露OpenAI黑客",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T18:06:40+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "title_zh": "Rapper Macklemore在Ed Sheeran沉没后宣布“自由巴勒斯坦”之行",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T17:55:44+00:00",
+      "summary": "Macklemore performs at the Goldencoast Rap Festival in Corcelles-les-Monts, near Dijon, central-eastern France, on 30 August, 2026",
+      "summary_zh": "Macklemore于2026年8月30日在法国中东部第戎附近的Corcelles-les-Monts举行的\"金色海岸说唱节\"上表演."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "title_zh": "白宫在法官下令后恢复对被特朗普禁止的媒体的准入.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T17:49:20+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "title_zh": "希腊首相敦促英国首相永久归还埃尔金大理石",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T16:36:33+00:00",
+      "summary": "The Greek prime minister has called on Andy Burnham to find the \"political will\" to send the Parthenon sculptures back to Greece.",
+      "summary_zh": "希腊总理呼吁安迪·伯纳姆找到\"政治意志\",将帕台农雕塑送回希腊."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "title_zh": "波兰表示,星心站的火灾是破坏,丹麦警告俄罗斯威胁不断上升。",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T16:00:29+00:00",
+      "summary": "A fire at a Starlink satellite station in central Poland was a deliberate \"act of sabotage\", a government minister has said.",
+      "summary_zh": "一名政府部长说,波兰中部的Starlink卫星站发生火灾是蓄意的\"破坏行为\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "title_zh": "Rogue OpenAI代理商\"被渗透\" 澳洲政府网站全球第一",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T15:42:07+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "title_zh": "埃塞俄比亚军队说,它击退了新战事的进攻",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T15:37:45+00:00",
+      "summary": "Tigrayan fighters have been seen on the streets of the region's main city but it is relatively quiet there as clashes flare up elsewhere",
+      "summary_zh": "在这一地区主要城市的街道上看到提格雷扬战士,但那里相对平静,因为其他地方爆发了冲突。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "title_zh": "105岁因在德国纳粹战俘营犯罪被调查",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T14:37:34+00:00",
+      "summary": "Thirty thousand Soviet prisoners of war are buried at Stalag 326 in Senne",
+      "summary_zh": "三万苏联战俘被安葬在Senne的Stalag 326号"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "title_zh": "为何OpenAI系统黑入澳大利亚的卫生系统-未来能否被阻止?.",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T14:08:38+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "title_zh": "特朗普和平委员会公布2.45bn加沙恢复计划",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T10:11:15+00:00",
+      "summary": "Reconstruction has yet to begin in Gaza almost a year after a ceasefire came into force",
+      "summary_zh": "停火生效近一年后,加沙的重建工作尚未开始"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "title_zh": "印度选举委员会为何在风暴之眼下,",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T08:26:19+00:00",
+      "summary": "India's opposition parties have demanded that Chief Election Commissioner Gyanesh Kumar resign from office",
+      "summary_zh": "印度反对党要求首席选举专员贾内什·库马尔辞职"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "title_zh": "年轻摇滚歌手Nene Royal 成为第一个赢得美国天才的泰国人",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T06:47:12+00:00",
+      "summary": "Nene emerged as a clear fan favourite early in the competition",
+      "summary_zh": "Nene在比赛初期就成了最喜爱的粉丝"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "title_zh": "他们被贴上\"变态眼镜\"的标签 一个没有相机的版本会改变他们的形象吗?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T00:50:24+00:00",
+      "summary": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "summary_zh": "他们被贴上\"变态眼镜\"的标签 一个没有相机的版本会改变他们的形象吗?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "title_zh": "在阿米什州,护士们挨家挨户地阻止麻疹的致命传播",
+      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T00:15:46+00:00",
+      "summary": "Pennsylvania is home to thousands of Amish, who avoid many aspects of modern life",
+      "summary_zh": "宾夕法尼亚是成千上万阿米什人的家园,他们避开了现代生活的许多方面"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+      "title_zh": "在俄罗斯占领的城市吃花园杂草活命 断绝了食物和水",
       "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-23T23:58:50+00:00",
       "summary": "Oleshky has been under Russian occupation since 2022 and its people are now trapped",
@@ -56,12 +256,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "title_zh": "随着特朗普和习近平的相遇 AI超能力野心占据了中心位置",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "title_zh": "特朗普和习近平当面迎来美中争取AI比赛胜利.",
       "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-23T22:01:17+00:00",
-      "summary": "The US and China are locked in a race to develop AI",
-      "summary_zh": "美中陷入发展AI的争霸"
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -72,16 +272,6 @@
       "published_at": "2026-09-23T21:29:04+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "title_zh": "川普和平委员会揭晓 2.45bn计划开始加沙重建.",
-      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T21:26:14+00:00",
-      "summary": "US President Donald Trump's Board of Peace has announced a Gaza recovery plan worth $2.45bn (£1.85bn) during a meeting on the sidelines of the UN General Assembly.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)的和平委员会在联合国大会会外的一次会议上宣布了一项价值2.45bn(1.85bn)的加沙收复计划."
     },
     {
       "source": "BBC News",
@@ -116,16 +306,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "title_zh": "埃塞俄比亚和提格雷分别指责他们发动了进攻,助长了对新战争的恐惧。",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T16:53:37+00:00",
-      "summary": "TPLF fighters were patrolling the streets of Mekelle on Wednesday",
-      "summary_zh": "蒂格雷人阵战斗人员星期三在Mekelle街上巡逻"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
       "title_zh": "观察:野火的有毒烟雾如何让印尼人生病",
       "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
@@ -142,16 +322,6 @@
       "published_at": "2026-09-23T15:37:20+00:00",
       "summary": "Poland said a Russian military Mi-8 helicopter - like the one seen in this archive photo - stayed in Polish airspace for 42 seconds",
       "summary_zh": "波兰说,一架俄罗斯Mi-8型军用直升机,就像这张照片中看到的,在波兰领空停留了42秒。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "title_zh": "11人在南非家中被大规模枪击致死",
-      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T14:02:55+00:00",
-      "summary": "South Africa has one of the world's highest murder rates",
-      "summary_zh": "南非是世界上谋杀率最高的国家之一"
     },
     {
       "source": "BBC News",
@@ -182,46 +352,6 @@
       "published_at": "2026-09-23T11:00:09+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "title_zh": "关于加沙暴力侵害妇女的报告激增,联合国机构发现",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T05:02:26+00:00",
-      "summary": "There has been a sharp rise in reports of violence against women and girls in the Gaza Strip, including early and forced marriage, according to a series of recent reports from the UN Population Fund (UNFPA).",
-      "summary_zh": "根据联合国人口基金(人口基金)最近的一系列报告,关于加沙地带暴力侵害妇女和女孩行为,包括早婚和强迫婚姻的报告急剧增加。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-      "title_zh": "在巴士上放响亮的音乐? 那在新加坡要花你几百块",
-      "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T00:05:34+00:00",
-      "summary": "Bus passengers caught committing serious offences will face a fine of up to $5,000, such as \"the soiling of any part of a public bus, bus interchange, or terminal\"",
-      "summary_zh": "被抓获的巴士乘客将面临最高可达5000美元的罚款,如\"弄脏公共汽车的任何部分,公共汽车换乘,或终点站\"等."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "title_zh": "庞大的数据中心以\"中国速度\"崛起 为其AI野心提供动力",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T22:04:31+00:00",
-      "summary": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "summary_zh": "庞大的数据中心以\"中国速度\"崛起 为其AI野心提供动力"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "title_zh": "休达、足球和以色列如何塑造摩洛哥的选举",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-22T20:59:00+00:00",
-      "summary": "Moroccan voters will find candidates from 27 parties on the ballot",
-      "summary_zh": "摩洛哥选民将在选票上找到27个政党的候选人"
     },
     {
       "source": "NHKニュース",
