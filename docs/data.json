@@ -1,37 +1,167 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-09-26T00:38:12+00:00",
-  "count": 40,
+  "generated_at": "2026-09-27T00:33:44+00:00",
+  "count": 34,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "title_zh": "OpenAI 调查数十起特工行为不当的事件",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-26T00:09:45+00:00",
-      "summary": "OpenAI has been at the center of new concerns over uncontrolled AI activity.",
-      "summary_zh": "OpenAI一直处于对不受控制的AI活动的新关注的中心."
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "title_zh": "特朗普拒绝伊朗在七天内重开霍尔木兹海峡的协议",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T22:15:59+00:00",
+      "summary": "US President Donald Trump has rejected an Iranian proposal to reopen the Strait of Hormuz to commercial shipping within a week.",
+      "summary_zh": "美国总统唐纳德·特朗普拒绝了伊朗关于在一周内重新开放霍尔木兹海峡的商业航运的提议."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Are Ethiopians marching back to war in Tigray?",
-      "title_zh": "埃塞俄比亚人在提格雷重新开战吗?",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "title_zh": "纽约和新泽西宣布紧急情况时, 更不会带来洪水",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T22:04:26+00:00",
+      "summary": "Surf City, New Jersey, was among coastal communities flooded",
+      "summary_zh": "新泽西州冲浪城是被淹没的沿海社区之一"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "title_zh": "被警察说的尸体被摆上 被吊在树上的女人妈妈惊呆了",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T21:13:13+00:00",
+      "summary": "Tasia Fortune, a 29-year-old mother of four, was found hanging from a tree in August",
+      "summary_zh": "Tasia Fortune是一位29岁的四岁母亲,8月被发现被吊在树上"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "title_zh": "爱尔兰共和国为以色列游戏佩戴黑色臂章",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T19:59:00+00:00",
+      "summary": "FAI chief executive David Courell confirmed one player has withdrawn from the Republic of Ireland squad in protest",
+      "summary_zh": "FAI首席执行官大卫·库雷尔(David Courell)证实一名球员退出爱尔兰共和国大队抗议."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "title_zh": "教皇赞扬年轻人在巴黎大型露天弥撒会上的“精力与奉献”",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T19:48:06+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "title_zh": "白宫禁止CNN和特朗普搭乘空军一号",
+      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T19:16:14+00:00",
+      "summary": "CNN had been scheduled to fly with Trump on Air Force One",
+      "summary_zh": "CNN计划与特朗普搭乘空军一号航班"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tenth woman's body found as South Africa police probe killings",
+      "title_zh": "第十具尸体是南非警方的凶案",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T18:30:04+00:00",
+      "summary": "File photo of South African Police Service officers in Johannesburg",
+      "summary_zh": "南非警署官员在约翰内斯堡的档案照片"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "title_zh": "德国镇禁止为纳粹牺牲者举行\"崩塌的石头\"纪念碑",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T15:48:51+00:00",
+      "summary": "\"Stumbling stone\" memorials - like the one pictured in the Netherlands - are often placed in memory of Jews and other victims of the Holocaust",
+      "summary_zh": "\"摇摇欲坠的石头\"纪念像荷兰的一幅画一样,经常被放在犹太人和其他大屠杀受害者身上."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "title_zh": "巴西卢拉在总统选举前禁止网上赌博",
+      "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T15:46:40+00:00",
+      "summary": "Luiz Inácio Lula da Silva announcing new economic measures in São Paulo",
+      "summary_zh": "路易斯·伊纳西奥·卢拉·达席尔瓦宣布圣保罗的新经济措施"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Bangkok declared flood disaster zone",
+      "title_zh": "观察:曼谷宣布洪灾区",
+      "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T15:34:18+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "title_zh": "Charlie Kirk被杀的犹他州校园安全漏洞,评论说",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T15:12:25+00:00",
+      "summary": "Kirk's Utah Valley University event was held in a courtyard surrounded by tall buildings",
+      "summary_zh": "柯克的犹他河谷大学活动 在高楼环绕的庭院举行"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "title_zh": "在雅典雅典Acropolis附近的建筑爆炸中丧生的六人中有英国国民",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T12:47:25+00:00",
+      "summary": "The building in the Plaka district was reduced to rubble strewn with household items",
+      "summary_zh": "普拉卡区的建筑被压在瓦砾中,堆积着家庭用品"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "title_zh": "爱尔兰共和国在有争议的以色列游戏前确认改期的新闻发布会",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T10:44:37+00:00",
+      "summary": "The top table remained empty at the appointed time",
+      "summary_zh": "在指定时间, 上表仍为空"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "title_zh": "曼谷公路被洪水淹没",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T07:21:30+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "title_zh": "OpenAI 堆积着多个美国政府机构网站",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-26T02:50:56+00:00",
+      "summary": "OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+      "summary_zh": "OpenAI一直成为人们关注不受控制的AI活动的核心。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+      "title_zh": "Tigray的战斗多么新鲜,在埃塞俄比亚引发了更广泛的冲突",
       "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-25T23:42:39+00:00",
       "summary": "Tigrayan forces have been patrolling the streets of Tigray's capital, Mekelle, this week",
-      "summary_zh": "本周提格雷军队在提格雷首都梅凯勒的街道巡逻"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "title_zh": "伊朗提出在七天内重开霍尔木兹海峡的美国协议",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T23:38:48+00:00",
-      "summary": "Iranian Foreign Minister Abbas Araghchi says his country has proposed a deal to the US that would see the Strait of Hormuz reopened within a week.",
-      "summary_zh": "伊朗外交部长阿巴斯·阿拉格奇(Abbas Araghchi)表示,他的国家已经向美国提出一项协议,要求霍尔木兹海峡在一周内重新开放."
+      "summary_zh": "本周提格雷军队在提格雷首都梅凯勒的街道上巡逻"
     },
     {
       "source": "BBC News",
@@ -61,7 +191,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-25T23:05:40+00:00",
       "summary": "Current and former FBI agents have spoken to BBC News of their shock, fear and anger following a hack that appears to have exposed the private and personal information of the agency's entire workforce.",
-      "summary_zh": "现任和前任联邦调查局特工向BBC新闻表示,他们在一次似乎暴露了该机构全体员工的私人和个人信息的黑客袭击后感到震惊,恐惧和愤怒."
+      "summary_zh": "现任和前任联邦调查局特工在一次似乎暴露了该机构全体员工的私人和个人信息的黑客袭击后,向BBC新闻表示他们的震惊,恐惧和愤怒."
     },
     {
       "source": "BBC News",
@@ -71,17 +201,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-25T22:12:48+00:00",
       "summary": "Only small patches of snow remain on Papua's Sudirman Range",
-      "summary_zh": "在巴布亚的苏迪尔曼牧场只剩下小块雪"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "title_zh": "警方说,被吊死在树上的黑人女人 在尸体被\"立体\"之前就死了",
-      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T21:16:59+00:00",
-      "summary": "Warning: This story contains distressing details",
-      "summary_zh": "警告: 这个故事包含了令人不安的细节"
+      "summary_zh": "巴布亚的苏迪尔曼牧场只剩下小块雪"
     },
     {
       "source": "BBC News",
@@ -96,22 +216,32 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "title_zh": "最高法院允许特朗普使用有争议的数据库检查选民国籍.",
-      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T19:13:35+00:00",
-      "summary": "The US Supreme Court has lifted restrictions on the Trump administration to use a controversial federal database that uses citizenship information and other sensitive data to identify voters suspected of being non-citizens.",
-      "summary_zh": "美国最高法院解除了对特朗普政府使用有争议的联邦数据库的限制,该数据库使用公民身份信息和其他敏感数据来识别被怀疑为非公民的选民."
+      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+      "title_zh": "Kratom是什么? 美国的\"加油站海洛因\" 令人震惊的官员?",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-25T20:06:39+00:00",
+      "summary": "Jeffrey Deaver, a 58-year-old retired timber cutter in the state of Washington, has taken kratom for four years to help with severe chronic hip and knee pain.",
+      "summary_zh": "杰弗里·德弗(英語:Jeffrey Deaver)是华盛顿州一名58岁退休的木材切割工,他拿了克拉托姆4年的时间来帮助治疗严重的慢性臀部和膝盖疼痛."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump's plans for massive arch move ahead",
-      "title_zh": "特朗普的大规模拱门前进计划",
-      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T18:27:46+00:00",
-      "summary": "US President Donald Trump's plans for building a massive arch appear to be moving ahead, after a federal advisory council terminated talks on how to handle the 250-foot structure's possible effects on nearby historic sites.",
-      "summary_zh": "美国总统唐纳德·特朗普(Donald Trump)建造一个大型拱门的计划似乎在前进,此前联邦顾问委员会终止了关于如何处理250英尺结构对附近历史遗址可能产生的影响的会谈."
+      "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title_zh": "美国最高法院允许特朗普使用有争议的数据库来检查选民国籍.",
+      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-25T19:13:35+00:00",
+      "summary": "The US Supreme Court has lifted restrictions on the Trump administration using a controversial federal database that relies on citizenship information and other sensitive data to identify voters suspected of being non-citizens.",
+      "summary_zh": "美国最高法院取消了对特朗普政府的限制,使用一个有争议的联邦数据库,该数据库依靠公民身份信息和其他敏感数据来识别被怀疑是非公民的选民."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "title_zh": "为什么国际逮捕令没有阻止内塔尼亚胡的美国旅行?",
+      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-25T18:41:13+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -120,18 +250,8 @@
       "title_zh": "两人在纽约市下水道里 神秘地出现后被捕了",
       "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-25T17:59:03+00:00",
-      "summary": "New York officials arrested two of three men who they said were seen emerging from a manhole, exiting the city's underground sewer system on Wednesday.",
-      "summary_zh": "纽约官员逮捕了3个人中的2人,他们说他们看到他们从一个黑洞里出来,星期三离开城市的地下下水道系统."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "title_zh": "在埃塞俄比亚提格雷地区爆发战斗后,互联网受到限制",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T17:13:55+00:00",
-      "summary": "The internet was cut in Tigray during the two-year civil war which ended in 2022 (file photo)",
-      "summary_zh": "在2022年结束的两年内战期间,"
+      "summary": "New York officials have arrested two of three men who they said were seen emerging from a manhole to exit the city's underground sewer system on Wednesday.",
+      "summary_zh": "纽约官员逮捕了三个人中的两个人,他们说他们看到他们周三从一个黑洞里出来,离开城市的地下下水道系统。"
     },
     {
       "source": "BBC News",
@@ -146,190 +266,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Students strike across Germany in protest against military service",
-      "title_zh": "德国各地的学生罢工抗议服兵役",
-      "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T15:36:22+00:00",
-      "summary": "School strikes are taking place across Germany to protest against the possible reintroduction of compulsory military service.",
-      "summary_zh": "德国各地正在发生学校罢工,抗议可能重新实行义务兵役制."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "title_zh": "在14名服役人员被冲上海后被拘留的哈萨克高级官员",
-      "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T15:29:48+00:00",
-      "summary": "The investigation is looking into decision-making by senior military officials",
-      "summary_zh": "正在调查高级军官的决策"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "title_zh": "教宗警告不要让人工智能机器失去人性",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T15:06:41+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "title_zh": "非洲最富有的人帮助为埃塞俄比亚和吉布提之间的6.6亿美元的燃料管道提供资金",
-      "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T14:24:19+00:00",
-      "summary": "Aliko Dangote made his fortune from cement in Nigeria",
-      "summary_zh": "阿利科·丹戈特从尼日利亚的水泥中赚到了钱"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "title_zh": "2024年特朗普竞选集会期间在巴特勒被枪杀",
-      "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T13:23:33+00:00",
-      "summary": "Copenhaver was one of three Trump rally attendees who was shot, as well as Trump, whose ear was grazed by a bullet",
-      "summary_zh": "Copenhaver是三名特朗普集会与会者之一,他们中枪,还有特朗普,他的耳朵被子弹擦伤。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "title_zh": "内塔尼亚胡捍卫以色列的军事行动,",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T11:44:44+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "title_zh": "Jay -Z强奸指控者说她的指控是假的",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T10:51:28+00:00",
-      "summary": "Jay-Z, pictured at the Met Gala in May 2026, previously hit out at the \"frivolous, fictitious and appalling allegations\"",
-      "summary_zh": "Jay -Z,2026年5月在大都会集会上拍摄过, 之前在\"疯狂的,虚构的和骇人听闻的指控\"。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "title_zh": "美国背弃埃隆·穆斯克竞相推翻欧盟对X的1.2亿欧元罚款.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T09:48:33+00:00",
-      "summary": "The US government is seeking to join Elon Musk's legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.",
-      "summary_zh": "美国政府试图加入伊隆·穆斯克的法律挑战, 推翻欧盟对X的罚款1.2亿欧元(105万英镑),"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
-      "title_zh": "罗比・威廉姆斯的惊喜 在秘鲁演出取消之后",
+      "title_zh": "罗比·威廉姆斯的惊喜在秘鲁演出取消后",
       "link": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-25T09:20:04+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
-      "title_zh": "庞普和土司:特朗普和习近平在DC的第2天",
-      "link": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T05:54:07+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "title_zh": "习近平欢迎特朗普的红毯 但不是他想要的一切",
-      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T03:57:09+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The world’s two most powerful men just met. How did it go?",
-      "title_zh": "世界最有力量的两个人刚刚相遇。 怎么样?",
-      "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T01:27:10+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "title_zh": "从那加兰到奥斯卡奖之路:印度电影给全球电影院带来少见的世界",
-      "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-24T23:41:10+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "title_zh": "意大利部长同意禁止校内布袍和尼卡布,",
-      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-24T19:32:59+00:00",
-      "summary": "The Italian government has approved a ban on the burqa and niqab in schools, along with a limit on the share of pupils who speak little Italian in any one class.",
-      "summary_zh": "意大利政府批准了一项禁止学校使用布袍和尼卡布的禁令,同时限制在任何一个班级中说小意大利语的学生的比例。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: UN delegates walk out of Netanyahu speech",
-      "title_zh": "观察:联合国代表走出内塔尼亚胡演讲",
-      "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-24T18:29:29+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "title_zh": "澳大利亚为何选择世界最大政治舞台 揭露OpenAI黑客",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-24T18:06:40+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
-      "title_zh": "在阿米什国家,护士挨家挨户地阻止麻疹的致命传播",
-      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-24T00:15:46+00:00",
-      "summary": "Pennsylvania is home to thousands of Amish, who avoid many aspects of modern life",
-      "summary_zh": "宾夕法尼亚州是成千上万阿米什人的家园 他们避开了现代生活的许多方面"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A red carpet and military flyover - How Trump welcomed Xi",
-      "title_zh": "红地毯和军用飞渡——川普如何欢迎习近平.",
-      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T23:03:56+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "title_zh": "特朗普和习近平当面迎战美中争夺AI大赛冠军.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T22:01:17+00:00",
       "summary": "This video can not be played",
       "summary_zh": "无法播放此视频"
     },
@@ -341,7 +281,7 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
+      "summary_zh": "8日,北日本至西日本的气势非常不稳定,\"评分短时暴雨\"天气灾害预防报告等当地暴雨将7次宣布. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
@@ -357,11 +297,11 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
+      "summary_zh": "大型且非常坚固的13号喇叭位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
