@@ -1,33 +1,263 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-09-28T00:41:53+00:00",
-  "count": 33,
+  "generated_at": "2026-09-29T01:55:32+00:00",
+  "count": 42,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "title_zh": "纽约和新泽西的暴风雨中,有1人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-27T23:37:26+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "title_zh": "OpenAI 废品推出新模式,解决安全问题",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-29T01:51:25+00:00",
+      "summary": "OpenAI chief executive Sam Altman",
+      "summary_zh": "OpenAI 首席执行官 Sam Altman"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
-      "title_zh": "世界新闻日社长说,",
+      "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+      "title_zh": "在祈祷前签名: 一项新的皈依法正在影响印度州的教会信徒",
+      "link": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-29T00:50:19+00:00",
+      "summary": "A new anti-conversion law in Maharashtra has sparked fears among Christians",
+      "summary_zh": "马哈拉施特拉邦新的反皈依法引发基督徒的恐惧"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "title_zh": "美国检察官在康奈尔大学重审涉嫌轮奸案",
+      "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-29T00:38:23+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Journalist to be crowned king in Uganda after bitter succession dispute",
+      "title_zh": "记者在艰难的继承争端后在乌干达加冕为国王",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T23:44:49+00:00",
+      "summary": "Prince Edward Rukidi Kijanangoma Nyabongo II, who is set to be crowned king of Uganda's Tooro kingdom later, has long been a familiar face in the country.",
+      "summary_zh": "爱德华·鲁基迪·基亚南戈马·尼亚邦戈二世亲王后来被加冕为乌干达图罗王国的国王,他长期以来是该国一个熟悉的面孔."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "title_zh": "飓风波罗在墨西哥逼近时发出威胁性狂风",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T23:43:48+00:00",
+      "summary": "Flooding has already started in parts of Baja California Sur",
+      "summary_zh": "南下加利福尼亚州部分地区已经开始洪水泛滥"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "title_zh": "田纳西州州长拒绝对克里斯塔·派克的宽大竞标 因为处决即将来临",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T22:27:33+00:00",
+      "summary": "If the execution proceeds, Christa Pike would be the first woman to be executed in Tennessee in more than 200 years",
+      "summary_zh": "如果行刑成功 克里斯塔·派克将是 田纳西州200多年来第一位被处决的女人"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "title_zh": "法国总理在164人被捕后警告学校抗议升级。",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T21:46:53+00:00",
+      "summary": "Prime Minister Sébastien Lecornu condemned reported violence during school blockades",
+      "summary_zh": "塞巴斯蒂安·勒科尔努总理谴责据报在学校封锁期间发生的暴力"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "title_zh": "纽约时报高管据称被年长的姻亲枪杀",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T20:50:03+00:00",
+      "summary": "A New York Times executive was fatally shot in California, allegedly by his wife's elderly parents who have been arrested on suspicion of murder.",
+      "summary_zh": "一名纽约时报高管在加利福尼亚州遭到致命枪击,据称是被他的妻子的年长父母所杀,他们因涉嫌谋杀而被捕."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "title_zh": "被判定侮辱埃尔多安的立体漫画发行.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T20:23:12+00:00",
+      "summary": "The comedian's supporters gathered outside the courthouse in Istanbul on Monday with signs that translate to \"Deniz Göktaş not alone\"",
+      "summary_zh": "喜剧演员的支持者于星期一在伊斯坦布尔的法院外聚集,身上有\"Deniz Göktaş not alone\"的标志."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The Frenemy: How Australia navigates superpower rivalry",
+      "title_zh": "费内米:澳大利亚如何驾驭超级大国竞争",
+      "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T18:37:15+00:00",
+      "summary": "China's Xi Jingping and Australia's Anthony Albanese in 2024. Relations between the two countries have been rocky in recent years",
+      "summary_zh": "2024年中国的习近平和澳大利亚的安东尼·阿尔巴内斯. 近些年来,两国关系一直不稳定"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "title_zh": "自7月以来,南非的一个地区已有12名妇女被杀害。 这就是我们目前所知的",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T17:26:21+00:00",
+      "summary": "The discovery of 12 bodies in an area east of Johannesburg has sparked alarm in South Africa",
+      "summary_zh": "在约翰内斯堡以东地区发现了12具尸体,在南非引起了恐慌。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "title_zh": "伊朗法庭维持对没有头巾的歌手的鞭笞判决。",
+      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T17:15:00+00:00",
+      "summary": "Parastoo Ahmadi's performance was livestreamed on her YouTube channel in December 2024",
+      "summary_zh": "Parastoo Ahmadi的表演于2024年12月在她的YouTube频道直播."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "People escape historic Kyiv building hit by Russian drone",
+      "title_zh": "人们逃离了俄罗斯无人驾驶飞机袭击的基辅历史建筑",
+      "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T17:04:14+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
+      "title_zh": "在尼日利亚森林中发现数十名绑架嫌疑人",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T16:25:00+00:00",
+      "summary": "Human skulls and bones were found by police in the Umuaku and Nneato forests",
+      "summary_zh": "警察在Umuaku和Nneato森林发现了人的头骨和骨头"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Women protest in the streets of Delhi after string of sexual assaults",
+      "title_zh": "女性在德里街头抗议,",
+      "link": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T16:15:57+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Four bodies found after avalanche hits Himalayan climbing group",
+      "title_zh": "四具尸体是在雪崩袭击喜马拉雅登山组后发现的",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T16:13:44+00:00",
+      "summary": "The avalanche struck Himlung Himal, a mountain popular with overseas climbers",
+      "summary_zh": "雪崩袭击了喜隆喜玛, 一座受海外登山者欢迎的山"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+      "title_zh": "尼日利亚七天不停跳舞打破世界纪录的企图",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T15:39:19+00:00",
+      "summary": "Ben Dancer is due to reach his target early on Tuesday morning",
+      "summary_zh": "Ben Dancer周二早上就要到达目标了"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "title_zh": "汉城传讯乌克兰驻朝鲜战俘",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T14:57:31+00:00",
+      "summary": "Ukrainian President Volodymyr Zelensky made an announcement concerning the transfer of North Korean prisoners of war last week - which South Korean President Lee Jae Myung has called \"greatly disappointing\"",
+      "summary_zh": "乌克兰总统沃洛季米尔·泽连斯基上星期宣布移交朝鲜战俘——韩国总统李载明称此事\"极其令人失望\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+      "title_zh": "观察:从发射到火爆,SpaceX的星舰完成轨道测试",
+      "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T13:59:06+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Plan for controversial Sydney data centre scrapped after push-back",
+      "title_zh": "关于有争议的悉尼数据中心的计划在推后被拆除",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T12:47:09+00:00",
+      "summary": "A sign campaigning against the centre displayed outside a home in a Sydney suburb",
+      "summary_zh": "在悉尼郊区的一户人家外面 展出了反对该中心的标志"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "title_zh": "特朗普-习近平峰会:没有说的话可能最重要",
+      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T07:52:23+00:00",
+      "summary": "Xi and Trump's talks in Washington yielded no joint statements and few major breakthroughs",
+      "summary_zh": "习近平与特朗普在华盛顿的会谈没有产生联合声明,也几乎没有重大突破."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+      "title_zh": "观看:麦当娜和泰勒·斯威夫特在MTV VMAs大胜.",
+      "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T06:22:52+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+      "title_zh": "泰勒·斯威夫特和夏利XCX在恒星中点亮VMAs红地毯",
+      "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T01:16:18+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "title_zh": "纽约和新泽西州有一场暴风雨",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-27T23:37:26+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
+      "title_zh": "世界新闻日组织者说,",
       "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T23:27:22+00:00",
       "summary": "More than 1,000 news providers around the world have signed up to support World News Day on Monday, which aims to promote the role of journalism at a time when organisers say the industry faces an \"existential threat\".",
-      "summary_zh": "全球有1000多家新闻提供商报名支持周一的世界新闻日,其目的是在组织者说该行业面临\"存在威胁\"的时候宣传新闻的作用."
+      "summary_zh": "超过1000家全球新闻供应商签约支持周一的世界新闻日,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Why some Indian civil servants become heroes for doing their jobs",
-      "title_zh": "为什么一些印度公务员会因为做他们的工作而成为英雄",
+      "title_zh": "为什么一些印度公务员 成为英雄做他们的工作",
       "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T23:01:37+00:00",
       "summary": "Tukaram Mundhe has led a series of enforcement drives since taking charge in May",
@@ -37,11 +267,11 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "title_zh": "在也门前线城市作为呼和浩特的控制战",
+      "title_zh": "在也门的前线城市 作为胡塞斯争夺控制权的战斗",
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T21:16:31+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -51,33 +281,23 @@
       "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T21:00:06+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
-      "title_zh": "监视 : SpaceX13次星舰试飞的起伏",
-      "link": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-27T20:05:07+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Embattled Serbian president resigns, paving way for early elections",
-      "title_zh": "遭到殴打的塞尔维亚总统辞职,为早日举行选举铺平道路",
+      "title_zh": "遭殴打的塞尔维亚总统辞职,为早日举行选举铺平道路",
       "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T20:04:21+00:00",
-      "summary": "Aleksandar Vučić's resignation comes years after more than a year of protests over allegations of government corruption",
-      "summary_zh": "Aleksandar Vučić辞职多年后,"
+      "summary": "Aleksandar Vučić's resignation comes more than a year of protests over allegations of government corruption",
+      "summary_zh": "Aleksandar Vučić辞职一年多,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-      "title_zh": "教皇说,虐待的\"暴走\"必须根除 当他访问卢德时",
+      "title_zh": "Pope说,虐待的\"暴风雨\" 必须在他访问Lourdes时根除",
       "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T19:47:21+00:00",
       "summary": "Hundreds of thousands of people have gathered to hear the Pope speak during a four-day visit to France",
@@ -86,28 +306,8 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "title_zh": "雪崩撞上喜马拉雅山后发现的两具尸体",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-27T17:05:26+00:00",
-      "summary": "The avalanche struck Himlung Himal, a mountain popular with overseas climbers",
-      "summary_zh": "雪崩袭击了Himlung Himal 有海外登山者喜欢的山"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-      "title_zh": "被控在安大略各地医院从病人和工作人员那里偷窃的妇女",
-      "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-27T16:35:41+00:00",
-      "summary": "Items seized from the suspect by police",
-      "summary_zh": "警方从嫌疑人处扣押的物品"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Switzerland rejects stricter interpretation of its neutrality",
-      "title_zh": "瑞士反对对其中立性作出更严格的解释",
+      "title_zh": "瑞士拒绝更严格地解释其中立性",
       "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T16:02:17+00:00",
       "summary": "Russia openly backed the initiative, which would have required Switzerland to seek UN approval for sanctions",
@@ -126,142 +326,32 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "title_zh": "南非的两起大规模枪击事件造成27人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-27T14:09:22+00:00",
-      "summary": "Gunmen torched vehicles as they fled the scene of a mass shooting at bar near Johannesburg",
-      "summary_zh": "枪手在逃离约翰内斯堡附近酒吧大规模枪击现场时用火炬烧毁了车辆"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
-      "title_zh": "在BTS和Blackpink之前,发生了\"大爆炸\":现在K-pop之王们回来了",
+      "title_zh": "在BTS和Blackpink之前,有大爆炸:现在K-pop的国王们回来了.",
       "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T08:51:23+00:00",
       "summary": "Taeyang, G-Dragon and Daesung of BigBang perform during the 2026 Coachella Valley Music and Arts Festival",
-      "summary_zh": "大邦的泰阳,G-Dragon和大胜在2026年Ceachella Valley音乐和艺术节期间演出"
+      "summary_zh": "泰阳,G-Dragon和大邦的大星在2026年Ceachella Valley音乐艺术节期间演出"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "title_zh": "伊朗部长说,只有谈判才能在特朗普拒绝霍尔木兹协议后结束冲突.",
+      "title_zh": "伊朗部长说,只有谈判才能在川普拒绝霍尔木兹协议后结束冲突。",
       "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T07:44:11+00:00",
       "summary": "Only a \"negotiated solution\" can end the conflict between the US and Iran, Tehran's foreign minister has said, after President Donald Trump publicly rejected a proposal to reopen the Strait of Hormuz.",
-      "summary_zh": "只有\"谈判解决\"才能结束美国和伊朗的冲突,德黑兰的外交部长说,在唐纳德·特朗普总统公开拒绝重新开放霍尔木兹海峡的提议后."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "title_zh": "曼谷公路被洪水灾害所淹没",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-27T04:45:08+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "德黑兰外长表示,只有在唐纳德·特朗普总统公开否决重新开放霍尔木兹海峡的提议后,只有\"谈判解决\"才能结束美伊冲突."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Four killed in helicopter crash near Montreal",
-      "title_zh": "4人死于蒙特利尔附近直升机坠毁事件",
+      "title_zh": "四人死于蒙特利尔附近直升机坠毁事件",
       "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-09-27T02:43:10+00:00",
       "summary": "A file photo of a black and white helicopter",
       "summary_zh": "黑白直升机的文件照片"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-      "title_zh": "杀手克莉丝塔 派克几天内会被处死 但她的辩护人说她也是受害者",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-26T23:04:08+00:00",
-      "summary": "Christa Pike's lawyers have filed a clemency petition seeking to commute her sentence ahead of the 30 September execution date",
-      "summary_zh": "Christa Pike的律师提出了宽大处理请求,要求在9月30日处决日期之前减刑。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Young people in China are fangirling over a professor who gets their anxiety",
-      "title_zh": "中国的年轻人都喜欢一个有焦虑感的教授",
-      "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-26T22:02:18+00:00",
-      "summary": "Young Chinese people are anxious about their future in a rapdily changing country",
-      "summary_zh": "中国年轻人对自己在变化中的国家的未来感到焦虑"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Are claims of a white genocide in South Africa real?",
-      "title_zh": "关于在南非发生白色种族灭绝的说法是否真实?",
-      "link": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-26T21:20:17+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-      "title_zh": "被警察发现被吊在树上的女人妈妈被吓倒了",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-26T21:13:13+00:00",
-      "summary": "Tasia Fortune, a 29-year-old mother of four, was found hanging from a tree in August",
-      "summary_zh": "Tasia Fortune是一位29岁的四岁母亲,8月被发现被吊在一棵树上"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "title_zh": "德国镇禁止\"倒石\"纳粹受害者纪念碑",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-26T15:48:51+00:00",
-      "summary": "\"Stumbling stone\" memorials - like the one pictured in the Netherlands - are often placed in memory of Jews and other victims of the Holocaust",
-      "summary_zh": "\"自相残杀\"的纪念像荷兰的一幅画一样,经常被放置在犹太人和其他大屠杀被害者的记忆中."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Bangkok declared flood disaster zone",
-      "title_zh": "观察:曼谷宣布为洪水灾区",
-      "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-26T15:34:18+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "title_zh": "在雅典阿克罗波利斯附近的建筑爆炸中死亡的六名英国国民中",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-26T12:47:25+00:00",
-      "summary": "The building in the Plaka district was reduced to rubble strewn with household items",
-      "summary_zh": "Plaka区的建筑被瓦砾倒入了家用物品"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "title_zh": "这个热带岛上珍藏的\"永恒的雪\" 即将永远消失",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T22:12:48+00:00",
-      "summary": "Only small patches of snow remain on Papua's Sudirman Range",
-      "summary_zh": "巴布亚苏迪尔曼牧场只剩下小片雪地"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
-      "title_zh": "为什么国际逮捕令没有阻止内塔尼亚胡的美国之行",
-      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-25T18:41:13+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
     },
     {
       "source": "NHKニュース",
@@ -271,13 +361,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -287,37 +377,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
