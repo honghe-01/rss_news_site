@@ -1,117 +1,197 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-10-05T00:54:36+00:00",
-  "count": 29,
+  "generated_at": "2026-10-06T02:17:52+00:00",
+  "count": 30,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-      "title_zh": "巴西选手以右翼Flávio Bolsonaro出局,",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "title_zh": "也门军方说, 红海水道",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T01:05:00+00:00",
+      "summary": "Yemen's government says it has launched an offensive aimed at retaking all territory held by the Houthis",
+      "summary_zh": "也门政府说,它发动了一场攻势,旨在夺回被胡塞人占领的所有领土。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "title_zh": "右翼Flávio Bolsonaro在巴西第一轮选举中获胜",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T00:27:06+00:00",
-      "summary": "Flávio Bolsonaro casts his vote at a polling station in Rio de Janeiro",
-      "summary_zh": "Flávio Bolsonaro在里约热内卢的投票站投票。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
-      "title_zh": "救援人员在美国海岸失事后暂停搜寻幸存者",
-      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T23:29:18+00:00",
-      "summary": "The search for the plane is being conducted near Nantucket, an island off the coast of the US state of Massachusetts",
-      "summary_zh": "正在美国马萨诸塞州海岸外的南塔克特附近搜寻飞机"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "title_zh": "卢拉和Flávio Bolsonaro面对选举时,",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T20:14:49+00:00",
-      "summary": "The two candidates leading in the polls are Luíz Inácio Lula da Silva and Flávio Bolsonaro",
-      "summary_zh": "参加投票的两名候选人是:路易斯·伊纳西奥·卢拉·达席尔瓦和弗拉维奥·博尔索纳罗。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indian police accused of sexually harassing journalists at protest",
-      "title_zh": "印度警方被指控在抗议中性骚扰记者",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T17:01:19+00:00",
-      "summary": "Young people have been protesting against large-scale changes to voter rolls by the Election Commission",
-      "summary_zh": "年轻人一直抗议选举委员会大规模改变选民名册"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "title_zh": "也门政府宣布全面开战,",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T16:51:30+00:00",
-      "summary": "Soldiers ride in the back of a pick-up truck on a dirt road near Taiz, amid fighting between Yemeni government forces and Houthis",
-      "summary_zh": "也门政府军与Houthis之间的战斗中,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "title_zh": "Christa Pike的预后仍然不明朗,",
-      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T16:24:48+00:00",
-      "summary": "Christa Pike appearing in court in 2007",
-      "summary_zh": "克里斯塔语Name 2007年Pike出庭"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "title_zh": "美国海军陆战队在日本冲绳因谋杀妇女而被捕",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T14:36:57+00:00",
-      "summary": "The US Marine Corps Air Station Futenma in Okinawa, Japan",
-      "summary_zh": "位于日本冲绳的美国海军陆战队航空站"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "title_zh": "监视 : 俄国对基辅桥梁的打击",
-      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T14:25:32+00:00",
+      "published_at": "2026-10-05T23:19:14+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "title_zh": "埃塞俄比亚反叛部队从提格雷地区首都撤出",
-      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T13:33:05+00:00",
-      "summary": "A pro-government soldier standing guard on a street in Ethiopia's Tigray region on Sunday",
-      "summary_zh": "一名亲政府的士兵星期日在埃塞俄比亚提格雷地区的一条街上站岗"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "title_zh": "基辅桥在俄国无人机袭击中再次被击中,",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T12:09:04+00:00",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "title_zh": "特朗普说\"威胁\"导致美国从RAF Fairford拉出轰炸机",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T21:46:22+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "title_zh": "澳大利亚调查 Flydubai 副驾驶与国家的联系",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T06:19:17+00:00",
-      "summary": "The Flydubai plane was diverted to Saudi Arabia after passengers managed to take back control from the co-pilot",
-      "summary_zh": "Flydubai飞机在乘客设法从副驾驶手中夺回控制权后被转往沙特阿拉伯"
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "title_zh": "瘟疫研究者死后,",
+      "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T21:33:49+00:00",
+      "summary": "Donald Trump says the US was looking \"very strongly\" at the case but had not discussed it with the Kremlin",
+      "summary_zh": "唐纳德·特朗普(Donald Trump)说,美国当时对此案\"非常强烈\",但没有与克里姆林宫讨论过."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "title_zh": "法国在受伤和大规模逮捕后举行全国学校抗议活动",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T21:18:10+00:00",
+      "summary": "More than 500 schools were partially or totally closed by protests on Monday, the French education minister said",
+      "summary_zh": "法国教育部长说,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "title_zh": "西班牙总理对住房危机寄予希望,",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T19:30:50+00:00",
+      "summary": "The chair of Sánchez's Socialist Party (PSOE) Cristina Narbona and Prime Minister Pedro Sánchez during a meeting earlier on Monday",
+      "summary_zh": "在星期一早些时候的一次会议上,桑切斯社会党主席克里斯蒂娜·纳尔博纳和总理佩德罗·桑切斯"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "title_zh": "英国广播公司说,",
+      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T16:13:21+00:00",
+      "summary": "Defence secretary Pete Hegseth has publicly criticised Anthropic's boss Dario Amodei",
+      "summary_zh": "国防部长Pete Hegseth公开批评Anthropic的老板Dario Amodei"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "title_zh": "Zelensky谴责俄罗斯在黑海对运载玉米的船只发动的\"骇人听闻\"袭击。",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T15:17:23+00:00",
+      "summary": "The fire-damaged vessel was pictured after Romanian authorities launched a rescue mission",
+      "summary_zh": "在罗马尼亚当局发起救援行动后,这艘被火灾损坏的船只被描绘出来"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+      "title_zh": "尼日利亚警方说,",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T12:59:56+00:00",
+      "summary": "Omotosho Adewale, the father of one of those abducted, says he has had no peace and has not eaten for three days",
+      "summary_zh": "奥本绍 Adewale,被绑架者之一的父亲,说他没有安宁,三天没吃东西了"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+      "title_zh": "格鲁吉亚官员在枪击中追捕造成两人死亡和一人受伤的嫌疑人。",
+      "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T12:08:21+00:00",
+      "summary": "Investigators in the US state of Georgia are on the hunt for a suspect in a mass shooting that erupted in the early hours of Sunday, killing two people and injuring 35 more.",
+      "summary_zh": "美国乔治亚州调查人员正在追捕一名周日凌晨爆发的大规模枪击案嫌疑人,造成2人死亡,35人受伤."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "title_zh": "Flydubai 副驾驶计划飞机坠入特拉维夫机场或大楼,",
+      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T11:34:59+00:00",
+      "summary": "A second flydubai plane flew the stranded passengers from Saudi Arabia to Israel",
+      "summary_zh": "第二架飞杜拜飞机将被困乘客从沙特阿拉伯飞往以色列"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+      "title_zh": "印度歌手Anuv Jain在没有宝莱坞助推的情况下寻找成功",
+      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T11:10:28+00:00",
+      "summary": "The singer-songwriter has opened up about building a career on India's music scene as an acoustic indie pop performer",
+      "summary_zh": "歌手-相声作曲家开启了在印度音乐舞台上作为音响内地流行音乐表演者的生涯."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "title_zh": "诺贝尔奖,因为揭示了大脑的内部功能",
+      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T11:04:37+00:00",
+      "summary": "The Nobel Committee made the announcement at the Karolinska Institute, Sweden",
+      "summary_zh": "诺贝尔委员会在瑞典卡罗林斯卡研究所宣布"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
+      "title_zh": "观察:西班牙住房危机如何导致提前大选.",
+      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T09:03:30+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "title_zh": "别再说了 美国海军陆战队因谋杀被捕 日本冲绳的抗议活动",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T08:22:41+00:00",
+      "summary": "For many Okinawa locals, the arrest of a US soldier accused of robbing and killing a woman in a hotel room has reignited decades of frustration over crimes involving US military personnel there.",
+      "summary_zh": "对许多冲绳当地人来说,一名被指控在旅馆房间抢劫并杀害一名妇女的美国士兵被逮捕,这再次激起数十年对涉及美国军事人员的罪行的不满。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "title_zh": "8亿英磅,8亿英磅出局 - 为什么芒市丑闻让芒市金融大开眼界.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T08:08:02+00:00",
+      "summary": "The Premier League panel's report laid it out in black and white.",
+      "summary_zh": "总理联盟小组的报告用黑白两字写出。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "title_zh": "观察:巴西的戏剧性选举如何展开",
+      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T04:51:24+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "All six passengers presumed dead after plane went missing off US coast",
+      "title_zh": "所有六名乘客在美国海岸失踪后 推定已死亡",
+      "link": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T04:00:35+00:00",
+      "summary": "Four Canadian nationals and two Bermudian nationals were onboard the flight, which went missing in the early hours of Saturday",
+      "summary_zh": "4名加拿大国民和2名百慕大国民乘坐飞机,星期六凌晨失踪。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How India became dangerously addicted to Chinese imports",
+      "title_zh": "印度是如何对中国进口品产生危险的上瘾的",
+      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T01:42:11+00:00",
+      "summary": "Xi and Modi have vowed to address growing trade imbalances",
+      "summary_zh": "习近平和莫迪发誓要解决贸易不平衡的问题"
     },
     {
       "source": "BBC News",
@@ -126,82 +206,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "title_zh": "\"街头愤怒\": 西班牙有上万人抗议住房危机,",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T03:42:15+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "title_zh": "康奈尔总裁说,在兄弟会的强奸指控之后,大学必须做得更好",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T00:11:25+00:00",
-      "summary": "A student has alleged she was drugged and gang-raped inside the Chi Phi frat house at Cornell University",
-      "summary_zh": "一名学生声称她在康奈尔大学芝菲兄弟会的房子里被下药和轮奸"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-      "title_zh": "为何在加纳巴士上传教的时间会更长,",
-      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T23:37:46+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why Canada is wargaming a (long shot) US invasion",
       "title_zh": "加拿大为何要发动美国入侵",
       "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-03T23:30:06+00:00",
       "summary": "Prime Minister Mark Carney admitted last week that he has prepared for a once-unthinkable scenario - a US invasion.",
       "summary_zh": "马克·卡尼总理上星期承认,他已经准备了一次难以想象的情景——美国入侵。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US father and son arrested after 'gas station heroin' deaths",
-      "title_zh": "美国父子死于\"毒气站\"",
-      "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T22:39:06+00:00",
-      "summary": "Kratom is legal in some states, including Mississippi",
-      "summary_zh": "克拉通在包括密西西比州在内的一些州是合法的"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why has Brazil accused the US of election interference?",
-      "title_zh": "巴西为何指责美国干涉选举?",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T13:52:13+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "title_zh": "西班牙的房屋危机是否会导致快速选举?",
-      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T12:26:30+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-      "title_zh": "厄尔尼诺现象是否意味着今年没有大西洋飓风?",
-      "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-02T23:37:13+00:00",
-      "summary": "For the first time in more than 30 years, a hurricane has not formed in the Atlantic throughout September - normally the most active month for hurricane activity.",
-      "summary_zh": "一场飓风在30多年以来首次没有在大西洋形成,整个9月通常都是飓风活动最活跃的月份."
     },
     {
       "source": "BBC News",
