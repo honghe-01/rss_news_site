@@ -1,137 +1,287 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-10-06T02:17:52+00:00",
-  "count": 30,
+  "generated_at": "2026-10-07T01:31:47+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "title_zh": "美国死刑犯克莉丝塔·派克醒了 被处决失败后说话 律师说",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T00:56:59+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "title_zh": "一种美丽的喜马拉雅鸟因人类活动而改变声音 研究显示",
+      "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T23:07:44+00:00",
+      "summary": "The male monal has distinctive green, blue and copper plumage",
+      "summary_zh": "雄性寺庙有独特的绿色,蓝色和铜质花纹"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "title_zh": "许多尼泊尔人在洪水中横扫而去,",
+      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T22:17:56+00:00",
+      "summary": "In Hindu tradition, when a body cannot be recovered, a symbolic effigy is made from sacred \"kusha\" grass to represent the dead",
+      "summary_zh": "在印度教传统中,当尸体无法被找回时,用神圣的\"克沙\"草作象征化的雕像来代表死者"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "title_zh": "看:暴动警察与学校抗议者发生冲突,",
+      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T21:22:22+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "title_zh": "白宫为特朗普辩护,",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T20:15:31+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "title_zh": "从电影到流出的价格 - 华纳兄弟的交易会如何影响你",
+      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T18:42:58+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "title_zh": "康奈尔7号的一位律师 要求撤销特别检察官的职务",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T18:05:53+00:00",
+      "summary": "A lawyer for one of the seven men accused of participating in a Cornell University gang rape has called for the special prosecutor on the case to recuse herself over past public comments.",
+      "summary_zh": "被控参与康奈尔大学轮奸案的7名男子之一的律师呼吁该案的特别检察官回避过去公开发表的评论。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "title_zh": "巴黎和马赛的催泪瓦斯随着学校抗议活动在法国各地增长而增加",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T18:03:19+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Finland orders halt to work on two Google data centres",
+      "title_zh": "芬兰下令停止两个Google数据中心的工作",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T17:15:46+00:00",
+      "summary": "One of Google's data centres is being built in Muhos, Finland",
+      "summary_zh": "Google的一个数据中心正在芬兰穆霍斯建设中"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "title_zh": "分裂主义政党预计赢得魁北克选举,",
+      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T16:51:59+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "title_zh": "肯尼亚确认首次埃博拉疫情蔓延后死亡",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T16:02:32+00:00",
+      "summary": "There are currently no approved vaccines or treatments for the Bundibugyo species of Ebola but some have been trialled",
+      "summary_zh": "目前没有为Bundibugyo型埃博拉疫苗或治疗获得核准,但有些疫苗或治疗已试用"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
+      "title_zh": "首次当选德国区域议会议长",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T14:44:03+00:00",
+      "summary": "Tobias Rausch easily won the vote with the backing of nine MPs beyond his own party",
+      "summary_zh": "Tobias Rausch在9名超越自己政党的议员的支持下,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: How Russia responded to US after plague researcher death",
+      "title_zh": "观察:瘟疫研究人员死后俄罗斯如何回应美国.",
+      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T13:32:42+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "title_zh": "美国传教士Jim Bakker 被性丑闻和欺诈所羞辱 死于86岁",
+      "link": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T13:31:56+00:00",
+      "summary": "US televangelist Jim Bakker's death was announced on Monday by his second wife Lori Bakker",
+      "summary_zh": "美国传教士吉姆·巴克克的死因 是他第二任妻子洛莉·巴克克星期一宣布的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+      "title_zh": "尼日利亚在军机坠入沼泽地时哀悼25人遇难",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T12:51:05+00:00",
+      "summary": "Some wreckage was recovered from the water",
+      "summary_zh": "水里有残骸"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "title_zh": "七人因用加纳钞票做\"花花\"而被捕",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T12:00:10+00:00",
+      "summary": "It is illegal to misuse Ghana's cedi, including by defacing or unlawfully altering banknotes",
+      "summary_zh": "滥用加纳的彩票是非法的,包括诽谤或非法更改钞票。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "title_zh": "黑海无人机袭击后船只沉没和船员失踪",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T11:53:21+00:00",
+      "summary": "Two injured crew members from one of the ships have been sent for treatment",
+      "summary_zh": "其中一艘船的两名受伤船员被送往治疗"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "title_zh": "太空望远镜上的\"鬼粒子\"赢得了诺贝尔物理学奖",
+      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T11:24:19+00:00",
+      "summary": "Prof Francis Halzen won for \"decisive contribution\" to developing the IceCube Neutrino Observatory",
+      "summary_zh": "Francis Halzen教授为冰管中微子观测台的发展 \"决定性贡献\"获胜"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Former German spy chief arrested for espionage and treason",
+      "title_zh": "前德国间谍头目因间谍和叛国罪被捕",
+      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T10:05:42+00:00",
+      "summary": "Agents arrested August Hanning (pictured from 2015) at his home on Tuesday",
+      "summary_zh": "特工星期二在August Hanning家逮捕了他(从2015年开始的画面)"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "title_zh": "印度反对党议员因抗议选举酋长而被拘留",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T10:05:22+00:00",
+      "summary": "Many opposition lawmakers, including the Congress party's Rahul Gandhi, were stopped midway as they marched towards the Election Commission headquarters",
+      "summary_zh": "许多反对派立法者,包括国会党的拉胡尔·甘地,在游行前往选举委员会总部时中途被拦下."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "title_zh": "随着俄罗斯的无人机袭击升级,乌克兰铁路旅客的恐惧和干扰",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T09:48:37+00:00",
+      "summary": "Russian drones started to attack Ukrainian passenger trains at the end of last year",
+      "summary_zh": "俄罗斯无人机去年年底开始攻击乌克兰旅客列车"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The small African nation ready for Messi's big night",
+      "title_zh": "非洲国家准备迎接梅西的盛会",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T07:50:34+00:00",
+      "summary": "Situated next to Nigeria, the small west African country of Benin is generally used to being left in the shadows of its footballing powerhouse neighbour.",
+      "summary_zh": "位于尼日利亚相邻的西非小国贝宁被普遍习惯于被留在其足球强国相邻的阴影中."
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "title_zh": "也门军方说, 红海水道",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T01:05:00+00:00",
+      "published_at": "2026-10-06T07:43:07+00:00",
       "summary": "Yemen's government says it has launched an offensive aimed at retaking all territory held by the Houthis",
       "summary_zh": "也门政府说,它发动了一场攻势,旨在夺回被胡塞人占领的所有领土。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "title_zh": "右翼Flávio Bolsonaro在巴西第一轮选举中获胜",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T23:19:14+00:00",
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "title_zh": "OpenAI承认对澳大利亚政府黑客的反应“不够好”,",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T06:53:17+00:00",
+      "summary": "OpenAI chief strategy officer Jason Kwon faced a parliamentary hearing into AI in Sydney",
+      "summary_zh": "OpenAI 首席战略官 Jason Kwon 在悉尼面对议会听证会 进入AI"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
+      "title_zh": "观察:印度尼西亚鞋店被爆炸撕裂",
+      "link": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T04:57:16+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "title_zh": "特朗普说\"威胁\"导致美国从RAF Fairford拉出轰炸机",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T21:46:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
+      "title_zh": "在2007年影片出现后,",
+      "link": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T02:36:21+00:00",
+      "summary": "Schmidt, who has Samoan and German heritage, took office as prime minister in September 2025",
+      "summary_zh": "拥有萨摩亚和德意志遗产的施密特于2025年9月出任总理."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "title_zh": "瘟疫研究者死后,",
-      "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T21:33:49+00:00",
-      "summary": "Donald Trump says the US was looking \"very strongly\" at the case but had not discussed it with the Kremlin",
-      "summary_zh": "唐纳德·特朗普(Donald Trump)说,美国当时对此案\"非常强烈\",但没有与克里姆林宫讨论过."
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "title_zh": "被行刑队处决的胡德堡枪手 二战以来美国军方的首个枪手",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T02:22:24+00:00",
+      "summary": "An undated handout image of Hasan that was released by authorities in 2012",
+      "summary_zh": "当局于2012年公布的Hasan未注明日期的施放照片"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "France braces for national day of school protests after injuries and mass arrests",
-      "title_zh": "法国在受伤和大规模逮捕后举行全国学校抗议活动",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T21:18:10+00:00",
-      "summary": "More than 500 schools were partially or totally closed by protests on Monday, the French education minister said",
-      "summary_zh": "法国教育部长说,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spain PM pins hopes on housing crisis to help win snap election",
-      "title_zh": "西班牙总理对住房危机寄予希望,",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T19:30:50+00:00",
-      "summary": "The chair of Sánchez's Socialist Party (PSOE) Cristina Narbona and Prime Minister Pedro Sánchez during a meeting earlier on Monday",
-      "summary_zh": "在星期一早些时候的一次会议上,桑切斯社会党主席克里斯蒂娜·纳尔博纳和总理佩德罗·桑切斯"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "title_zh": "英国广播公司说,",
-      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T16:13:21+00:00",
-      "summary": "Defence secretary Pete Hegseth has publicly criticised Anthropic's boss Dario Amodei",
-      "summary_zh": "国防部长Pete Hegseth公开批评Anthropic的老板Dario Amodei"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "title_zh": "Zelensky谴责俄罗斯在黑海对运载玉米的船只发动的\"骇人听闻\"袭击。",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T15:17:23+00:00",
-      "summary": "The fire-damaged vessel was pictured after Romanian authorities launched a rescue mission",
-      "summary_zh": "在罗马尼亚当局发起救援行动后,这艘被火灾损坏的船只被描绘出来"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
-      "title_zh": "尼日利亚警方说,",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T12:59:56+00:00",
-      "summary": "Omotosho Adewale, the father of one of those abducted, says he has had no peace and has not eaten for three days",
-      "summary_zh": "奥本绍 Adewale,被绑架者之一的父亲,说他没有安宁,三天没吃东西了"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
-      "title_zh": "格鲁吉亚官员在枪击中追捕造成两人死亡和一人受伤的嫌疑人。",
-      "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T12:08:21+00:00",
-      "summary": "Investigators in the US state of Georgia are on the hunt for a suspect in a mass shooting that erupted in the early hours of Sunday, killing two people and injuring 35 more.",
-      "summary_zh": "美国乔治亚州调查人员正在追捕一名周日凌晨爆发的大规模枪击案嫌疑人,造成2人死亡,35人受伤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-      "title_zh": "Flydubai 副驾驶计划飞机坠入特拉维夫机场或大楼,",
-      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T11:34:59+00:00",
-      "summary": "A second flydubai plane flew the stranded passengers from Saudi Arabia to Israel",
-      "summary_zh": "第二架飞杜拜飞机将被困乘客从沙特阿拉伯飞往以色列"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "title_zh": "印度歌手Anuv Jain在没有宝莱坞助推的情况下寻找成功",
-      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T11:10:28+00:00",
-      "summary": "The singer-songwriter has opened up about building a career on India's music scene as an acoustic indie pop performer",
-      "summary_zh": "歌手-相声作曲家开启了在印度音乐舞台上作为音响内地流行音乐表演者的生涯."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nobel Prize awarded for revealing inner workings of the brain",
-      "title_zh": "诺贝尔奖,因为揭示了大脑的内部功能",
-      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T11:04:37+00:00",
-      "summary": "The Nobel Committee made the announcement at the Karolinska Institute, Sweden",
-      "summary_zh": "诺贝尔委员会在瑞典卡罗林斯卡研究所宣布"
+      "title": "What are the US midterms? A simple guide",
+      "title_zh": "美国的中期计划是什么? 简单的指南",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T23:40:58+00:00",
+      "summary": "There are four weeks to go until the US midterm elections, when voters take part in a ballot that could have a major impact on the rest of Donald Trump's presidency.",
+      "summary_zh": "距美国中期选举还有四个星期时间, 选民参加投票,"
     },
     {
       "source": "BBC News",
@@ -146,90 +296,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-      "title_zh": "别再说了 美国海军陆战队因谋杀被捕 日本冲绳的抗议活动",
-      "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T08:22:41+00:00",
-      "summary": "For many Okinawa locals, the arrest of a US soldier accused of robbing and killing a woman in a hotel room has reignited decades of frustration over crimes involving US military personnel there.",
-      "summary_zh": "对许多冲绳当地人来说,一名被指控在旅馆房间抢劫并杀害一名妇女的美国士兵被逮捕,这再次激起数十年对涉及美国军事人员的罪行的不满。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-      "title_zh": "8亿英磅,8亿英磅出局 - 为什么芒市丑闻让芒市金融大开眼界.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T08:08:02+00:00",
-      "summary": "The Premier League panel's report laid it out in black and white.",
-      "summary_zh": "总理联盟小组的报告用黑白两字写出。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: How Brazil's dramatic election unfolded",
       "title_zh": "观察:巴西的戏剧性选举如何展开",
       "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-05T04:51:24+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "All six passengers presumed dead after plane went missing off US coast",
-      "title_zh": "所有六名乘客在美国海岸失踪后 推定已死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T04:00:35+00:00",
-      "summary": "Four Canadian nationals and two Bermudian nationals were onboard the flight, which went missing in the early hours of Saturday",
-      "summary_zh": "4名加拿大国民和2名百慕大国民乘坐飞机,星期六凌晨失踪。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How India became dangerously addicted to Chinese imports",
-      "title_zh": "印度是如何对中国进口品产生危险的上瘾的",
-      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T01:42:11+00:00",
-      "summary": "Xi and Modi have vowed to address growing trade imbalances",
-      "summary_zh": "习近平和莫迪发誓要解决贸易不平衡的问题"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rare tornado whips through small Australian town",
-      "title_zh": "稀有龙卷风从澳大利亚小镇吹来",
-      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T04:15:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why Canada is wargaming a (long shot) US invasion",
-      "title_zh": "加拿大为何要发动美国入侵",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T23:30:06+00:00",
-      "summary": "Prime Minister Mark Carney admitted last week that he has prepared for a once-unthinkable scenario - a US invasion.",
-      "summary_zh": "马克·卡尼总理上星期承认,他已经准备了一次难以想象的情景——美国入侵。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Newly released video shows Luigi Mangione’s arrest",
-      "title_zh": "新出道的视频显示Luigi Mangione被捕。",
-      "link": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-02T20:37:34+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How widely used is the death penalty in the US?",
-      "title_zh": "死刑在美国的使用范围有多广?.",
-      "link": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-02T19:56:28+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
