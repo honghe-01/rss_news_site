@@ -1,87 +1,357 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-10-08T01:55:08+00:00",
-  "count": 29,
+  "generated_at": "2026-10-09T02:07:41+00:00",
+  "count": 43,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "title_zh": "日本啤酒巨头突袭 指控的定价卡特尔",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-08T00:53:46+00:00",
-      "summary": "Japanese officials have raided the country's biggest beer makers over allegations they worked together to raise the price of their beverages.",
-      "summary_zh": "日本官员突袭了全国最大的啤酒制造商, 指控他们合作提高饮料价格。"
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "title_zh": "五角大楼说,胡德堡袭击者被行刑队处死将会被现场直播",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-09T01:25:33+00:00",
+      "summary": "The public will be able to watch the execution of a former US Army major by firing squad, US Defence Secretary Pete Hegseth has said.",
+      "summary_zh": "美国国防部长Pete Hegseth说,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "title_zh": "西班牙的养老金领取者,",
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "title_zh": "马克·扎克伯格有图像问题 - 那么梅塔的生意为什么繁荣?",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T23:14:02+00:00",
+      "summary": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "summary_zh": "马克·扎克伯格有图像问题 - 那么梅塔的生意为什么繁荣?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "title_zh": "与摩纳哥对百万富翁的炸弹袭击有关的嫌犯打破了对BBC的沉默",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T23:11:10+00:00",
+      "summary": "Vitalii Zhykovych appeared in open court during the summer and has spoken to the BBC from prison",
+      "summary_zh": "Vitalii Zhykovych在夏天露天出庭,从监狱到英国广播公司讲过话。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What Americans think about the death penalty",
+      "title_zh": "美国人对死刑的看法",
+      "link": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T21:49:14+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "title_zh": "直言不讳的印度演员娜娜·佩特卡75岁时突然去世",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T20:38:11+00:00",
+      "summary": "Nana Patekar's funeral was scheduled to take place with full state honours on Thursday evening",
+      "summary_zh": "娜娜·佩特卡的葬礼安排在周四晚上举行"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+      "title_zh": "BBC关于飓风伊萨亚斯及其预期的海湾海岸登陆情况",
+      "link": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T19:39:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "title_zh": "抗议者指责西班牙住房危机为“文化基金”,",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T19:10:06+00:00",
+      "summary": "Jorge Moreno (left) says \"vulture funds\" are hiking up rents, while Pierina Nicuray points out that there is \"a lack of homes\" in Spain",
+      "summary_zh": "Jorge Moreno(左翼)说,“秃鹫基金”正在徒步攀登租金,而Pierina Nicuray指出,西班牙“没有住房”。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "title_zh": "阿迪达斯起诉澳大利亚标签 白狐四条条纹设计",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T18:17:28+00:00",
+      "summary": "Adidas is suing Australian label White Fox for selling and advertising clothes with a four-striped design, arguing it is \"deceptively similar\" to the German brand's distinct logo.",
+      "summary_zh": "阿迪达斯起诉澳大利亚标签\"白狐\"以四条腿设计出售和广告服装,认为这与德国品牌的鲜明标志\"欺骗性相似\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "title_zh": "委内瑞拉前领导人Nicolás Maduro被控共谋实施酷刑",
+      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T17:38:59+00:00",
+      "summary": "Nicolás Maduro has been in US custody since January of this year",
+      "summary_zh": "尼科拉斯·马杜罗从今年1月起 一直被美国拘留"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "title_zh": "美国将人驱逐到非洲国家,",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T17:16:32+00:00",
+      "summary": "The US has been sending migrants who cannot be deported to their home nations to other countries instead",
+      "summary_zh": "美国一直把不能被遣送回祖国的移民送往其他国家"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "title_zh": "俄国对公共汽车的袭击造成至少30人死亡,",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T16:31:29+00:00",
+      "summary": "Ukrainian President Volodymyr Zelensky said Kyiv's allies needed to take \"concrete action\"",
+      "summary_zh": "乌克兰总统沃洛季米尔·泽连斯基表示基辅的盟友需要采取\"具体行动\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "title_zh": "赞比亚在数据共享争议后签署美国卫生协议",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T16:24:05+00:00",
+      "summary": "Zambian Health Minister Roma Chilengi (second right) said the agreement would not allow the sharing of individual patient records",
+      "summary_zh": "赞比亚卫生部长Roma Chilengi(第二次权利)说,该协议不允许分享个人病历。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "title_zh": "南朝鲜回顾 乌克兰战俘事务特使",
+      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T16:23:09+00:00",
+      "summary": "South Korea has said it will recall its ambassador to Ukraine, the latest escalation in a diplomatic spat between both countries.",
+      "summary_zh": "南朝鲜曾表示,它将召回其驻乌克兰大使,这是两国之间外交战役的最新升级。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "title_zh": "多数英国外交官离开东耶路撒冷领事馆,",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T15:21:46+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "title_zh": "克丽丝塔 律师告诉英国广播公司,",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T15:02:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "title_zh": "加拿大诗人安妮·卡森赢得诺贝尔文学奖",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T14:33:23+00:00",
+      "summary": "Canadian poet, essayist and translator Anne Carson has been awarded this year's Nobel Prize in Literature.",
+      "summary_zh": "加拿大诗人,散文家和翻译家安妮·卡森获得了今年的诺贝尔文学奖."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "title_zh": "亚利桑那州国会候选人说她在修竞选标志时被强奸了",
+      "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T14:10:58+00:00",
+      "summary": "Warning: This article contains details which some readers may find distressing.",
+      "summary_zh": "警告: 这篇文章包含了一些读者可能感到痛苦的细节."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "title_zh": "反对派指责梅洛尼「丑闻」,",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T12:32:12+00:00",
+      "summary": "Opposition parties say the move is designed to keep Meloni's right-wing coalition in power",
+      "summary_zh": "反对党表示此举旨在让梅洛尼的右翼联盟继续执政."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "title_zh": "海上机构称,",
+      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T12:11:31+00:00",
+      "summary": "Merchant vessels have come under repeated attack in the region since the start of the Iran war (file photo)",
+      "summary_zh": "自伊朗战争开始以来,商船在该地区多次遭到袭击(档案照片)"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "title_zh": "在BBC调查后,",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T12:04:25+00:00",
+      "summary": "Bechi was recorded at an event earlier this year by undercover BBC reporters",
+      "summary_zh": "贝奇今年早些时候被BBC的卧底记者录制"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+      "title_zh": "观察:英国驻东耶路撒冷领事馆的标志为何被拆除?.",
+      "link": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T12:01:55+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bear kills man in home attack near Mongolian capital",
+      "title_zh": "在蒙古首都附近的家庭袭击中,熊杀死了人类",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T11:52:59+00:00",
+      "summary": "The Eurasian brown bear (file photo) is found in the region around Ulaanbaatar.",
+      "summary_zh": "欧亚棕熊(文件照片)在乌兰巴托周边地区被发现."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "title_zh": "智利中部洪灾后,居民空运到安全地点",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T11:31:22+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
+      "title_zh": "西班牙的养老金领取者 被驱逐引发全国范围的抗议 死亡",
       "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-08T00:09:17+00:00",
-      "summary": "Maricarmen Abascal was evicted from her flat in Madrid two weeks ago",
-      "summary_zh": "马里卡门·阿巴斯卡尔两周前在马德里被赶出公寓"
+      "published_at": "2026-10-08T07:15:45+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "title_zh": "马拉松赛跑的中国选手在骑自行车时 被赞助人撞倒",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T20:29:31+00:00",
-      "summary": "The influencer was seen riding a bike during the Berlin Marathon, which took place at the end of September",
-      "summary_zh": "在9月底的柏林马拉松赛中,看到影响者骑自行车"
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+      "title_zh": "玛格丽特·汉密尔顿(Margaret Hamilton)的软件帮助阿波罗11号降落在月球上,在90岁时死亡",
+      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T05:10:40+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "title_zh": "在哈马斯发动致命袭击三年后的10月7日,以色列人对袭击受害者表示哀悼。",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T20:27:03+00:00",
-      "summary": "A man comforts a woman at the fountain at Dizengoff Square on Wednesday",
-      "summary_zh": "一个男人在周三Dizengoff广场的喷泉 安慰一个女人"
+      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+      "title_zh": "\"每天都有杀戮\": 加沙的巴勒斯坦人面临以色列的袭击,尽管停火,因为和平协议停滞不前",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T05:06:09+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "title_zh": "加拿大中止了将援助性死亡扩大到精神病患者的计划",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T19:30:51+00:00",
-      "summary": "Minister of Justice Sean Fraser also announced plans to allow for advanced consent to the programme",
-      "summary_zh": "司法部长肖恩·弗雷泽还宣布了允许事先同意该方案的计划。"
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "title_zh": "美国和黎巴嫩保护被通缉的叙利亚将军 BBC发现",
+      "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T05:00:44+00:00",
+      "summary": "Bassam al-Hassan is wanted for crimes against humanity during Syria's Assad regime",
+      "summary_zh": "巴萨姆·哈桑因在叙利亚阿萨德政权时期犯有危害人类罪而被通缉"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "title_zh": "特朗普和普京谈谈瘟疫实验室工作人员在俄罗斯的死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T18:27:40+00:00",
-      "summary": "The victim was working at the anti-plague institute in the Siberia city of Irkutsk",
-      "summary_zh": "受害人在西伯利亚市伊尔库茨克市的反广场研究所工作"
+      "title": "France's school protests: What lies behind the anger",
+      "title_zh": "法国学校抗议: 愤怒背后的东西",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T03:38:46+00:00",
+      "summary": "Since late September students across France have been holding protests against underfunding in education, and have been blocking access to many high schools.",
+      "summary_zh": "自9月下旬以来,法国各地的学生一直抗议教育资金不足,并一直阻碍许多高中入学。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "title_zh": "儿童在睡觉时被杀死,俄罗斯导弹在19所公寓中杀死。",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T18:12:58+00:00",
-      "summary": "The number of casualties rose throughout the day as rescuers searched the rubble",
-      "summary_zh": "在救援人员搜索瓦砾后,伤亡人数一天天上升"
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "title_zh": "德克萨斯州进行了自克里斯塔·派克的 致命注射以来的第一次美国处决",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T03:02:06+00:00",
+      "summary": "A death row inmate was executed by lethal injection on Wednesday evening in Texas, the first execution in the US since the failed attempt to put Christa Pike to death last week using the same method.",
+      "summary_zh": "一名死囚于德克萨斯州星期三晚间被注射致死药处死,这是自上周使用同样方法将克里斯塔·派克处死未遂以来,美国首次执行死刑."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "title_zh": "在学生抗议中,",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T17:47:31+00:00",
-      "summary": "Hundreds of thousands of protesters took to the streets across France on Tuesday, including in the capital Paris",
-      "summary_zh": "数十万抗议者星期二走上法国各地的街头,"
+      "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
+      "title_zh": "特朗普想在他的佛罗里达州高尔夫球俱乐部 建立一个类似戴维营的新退场",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T03:00:50+00:00",
+      "summary": "President Trump gestures before boarding Marine One after a Cabinet meeting at Camp David on 31 July 2026 in Thurmont, Maryland",
+      "summary_zh": "特朗普总统在2026年7月31日在马里兰州瑟蒙特的戴维营举行内阁会议后,在登上海军陆战队一号前作出姿态."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "She made India fall in love with women's cricket - now her era as captain is over",
+      "title_zh": "她让印度爱上了女人的板球 现在她的船长时代结束了",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T23:31:00+00:00",
+      "summary": "Harmanpreet Kaur is stepping down as the captain of the India women's cricket team",
+      "summary_zh": "哈曼普雷特·考尔下台 担任印度女子板球队队长"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
+      "title_zh": "为什么津巴布韦大亨\"威克奈尔爵士\"在非洲受到爱戴和憎恨",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T23:29:15+00:00",
+      "summary": "Wicknell Chivayo, who had a fleet of personalised luxury cars, loved white Rolls-Royces",
+      "summary_zh": "威克奈尔·奇瓦约,他拥有一队个性化的豪华轿车,他喜欢白色的劳斯莱斯"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+      "title_zh": "纽约法院正在审理911家庭对沙特阿拉伯的诉讼",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T23:18:40+00:00",
+      "summary": "Saudi government employee, Omar al-Bayoumi, seen in February 2000",
+      "summary_zh": "2000年2月见到的沙特政府雇员Omar al-Bayoumi"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+      "title_zh": "有毒的雾霾导致新加坡地标消失",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T22:10:20+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+      "title_zh": "厄立特里亚部队深入埃塞俄比亚提格雷地区,",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T18:40:52+00:00",
+      "summary": "Eritrean soldiers were involved in fighting in Tigray during the 2020-2022 conflict",
+      "summary_zh": "2020-2022年冲突期间,厄立特里亚士兵参与了提格雷的战斗"
     },
     {
       "source": "BBC News",
@@ -91,137 +361,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-07T16:00:18+00:00",
       "summary": "Residents of Kfar Aza attended a memorial ceremony on Wednesday for those killed on 7 October 2023",
-      "summary_zh": "Kfar Aza的居民参加了星期三为2023年10月7日遇害者举行的纪念仪式"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "title_zh": "与肯尼亚首例埃博拉病例有关的10人因筛查关切增加而被隔离",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T12:46:39+00:00",
-      "summary": "Those placed at the Ebola isolation facility are under constant observation",
-      "summary_zh": "被安置在埃博拉隔离设施的人不断受到观察"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "title_zh": "解开生命不对称之谜的诺贝尔化学奖",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T11:51:52+00:00",
-      "summary": "The winners are awarded the Nobel Prize medal and a share of 12.0 million Swedish Kroner ($1.25m; £900,000)",
-      "summary_zh": "获奖者获诺贝尔奖章并分享1200万瑞典克罗纳(125万美元;90万英镑)."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
-      "title_zh": "克里斯塔·派克被处决失败后发生了什么 她是怎么活下来的?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T10:01:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "title_zh": "斯里兰卡前第一夫人因涉嫌滥用儿童医院捐款而被捕",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T09:49:31+00:00",
-      "summary": "Rajapaksa was arrested two days after returning to Sri Lanka from Singapore",
-      "summary_zh": "拉贾帕克萨在从新加坡返回斯里兰卡两天后被捕。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The Republican candidates walking a Trump tightrope",
-      "title_zh": "共和党候选人走着特朗普的一圈",
-      "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-07T05:00:21+00:00",
-      "summary": "The Republican candidates walking a Trump tightrope",
-      "summary_zh": "共和党候选人走着特朗普的一圈"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-      "title_zh": "关于Christa Pike在死刑失败后“空前”的恢复,",
-      "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T23:42:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "title_zh": "许多尼泊尔人在洪水中横扫而去,",
-      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T22:17:56+00:00",
-      "summary": "In Hindu tradition, when a body cannot be recovered, a symbolic effigy is made from sacred \"kusha\" grass to represent the dead",
-      "summary_zh": "在印度教传统中,当尸体无法被找回时,用神圣的\"克沙\"草作象征化的雕像来代表死者"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
-      "title_zh": "看:暴动警察与学校抗议者发生冲突,",
-      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T21:22:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-      "title_zh": "饮酒与同意——康奈尔强奸指控在法律中揭露了\"卢浮宫\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T20:40:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "title_zh": "从电影到流出的价格 - 华纳兄弟的交易会如何影响你",
-      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T18:42:58+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What is pneumonic plague and how does it spread?",
-      "title_zh": "什么是肺炎瘟疫,如何传播?",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T15:35:22+00:00",
-      "summary": "Pneumonic plague is often described as the most virulent form of plague",
-      "summary_zh": "肺炎瘟疫常被描述为最毒的瘟疫形式"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "title_zh": "观察:瘟疫研究人员死后俄罗斯如何回应美国.",
-      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T13:32:42+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "title_zh": "观察:西班牙住房危机如何导致提前大选.",
-      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T09:03:30+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "Kfar Aza居民星期三出席了2023年10月7日遇难者追悼仪式"
     },
     {
       "source": "NHKニュース",
@@ -231,13 +371,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -247,37 +387,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
