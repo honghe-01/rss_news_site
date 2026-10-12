@@ -1,67 +1,177 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-10-11T00:59:58+00:00",
-  "count": 39,
+  "generated_at": "2026-10-12T01:19:54+00:00",
+  "count": 33,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "title_zh": "12人在袭击沙特首都利雅得机场时丧生",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T00:21:52+00:00",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "title_zh": "在两天内对利雅得机场进行的第二次胡塞罢工中,1人死亡,11人受伤",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T22:45:58+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "title_zh": "特朗普的\"能源停火\"主张受到泽连斯基欢迎,但俄罗斯保持沉默.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T21:36:40+00:00",
+      "summary": "Donald Trump has claimed that Russia and Ukraine have agreed to an \"energy ceasefire\", with Kyiv saying it would support such a move but Moscow yet to comment.",
+      "summary_zh": "唐纳德·特朗普声称,俄罗斯和乌克兰已同意\"能源停火\",基辅表示将支持此举,但莫斯科尚未发表评论."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "title_zh": "数十名金矿开采者在埃及-苏丹边境被袭击中丧生,",
+      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T21:12:44+00:00",
+      "summary": "File photo of gold prospectors in northern Sudan",
+      "summary_zh": "苏丹北部金探矿者档案照片"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "title_zh": "监视 : 特朗普能源停火主张背后是什么?.",
+      "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T20:55:02+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "title_zh": "红猩猩在大火后逃回婆罗洲森林",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T19:08:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "title_zh": "波兰拘留了涉嫌策划暗杀塔斯克总理的人",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T17:27:24+00:00",
+      "summary": "Donald Tusk thanked the police for \"swift and decisive action\"",
+      "summary_zh": "唐纳德·塔斯克感谢警方的\"摇摆而果断的行动\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "title_zh": "利雅得机场袭击了本已紧张的冲突的又一危险时刻",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T15:32:32+00:00",
+      "summary": "Houthi soldiers stand guard during a protest against Saudi Arabia, in Sana'a, Yemen, on Friday",
+      "summary_zh": "星期五在也门萨那,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "title_zh": "联合国表示,",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T15:32:23+00:00",
+      "summary": "IOM workers receiving migrants near Guhere, north of the port town of Obock",
+      "summary_zh": "在港口城镇奥博克以北Guhere附近接待移民的国际移民组织工作人员"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "title_zh": "Tusk说,",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T15:18:52+00:00",
+      "summary": "A 37-year-old caretaker was killed at a primary school in a town north of Warsaw this week",
+      "summary_zh": "这周在华沙以北的一所小学,一名37岁的看守被杀死"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "title_zh": "乌克兰打击了Yandex数据中心 第三次攻击俄罗斯科技巨头",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T14:38:10+00:00",
+      "summary": "Yandex's data centres have been targeted three times this week - like this one in Sasovo on Thursday",
+      "summary_zh": "Yandex的数据中心本周三被锁定 就像星期四在萨索沃的这个"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "title_zh": "Pope Leo在肺部发现肿块后进行手术",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T13:38:55+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "title_zh": "尼泊尔发生洪水,",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T12:03:52+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "title_zh": "德里认为更多抗议活动是自由的\"鸡叫\"组织领导人发誓要继续战斗。",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T11:11:42+00:00",
+      "summary": "Hundreds of protesters continued to be detained in Delhi on Sunday",
+      "summary_zh": "数以百计的抗议者在星期日在德里继续被拘留"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "title_zh": "尼泊尔中部发生山洪,建筑物被冲走",
+      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T10:34:02+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "title_zh": "美国司法部调查特朗普的电视网络",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T05:05:43+00:00",
+      "summary": "The row over the White House pool affected live TV coverage of Trump events last month",
+      "summary_zh": "白宫游泳池上的一行 影响了电视直播 川普事件上个月"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "title_zh": "在房间里: 当种族丑闻爆发时 布莱克平克的丽莎是什么感觉",
+      "title_zh": "在房间里: 随着种族丑闻的爆发 布莱克平克的丽莎是什么感觉",
       "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T23:31:35+00:00",
       "summary": "Lisa, who was born Pranpriya Manobal in Thailand, became one of the world's most-recognisable K-pop idols as a member of Blackpink",
-      "summary_zh": "出生于泰国的Pranpriya Manobal的Lisa,作为黑平克的一员,成为世界最知名的K-pop偶像之一."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "title_zh": "飓风伊萨亚斯袭击美国后,四人死亡,数千人失去动力",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T23:19:55+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "出生于泰国的Pranpriya Manobal的Lisa,作为\"黑平克\"的一员,成为了世界最知名的K-pop偶像之一."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "title_zh": "年轻人生活在恐惧中,害怕被人从街上抢走,卖给缅甸军队",
+      "title_zh": "年轻人害怕被抢走 被卖给缅甸军队",
       "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T22:13:08+00:00",
       "summary": "Authorities in Myanmar have been ordered to aggressively fulfil the military's recruitment quotas, leading to corruption, extortion and abductions",
       "summary_zh": "缅甸当局奉命积极履行军队征兵配额,导致腐败、勒索和绑架"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "title_zh": "俄罗斯滑翔机炸弹袭击Zaporizhzhia至少造成20人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T20:51:12+00:00",
-      "summary": "A number of people are believed to be still under the rubble of the destroyed apartment building in Zaporizhzhia",
-      "summary_zh": "据信,在Zaporizhzhia被毁公寓楼的瓦砾下仍有一些人。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "title_zh": "特朗普在Zelensky谴责柴油交易之后,",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T19:28:28+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -71,27 +181,27 @@
       "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T19:25:03+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "title_zh": "远征队希望能在遥远的岛上找到飞行员阿梅莉亚·埃尔哈特的飞机",
+      "title_zh": "远征队希望能在遥远的岛上 找到飞行员艾米莉亚·埃尔哈特的飞机",
       "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T18:22:29+00:00",
       "summary": "The research team departed Kiribati's capital on Wednesday and hope to arrive at the suspected wreck site by Monday",
-      "summary_zh": "研究小组星期三离开基里巴斯首都,希望星期一抵达疑似沉船地点。"
+      "summary_zh": "研究组周三离开基里巴斯首都 希望周一能抵达疑似沉船现场"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "title_zh": "美国杀人犯克里斯塔 处决失败10天后Pike出院",
+      "title_zh": "美国杀人犯克莉丝塔 Pike被处决10天后出院",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T17:44:26+00:00",
       "summary": "US death row inmate Christa Pike has been discharged from hospital following her botched execution at the end of last month, her lawyers have said.",
-      "summary_zh": "美国死囚Christa Pike在上个月末被处决后,"
+      "summary_zh": "美国死囚克里斯塔·派克(Christa Pike)在上个月末被处决后出院,"
     },
     {
       "source": "BBC News",
@@ -107,7 +217,7 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "Woman injures three people in third Poland school knife attack in a week",
-      "title_zh": "一周内波兰学校第三次用刀袭击 造成3人受伤",
+      "title_zh": "一周内,波兰学校第三次用刀袭击,造成3人受伤",
       "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T14:58:55+00:00",
       "summary": "A woman has been arrested after injuring three people in a third knife attack recorded at schools in Poland this week.",
@@ -116,32 +226,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "title_zh": "苏丹准军事部队的无人机袭击在埃塞俄比亚边境附近造成41人死亡,",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:49:32+00:00",
-      "summary": "A drone attack by Sudan's paramilitary forces has killed 41 people in the country's Blue Nile region bordering Ethiopia, a rights group has said.",
-      "summary_zh": "苏丹准军事部队发动无人机袭击,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
-      "title_zh": "为何数以百计的“cockroach”抗议者被拘留在德里?",
+      "title_zh": "为什么成百上千的\"cockroach\"抗议者在德里被拘留?",
       "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T14:13:13+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "title_zh": "在德里被拘留的数百人中,",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T12:29:31+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
@@ -151,37 +241,17 @@
       "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T12:28:51+00:00",
       "summary": "Ex-headmaster Ahmad Imanuddin Sumar, known to students as Abah, has been accused of sexual abuse",
-      "summary_zh": "前校长Ahmad Imanuddin Sumar, 被学生称为Abah, 被指控性虐待"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "title_zh": "Rogue Anthropic AI特工在未破谋杀案中给警方假情报",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T10:06:23+00:00",
-      "summary": "AI tech company Anthropic was running a test that involved interactions with randomly selected websites, when it sent a fake homicide tip to police",
-      "summary_zh": "AI科技公司Anthropic正在运行一个测试, 涉及与随机选择的网站的互动, 当它向警方发送一个假的凶杀小说"
+      "summary_zh": "前校长Ahmad Imanuddin Sumar, 被学生称为Abah,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-      "title_zh": "美国近一个世纪前停止公开处决,",
+      "title_zh": "美国近一世纪前停止公开处决,",
       "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T09:17:36+00:00",
       "summary": "An estimated crowd of 20,000 gathered in Kentucky in 1936 for the public hanging of Rainey Bethea",
-      "summary_zh": "1936年肯塔基州估计有两万人聚集,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How the trial of murdered Australian brothers and US friend unfolded",
-      "title_zh": "对被谋杀的澳大利亚兄弟和美国朋友的审判是如何展开的",
-      "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T06:04:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "估计有两万人于1936年聚集在肯塔基州,"
     },
     {
       "source": "BBC News",
@@ -191,137 +261,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-10T04:51:57+00:00",
       "summary": "Three of the four Nord Stream pipelines were ruptured by explosions in September 2022",
-      "summary_zh": "四条北流管道中有三条在2022年9月因爆炸破裂"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "title_zh": "Flydubai攻击者在澳大利亚开始“向极端主义和恐怖主义发展”,",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T04:34:55+00:00",
-      "summary": "The Flydubai flight was diverted to Saudi Arabia after passengers managed to take back the aircraft's controls",
-      "summary_zh": "Flydubai航班在乘客设法收回飞机的控制后被转往沙特阿拉伯"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "title_zh": "美国乡村音乐明星艾拉·兰利因\"安全威胁\"而取消节目.",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T02:02:54+00:00",
-      "summary": "Ella Langley apologised to her fans, describing her decision as \"incredibly difficult\"",
-      "summary_zh": "艾拉·兰利向她的粉丝们道歉,形容她的决定\"令人难以置信的困难\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-      "title_zh": "埃博拉患者在3个国家旅行,但无人发现,",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T00:00:08+00:00",
-      "summary": "Nearly 70 potential contacts have been placed under quarantine in Nairobi",
-      "summary_zh": "近70名潜在接触者已在内罗毕接受检疫"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-      "title_zh": "法国学校的抗议活动表明,",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T23:24:33+00:00",
-      "summary": "Hundreds of thousands of students have protested across France since the end of last month",
-      "summary_zh": "上月底以来,法国各地已有数十万学生抗议"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "title_zh": "分析:特朗普的冲击俄罗斯交易凸显出抑制燃料价格的压力越来越大",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T22:30:22+00:00",
-      "summary": "Donald Trump's decision to import Russian fuel to the US represents a remarkable about-face from the president.",
-      "summary_zh": "唐纳德·特朗普(Donald Trump)决定向美国进口俄罗斯燃料,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "title_zh": "三名男子在墨西哥谋杀澳大利亚兄弟和美国朋友",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T21:55:51+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "title_zh": "JD Vance对行刑队的行刑表示怀疑 并说他不会看",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T21:50:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
-      "title_zh": "BBC破解纽约市ICE枪击事件后的视频",
-      "link": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T20:20:09+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thai Queen makes first solo flight in fighter jet",
-      "title_zh": "泰女王在战斗机上第一次独飞",
-      "link": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T19:48:26+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "title_zh": "俄罗斯搜索引擎 Yandex 在乌克兰袭击数据中心后挣扎",
-      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T17:14:44+00:00",
-      "summary": "Smoke billows from Yandex's Sasovo hub following a Ukrainian strike on Thursday",
-      "summary_zh": "星期四乌克兰罢工后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "title_zh": "希特勒墨索里尼当选秘鲁市长",
-      "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T16:32:22+00:00",
-      "summary": "Hitler Mussolini Simeon Flores was the candidate for left-wing Ahora Nación",
-      "summary_zh": "希特勒墨索里尼·西梅翁·弗洛雷斯是左翼阿霍拉·纳西翁的候选人."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-      "title_zh": "胡德堡幸存者支持枪手被行刑队处决 但质疑现场直播",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T09:43:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-      "title_zh": "来见见印度的热衷抗争者,",
-      "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T07:19:24+00:00",
-      "summary": "Neha Bora is a PhD student at Delhi's Jawaharlal Nehru University",
-      "summary_zh": "Neha Bora是德里贾瓦哈拉尔尼赫鲁大学的博士生"
+      "summary_zh": "四条北流管中有三条于2022年9月被炸断"
     },
     {
       "source": "NHKニュース",
@@ -331,13 +271,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
+      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两人死亡",
+      "title_zh": "爱知县两起死亡案",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -347,37 +287,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
+      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手比赛中的乐趣",
+      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
+      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "熊本地震发生于十年前的地震附近",
+      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
+      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
