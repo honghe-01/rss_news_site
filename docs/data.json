@@ -1,27 +1,157 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-10-14T01:12:55+00:00",
-  "count": 30,
+  "generated_at": "2026-10-15T00:31:48+00:00",
+  "count": 35,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
-      "title_zh": "我们所知道的六旗起降所起死回生的人",
-      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-14T00:59:16+00:00",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "title_zh": "澳大利亚有史以来第一位米其林明星 来到一个州的11家餐馆",
+      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T22:31:10+00:00",
+      "summary": "Magill Estate Restaurant in Adelaide, whose menu is pictured here, received two Michelin stars",
+      "summary_zh": "阿德莱德的麦吉尔庄园餐厅 其菜单在这里被描绘 收到了两颗米其林星"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "title_zh": "穆斯克说美国政府可能支持乌克兰无人机减速",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T20:55:24+00:00",
+      "summary": "Elon Musk has suggested that the US government may be behind restrictions on the speed at which some of Ukraine's weapons can travel and stay connected to SpaceX's Starlink internet network.",
+      "summary_zh": "Elon Musk表示美国政府可能支持限制乌克兰部分武器出行的速度,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why Zelensky's meeting with Burnham matters",
+      "title_zh": "泽伦斯基为什么和伯纳姆见面",
+      "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T20:41:03+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "title_zh": "Pope诊断患有肺癌 但手术成功 梵蒂冈说",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-14T00:17:00+00:00",
-      "summary": "Pope Leo arrived at Rome's Gemelli Hospital ahead of his surgery on Tuesday",
-      "summary_zh": "教宗利奥星期二手术前 到达了罗马Gemelli医院"
+      "title": "Student protesters attack government buildings in Albania",
+      "title_zh": "学生抗议者攻击阿尔巴尼亚政府大楼,",
+      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T20:29:05+00:00",
+      "summary": "The scene in Tirana, Albania's capital on Wednesday",
+      "summary_zh": "星期三阿尔巴尼亚首都地拉那的场景"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "title_zh": "为什么Starlink的互联网在乌克兰战场上如此重要?",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T19:52:04+00:00",
+      "summary": "Starlink satellites operated by Elon Musk's SpaceX provide high-speed internet - something modern war relies heavily on.",
+      "summary_zh": "由Elon Musk's SpaceX运营的星际链接卫星提供高速互联网——现代战争严重依赖的东西."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What if you could turn off your algorithm? Australia is about to try",
+      "title_zh": "如果你可以关闭你的算法呢? 澳大利亚即将尝试",
+      "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T18:00:54+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "title_zh": "肯尼亚确认第二起埃博拉病例——第一受害者亲属",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T17:23:01+00:00",
+      "summary": "The Ebola virus spreads through contact with infected bodily fluids such as blood or vomit",
+      "summary_zh": "埃博拉病毒通过接触血液或呕吐等被感染的体液而传播"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "title_zh": "在2022年以来最大幅度的削减中,",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T16:47:32+00:00",
+      "summary": "Netflix has said it will cut 1,000 jobs globally as the streaming giant faces competition from rivals.",
+      "summary_zh": "Netflix表示将在全球削减1000个工作岗位,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "title_zh": "Burnham说他想\"修复乌克兰和美国之间的桥梁\"",
+      "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T15:56:57+00:00",
+      "summary": "Prime Minister Andy Burnham has said he will try to \"repair bridges\" between Ukraine and the United States, ahead of a meeting with President Volodymyr Zelensky at Downing Street.",
+      "summary_zh": "总理安迪·伯纳姆(Andy Burnham)表示,在与总统沃洛德米尔·泽连斯基在唐宁街会面之前,他将尝试\"修复乌克兰和美国之间的桥梁\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "title_zh": "厕所纸和秘密录音机: 关于沙特OpenAI工程师被捕的事",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T15:54:04+00:00",
+      "summary": "A recording device (R) was wrapped in toilet paper and plugged into a TV (L)",
+      "summary_zh": "一个录音设备(R)被用卫生纸包裹并插入了电视(L)"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
+      "title_zh": "关于乔治亚州致命的\"六旗\"滑轮事件",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T15:46:46+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "title_zh": "新加坡Hormuz海峡被射弹沉没的集装箱船说",
+      "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T15:34:19+00:00",
+      "summary": "The China-flagged container shipping vessel Hui Fa off Khor Fakkan, in the Gulf of Oman, on Tuesday",
+      "summary_zh": "悬挂中国国旗的集装箱运输船 \" Hui Fa \" 号于星期二在阿曼湾的Khor Fakkan附近"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "title_zh": "美国的通胀率比预期的要高,",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T15:26:14+00:00",
+      "summary": "US inflation rose by more than expected in the year to September, according to official figures, in the final data release before the midterm elections next month.",
+      "summary_zh": "根据官方数字,在下月中期选举之前的最后数据发布中,美国通货膨胀在截至9月的一年里上升了超过预期。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "title_zh": "医生说,Pope在手术后行走并按预期恢复",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T15:12:46+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "title_zh": "爱尔兰共和国各地成千上万工人罢工",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T14:18:18+00:00",
+      "summary": "The strike action will last 24 hours",
+      "summary_zh": "罢工行动将持续24小时"
     },
     {
       "source": "BBC News",
@@ -29,15 +159,85 @@
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "title_zh": "德国审判乌克兰人 被控炸毁北流管道",
       "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T23:42:22+00:00",
-      "summary": "Serhii K was extradited to Germany from Italy late last year",
-      "summary_zh": "Serhii K去年从意大利被引渡到德国"
+      "published_at": "2026-10-14T13:41:51+00:00",
+      "summary": "Serhii Kuznetsov (C) was pictured in court on Wednesday as the trial got under way",
+      "summary_zh": "Serhii Kuznetsov(C)在审判开始之际于星期三出庭"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
-      "title_zh": "看:\"旅行\"——目击证人记起一瞬间,人从六旗过山车上掉出",
+      "title": "Are the European Women's World Cup play-offs working?",
+      "title_zh": "欧洲女子世界杯季后赛是否有效?.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T13:25:56+00:00",
+      "summary": "England have lost just once this year but have still not qualified for the 2027 Women's World Cup",
+      "summary_zh": "英格兰今年刚刚输了一次 但仍然没有资格参加2027年女子世界杯"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know about the Pope's lung cancer diagnosis",
+      "title_zh": "关于教宗的肺癌诊断我们所知",
+      "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T12:37:33+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "title_zh": "毛里求斯被警察枪杀后数十年最严重的暴乱",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T11:24:25+00:00",
+      "summary": "Mauritius is a well known as a tourism and financial services hub",
+      "summary_zh": "毛里求斯是一个著名的旅游和金融服务中心"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "title_zh": "土耳其警方突袭反对派电视台,停止直播",
+      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T10:50:11+00:00",
+      "summary": "Police in riot gear were seen outside the office in Istanbul early on Wednesday",
+      "summary_zh": "星期三早些时候在伊斯坦布尔的办公室外看到警用防暴装备的警察"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
+      "title_zh": "观察:俄罗斯打击乌克兰时被摧毁的平地",
+      "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T09:25:03+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "title_zh": "在土耳其近海发现的世界上最古老的沉船",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T05:00:35+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+      "title_zh": "观看:香港民众排队观看梵高画作60年来首次揭幕.",
+      "link": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T04:21:25+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "title_zh": "观察:目击者描述\"创伤\"的一瞬间,男人从六旗滚筒上掉出",
       "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-13T23:42:15+00:00",
       "summary": "This video can not be played",
@@ -46,42 +246,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "title_zh": "津巴布韦作者否认使用AI撰写获奖故事",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T23:31:10+00:00",
-      "summary": "Simbarashe Kundizeza says he was inspired by a poem about fish tanks to write a story about his family struggles in Zimbabwe",
-      "summary_zh": "Simbarashe Kundizeza说,他受到一首关于鱼缸的诗的启发,写下他在津巴布韦的家庭斗争的故事。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "title_zh": "沙特联军击中也门燃料库后,在利雅得附近截获了导弹",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T22:29:55+00:00",
-      "summary": "The Houthi-run Yemen Petroleum Company assured residents of Sanaa that it had sufficient fuel supplies",
-      "summary_zh": "Houthi经营的也门石油公司向萨那居民保证,它有足够的燃料供应。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "title_zh": "Zelensky说,",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T22:14:33+00:00",
-      "summary": "Firefighters work at the site of an apartment building damaged by a Russian missile strike",
-      "summary_zh": "消防员在被俄罗斯导弹袭击损坏的一栋公寓大楼所在地工作"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "title_zh": "巴基斯坦已经封锁了伊姆兰汗的据点 但它可能会反击",
-      "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T22:07:40+00:00",
-      "summary": "Thousands of Khan's supporters have been rallying for days throughout the province demanding his release",
-      "summary_zh": "数以千计的可汗支持者在全省聚集数日,要求释放他"
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "title_zh": "图片:2026年野生动物摄影师获奖条目",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-13T23:26:54+00:00",
+      "summary": "An emotional scene of an elephant carrying a deceased calf has earned Italian photographer Federico Veronesi the title of Wildlife Photographer of the Year 2026.",
+      "summary_zh": "意大利摄影师费德里克·维罗尼西获得了2026年野生动物摄影师的称号。"
     },
     {
       "source": "BBC News",
@@ -96,142 +266,22 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Who's to blame for the toxic smog choking South East Asia?",
-      "title_zh": "东南亚的毒烟雾 到底是谁干的?",
+      "title": "Who's to blame for the toxic haze choking South East Asia?",
+      "title_zh": "东南亚的毒雾会窒息,",
       "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-13T22:01:43+00:00",
-      "summary": "Wildfires have been raging in Kalimantan, Indonesia for weeks",
-      "summary_zh": "印尼加里曼丹的野火持续了几周"
+      "summary": "Persistent haze this year has prompted Indonesian authorities to step up efforts to punish offenders",
+      "summary_zh": "今年的雾霾一直持续,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "title_zh": "为何中国的孤军奋战,",
-      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T22:00:20+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "title_zh": "沙特人被控在OpenAI办公室安装“精密”录音设备",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
+      "title_zh": "OpenAI办公室负责植入记录装置的沙特雇员",
       "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-13T21:42:49+00:00",
       "summary": "Prosecutors released CCTV images of the suspect allegedly checking on the secret recorder",
       "summary_zh": "检察官发布了疑犯的闭路电视照片 检查秘密录像机"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "title_zh": "前黑帮老大因策划图帕克·沙库尔被害被判40年",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T19:51:14+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "title_zh": "特朗普在腐败指控后推翻了金伯利·吉福伊尔出任美国驻希腊大使的职务.",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T19:23:28+00:00",
-      "summary": "President Trump told reporters earlier this week he was \"not happy\" with the allegations against Guilfoyle.",
-      "summary_zh": "特朗普总统本周早些时候告诉记者,他对针对吉福伊尔的指控\"不满意\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "title_zh": "康奈尔禁止所有兄弟会的 帮派性攻击指控",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T18:25:28+00:00",
-      "summary": "State officials and others have criticised how Cornell and local prosecutors handled the case",
-      "summary_zh": "国家官员和其他人批评康奈尔和地方检察官处理此案的方式"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-      "title_zh": "\"如果我们不尖叫,他们不会听我们的\": 学生抗议者在巴黎向英国广播公司演讲",
-      "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T18:23:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "title_zh": "阿根廷把联合王国作为福克兰群岛石油勘探法律索赔的目标",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T17:36:43+00:00",
-      "summary": "The Argentinian government has begun legal action seeking to stop the exploration of oil and gas fields north of the Falkland Islands in an escalating row with the UK.",
-      "summary_zh": "阿根廷政府已开始采取法律行动,试图阻止福克兰群岛以北油田和天然气田的勘探活动,这与英国的勘探活动呈上升趋势。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "title_zh": "骇人听闻的目击证人讲述了在六旗发生的致命滚石事件。",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T17:10:50+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inside Katie Zacharia's very brief White House briefing",
-      "title_zh": "在凯蒂·扎卡里娅的 白宫简报里",
-      "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T17:04:37+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "title_zh": "军情五处酋长警告来自俄罗斯、伊朗和大赦国际对英国的威胁",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T15:52:15+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "title_zh": "Zelensky说数据中心的罢工 击落了俄国佬是对的吗?",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T13:27:31+00:00",
-      "summary": "Claims that Ukrainian strikes on Russian data centres reduced Kremlin-linked bot networks have spread widely online, but experts have told BBC Verify there is no evidence the attacks have significantly reduced them.",
-      "summary_zh": "但专家告诉BBC校验没有证据显示这些攻击已大大减少。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "title_zh": "注意: 已解除对Christa Pike的死刑",
-      "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T12:03:51+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "title_zh": "打破坏演员RJ Mitte死亡34岁",
-      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-13T08:03:34+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
     },
     {
       "source": "NHKニュース",
