@@ -1,37 +1,197 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-10-17T00:27:04+00:00",
-  "count": 39,
+  "generated_at": "2026-10-18T00:02:01+00:00",
+  "count": 34,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "title_zh": "在西岸遭到以色列定居者袭击的欧洲外交官",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T23:52:38+00:00",
+      "summary": "Masked settlers are accused of attacking the convoy",
+      "summary_zh": "蒙面定居者被指控袭击车队"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "title_zh": "照片显示,在金正恩避暑地附近有50米长的豪华小船和滑水",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T22:09:50+00:00",
+      "summary": "An 80m (263ft) luxury vessel has been repeatedly spotted in satellite images off North Korea's Wonsan coast from July to mid-October this year.",
+      "summary_zh": "今年7月至10月中旬,在朝鲜元山沿岸的卫星图像中一再发现一艘80米(263英尺)的豪华船只。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "title_zh": "随着法国国内动乱的爆发,",
+      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T21:33:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anti-government protesters battle with police in Albania",
+      "title_zh": "反政府抗议者在阿尔巴尼亚与警察作战",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T20:53:00+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "title_zh": "在法国发生暴力冲突、抢劫和建筑物大火,",
+      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T20:52:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "title_zh": "特朗普放弃数项俄罗斯制裁,",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T19:19:19+00:00",
+      "summary": "Donald Trump blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens.",
+      "summary_zh": "唐纳德·特朗普(Donald Trump)在即将生效的两天前就阻止了对俄罗斯的多项制裁,因为与乌克兰同行沃洛迪米尔·泽连斯基(Volodymyr Zelensky)一连串加深了制裁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "title_zh": "在印度的印度节日活动上 至少有17人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T19:19:16+00:00",
+      "summary": "At least 17 people have been killed and many more injured in a crush at an event in the Indian city of Kolkata to mark the Hindu festival of Durga Puja, officials say.",
+      "summary_zh": "在印度加尔各答市为纪念印度教徒杜尔加·普贾节而举行的一场活动中,至少有17人丧生,还有更多人受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "title_zh": "Pope在肺癌手术后几天出院",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T13:51:36+00:00",
+      "summary": "Pope Leo XIV has been discharged from Rome's Gemelli Hospital, just four days after an operation to remove a cancerous growth from his lung.",
+      "summary_zh": "教宗利奥十四世已经从罗马的格梅利医院出院,就在一次手术去除他肺部癌症生长的4天后."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "title_zh": "中国的幼稚园主 被毒死了几百个孩子 被关了一辈子",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T12:11:58+00:00",
+      "summary": "Kitchen staff was instructed to use inedible paint to enhance the look of meals to attract more students, the court found",
+      "summary_zh": "厨房工作人员奉命使用不可食用的涂料,加强餐食的外观,吸引更多的学生,法庭发现"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "title_zh": "稀有粉红钻石在业余抢劫100年后 在法国展出",
+      "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T10:46:41+00:00",
+      "summary": "The nine-carat, pear-shaped gemstone was one of few royal jewels to survive the French Revolution",
+      "summary_zh": "九克拉的梨形宝石 是法国大革命中幸存下来的少数皇家珠宝之一"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "title_zh": "老师在武装爸爸射杀疑犯之前 与美国学校攻击者作战",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T09:58:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Katie Zacharia leaving White House role less than five days into job",
+      "title_zh": "Katie Zacharia 离开白宫 工作不到5天",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T09:14:10+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "title_zh": "三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而分别入狱158年",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T03:11:10+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "title_zh": "巴西认为亚马逊森林砍伐创纪录,",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T02:33:09+00:00",
+      "summary": "Brazil's government says deforestation rates in the country's Amazon and savanna regions have fallen to record lows ahead of a presidential election run-off in which the rainforest's future is a key issue.",
+      "summary_zh": "巴西政府表示,该国亚马逊和热带草原地区的毁林率已经下降,在总统大选前创下低纪录,其中雨林的未来是一个关键问题."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "title_zh": "塞尔玛女演员 布莱尔说她\"无意伤害任何人\" 在飞机争吵中",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T01:55:45+00:00",
+      "summary": "US actress Selma Blair has spoken out after being accused of assaulting multiple people on a flight to New York.",
+      "summary_zh": "美国女演员塞尔玛·布莱尔(Selma Blair)在被指控在飞往纽约的航班上袭击多人后发表言论."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "title_zh": "加拿大30个获救的贝卢加斯的不确定未来",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T01:18:08+00:00",
+      "summary": "Marineland was once an iconic Canadian attraction, known for its Everyone loves Marineland jingle",
+      "summary_zh": "海洋乐园曾是加拿大的标志性景点,以人人喜爱的海洋乐园Jingle著称."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "title_zh": "但也可能是标志性的德里抗议网站的终点。",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T00:41:58+00:00",
+      "summary": "The \"cockroach\" demonstrations over the summer of 2026 could well become the last time Jantar Mantar was home to a sustained protest movement",
+      "summary_zh": "2026年夏天的「胆小鬼」示威,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "title_zh": "法官对演员Timothy Busfield 提出性虐待儿童的指控",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T00:38:34+00:00",
+      "summary": "A judge in the US state of New Mexico has thrown out charges against Emmy-winning actor Timothy Busfield, saying there were issues with how prosecutors presented the case.",
+      "summary_zh": "美国新墨西哥州一名法官对艾美获奖演员蒂莫西·布斯菲尔德提出指控,称检察官如何陈述案件有问题."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "title_zh": "特朗普“完全错误”限制对乌克兰的支持,",
+      "title_zh": "特朗普\"完全错误\"限制对乌克兰的支持,",
       "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-16T23:54:35+00:00",
-      "summary": "Defence Minister Guido Crosetto has warned against showing any weakness to Russia's Vladimir Putin",
-      "summary_zh": "国防部长吉多·克罗塞托警告不要对俄罗斯的弗拉基米尔·普京表现出任何软弱"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "title_zh": "Pope自手术和癌症诊断以来第一次想象",
-      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T23:20:37+00:00",
-      "summary": "Pope Leo thanked medical staff as he was pictured for the first time since his lung surgery",
-      "summary_zh": "教宗利奥感谢医护人员,因为他在肺外科手术后第一次被描绘出来"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "title_zh": "俄勒冈州教师在武装爸爸射杀嫌犯之前 与学校袭击者打了一架",
-      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T23:07:38+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -46,42 +206,22 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Katie Zacharia leaving her White House role less than five days on the job",
-      "title_zh": "凯蒂·扎卡里娅 离开白宫 工作不到5天",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T21:05:05+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "title_zh": "特朗普否认限制乌克兰进入Starlink网络",
-      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T19:33:48+00:00",
-      "summary": "US President Donald Trump has denied limiting Ukraine's access to Starlink's sister internet network Starshield after it restricted drone speed, hampering Kyiv's ability to protect itself from Russian attacks.",
-      "summary_zh": "美国总统唐纳德·特朗普否认限制乌克兰在限制无人机速度后进入Starlink的姊妹互联网网络\"星屏\"(Starshield),阻碍了基辅保护自己免受俄罗斯袭击的能力."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "What we learned from heated US midterm Senate debates",
       "title_zh": "我们从激烈的美国参议院中期辩论中学到的",
       "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-16T19:09:37+00:00",
       "summary": "Susan Collins shakes Troy Jackson's hand",
-      "summary_zh": "苏珊·柯林斯和特洛伊·杰克逊握手"
+      "summary_zh": "苏珊·柯林斯握着特洛伊·杰克逊的手"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "title_zh": "毒算法不会放过他们 现在澳大利亚想要开关",
+      "title_zh": "有毒的算法不会让他们走 现在澳大利亚想要一个关机",
       "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-16T18:11:29+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -91,7 +231,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-16T16:00:30+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -101,227 +241,37 @@
       "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-16T15:45:10+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "title_zh": "从南非涉嫌非法康复中心救出锁链病人",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T14:57:51+00:00",
-      "summary": "Officials uncovered \"gross inhuman conditions\" when they raided the centre",
-      "summary_zh": "官员突袭中心时发现了\"严重不人道的条件\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Albanian protests turn violent: What we know",
-      "title_zh": "阿尔巴尼亚抗议演变为暴力:我们所知道的",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T14:33:32+00:00",
-      "summary": "Tirana has seen four days of clashes and the protests are spreading",
-      "summary_zh": "地拉那发生了四天的冲突 抗议活动正在蔓延"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "title_zh": "在西岸被以色列定居者所伤的巴勒斯坦人和美国记者",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T14:31:04+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "title_zh": "父亲在二号儿子死后被罚款 在塞浦路斯酒店倒下",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T14:21:32+00:00",
-      "summary": "Joshua Foster \"lost control\" of his son after placing him on a windowsill, a court in Cyprus heard",
-      "summary_zh": "Joshua Foster在把他放在窗台上后 失去了对儿子的\"控制\" 塞浦路斯的一个法院听到"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Did Tesla really just unveil a flying car?",
-      "title_zh": "看:特斯拉真的刚刚揭开一辆车吗?",
+      "title_zh": "特斯拉真的刚刚揭开了飞车吗?",
       "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-16T12:32:31+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "title_zh": "印度的'cockroach'党创始人 在抗议前被拘留",
-      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T11:44:31+00:00",
-      "summary": "Abhijeet Dipke's youth-led Cockroach Janta Party (CJP) has drawn thousands onto the streets in recent months",
-      "summary_zh": "Abhijeet Dipke青年领导的Cockroach Janta党(CJP)近几个月来吸引上千人上街,"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-      "title_zh": "以色列定居者在橄榄收割期间袭击西岸的巴勒斯坦人",
+      "title_zh": "以色列定居者在橄榄收获期间袭击西岸的巴勒斯坦人",
       "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-16T11:40:41+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "title_zh": "中国告诉以色列停止“强制建立”西岸定居点",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T08:45:54+00:00",
-      "summary": "China has been positioning itself as a mediator for conflicts in the Middle East",
-      "summary_zh": "中国一直把自己定位为中东冲突的调停者"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "title_zh": "俄勒冈州小学枪击案是如何展开的",
+      "title_zh": "很难相信俄勒冈州小学枪击案是如何发生的",
       "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-16T08:27:16+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "title_zh": "随着石油出口放缓,霍尔木兹附近的船只攻击报告达到了创纪录的地步",
-      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T05:00:17+00:00",
-      "summary": "The number of ships that have reported being attacked in and around the Strait of Hormuz has hit a record high, BBC Verify analysis of data from a UK maritime agency shows.",
-      "summary_zh": "BBC核查英国一家海事机构提供的数据分析显示,据报在霍尔穆兹海峡及其周围遭到袭击的船只数量创下历史新高。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "They fled Russia, but the West sent them back",
-      "title_zh": "他们逃出俄国,但西方把他们送回去",
-      "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T04:57:28+00:00",
-      "summary": "Criticising the government, whether on the street or on social media, can result in a prison sentence in Russia (file pic)",
-      "summary_zh": "批评政府,无论是在街头还是在社交媒体上,都会导致俄罗斯的监禁(filepic)"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "title_zh": "也门总统府遭到胡塞导弹攻击,",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T23:38:46+00:00",
-      "summary": "Verified video footage showed smoke above the presidential palace in Aden",
-      "summary_zh": "经核实的录像显示,在亚丁总统府上空有烟雾"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "title_zh": "警方说,Tip -off挫败了美国十几岁疑犯攻击印度教寺庙的阴谋",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T23:27:21+00:00",
-      "summary": "A Taco Bell cashier's alleged plot for a mass shooting at a Hindu temple near Chicago was thwarted by a tip-off from one of his colleagues, investigators say.",
-      "summary_zh": "一个塔克贝尔的收银员 被指控密谋在芝加哥附近的一所印度教寺庙进行大规模枪击 被他的一位同事透露的消息所挫败 调查人员说"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Are student protests being manipulated ahead of France's presidential election?",
-      "title_zh": "学生抗议活动是否在法国总统选举前被操纵?",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T23:25:06+00:00",
-      "summary": "The French prime minister has accused the radical left of weaponising the high school movement for electoral advantage",
-      "summary_zh": "法国总理指责激进左翼将高中运动武器化,以争夺选举优势."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "title_zh": "在海峡隧道的法国一侧,有19名伤员停了火车",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T22:37:21+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "title_zh": "特朗普叫停胡德堡袭击者被行刑队处死",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T17:47:22+00:00",
-      "summary": "Thirteen unarmed US military personnel were killed in a shooting rampage at Fort Hood in Texas",
-      "summary_zh": "13名手无寸铁的美国军人在德克萨斯州胡德堡被枪击致死"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "title_zh": "观察:\"星际通\"与乌克兰-俄罗斯战争有什么关系?.",
-      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T17:31:37+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-      "title_zh": "学校头巾禁令引发阿塞拜疆罕见的抗议活动,",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T16:15:06+00:00",
-      "summary": "These schoolgirls were not allowed to enter classes because of their headscarves",
-      "summary_zh": "这些女学生因为头巾而不准上课"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "title_zh": "巴基斯坦至少有33名学生和教师在屋顶倒塌后被炸死",
-      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T15:26:16+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-      "title_zh": "无人机袭击后七名船员失踪 油轮在罗马尼亚海岸被放火烧死",
-      "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T14:51:30+00:00",
-      "summary": "A search and rescue operation involving boats and helicopters is now continuing in rough seas, Romania's authorities say",
-      "summary_zh": "罗马尼亚当局说,目前正在进行有船只和直升机参与的搜救行动。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "title_zh": "为什么Starlink的互联网在乌克兰战场上如此重要?",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T11:25:19+00:00",
-      "summary": "The Starlink terminals, which connect to thousands of SpaceX satellites in obit, are often camouflaged on the battlefield",
-      "summary_zh": "Starlink终端连接了数千颗卫星 在战场上经常被伪装"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-      "title_zh": "州长说,84年来 伊斯坦布尔降下最重的雨量 后有两人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-15T10:05:29+00:00",
-      "summary": "Flooding in the Kucukcekmece district of Istanbul",
-      "summary_zh": "伊斯坦布尔Kucukcekmece区的洪水"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "NHKニュース",
@@ -331,13 +281,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -347,37 +297,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
