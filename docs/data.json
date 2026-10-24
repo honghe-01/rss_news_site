@@ -1,397 +1,217 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-10-23T00:39:39+00:00",
-  "count": 46,
+  "generated_at": "2026-10-24T00:38:44+00:00",
+  "count": 28,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "title_zh": "西藏地震造成16人死亡,",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-23T00:25:30+00:00",
-      "summary": "Firefighters are seen helping residents injured by the quake in Baqên, Tibet.",
-      "summary_zh": "人们看到消防员帮助西藏巴肯地震受伤的居民。"
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "title_zh": "阿根廷放弃了对米莱总统秘密欺诈的调查",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T20:59:39+00:00",
+      "summary": "Javier Milei had denied crypto fraud allegations",
+      "summary_zh": "Javier Milei否认了秘密欺诈指控"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "title_zh": "特朗普下令在BBC诉讼中宣誓回答问题.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-23T00:10:46+00:00",
-      "summary": "A US judge has ordered President Donald Trump to answer questions under oath in his defamation lawsuit against the BBC by 11 December.",
-      "summary_zh": "一名美国法官命令总统唐纳德·特朗普在12月11日前对英国广播公司的诽谤诉讼中宣誓回答问题."
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "title_zh": "自由的美国公民在俄罗斯监狱受到酷刑,",
+      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T20:18:13+00:00",
+      "summary": "Stephen Hubbard (second from left in the first row) was flown back home on a US plane earlier this week",
+      "summary_zh": "Stephen Hubbard(第一排左侧第二位)本周早些时候乘美国飞机回国"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "title_zh": "在约旦的教堂葬礼上 被枪手枪杀了7人 官员说",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T19:46:30+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "title_zh": "Macron说,在巴黎附近致命射击是“种族主义恐怖袭击”。",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T19:42:08+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "title_zh": "白宫说梅拉尼娅·特朗普为乌克兰城市“濒临灾难”促成停战。",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T19:30:19+00:00",
+      "summary": "These residents were able to get out of Oleshky in spring this year",
+      "summary_zh": "这些居民今年春天能离开奥勒什基"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "title_zh": "乌克兰说,在特朗普说取消限制后,Starlink仍然受到限制.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T18:52:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: CCTV footage shows gunmen near church in Jordan",
+      "title_zh": "闭路电视录像显示约旦教堂附近有枪手",
+      "link": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T15:59:36+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "title_zh": "在两名以色列士兵开枪打死之后,以色列部队开始拆毁希布伦的巴勒斯坦建筑物。",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T15:37:07+00:00",
+      "summary": "Diggers were seen demolishing Palestinian homes on Friday afternoon",
+      "summary_zh": "星期五下午有人看到掘墓者拆毁巴勒斯坦人的房屋"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "title_zh": "油轮袭击后,阿联酋海滩上发生漏油事件",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T15:30:47+00:00",
+      "summary": "An oil spill from a tanker attacked near the Strait of Hormuz is spreading along the United Arab Emirates (UAE) coastline, forcing the closure of some beaches and coastal areas.",
+      "summary_zh": "一艘油轮在霍尔木兹海峡附近遭到袭击,油井溢出,沿阿拉伯联合酋长国海岸线蔓延,迫使一些海滩和沿海地区关闭。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "title_zh": "PSG v Lyon 在巴黎准备更多抗议活动时,",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T14:18:41+00:00",
+      "summary": "Paris St-Germain fans celebrated winning the Champions League near the Eiffel Tower in May 2026",
+      "summary_zh": "2026年5月巴黎圣日耳曼球迷在埃菲尔铁塔附近庆祝夺得冠军联赛冠军."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "title_zh": "丹麦政府禁止貂皮种植",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T12:17:45+00:00",
+      "summary": "Mink farming will end in Denmark by August 2029 after the government decided to drop plans to pursue an exemption to an EU-wide ban on the practice.",
+      "summary_zh": "明克农业将在2029年8月丹麦结束,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "title_zh": "医生告诉英国广播公司,准军事部队将苏丹医院作为攻击目标。",
+      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T11:30:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "title_zh": "塞浦路斯警方对Roman Abramovich的财务进行公开调查",
+      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T10:14:37+00:00",
+      "summary": "Russian billionaire Roman Abramovich - his lawyers have said he denies concealing his fortune",
+      "summary_zh": "俄罗斯亿万富翁罗曼·阿布拉莫维奇(Roman Abramovich) - 他的律师说他否认隐瞒自己的财富."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "title_zh": "尼日利亚患埃博拉的妇女证实是瑞士外交官的妻子",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T10:14:33+00:00",
+      "summary": "This is the first case of Ebola in Nigeria in more than a decade",
+      "summary_zh": "这是尼日利亚十多年来首例埃博拉病例."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+      "title_zh": "西班牙裔的选民帮助特朗普掌权,",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T09:23:53+00:00",
+      "summary": "Father Roy Snipes is known locally as the Cowboy Priest - he resisted plans to seize chapel land to build Trump's border wall",
+      "summary_zh": "Roy Snipes神父在当地被称为牛仔牧师——他抵制夺取礼拜堂土地建造川普边境墙的计划."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "title_zh": "Rubio转向印度小镇,",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T08:39:42+00:00",
+      "summary": "US Secretary of State Marco Rubio was in India this week",
+      "summary_zh": "美国国务卿马可·鲁比奥本周在印度"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "title_zh": "Blue Planet III:猎杀失败后章鱼逃脱死亡",
+      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T05:05:03+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "title_zh": "攻击演员老虎Shroff 暗中提醒宝莱坞的黑帮过去",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-22T23:55:39+00:00",
+      "summary": "Actor Tiger Shroff, who made his debut in 2014, is known for his action roles",
+      "summary_zh": "2014年首演的演员Tiger Shroff以动作角色出名."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-      "title_zh": "监视和\"持续妄想\":西方外交官向英国广播公司讲述战时莫斯科的生活",
+      "title_zh": "监视和‘持续妄想':西方外交官向英国广播公司讲述战时莫斯科的生活",
       "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-22T23:16:20+00:00",
       "summary": "Ex-US and French ambassadors Lynne Tracy and Pierre Lévy were among those to speak to the BBC of their time in Moscow",
-      "summary_zh": "前美国和法国大使林恩·特蕾西和皮埃尔·莱维在莫斯科向英国广播公司讲述了他们的时代。"
+      "summary_zh": "前美国和法国大使林恩·特雷西和皮埃尔·莱维在莫斯科向英国广播公司讲了话。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-      "title_zh": "BBC调查发现,",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T23:16:16+00:00",
-      "summary": "Medics at el-Fasher's Saudi Hospital performed a Caesarean by phone light on the day it was bombed",
-      "summary_zh": "法希尔沙特医院的医生在遭到轰炸的当天用电话进行剖腹产"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-      "title_zh": "L'Oreal说减肥药物 影响美容和皮肤护理销售",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T22:27:53+00:00",
-      "summary": "The use of weight loss drugs, known as GLP-1s, has increased in popularity in recent years",
-      "summary_zh": "减重药物的使用被称为\"GLP-1\",近年来的受欢迎程度增加."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "title_zh": "特朗普说,穆斯克恢复了乌克兰\"星际链接\"网络的访问权限.",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T21:42:39+00:00",
+      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+      "title_zh": "\"这是文化的一部分\" - 纽约禁止马车在160多年之后",
+      "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-22T20:48:56+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-      "title_zh": "纽约在160年后禁止拖马车,因为安全和滥用问题",
-      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T20:49:12+00:00",
-      "summary": "Drivers of horse-drawn carriages in Central Park are concerned for their future - while animal activists see the ban as a victory",
-      "summary_zh": "中央公园的马车司机都关心未来,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "title_zh": "\"这是可鄙的\": Amy Acton回应了俄亥俄州的攻击广告 广告主角是她离异的母亲",
-      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T19:27:57+00:00",
-      "summary": "Amy Acton, the Democratic candidate for governor of the US state of Ohio, has called an attack ad against her that features her estranged mother \"despicable\".",
-      "summary_zh": "美国俄亥俄州州长的民主党候选人Amy Acton称她为攻击广告,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "title_zh": "巴黎延长宵禁,因为马赛和里昂禁止骚乱后抗议",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T19:25:26+00:00",
-      "summary": "Large demonstrations descended into disorder in Paris and across France on Saturday",
-      "summary_zh": "周六在巴黎和法国各地,大规模示威活动陷入混乱"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "title_zh": "扎克伯格赢得梅塔交易 帮助他支付加州亿万富翁税",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T18:26:56+00:00",
-      "summary": "Meta chief executive Mark Zuckerberg",
-      "summary_zh": "马克·扎克伯格"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-      "title_zh": "在俄国同意新的和谈之后,乌克兰遭到袭击",
-      "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T17:49:13+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "title_zh": "Clavicular对强奸指控不认罪",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T17:21:42+00:00",
-      "summary": "Clavicular, a social media influencer who promotes the \"looksmaxxing\" trend of young men maximising their attractiveness, has pleaded not guilty to criminal charges including rape.",
-      "summary_zh": "Clavicular是一名社交媒体影响者,他宣传年轻人最大限度地发挥吸引力的\"相貌\"趋势,他对包括强奸在内的刑事指控不认罪."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
-      "title_zh": "\"贬\"与\"谬\": 对抗拥抱的祖父母同意广告",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T17:18:17+00:00",
-      "summary": "The ad depicts two grandparents enthusiastically hugging a young boy",
-      "summary_zh": "广告上描绘了两个祖父母热情地拥抱一个小男孩"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "title_zh": "在发现网络安全缺陷后进行更新服务的计算机系统的比赛",
-      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T17:12:51+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "title_zh": "默兹说,在怀疑俄罗斯间谍被捕之后,德国成为了“密集”间谍的目标。",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T17:07:03+00:00",
-      "summary": "Chancellor Friedrich Merz says Russian intelligence activity in Germany remains 'at a consistently high level'",
-      "summary_zh": "总理Friedrich Merz表示,俄罗斯在德国的情报活动仍然\"处于一贯的高水平\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "title_zh": "卢拉说对手应该被取消资格 而不是巴西投票前的梅塔干扰",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T17:01:47+00:00",
-      "summary": "Left-wing incumbent Luiz Inácio Lula da Silva will face his right-wing rival Flávio Bolsonaro in the second round of voting on Sunday",
-      "summary_zh": "左翼执政者路易斯·伊纳西奥·卢拉·达席尔瓦将在周日第二轮投票中面对他的右翼对手弗拉维奥·博尔索纳罗."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "title_zh": "在南非,50名外国人被殴打致死",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T16:15:25+00:00",
-      "summary": "Anti-migrant protesters in South Africa demand that all undocumented foreign nationals leave the country",
-      "summary_zh": "南非的反移民抗议者要求所有无证外国国民离境"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "title_zh": "新生的双胞胎为生存而斗争,",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T15:56:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Damaging hail pelts Phoenix in rare storm",
-      "title_zh": "凤凰在罕见的暴风雨中",
+      "title_zh": "凤凰在罕见的风暴中",
       "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-22T15:11:49+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-      "title_zh": "为何学生抗议运动挑战塞尔维亚12年的武契奇统治?",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T14:33:06+00:00",
-      "summary": "Young Serbians have been the driving force behind the movement, but none of the candidates are students",
-      "summary_zh": "年轻的塞尔维亚人一直是这场运动的动力,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "title_zh": "俄勒冈州的老师开枪说 她假装死了才活下来",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T14:09:54+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "title_zh": "YouTuber在印度流行金融影响者自杀后被捕",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T14:08:10+00:00",
-      "summary": "V Harish ran a hugely popular Instagram handle called \"Finance with Harish\"",
-      "summary_zh": "V·哈里什经营着一款非常受欢迎的Instagram手柄\"用哈里什来做财务\"."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "First human case of Shamonda virus detected in France, officials say",
-      "title_zh": "在法国发现第一例人类沙蒙达病毒病例,",
-      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T13:53:32+00:00",
-      "summary": "Shamonda virus mostly affects livestock, in whom it can cause fever, diarrhoea and poor milk production",
-      "summary_zh": "沙蒙达病毒主要影响牲畜,可导致发烧、腹泻和牛奶生产不良"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "title_zh": "沙特阿拉伯东部机场遭到胡塞袭击,",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T13:46:33+00:00",
-      "summary": "Dammam is the largest city in Saudi Arabia's oil-rich Eastern Province",
-      "summary_zh": "达曼是沙特阿拉伯石油丰富的东部省最大的城市."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
-      "title_zh": "Ilhan Omar说\"Bizarre\"在黎明前袭击她家 迫使她搬出去",
-      "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T13:36:21+00:00",
-      "summary": "Minnesota Representative Ilhan Omar has said she can no longer live in her Washington DC home after it was searched by federal agents last week, fearing her address has been exposed after the raid.",
-      "summary_zh": "明尼苏达州众议员伊尔汉·奥马尔(Ilhan Omar)表示,她已经无法再住在华盛顿的家中了,因为上周联邦特工搜查了她的家后,担心她的住址在突袭后被暴露了."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "AI discovered a massive cyber-security flaw - here's what happened",
-      "title_zh": "AI发现了一个巨大的网络安全缺陷 - 事情是这样的",
-      "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T12:17:44+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least four dead after storm brings flooding to southern France",
-      "title_zh": "风暴给法国南部带来洪水 造成至少四人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T11:23:16+00:00",
-      "summary": "A car lies abandoned after severe rainfall in Saint-Mitre-les-Remparts, near Marseille",
-      "summary_zh": "在马赛附近的Saint-Mitre-les-Remparts,暴雨后,一辆汽车被废弃"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "title_zh": "PHP是什么,为何引发全球网络安全混乱?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T11:15:58+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment man rescued from sinking car by Australian TV reporter",
-      "title_zh": "澳大利亚电视台记者从下沉的汽车上救出",
-      "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T11:08:33+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "El Salvador's president threatens Haitian gangs over military hostages",
-      "title_zh": "萨尔瓦多总统威胁海地帮派要挟军事人质",
-      "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T10:17:48+00:00",
-      "summary": "El Salvador's president has said he has launched a military operation to rescue four air force personnel who have been missing in Haiti since Sunday.",
-      "summary_zh": "萨尔瓦多总统表示已展开军事行动来营救自星期起在海地失踪的4名空军人员."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-      "title_zh": "名人鲨从韩国运河引出 拒绝出海游泳",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T10:16:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-      "title_zh": "警方在\"不恰当\"指控后 在第一视觉澳大利亚结婚",
-      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T09:47:54+00:00",
-      "summary": "Married at First Sight Australia is facing fresh controversy after police launched an investigation into the hit reality TV show.",
-      "summary_zh": "在第一视觉澳大利亚结婚后,警方对\"命中真人秀\"电视剧展开调查后,正面临新的争议."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "title_zh": "以色列的选举如何运作,谁是主要竞争者?",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T09:27:10+00:00",
-      "summary": "Current polling suggests Gadi Eisenkot (left) is in a tight race with incumbent Benjamin Netanyahu (right) to become Israel's prime minister",
-      "summary_zh": "目前民调显示Gadi Eisenkot(左翼)与现任的本雅明·内塔尼亚胡(右翼)竞争激烈,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How Arab parties could hold critical balance of power in Israeli election",
-      "title_zh": "阿拉伯政党如何在以色列选举中保持关键的权力平衡",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-22T05:30:22+00:00",
-      "summary": "Students in Nazareth are handing out leaflets encouraging Arab Israelis to vote in next week's election",
-      "summary_zh": "拿撒勒的学生正在散发传单,鼓励阿拉伯以色列人在下周的选举中投票。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The real reasons there are so few young politicians in the US",
-      "title_zh": "真正的原因 在美国,年轻政客如此少",
-      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-21T23:52:12+00:00",
-      "summary": "The real reasons there are so few young politicians in the US",
-      "summary_zh": "真正的原因 在美国,年轻政客如此少"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-      "title_zh": "为什么泥炭火这么严重? BBC在印度尼西亚调查",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-21T22:02:18+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "title_zh": "俄罗斯同意美国要求恢复乌克兰和谈后, 导弹袭击了基辅",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-21T21:27:41+00:00",
-      "summary": "Russia has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities",
-      "summary_zh": "最近几周,俄罗斯加紧了对基辅和乌克兰其他城市的致命导弹和无人机袭击。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-      "title_zh": "罗森伯格:俄罗斯同意乌克兰会谈,但认为在新的和平推动中谈不上什么",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-21T19:58:06+00:00",
-      "summary": "Witkoff (R) said there was still important work to do after the meeting with Putin (L)",
-      "summary_zh": "Witkoff(R)说,在与普京(L)会面后仍有重要工作要做。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "title_zh": "Macron指责外国领导人利用法国暴动",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-21T14:04:28+00:00",
-      "summary": "Protesters rallied in Lille along with other cities across the country",
-      "summary_zh": "在里尔的抗议者与全国其他城市聚集在一起"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "NHKニュース",
@@ -401,13 +221,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -417,37 +237,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
