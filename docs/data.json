@@ -1,35 +1,265 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-10-26T00:19:30+00:00",
-  "count": 39,
+  "generated_at": "2026-10-27T01:29:27+00:00",
+  "count": 35,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "title_zh": "委内瑞拉反对派领袖María Machado在流亡几个月后返回",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T23:33:14+00:00",
-      "summary": "Venezuelan opposition leader María Corina Machado has returned home to a fraught political landscape after more than 10 months in exile.",
-      "summary_zh": "委内瑞拉反对派领袖玛丽亚·科琳娜·马查多在流亡10多个月后回到了充满政治色彩的家乡."
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "title_zh": "\"Moxing\"被选为\"词典\".com 该年的单词",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T21:31:53+00:00",
+      "summary": "Americans have gone all in on \"maxxing\", making it the 2026 Word of the Year for Dictionary.com.",
+      "summary_zh": "美国人都加入了\"Mexxing\",成为了\"大辞典\"的\"2026 Word of the Year for Dictionary.com\"."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "title_zh": "塞尔维亚老一辈统治者武契奇同意参加学生领导的抗议运动。",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T22:54:57+00:00",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "title_zh": "卢拉在戏剧性的巴西大选中赢得了第四任期",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T21:02:47+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "title_zh": "以色列为关键的选举打下基础",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T22:11:13+00:00",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "title_zh": "川普政府非法解雇了詹姆斯·科米的女儿 法官规则",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T19:27:21+00:00",
+      "summary": "Maurene Comey has worked on a number of high-profile legal cases",
+      "summary_zh": "Mourene Comey曾致力于一些引人注目的法律案件"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "title_zh": "悉尼新5bn机场有一个大问题: 去那里很难",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T18:00:10+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "title_zh": "阿尔及利亚自1973年以来首次向尼日尔派遣部队",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T17:00:09+00:00",
+      "summary": "Algeria recently donated four military helicopters to Niger (file photo)",
+      "summary_zh": "阿尔及利亚最近向尼日尔捐赠了四架军用直升机(档案照片)"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "title_zh": "60多名基督徒在埃塞俄比亚被杀害,",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T16:31:09+00:00",
+      "summary": "Attacks against Christians have been increasing recently, according to the Ethiopian Orthodox Tewahedo Church",
+      "summary_zh": "据埃塞俄比亚正教会Tewahedo说,最近对基督教徒的袭击有所增加。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "title_zh": "以色列和美国都会参加投票 后果将是全球性的",
+      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T16:30:34+00:00",
+      "summary": "Israel and the US are both going to the polls - the consequences will be global",
+      "summary_zh": "以色列和美国都会参加投票 后果将是全球性的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "title_zh": "Anthropic警告说,在将股权上市之前,",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T16:27:17+00:00",
+      "summary": "Anthropic has warned artificial intelligence (AI) could pose \"catastrophic or existential risks to humanity\" as it unveiled details of its planned blockbuster stock market listing in the US.",
+      "summary_zh": "Anthropic警告人工智能可能对人类构成\"灾难性或存在性风险\","
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "title_zh": "天主教主教们为“开发”特朗普会议道歉",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T15:46:31+00:00",
+      "summary": "A screengrab of a clip from the 22 October meeting at the White House.",
+      "summary_zh": "10月22日在白宫开会的一幕剪辑。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "title_zh": "警方在佛罗里达州枪杀包括儿童在内的12人受伤后逮捕青少年",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T15:45:30+00:00",
+      "summary": "The incident happened close to Florida A&M University's Bragg Memorial Stadium (file image)",
+      "summary_zh": "事件发生在佛罗里达A&M大学布拉格纪念体育场(档案影像)附近."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "title_zh": "卢拉的军队怎么样? WhatsApp频道帮助扭转了巴西的选举",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T15:37:33+00:00",
+      "summary": "Lula's supporters mobilised en masse despite polls pointing to a defeat for the incumbent",
+      "summary_zh": "卢拉的支持者大规模动员起来,尽管民意调查表明,现任者失败了"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Part of Antarctica named after former BBC science correspondent",
+      "title_zh": "以英国广播公司前科学记者命名的南极洲的一部分",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T14:54:40+00:00",
+      "summary": "The Amos Channel sits between Rothschild Island (bottom centre) and Alexander Island, which is the larger landmass to the right",
+      "summary_zh": "阿莫斯海峡坐落于罗斯柴尔德岛(地底中心)和亚历山大岛之间,亚历山大岛是向右较大的陆地."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "title_zh": "在塞尔维亚,",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T14:34:52+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "title_zh": "在刚果共和国应对埃博拉疫情时,护士在袭击中死亡",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T14:27:32+00:00",
+      "summary": "A nurse has been killed and another health worker seriously injured in an attack as they were responding to an Ebola alert in north-eastern Democratic Republic of Congo.",
+      "summary_zh": "在刚果民主共和国东北部,一名护士被炸死,另一名保健工作者因应对埃博拉疫情而受重伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "title_zh": "Chris Brown因夜总会袭击被判8个月有期徒刑缓期执行",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T14:16:09+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "title_zh": "美国海军陆战队在日本被控谋杀和抢劫妇女",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T14:13:18+00:00",
+      "summary": "Devin Jacob Ballard was stationed at Futenma Air Station",
+      "summary_zh": "Devin Jacob Ballard驻扎在Futenma航空站"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "title_zh": "露拉是谁? 从前工人和囚犯到巴西总统",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T11:39:16+00:00",
+      "summary": "Even for a veteran politician like Lula, uniting a divided nation will be a challenge",
+      "summary_zh": "即使是像卢拉这样的老政治家 团结一个分裂的国家 也是个挑战"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five ways Trump has changed immigration in the US",
+      "title_zh": "特朗普改变美国移民的五种方式",
+      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T11:29:02+00:00",
+      "summary": "Immigration has always been central to Donald Trump's message.",
+      "summary_zh": "移民一直是唐纳德·特朗普信息的核心."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
+      "title_zh": "震惊的照片捕捉十月猎人之月环游世界",
+      "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T11:27:39+00:00",
+      "summary": "A good view for the passengers of this plane flying over San Francisco Bay in California, US",
+      "summary_zh": "这架飞机的乘客在美国加利福尼亚州旧金山湾上空飞行的景色不错"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "title_zh": "群众欢迎委内瑞拉的María Machado,",
+      "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T09:31:12+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
+      "title_zh": "中国大政会可见习近平\"严守纪律\"入党.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T07:40:57+00:00",
+      "summary": "Plenums are essentially closed door meetings of the Party's central committee that happen at least once a year",
+      "summary_zh": "全会基本上是党中央委员会的闭门会议,每年至少举行一次."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+      "title_zh": "谁应该赢得男人的Ballon d'Or? 英国广播公司 体育专家有发言权",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T06:19:12+00:00",
+      "summary": "Who should win the men's Ballon d'Or?",
+      "summary_zh": "谁应该赢得男人的Ballon d'Or?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "title_zh": "Eric Bauza, Bugs Bunny和Daffy Duck的声音,死于46岁",
+      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T06:16:15+00:00",
+      "summary": "Eric Bauza, the voice artist behind Looney Tunes characters including Bugs Bunny, Daffy Duck and Porky Pig, has died aged 46.",
+      "summary_zh": "埃里克·鲍扎(Eric Bauza)是卢尼·图内斯(Looney Tunes)角色背后的配音艺术家,包括Bugs Bunny,Daffy Duck和Porky Pig等,已经去世了46岁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "title_zh": "委内瑞拉反对派领袖María Machado在流亡几个月后返回",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T05:20:19+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "title_zh": "澳大利亚杀人犯在监狱里输了吃Vegemite的竞价",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T04:05:28+00:00",
+      "summary": "Andre McKechnie argues the Vegemite ban in Victoria's jails denies him the right to \"enjoy his culture\"",
+      "summary_zh": "Andre McKechnie认为维多利亚监狱的Vegemite禁令剥夺了他\"享受自己文化\"的权利."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "title_zh": "看:卢拉总统如何转身打败弗拉维奥·博尔索纳罗.",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T02:53:00+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
@@ -46,282 +276,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "title_zh": "被枪手突袭的尼日利亚村庄死亡人数增至48人,",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T19:14:27+00:00",
-      "summary": "File image of Nigerian police officers",
-      "summary_zh": "尼日利亚警察的档案形象"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "title_zh": "巴黎郊区致命枪击案嫌犯送去接受精神观察",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T15:32:51+00:00",
-      "summary": "A man suspected of a deadly gun attack near Paris has left custody and been placed under psychiatric observation, French anti-terrorism officials have said.",
-      "summary_zh": "法国反恐官员说,一名在巴黎附近涉嫌致命枪支袭击的男子已离开拘留,接受精神观察。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "title_zh": "加蓬表示,",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T14:39:47+00:00",
-      "summary": "Gabon says it has lifted a ban on social media imposed eight months ago - a move that triggered widespread criticism at the time.",
-      "summary_zh": "加蓬表示8个月前解除了对社交媒体的禁令,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "title_zh": "萨尔瓦多总统说在海地发现的尸体不是人质的尸体",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T10:55:33+00:00",
-      "summary": "Nayib Bukele said the bodies handed to Salvadoran forces in Haiti were \"not our men\"",
-      "summary_zh": "Nayib Bukele说,在海地交给萨尔瓦多部队的尸体是“不是我们的人”。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "title_zh": "超过1300人被捕,",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T10:38:15+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "title_zh": "Musk说,SpaceX在恢复服务时限制了乌克兰的Starlink连接",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T09:00:00+00:00",
-      "summary": "Elon Musk has said his company SpaceX restricted Ukraine's Starlink internet service, after Ukrainian officials said connectivity issues appeared to have been resolved.",
-      "summary_zh": "Eron Musk表示他的SpaceX公司限制乌克兰的星际链接互联网服务,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-      "title_zh": "\"我不能教你正直\": 在非洲,员工盗窃是如何伤害小企业的",
-      "link": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T08:36:47+00:00",
-      "summary": "Kenyan food creator That Girl Boina shut her waxing studio due to employee theft",
-      "summary_zh": "肯尼亚食品创作者 那个女孩Boina因为员工被偷而关闭了她的蜡烛工作室"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "title_zh": "为什么乌克兰如此依赖\"星际链接\",而欧洲能堵住这个缺口?",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T05:45:31+00:00",
-      "summary": "A man offers residents in Kherson, Ukraine, the use of his Starlink internet after a Russian strike",
-      "summary_zh": "一个男人在俄罗斯罢工后给乌克兰赫尔森居民提供星际链接"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "title_zh": "随着镇压的升级,以色列在选举日关闭西岸过境点",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T05:15:52+00:00",
-      "summary": "An Israeli army vehicle passes near the closed entrance of Hebron, in the Israeli-occupied West Bank",
-      "summary_zh": "一辆以色列军车从被以色列占领的西岸希布伦的封闭出入口附近经过。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "title_zh": "奥巴马在中期选举前,",
-      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T02:27:15+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The bitter row over military service that could shape Israel's future",
-      "title_zh": "可能塑造以色列未来的兵役的苦行",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T23:03:21+00:00",
-      "summary": "The bitter row over military service that could shape Israel's future",
-      "summary_zh": "可能塑造以色列未来的兵役的苦行"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "title_zh": "为何国王的加勒比之行 可能是\"他统治的最大风险\"",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T23:03:09+00:00",
-      "summary": "Royal tours are unpredictable beasts.",
-      "summary_zh": "皇家旅行是无法预测的野兽."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "title_zh": "从俄罗斯的笼子到爱尔兰的避难所:布和蒂亚帕的五年救援之旅",
-      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T23:02:51+00:00",
-      "summary": "Tyapa (left) and Bu (right) were previously kept in small cages in the Republic of Dagestan in Russia",
-      "summary_zh": "Tyapa(左)和Bu(右)以前在俄罗斯达吉斯坦共和国被关入小笼子"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-      "title_zh": "一只鲨鱼误入歧途并俘获了韩国的心——她最终会回到海上吗?",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T22:58:43+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "title_zh": "谁是巴西总统选举的候选人?",
-      "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T22:08:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
       "title_zh": "巴黎抗议者与防暴警察发生冲突,",
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-24T19:37:35+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "title_zh": "Vanessa Trump说她在诊断后六个月没有癌症",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T19:12:51+00:00",
-      "summary": "Vanessa Trump and her 19-year-old daughter Kai",
-      "summary_zh": "瓦妮莎·特朗普和她19岁的女儿凯"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two rescued after Nairobi building collapse with five still missing",
-      "title_zh": "内罗毕大楼倒塌后获救的两人 有五人失踪",
-      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T17:25:46+00:00",
-      "summary": "Two people have been pulled alive from the rubble of a building that collapsed in Kenya's capital, Nairobi, as a search continues for five still missing.",
-      "summary_zh": "在肯尼亚首都内罗毕倒塌的一栋建筑被活捉出2人,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "title_zh": "火吞噬了希特勒的山顶鹰巢",
-      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T15:56:48+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "title_zh": "在希特勒山顶老鹰巢穴后被火力逮捕",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T15:21:44+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "title_zh": "妇女,65岁,成为肯尼亚第二个死于埃博拉的病人",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T09:46:53+00:00",
-      "summary": "Travellers are subject to temperature checks at Kenyan border crossing-points",
-      "summary_zh": "旅行者在肯尼亚过境点接受温度检查"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Three released without charge after fatal arson attack in Ireland",
-      "title_zh": "在爱尔兰发生致命纵火事件后,3人无罪释放。",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T09:38:28+00:00",
-      "summary": "Flowers have been left at the home where four people died after an arson attack in Waterford",
-      "summary_zh": "在沃特福德被纵火袭击后 四人被害的家里 鲜花被留下"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australian MP's condition improves after alleged car attack",
-      "title_zh": "澳大利亚议员的病情在汽车被攻击后有所改善",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T01:55:15+00:00",
-      "summary": "Helen Haines had both her legs amputated after what authorities say was a deliberate attack",
-      "summary_zh": "Helen Haines的双腿都被截了 当局说是蓄意攻击"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "title_zh": "随着中期选举的临近,白宫取消了对一些加拿大商品的关税",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T00:36:47+00:00",
-      "summary": "Canada and the US are currently locked in a tit-for-tat trade war",
-      "summary_zh": "加拿大和美国目前陷入一场以牙还牙的贸易战争"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "title_zh": "学生运动把塞尔维亚的武契奇带到铁丝网上,",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-23T23:08:23+00:00",
-      "summary": "The Student List is Number 3 on Serbia's ballot paper, so the figure seen being hugged by this supporter has become a symbol of the movement's fight for change",
-      "summary_zh": "学生名单在塞尔维亚的选票上是第3名,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "title_zh": "父亲杀了俄勒冈州学校枪手 描述了他无法拯救的孩子的痛苦",
-      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-23T22:47:07+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Who actually controls Ukraine's access to Starlink?",
-      "title_zh": "到底是谁控制了乌克兰对\"星际链接\"的访问?",
-      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-23T22:24:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump administration sues to block certification of upcoming Alaska election",
-      "title_zh": "特朗普政府起诉阻止阿拉斯加选举认证",
-      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-23T18:49:14+00:00",
-      "summary": "Senator Dan Sullivan, right, is in a tight race with Democratic contender Mary Peltola.",
-      "summary_zh": "参议员丹·沙利文,右, 与民主党竞争对手玛丽·佩尔托拉在激烈的竞争。"
     },
     {
       "source": "NHKニュース",
