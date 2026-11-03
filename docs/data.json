@@ -1,23 +1,283 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-11-02T01:31:18+00:00",
-  "count": 37,
+  "generated_at": "2026-11-03T03:28:38+00:00",
+  "count": 42,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "title_zh": "乌克兰空袭应用显然被黑客入侵,",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T01:18:27+00:00",
-      "summary": "Ukrainians are used to reacting to the warnings of Russian attacks sent via the air alert app",
-      "summary_zh": "乌克兰人用来对俄罗斯通过空中警报程序发出的攻击警告作出反应。"
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "title_zh": "据称在澳大利亚用棒球棍袭击 \" 一个民族 \" 志愿者后被捕",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T03:11:16+00:00",
+      "summary": "The One Nation volunteer remains in a stable condition in hospital",
+      "summary_zh": "\" 一个民族 \" 志愿人员在医院的状况保持稳定"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Democrats have high hopes for midterms, but polls have let them down before",
-      "title_zh": "民主党对中期选举抱有很高的希望 但民意测验让他们失望了",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "title_zh": "特朗普将卢旺达和南非从美国贸易交易中移除",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T03:00:36+00:00",
+      "summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House",
+      "summary_zh": "去年,特朗普指责南非在白宫与西里尔·拉马福萨总统的会晤中犯有白人种族灭绝罪."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "title_zh": "基辅说,",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T01:56:27+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "title_zh": "北韩否认落后于纪录 6.3bn Binance黑客",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T01:23:03+00:00",
+      "summary": "Kim Yo-jong, the sister of North Korea's leader Kim Jong Un",
+      "summary_zh": "朝鲜领导人金正恩的妹妹金耀宗"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "title_zh": "宝莱坞电影明星Ranbir Kapoor关于AI,电影和父亲身份",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T00:09:13+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "title_zh": "可能是在致命的佛罗里达喷气式飞机坠毁前 飞机就断了",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T00:08:14+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "title_zh": "成千上万的欧洲部队在和平的情况下排练乌克兰的部署",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T00:07:05+00:00",
+      "summary": "A British paratrooper takes part in a previous Nato training exercise less than 50km (31 miles) from the Russian border in Finland",
+      "summary_zh": "一名英国伞兵参加了前一次纳托训练演习,距离芬兰俄罗斯边境不到50公里(31英里)."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "title_zh": "对澳大利亚禁止社交媒体进入高等法院的法律质疑",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T23:37:31+00:00",
+      "summary": "Australian teen Noah Jones is no longer a plaintiff in the case but will attend Tuesday's hearing",
+      "summary_zh": "澳大利亚青少年Noah Jones不再是本案的原告 但将出席星期二的听证会"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "title_zh": "印尼的毒雾令邻国在政治上头痛",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T23:02:01+00:00",
+      "summary": "The haze stemming from wildfires in Indonesia has drifted into Singapore and Malaysia",
+      "summary_zh": "印度尼西亚野火产生的雾霾 漂入了新加坡和马来西亚"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "title_zh": "美国中期运动\"摇摇欲坠\"支出纪录史上最昂贵",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T20:54:44+00:00",
+      "summary": "The US midterms campaign is set to be the most expensive on record - with the total cost projected to reach nearly $12bn (£9bn), according to Open Secrets, an independent organisation that tracks campaign finance.",
+      "summary_zh": "根据追踪竞选资金的独立组织Open Secrets的说法, 美国中期竞选活动将创下最昂贵的纪录,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "title_zh": "盗取南非总统农场现金的罪犯",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T20:08:51+00:00",
+      "summary": "Cyril Ramphosa, South Africa's president, has denied any wrongdoing",
+      "summary_zh": "南非总统Cyril Ramphosa否认任何错误"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "title_zh": "佛罗里达喷气式飞机的音频和飞行数据告诉我们它的最后时刻",
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T19:49:22+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "title_zh": "被入侵的应用软件的假核警告在乌克兰引发了不安,但并非恐慌",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T18:34:24+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "title_zh": "如果黑客能控制超市冷冻机 其他技术有多脆弱?",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T18:25:01+00:00",
+      "summary": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances.",
+      "summary_zh": "欧洲各地的超级市场受到网路攻击,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "title_zh": "7个欧洲国家的商店被网络攻击",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T17:38:11+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "title_zh": "现在这些食物都没用了 商店被网路攻击后 一堆垃圾",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T17:34:58+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "title_zh": "在乌克兰战争停火时间最长后,赫尔森地区的战斗返回",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T17:33:19+00:00",
+      "summary": "Hundreds of Oleshky evacuees arrived back in Ukraine on Saturday after years trapped on the frontline",
+      "summary_zh": "数以百计的奥列什基撤离者在被困在前线多年后,于星期六回到乌克兰"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "title_zh": "荷兰警方在追捕毒枭时悬赏200万欧元",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T17:29:49+00:00",
+      "summary": "Dutch police say Jos Leijdekkers is a \"key player\" in the international cocaine trade",
+      "summary_zh": "荷兰警方称Jos Leijdekkers是国际可卡因贸易中的\"关键角色\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "title_zh": "维兹 在炸弹威胁后紧急降落时从卢顿起飞的飞机",
+      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T14:35:38+00:00",
+      "summary": "A file photo of a Wizz Air plane on the tarmac at Ferenc Liszt International Airport in Budapest",
+      "summary_zh": "布达佩斯费伦克·利斯特国际机场停机坪上的威兹航空飞机的档案照片"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "title_zh": "关于乌克兰和俄罗斯的警报应用黑客",
+      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T14:24:25+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "title_zh": "Ryanair说可能会冻结工人的工资 提高机票价格",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T12:22:10+00:00",
+      "summary": "Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be \"materially higher\" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran.",
+      "summary_zh": "Ryanair正考虑暂时冻结员工工资,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "title_zh": "乌干达20年后开始从索马里撤军",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T12:05:34+00:00",
+      "summary": "Uganda first deployed its troops to Somalia in 2007",
+      "summary_zh": "乌干达于2007年首次在索马里部署部队"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "title_zh": "五人在南非农民被枪杀并被拷打后被捕",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T10:48:47+00:00",
+      "summary": "Donovan Marx's family and officals have welcomed the swift arrests of suspects linked to the farm attack",
+      "summary_zh": "多诺万·马克思的家人和官员欢迎迅速逮捕与农场袭击有关的嫌犯"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "title_zh": "受欢迎的澳大利亚儿童作者因剥削儿童罪而入狱",
+      "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T08:03:39+00:00",
+      "summary": "The father-of-three is best known for his award-winning young adult novel Jasper Jones",
+      "summary_zh": "三之父以获奖的青春小说\"贾斯珀·琼斯\"最为出名."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "title_zh": "\"我不能保持沉默\": 伊朗青少年的母亲在女儿被枪杀后寻求正义",
+      "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T06:05:34+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "title_zh": "伊朗杀害了十几岁的女儿,",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T06:00:54+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "title_zh": "中国国营广播公司在Mbappé笑话后拉出Liga的比赛",
+      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T03:58:38+00:00",
+      "summary": "China Media Group, which acknowledged Mbappé's apology, has not commented on how long the blackout will last",
+      "summary_zh": "中国媒体集团承认姆巴佩的道歉,但并未评论停电会持续多久?"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Democrats have high hopes for midterms - but are the polls right?",
+      "title_zh": "民主党对中期选举抱有很高的期望,",
       "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-02T00:25:12+00:00",
       "summary": "The Democratic Party has high expectations as it heads into these pivotal US midterm elections.",
@@ -27,281 +287,71 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "title_zh": "法国在向警察投掷汽油炸弹后,发动谋杀未遂调查",
+      "title_zh": "法国在向警察投掷汽油炸弹后 发动谋杀未遂调查",
       "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-02T00:15:30+00:00",
       "summary": "Prosecutors in France have launched an attempted murder investigation after petrol bombs were thrown at police during unrest, French media reported.",
-      "summary_zh": "法国的检察官在动乱期间向警方投掷汽油炸弹后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "title_zh": "民主党认可密歇根州参议院关键竞选的共和党候选人,",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T00:02:15+00:00",
-      "summary": "Haley Stevens, a sitting Democratic congresswoman, appeared alongside the Republican Senate candidate on Sunday",
-      "summary_zh": "海莉·史蒂文斯,一位现任的民主党国会议员,星期日与共和党参议院候选人一起出现"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "title_zh": "随着赫尔森停火的结束,俄罗斯在乌克兰的打击使数千人停电",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T21:55:01+00:00",
-      "summary": "Emergency responders at the scene of a strike on Ukraine's Vinnytsia region",
-      "summary_zh": "乌克兰维尼西亚地区罢工现场的应急人员"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "title_zh": "德国的和平抗议升级为暴力和抢劫",
-      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T18:51:56+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "法国的检察官在骚乱期间向警方投掷汽油炸弹后,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "title_zh": "邦迪海滩袭击后,武装警察开始在悉尼巡逻",
+      "title_zh": "邦迪海滩被袭击后,武装警察开始在悉尼巡逻",
       "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-01T17:56:47+00:00",
       "summary": "Armed police officers on patrol outside Sydney's Luna Park",
-      "summary_zh": "武警在悉尼月亮公园外巡逻"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Lindsay Clancy is back in court - where will her case go next?",
-      "title_zh": "Lindsay Clancy又回到法庭了 她的案子接下来会转到哪里?",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T17:29:08+00:00",
-      "summary": "Clancy, who is accused of murdering her three children, is expected back in court on Monday",
-      "summary_zh": "被指控谋杀她三个孩子的克兰西 周一出庭"
+      "summary_zh": "武警在悉尼露娜公园外巡逻"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "title_zh": "医院说,以色列在加沙的袭击杀死了8名儿童",
+      "title_zh": "医院说,以色列在加沙的袭击杀死了八名儿童",
       "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-01T17:06:32+00:00",
       "summary": "Mourners attend the funeral of five Palestinians, who were killed in an Israeli strike",
-      "summary_zh": "5名巴勒斯坦人在以色列的一次袭击中丧生。"
+      "summary_zh": "5名巴勒斯坦人在以色列的一次袭击中被害;"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "title_zh": "剑桥大学科学家在西班牙火车坠毁事故中丧生",
+      "title_zh": "剑桥大学科学家在西班牙火车相撞事故中丧生",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-01T17:05:18+00:00",
       "summary": "Dr Marta Shahbazi, pictured in 2024, was travelling to collect a prize at an awards ceremony in her native Spain when she died",
-      "summary_zh": "Marta Shahbazi博士于2024年出访,"
+      "summary_zh": "Marta Shahbazi博士于2024年出道,"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "title_zh": "密码公司Binance在6.3bn黑客入侵后承担90%的损失",
+      "title_zh": "密码公司Binance在6.3bn黑客入侵后承担了90%的损失",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-01T13:11:37+00:00",
       "summary": "Binance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.",
-      "summary_zh": "Binance是全球最大的密码货币兑换商,"
+      "summary_zh": "全世界最大的密码货币交易所Binance表示,它已经覆盖了星期四在一次黑客袭击中被窃取的6.3bn(4.7bn英镑)资产的90%."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Shops looted as German cost-of-living protests turn violent",
-      "title_zh": "商店被抢 当德国的生活费抗议 变成暴力",
+      "title_zh": "商店被抢 当德国的生活费 抗议演变为暴力",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-01T11:57:48+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "title_zh": "印度反对派举行大型集会,",
+      "title_zh": "印度反对派举行大型集会,要求选举酋长辞职。",
       "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-01T07:00:55+00:00",
       "summary": "Opposition leader Rahul Gandhi led Sunday's protest",
-      "summary_zh": "反对派领袖拉胡尔·甘地领导周日的抗议活动"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-      "title_zh": "民主党人习惯于在德克萨斯伤心 - 塔拉里科能否扭转局面?",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T06:03:57+00:00",
-      "summary": "Democrats hope James Talarico, 37, could end a decades-long winning streak for Republicans in Texas Senate races",
-      "summary_zh": "民主党人希望37岁的詹姆斯·塔拉里科 能够结束共和党在德克萨斯州参议院的 长达数十年的胜利纪录"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "title_zh": "看着:海蒂·克鲁姆作为万圣节狂欢的大手",
-      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T05:26:02+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "title_zh": "这些你从未听说过的公司 都在喂养 担心AI泡沫会爆裂",
-      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T01:37:26+00:00",
-      "summary": "A once-obscure corner of the AI ecosystem finds itself in the spotlight – and investors don't all like what they see.",
-      "summary_zh": "AI生态系统一度模糊的一角发现自己在聚光灯中 — — 而投资者并不都喜欢他们所看到的."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "title_zh": "塞尔维亚的Vučiċ的衰落如何反映了匈牙利的Orbán",
-      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T00:55:06+00:00",
-      "summary": "Hungarian Prime Minister Viktor Orbán and Serbian President Aleksandar Vučiċ shared more than a taste for Balkan pastries",
-      "summary_zh": "匈牙利总理维克多·奥尔班和塞尔维亚总统阿列克桑达尔·武契奇(Aleksandar Vuči)分享了巴尔干糕点的口味。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "title_zh": "阿拉斯加参议院候选人否认知道有人企图将两名丹·沙利文选为候选人",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T00:46:12+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "title_zh": "法官驳回特朗普针对《华尔街日报》关于爱泼斯坦生日书的诉讼",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T00:41:24+00:00",
-      "summary": "President Donald Trump and Jeffrey Epstein posing for a photo together at Mar-a-Lago in 1997",
-      "summary_zh": "总统唐纳德·特朗普和杰弗里·爱泼斯坦1997年在马拉戈 一起假扮一张照片"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "title_zh": "法官命令川普政府停止威胁美国选举官员",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T00:27:33+00:00",
-      "summary": "A federal judge has ordered the federal government to stop threatening local and state election officials with criminal charges over their role in processing election ballots.",
-      "summary_zh": "一名联邦法官命令联邦政府停止以刑事指控威胁地方和州选举官员处理选举选票的作用。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-      "title_zh": "我被困在太平洋小岛上好几年了 连回家的过境签证都没有",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T23:06:13+00:00",
-      "summary": "When Ruchira Ranasingha left Sri Lanka almost a decade ago, she could never have imagined she would end up stranded on a tiny archipelago in the South Pacific.",
-      "summary_zh": "当Ruchira Ranasingha几乎十年前离开斯里兰卡时,她从未想到她最终会困在南太平洋的一个小岛上。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "title_zh": "数千人在巴黎示威游行,",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T21:29:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "title_zh": "「我们从地狱回来」,",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T19:22:26+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "title_zh": "被困在俄罗斯占领的城市多年后,",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T17:53:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "title_zh": "Oleshky撤离者与亲人的情感重聚",
-      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T16:55:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "title_zh": "超过5000人死于埃博拉,",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T15:16:20+00:00",
-      "summary": "There is no vaccine for this strain of the virus, but clinical trials are under way",
-      "summary_zh": "病毒菌株没有疫苗,但临床试验正在进行中"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ethiopian PM puts ministers through military training",
-      "title_zh": "埃塞俄比亚总理通过军事训练安排部长",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T14:28:15+00:00",
-      "summary": "The training comes as Ethiopia faces continued fighting in parts of the northern Tigray region",
-      "summary_zh": "由于埃塞俄比亚在提格雷北部部分地区继续战斗,因此进行了训练。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "title_zh": "闭路电视和拉链联系:如何确保和计算美国投注票",
-      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T09:16:14+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "title_zh": "西班牙训练灾难云 桑切斯连任的机会",
-      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T05:44:21+00:00",
-      "summary": "The breaking news from Spain this week was shocking but also shockingly familiar: another collision on the high-speed rail line south from Madrid, with reports of dozens killed.",
-      "summary_zh": "本周来自西班牙的突发消息令人震惊,但也令人震惊地让人耳熟:从马德里向南高速铁路线又发生碰撞,据报道有数十人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "title_zh": "全球自然谈判达成协议,但金钱仍然是一个问题",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T01:27:05+00:00",
-      "summary": "Elephants in Southern Africa are one of the species that have recovered after recent conservation efforts",
-      "summary_zh": "南部非洲大象(学名:Elephants in South Africa)为大象科大象属下的一个种,在近期的保护努力下已恢复."
+      "summary_zh": "反对派领袖拉胡尔·甘地领导了周日的抗议活动."
     },
     {
       "source": "NHKニュース",
@@ -311,13 +361,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,北日本至西日本的气势非常不稳定,\"评分短时暴雨\"天气灾害预防报告等当地暴雨将7次宣布. 9号的大气层非常不稳定..."
+      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两人死亡",
+      "title_zh": "爱知县两起死亡案",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -327,37 +377,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "大型且非常坚固的13号喇叭位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
+      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手比赛中的乐趣",
+      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
+      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "熊本地震发生于十年前的地震附近",
+      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
+      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
