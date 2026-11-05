@@ -1,17 +1,187 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-11-04T02:17:48+00:00",
-  "count": 39,
+  "generated_at": "2026-11-05T02:22:34+00:00",
+  "count": 30,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "title_zh": "乌克兰说,尸体摄像头录像显示俄罗斯的双塔轰炸致命",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T22:48:43+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "title_zh": "美国中期结果对希望关税减免的加拿大人来说是“胜利”",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T18:01:31+00:00",
+      "summary": "Democrats win Senate",
+      "summary_zh": "民主党赢得参议院"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "title_zh": "伊朗首席谈判员说,",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T16:59:15+00:00",
+      "summary": "Mohammed Bagher Ghalibaf said Iran \"endorsed\" the message sent by American voters",
+      "summary_zh": "Mohammed Bagher Ghalibaf说伊朗\"赞同\"美国选民发来的信息,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "title_zh": "\"我生命中最艰难的日子\" 为守护者Owano",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T16:40:38+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The young politicians with African roots making history in the US midterms",
+      "title_zh": "年轻的非洲政治家在美国中期创造了历史",
+      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T16:34:32+00:00",
+      "summary": "Democrats win Senate",
+      "summary_zh": "民主党赢得参议院"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "title_zh": "法国的血液储存受到冷冻器黑客的冲击 成为关于罪犯的理论",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T16:26:15+00:00",
+      "summary": "French authorities say that fridges used in medical facilities to store blood for donations were impacted by recent cyber-attacks by unknown hackers.",
+      "summary_zh": "法国当局说,医疗设施中用来储存血液以用于捐赠的冰箱受到不明黑客近期网络攻击的影响."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "title_zh": "以色列总统在选举僵局后开始与政党协商",
+      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T16:18:21+00:00",
+      "summary": "President Isaac Herzog received the official results from the Central Election Committee on Wednesday morning",
+      "summary_zh": "艾萨克·赫尔佐格总统星期三上午收到中央选举委员会的正式结果"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "title_zh": "共产主义倒台后37年 在匈牙利公布的秘密警察档案",
+      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T15:28:18+00:00",
+      "summary": "The files were released on Wednesday as part of a campaign promise by Prime Minister Péter Magyar",
+      "summary_zh": "这些档案于星期三公布,作为彼得·马吉亚尔总理竞选承诺的一部分"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Everything you need to know from the US midterm elections",
+      "title_zh": "所有你需要知道的 从美国中期选举",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T14:05:42+00:00",
+      "summary": "Democrats win Senate",
+      "summary_zh": "民主党赢得参议院"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "title_zh": "\"这是一场灾难\": 愤怒的共和党人将中期失败归咎于特朗普",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T13:33:30+00:00",
+      "summary": "Democrats win Senate",
+      "summary_zh": "民主党赢得参议院"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nadal set to join Real Madrid board of directors",
+      "title_zh": "Nadalset 加入真正的马德里董事会",
+      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T13:21:01+00:00",
+      "summary": "Rafael Nadal has made a number of appearances on the pitch at Real Madrid matches",
+      "summary_zh": "拉斐尔·纳达尔在皇家马德里比赛的投出场面上出场多次"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "title_zh": "在三个欧洲国家的万圣节糖果中发现的尖锐物体",
+      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T12:34:33+00:00",
+      "summary": "Needles and other sharp metal objects have been found in sweets handed out over Halloween in Germany, Austria and Hungary, prompting police to issue warnings to parents to check what their children have been given.",
+      "summary_zh": "在德国、奥地利和匈牙利的万圣节上散发的糖果中发现了一些无花果和其他尖锐的金属物品,促使警方向父母发出警告,以检查他们的孩子得到了什么。"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "ANC under pressure to reverse South Africa decline",
       "title_zh": "ANC 迫于压力扭转南非的衰退",
       "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T00:03:19+00:00",
+      "published_at": "2026-11-04T11:47:44+00:00",
       "summary": "More than 500 parties are contesting the elections",
       "summary_zh": "500多个政党参加竞选"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "title_zh": "卢旺达的军队队在美国制裁后 被从非洲联赛除名 NBA说",
+      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T11:46:09+00:00",
+      "summary": "Rwanda's army team APR came third in the Basketball Africa League last year",
+      "summary_zh": "卢旺达的APR队去年在篮球非洲联赛排名第三"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How America voted in maps and charts",
+      "title_zh": "美国在地图和图表中的投票方式",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T09:53:18+00:00",
+      "summary": "Democrats win Senate",
+      "summary_zh": "民主党赢得参议院"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Tears, celebrations and selfies: US midterms in pictures",
+      "title_zh": "眼泪、庆祝活动和自拍:图片中的美国中期",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T08:05:53+00:00",
+      "summary": "Democrats win Senate",
+      "summary_zh": "民主党赢得参议院"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "title_zh": "德里的空气质量比迪瓦利还差,因为烟花的限制生效",
+      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T07:39:38+00:00",
+      "summary": "Air pollution is an annual problem in Delhi and large parts of northern India",
+      "summary_zh": "空气污染是德里和印度北部大部分地区的年度问题。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "title_zh": "Anthony Zurcher:民主党在历史之夜深入特朗普心脏地带",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T06:53:56+00:00",
+      "summary": "Democrats win Senate",
+      "summary_zh": "民主党赢得参议院"
     },
     {
       "source": "BBC News",
@@ -26,242 +196,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "title_zh": "西班牙运输部长在火车坠毁几天后辞职",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T22:45:59+00:00",
-      "summary": "Óscar Puente had been under mounting pressure as opposition parties and some allies of the government called on him to step down",
-      "summary_zh": "由于反对党和政府的一些盟友呼吁他下台,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "title_zh": "NTSB说在离佛罗里达州坠毁地点 三英里的地方发现了关键的飞机部件",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T21:53:38+00:00",
-      "summary": "The NTSB found \"the majority\" of the Learjet's left elevator - a control surface located on the tail - in three pieces, NTSB member Tom Chapman said",
-      "summary_zh": "NTSB发现\"多数\"里尔喷气机左起电梯——位于尾部的控制面——分出三块,NTSB成员汤姆·查普曼说:"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "title_zh": "7个航班被疑似炸弹威胁所袭击",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T20:42:47+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-      "title_zh": "爱尔兰奥林匹亚人 Ciara Mageean 是一位\"有才华和灵感的人\"",
-      "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T17:07:28+00:00",
-      "summary": "Ciara Mageean's funeral took place in Portaferry, County Down",
-      "summary_zh": "Ciara Mageean的葬礼在下郡Portaferry举行"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "title_zh": "在俄罗斯袭击援助中心、救护所和医院后,乌克兰死亡人数上升",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T16:57:41+00:00",
-      "summary": "More than 50 people are feared to be trapped under the rubble",
-      "summary_zh": "50多人被困在废墟下"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "title_zh": "Binance说假工作面试是6.3bn密码黑客的一部分",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T16:19:29+00:00",
-      "summary": "Hackers who stole a record $6.3bn (£4.7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed.",
-      "summary_zh": "黑客从比南斯盗取了一张6.3bn(4.7bn英镑)的唱片,他们使用了假工作面试和一个失密的内部AI工具,公司已经披露了."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "title_zh": "采矿巨头加入战斗 阻止杀手蛤蟆横行澳大利亚",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T15:05:01+00:00",
-      "summary": "A cane toad yesterday",
-      "summary_zh": "昨来一拄杖蛤."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "title_zh": "利比亚最高宗教权威 禁止穿耐克服装",
-      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T14:56:46+00:00",
-      "summary": "Nike clothes are popular in Libya, although many are counterfeit",
-      "summary_zh": "耐克衣服在利比亚很受欢迎,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "title_zh": "超市冷冻机在10个国家被网络攻击后,欧洲处于戒备状态",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T13:55:47+00:00",
-      "summary": "Investigations have begun in several European countries in response to the cyber-attacks",
-      "summary_zh": "为了应对网络攻击,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "title_zh": "Jet可能是在佛罗里达州坠毁前 断裂的 官员们说 作为受害者中的一家人",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T13:44:44+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "title_zh": "特朗普将卢旺达和南非从美国贸易交易中移除",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T13:28:30+00:00",
-      "summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House",
-      "summary_zh": "去年,特朗普指责南非在白宫与西里尔·拉马福萨总统的会晤中犯有白人种族灭绝罪."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "title_zh": "基辅说,",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T13:26:19+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "title_zh": "美国敦促委内瑞拉释放剩余的政治犯",
-      "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T12:09:20+00:00",
-      "summary": "Venezuelan Foreign Minister Oliver Blanco and US Secretary of State Marco Rubio held talks on Monday",
-      "summary_zh": "委内瑞拉外交部长奥利弗·布兰科和美国国务卿马可·鲁比奥星期一举行会谈。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "title_zh": "印度游客在珠穆朗玛峰大本营附近的两架直升机相撞后丧生",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T11:51:08+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "title_zh": "美国在中期选举前袭击伊朗岛",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T11:33:33+00:00",
-      "summary": "Donald Trump has been facing falling polling numbers and pressure from within his party to end the war",
-      "summary_zh": "唐纳德·特朗普一直面临投票人数下降和党内压力,要求结束战争"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "title_zh": "德米格尔在现场相撞后死亡",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T09:09:18+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "title_zh": "北韩否认落后于纪录 6.3bn Binance黑客",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T08:33:20+00:00",
-      "summary": "Kim Yo Jong, the sister of North Korea's leader Kim Jong Un",
-      "summary_zh": "朝鲜领导人金正恩之妹金耀钟"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Major test for Australia's social media ban begins in High Court",
-      "title_zh": "澳大利亚社交媒体禁令的主要测试开始于高等法院",
-      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T07:53:38+00:00",
-      "summary": "Australian teen Noah Jones is no longer a plaintiff in the case but will attend Tuesday's hearing",
-      "summary_zh": "澳大利亚青少年Noah Jones不再是本案的原告 但将出席星期二的听证会"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Why a US-Russia showdown left Morocco celebrating",
-      "title_zh": "为什么一场美俄示威 离开摩洛哥庆祝",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T07:29:46+00:00",
-      "summary": "Morocco claims Western Sahara as part of its territory",
-      "summary_zh": "摩洛哥声称西撒哈拉是其领土的一部分"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "title_zh": "亚洲杯在沙特阿拉伯受袭后被推迟",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T07:15:17+00:00",
-      "summary": "Aston Villa will have goalkeeper Zion Suzuki more available this season because of the rescheduling of the Asian Cup",
-      "summary_zh": "阿斯通·维拉本赛季会有更多守门员铃木振一 因为亚洲杯赛的延期"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "title_zh": "最高法院驳回特朗普停止加州计票争议的要求.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T03:32:36+00:00",
-      "summary": "Americans are electing members of Congress, which is made up of the House of Representatives and the Senate. All 435 House seats are up for election. In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms. This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans.",
-      "summary_zh": "美国人正在选举由众议院和参议院组成的国会议员. 所有435个众议院席位都准备选举。 在参议院中,由于参议员任期为六年,100个席位中只有35个受到质疑. 这个结果跟踪显示现在决定的种族和今年没有竞选的65个席位——民主党34个,共和党31个。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
       "title_zh": "电影明星Ranbir Kapoor的AI,电影和父亲身份",
       "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-03T00:09:13+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "title_zh": "成千上万的欧洲部队在和平的情况下排练乌克兰的部署",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T00:07:05+00:00",
-      "summary": "A British paratrooper takes part in a previous Nato training exercise less than 50km (31 miles) from the Russian border in Finland",
-      "summary_zh": "一名英国伞兵参加了前一次纳托训练演习,距离芬兰俄罗斯边境不到50公里(31英里)."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "title_zh": "印尼的毒雾令邻国在政治上头痛",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T23:02:01+00:00",
-      "summary": "The haze stemming from wildfires in Indonesia has drifted into Singapore and Malaysia",
-      "summary_zh": "印度尼西亚野火产生的雾霾 漂入了新加坡和马来西亚"
     },
     {
       "source": "BBC News",
@@ -276,16 +216,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "title_zh": "如果黑客能控制超市冷冻机 其他技术有多脆弱?",
-      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T18:25:01+00:00",
-      "summary": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances.",
-      "summary_zh": "欧洲各地的超级市场受到网路攻击,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
       "title_zh": "现在这些食物都没用了 商店被网路攻击后 一堆垃圾",
       "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
@@ -296,32 +226,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "title_zh": "在乌克兰战争停火时间最长后,赫尔森地区的战斗返回",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T17:33:19+00:00",
-      "summary": "Hundreds of Oleshky evacuees arrived back in Ukraine on Saturday after years trapped on the frontline",
-      "summary_zh": "数以百计的奥列什基撤离者在被困在前线多年后,于星期六回到乌克兰"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "What we know about the alert app hack in Ukraine and Russia",
       "title_zh": "关于乌克兰和俄罗斯的警报应用黑客",
       "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-02T14:24:25+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Democrats have high hopes for midterms - but are the polls right?",
-      "title_zh": "民主党对中期选举抱有很高的期望,",
-      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T00:25:12+00:00",
-      "summary": "Americans are electing members of Congress, which is made up of the House of Representatives and the Senate. All 435 House seats are up for election. In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms. This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans.",
-      "summary_zh": "美国人正在选举由众议院和参议院组成的国会议员. 所有435个众议院席位都准备选举。 在参议院中,由于参议员任期为六年,100个席位中只有35个受到质疑. 这个结果跟踪显示现在决定的种族和今年没有竞选的65个席位——民主党34个,共和党31个。"
     },
     {
       "source": "NHKニュース",
