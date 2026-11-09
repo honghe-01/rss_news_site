@@ -1,37 +1,127 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-11-08T01:25:03+00:00",
-  "count": 32,
+  "generated_at": "2026-11-09T01:43:28+00:00",
+  "count": 34,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "What we know so far after Krakow gun attack",
-      "title_zh": "克拉科夫枪口袭击后我们所知道的",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-07T22:58:49+00:00",
-      "summary": "At least six people were killed and several others injured when a gunman suspected to have ties to the far-right opened fire in central Krakow, the second largest city in Poland.",
-      "summary_zh": "在波兰第二大城市克拉科夫市中心,一名被怀疑与极右翼有关联的枪手开火,造成至少6人死亡,多人受伤."
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "title_zh": "外科医生在克拉科夫开枪附近吃午饭 无疑救了警官的命 同事说",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T23:34:18+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "title_zh": "以色列总统指派反对派领袖艾森科特组成政府",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-07T22:19:59+00:00",
-      "summary": "Israel's president says he will task opposition leader Gadi Eisenkot with forming a new coalition government.",
-      "summary_zh": "以色列总统表示,他将责成反对派领袖加迪·艾森科特组建新的联合政府."
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "title_zh": "\"我对待这些人就像对待受害者\" 医生说,他治疗了克拉科夫枪击嫌犯",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T22:05:12+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "title_zh": "石油公司 随着胡塞斯发动新的打击,塔身在沙特首都的中心",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T21:37:36+00:00",
+      "summary": "The Aramco Tower, a skyscraper in the Saudi Arabian capital's central financial district, had been hit by an air attack.",
+      "summary_zh": "沙特石油公司大楼是沙特阿拉伯首都中央金融区的一座摩天大楼,遭到空袭。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "title_zh": "在埃及发生火车碰撞,7人死亡,100多人受伤",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T19:58:02+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "title_zh": "脚印显示埃及火车坠毁后车厢脱轨",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T16:05:57+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "title_zh": "印度各地的家园和寺庙都闪耀着,",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T14:42:09+00:00",
+      "summary": "Traditional Diwali oil lamps or diyas",
+      "summary_zh": "传统迪瓦利油灯或天线"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "title_zh": "伊朗在一月抗争之后,",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T13:37:50+00:00",
+      "summary": "Reza Zanganeh was one of the three men executed in Iran",
+      "summary_zh": "Reza Zanganeh是伊朗处决的三人之一"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "title_zh": "克拉科夫的致命枪击案是如何发生的",
+      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T09:29:24+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "title_zh": "特朗普联盟被粉碎了 现在共和党会怎么做?",
+      "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T00:52:39+00:00",
+      "summary": "Republicans are in soul-searching mode after the coalition that powered Donald Trump to three straight presidential nominations imploded in spectacular fashion in the 2026 midterms.",
+      "summary_zh": "共和党在2026年中期让唐纳德·特朗普获得三次直线总统提名的联盟后陷入了灵魂搜索模式."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "title_zh": "德国人与希特勒摧毁鹰巢的撤退作战",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T00:48:59+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "title_zh": "\"Flat\",\"疲劳\",\"辛辣\": 平时阴沉的基维斯 带来新西兰多年来最紧凑的选举",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-07T21:36:16+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Paraguay's former president charged after bank collapse",
-      "title_zh": "巴拉圭前总统在银行倒闭后被起诉",
+      "title_zh": "巴拉圭前总统在银行倒闭后被指控",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T19:17:22+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -41,7 +131,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T18:14:38+00:00",
       "summary": "The US has announced a reward of up to $20 million for information about Iran's nuclear programme.",
-      "summary_zh": "美国宣布悬赏高达2000万美元,"
+      "summary_zh": "美国宣布对伊朗核计划信息给予高达2000万美元的奖励."
     },
     {
       "source": "BBC News",
@@ -51,17 +141,7 @@
       "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T17:58:41+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "title_zh": "Houthis说至少25人死于沙特空袭",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-07T17:09:24+00:00",
-      "summary": "Children were among the injured people seen being carried into a nearby hospital",
-      "summary_zh": "受伤者中有儿童被送往附近的医院。"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -71,17 +151,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T16:50:06+00:00",
       "summary": "Antonio Tajani says the hackers also targeted his family",
-      "summary_zh": "Antonio Tajani说黑客也以他的家人为目标"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "No clear winner after tight New Zealand general election",
-      "title_zh": "紧接着新西兰大选,",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-07T15:56:28+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "Antonio Tajani说黑客还攻击了他的家人"
     },
     {
       "source": "BBC News",
@@ -91,57 +161,47 @@
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T15:19:35+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "title_zh": "俄打出九分伤,在会谈前破坏乌克兰电力网",
+      "title_zh": "俄方击伤九处,破坏乌克兰的电力网络",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T12:49:36+00:00",
       "summary": "Employees inspect the damage of a kindergarten in Kyiv following a Russian missile attack",
-      "summary_zh": "雇员检查俄罗斯导弹袭击后基辅一所幼儿园被损坏的情况"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four things we learned this week about 2028 White House race",
-      "title_zh": "这周我们学到了四件事 大约2028年白宫比赛",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-07T12:23:28+00:00",
-      "summary": "Democratic Senator Jon Ossoff and Republican Vice-President JD Vance",
-      "summary_zh": "民主党参议员乔恩·奥索夫和共和党副总统JD·万斯"
+      "summary_zh": "雇员检查俄罗斯导弹袭击后基辅一所幼儿园的损坏情况"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "title_zh": "德克萨斯市长指示警方限制与ICE的合作",
+      "title_zh": "德州市长指示警方限制与ICE的合作",
       "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T08:15:55+00:00",
       "summary": "John Whitmire is also calling on Congress to change immigration laws",
-      "summary_zh": "约翰·惠特米尔也呼吁国会修改移民法"
+      "summary_zh": "约翰·惠特米尔也呼吁国会改变移民法"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "title_zh": "梅根的父亲托马斯・马克 在儿童性虐待材料指控后被软禁",
+      "title_zh": "Meghan的父亲Thomas Markle 在儿童性虐待材料指控后被软禁",
       "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T07:27:44+00:00",
       "summary": "Thomas Markle, the father of Meghan, Duchess of Sussex, has been placed under house detention at his assisted living facility in Florida after being charged over possession of child sex abuse material.",
-      "summary_zh": "托马斯·马克(Thomas Markle),梅根之父,苏塞克斯公爵夫人被以拥有儿童性虐待材料被控告后被软禁在佛罗里达州他得到援助的居住设施."
+      "summary_zh": "梅根的父亲托马斯·马克尔(Thomas Markle),萨塞克斯公爵夫人(Duchess of Sussex),因持有儿童性虐待材料而被起诉后,被软禁在佛罗里达州他的辅助生活设施."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "title_zh": "教皇在开始拉丁美洲之行时,",
+      "title_zh": "Pope在开始拉丁美洲之旅时,",
       "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T06:59:48+00:00",
       "summary": "Pope Leo XIV has told reporters travelling with him to Latin America he is \"in pretty good health\", in his first comments on his condition since having surgery for lung cancer.",
-      "summary_zh": "教皇利奥十四世在对肺癌外科手术后,"
+      "summary_zh": "教宗利奥十四世在对肺癌手术后,"
     },
     {
       "source": "BBC News",
@@ -151,7 +211,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-07T01:27:47+00:00",
       "summary": "Isaac Valdez had an epileptic seizure and his condition deteriorated rapidly",
-      "summary_zh": "Isaac Valdez癫痫发作,病情迅速恶化"
+      "summary_zh": "Isaac Valdez癫痫发作 病情迅速恶化"
     },
     {
       "source": "BBC News",
@@ -167,21 +227,21 @@
       "source": "BBC News",
       "source_lang": "en",
       "title": "With Stephen Miller pick, Trump readies for a battle",
-      "title_zh": "由史蒂芬·米勒挑选 特朗普的球迷们参加一场战斗",
+      "title_zh": "有了史蒂芬·米勒,特朗普的球迷们 开始战斗",
       "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-06T23:24:15+00:00",
       "summary": "In the aftermath of the Republican Party's sweeping defeat in Tuesday's midterm elections, Donald Trump said he would be willing to work with the newly ascendent Democrats in Congress.",
-      "summary_zh": "共和党在星期二的中期选举中大败后,唐纳德·特朗普表示他愿意与国会中新上台的民主党合作."
+      "summary_zh": "共和党在星期二中期选举中大败后,唐纳德·特朗普表示愿意与国会中新上台的民主党合作."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "AI stocks climb after trillions wiped from market values",
-      "title_zh": "AI股票在从市场价值中抹去数万亿后攀升",
+      "title_zh": "AI股票在从市场价值中抹去数万亿之后攀升",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-06T21:06:25+00:00",
       "summary": "Shares in artificial intelligence and technology firms have recovered slightly from an enormous sell-off that wiped trillions of dollars off stock values.",
-      "summary_zh": "人工智能和技术公司的股份从大量出售中略有回升,使数以万亿计的股票价值被抹去。"
+      "summary_zh": "人工智能和技术公司的股权从巨大的出售中略有回升,从股票价值中抹去了数万亿美元。"
     },
     {
       "source": "BBC News",
@@ -191,67 +251,27 @@
       "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-06T17:44:02+00:00",
       "summary": "Last month's train crash in which 69 people died was the second deadly accident on the same high-speed line this year",
-      "summary_zh": "上月列车相撞事故造成69人死亡 今年是同一高速线路上第二次致命事故"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "title_zh": "炸弹威胁对航空业构成严重挑战",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-06T16:18:44+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "上月列车撞车事故造成69人死亡 今年是同一高速线上的第二起致命事故"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "New wave of bomb threats hit European airlines",
-      "title_zh": "新一波炸弹威胁袭击了欧洲航空公司",
+      "title_zh": "新浪炸弹威胁袭击欧洲航空公司",
       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-06T15:25:35+00:00",
       "summary": "European airlines have again been hit with a new wave of bomb threats - in the third such incident this week.",
-      "summary_zh": "欧洲航空公司再次被新一波炸弹威胁所击中,这是本周发生的第三次此类事件。"
+      "summary_zh": "欧洲航空公司再次遭到新一轮炸弹威胁,这是本周发生的第三次此类事件。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "title_zh": "央视:特斯拉\"赛博特车\"是路末?.",
+      "title_zh": "央视:特斯拉\"赛博特车\"的终点站吗?.",
       "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-06T15:02:03+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "title_zh": "肯尼亚末日邪教领袖因谋杀191人被判无期徒刑",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-06T14:46:03+00:00",
-      "summary": "Paul Mackenzie's followers believed he was \"Jesus's mouthpiece\", the judge said last month",
-      "summary_zh": "Paul Mackenzie的追随者认为他是\"耶稣的口诀\" 法官上个月说"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "title_zh": "美国中期结果引发了以色列对未来两国关系的担忧",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-06T13:23:44+00:00",
-      "summary": "Israel and the US have been staunch allies for decades",
-      "summary_zh": "以色列和美国几十年来一直是坚定的盟友"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "title_zh": "炸弹骗局:信息揭示空中交通管制如何传递威胁",
-      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-05T18:22:46+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "NHKニュース",
@@ -261,13 +281,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,从北日本到西日本的气势非常不稳定,是\"评分短时暴雨\"的气象灾害预防报告等当地暴雨. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -277,37 +297,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 这种效应持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号勋位位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
