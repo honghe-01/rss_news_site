@@ -1,67 +1,377 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-11-10T04:05:34+00:00",
-  "count": 38,
+  "generated_at": "2026-11-11T01:56:36+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "title_zh": "美国豪斯街区竞相弹劾国防部长皮特·赫格塞斯 目前",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-11T01:14:40+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "title_zh": "包括RAF Fairford事件。",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-11T01:01:20+00:00",
+      "summary": "The US removed all its bombers from the UK's RAF Fairford base last month after a major incident in September that police described as \"suspicious\"",
+      "summary_zh": "美国在9月发生警方形容为\"可疑\"的重大事件后, 上个月从英国的RAF Fairford基地撤出了所有的轰炸机。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "title_zh": "\"他们也会杀了你\":索尼娅·甘地在印度政治中动荡的旅程",
+      "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-11T00:26:02+00:00",
+      "summary": "Sonia Gandhi has been one of the most powerful political figures in India's history",
+      "summary_zh": "索尼娅·甘地是印度历史上最强大的政治人物之一"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "title_zh": "真正的马德里维尼修斯 小小向在苏丹战争中失去双腿的男孩发出惊喜信息",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-11T00:19:42+00:00",
+      "summary": "Zaher is one of millions of children whose lives have been devastated by Sudan's civil war",
+      "summary_zh": "Zaher是数百万儿童之一,他们的生活受到苏丹内战的破坏。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "title_zh": "肯尼亚人担心厄尔尼诺受到洪水影响,",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-11T00:18:07+00:00",
+      "summary": "Agnes Shikoli says she fears either drowning, or being crushed by her house",
+      "summary_zh": "艾格尼丝·希科利说她害怕被淹死 或被房子压扁"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "title_zh": "Nvidia聘请美国大律师事务所调查中国间谍事件",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T22:52:15+00:00",
+      "summary": "Nvidia CEO Jensen Huang has become the face of the US AI boom",
+      "summary_zh": "Nvidia首席执行官Jensen Huang 已经成为美国AI繁荣的面孔"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "title_zh": "Meghan的父亲Thomas Markle被联邦拘留了 据称他拔了脚踝监视器",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T22:17:45+00:00",
+      "summary": "Thomas Markle was placed under house detention at his assisted living facility in Florida last week",
+      "summary_zh": "Thomas Markle上周被软禁在佛罗里达州 他的辅助生活设施里"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "title_zh": "乌克兰和谈的第一天是建设性的,泽连斯基说",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T21:21:55+00:00",
+      "summary": "Senior officials from Ukraine, Russia and the US will reconvene for a second day of talks on Wednesday",
+      "summary_zh": "乌克兰、俄罗斯和美国的高级官员将于星期三再次举行第二天会谈。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why does Australia want Brits to swap Sydney for the outback?",
+      "title_zh": "为什么澳大利亚希望英国人把悉尼换成后卫?",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T21:17:00+00:00",
+      "summary": "Paige Tomlinson from Barnsley loves the \"chilled\" lifestyle of Cairns in northern Australia",
+      "summary_zh": "来自巴恩斯利的佩奇·汤姆林森 喜欢澳大利亚北部凯恩斯的生活方式"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "title_zh": "西班牙国王和女王出席铁路失事受害者追悼会",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T20:46:40+00:00",
+      "summary": "Spain's King Felipe VI and Queen Letizia were greeted by bishops as they arrived at the funeral mass on Tuesday",
+      "summary_zh": "西班牙国王费利佩六世和女王莱蒂齐亚在星期二抵达葬礼弥撒时受到主教们的欢迎."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "title_zh": "美国联邦当局本可以防止爱泼斯坦犯罪 报告发现",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T20:36:58+00:00",
+      "summary": "Jeffrey Epstein died in a New York prison cell in 2019",
+      "summary_zh": "杰弗里·爱泼斯坦于2019年在纽约监狱的囚室去世."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+      "title_zh": "观察:E-bike电池在俄勒冈州家中爆炸成大火球",
+      "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T20:31:17+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "title_zh": "在英国被捕的涉嫌为俄罗斯间谍的美军士兵",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T20:20:04+00:00",
+      "summary": "The BBC understands the man was based at Imjin Barracks in Gloucestershire",
+      "summary_zh": "BBC知道这个人的基地在格洛斯特郡的伊姆金军营"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "title_zh": "在孟加拉爆发暴力,",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T19:26:42+00:00",
+      "summary": "Protesters have lit fires in the middle of roads",
+      "summary_zh": "抗议者在路中间点燃了火焰"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "title_zh": "GLP-1药物的制造者命令添加关于可能导致失明的罕见眼部疾病的警告",
+      "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:43:04+00:00",
+      "summary": "The US Food and Drug Administration (FDA) told makers of popular weight-loss GLP-1 drugs that they must add warning labels about a rare eye condition that can cause sudden blindness.",
+      "summary_zh": "美国食品和药品管理局(FDA)告诉那些流行的减重GLP-1药物的制造者,他们必须加入警告标签,说明罕见的眼部状况会导致突然失明."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "title_zh": "这是乌克兰的无人机部队 保护一个被摧毁的前线城市",
+      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:35:35+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "title_zh": "马来西亚前首相贪污数百万后,",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:33:51+00:00",
+      "summary": "Najib smiles to reporters at the Kuala Lumpur High Court after it cleared the way for him to go home",
+      "summary_zh": "纳吉在为他回家扫清道路后,对吉隆坡高等法院的记者笑了起来."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Arrests made after visit from former US President Biden",
+      "title_zh": "美国前总统拜登访问后被捕",
+      "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:07:56+00:00",
+      "summary": "During the visit of Joe Biden and his family protesters gathered outside, some were detained by gardaí",
+      "summary_zh": "Joe Biden和家人聚集在外,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "title_zh": "特立尼达和多巴哥的反同性恋法被推翻",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:04:18+00:00",
+      "summary": "The victory comes after an 11-year legal battle by dual-citizen Jason Jones",
+      "summary_zh": "这场胜利是在双重国籍的杰森·琼斯 11年的法律斗争之后取得的"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "title_zh": "为什么这些紫色的花 关闭街道在悉尼?",
+      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:03:52+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "title_zh": "以色列新议会宣誓就职 领导人争相组建政府",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T17:03:16+00:00",
+      "summary": "Gadi Eisenkot has vowed to oust Benjamin Netanyahu, but still has to get enough parties on board",
+      "summary_zh": "Gadi Eisenkot曾发誓要推翻本雅明·内塔尼亚胡 但还是得让足够多的政党加入"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "title_zh": "在俄罗斯希望乌克兰放弃的 被摧毁的前线城市里",
+      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T17:00:11+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "title_zh": "在法国的Mohamed Al Fayed侦测器中被捕,",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T16:19:48+00:00",
+      "summary": "Hundreds of women have come forward with abuse allegations against the former Harrods and Ritz Paris owner",
+      "summary_zh": "数以百计的女性 提出虐待前哈罗德和丽兹巴黎老板的指控"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "title_zh": "在保加利亚大雾中,12人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T16:07:51+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "title_zh": "和平委员会表示,",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T15:21:18+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "title_zh": "伊朗拒绝法国声称是超市冰箱黑客的背后",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T13:45:13+00:00",
+      "summary": "Shelves were left bare by the cyber-attacks",
+      "summary_zh": "谢尔夫被网络攻击暴露了"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "title_zh": "法国战时抵抗女英雄索朗·亚历山大逝世 享年104岁",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T13:23:54+00:00",
+      "summary": "Solange Alexandre twice turned down the Légion d'Honneur before relenting in 2024",
+      "summary_zh": "索兰吉·亚历山德雷两次拒绝了荣誉勋章 在2024年退赛前"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "California police investigate after 27 fall ill at half-marathon running event",
+      "title_zh": "加州警方在半马拉松赛事中27人生病后进行调查",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T13:22:12+00:00",
+      "summary": "Thousands took part in the event on a hotter-than-usual day in Santa Barbara",
+      "summary_zh": "数千人参加了圣巴巴拉比平常更热的一天的活动"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "title_zh": "西班牙北部背包爆炸后,警察死亡,另一名受伤",
+      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T11:25:46+00:00",
+      "summary": "A police officer has died and another has been injured in the northern Spanish city of Oviedo after an explosive device went off at the scene of a shooting.",
+      "summary_zh": "在西班牙北部城市奥维耶多,一名警察在枪击现场爆炸后死亡,另一名警察受伤。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+      "title_zh": "卫生部表示,",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T11:23:18+00:00",
+      "summary": "Israeli forces carried out a raid in the Old City of Nablus, near Burqa, on Sunday",
+      "summary_zh": "以色列部队于星期日在布尔卡附近的纳布卢斯老城发动袭击"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "title_zh": "特朗普说,美国对伊朗的更多攻击\"极不可能\".",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T09:40:31+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Man smashes Chinese government building with excavator",
+      "title_zh": "观察:人用挖土机粉碎中国政府大楼",
+      "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T09:37:15+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "title_zh": "刚果DR判处66名士兵死刑,",
+      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T08:39:05+00:00",
+      "summary": "The Congolese army has been fighting rebels for decades",
+      "summary_zh": "刚果军队与叛军战斗了几十年"
+    },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
       "title_zh": "特朗普说联邦调查局调查Nvidia老板与中国间谍的私情",
       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T03:58:13+00:00",
+      "published_at": "2026-11-10T08:23:21+00:00",
       "summary": "This video can not be played",
       "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
-      "title_zh": "特朗普说伊朗战争在军事上“有效结束”,",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T02:38:00+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
+      "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+      "title_zh": "数千人加入克拉科夫的无声游行,",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T05:38:53+00:00",
+      "summary": "Thousands gathered at Krakow's historic Market Square to honour the victims of Saturday's attack",
+      "summary_zh": "数以千计的人聚集在克拉科夫的历史性市场广场,纪念星期六袭击的受害者"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "title_zh": "Qantas将850个当地工作外包给印度,大部分角色转移到印度",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T01:55:22+00:00",
-      "summary": "Qantas CEO Vanessa Hudson apologised for the \"hard news\" of 850 job cuts",
-      "summary_zh": "Qantas CEO Vanessa Hudson为850个裁员的\"困难消息\"道歉"
+      "title": "'Cruise for life' ship seized in Singapore",
+      "title_zh": "在新加坡扣押的\"生命之道\"船",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T01:49:06+00:00",
+      "summary": "The arrest comes weeks after the cruise came to a sudden end, leaving 200 guests stranded in Cambodia",
+      "summary_zh": "在巡航突然结束数周后,200名客人滞留在柬埔寨"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "title_zh": "共和党议员强迫对国防部长赫格塞斯进行弹劾",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T01:38:49+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-      "title_zh": "Epstein的合伙人 仍然经营模范代理 '把我置于危险之中' 说虐待幸存者",
+      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
+      "title_zh": "Epstein的幸存者讲述了模范机构如何送她去虐待者家",
       "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-10T00:14:03+00:00",
       "summary": "Roza has decided to share her story with the BBC",
       "summary_zh": "Roza决定和BBC分享她的故事"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "title_zh": "美国官员说,",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T00:09:49+00:00",
-      "summary": "The talks come as Ukraine reels from a deadly Russian strike on a village in Zaporizhzhia last week, in which at least 40 people were killed",
-      "summary_zh": "上周俄罗斯对扎波里什齐亚一个村庄发动致命袭击,"
     },
     {
       "source": "BBC News",
@@ -72,246 +382,6 @@
       "published_at": "2026-11-10T00:08:28+00:00",
       "summary": "The superpower battle over energy – and what it means for your bills",
       "summary_zh": "超级强国争夺能源 以及这对你的账单的意义"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "title_zh": "关于黄詹森和中国间谍的外遇 我们所知的",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T23:51:22+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "title_zh": "法官驳回驳回Lindsay Clancy谋杀案的动议",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T23:28:53+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Dana White declines Trump’s offer to be White House press secretary",
-      "title_zh": "达纳 怀特拒绝了特朗普担任白宫新闻秘书的提议。",
-      "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T22:46:27+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "title_zh": "Zoe Kleinman:Nvidia CEO的婚外情会在美国和国外引起波澜",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T21:52:28+00:00",
-      "summary": "Jensen Huang, 63, has been called the 'Taylor Swift of tech' in the US",
-      "summary_zh": "Jensen Huang,63岁,在美国被称为\"科技的泰勒\""
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "title_zh": "被控查理·柯克杀手的审判日期定为2028年6月",
-      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T21:48:38+00:00",
-      "summary": "Kirk was a prominent conservative youth activist",
-      "summary_zh": "柯克是著名保守主义青年活动家"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "title_zh": "土耳其钢铁厂爆炸造成至少17人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T20:42:04+00:00",
-      "summary": "A fire broke out at the factory following the explosion which some eyewitnesses confused with an earthquake",
-      "summary_zh": "爆炸发生后工厂发生火灾,一些目击者将这次爆炸与地震混淆"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "title_zh": "法国指责伊朗超市冰箱黑客",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T20:20:08+00:00",
-      "summary": "Fridges and freezers in hundreds of supermarkets across France were affected last month",
-      "summary_zh": "上个月,法国数百家超市的食品和冰箱受到影响"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "title_zh": "Nvidia在调查黄某某与涉嫌中国间谍的私情时 也大吃一惊",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T19:58:01+00:00",
-      "summary": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
-      "summary_zh": "美国芯片制造商宣布将独立调查其首席执行官与据称的中国间谍的私情后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-      "title_zh": "数百万人填满布宜诺斯艾利斯街道欢迎教皇利奥十四世",
-      "link": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T19:09:27+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "title_zh": "俄罗斯最大的独立报纸 驱逐后关闭",
-      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T18:08:07+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "title_zh": "特朗普在此前接受结果后质疑中期选举诚信.",
-      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T17:47:29+00:00",
-      "summary": "Trump has previously cast doubt on the integrity of US election results",
-      "summary_zh": "特朗普此前曾对美国选举结果的完整性表示质疑."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "title_zh": "九名津巴布韦人据称企图离开南非到乌克兰作战",
-      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T17:06:18+00:00",
-      "summary": "Hundreds of African citizens have been recruited to join the Russia-Ukraine war in recent years (file photo)",
-      "summary_zh": "近年数百名非洲公民被征召加入俄乌战争(档案照片)."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-      "title_zh": "观察:法国贩毒团伙招募儿童实施暴力",
-      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T16:59:46+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "title_zh": "至少有39人死于来自欧洲的移民船在塞内加尔沉没",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T16:33:55+00:00",
-      "summary": "Spanish migrant rights group Walking Borders estimates that for every 100 people who reach the Canary Islands by sea, 21 die during the crossing (file photo)",
-      "summary_zh": "西班牙移民权益团体Walking Borders估计, 每100人乘海路抵达加那利群岛,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "title_zh": "谁是Nvidia调查的中国间谍嫌疑人?",
-      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T14:50:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thirteen migrants die after boat sinks off Crete",
-      "title_zh": "13名移民在克里特岛下沉后丧生",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T13:50:01+00:00",
-      "summary": "Greek authorities said approximately 1,700 migrants reached the island in the first three days of November",
-      "summary_zh": "希腊当局说,大约1 700名移民在11月头三天抵达该岛。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "title_zh": "警方说,Krakow枪击嫌犯在医院死了",
-      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T11:56:25+00:00",
-      "summary": "A gunman suspected of killing six people in central Krakow, as well as his parents and sister at their home, died in hospital early on Monday, Polish police have said.",
-      "summary_zh": "一名枪手涉嫌在克拉科夫市中心杀害六人,以及他的父母和妹妹在家中,星期一早早死于医院,波兰警方表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "title_zh": "Nvidia CEO与涉嫌中国间谍的外遇,",
-      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T07:10:11+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "title_zh": "在法国贩毒团伙内部 招募儿童杀人",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T06:00:26+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "title_zh": "游轮钢琴家在太平洋九小时后从海上获救",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-09T02:50:13+00:00",
-      "summary": "The man identified himself as a pianist on the Ovation of the Seas cruise ship (file photo)",
-      "summary_zh": "(原始内容存档于2017-09-21). 男子在海洋邮轮的Ovation(英语:Ovation of the Seas (film photo))上自称钢琴家."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "title_zh": "\"我对待这些人就像对待受害者\" 医生说,他治疗了克拉科夫枪击嫌犯",
-      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T22:05:12+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-      "title_zh": "脚印显示埃及火车坠毁后车厢脱轨",
-      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T16:05:57+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The Trump coalition is shattered - what will Republicans do now?",
-      "title_zh": "特朗普联盟被粉碎了 现在共和党会怎么做?",
-      "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T00:52:39+00:00",
-      "summary": "Republicans are in soul-searching mode after the coalition that powered Donald Trump to three straight presidential nominations imploded in spectacular fashion in the 2026 midterms.",
-      "summary_zh": "共和党在2026年中期让唐纳德·特朗普获得三次直线总统提名的联盟后陷入了灵魂搜索模式."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-      "title_zh": "德国人与希特勒摧毁鹰巢的撤退作战",
-      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T00:48:59+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "无法播放此视频"
     },
     {
       "source": "NHKニュース",
