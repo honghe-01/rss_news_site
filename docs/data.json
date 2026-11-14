@@ -1,337 +1,267 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-11-13T02:38:08+00:00",
-  "count": 40,
+  "generated_at": "2026-11-14T02:22:55+00:00",
+  "count": 33,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "title_zh": "澳大利亚足球运动员不会在酒店事件后被起诉 警察说",
-      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T02:33:07+00:00",
-      "summary": "Isaac Heeney is among the players police say will not be charged over an incident at a hotel in August",
-      "summary_zh": "Isaaac Heeney是玩家之一 警方表示不会因8月酒店事件被起诉"
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "title_zh": "大猩猩乔乔独处一生 他终于能找到同伴了吗?",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T00:03:56+00:00",
+      "summary": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "summary_zh": "大猩猩乔乔独处一生 他终于能找到同伴了吗?"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "title_zh": "Zelensky欢迎美国将欧洲带入俄罗斯和乌克兰和谈",
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T02:01:35+00:00",
-      "summary": "US envoys Jared Kushner (left) and Steve Witkoff (right) met Volodymyr Zelensky in Dublin on Thursday evening",
-      "summary_zh": "美国使节贾里德·库什纳(左)和史蒂夫·维特克夫(右)星期四晚上在都柏林会见了沃洛德米尔·泽连斯基。"
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "title_zh": "被捕的将军和一名受威胁的退伍军人:总统的儿子助长了乌干达的继任热",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T00:03:52+00:00",
+      "summary": "Gen Muhoozi Kainerugaba has signalled his intention to run for president in the next elections",
+      "summary_zh": "穆胡齐·凯纳鲁加巴将军表示,他打算在下次选举中竞选总统。"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "title_zh": "埃塞俄比亚最近的冲突真的结束了吗?",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T00:20:24+00:00",
-      "summary": "Pro-government forces marched into Tigray's capital less than two weeks after the war began",
-      "summary_zh": "亲政府部队在战争开始后不到两周就进军提格雷的首都"
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "title_zh": "SpaceX Starship火箭双鱼获试验的后退",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T00:01:01+00:00",
+      "summary": "The lower stage of the rocket was diverted to the ocean as it burst into flames",
+      "summary_zh": "火箭的下级被引向海洋 当它爆发成火焰"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "title_zh": "\"密西西比的奇迹\" - 新奥尔良邮轮碰撞后获救的所有乘客",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T23:40:45+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "title_zh": "印度的Gen Z抗议者在夏季获胜后,",
+      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T23:11:51+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "title_zh": "Jensen Huang的丑闻 如何给新加坡的生意带来头痛",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T23:00:31+00:00",
+      "summary": "Singapore has painstakingly cultivated a reputation as an open, business-friendly economy",
+      "summary_zh": "新加坡作为一个开放的、对商业友好的经济,努力培养了声誉。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "title_zh": "观察:巡洋舰在新奥尔良与货船碰撞后看到沉没",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T21:15:24+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title_zh": "微软在中断近24小时之后, 对全球停电深表遗憾",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T21:14:22+00:00",
+      "summary": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+      "summary_zh": "微软团队和Outlook等产品在星期五的大部分时间里已经停用"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "title_zh": "由于特朗普的财政部长责备内阁同事,",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T19:53:57+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "title_zh": "民主参议院领袖舒默准备面对领导挑战",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T19:03:10+00:00",
+      "summary": "Chris Van Hollen (L) says he will challenge Chuck Schumer (R) and that the Democrats need new leadership",
+      "summary_zh": "克里斯·范霍伦(英语:Chris Van Hollen (L))表示他将挑战查克·舒默(R),民主党需要新的领导才能."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "title_zh": "为什么微软的停电会持续这么久,电子邮件也会丢失?",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T18:36:57+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "title_zh": "拥护教皇利奥的秘鲁城市",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T18:34:45+00:00",
+      "summary": "The Pope, who has Peruvian citizenship, lived in Chiclayo for several years",
+      "summary_zh": "拥有秘鲁国籍的教皇在奇克拉约居住了几年"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "title_zh": "罗森伯格:不妥协普京对乌克兰和平的要求",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T16:40:31+00:00",
+      "summary": "Putin sounded uncompromising and confident at his talks with the US envoys",
+      "summary_zh": "普京在与美国特使的会谈中听起来毫不妥协并充满信心。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "title_zh": "德国间谍交出了新的权力 对付来自国外的\"骇人听闻的威胁\"",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T15:42:52+00:00",
+      "summary": "In future, German spies working for the BND foreign intelligence service will be able to conduct covert operations abroad",
+      "summary_zh": "将来,德国间谍在德国国家情报局工作 能够在国外秘密行动"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "title_zh": "印度东北部公交车与卡车相撞后至少24人死亡",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T15:16:50+00:00",
+      "summary": "The crash took place on a highway bordering Kaziranga National Park in the Golaghat district of Assam",
+      "summary_zh": "坠毁发生在阿萨姆州戈拉格哈特区Kaziranga国家公园附近的高速公路上"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "title_zh": "观察:潜水员探索美国船只在佛罗里达海岸沉没 创造新的礁石",
+      "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T15:09:40+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "title_zh": "协助在逃的乌克兰前总理在莫斯科最近发生的汽车爆炸中受伤",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T13:11:23+00:00",
+      "summary": "The site of a car explosion that wounded Sergei Zavorotny in Moscow",
+      "summary_zh": "莫斯科谢尔盖·扎沃罗特尼汽车爆炸现场"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "title_zh": "Nvidia的性丑闻是如何给白宫带来压力的",
+      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T12:22:30+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "title_zh": "观察:服务器故障如何摧毁微软团队和展望",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T11:43:27+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "title_zh": "罗萨利亚在拉丁格莱美斯获得历史性的第三张最佳专辑奖",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T11:38:54+00:00",
+      "summary": "Rosalía released her fourth album Lux last year to rave reviews",
+      "summary_zh": "Rosalía去年发行了她的第四张专辑Lux,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "title_zh": "澳大利亚板球的沙纸门又回来了,",
+      "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T08:20:28+00:00",
+      "summary": "Pat Cummins spent over an hour fielding questions over sandpapergate on Friday",
+      "summary_zh": "Pat Cummins在星期五用一个多小时在沙纸门上发问"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "title_zh": "非洲世界小姐美人女王身处绝境 作为美国签证限制咬伤",
+      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T07:01:43+00:00",
+      "summary": "Roseanna Hall is not the only African contestant to be affected by US visa restrictions",
+      "summary_zh": "罗莎娜 Hall不是唯一受美国签证限制影响的非洲选手"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "title_zh": "欧视歌曲大赛能否在亚洲成功?.",
+      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T02:24:11+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "title_zh": "军事墓地装饰: 赫克塞斯退役军人日的训斥传统",
+      "title_zh": "军事墓地装饰: 赫格塞斯退伍军人日的训斥传统",
       "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-12T23:42:52+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "title_zh": "斯坎道尔-赫特·恩维迪亚CEO Jensen 黄老二退出了,把人工智能芯片制造成巨型 陷入了混乱之中",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T23:34:05+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "title_zh": "寻找大西洋图伊邮轮失踪的英国女人",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T21:27:21+00:00",
-      "summary": "The woman disappeared while on the Marella Voyager (file photo)",
-      "summary_zh": "在Marella Voyager(档案照片)上,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "title_zh": "俄罗斯军舰在芬兰湾被乌克兰无人机击中",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T20:09:16+00:00",
-      "summary": "The Naro-Fominsk is believed to have headed back to port in St Petersburg after the attack",
-      "summary_zh": "纳罗-福明斯克号在袭击后 已经返回圣彼得堡的港口"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
-      "title_zh": "黄詹森辞职了 Nvidia接下来怎么办?",
-      "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T19:33:37+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "title_zh": "疑似炸弹作弊的威胁迫使意大利学校重新撤离",
-      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T19:23:02+00:00",
-      "summary": "Bomb squads have searched many schools but no devices have been found",
-      "summary_zh": "炸弹小组搜遍了多所学校,但没有找到任何装置"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "title_zh": "赫克塞斯颁发奖章给那些斥责他和团体的 战争纪念卫队",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T18:47:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "title_zh": "Jensen Huang的起伏——科技巨星如何陷入丑闻",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T17:11:48+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "title_zh": "卫生部表示,",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T16:54:12+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "title_zh": "数百万埃博拉美元失踪,",
-      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T15:18:20+00:00",
-      "summary": "MSF says that many frontline workers do not have the equipment they need",
-      "summary_zh": "无国界医生说,许多前线工人没有所需的设备。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-      "title_zh": "在斯科特·科洛姆之前 这两个人是美国密西西比州最后一位黑人参议员",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T14:12:55+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "title_zh": "哥伦比亚空袭中八人被击毙 目标为海湾部族帮派",
-      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T13:58:49+00:00",
-      "summary": "Colombia's president said one of 10 \"priority targets\" was among those killed",
-      "summary_zh": "哥伦比亚总统说,10个\"重点目标\"之一 在死者中"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "title_zh": "\"我们必须跑\": 在无人机威胁下,乌克兰电厂被摧毁",
+      "title_zh": "\"我们得走了\": 在无人机威胁下,乌克兰电厂被摧毁",
       "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-12T13:02:46+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "title_zh": "民主党人斯科特·科洛姆创造了密西西比州19世纪以来第一位黑人参议员的历史",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T12:56:55+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "title_zh": "在喜马拉雅山脉东部发现5个新的小型青蛙物种",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T11:07:19+00:00",
-      "summary": "A snail-eating horned frog discovered in India has been named Jingophrys tanogogo",
-      "summary_zh": "印度发现的一只吃蜗牛的角蛙 取名\"金戈菲斯·塔戈戈戈\""
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "title_zh": "印尼副总统辞职,",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T08:46:57+00:00",
-      "summary": "President Prabowo (left) said he was sorry to lose Gibran Rakabuming Raka (right), who has been mired in a growing controversy over his high school credentials",
-      "summary_zh": "总统普拉博沃(左翼)表示对失去Gibran Rakabuming Raka(右翼)感到遗憾,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "title_zh": "在4名女孩死于乌干达学校疑似中毒事件后调查的橙子",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T07:45:52+00:00",
-      "summary": "The school's head teacher has been arrested to assist with investigations",
-      "summary_zh": "学校校长被捕协助调查"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Can Nigeria's president regain voters' trust after painful first term?",
-      "title_zh": "尼日利亚总统能否在痛苦的第一任期后重新获得选民的信任?",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T07:30:44+00:00",
-      "summary": "President Tinubu faces re-election with the cost of living and economic hardship the major issues for many voters",
-      "summary_zh": "蒂努布总统面临连选连任,其生活代价和经济困难是许多选民面临的主要问题。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "title_zh": "美国SS号船 故意在佛罗里达州近海沉入礁石",
-      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T04:03:13+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "title_zh": "澳大利亚少年在灌木丛中失踪了6天,被活救出来",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T02:40:18+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "title_zh": "数千人加入西班牙总罢工后,巴塞罗那爆发了冲突",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T22:07:37+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "title_zh": "赫克塞斯和顾问被不明士兵墓的警卫训斥",
+      "title_zh": "Hegseth和顾问被不明士兵墓的警卫训斥",
       "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-11T21:43:35+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "title_zh": "意大利、苏格兰和北爱尔兰的学校在疑似炸弹骗局中受到威胁",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T18:38:45+00:00",
-      "summary": "These children had to leave their primary school in Rome as a result of one of the threats sent on Wednesday",
-      "summary_zh": "由于星期三发出威胁,这些儿童不得不离开在罗马的小学。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "title_zh": "在被活埋在南卡罗来纳州一箱子里后 11个月大的婴儿失踪了",
-      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T18:10:57+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "title_zh": "美国财政部长斯科特·贝森特在据称伊朗威胁后搬迁",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T16:45:11+00:00",
-      "summary": "The severity and nature of the threat against Scott Bessent remains unclear",
-      "summary_zh": "对斯科特·贝森特的威胁的严重性和性质仍不明确"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "title_zh": "绑架74岁,在阿根廷因从阳台跳出而逃脱软禁",
-      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T14:56:11+00:00",
-      "summary": "Leonardo Bertulazzi was first arrested in Buenos Aires in 2002",
-      "summary_zh": "莱昂纳多·贝尔图拉齐于2002年在布宜诺斯艾利斯首次被捕"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "title_zh": "四只灰熊在加拿大被母女致命袭击后被杀死",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T13:24:29+00:00",
-      "summary": "Between 10,000 and 13,000 grizzly bears are estimated to live in British Columbia (file image)",
-      "summary_zh": "估计有一万到一万三千只灰熊生活在不列颠哥伦比亚省(档案图像)."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "title_zh": "肯尼亚释放了最后一名埃博拉病人,这是迈向无病毒状态的重要里程碑",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T12:53:11+00:00",
-      "summary": "Kenya has reported no new confirmed cases since 20 October 2026",
-      "summary_zh": "肯尼亚自2026年10月20日以来已报告无新增确诊病例."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "title_zh": "Watch:小维尼修斯给苏丹无人机袭击后接受假肢的男孩的惊喜信息",
-      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T09:28:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "title_zh": "肯尼亚民众担心厄尔尼诺受到洪水影响,",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T00:18:07+00:00",
-      "summary": "Agnes Shikoli says she fears either drowning, or being crushed by her house",
-      "summary_zh": "Agnes Shikoli说她怕被淹死 或者被她的房子压倒"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "NHKニュース",
@@ -341,13 +271,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,北日本至西日本的气势非常不稳定,\"评分短时暴雨\"天气灾害预防报告等当地暴雨将7次宣布. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -357,37 +287,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号喇叭位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
