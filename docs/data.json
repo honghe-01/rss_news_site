@@ -1,47 +1,167 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-11-15T01:52:43+00:00",
-  "count": 30,
+  "generated_at": "2026-11-16T02:00:07+00:00",
+  "count": 27,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-      "title_zh": "我母亲告诉我,如果我寻求埃博拉的治疗,我会死。",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-15T00:06:55+00:00",
-      "summary": "When Dr Raymond Kasereka Kamwanga told his family he suspected he had Ebola and was going to a treatment centre in the city of Butembo in eastern Democratic Republic of Congo, his family were horrified.",
-      "summary_zh": "当雷蒙德·卡塞雷卡·卡姆旺加博士告诉家人他怀疑自己感染了埃博拉并正前往刚果民主共和国东部布滕博市的一个治疗中心时,他的家人感到惊骇."
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "title_zh": "怀疑中国间谍与恩维迪亚2025年离开的前老板有关",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-16T01:47:57+00:00",
+      "summary": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+      "summary_zh": "Nvidia丑闻通过硅谷 以及政治机构发出冲击波"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "title_zh": "柔道冠军以出人意料的候选资格动摇了法国总统竞选",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-15T00:06:51+00:00",
-      "summary": "Five-times Olympic champion Teddy Riner is one of France's most popular athletes",
-      "summary_zh": "五连冠奥运会冠军泰迪·里纳是法国最受欢迎的运动员之一."
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "title_zh": "服装厂在孟加拉国关闭,因为工人因为工资罢工",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-16T01:05:44+00:00",
+      "summary": "Protesters in Dhaka, Bangladesh, on Friday demanding a new minimum wage",
+      "summary_zh": "孟加拉国达卡抗议者要求新的最低工资,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "title_zh": "俄国的巨富已经在想象普京之后的未来了",
+      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-16T00:13:14+00:00",
+      "summary": "Russia's mega-rich are already imagining a future after Putin",
+      "summary_zh": "俄国的巨富已经在想象普京之后的未来了"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "title_zh": "数以千计的美国航班仍然被取消或推迟,",
+      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-16T00:03:29+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "title_zh": "墨西哥毒枭Miguel Angel Felix Gallardo80岁去世",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T23:52:10+00:00",
+      "summary": "Mexican prison police secured the hospital where Miguel Ángel Félix Gallardo was admitted earlier this week",
+      "summary_zh": "墨西哥监狱警察保护了Miguel Ángel Félix Gallardo本周早些时候入院的医院"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "title_zh": "NTSB说,新奥尔良邮轮碰撞前的引导故障",
+      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T22:57:27+00:00",
+      "summary": "The tanker that struck a cruise ship docked in New Orleans on Friday had a steering failure, officials said, citing preliminary findings into the collision.",
+      "summary_zh": "星期五袭击停靠在新奥尔良的一艘游轮的油轮发生转向故障,官员说,它引用了碰撞的初步发现."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "title_zh": "警察在巴黎10所学校和5所大学附近禁止抗议活动",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T22:28:54+00:00",
+      "summary": "Some 106,000 people from a wide range of groups took to the streets in France on Saturday, including 24,000 in Paris",
+      "summary_zh": "大约106 000名来自众多团体的人星期六走上法国街头,包括24 000人在巴黎。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "title_zh": "捷克人反对改变公共媒体资金的计划",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T21:03:40+00:00",
+      "summary": "Organisers said around 400,000 people took part on Sunday",
+      "summary_zh": "周日约有40万人参加,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "title_zh": "Zelensky敦促美国和Musk取消星际链接的限制,",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T19:32:39+00:00",
+      "summary": "Restrictions have affected Ukraine's ability to intercept Russian missiles and drones",
+      "summary_zh": "限制影响了乌克兰拦截俄罗斯导弹和无人机的能力"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "title_zh": "Pope Leo在秘鲁旅行期间乘坐直升机驾驶舱",
+      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T18:38:11+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "How telecoms upgrade work sparked US flight chaos",
-      "title_zh": "电讯升级如何引发美国航班混乱",
+      "title_zh": "电信升级如何引发美国航班混乱",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T23:11:27+00:00",
+      "published_at": "2026-11-15T14:57:15+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "title_zh": "Zellensky说,",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T22:37:25+00:00",
-      "summary": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, President Volodymyr Zelensky has said.",
-      "summary_zh": "沃洛德米尔·泽连斯基总统说,美国谈判者提出乌克兰从东顿巴斯地区撤出剩余部队以换取纳托成员身份的想法。"
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "title_zh": "伊朗用无人机袭击美国在巴林的军事基地",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T13:42:58+00:00",
+      "summary": "Iran and the US are vying for control of the Strait of Hormuz",
+      "summary_zh": "伊朗和美国争夺对霍尔木兹海峡的控制"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "title_zh": "韩国在税务会计考试中成绩最高的记分员 承认作弊",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T13:37:45+00:00",
+      "summary": "Han Won-seok confessed in a video on the YouTube channel of his lawyer",
+      "summary_zh": "韩元硕在律师YouTube频道的视频中供认"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "title_zh": "3人在约旦因致命的教堂大规模枪击被判处死刑",
+      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T11:06:32+00:00",
+      "summary": "Nine people were killed in the shooting at the Greek Orthodox church last month",
+      "summary_zh": "上个月在希腊东正教教堂的枪击中,有9人丧生"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "title_zh": "我母亲告诉我,如果我寻求埃博拉的治疗,我会死的。",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T00:06:55+00:00",
+      "summary": "When Dr Raymond Kasereka Kamwanga told his family he suspected he had Ebola and was going to a treatment centre in the city of Butembo in eastern Democratic Republic of Congo, his family were horrified.",
+      "summary_zh": "当雷蒙德·卡塞雷卡·卡姆旺加博士告诉家人他怀疑自己感染了埃博拉,正前往刚果民主共和国东部布滕博市的一个治疗中心时,他的家人感到惊骇。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "title_zh": "柔道冠军以惊人的候选资格动摇了法国总统竞选",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T00:06:51+00:00",
+      "summary": "Five-times Olympic champion Teddy Riner is one of France's most popular athletes",
+      "summary_zh": "五连冠奥运冠军泰迪·里纳是法国最受欢迎的运动员之一."
     },
     {
       "source": "BBC News",
@@ -51,17 +171,7 @@
       "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-14T22:09:40+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "title_zh": "\"密西西比的奇迹\" - 新奥尔良邮轮相撞后获救的所有乘客",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T20:23:06+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
@@ -71,167 +181,27 @@
       "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-14T19:14:33+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "title_zh": "美国交通秘书说,铜线升级导致全国航班停飞",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T19:12:25+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "title_zh": "意大利罚款Meta 8.05亿欧元,",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T18:28:06+00:00",
-      "summary": "Italian regulators have fined social media giant Meta €805m (£670m; $887m) for accessing Android users' photos without their specific consent.",
-      "summary_zh": "意大利监管者对社交媒体巨头Meta罚款80.5万欧元(6.7亿英镑;8.87亿美元),以在未经Android用户具体同意的情况下访问他们的照片."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "title_zh": "菲律宾夺得首个欧视歌曲亚洲大赛冠军.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T18:17:58+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "title_zh": "因此,瑟比拍卖了18000万梵高 质疑它\"在胁迫下出售\"的说法",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T18:00:10+00:00",
-      "summary": "Vincent van Gogh's Châtaigniers en fleurs is displayed ahead of this week's auction",
-      "summary_zh": "Vincent van Gogh的\"花花公子\" 本周拍卖前展出"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "title_zh": "川普,普京和习近平计划下周在中国举行历史性联席会议,白宫说",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T15:53:55+00:00",
-      "summary": "The leaders of the US, Russia and China will meet late next week, according to the White House",
-      "summary_zh": "白宫说,美国、俄罗斯和中国的领导人下周下旬开会"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "title_zh": "尼日利亚告诫不要因高度原因通过埃塞俄比亚的主要机场。",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T15:42:54+00:00",
-      "summary": "Bole International Airport is a major travel hub",
-      "summary_zh": "博尔国际机场是一个主要的出行枢纽"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "title_zh": "匈牙利当局在调查奥尔班时代部长时发现了20米",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T10:42:20+00:00",
-      "summary": "The seized money has been deposited into the country's national treasury",
-      "summary_zh": "缴获的钱已经存入国库"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "title_zh": "微软说,服务在一天后全面恢复全球停用",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T06:42:27+00:00",
-      "summary": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
-      "summary_zh": "微软Teams和Outlook等产品在星期五的大部分时间里已经停用"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "title_zh": "\"我们总有一天会回家\" - 美国旅客受到全国地面站的影响",
-      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T01:47:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "title_zh": "大猩猩乔乔独自度过了一生 他终于能找到同伴了吗?",
+      "title_zh": "大猩猩乔乔独处一生 他终于能找到同伴了吗?",
       "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-14T00:03:56+00:00",
       "summary": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "summary_zh": "大猩猩乔乔独自度过了一生 他终于能找到同伴了吗?"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "title_zh": "被捕将领和受威胁的退伍军人:总统之子助长乌干达接任热",
-      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T00:03:52+00:00",
-      "summary": "Gen Muhoozi Kainerugaba has signalled his intention to run for president in the next elections",
-      "summary_zh": "穆胡齐·凯内鲁加巴将军表示,他打算在下次选举中竞选总统。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "title_zh": "印度的Gen Z抗议者在夏天胜出后,",
-      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T23:11:51+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "大猩猩乔乔独处一生 他终于能找到同伴了吗?"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
       "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-      "title_zh": "观察:潜水员探索美国船只 在佛罗里达州近海沉没 造出新的礁石",
+      "title_zh": "观察:潜水员探索美国船只在佛罗里达海岸沉没 创造新的礁石",
       "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-13T15:09:40+00:00",
       "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "title_zh": "欧视歌曲大赛能否在亚洲成功?.",
-      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T02:24:11+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "title_zh": "军事墓地装饰: 赫克塞斯退役军人日的训斥传统",
-      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T23:42:52+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "title_zh": "\"我们必须跑\": 在无人机威胁下,乌克兰电厂被摧毁",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T13:02:46+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "summary_zh": "无法播放此视频"
     },
     {
       "source": "NHKニュース",
@@ -241,13 +211,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,北日本至西日本的气势非常不稳定,\"评分短时暴雨\"天气灾害预防报告等当地暴雨将7次宣布. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -257,37 +227,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号喇叭位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
