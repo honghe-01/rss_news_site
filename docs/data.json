@@ -1,13 +1,323 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-11-18T03:42:52+00:00",
-  "count": 35,
+  "generated_at": "2026-11-19T03:21:23+00:00",
+  "count": 40,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "title_zh": "Nvidia说,它不会恢复 黄作为公司报告 意外结果",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "title_zh": "埃隆·穆斯克说,美国中期支出创纪录是\"非常愚蠢的\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-19T02:59:06+00:00",
+      "summary": "Elon Musk said on Wednesday that he felt \"pretty foolish\" about the record sum he spent on the US midterm elections, following sweeping Republican defeats.",
+      "summary_zh": "Elon Musk星期三说,在共和党大败后,他对美国中期选举花费的创纪录的总和感到\"非常愚蠢\"."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "title_zh": "AI巨型Anthropic在股市首映前价值高达1.5吨",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-19T02:20:15+00:00",
+      "summary": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
+      "summary_zh": "Anthropic CEO Dario Amodei 很快成为科技界的大名"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "title_zh": "克里米亚桥又被袭击了 俄罗斯官员说",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-19T01:05:03+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "title_zh": "梵高画在纳粹历史中 逐行售出190.4万美元",
+      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-19T00:49:19+00:00",
+      "summary": "Sotheby's staff handle the \"Châtaigniers en fleurs\" painting by Vincent van Gogh at an auction preview in Hong Kong last month",
+      "summary_zh": "由Vincent van Gogh在上月香港的拍卖预览会上 负责制作“花旗画”,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "title_zh": "印度的宗教化妆——新皮尤研究对印度教徒和穆斯林的看法",
+      "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-19T00:38:52+00:00",
+      "summary": "An Indian woman lights lamps on the occasion of Diwali, the Hindu festival of lights",
+      "summary_zh": "印度女人在迪瓦利节的灯光"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "title_zh": "为什么Waymo从美国高速公路上拖走了所有的无驾驶汽车?",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T23:47:46+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "title_zh": "俄罗斯人因窥探美国Palantir国防公司对乌克兰的支持而被捕",
+      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T23:28:03+00:00",
+      "summary": "The alleged foreign agent was discovered with two Russian passports",
+      "summary_zh": "据称的外国特工被发现持有两本俄罗斯护照"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "title_zh": "在联合国法庭上,",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T23:04:06+00:00",
+      "summary": "When the judges of the International Court of Justice read out their verdict in the seven-year-old genocide case filed by The Gambia against Myanmar on Thursday, they could make history.",
+      "summary_zh": "当国际法院的法官在星期四宣读冈比亚对缅甸提出的长达七年的种族灭绝案件的判决时,他们可以创造历史。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "title_zh": "以色列在加沙黄线以外地区发射稀有地面行动",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T22:34:56+00:00",
+      "summary": "Residents fled the area near Nuseirat and Bureij refugee camps following the Israeli evacuation order",
+      "summary_zh": "根据以色列撤离命令,居民逃离Nuseirat和Bureij难民营附近地区"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+      "title_zh": "凯瑟琳去孟买妇产医院 在皇家旅行的最后一天",
+      "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T22:32:47+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "title_zh": "Anthropic破纪录IPO能阻止AI泡沫破裂吗?.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T21:28:08+00:00",
+      "summary": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "summary_zh": "Anthropic破纪录IPO能阻止AI泡沫破裂吗?."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "title_zh": "民主党提名哈基姆·杰弗里斯为美国众议院议长",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T21:13:06+00:00",
+      "summary": "Democrats in the US House of Representatives officially nominated Hakeem Jeffries to be Speaker, setting him on the path to become the first black lawmaker to lead the chamber.",
+      "summary_zh": "美国众议院的民主党人正式提名哈基姆·杰弗里斯为议长,使他走上成为首位领导众议院的黑人立法者的道路."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "title_zh": "威廉和凯特在结束印度之旅时认识了莫迪首相",
+      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T20:07:08+00:00",
+      "summary": "The Prince and Princess of Wales have met India's prime minister as they ended their three-day visit to the country.",
+      "summary_zh": "威尔士亲王和公主在结束对印度的三天访问时会见了印度总理."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+      "title_zh": "新视频显示克里米亚大桥部分坍塌前的几瞬间爆炸",
+      "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T17:09:43+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "title_zh": "在乌克兰与俄罗斯进行地下战争的旧天然气管道内",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T17:00:40+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "title_zh": "\"无人机不会飞到这里\"——BBC乌克兰新前线报道.",
+      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T17:00:04+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "title_zh": "Julio Iglesias因涉嫌性犯罪而面临法院调查",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T16:33:16+00:00",
+      "summary": "Singer Julio Iglesias is facing an investigation by Spain's national court over allegations he sexually abused and assaulted two female former staff members",
+      "summary_zh": "Singer Julio Iglesias正面临西班牙国家法院的调查,指控他性虐待和殴打两名女性前工作人员。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+      "title_zh": "菲奥娜在辛辛那提动物园吞下一顶帽子后 正在照顾河马",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T16:05:26+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "title_zh": "因1987年在法国公路沿线发现4岁女孩遭受酷刑和死亡而被监禁的父母",
+      "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T15:39:57+00:00",
+      "summary": "The mother of a four-year-old girl killed in central France and found along a motorway almost 40 years ago has been sentenced to 20 years in prison.",
+      "summary_zh": "一位四岁女孩的母亲在法国中部被杀,近40年前在一条高速公路上被发现,他被判处20年徒刑。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "title_zh": "科威特说,它击退了伊朗在两个月内 在美国袭击岛屿之后的第一次进攻",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T13:04:48+00:00",
+      "summary": "Kuwait condemned the attack, which Iran said targeted an airbase hosting US forces (file photo)",
+      "summary_zh": "科威特谴责这次袭击, 伊朗说袭击的目标是一个空军基地,"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Bancroft sandpaper claims heap pressure on Cummins",
+      "title_zh": "Bancroft沙纸声称对Cummins的压力很大",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T11:12:46+00:00",
+      "summary": "Cameron Bancroft and Steve Smith were banned for their part in the sandpaper plot",
+      "summary_zh": "卡梅隆·班克罗夫特和史蒂夫·史密斯 在沙纸阴谋中被禁"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+      "title_zh": "史蒂夫·罗森伯格:与习近平和特朗普的历史会谈是普京的政变",
+      "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T10:53:21+00:00",
+      "summary": "Nearly five years after the full-scale invasion of Ukraine turned him into a pariah, Putin is back on the global stage",
+      "summary_zh": "在乌克兰全面入侵近五年后,普京又回到了全球舞台上。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "title_zh": "民主党人赢得阿拉斯加参议院的赛事 在中期计票开始两周后",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T10:23:57+00:00",
+      "summary": "Mary Peltola defeated the state's Republican incumbent after a controversial race",
+      "summary_zh": "玛丽·佩尔托拉在一场有争议的比赛后击败了州内的共和党执政者"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "title_zh": "英国黑客通过短信计划窃取1100万美元 在美国入狱6年",
+      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T09:28:35+00:00",
+      "summary": "Spanish police arrested Buchanan in Madrid",
+      "summary_zh": "西班牙警察在马德里逮捕了布坎南"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "title_zh": "加纳6000万美元的总统喷气机引发公众愤怒",
+      "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T09:27:51+00:00",
+      "summary": "The French-made Falcon 6X replaces the ageing presidential jet, officials say",
+      "summary_zh": "法国制造的猎鹰6X取代了老化的总统专机,官员说"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+      "title_zh": "BBC记者讨论历史性的特朗普、习近平和普京会议",
+      "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T08:33:32+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+      "title_zh": "一条美国支持的矿山公路能给刚果带来和平与繁荣吗?",
+      "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T05:11:42+00:00",
+      "summary": "The Lobito Corridor links DR Congo's mineral-rich south to Angola's Atlantic coast through the Benguela Railway and the Port of Lobito",
+      "summary_zh": "洛比托走廊通过本格拉铁路和洛比托港将刚果矿产丰富的南部与安哥拉大西洋海岸连接起来。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "title_zh": "Rubio说,在一系列技术故障之后,美国不会“受到系统攻击”。",
+      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T04:57:06+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "无法播放此视频"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "title_zh": "Waymo从美国所有高速公路上开无驾驶的出租车",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T03:07:22+00:00",
+      "summary": "Waymo has temporarily suspended its driverless vehicles from operating on all US freeways, the company has said.",
+      "summary_zh": "该公司说,Waymo暂时停止了无驾驶车辆在美国所有高速公路上运行。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+      "title_zh": "巴基斯坦人因伊朗支持杀害特朗普的阴谋被判27年徒刑",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T02:29:52+00:00",
+      "summary": "A Pakistani man with ties to Iran's government has been sentenced to 27 years in prison for his role in a plot to assassinate US President Donald Trump and other officials.",
+      "summary_zh": "一名与伊朗政府有关系的巴基斯坦人因参与暗杀美国总统唐纳德·特朗普和其他官员的阴谋而被处以27年监禁."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Irishman charged with destroying US military aircraft with axe",
+      "title_zh": "爱尔兰人被指控用斧头摧毁美国军用飞机",
+      "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-18T02:00:37+00:00",
+      "summary": "The military plane, seen above, was effectively destroyed by the vandalism",
+      "summary_zh": "上面看到的这架军用飞机实际上被破坏"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "title_zh": "Nvidia说,它不会恢复黄,因为它报告销售量飞涨",
       "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-18T01:18:18+00:00",
       "summary": "Jensen Huang and Nvidia's interim CEO, Colette Kress",
@@ -16,272 +326,12 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "title_zh": "随着特朗普和习近平的相遇,中国AI梦想面临出人意料的障碍:恩维迪亚间谍丑闻",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T23:02:12+00:00",
-      "summary": "Jensen Huang is out but his shadow looms over the upcoming meeting between US President Donald Trump and his Chinese counterpart Xi Jinping this week.",
-      "summary_zh": "Jensen Huang出局了,但他的影子却笼罩着美国总统唐纳德·特朗普和中国同事习近平即将于本周举行的会谈。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "title_zh": "被英国警方逮捕的美国士兵 因涉嫌间谍 被美国军方拘留",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T22:46:30+00:00",
-      "summary": "Lt Col Brandon Carroll Tyner was arrested on 10 November",
-      "summary_zh": "Brandon Carroll Tyner中校于11月10日被捕。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
-      "title_zh": "Thomas Markle对菲律宾儿童性虐待材料的指控",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T22:44:15+00:00",
-      "summary": "Thomas Markle has also been charged in the US",
-      "summary_zh": "托马斯·马克也在美国被起诉"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "title_zh": "普京的克里米亚大桥部分倒塌,",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T21:24:35+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "title_zh": "俄军飞机坠毁,机上19人全部遇难",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T21:06:11+00:00",
-      "summary": "CCTV footage posted on social media, verified by Reuters and in part by the BBC, appears to shows the plane crash",
-      "summary_zh": "由路透社和英国广播公司部分核实的在社交媒体上张贴的闭路电视录像似乎显示飞机坠毁"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "title_zh": "在创纪录的病例数中,美国在26年后失去消灭麻疹的状态",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T21:04:00+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "title_zh": "巴勒斯坦妇女72人在西岸被以色列定居者枪杀,",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T20:30:20+00:00",
-      "summary": "A funeral was held for Fadda al-Fahidat in the village of al-Duyuk al-Tahta on Tuesday",
-      "summary_zh": "星期二在al-Duyuk al-Tahta村为Fadda al-Fahidat举行了葬礼"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "title_zh": "在与俄罗斯和中国总统会谈前,",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T20:25:46+00:00",
-      "summary": "US President Donald Trump has arrived in the Philippines' capital on the first leg of a trip to Asia, which will end in a meeting in China with its President Xi Jinping and his Russian counterpart Vladimir Putin.",
-      "summary_zh": "美国总统唐纳德·特朗普到菲律宾首都进行亚洲之行的一程,将在中国与其总统习近平和俄罗斯同行弗拉基米尔·普京会面后结束."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-      "title_zh": "卡尼看中国 特朗普关税挤压加拿大汽车工业",
-      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T18:58:57+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "title_zh": "联合王国对以色列西岸定居点的制裁公司",
-      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T18:27:27+00:00",
-      "summary": "The E1 area east of Jerusalem is a strategically important part of the occupied West Bank",
-      "summary_zh": "耶路撒冷以东的E1地区是被占领的西岸的战略要地。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "title_zh": "威廉和凯特在孟买庆祝地球之射奖得主",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T18:20:36+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Who to watch in Spain's election race",
-      "title_zh": "谁会在西班牙的大选中观看?",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T18:13:45+00:00",
-      "summary": "Pedro Sánchez (left), Alberto Núñez Feijóo (centre) and Santiago Abascal (right)",
-      "summary_zh": "佩德罗·桑切斯(左)、阿尔韦托·努涅斯·费约(中心)和圣地亚哥·阿巴斯卡尔(右)"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "title_zh": "川普说美国认真对待伊朗对华盛顿的阴谋",
-      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T17:37:04+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "title_zh": "\"这真的很可怕\": 母亲描述俄罗斯袭击基辅桥时的庇护情况。",
-      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T17:19:57+00:00",
-      "summary": "Masha was in her kitchen when she heard the explosions blast through the city",
-      "summary_zh": "玛莎在厨房听到爆炸声"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "title_zh": "BBC来自基辅桥被俄罗斯袭击的报道",
-      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T15:54:15+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "title_zh": "对克里米亚桥的攻击是如何展开的",
-      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T15:38:10+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "title_zh": "美国对东南亚的新芯片限制将如何冲击中国",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T14:25:45+00:00",
-      "summary": "Xi and Trump when they met in Beijing in May",
-      "summary_zh": "习近平和特朗普5月在北京相会时"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-      "title_zh": "枪手杀了报道毒品交易的哥斯达黎加记者",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T11:58:16+00:00",
-      "summary": "Police cordoned off the area where the shooting happened",
-      "summary_zh": "警察封锁了枪击现场"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "title_zh": "假装在新西兰 预订休假和购买控制台 - 粉丝们会去GTA 6",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T11:49:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "title_zh": "美国政府正在调查Nvidia公司合作伙伴Megaspeed的芯片出口",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T11:17:32+00:00",
-      "summary": "The United States has confirmed it is investigating computing company Megaspeed, suspecting it of violating US export controls by helping to ship tech giant Nvidia's chips to China.",
-      "summary_zh": "美国已证实正在调查Megapy电脑公司,怀疑该公司违反美国出口管制,协助将技术巨头Nvidia的芯片运到中国。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Will President Trump meet Kim Jong Un?",
-      "title_zh": "川普总统会会见金正恩吗?.",
-      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T10:13:27+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "title_zh": "印度妇女在2002年怀孕时被轮奸,",
-      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T09:27:44+00:00",
-      "summary": "The attack on Bilkis Bano and her family was one of the most horrific crimes during the Gujarat riots",
-      "summary_zh": "对Bilkis Bano及其家人的攻击是古吉拉特暴动期间最可怕的罪行之一。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-      "title_zh": "在中国的\"AI奇境\"里,习近平将在那里接待特朗普",
-      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T06:23:51+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "title_zh": "乌克兰指责俄罗斯在\"双塔\"袭击后将救援行动作为目标,",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T05:59:01+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
-      "title_zh": "教宗利奥在秘鲁向人群挥手时被飞起的玫瑰打中",
-      "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-16T21:12:13+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-      "title_zh": "街上板球有传奇,然后地铁骑乘 当威廉和凯特开始印度访问",
-      "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-16T15:08:59+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New York teen reunites with cat missing after building collapse",
-      "title_zh": "纽约青少年在建筑倒塌后 和失踪的猫团聚",
-      "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-16T04:36:45+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+      "title_zh": "巴基斯坦的太阳革命如此成功 国家电网落后",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-17T23:34:56+00:00",
+      "summary": "Faizal Shahzad wants to buy several more solar panels to make his home in rural Punjab fully self-sufficient",
+      "summary_zh": "Faizal Shahzad想再买几块太阳能电池板,"
     },
     {
       "source": "NHKニュース",
@@ -291,13 +341,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "published_at": "2026-08-08T14:17:32+00:00",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-      "summary_zh": "8日,从北日本到西日本的气候非常不稳定,当地出现暴雨,如\"记录了短期暴雨\"的天气灾害预防报告. 似乎9天后大气状态非常不稳定......"
+      "summary_zh": "8日,北日本至西日本的气势非常不稳定,\"评分短时暴雨\"天气灾害预防报告等当地暴雨将7次宣布. 9号的大气层非常不稳定..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_zh": "爱知县两起死亡案",
+      "title_zh": "爱知县两人死亡",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "published_at": "2026-08-08T14:06:51+00:00",
       "summary": "",
@@ -307,37 +357,37 @@
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "第13号 效果持续了很长一段时间. 15号勋的动向是什么?",
+      "title_zh": "第13号 效果持续了很长时间. 15号勋的动向是什么?",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "published_at": "2026-08-08T12:54:30+00:00",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "summary_zh": "第13号大而很强的喇叭位于冲绳主岛的西海岸. 在冲绳和阿摩地,风雨的影响持续了很长一段时间,请继续受到泥沙灾害等严重警报."
+      "summary_zh": "大型且非常坚固的13号喇叭位于冲绳主岛的西海岸. 在冲绳和阿美,风雨的影响持续了很长时间,请继续严重警惕泥沙灾害."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "一郎在水手OB的自家跑道比赛中的乐趣",
+      "title_zh": "一郎在水手比赛中的乐趣",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "published_at": "2026-08-08T11:55:50+00:00",
       "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせま…",
-      "summary_zh": "去年曾是美国棒球会馆的一郎,活跃于大联盟会,船母会等,参加由OB举办的全垒打比赛,以配合船母会成立50周年."
+      "summary_zh": "去年曾是美国棒球馆的一郎,一直活跃于大联盟,船坞等赛事中,参加OB的全垒打比赛,共商船坞成立50周年."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_zh": "10年前的熊本地震 在专家分析旁边的地震区",
+      "title_zh": "熊本地震发生于十年前的地震附近",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "published_at": "2026-08-08T11:53:49+00:00",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残ってい…",
-      "summary_zh": "地震发生于7月28日,有专家分析认为10年前熊本地震期间活跃地旁边的地区被转移. 断层区..."
+      "summary_zh": "地震发生于7月28日,专家分析认为10年前熊本地震期间活跃地点旁边的地区被转移. 断层区..."
     },
     {
       "source": "NHKニュース",
       "source_lang": "ja",
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_zh": "橄榄球联盟 一名斐济选手去世 海特克传来",
+      "title_zh": "橄榄球联盟 1名斐济选手死于疑似中暑",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "published_at": "2026-08-08T11:29:37+00:00",
       "summary": "",
