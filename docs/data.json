@@ -1,67 +1,197 @@
 {
   "site_title": "Michael News",
-  "generated_at": "2026-11-27T04:13:04+00:00",
-  "count": 38,
+  "generated_at": "2026-11-28T03:54:07+00:00",
+  "count": 29,
   "items": [
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "title_zh": "新西兰的执政联盟未能以一个席位达到议会多数",
-      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-27T03:28:15+00:00",
-      "summary": "If the ruling bloc cannot reach a deal, the country may have to go back to the polls",
-      "summary_zh": "如果统治集团无法达成协议,国家可能必须回到民意测验中去"
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "title_zh": "尼日利亚的\"最后的硬汉\"成为网络迷因",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-28T01:20:35+00:00",
+      "summary": "For generations of Nigerians, Pete Edochie was more than a celebrated actor.",
+      "summary_zh": "在几代尼日利亚人中,皮特·埃多奇不仅仅是一个被赞誉的演员."
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "title_zh": "感恩节大风暴带来洪水 整个美国的航班延误",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-27T00:52:11+00:00",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "title_zh": "\"Poison server\" Kenneth Law在法庭上向受害者家属道歉",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-28T00:56:55+00:00",
+      "summary": "The Canadian man who sold toxic chemicals through online suicide forums in 40 countries apologised in court to the families of the victims, saying he deeply regrets his actions and will never repeat them.",
+      "summary_zh": "通过40个国家的在线自杀论坛出售有毒化学品的加拿大人在法庭上向被害者家属道歉,说他对自己的行为深表遗憾,永远不会重演."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "title_zh": "印度\"塔玛莎王后\"的粉丝为一场从未发生过的演出付出了代价",
+      "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-28T00:50:11+00:00",
+      "summary": "Vithabhai Narayangaonkar was a legend in Maharashtra's folk theatre",
+      "summary_zh": "Vithabhai Narayangaonkar是马哈拉施特拉邦民间剧院的传奇人物"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "title_zh": "一个诊所正在重新评估患有自闭症和自闭症的患者,但批评者担心这会加深耻辱感。",
+      "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-28T00:05:17+00:00",
+      "summary": "Johanna, 24, began questioning her ADHD diagnosis when she discovered it could act as a barrier to becoming a police officer",
+      "summary_zh": "24岁的Johanna 开始质疑她的ADHD诊断 当她发现这可以成为一名警官的障碍"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "title_zh": "在中国壮观的崛起背后 反抗的声音说他们被淹死了",
+      "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T23:02:35+00:00",
+      "summary": "China's economic might is drowning out our voices, say activists and dissidents",
+      "summary_zh": "中国的经济实力正在淹没我们的声音, 说活动家和持不同政见者"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "title_zh": "西班牙首相和对手在最后投出选票",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T21:55:53+00:00",
+      "summary": "Pedro Sánchez accused his opponents of hurling insults and lies but his conservative rival has promised a new era of politics",
+      "summary_zh": "佩德罗·桑切斯指责他的对手 提出污辱和谎言 但他的保守对手 已经承诺进入一个新的政治时代"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "title_zh": "装有7 000吨柴油并拖出伊比萨的油轮",
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T20:34:45+00:00",
+      "summary": "An official inspects the partially submerged tanker - the rescue operation is expected to be challenging",
+      "summary_zh": "一名官员检查了部分被淹没的油轮 -- -- 预计救援行动将面临挑战。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "title_zh": "\"我们不能轻易放弃\": 游行乐队在感恩节游行后为支付费用而摇摆不定",
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T20:06:31+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-      "title_zh": "Met Police毁了我的生活 说肯尼亚人因袭击英国夫妇而被判错误",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-27T00:48:11+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "title_zh": "厌倦了战争,但是没有退缩的迹象 基辅面临又一个受惩罚的冬天",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T18:42:50+00:00",
+      "summary": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "summary_zh": "厌倦了战争,但是没有退缩的迹象 基辅面临又一个受惩罚的冬天"
     },
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-      "title_zh": "谢赫·哈西娜的回归计划让孟加拉国陷入了边缘,印度陷入了困境",
-      "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-27T00:47:43+00:00",
-      "summary": "Indian Prime Minister Narendra Modi with Sheikh Hasina in Delhi in 2024 - Hasina was a close ally of India during her years in power",
-      "summary_zh": "印度总理纳伦德拉·莫迪(Narendra Modi)与谢赫·哈西娜(Sheikh Hasina)于2024年在德里相接-哈西娜是印度执政期间的亲密盟友."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-      "title_zh": "我爸爸的手表在他死后就停了 我从香港起火的灰烬里找到的",
-      "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T23:03:16+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "title_zh": "美国过于关注中东,",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "title_zh": "Zelensky在BBC的采访中批评了特朗普与普丁的友谊“离谱”",
       "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T22:49:27+00:00",
+      "published_at": "2026-11-27T18:00:40+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "title_zh": "肯尼亚末日邪教领袖又被判123起死亡",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T17:19:31+00:00",
+      "summary": "The self-styled pastor was arrested in 2023 after the discovery of more than 400 bodies in shallow graves",
+      "summary_zh": "2023年在浅坟出土了400多具尸体后,自封的牧师被拘捕"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "title_zh": "加拿大的最高法院基本上坚持魁北克禁止公务员使用宗教标志",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T16:53:46+00:00",
+      "summary": "Canada's top court has largely upheld a Quebec law banning public sector workers from wearing religious symbols, including the hijab and the cross.",
+      "summary_zh": "加拿大最高法院基本上维持魁北克法律,禁止公共部门工人穿戴宗教标志,包括头巾和十字架。"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "title_zh": "严重的感恩节风暴使道路被淹,树木倒下",
+      "link": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T16:46:47+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "title_zh": "巴西推回了Macron,称其肉\"被吃\"",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T15:54:15+00:00",
+      "summary": "The French president said he was proud to have led efforts to ban Brazilian meat products",
+      "summary_zh": "法国总统说,他自豪地领导了禁止巴西肉制品的努力"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "title_zh": "阿姆斯特丹机场行李内发现的稀有乌龟",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T13:38:07+00:00",
+      "summary": "An official holds one of the seized Vallarta mud turtles - they are now receiving care at a specialised sanctuary",
+      "summary_zh": "一名官员扣押了被扣押的瓦拉尔塔泥龟中的一只——他们现在在一个专门的避难所接受护理."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "title_zh": "南亚数以百万计的妻子没有受到婚内强奸的保护-研究",
+      "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T08:13:43+00:00",
+      "summary": "Millions of women and girls remain unprotected in South Asia because of inadequate laws to deal with marital rape",
+      "summary_zh": "在南亚,由于处理婚内强奸的法律不足,数百万妇女和女孩仍然得不到保护"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "title_zh": "意大利前警察局长拒绝了黑手党的死前调查指控",
+      "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T07:28:10+00:00",
+      "summary": "Gianni De Gennaro worked in the anti-mafia directorate and became police chief before he headed Italian defence company Finmeccanica, later renamed Leonardo",
+      "summary_zh": "吉安尼·德·根纳罗在反黑手党局工作,在领导意大利Finmecccanica国防公司之前成为了警察局长,后更名为Leonardo."
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "title_zh": "\"这是不可能的\": 西班牙年轻人在星期日选举前在住房上",
+      "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T06:09:31+00:00",
+      "summary": "This video can not be played",
+      "summary_zh": "此视频无法播放"
+    },
+    {
+      "source": "BBC News",
+      "source_lang": "en",
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "title_zh": "在沙特阿拉伯境内,胡塞人的攻击考验着王国的安全形象",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T06:04:51+00:00",
+      "summary": "Houthis said they were responsible for an attack on an oil facility south of Riyadh on 3 October, one of a growing number",
+      "summary_zh": "Houthis说,他们应对10月3日对利雅得以南一个石油设施的袭击负责,这是越来越多的石油设施之一。"
     },
     {
       "source": "BBC News",
@@ -76,26 +206,6 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "title_zh": "伊比萨附近装载了7 000吨起重油轮,造成一人死亡",
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T22:01:22+00:00",
-      "summary": "The Med Emre vessel capsized near Ibiza and Spain's Clara Campoamor, a pollution control vessel, was sent to assess the environmental impact",
-      "summary_zh": "在Ibiza和西班牙的Clara Campoamor附近,Med Emre号被撞倒,这是一艘污染控制船只,它被派去评估环境影响。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "title_zh": "两名意大利人在科威特被击毙,伊朗否认对此负责",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T21:17:53+00:00",
-      "summary": "A Rheinmetall facility in Kuwait was targeted by Iran, Italian and Kuwaiti authorities said",
-      "summary_zh": "伊朗、意大利和科威特当局以科威特的Rheinmetall设施为目标。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
       "title_zh": "看着:屋顶被撕开,街道被水淹没,美国天气恶劣",
       "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
@@ -106,210 +216,10 @@
     {
       "source": "BBC News",
       "source_lang": "en",
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "title_zh": "曼谷炼油厂爆炸后有9人受伤,其中3人伤势严重",
-      "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T16:21:19+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "title_zh": "联合王国-欧盟新条约有10年终止条款",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T15:23:17+00:00",
-      "summary": "The government and the EU have published the texts of two treaties agreed last week as part of a post-Brexit reset.",
-      "summary_zh": "政府和欧盟已经公布了上星期商定的两项条约的文本,作为后布列克谢特重置的一部分."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "title_zh": "Gérard Depardieu被控2018年强奸女演员接受审判,法庭规则",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T14:44:26+00:00",
-      "summary": "Gérard Depardieu has faced a series of allegations in recent years on film sets and elsewhere",
-      "summary_zh": "Gérard Depardieu近年来在电影集和其他地方面临一系列指控。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "title_zh": "美国怀孕的囚犯在医疗预约后在狱中越狱",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T14:35:22+00:00",
-      "summary": "A pregnant inmate has escaped from custody in the US state of New Mexico, after taking control of a police vehicle while returning to prison from a prenatal appointment, the state's corrections department has said.",
-      "summary_zh": "一名怀孕的囚犯在美国新墨西哥州越狱,在产前预约返回监狱时控制了一辆警车后,该州的惩教部门表示."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "title_zh": "悼念杜兰·杜兰吉他手安迪·泰勒去世后65岁",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T12:33:23+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "title_zh": "埃及当局逮捕了因油轮坠毁而死亡的机动车手。",
-      "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T12:16:06+00:00",
-      "summary": "Egyptian authorities have arrested a man accused of causing a tanker crash and massive fire that killed 31 people on a busy Cairo highway.",
-      "summary_zh": "埃及当局逮捕了一名被指控造成油轮相撞和大火的人,在繁忙的开罗高速公路上造成31人死亡."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "title_zh": "数百万人的希望,因为便宜的艾滋病毒预防刺入非洲",
-      "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T11:00:39+00:00",
-      "summary": "Lenacapavir has received WHO's approval for HIV prevention",
-      "summary_zh": "Lenacapavir获得了世界卫生组织的艾滋病毒预防批准。"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "title_zh": "缅甸拒绝遵守国际法院灭绝种族罪判决的部分内容",
-      "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T10:25:51+00:00",
-      "summary": "Myanmar's president Min Aung Hlaing has led the country since he seized power in a 2021 military coup",
-      "summary_zh": "缅甸总统明昂莱在2021年军事政变中夺权后,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-      "title_zh": "哈马斯政治官员和妻子,8名巴勒斯坦人在以色列对加沙的袭击中丧生",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T10:14:08+00:00",
-      "summary": "Dozens of Palestinians have been killed in Gaza in near daily air strikes over the past month",
-      "summary_zh": "过去一个月,近日空袭造成数十名巴勒斯坦人在加沙丧生"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-      "title_zh": "当参议员带孩子上班时,澳大利亚议会的政治和偷窥",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T09:49:42+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "title_zh": "Musk计划将一百万颗SpaceX数据卫星送入空间",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T09:27:44+00:00",
-      "summary": "SpaceX is an aerospace company that builds rockets and spacecraft, as well as running satellite services",
-      "summary_zh": "SpaceX是一家制造火箭和航天器以及运营卫星服务的航空航天公司."
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
-      "title_zh": "看:阿拉斯加飞行队将感恩节火鸡空投到偏远社区.",
-      "link": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T09:22:34+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
-      "title_zh": "几内亚命令居民在垃圾场倒塌几个月后清理首都",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T07:43:48+00:00",
-      "summary": "Dozens of people were killed in August after a rubbish landfill collapsed in Conakry",
-      "summary_zh": "8月,科纳克里垃圾填埋场倒塌后,数十人被炸死"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-      "title_zh": "十三个死了,就像我的灾难 凸显出非法猎取黄金",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T07:31:24+00:00",
-      "summary": "The flooded mine is in Bogor in West Java",
-      "summary_zh": "被淹的矿井在西爪哇的茂物"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "DR Congo demands answers over Ugandan general's threats",
-      "title_zh": "DR 刚果要求解答乌干达将军的威胁",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T07:24:39+00:00",
-      "summary": "Gen Muhoozi Kainerugaba's social media posts have previously sparked diplomatic tensions",
-      "summary_zh": "Gen Muhoozi Kainerugaba的社交媒体文章曾引发外交紧张,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Desperate appeals from women on death row in Iran after protests",
-      "title_zh": "伊朗死囚室女性在抗议后发出的绝望呼吁",
-      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T06:01:58+00:00",
-      "summary": "Twin sisters Romina (left) and Taraneh Rahimi were arrested in late January, their cousin says",
-      "summary_zh": "双胞胎姐妹Romina(左)和Taraneh Rahimi于一月下旬被捕,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
       "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
       "title_zh": "观察:BBC对抗被怀疑向移民团伙提供小船的德国人",
       "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-11-26T05:00:27+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "title_zh": "BBC发现,德国船商涉嫌提供海峡走私团伙",
-      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T05:00:24+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-      "title_zh": "法国政治主流面临总统投票失败,",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T00:23:27+00:00",
-      "summary": "Protests on the streets of France over students' concerns and the cost of living have been marked by looting and unrest in recent weeks",
-      "summary_zh": "法国街头抗议学生担心及生活费用,"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
-      "title_zh": "装修是为了改善香港的民宅,",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-25T23:26:50+00:00",
-      "summary": "This video can not be played",
-      "summary_zh": "此视频无法播放"
-    },
-    {
-      "source": "BBC News",
-      "source_lang": "en",
-      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
-      "title_zh": "纳萨号飞船撞上小行星 接下来会发生什么",
-      "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-25T20:11:46+00:00",
       "summary": "This video can not be played",
       "summary_zh": "此视频无法播放"
     },
